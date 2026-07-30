@@ -1,0 +1,1959 @@
+creatures: // outfits
+  1 // naruto classico
+    name-displacement: -44 -26
+  2 // sasuke classico
+    name-displacement: -44 -26
+  3 // sakura classico
+    name-displacement: -44 -26
+  4 // ino classico
+    name-displacement: -44 -26
+  5 // shikamaru classico
+    name-displacement: -44 -26
+  6 // choji classico
+    name-displacement: -44 -26
+  7 // tenten classico
+    name-displacement: -44 -26
+  8 // rock lee classico
+    name-displacement: -44 -26
+  9 // neji classico
+    name-displacement: -44 -26
+  10 // guren classico
+    name-displacement: -44 -26
+  11 // kurenai classico
+    name-displacement: -44 -26
+  12 // haku classico
+    name-displacement: -44 -26
+  13 // gaara classico
+    name-displacement: -44 -26
+  14 // temari classico
+    name-displacement: -44 -26
+  15 // deidara classico
+    name-displacement: -44 -26
+  16 // kisame classico
+    name-displacement: -44 -26
+  17 // madara classico
+    name-displacement: -44 -26
+  18 // tobirama classico
+    name-displacement: -44 -26
+  19 // hashirama classico
+    name-displacement: -44 -26
+  20 // hidan classico
+    name-displacement: -44 -26
+  21 // shizune classico
+    name-displacement: -44 -26
+  22 // tsunade classico
+    name-displacement: -44 -26
+  23 // sakura classico
+    name-displacement: -44 -26
+  24 // kimimaro classico
+    name-displacement: -44 -26
+  25 // itachi classico
+    name-displacement: -44 -26
+  26 // shino classico
+    name-displacement: -44 -26
+  27 // konan classico
+    name-displacement: -44 -26
+  28 // killer bee classico
+    name-displacement: -44 -26
+  29 // boruto classico
+    name-displacement: -44 -26
+  30 // sarada classico
+    name-displacement: -44 -26
+  31 // mitsuki classico
+    name-displacement: -44 -26
+  32 // zabuza classico
+    name-displacement: -44 -26
+  33 // hinata classico
+    name-displacement: -44 -26
+  34 // kiba classico
+    name-displacement: -44 -26
+  35 // kankuro classico
+    name-displacement: -44 -26
+  96
+    hidecreatureinfo
+  97
+    async-outfit
+    hidecreatureinfo
+  99 // naruto classico
+    name-displacement: -44 -26
+  100 // sombra do naruto
+    name-displacement: -20 -5
+  105 // outfit da condition invisible
+    name-displacement: -20 -5
+  200 // traje sauna branco underwater
+    name-displacement: -22 8
+    outfit-displacement: 0 10
+  201 // traje sauna branco female 
+    name-displacement: -44 -26
+  202 // traje sauna negro female 
+    name-displacement: -44 -26
+  203 // traje sauna branco male 
+    name-displacement: -20 -13
+  204 // traje sauna negro male 
+    name-displacement: -20 -13
+  247
+    name-displacement: -44 -26
+  248
+    name-displacement: -44 -26
+  249
+    name-displacement: -44 -26
+  250
+    name-displacement: -44 -26
+  251
+    name-displacement: -44 -26
+  252
+    name-displacement: -44 -26
+  253
+    name-displacement: -44 -26
+  254
+    name-displacement: -44 -26
+  300 // nao sei
+    async-outfit
+    name-displacement: -36 -19
+    hidecreatureinfo
+  301 // naruto shippuden
+    name-displacement: -44 -26
+  302 // sasuke shippuden
+    name-displacement: -44 -26
+  303 // sakura shippuden
+    name-displacement: -44 -26
+  304 // ino shippuden
+    name-displacement: -44 -26
+  305 // shikamaru shippuden
+    name-displacement: -44 -26
+  306 // choji shippuden
+    name-displacement: -44 -26
+  307 // tenten shippuden
+    name-displacement: -44 -26
+  308
+    name-displacement: -44 -26
+  309
+    name-displacement: -44 -26
+  310
+    name-displacement: -44 -26
+  311
+    name-displacement: -44 -26
+  312
+    name-displacement: -44 -26
+  313
+    name-displacement: -44 -26
+  314
+    name-displacement: -44 -26
+  315
+    name-displacement: -44 -26
+  316
+    name-displacement: -44 -26
+  317
+    name-displacement: -44 -26
+  318
+    name-displacement: -44 -26
+  319
+    name-displacement: -44 -26
+  320
+    name-displacement: -44 -26
+  321
+    name-displacement: -44 -26
+  322
+    name-displacement: -44 -26
+  323
+    name-displacement: -44 -26
+  324
+    name-displacement: -44 -26
+  325
+    name-displacement: -44 -26
+  326
+    name-displacement: -44 -26
+  327
+    name-displacement: -44 -26
+  328
+    name-displacement: -44 -26
+  329
+    name-displacement: -44 -26
+  330
+    name-displacement: -44 -26
+  331
+    name-displacement: -44 -26
+  332
+    name-displacement: -44 -26
+  333
+    name-displacement: -44 -26
+  334
+    name-displacement: -44 -26
+  335
+    name-displacement: -44 -26
+  382
+    name-displacement: -44 -26
+  385
+    name-displacement: -44 -26
+  386
+    name-displacement: -44 -26
+  387
+    name-displacement: -44 -26
+  401 // naruto shop skin
+    name-displacement: -44 -26
+  402 // sasuke shop skin
+    name-displacement: -44 -26
+  403 // sakura shop skin
+    name-displacement: -44 -26
+  404
+    name-displacement: -44 -26
+  405
+    name-displacement: -44 -26
+  406
+    name-displacement: -44 -26
+  407
+    name-displacement: -44 -26
+  408
+    name-displacement: -44 -26
+  409
+    name-displacement: -44 -26
+  410
+    name-displacement: -44 -26
+  411
+    name-displacement: -44 -26
+  412
+    name-displacement: -44 -26
+  413
+    name-displacement: -44 -26
+  414
+    name-displacement: -44 -26
+  415
+    name-displacement: -44 -26
+  416
+    name-displacement: -44 -26
+  417
+    name-displacement: -44 -26
+  418
+    name-displacement: -44 -26
+  419
+    name-displacement: -44 -26
+  420
+    name-displacement: -44 -26
+  421
+    name-displacement: -44 -26
+  422
+    name-displacement: -44 -26
+  423
+    name-displacement: -44 -26
+  424
+    name-displacement: -44 -26
+  425
+    name-displacement: -44 -26
+  426
+    name-displacement: -44 -26
+  427
+    name-displacement: -44 -26
+  428
+    name-displacement: -44 -26
+  429
+    name-displacement: -44 -26
+  430
+    name-displacement: -44 -26
+  431
+    name-displacement: -44 -26
+  432
+    name-displacement: -44 -26
+  433
+    name-displacement: -44 -26
+  434
+    name-displacement: -44 -26
+  435
+    name-displacement: -44 -26
+  436
+    name-displacement: -44 -26
+  601 // ibiki
+    name-displacement: -44 -26
+  602 // anko
+    name-displacement: -44 -26
+  603 // kiba classico
+    name-displacement: -44 -26
+  604 // ebisu
+    name-displacement: -44 -26
+  605 // jiraiya
+    name-displacement: -44 -26
+  606 // hiruzen traje kage
+    name-displacement: -44 -26
+  607 // hiruzen traje batalha
+    name-displacement: -44 -26
+  608 // jirobo
+    name-displacement: -44 -26
+  609 // kidomaru
+    name-displacement: -44 -26
+  610 // sakon ukon
+    name-displacement: -44 -26
+  611 // tayuya
+    name-displacement: -44 -26
+  612 // asuma
+    name-displacement: -44 -26
+  613 // velha chiyo
+    name-displacement: -44 -26
+  614 // sasori
+    name-displacement: -44 -26
+  615 // orochimaru
+    name-displacement: -44 -26
+  616 // sai
+    name-displacement: -44 -26
+  617 // kakuzu
+    name-displacement: -44 -26
+  618 // tobi/obito traje akatsuki
+    name-displacement: -44 -26
+  619 // pain caminho deva
+    name-displacement: -44 -26
+  620 // pain caminho naraka
+    name-displacement: -44 -26
+  621 // pain caminho asura
+    name-displacement: -44 -26
+  622 // pain caminho humano
+    name-displacement: -44 -26
+  623 // pain caminho preta
+    name-displacement: -44 -26
+  624 // pain caminho animal
+    name-displacement: -44 -26
+  625
+    name-displacement: -44 -26
+  626
+    name-displacement: -44 -26
+  627
+    name-displacement: -44 -26
+  628
+    name-displacement: -44 -26
+  629
+    name-displacement: -44 -26
+  630
+    name-displacement: -44 -26
+  631
+    name-displacement: -44 -26
+    outfit-displacement: 14 14
+  632 // hashirama skin modo rikudou sennin
+    name-displacement: -46 -38
+    aura-displacement: 8 8
+  633 // madara skin modo rikudou sennin
+    name-displacement: -46 -38
+    aura-displacement: 8 8
+  634
+    name-displacement: -44 -26
+  635
+    name-displacement: -44 -26
+  636
+    name-displacement: -44 -26
+  637 // orochimaru com chapeu floresta da morte
+    name-displacement: -44 -26
+  638 // sanguessuga floresta da morte
+    name-displacement: -44 -26
+  639
+    name-displacement: -44 -26
+  640
+    name-displacement: -44 -26
+  641
+    name-displacement: -44 -26
+  642
+    name-displacement: -44 -26
+  643
+    name-displacement: -44 -26
+  644
+    name-displacement: -44 -26
+  645
+    name-displacement: -44 -26
+  646
+    name-displacement: -44 -26
+  647
+    name-displacement: -44 -26
+  648
+    name-displacement: -44 -26
+  649
+    name-displacement: -44 -26
+  650 // outfit da akatsuki com rosto generico coberto
+    name-displacement: -44 -26
+  651 // hashirama edo tensei
+  652 // tobirama edo tensei
+  657 // gaara metade do corpo shukaku
+  658 // sasuke classico traje preto
+  660 // anbu male cabelo do kakashi
+  661 // anbu male coque samurai
+  664 // strong bandit
+    name-displacement: -36 -30
+  701 // anbu capuz bege
+    name-displacement: -44 -26
+  702 // iruka
+    name-displacement: -44 -26
+  703 // anbu capuz preto
+    name-displacement: -44 -26
+  704
+    name-displacement: -44 -26
+  705
+    name-displacement: -44 -26
+  706
+    name-displacement: -44 -26
+  707
+    name-displacement: -44 -26
+  708
+    name-displacement: -44 -26
+  709
+    name-displacement: -44 -26
+  710
+    name-displacement: -44 -26
+  711
+    name-displacement: -44 -26
+  712
+    name-displacement: -44 -26
+  713
+    name-displacement: -44 -26
+  714
+    name-displacement: -44 -26
+  715
+    name-displacement: -44 -26
+  716
+    name-displacement: -44 -26
+  717
+    name-displacement: -44 -26
+  718
+    name-displacement: -44 -26
+  719
+    name-displacement: -44 -26
+  720
+    name-displacement: -44 -26
+  721
+    name-displacement: -44 -26
+  722
+    name-displacement: -44 -26
+  723
+    name-displacement: -44 -26
+  724
+    name-displacement: -44 -26
+  725
+    name-displacement: -44 -26
+  726
+    name-displacement: -44 -26
+  727
+    name-displacement: -44 -26
+  728
+    name-displacement: -44 -26
+  729
+    name-displacement: -44 -26
+  730
+    name-displacement: -44 -26
+  731
+    name-displacement: -44 -26
+  732
+    name-displacement: -44 -26
+  733
+    name-displacement: -44 -26
+  734
+    name-displacement: -44 -26
+  735
+    name-displacement: -44 -26
+  736
+    name-displacement: -44 -26
+  737 // vigia
+    name-displacement: -44 -26
+    outfit-effect:
+      - 0 413 40 40
+      - 1 414 104 40
+      - 2 415 40 104
+      - 3 416 40 40
+  738 // kakashi
+    name-displacement: -44 -26
+  739 // yamato
+    name-displacement: -44 -26
+  740
+    name-displacement: -44 -26
+  741
+    name-displacement: -44 -26
+  742 // zetsu preto e branco
+    name-displacement: -44 -26
+  743 // zetsu branco
+    name-displacement: -44 -26
+  744
+    name-displacement: -44 -26
+  745
+    name-displacement: -44 -26
+  746 // mizuki
+    name-displacement: -36 -24
+  747
+    name-displacement: -44 -26
+  748
+    name-displacement: -44 -26
+  749
+    name-displacement: -44 -26
+  750
+    name-displacement: -44 -26
+  751
+    name-displacement: -44 -26
+  752
+    name-displacement: -44 -26
+  753
+    name-displacement: -44 -26
+  754
+    name-displacement: -44 -26
+  755
+    name-displacement: -44 -26
+  756
+    name-displacement: -44 -26
+  757
+    name-displacement: -44 -26
+  758
+    name-displacement: -44 -26
+  759
+    name-displacement: -44 -26
+  760
+    name-displacement: -44 -26
+  761
+    name-displacement: -44 -26
+  762
+    name-displacement: -44 -26
+  763
+    name-displacement: -44 -26
+  764
+    name-displacement: -44 -26
+  765
+    name-displacement: -44 -26
+  766
+    name-displacement: -44 -26
+  767
+    name-displacement: -44 -26
+  768
+    name-displacement: -44 -26
+  769
+    name-displacement: -44 -26
+
+  801
+    name-displacement: -44 -26
+  802
+    name-displacement: -44 -26
+  803
+    name-displacement: -44 -26
+  804
+    name-displacement: -44 -26
+  805
+    name-displacement: -44 -26
+  806
+    name-displacement: -44 -26
+  807
+    name-displacement: -44 -26
+  808
+    name-displacement: -44 -26
+  809
+    name-displacement: -44 -26
+  810
+    name-displacement: -44 -26
+  811
+    name-displacement: -44 -26
+  812
+    name-displacement: -44 -26
+  813
+    name-displacement: -44 -26
+  814
+    name-displacement: -44 -26
+  815
+    name-displacement: -44 -26
+  816
+    name-displacement: -44 -26
+  817
+    name-displacement: -44 -26
+  818
+    name-displacement: -44 -26
+  819
+    name-displacement: -44 -26
+  820
+    name-displacement: -44 -26
+  821
+    name-displacement: -44 -26
+  822
+    name-displacement: -44 -26
+  823
+    name-displacement: -44 -26
+  824
+    name-displacement: -44 -26
+  825
+    name-displacement: -44 -26
+  826
+    name-displacement: -44 -26
+  827
+    name-displacement: -44 -26
+  828
+    name-displacement: -44 -26
+  829
+    name-displacement: -44 -26
+  830
+    name-displacement: -44 -26
+  831
+    name-displacement: -44 -26
+  832
+    name-displacement: -44 -26
+  833
+    name-displacement: -44 -26
+  834
+    name-displacement: -44 -26
+  835
+    name-displacement: -44 -26
+  836
+    name-displacement: -44 -26
+  837
+    name-displacement: -44 -26
+  838
+    name-displacement: -44 -26
+  839
+    name-displacement: -44 -26
+  840
+    name-displacement: -44 -26
+  841
+    name-displacement: -44 -26
+  842
+    name-displacement: -44 -26
+  843
+    name-displacement: -44 -26
+  844
+    name-displacement: -44 -26
+  845
+    name-displacement: -44 -26
+  846
+    name-displacement: -44 -26
+  847
+    name-displacement: -44 -26
+  848
+    name-displacement: -44 -26
+  849
+    name-displacement: -44 -26
+  850
+    name-displacement: -44 -26
+
+  1001 // hokage chapeu vermelho konohagakure
+    name-displacement: -36 -26
+  1002 // kazekage chapeu verde sunagakure
+    name-displacement: -36 -26
+  1003 // mizukage chapeu azul kirigakure 
+    name-displacement: -36 -26
+  1004 // raikage chapeu amarelo amegakure 
+    name-displacement: -36 -26
+  1005 // tsuchikage chapeu marrom iwagakure
+    name-displacement: -36 -26
+  1006 // tazuna e time 7 no barco rumo país das ondas
+    hidecreatureinfo
+  1007
+    async-outfit
+    name-displacement: -36 -19
+    hidecreatureinfo
+  1008
+    async-outfit
+    name-displacement: -36 -19
+    hidecreatureinfo
+  1009
+    async-outfit
+    name-displacement: -36 -19
+    hidecreatureinfo
+
+  // npcs //
+  1101
+    name-displacement: -44 -26
+  1102
+    name-displacement: -44 -26
+  1103
+    name-displacement: -44 -26
+  1104
+    name-displacement: -44 -26
+  1105
+    name-displacement: -44 -26
+  1106
+    name-displacement: -44 -26
+  1107 // tazuna
+    name-displacement: -44 -34
+  1108
+    name-displacement: -44 -26
+  1109 // iruka sem walk
+    name-displacement: -20 -16
+  1110 // iruka escrevendo na mesa
+    name-displacement: -43 -42
+  1111
+    name-displacement: -44 -26
+  1112 // jonin female cabelo rosa dando tchau
+    name-displacement: -44 -30
+  1113 // médico sem walk
+    name-displacement: -44 -26
+  1114 // médico fazendo reverência com a cabeça
+    name-displacement: -44 -26
+  1115 // inari
+    name-displacement: -44 -26
+  1116 // konohamaru
+    name-displacement: -44 -26
+  1117 // moegi
+    name-displacement: -44 -26
+  1118 // udon
+    name-displacement: -44 -26
+  1119 // tsunami mãe do inari
+    name-displacement: -20 -4
+  1120 // fotografo
+    name-displacement: -44 -26
+  1121 // fotografo tirando a foto
+    name-displacement: -34 -16
+  1122
+    name-displacement: -26 -52
+  1123
+    name-displacement: -44 -26
+  1124 // gatou empresario patife
+    name-displacement: -40 -25
+  1125
+    name-displacement: -40 -25
+  1126
+    name-displacement: -40 -27
+  1127
+    name-displacement: 20 20
+  1128
+    name-displacement: 20 20
+  1129 // hiruzen traje batalha selo de mão
+    name-displacement: -44 -26
+  1130 // banqueiro
+    name-displacement: -42 -25
+  1131 // ayame
+    name-displacement: -44 -26
+  1132 // teuchi tio do lamen
+    name-displacement: -44 -26
+  1133
+    name-displacement: -44 -26
+  1134
+    name-displacement: -44 -26
+  1135
+    name-displacement: -44 -26
+  1136
+    name-displacement: -44 -26
+  1137
+    name-displacement: -44 -26
+  1138
+    name-displacement: -44 -26
+  1139 // sasuke traje preto pose de quebrada
+    name-displacement: -44 -26
+  1140
+    name-displacement: -44 -26
+  1141
+    name-displacement: -44 -26
+  1142 // barqueiro
+    name-displacement: -44 -26
+  1143 // mabui segurando arquivo
+    name-displacement: -40 -22
+  1144 // mabui maos livres
+    name-displacement: -40 -22
+  1145
+    name-displacement: -44 -26
+  1146
+    name-displacement: -44 -26
+  1147
+    name-displacement: -44 -26
+  1148
+    name-displacement: -44 -26
+  1149
+    name-displacement: -44 -26
+  1150
+    name-displacement: -44 -26
+  1151 // recepcionista sauna
+    name-displacement: -36 -24
+  1152 // recepcionista sauna
+    name-displacement: -36 -24
+  1153 // massagista sauna com walk
+    name-displacement: -20 -9
+  1154 // massagista sauna
+    name-displacement: -36 -24
+  1155 // massagista sauna
+    name-displacement: -36 -24
+  1156 // massagista sauna
+    name-displacement: -36 -24
+    async-outfit
+  1157 // massagista sauna fazendo a massagem
+    async-outfit
+    name-displacement: -20 -9
+    outfit-displacement: 0 8
+    linked-outfit: 1153
+  1158 // massagista sauna voltando pro canto
+    name-displacement: -36 -24
+    async-outfit
+  1201 // tsunade house npc
+    name-displacement: -50 -40
+  1202 // hinata house npc
+    name-displacement: -50 -40
+  1203 // hinata house npc
+    name-displacement: -50 -40
+  1204 // jiraiya house npc
+    name-displacement: -52 -40
+  1205 // sakura house npc
+    name-displacement: -50 -40
+  1226 // kakashi e4 animation
+    hidecreatureinfo
+  1299 // toco de madeira target trainer
+    name-displacement: -46 -36
+  // animations //
+  1300
+    async-outfit
+    name-displacement: -44 -26
+  1301
+    async-outfit
+    name-displacement: -44 -26
+  1302
+    async-outfit
+    name-displacement: -44 -26
+  1303
+    name-displacement: -36 -24
+  1304
+    name-displacement: -36 -24
+  1305
+    async-outfit
+    name-displacement: -36 -19
+    hidecreatureinfo
+  1306
+    name-displacement: -36 -24
+  1307 // sasuke skin chidori walk
+    name-displacement: -36 -24
+  1308 // sasuke skin chidori dash
+    name-displacement: -36 -24
+  1309 // sasuke skin chidori dash
+    name-displacement: -44 -26
+  1312
+    name-displacement: -82 -50
+    outfit-displacement: 34 38
+  1313 // sasuke classico chidori walk
+    name-displacement: -44 -26
+  1314 // sasuke classico chidori dash
+    name-displacement: -44 -26
+  1315 // sasuke shipudden chidori walk
+    name-displacement: -44 -26
+  1316 // sasuke skin kirin
+    name-displacement: -44 -26
+  1317 // sasuke shipudden chidori dash
+    name-displacement: -44 -26
+    outfit-displacement: 8 8
+  1318
+    name-displacement: -36 -24
+  1319
+    async-outfit
+    linked-outfit: 2213
+    name-displacement: -36 -22
+    outfit-displacement: 32 32
+  1320
+    async-outfit
+    linked-outfit: 2194
+    name-displacement: -36 -22
+    outfit-displacement: 32 32
+  1321
+    hidecreatureinfo
+  1322
+    name-displacement: -36 -24
+    directional-offset:
+      - 0 0 32
+      - 1 0 0
+      - 2 0 0
+      - 3 32 0
+  1324
+    name-displacement: -20 12
+  1325
+    name-displacement: -4 20
+  1326
+    name-displacement: -12 10
+  1327
+    async-outfit
+    linked-outfit: 16
+    name-displacement: -36 -22
+    outfit-displacement: 32 32
+  1328
+    async-outfit
+    linked-outfit: 316
+    name-displacement: -36 -22
+    outfit-displacement: 32 32
+  1329
+    async-outfit
+    linked-outfit: 416
+    name-displacement: -36 -22
+    outfit-displacement: 32 32
+  1330
+    name-displacement: -20 -14
+    directional-offset:
+      - 0 0 32
+      - 1 0 0
+      - 2 0 0
+      - 3 52 6
+  1331
+    name-displacement: -36 -19
+  1332
+    name-displacement: -36 -19
+  1333
+    name-displacement: -36 -19
+  1334
+    name-displacement: -36 -24
+  1335
+    name-displacement: -36 -24
+  1336
+    name-displacement: -36 -24
+  1337
+    name-displacement: -36 -24
+  1338
+    name-displacement: -36 -24
+  1339
+    name-displacement: -36 -24
+  1340
+    async-outfit
+    name-displacement: -36 -19
+    outfit-displacement: 32 32
+  1341
+    name-displacement: -20 -5
+    async-outfit
+  1342
+    name-displacement: -20 -5
+  1343
+    name-displacement: -36 -19
+    async-outfit
+  1344
+    name-displacement: -36 -19
+  1345
+    name-displacement: -36 -19
+    async-outfit
+  1346
+    async-outfit
+    linked-outfit: 14
+    name-displacement: -38 -23
+    outfit-displacement: 64 64
+  1347
+    async-outfit
+    linked-outfit: 314
+    name-displacement: -38 -23
+    outfit-displacement: 64 64
+  1348
+    async-outfit
+    linked-outfit: 414
+    name-displacement: -38 -23
+    outfit-displacement: 64 64
+  1349
+    name-displacement: -38 -29
+    async-outfit
+    linked-outfit: 4
+    outfit-effect:
+      - 0 0 0 0
+      - 1 0 0 0
+      - 2 1452 32 256
+      - 3 0 0 0
+  1350
+    name-displacement: -38 -29
+    async-outfit
+    linked-outfit: 304
+    outfit-effect:
+      - 0 0 0 0
+      - 1 0 0 0
+      - 2 1452 32 256
+      - 3 0 0 0
+  1351
+    name-displacement: -38 -29
+    async-outfit
+    linked-outfit: 404
+    outfit-effect:
+      - 0 0 0 0
+      - 1 0 0 0
+      - 2 1452 32 256
+      - 3 0 0 0
+  1352
+    name-displacement: -20 -12
+  1353
+    async-outfit
+    linked-outfit: 1354
+    name-displacement: -20 -5
+  1354
+    name-displacement: -44 -26
+    outfit-displacement: -8 -8
+  1355
+    hidecreatureinfo
+    async-outfit
+    linked-outfit: 307
+  1356
+    hidecreatureinfo
+    async-outfit
+    linked-outfit: 7
+  1357
+    hidecreatureinfo
+    async-outfit
+    linked-outfit: 407
+  1358: // tayuya summon
+    name-displacement: -111 -102
+  1359: // tayuya summon
+    name-displacement: -111 -102
+  1361
+    async-outfit
+    name-displacement: -36 -19
+  1362
+    async-outfit
+    name-displacement: -36 -24
+  1363
+    async-outfit
+    name-displacement: -36 -24
+  1364
+    async-outfit
+    name-displacement: -36 -19
+  1365
+    async-outfit
+    name-displacement: -36 -24
+  1366
+    async-outfit
+    name-displacement: -36 -24
+  1368
+    name-displacement: -44 -26
+  1369
+    name-displacement: -44 -26
+  1370
+    name-displacement: -44 -26
+  1371
+    async-outfit
+    linked-outfit: 429
+  1372 // jirobo puxando pedra do chao
+    async-outfit
+    name-displacement: -36 -24
+  1373 // mizuki jogando shuriken
+    async-outfit
+    linked-outfit: 746
+    name-displacement: -36 -24
+  1374 // iruka se jogando na frente do naruto
+    async-outfit
+    linked-outfit: 1375
+    hidecreatureinfo
+    name-displacement: -44 -26
+    directional-offset:
+      - 0 48 0
+      - 1 48 0
+      - 2 48 0
+      - 3 48 0
+  1375 // iruka caido
+    async-outfit
+    linked-outfit: 1375
+    hidecreatureinfo
+    name-displacement: -44 -26
+    directional-offset:
+      - 0 48 0
+      - 1 48 0
+      - 2 48 0
+      - 3 48 0
+  1377 // madara classico dash
+    async-outfit
+    linked-outfit: 17
+    directional-offset:
+      - 0 0 64
+      - 1 0 0
+      - 2 0 0
+      - 3 64 0
+  1378
+    async-outfit
+    linked-outfit: 317
+    directional-offset:
+      - 0 0 64
+      - 1 0 0
+      - 2 0 0
+      - 3 64 0
+  1379
+    async-outfit
+    linked-outfit: 417
+    directional-offset:
+      - 0 0 64
+      - 1 0 0
+      - 2 0 0
+      - 3 64 0
+  1380
+    async-outfit
+    linked-outfit: 632
+    directional-offset:
+      - 0 0 64
+      - 1 0 0
+      - 2 0 0
+      - 3 64 0
+  1381
+    name-displacement: -20 -12
+  1382
+    async-outfit
+    linked-outfit: 1383
+    name-displacement: -20 -12
+  1383
+    name-displacement: -44 -26
+    outfit-displacement: -8 -8
+  1384
+    async-outfit
+    linked-outfit: 1385
+    name-displacement: -44 -26
+  1385
+    name-displacement: -44 -26
+    outfit-displacement: -8 -8
+  1386
+    name-displacement: -44 -26
+  1387
+    name-displacement: -44 -26
+  1388
+    name-displacement: -44 -26
+  1389
+    name-displacement: -20 -5
+  1390
+    name-displacement: -44 -26
+    outfit-displacement: 24 24
+  1391
+    async-outfit
+    linked-outfit: 1392
+    name-displacement: -20 -5
+  1392
+    name-displacement: -44 -26
+    outfit-displacement: -8 -8
+  1393
+    async-outfit
+    name-displacement: -44 -26
+    outfit-effect:
+      - 0 587 32 32
+      - 1 585 32 32
+      - 2 588 32 32 
+      - 3 586 32 32
+  1400
+    async-outfit
+  1401
+    async-outfit
+    name-displacement: -36 -19
+    outfit-displacement: 32 32
+  1402
+    async-outfit
+    name-displacement: -36 -19
+    outfit-displacement: 32 32
+  1403
+    async-outfit
+    name-displacement: -35 -24
+    outfit-effect:
+      - 0 0 0 0
+      - 1 1392 32 0
+      - 2 1391 0 32
+      - 3 0 0 0
+  1404
+    async-outfit
+    linked-outfit: 1405
+    name-displacement: -64 -50
+    directional-offset:
+      - 0 32 0
+      - 1 32 0
+      - 2 32 0
+      - 3 32 0
+  1405
+    name-displacement: -64 -50
+    directional-offset:
+      - 0 32 0
+      - 1 0 32
+      - 2 32 0
+      - 3 0 32
+  1406
+    async-outfit
+    linked-outfit: 327
+    name-displacement: -64 -50
+    directional-offset:
+      - 0 32 64
+      - 1 0 32
+      - 2 32 0
+      - 3 32 32
+  1407
+    async-outfit
+    linked-outfit: 1408
+    name-displacement: -64 -50
+    directional-offset:
+      - 0 32 0
+      - 1 32 0
+      - 2 32 0
+      - 3 32 0
+  1408
+    name-displacement: -64 -50
+    directional-offset:
+      - 0 32 0
+      - 1 0 32
+      - 2 32 0
+      - 3 0 32
+  1409
+    async-outfit
+    linked-outfit: 427
+    name-displacement: -64 -50
+    directional-offset:
+      - 0 32 64
+      - 1 0 32
+      - 2 32 0
+      - 3 32 32
+  1410
+    async-outfit
+    linked-outfit: 1411
+    name-displacement: -64 -50
+    directional-offset:
+      - 0 32 0
+      - 1 32 0
+      - 2 32 0
+      - 3 32 0
+  1411
+    name-displacement: -64 -50
+    directional-offset:
+      - 0 32 0
+      - 1 0 32
+      - 2 32 0
+      - 3 0 32
+  1412
+    async-outfit
+    linked-outfit: 27
+    name-displacement: -64 -50
+    directional-offset:
+      - 0 32 64
+      - 1 0 32
+      - 2 32 0
+      - 3 32 32
+  1414
+    hidecreatureinfo
+    async-outfit
+    name-displacement: -20 -7
+  1415
+    hidecreatureinfo
+    async-outfit
+    linked-outfit: 99
+    name-displacement: -20 -7
+  1416
+    hidecreatureinfo
+    async-outfit
+    linked-outfit: 8
+    outfit-displacement: 96 96
+  1419
+    async-outfit
+    linked-outfit: 17
+    name-displacement: -38 -27
+  1420
+    async-outfit
+    linked-outfit: 317
+    name-displacement: -38 -27
+  1421
+    async-outfit
+    linked-outfit: 417
+    name-displacement: -38 -27
+  1422
+    async-outfit
+    linked-outfit: 632
+    name-displacement: -38 -27
+  1423
+    async-outfit
+    linked-outfit: 3
+    name-displacement: -44 -26
+  1424
+    async-outfit
+    linked-outfit: 303
+    name-displacement: -44 -26
+  1425
+    async-outfit
+    linked-outfit: 403
+    name-displacement: -44 -26
+  1426
+    async-outfit
+    linked-outfit: 22
+    name-displacement: -36 -22
+    hidecreatureinfo
+  1427
+    async-outfit
+    linked-outfit: 322
+    name-displacement: -36 -22
+    hidecreatureinfo
+  1428 
+    async-outfit
+    linked-outfit: 422
+    name-displacement: -36 -22
+    hidecreatureinfo
+  1429
+    async-outfit
+    linked-outfit: 8
+    hidecreatureinfo
+    outfit-displacement: 32 32
+  1430
+    async-outfit
+    linked-outfit: 308
+    hidecreatureinfo
+    outfit-displacement: 32 32
+  1431
+    async-outfit
+    linked-outfit: 408
+    hidecreatureinfo
+    outfit-displacement: 32 32
+  1432
+    async-outfit
+    linked-outfit: 18
+    outfit-displacement: 64 64
+    hidecreatureinfo
+  1433
+    async-outfit
+    linked-outfit: 318
+    outfit-displacement: 64 64
+    hidecreatureinfo
+  1434
+    async-outfit
+    linked-outfit: 418
+    outfit-displacement: 64 64
+    hidecreatureinfo
+  1435
+    async-outfit
+    linked-outfit: 21
+    name-displacement: -36 -22
+  1436
+    async-outfit
+    linked-outfit: 321
+    name-displacement: -36 -22
+  1437
+    async-outfit
+    linked-outfit: 421
+    name-displacement: -36 -22
+  1438
+    async-outfit
+    linked-outfit: 1439
+    name-displacement: -20 -7
+  1439
+    name-displacement: -20 -7
+  1440
+    async-outfit
+    linked-outfit: 1441
+    name-displacement: -44 -26
+  1441
+    name-displacement: -44 -26
+  1442
+    name-displacement: -44 -26
+    async-outfit
+    linked-outfit: 611
+  1444 // zabuza usando a nevoa
+    async-outfit
+    name-displacement: -36 -22
+    linked-outfit: 1445
+    outfit-effect:
+      - 0 1462 32 32
+      - 1 1462 32 32
+      - 2 1462 32 32
+      - 3 1462 32 32
+  1445 // transicao
+    hidecreatureinfo
+  1446 // zabuza desferindo o golpe
+    async-outfit
+    name-displacement: -36 -22
+    outfit-displacement: 0 64
+    linked-outfit: 32
+  1447 // sarada e4 classico
+    async-outfit
+    hidecreatureinfo
+    outfit-displacement: 96 96
+    linked-outfit: 30
+  1448 // sarada e4 skin
+    async-outfit
+    hidecreatureinfo
+    outfit-displacement: 96 96
+    linked-outfit: 430
+  1449
+    async-outfit
+  1450
+    async-outfit
+  1451 // sasuke shippuden walk chidori
+    name-displacement: -44 -26
+  1452 // naruto shippuden walk rasengan
+    name-displacement: -44 -26
+  1453 // naruto shippuden odama rasengan clone
+    name-displacement: -44 -26
+    async-outfit
+    notontop
+    outfit-displacement: 32 32
+    name-displacement: -44 -26
+  1454 // naruto odama rasengan
+    async-outfit
+    notontop
+    outfit-displacement: 32 32
+    name-displacement: -44 -26
+  1455 // sasuke skin walk chidori
+    name-displacement: -44 -26
+  1458 // boruto skin suiton
+    async-outfit
+    directional-offset:
+      - 0 96 0
+      - 1 160 64
+      - 2 64 160
+      - 3 0 96
+  1459 // boruto classico suiton
+    async-outfit
+    directional-offset:
+      - 0 96 0
+      - 1 160 64
+      - 2 64 160
+      - 3 0 96
+  1460 // boruto classico clone shuriken
+    async-outfit
+    name-displacement: -44 -26
+  1461 // sasuke classico katon
+    async-outfit
+    name-displacement: -44 -26
+    linked-outfit: 2
+  1462 // sasuke shippuden katon
+    async-outfit
+    name-displacement: -44 -26
+    linked-outfit: 302
+  1463 // sasuke skin katon
+    async-outfit
+    name-displacement: -44 -26
+    linked-outfit: 402
+  1464 // shikamaru classico ajoelhado
+    async-outfit
+    name-displacement: -44 -26
+    linked-outfit: 5
+  1465 // shikamaru shippuden ajoelhado
+    async-outfit
+    name-displacement: -44 -26
+    linked-outfit: 305
+  1466 // shikamaru skin ajoelhado
+    async-outfit
+    name-displacement: -44 -26
+    linked-outfit: 405
+  1467 // sasuke selo de mao
+    async-outfit
+    name-displacement: -44 -26
+    linked-outfit: 2
+  1468 // sasuke selo de mao
+    async-outfit
+    name-displacement: -44 -26
+    linked-outfit: 302
+  1469 // sasuke kirin
+    async-outfit
+    name-displacement: -44 -26
+  1471 // shino mao pro alto 
+    async-outfit
+    name-displacement: -44 -26
+  1472 // shino mao pro alto 
+    async-outfit
+    name-displacement: -44 -26
+  1473 // shino mao pro alto 
+    async-outfit
+    name-displacement: -44 -26
+  1474 // shino mao pra frente
+    async-outfit
+    name-displacement: -44 -26
+    linked-outfit: 26
+  1475 // shino mao pra frente
+    async-outfit
+    name-displacement: -44 -26
+    linked-outfit: 326
+  1476 // shino mao pra frente
+    async-outfit
+    name-displacement: -44 -26
+    linked-outfit: 426
+  1477 // choji dando tapão
+    async-outfit
+    name-displacement: -44 -26
+    outfit-displacement: 64 64
+  1478 // choji dando tapão
+    async-outfit
+    name-displacement: -44 -26
+    outfit-displacement: 64 64
+  1479 // choji dando tapão
+    async-outfit
+    name-displacement: -44 -26
+    outfit-displacement: 64 64
+  1480 // choji virando bola
+    async-outfit
+    name-displacement: -44 -26
+    linked-outfit: 1486
+  1481 // choji virando bola
+    async-outfit
+    name-displacement: -44 -26
+    linked-outfit: 1487
+  1482 // choji virando bola
+    async-outfit
+    name-displacement: -44 -26
+    linked-outfit: 1488
+  1483 // choji inflado classico
+    async-outfit
+    name-displacement: -44 -26
+  1484 // choji inflado shipp
+    async-outfit
+    name-displacement: -44 -26
+  1485 // choji inflado skin
+    async-outfit
+    name-displacement: -44 -26
+  1486 // ultimate do kiba
+    name-displacement: -64 -64
+    outfit-displacement: 64 64
+  1487 // choji rolando shipp
+    name-displacement: -44 -26
+  1488 // sakura e2 classico
+    async-outfit
+    name-displacement: -44 -26
+    linked-outfit: 3
+  1489 // sakura e2 shipp
+    async-outfit
+    name-displacement: -44 -26
+    linked-outfit: 303 
+  1490 // sakura e2 skin
+    async-outfit
+    name-displacement: -44 -26
+    linked-outfit: 403
+  1491 // sakura e3 classico
+    async-outfit
+    name-displacement: -44 -26
+    linked-outfit: 3
+    outfit-displacement: 32 32
+  1492 // sakura e2 shipp
+    async-outfit
+    name-displacement: -44 -26
+    linked-outfit: 303
+  1493 // sakura e2 skin
+    async-outfit
+    name-displacement: -44 -26
+    linked-outfit: 403
+  1494 // sakura e4 shipp
+    async-outfit
+    name-displacement: -44 -26
+    linked-outfit: 303
+  1495 // sakura e4 skin
+    async-outfit
+    name-displacement: -44 -26
+    linked-outfit: 403
+  1496 // naruto classico selo de mao
+    async-outfit
+    name-displacement: -44 -26
+    linked-outfit: 99
+  1497 // naruto classico selo de mao
+    async-outfit
+    name-displacement: -44 -26
+    linked-outfit: 301
+  1498 // naruto classico selo de mao
+    async-outfit
+    name-displacement: -44 -26
+    linked-outfit: 401
+  1499 // sarada classico katon
+    async-outfit
+    name-displacement: -44 -26
+    linked-outfit: 30
+  1500 // sarada skin katon
+    async-outfit
+    name-displacement: -44 -26
+    linked-outfit: 430
+  1501 // sarada classico lightning
+    async-outfit
+    name-displacement: -44 -26
+    linked-outfit: 30
+  1502 // sarada skin lightning
+    async-outfit
+    name-displacement: -44 -26
+    linked-outfit: 430
+  1503 // mitsuki classico lightning
+    async-outfit
+    name-displacement: -44 -26
+    linked-outfit: 31
+  1504 // mitsuki classico lightning
+    async-outfit
+    name-displacement: -44 -26
+    linked-outfit: 431
+  1505 // mitsuki classico cura
+    async-outfit
+    name-displacement: -44 -26
+    linked-outfit: 31
+  1506 // mitsuki classico cura
+    async-outfit
+    name-displacement: -44 -26
+    linked-outfit: 431
+  1507 // tenten classico e1
+    async-outfit
+    name-displacement: -44 -26
+    linked-outfit: 7
+  1508 // tenten shipp e1
+    async-outfit
+    name-displacement: -44 -26
+    linked-outfit: 307
+  1509 // tenten classico e1
+    async-outfit
+    name-displacement: -44 -26
+    linked-outfit: 407
+  1510 // tenten skin e2
+    async-outfit
+    name-displacement: -44 -26
+    linked-outfit: 7
+  1511 // tenten shipp e2
+    async-outfit
+    name-displacement: -44 -26
+    linked-outfit: 307
+  1512 // tenten skin e2
+    async-outfit
+    name-displacement: -44 -26
+    linked-outfit: 407
+  1513 // zabuza e2
+    async-outfit
+    name-displacement: -44 -26
+    outfit-displacement: 32 32
+  1551 // naruto js
+    async-outfit
+    hidecreatureinfo
+    name-displacement: -44 -26
+    linked-outfit: 99
+  1552 // naruto js
+    async-outfit
+    hidecreatureinfo
+    name-displacement: -44 -26
+    linked-outfit: 301
+  1553 // naruto js
+    async-outfit
+    hidecreatureinfo
+    name-displacement: -44 -26
+    linked-outfit: 401
+  1554 // naruto js
+    async-outfit
+    hidecreatureinfo
+    name-displacement: -44 -26
+    linked-outfit: 2116
+  1555 // naruto js
+    async-outfit
+    hidecreatureinfo
+    name-displacement: -44 -26
+    linked-outfit: 2252
+  2000
+    async-outfit
+    hidecreatureinfo
+  2003 // old bear
+    name-displacement: -12 12
+  2004 // rat
+    hidecreatureinfo
+  2006 // bee
+    hidecreatureinfo
+  2007 // old bear
+    name-displacement: -16 12
+  2009 // chicken
+    name-displacement: 0 0
+  2010 // gorilla
+    name-displacement: -65 -75
+  2011 // owl
+    hidecreatureinfo
+  2012 // tigre
+    name-displacement: 0 0
+  2013
+    name-displacement: -36 -24
+    directional-offset:
+      - 0 32 32
+      - 1 32 32
+      - 2 32 32
+      - 3 32 32
+  2014 // snake
+    // name-displacement: 8 10
+    outfit-displacement: 4 4
+    // directional-offset:
+    //   - 0 0 8
+    //   - 1 0 0
+    //   - 2 0 0
+    //   - 3 4 0
+  2015 // black snake
+    name-displacement: 6 6
+    directional-offset:
+      - 0 32 32
+      - 1 32 32
+      - 2 32 32
+      - 3 32 32
+  2016 // scoripn
+    name-displacement: 0 0
+  2017 // giant scoripn
+    name-displacement: -22 0
+  2018 // sheep
+    hidecreatureinfo
+  2020 // butcher
+    name-displacement: -64 -50
+  2025 // white wolf
+    name-displacement: 0 0
+  2026 // fox
+    hidecreatureinfo
+  2029
+    name-displacement: -30 2
+  2030 // spider
+    name-displacement: 0 0
+  2031 // snake
+    name-displacement: 0 0
+    outfit-displacement: -4 -4
+  2036 // snake
+    name-displacement: -6 26
+  2037 // snake
+    name-displacement: 0 12
+  2041 // dummy south
+    name-displacement: -44 -44
+  2042
+    async-outfit
+    notontop
+  2043 // dummy south
+    async-outfit
+    name-displacement: -66 -22
+  2044
+    async-outfit
+    notontop
+  2051 // red butterfly
+    hidecreatureinfo
+  2052 // blue butterfly
+    hidecreatureinfo
+  2055 // pink butterfly
+    hidecreatureinfo
+  2078 // rabbit
+    hidecreatureinfo
+  2079 // pig
+    hidecreatureinfo
+  2080 // cat
+    hidecreatureinfo
+  2081 // green frog
+    hidecreatureinfo
+  2082 // seagull
+    hidecreatureinfo
+  2085 // brown frog
+    hidecreatureinfo
+  2086 // camel
+    hidecreatureinfo
+  2087 // bat
+    hidecreatureinfo
+  2089 // deer
+    hidecreatureinfo
+  2114 // cobra gigante floresta da morte
+    outfit-displacement: 96 -128
+    outfit-effect:
+      - 0 1379 96 32
+      - 1 1379 96 32
+      - 2 1379 96 32
+      - 3 1379 96 32
+  2115 // cobra gigante floresta da morte bocada
+    async-outfit
+    name-displacement: -16 -15
+    outfit-displacement: 88 57
+  2116 // cobra gigante floresta da morte cuspe
+    async-outfit
+    name-displacement: -16 -15
+    outfit-displacement: 88 57
+  
+  // mobs //
+  2121
+    name-displacement: -36 -24
+    directional-offset:
+      - 0 32 32
+      - 1 16 32
+      - 2 32 16
+      - 3 32 32
+  2129
+    name-displacement: -44 -26
+  2130
+    name-displacement: -44 -26
+  2132
+    name-displacement: -44 -26
+  2133
+    name-displacement: -20 6
+  2134
+    name-displacement: -44 -30
+  2135
+    name-displacement: -44 -26
+  2137
+    name-displacement: -20 6
+  2147
+    name-displacement: -44 -26
+  2148
+    name-displacement: -44 -26
+  2149
+    name-displacement: -44 -26
+  2150
+    name-displacement: -44 -26
+  2151
+    name-displacement: -44 -26
+  2152
+    name-displacement: -44 -26
+  2153
+    name-displacement: -44 -26
+  2154
+    name-displacement: -44 -26
+  2155
+    name-displacement: -44 -26
+  2156
+    name-displacement: -44 -26
+  2157
+    name-displacement: -44 -26
+  2158
+    name-displacement: -44 -26
+  2159
+    name-displacement: -44 -26
+  2160
+    name-displacement: -44 -26
+  2161
+    name-displacement: -44 -26
+  2162
+    name-displacement: -44 -26
+  2163
+    name-displacement: -44 -26
+  2164
+    name-displacement: -44 -26
+  2165
+    name-displacement: -44 -26
+  2166
+    name-displacement: -44 -26
+  2167
+    name-displacement: -44 -26
+  2168
+    name-displacement: -44 -26
+  2169
+    name-displacement: -44 -26
+  2170
+    name-displacement: -44 -26
+  2171
+    name-displacement: -44 -26
+  2172
+    name-displacement: -44 -26
+  2173
+    name-displacement: -44 -26
+  2174
+    name-displacement: -44 -26
+  2175
+    name-displacement: -44 -26
+  2176
+    name-displacement: -44 -26
+  2177
+    name-displacement: -44 -26
+  2178
+    name-displacement: -44 -26  
+  2179
+    name-displacement: -44 -26
+  2180
+    name-displacement: -44 -26
+  2181
+    name-displacement: -44 -26
+  2182
+    name-displacement: -44 -26
+  2183
+    name-displacement: -44 -26
+    outfit-displacement: -7 -8
+  2184
+    name-displacement: -44 -26
+  2185
+    name-displacement: -20 -10
+    outfit-displacement: 32 32
+  2186
+    hidecreatureinfo
+    async-outfit
+    outfit-displacement: 64 64
+  2187
+    name-displacement: -44 -26
+  2188
+    name-displacement: -44 -26
+  2189
+    name-displacement: -44 -26
+  2190
+    name-displacement: -44 -26
+  2191
+    name-displacement: -44 -26
+  2192
+    name-displacement: -44 -26
+  2193
+    name-displacement: -44 -26
+  2194
+    name-displacement: -44 -26
+  2195
+    name-displacement: -44 -26
+  2196
+    name-displacement: -44 -26
+  2197
+    name-displacement: -44 -26
+  2198
+    name-displacement: -44 -26
+  2199
+    name-displacement: -44 -26
+  2200
+    name-displacement: -44 -26
+  2201
+    name-displacement: -44 -26
+  2202
+    name-displacement: -44 -26
+  2203
+    name-displacement: -44 -26
+  2204
+    name-displacement: -44 -26
+  2205
+    name-displacement: -44 -26
+  2206
+    name-displacement: -44 -26
+  2207
+    name-displacement: -44 -26
+  2208
+    name-displacement: -44 -26
+  2209
+    name-displacement: -44 -26
+  2210
+    name-displacement: -44 -26
+  2211
+    name-displacement: -44 -26
+  2212
+    name-displacement: -44 -26
+  2213
+    name-displacement: -44 -26
+  2214
+    name-displacement: -44 -26
+  2215
+    name-displacement: -44 -26
+  2216
+    name-displacement: -44 -26
+  2217
+    name-displacement: -44 -26
+  2218
+    name-displacement: -44 -26
+  2219
+    name-displacement: -44 -26
+  2220
+    name-displacement: -44 -26
+  2221
+    name-displacement: -44 -26
+  2222
+    name-displacement: -44 -26
+  2223
+    name-displacement: -44 -26
+  2224
+    name-displacement: -44 -26
+  2225
+    name-displacement: -44 -26
+  2226
+    name-displacement: -44 -26
+  2227
+    name-displacement: -44 -26
+  2228
+    name-displacement: -44 -26
+  2229
+    name-displacement: -44 -26
+  2230
+    name-displacement: -44 -26
+  2231
+    name-displacement: -44 -26
+  2232
+    name-displacement: -44 -26
+  2233
+    name-displacement: -44 -26
+  2234
+    name-displacement: -44 -26
+  2235
+    name-displacement: -44 -26
+  2236
+    name-displacement: -44 -26
+  2237
+    name-displacement: -44 -26
+  2238
+    name-displacement: -44 -26
+  2239
+    name-displacement: -44 -26
+  2240
+    name-displacement: -44 -26
+  2241
+    name-displacement: -44 -26
+  2242
+    name-displacement: -44 -26
+  2243
+    name-displacement: -44 -26
+  2244
+    name-displacement: -44 -26
+  2245
+    name-displacement: -44 -26
+  2246
+    name-displacement: -44 -26
+  2247
+    name-displacement: -44 -26
+  2248
+    name-displacement: -44 -26
+  2249
+    name-displacement: -44 -26
+  2250
+    name-displacement: -44 -26
+  2251
+    name-displacement: -44 -26
+  2252
+    name-displacement: -44 -26
+  2253
+    name-displacement: -44 -26
+  2282 // giant turtle
+    directional-offset:
+      - 0 32 32
+      - 1 32 32
+      - 2 32 32
+      - 3 32 32
+  2284
+    name-displacement: -64 -64
+    outfit-displacement: 64 64

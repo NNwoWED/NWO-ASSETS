@@ -1,0 +1,398 @@
+<?xml version="1.0"?>
+<routes>
+	<route id="1" name="iruka1" color="#00ccff" visible="false">
+		<waypoint index="1" x="1240" y="701" z="10" />
+		<waypoint index="2" x="1231" y="702" z="10" />
+		<waypoint index="3" x="1231" y="697" z="10" />
+		<waypoint index="4" x="1222" y="697" z="10" />
+		<waypoint index="5" x="1222" y="691" z="10" />
+	</route>
+	<route id="2" name="iruka2" color="#00ccff" visible="false">
+		<waypoint index="1" x="1247" y="716" z="6" />
+		<waypoint index="2" x="1277" y="716" z="6" />
+		<waypoint index="3" x="1289" y="714" z="6" />
+		<waypoint index="4" x="1292" y="707" z="6" />
+		<waypoint index="5" x="1292" y="694" z="6" />
+		<waypoint index="6" x="1292" y="692" z="5" />
+		<waypoint index="7" x="1289" y="689" z="5" />
+		<waypoint index="8" x="1288" y="688" z="4" />
+		<waypoint index="9" x="1279" y="688" z="4" />
+	</route>
+	<route id="3" name="iruka3" color="#00ccff" visible="true">
+		<waypoint index="1" x="1247" y="716" z="6" />
+		<waypoint index="2" x="1277" y="716" z="6" />
+		<waypoint index="3" x="1277" y="744" z="6" />
+		<waypoint index="4" x="1307" y="744" z="6" />
+		<waypoint index="5" x="1307" y="754" z="6" />
+		<waypoint index="6" x="1344" y="754" z="6" />
+		<waypoint index="7" x="1344" y="749" z="6" />
+	</route>
+	<route id="4" name="iruka4" color="#00ccff" visible="false">
+		<waypoint index="1" x="1247" y="716" z="6" />
+		<waypoint index="2" x="1277" y="716" z="6" />
+		<waypoint index="3" x="1277" y="744" z="6" />
+		<waypoint index="4" x="1277" y="784" z="6" />
+		<waypoint index="5" x="1277" y="836" z="6" />
+		<waypoint index="6" x="1277" y="866" z="6" />
+	</route>
+	<route id="5" name="iruka5" color="#00ccff" visible="false">
+		<waypoint index="1" x="1247" y="716" z="6" />
+		<waypoint index="2" x="1237" y="716" z="6" />
+		<waypoint index="3" x="1236" y="744" z="6" />
+		<waypoint index="4" x="1217" y="744" z="6" />
+		<waypoint index="5" x="1217" y="759" z="6" />
+		<waypoint index="6" x="1204" y="758" z="6" />
+	</route>
+	<route id="6" name="iruka6" color="#00ccff" visible="false">
+		<waypoint index="1" x="1247" y="716" z="6" />
+		<waypoint index="2" x="1263" y="716" z="6" />
+		<waypoint index="3" x="1263" y="702" z="6" />
+		<waypoint index="4" x="1282" y="701" z="6" />
+	</route>
+	<route id="7" name="iruka7" color="#00ccff" visible="false">
+		<waypoint index="1" x="1247" y="716" z="6" />
+		<waypoint index="2" x="1263" y="716" z="6" />
+		<waypoint index="3" x="1277" y="716" z="6" />
+		<waypoint index="4" x="1289" y="714" z="6" />
+		<waypoint index="5" x="1292" y="707" z="6" />
+		<waypoint index="6" x="1292" y="694" z="6" />
+		<waypoint index="7" x="1292" y="692" z="5" />
+		<waypoint index="8" x="1289" y="689" z="5" />
+		<waypoint index="9" x="1288" y="688" z="4" />
+		<waypoint index="10" x="1265" y="688" z="4" />
+		<waypoint index="11" x="1264" y="688" z="3" />
+		<waypoint index="12" x="1260" y="687" z="3" />
+		<waypoint index="13" x="1261" y="686" z="2" />
+		<waypoint index="14" x="1271" y="671" z="2" />
+		<waypoint index="15" x="1272" y="659" z="2" />
+		<waypoint index="16" x="1272" y="656" z="3" />
+		<waypoint index="17" x="1254" y="650" z="3" />
+		<waypoint index="18" x="1254" y="647" z="4" />
+		<waypoint index="19" x="1259" y="640" z="4" />
+		<waypoint index="20" x="1275" y="640" z="4" />
+		<waypoint index="21" x="1288" y="637" z="4" />
+		<waypoint index="22" x="1288" y="632" z="4" />
+		<waypoint index="23" x="1287" y="629" z="5" />
+		<waypoint index="24" x="1281" y="619" z="5" />
+		<waypoint index="25" x="1281" y="616" z="6" />
+		<waypoint index="26" x="1287" y="607" z="6" />
+	</route>
+	<route id="8" name="iruka8" color="#00ccff" visible="true">
+		<waypoint index="1" x="1247" y="716" z="6" />
+		<waypoint index="2" x="1255" y="716" z="6" />
+		<waypoint index="3" x="1255" y="730" z="6" />
+		<waypoint index="4" x="1277" y="730" z="6" />
+		<waypoint index="5" x="1277" y="759" z="6" />
+		<waypoint index="6" x="1255" y="759" z="6" />
+		<waypoint index="7" x="1255" y="766" z="6" />
+		<waypoint index="8" x="1243" y="768" z="6" />
+	</route>
+	<route id="9" name="iruka9" color="#00ccff" visible="false">
+		<waypoint index="1" x="1247" y="716" z="6" />
+		<waypoint index="2" x="1277" y="716" z="6" />
+		<waypoint index="3" x="1277" y="775" z="6" />
+		<waypoint index="4" x="1231" y="775" z="6" />
+		<waypoint index="5" x="1231" y="767" z="6" />
+		<waypoint index="6" x="1225" y="767" z="6" />
+	</route>
+	<route id="10" name="iruka10" color="#00ccff" visible="false">
+		<waypoint index="1" x="1225" y="767" z="6" />
+		<waypoint index="2" x="1231" y="767" z="6" />
+		<waypoint index="3" x="1231" y="775" z="6" />
+		<waypoint index="4" x="1267" y="775" z="6" />
+		<waypoint index="5" x="1267" y="766" z="6" />
+		<waypoint index="6" x="2434" y="818" z="14" />
+		<waypoint index="7" x="2448" y="818" z="14" />
+		<waypoint index="8" x="2448" y="816" z="14" />
+	</route>
+	<route id="11" name="iruka11" color="#00ccff" visible="true">
+		<waypoint index="1" x="1245" y="767" z="6" />
+		<waypoint index="2" x="1255" y="765" z="6" />
+		<waypoint index="3" x="1255" y="759" z="6" />
+		<waypoint index="4" x="1277" y="759" z="6" />
+		<waypoint index="5" x="1307" y="759" z="6" />
+		<waypoint index="6" x="1306" y="731" z="6" />
+	</route>
+	<route id="12" name="iruka12" color="#00ccff" visible="true">
+		<waypoint index="1" x="1306" y="731" z="6" />
+		<waypoint index="2" x="1306" y="744" z="6" />
+		<waypoint index="3" x="1277" y="744" z="6" />
+		<waypoint index="4" x="1277" y="716" z="6" />
+		<waypoint index="5" x="1247" y="716" z="6" />
+	</route>
+	<route id="13" name="iruka13" color="#00ccff" visible="true">
+		<waypoint index="1" x="2448" y="816" z="14" />
+		<waypoint index="2" x="2448" y="819" z="14" />
+		<waypoint index="3" x="2434" y="819" z="14" />
+		<waypoint index="4" x="2434" y="817" z="14" />
+		<waypoint index="5" x="1267" y="765" z="6" />
+		<waypoint index="6" x="1277" y="765" z="6" />
+		<waypoint index="7" x="1277" y="730" z="6" />
+		<waypoint index="8" x="1277" y="716" z="6" />
+		<waypoint index="9" x="1247" y="716" z="6" />
+		<waypoint index="10" x="1247" y="712" z="6" />
+	</route>
+	<route id="14" name="iruka14" color="#00ccff" visible="false">
+		<waypoint index="1" x="1247" y="716" z="6" />
+		<waypoint index="2" x="1263" y="716" z="6" />
+		<waypoint index="3" x="1277" y="716" z="6" />
+		<waypoint index="4" x="1289" y="714" z="6" />
+		<waypoint index="5" x="1292" y="707" z="6" />
+		<waypoint index="6" x="1292" y="694" z="6" />
+		<waypoint index="7" x="1292" y="692" z="5" />
+		<waypoint index="8" x="1289" y="689" z="5" />
+		<waypoint index="9" x="1288" y="688" z="4" />
+		<waypoint index="10" x="1265" y="688" z="4" />
+		<waypoint index="11" x="1264" y="688" z="3" />
+		<waypoint index="12" x="1260" y="687" z="3" />
+		<waypoint index="13" x="1261" y="686" z="2" />
+		<waypoint index="14" x="1271" y="671" z="2" />
+		<waypoint index="15" x="1272" y="659" z="2" />
+		<waypoint index="16" x="1272" y="656" z="3" />
+		<waypoint index="17" x="1254" y="650" z="3" />
+		<waypoint index="18" x="1254" y="647" z="4" />
+		<waypoint index="19" x="1259" y="640" z="4" />
+		<waypoint index="20" x="1275" y="640" z="4" />
+		<waypoint index="21" x="1288" y="637" z="4" />
+		<waypoint index="22" x="1288" y="632" z="4" />
+		<waypoint index="23" x="1287" y="629" z="5" />
+		<waypoint index="24" x="1281" y="619" z="5" />
+		<waypoint index="25" x="1281" y="616" z="6" />
+		<waypoint index="26" x="1287" y="607" z="6" />
+		<waypoint index="27" x="1291" y="596" z="6" />
+		<waypoint index="28" x="1298" y="589" z="6" />
+		<waypoint index="29" x="1315" y="592" z="6" />
+	</route>
+	<route id="15" name="hana" color="#00ccff" visible="false">
+		<waypoint index="1" x="1247" y="715" z="6" />
+		<waypoint index="2" x="1277" y="716" z="6" />
+		<waypoint index="3" x="1278" y="773" z="6" />
+		<waypoint index="4" x="1277" y="810" z="6" />
+		<waypoint index="5" x="1277" y="845" z="6" />
+		<waypoint index="6" x="1269" y="868" z="6" />
+	</route>
+	<route id="16" name="rensato" color="#00ccff" visible="false">
+		<waypoint index="1" x="1277" y="868" z="6" />
+		<waypoint index="2" x="1310" y="876" z="6" />
+		<waypoint index="3" x="1312" y="902" z="6" />
+		<waypoint index="4" x="1339" y="910" z="6" />
+	</route>
+	<route id="17" name="takaomori" color="#00ccff" visible="false">
+		<waypoint index="1" x="1343" y="901" z="6" />
+		<waypoint index="2" x="1359" y="893" z="6" />
+		<waypoint index="3" x="1367" y="877" z="6" />
+		<waypoint index="4" x="1371" y="860" z="6" />
+		<waypoint index="5" x="1376" y="847" z="6" />
+	</route>
+	<route id="18" name="akemikuroda" color="#00ccff" visible="false">
+		<waypoint index="1" x="1366" y="856" z="6" />
+		<waypoint index="2" x="1335" y="867" z="6" />
+		<waypoint index="3" x="1308" y="867" z="6" />
+		<waypoint index="4" x="1281" y="869" z="6" />
+		<waypoint index="5" x="1250" y="906" z="6" />
+		<waypoint index="6" x="1250" y="920" z="6" />
+		<waypoint index="7" x="1230" y="922" z="6" />
+		<waypoint index="8" x="1229" y="934" z="5" />
+		<waypoint index="9" x="1232" y="944" z="5" />
+		<waypoint index="10" x="1233" y="949" z="6" />
+		<waypoint index="11" x="1256" y="949" z="6" />
+		<waypoint index="12" x="1252" y="962" z="7" />
+		<waypoint index="13" x="1227" y="967" z="7" />
+		<waypoint index="14" x="1220" y="967" z="6" />
+		<waypoint index="15" x="1216" y="966" z="6" />
+		<waypoint index="16" x="1202" y="962" z="7" />
+	</route>
+	<route id="19" name="irukacraft" color="#00ccff" visible="false">
+		<waypoint index="1" x="1202" y="962" z="7" />
+		<waypoint index="2" x="1216" y="966" z="6" />
+		<waypoint index="3" x="1220" y="967" z="6" />
+		<waypoint index="4" x="1227" y="967" z="7" />
+		<waypoint index="5" x="1252" y="962" z="7" />
+		<waypoint index="6" x="1256" y="949" z="6" />
+		<waypoint index="7" x="1233" y="949" z="6" />
+		<waypoint index="8" x="1232" y="944" z="5" />
+		<waypoint index="9" x="1229" y="934" z="5" />
+		<waypoint index="10" x="1230" y="922" z="6" />
+		<waypoint index="11" x="1250" y="920" z="6" />
+		<waypoint index="12" x="1250" y="906" z="6" />
+		<waypoint index="13" x="1281" y="869" z="6" />
+		<waypoint index="14" x="1278" y="837" z="6" />
+		<waypoint index="15" x="1278" y="802" z="6" />
+		<waypoint index="16" x="1276" y="759" z="6" />
+		<waypoint index="17" x="1277" y="730" z="6" />
+		<waypoint index="18" x="1276" y="716" z="6" />
+		<waypoint index="19" x="1247" y="715" z="6" />
+		<waypoint index="20" x="1247" y="711" z="6" />
+	</route>
+	<route id="20" name="irukacraft2" color="#00ccff" visible="false">
+		<waypoint index="1" x="1247" y="715" z="6" />
+		<waypoint index="2" x="1237" y="724" z="6" />
+		<waypoint index="3" x="1236" y="749" z="6" />
+		<waypoint index="4" x="1236" y="764" z="6" />
+		<waypoint index="5" x="1236" y="771" z="6" />
+		<waypoint index="6" x="1230" y="766" z="6" />
+	</route>
+	<route id="21" name="irukatoryuseiinaba" color="#00ccff" visible="false">
+		<waypoint index="1" x="1247" y="716" z="6" />
+		<waypoint index="2" x="1277" y="716" z="6" />
+		<waypoint index="3" x="1277" y="743" z="6" />
+		<waypoint index="4" x="1278" y="776" z="6" />
+		<waypoint index="5" x="1277" y="810" z="6" />
+		<waypoint index="6" x="1277" y="844" z="6" />
+		<waypoint index="7" x="1279" y="867" z="6" />
+		<waypoint index="8" x="1305" y="868" z="6" />
+		<waypoint index="9" x="1337" y="867" z="6" />
+		<waypoint index="10" x="1369" y="858" z="6" />
+		<waypoint index="11" x="1399" y="850" z="6" />
+		<waypoint index="12" x="1427" y="841" z="6" />
+		<waypoint index="13" x="1430" y="841" z="7" />
+		<waypoint index="14" x="1456" y="834" z="7" />
+		<waypoint index="15" x="1469" y="821" z="7" />
+		<waypoint index="16" x="1477" y="799" z="7" />
+		<waypoint index="17" x="1475" y="775" z="7" />
+		<waypoint index="18" x="1473" y="755" z="7" />
+		<waypoint index="19" x="1488" y="746" z="7" />
+		<waypoint index="20" x="1502" y="745" z="6" />
+		<waypoint index="21" x="1515" y="745" z="6" />
+		<waypoint index="22" x="1538" y="745" z="6" />
+		<waypoint index="23" x="1567" y="745" z="6" />
+		<waypoint index="24" x="1602" y="745" z="6" />
+		<waypoint index="25" x="1633" y="745" z="6" />
+		<waypoint index="26" x="1678" y="745" z="6" />
+		<waypoint index="27" x="1710" y="747" z="6" />
+		<waypoint index="28" x="1738" y="744" z="6" />
+	</route>
+	<route id="22" name="kenjisakamoto" color="#00ccff" visible="false">
+		<waypoint index="1" x="1743" y="747" z="6" />
+		<waypoint index="2" x="1756" y="751" z="6" />
+		<waypoint index="3" x="1760" y="755" z="7" />
+		<waypoint index="4" x="1755" y="774" z="7" />
+		<waypoint index="5" x="1756" y="782" z="7" />
+		<waypoint index="6" x="1780" y="782" z="7" />
+		<waypoint index="7" x="1790" y="781" z="7" />
+	</route>
+	<route id="23" name="sayuriaoki" color="#00ccff" visible="false">
+		<waypoint index="1" x="1801" y="779" z="7" />
+		<waypoint index="2" x="1805" y="759" z="7" />
+		<waypoint index="3" x="1801" y="737" z="7" />
+		<waypoint index="4" x="1802" y="716" z="7" />
+		<waypoint index="5" x="1800" y="696" z="7" />
+		<waypoint index="6" x="1803" y="675" z="7" />
+	</route>
+	<route id="24" name="namitokakashi" color="#00ccff" visible="false">
+		<waypoint index="1" x="1245" y="902" z="6" />
+		<waypoint index="2" x="1250" y="881" z="6" />
+		<waypoint index="3" x="1279" y="867" z="6" />
+		<waypoint index="4" x="1305" y="868" z="6" />
+		<waypoint index="5" x="1337" y="867" z="6" />
+		<waypoint index="6" x="1369" y="858" z="6" />
+		<waypoint index="7" x="1399" y="850" z="6" />
+		<waypoint index="8" x="1427" y="841" z="6" />
+		<waypoint index="9" x="1430" y="841" z="7" />
+		<waypoint index="10" x="1456" y="834" z="7" />
+		<waypoint index="11" x="1469" y="821" z="7" />
+		<waypoint index="12" x="1477" y="799" z="7" />
+		<waypoint index="13" x="1475" y="775" z="7" />
+		<waypoint index="14" x="1473" y="755" z="7" />
+		<waypoint index="15" x="1488" y="746" z="7" />
+		<waypoint index="16" x="1502" y="745" z="6" />
+		<waypoint index="17" x="1538" y="745" z="6" />
+		<waypoint index="18" x="1567" y="745" z="6" />
+		<waypoint index="19" x="1602" y="745" z="6" />
+		<waypoint index="20" x="1633" y="745" z="6" />
+		<waypoint index="21" x="1678" y="745" z="6" />
+		<waypoint index="22" x="1710" y="747" z="6" />
+		<waypoint index="23" x="1738" y="744" z="6" />
+		<waypoint index="24" x="1743" y="747" z="6" />
+		<waypoint index="25" x="1756" y="751" z="6" />
+		<waypoint index="26" x="1760" y="755" z="7" />
+		<waypoint index="27" x="1755" y="774" z="7" />
+		<waypoint index="28" x="1756" y="782" z="7" />
+		<waypoint index="29" x="1780" y="782" z="7" />
+		<waypoint index="30" x="1790" y="781" z="7" />
+		<waypoint index="31" x="1801" y="779" z="7" />
+		<waypoint index="32" x="1805" y="759" z="7" />
+		<waypoint index="33" x="1801" y="737" z="7" />
+		<waypoint index="34" x="1802" y="716" z="7" />
+		<waypoint index="35" x="1800" y="696" z="7" />
+		<waypoint index="36" x="1803" y="675" z="7" />
+	</route>
+	<route id="25" name="kakashitokage" color="#00ccff" visible="false">
+		<waypoint index="1" x="1250" y="890" z="6" />
+		<waypoint index="2" x="1250" y="872" z="6" />
+		<waypoint index="3" x="1276" y="869" z="6" />
+		<waypoint index="4" x="1277" y="841" z="6" />
+		<waypoint index="5" x="1277" y="818" z="6" />
+		<waypoint index="6" x="1277" y="791" z="6" />
+		<waypoint index="7" x="1278" y="762" z="6" />
+		<waypoint index="8" x="1278" y="733" z="6" />
+		<waypoint index="9" x="1277" y="709" z="6" />
+		<waypoint index="10" x="1271" y="700" z="6" />
+	</route>
+	<route id="26" name="tokakashimonumento" color="#00ccff" visible="false">
+		<waypoint index="1" x="1272" y="702" z="6" />
+		<waypoint index="2" x="1287" y="702" z="6" />
+		<waypoint index="3" x="1291" y="694" z="6" />
+		<waypoint index="4" x="1290" y="689" z="5" />
+		<waypoint index="5" x="1284" y="688" z="4" />
+		<waypoint index="6" x="1266" y="688" z="4" />
+		<waypoint index="7" x="1261" y="688" z="3" />
+		<waypoint index="8" x="1264" y="686" z="2" />
+	</route>
+	<route id="27" name="kakashitodungeon" color="#00ccff" visible="false">
+		<waypoint index="1" x="1265" y="679" z="2" />
+		<waypoint index="2" x="1270" y="668" z="2" />
+		<waypoint index="3" x="1271" y="659" z="2" />
+		<waypoint index="4" x="1270" y="654" z="3" />
+		<waypoint index="5" x="1254" y="650" z="3" />
+		<waypoint index="6" x="1254" y="648" z="4" />
+		<waypoint index="7" x="1259" y="639" z="4" />
+		<waypoint index="8" x="1280" y="639" z="4" />
+		<waypoint index="9" x="1287" y="632" z="4" />
+		<waypoint index="10" x="1281" y="619" z="5" />
+		<waypoint index="11" x="1281" y="616" z="6" />
+		<waypoint index="12" x="1269" y="609" z="6" />
+		<waypoint index="13" x="1242" y="617" z="6" />
+		<waypoint index="14" x="1236" y="632" z="6" />
+		<waypoint index="15" x="1248" y="644" z="6" />
+		<waypoint index="16" x="1266" y="647" z="6" />
+		<waypoint index="17" x="1280" y="645" z="6" />
+		<waypoint index="18" x="1289" y="645" z="7" />
+		<waypoint index="19" x="1311" y="646" z="7" />
+		<waypoint index="20" x="1318" y="647" z="7" />
+	</route>
+	<route id="28" name="kakashitodaichi" color="#00ccff" visible="false">
+		<waypoint index="1" x="1258" y="683" z="2" />
+		<waypoint index="2" x="1234" y="681" z="2" />
+		<waypoint index="3" x="1215" y="676" z="2" />
+		<waypoint index="4" x="1212" y="676" z="3" />
+		<waypoint index="5" x="1208" y="676" z="4" />
+		<waypoint index="6" x="1205" y="676" z="5" />
+		<waypoint index="7" x="1199" y="675" z="6" />
+		<waypoint index="8" x="1175" y="679" z="6" />
+		<waypoint index="9" x="1164" y="710" z="6" />
+		<waypoint index="10" x="1161" y="740" z="6" />
+		<waypoint index="11" x="1169" y="767" z="6" />
+		<waypoint index="12" x="1182" y="790" z="6" />
+		<waypoint index="13" x="1186" y="811" z="6" />
+		<waypoint index="14" x="1198" y="830" z="6" />
+		<waypoint index="15" x="1212" y="849" z="6" />
+		<waypoint index="16" x="1200" y="875" z="6" />
+		<waypoint index="17" x="1182" y="874" z="7" />
+		<waypoint index="18" x="1153" y="875" z="7" />
+		<waypoint index="19" x="1109" y="872" z="7" />
+		<waypoint index="20" x="1064" y="873" z="7" />
+		<waypoint index="21" x="1057" y="872" z="7" />
+		<waypoint index="22" x="1037" y="872" z="6" />
+		<waypoint index="23" x="1000" y="897" z="6" />
+		<waypoint index="24" x="994" y="900" z="7" />
+		<waypoint index="25" x="990" y="925" z="7" />
+		<waypoint index="26" x="992" y="958" z="7" />
+		<waypoint index="27" x="964" y="992" z="7" />
+		<waypoint index="28" x="953" y="1023" z="7" />
+		<waypoint index="29" x="928" y="1063" z="7" />
+		<waypoint index="30" x="917" y="1092" z="7" />
+		<waypoint index="31" x="880" y="1094" z="7" />
+		<waypoint index="32" x="852" y="1104" z="7" />
+	</route>
+</routes>

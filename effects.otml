@@ -1,0 +1,4204 @@
+effects:
+  1:
+    opacity: 0.9
+  2:
+    opacity: 0.9
+    draweffectorder: 2
+  3:
+    opacity: 0.8
+  4:
+    opacity: 0.8
+  5:
+    opacity: 0.8
+  6:
+    opacity: 0.8
+  7:
+    opacity: 0.8
+  8:
+    opacity: 0.8
+    effect-displacement: 32 32
+  9:
+    opacity: 0.8
+    effect-displacement: 60 58
+  10:
+    opacity: 0.7
+    draweffectorder: 2
+  11:
+    opacity: 0.7
+  12:
+    opacity: 1.0
+  13:
+    opacity: 0.8
+  14:
+    opacity: 0.9
+  15:
+    opacity: 1.0
+  16:
+    opacity: 1.0
+  17:
+    opacity: 1.0
+  18:
+    opacity: 1.0
+  19:
+    opacity: 1.0
+    isLoop
+  20:
+    opacity: 1.0
+    effect-displacement: 64 64
+  21:
+    opacity: 1.0
+    effect-displacement: 64 64
+  22:
+    opacity: 1.0
+  23:
+    opacity: 0.7
+  24:
+    opacity: 0.8
+  25:
+    opacity: 0.7
+  26:
+    opacity: 1.0
+  27:
+    opacity: 1.0
+  28:
+    opacity: 1.0
+  29:
+    opacity: 1.0
+  30:
+    draweffectorder: 2
+    effect-displacement: 96 96
+    opacity: 1.0
+  31:
+    opacity: 1.0
+    effect-displacement: 96 96
+  32:
+    opacity: 1.0
+    effect-displacement: 80 65
+  33:
+    opacity: 1.0
+    effect-displacement: 65 77
+  34:
+    opacity: 1.0
+    effect-displacement: 72 64
+  35:
+    opacity: 1.0
+    effect-displacement: 65 69
+  36:
+    opacity: 0.7
+  37:
+    opacity: 1.0
+  38:
+    opacity: 1.0
+  39:
+    opacity: 1.0
+    isLoop
+  40:
+    opacity: 1.0
+    isLoop
+  41:
+    opacity: 1.0
+    isLoop
+  42:
+    opacity: 1.0
+  43:
+    opacity: 1.0
+  44:
+    opacity: 0.7
+  45:
+    opacity: 0.7
+  46:
+    opacity: 0.7
+  47:
+    opacity: 0.7
+  48:
+    opacity: 0.7
+  49:
+    opacity: 0.7
+  50:
+    opacity: 0.7
+  51:
+    opacity: 0.8
+  52:
+    opacity: 1.0
+  53:
+    opacity: 1.0
+  54:
+    opacity: 1.0
+  55:
+    opacity: 1.0
+  56:
+    opacity: 0.9
+  57:
+    opacity: 0.9
+  58:
+    opacity: 0.7
+  59:
+    opacity: 0.7
+  60:
+    opacity: 0.7
+  61:
+    opacity: 0.7
+  62:
+    opacity: 0.7
+  63:
+    opacity: 0.7
+  64:
+    opacity: 0.7
+  65:
+    opacity: 0.7
+  66:
+    opacity: 0.7
+  67:
+    opacity: 0.7
+  68:
+    opacity: 0.7
+  69:
+    opacity: 0.7
+  70:
+    opacity: 1.0
+    effect-displacement: 52 52
+  71:
+    opacity: 1.0
+    draweffectorder: 2
+    effect-displacement: 72 88
+  72:
+    opacity: 0.7
+  73:
+    opacity: 0.7
+  74:
+    opacity: 0.7
+  75:
+    opacity: 0.7
+  76:
+    opacity: 0.7
+  77:
+    opacity: 1.0
+    effect-displacement: 32 32
+  78:
+    opacity: 0.7
+  79:
+    opacity: 1
+    effect-displacement: 64 64
+  80:
+    opacity: 1.0
+    draweffectorder: 2
+    effect-displacement: 8 10
+  81:
+    opacity: 1.0
+    effect-displacement: 8 10
+  82:
+    opacity: 1.0
+    draweffectorder: 2
+    effect-displacement: 8 10
+  83:
+    opacity: 1.0
+    effect-displacement: 8 10
+  84:
+    opacity: 1.0
+  85:
+    opacity: 0.9
+    effect-displacement: 16 -32
+    isLoop
+  86:
+    opacity: 0.9
+    effect-displacement: 32 0
+  87:
+    opacity: 1.0
+    effect-displacement: 32 32
+  88:
+    opacity: 1.0
+    effect-displacement: 35 35
+  89:
+    opacity: 1.0
+  90:
+    opacity: 1.0
+    effect-displacement: -2 12
+  91:
+    opacity: 0.7
+  92:
+    opacity: 1.0
+  93:
+    opacity: 1.0
+  94:
+    opacity: 1.0
+  95:
+    draweffectorder: 2
+    opacity: 1.0
+  96:
+    opacity: 0.7
+  97:
+    draweffectorder: 2
+    opacity: 1.0
+  98:
+    opacity: 1.0
+  99:
+    opacity: 1.0
+  100:
+    opacity: 0.7
+  101:
+    opacity: 0.7
+  102:
+    draweffectorder: 2
+  103:
+    draweffectorder: 2
+  104:
+    draweffectorder: 2
+  105:
+    draweffectorder: 2
+  106:
+    opacity: 0.7
+  107:
+    opacity: 1.0
+  108:
+    opacity: 1.0
+  109:
+    opacity: 1.0
+    isLoop
+  110:
+    opacity: 0.7
+  111:
+    opacity: 0.7
+  112:
+    opacity: 0.7
+  113:
+    opacity: 0.7
+  114:
+    opacity: 0.7
+  115:
+    opacity: 0.7
+  116:
+    opacity: 0.7
+  117:
+    opacity: 0.7
+  118:
+    opacity: 0.9
+  119:
+    opacity: 0.7
+  120:
+    opacity: 0.7
+  121:
+    opacity: 0.7
+  122:
+    opacity: 1.0
+  123:
+    opacity: 0.7
+  124:
+    opacity: 0.7
+  125:
+    opacity: 0.7
+  126:
+    opacity: 0.7
+  127:
+    opacity: 0.7
+  128:
+    opacity: 0.7
+  129:
+    opacity: 0.7
+  130:
+    opacity: 0.7
+  131:
+    opacity: 1.0
+  132:
+    opacity: 1.0
+  133:
+    opacity: 0.7
+  134:
+    opacity: 1.0
+    draweffectorder: 2
+  135:
+    opacity: 0.7
+  136:
+    opacity: 1.0
+  137:
+    opacity: 1.0
+  138:
+    opacity: 1.0
+  139:
+    opacity: 0.9
+    effect-displacement: 32 32
+  140:
+    opacity: 0.9
+  141:
+    opacity: 0.7
+  142:
+    opacity: 0.7
+  143:
+    opacity: 0.7
+  144:
+    opacity: 0.7
+  145:
+    opacity: 1.0
+    draweffectorder: 2
+    effect-displacement: 70 80
+  146:
+    opacity: 1.0
+    draweffectorder: 2
+    effect-displacement: 32 32
+  147:
+    opacity: 1.0
+    draweffectorder: 2
+    effect-displacement: 32 32
+  148:
+    opacity: 0.9
+  149:
+    opacity: 0.7
+  150:
+    opacity: 0.7
+  151:
+    opacity: 1.0
+  152:
+    opacity: 1.0
+    effect-displacement: 32 32
+  153:
+    opacity: 0.7
+  154:
+    opacity: 0.9
+  155:
+    opacity: 1.0
+    isLoop
+  156:
+    opacity: 1.0
+    effect-displacement: 64 64
+  157:
+    opacity: 1.0
+    effect-displacement: 3 0
+    isLoop
+  158:
+    opacity: 1.0
+    effect-displacement: 3 0
+    isLoop
+  159:
+    opacity: 1.0
+    effect-displacement: 3 0
+    isLoop
+  160:
+    opacity: 1.0
+    effect-displacement: 3 0
+    isLoop
+  161:
+    opacity: 0.7
+  162:
+    opacity: 0.7
+  163:
+    opacity: 0.7
+  164:
+    opacity: 0.7
+  165:
+    opacity: 1.0
+    effect-displacement: 3 0
+    isLoop
+  166:
+    opacity: 1.0
+  167:
+    opacity: 1.0
+    effect-displacement: -10 0
+    draweffectorder: 2
+  168:
+    opacity: 0.7
+  169:
+    opacity: 0.9
+  170:
+    opacity: 0.7
+  171:
+    opacity: 1.0
+    effect-displacement: 32 32
+  172:
+    opacity: 1.0
+    effect-displacement: 64 64
+  173:
+    opacity: 1.0
+    effect-displacement: 32 32
+  174:
+    opacity: 1.0
+  175:
+    opacity: 1.0
+  176:
+    opacity: 0.7
+  177:
+    opacity: 0.7
+  178:
+    opacity: 0.7
+  179:
+    opacity: 1.0
+  180:
+    opacity: 1.0
+    effect-displacement: 32 32
+  181:
+    opacity: 1.0
+    effect-displacement: 64 64
+  182:
+    opacity: 1.0
+  183:
+    opacity: 0.7
+  184:
+    opacity: 1.0
+    effect-displacement: -4 -4
+    isLoop
+    draweffectorder: 5
+  185:
+    opacity: 1.0
+    effect-displacement: 4 4
+  186:
+    opacity: 1.0
+    effect-displacement: -8 -8
+    isLoop
+  187:
+    opacity: 1.0
+    effect-displacement: -8 -8
+    isLoop
+  188:
+    opacity: 1.0
+    effect-displacement: -6 -17
+    isLoop
+  189:
+    opacity: 0.7
+    effect-displacement: 32 32
+  190:
+    opacity: 0.7
+    isLoop
+    effect-displacement: 32 32
+  191:
+    opacity: 0.7
+    effect-displacement: 32 32
+  192:
+    opacity: 1.0
+    draweffectorder: 2
+  193:
+    opacity: 0.7
+    effect-displacement: 64 160
+  194:
+    opacity: 0.7
+    effect-displacement: 160 64
+  195:
+    opacity: 0.7
+    effect-displacement: 0 96
+  196:
+    opacity: 0.7
+    effect-displacement: 96 0
+  197:
+    opacity: 0.7
+  198:
+    opacity: 0.7
+  199:
+    opacity: 0.7
+  200:
+    opacity: 1.0
+  201:
+    opacity: 1.0
+  202:
+    opacity: 1.0
+  203:
+    opacity: 1.0
+  204:
+    opacity: 1.0
+  205:
+    opacity: 1.0
+  206:
+    opacity: 1.0
+  207:
+    opacity: 1.0
+  208:
+    opacity: 1.0
+    isLoop
+  209:
+    opacity: 1.0
+  210:
+    opacity: 1.0
+  211:
+    opacity: 1.0
+  212:
+    opacity: 1.0
+  213:
+    opacity: 1.0
+  214:
+    opacity: 1.0
+  215:
+    opacity: 1.0
+  216:
+    opacity: 1.0
+  217:
+    opacity: 1.0
+  218:
+    opacity: 1.0
+  219:
+    opacity: 1.0
+  220:
+    opacity: 1.0
+  221:
+    opacity: 0.7
+  222:
+    opacity: 0.7
+  223:
+    opacity: 0.7
+  224:
+    opacity: 1.0
+    effect-displacement: 32 32
+  225:
+    opacity: 1.0
+    effect-displacement: 32 32
+  226:
+    opacity: 0.7
+  227:
+    opacity: 1.0
+  228:
+    opacity: 1.0
+  229:
+    opacity: 1.0
+  230:
+    opacity: 1.0
+    effect-displacement: 80 80
+    draweffectorder: 2
+  231:
+    opacity: 1.0
+    effect-displacement: 128 128
+  232:
+    opacity: 1.0
+  233:
+    opacity: 1.0
+  234:
+    opacity: 1.0
+    effect-displacement: 128 128
+  235:
+    opacity: 1.0
+    effect-displacement: 128 128
+  236:
+    opacity: 1.0
+    effect-displacement: 128 128
+  237:
+    opacity: 1.0
+    effect-displacement: 128 128
+  238:
+    opacity: 1.0
+    effect-displacement: 96 96
+  239:
+    opacity: 1.0
+  240:
+    opacity: 1.0
+    effect-displacement: 80 80
+  241:
+    opacity: 1.0
+    effect-displacement: 64 -32
+  242:
+    opacity: 1.0
+    effect-displacement: 192 32
+  243:
+    opacity: 1.0
+    effect-displacement: 32 192
+  244:
+    opacity: 1.0
+    effect-displacement: -32 64
+  245:
+    opacity: 1.0
+    effect-displacement: 32 160
+  246:
+    opacity: 1.0
+    effect-displacement: 32 160
+  247:
+    opacity: 1.0
+    effect-displacement: 160 32
+  248:
+    opacity: 1.0
+    effect-displacement: 160 32
+  249:
+    opacity: 1.0
+    effect-displacement: 32 -32
+  250:
+    opacity: 1.0
+    effect-displacement: 32 -32
+  251:
+    opacity: 1.0
+    effect-displacement: -32 32
+  252:
+    opacity: 1.0
+    effect-displacement: -32 32
+  253:
+    opacity: 0.7
+  254:
+    opacity: 0.7
+  255:
+    opacity: 0.7
+  256:
+    opacity: 0.7
+    effect-displacement: 64 64
+  257:
+    opacity: 0.7
+    effect-displacement: 64 64
+  258:
+    opacity: 0.7
+  259:
+    opacity: 0.7
+  260:
+    opacity: 0.7
+  261:
+    opacity: 0.7
+  262:
+    opacity: 0.7
+  263:
+    opacity: 0.7
+  264:
+    opacity: 0.7
+  265:
+    opacity: 0.7
+  266:
+    opacity: 0.7
+  267:
+    opacity: 0.7
+  268:
+    opacity: 0.7
+  269:
+    opacity: 0.7
+  270:
+    opacity: 0.7
+  271:
+    opacity: 0.7
+  272:
+    opacity: 0.7
+  273:
+    opacity: 0.7
+  274:
+    opacity: 0.7
+  275:
+    opacity: 0.7
+  276:
+    opacity: 0.7
+  277:
+    opacity: 0.7
+  278:
+    opacity: 0.7
+  279:
+    opacity: 0.7
+  280:
+    opacity: 0.7
+  281:
+    opacity: 0.7
+  282:
+    opacity: 0.7
+  283:
+    opacity: 0.7
+  284:
+    opacity: 0.7
+  285:
+    opacity: 1.0
+  286:
+    opacity: 1.0
+  287:
+    opacity: 0.7
+  288:
+    opacity: 1.0
+    effect-displacement: -8 -8
+    isLoop
+  289:
+    opacity: 1.0
+    effect-displacement: -8 -8
+    isLoop
+  290:
+    opacity: 1.0
+    effect-displacement: -8 -8
+    isLoop
+  291:
+    opacity: 1.0
+    effect-displacement: -8 -8
+    isLoop
+  292:
+    opacity: 1.0
+    effect-displacement: -8 -8
+    isLoop
+  293:
+    opacity: 1.0
+    effect-displacement: -8 -8
+    isLoop
+  294:
+    opacity: 1.0
+    effect-displacement: -8 -8
+    isLoop
+  295:
+    opacity: 1.0
+    effect-displacement: -8 -8
+    isLoop
+  296:
+    opacity: 1.0
+    effect-displacement: -8 -8
+    isLoop
+  297:
+    opacity: 1.0
+    effect-displacement: -8 -8
+    isLoop
+  298:
+    opacity: 1.0
+    effect-displacement: -8 -8
+    isLoop
+  299:
+    opacity: 1.0
+    effect-displacement: -8 -8
+    isLoop
+  300:
+    opacity: 0.8
+  301:
+    opacity: 0.7
+  302:
+    opacity: 0.7
+  303:
+    opacity: 0.7
+  304:
+    opacity: 0.7
+  305:
+    opacity: 0.7
+  306:
+    opacity: 0.7
+  307:
+    opacity: 0.7
+  308:
+    opacity: 0.7
+  309:
+    opacity: 0.7
+  310:
+    opacity: 0.7
+  311:
+    opacity: 0.7
+  312:
+    opacity: 0.7
+  313:
+    opacity: 0.7
+  314:
+    opacity: 0.7
+  315:
+    opacity: 0.7
+  316:
+    opacity: 0.7
+  317:
+    opacity: 0.7
+  318:
+    opacity: 0.7
+  319:
+    opacity: 0.7
+  320:
+    opacity: 0.7
+  321:
+    opacity: 0.7
+  322:
+    opacity: 0.7
+  323:
+    opacity: 0.7
+  324:
+    opacity: 0.7
+  325:
+    opacity: 0.7
+  326:
+    opacity: 0.7
+  327:
+    opacity: 0.7
+  328:
+    opacity: 0.7
+  329:
+    opacity: 0.7
+  330:
+    opacity: 1.0
+    effect-displacement: 32 -32
+  331:
+    opacity: 1.0
+    effect-displacement: 224 32
+  332:
+    opacity: 1.0
+    effect-displacement: 32 224
+  333:
+    opacity: 1.0
+    effect-displacement: -32 32
+  334:
+    opacity: 1.0
+    effect-displacement: -4 -4
+  335:
+    opacity: 1.0
+    effect-displacement: -4 -4
+  336:
+    opacity: 1.0
+    effect-displacement: -4 -4
+  337:
+    opacity: 1.0
+    effect-displacement: -4 -4
+  338:
+    opacity: 1.0
+    effect-displacement: -4 -4
+  339:
+    opacity: 1.0
+    effect-displacement: -4 -4
+  340:
+    opacity: 1.0
+    effect-displacement: -4 -4
+  341:
+    opacity: 1.0
+    effect-displacement: -4 -4
+  342:
+    opacity: 1.0
+    effect-displacement: -4 -4
+  343:
+    opacity: 1.0
+    effect-displacement: -4 -4
+  344:
+    opacity: 1.0
+    effect-displacement: -4 -4
+  345:
+    opacity: 1.0
+    effect-displacement: -4 -4
+  346:
+    opacity: 1.0
+    effect-displacement: -4 -4
+  347:
+    opacity: 1.0
+    effect-displacement: -4 -4
+  348:
+    opacity: 0.7
+  349:
+    opacity: 0.7
+  350:
+    opacity: 0.7
+  351:
+    opacity: 0.7
+  352:
+    opacity: 0.7
+  353:
+    opacity: 0.7
+  354:
+    opacity: 0.7
+  355:
+    opacity: 0.7
+  356:
+    opacity: 0.7
+  357:
+    opacity: 0.7
+  358:
+    opacity: 0.7
+  359:
+    opacity: 0.7
+  360:
+    opacity: 0.7
+  361:
+    opacity: 1.0
+    effect-displacement: 64 64
+  362:
+    opacity: 1.0
+    effect-displacement: 64 64
+  363:
+    opacity: 1.0
+    effect-displacement: 64 64
+  364:
+    opacity: 1.0
+    effect-displacement: 64 64
+  365:
+    opacity: 0.7
+    effect-displacement: 96 96
+  366:
+    opacity: 0.7
+    effect-displacement: 96 96
+  367:
+    opacity: 0.7
+    effect-displacement: 96 96
+  368:
+    opacity: 0.7
+    effect-displacement: 96 96
+  369:
+    opacity: 0.7
+    effect-displacement: 96 96
+  370:
+    opacity: 0.7
+    effect-displacement: 96 96
+  371:
+    opacity: 0.7
+    effect-displacement: 128 128
+  372:
+    opacity: 0.7
+    effect-displacement: 128 128
+  373:
+    opacity: 0.7
+    effect-displacement: 96 96
+  374:
+    opacity: 0.7
+    effect-displacement: 96 0
+  375:
+    opacity: 0.7
+    effect-displacement: 0 96
+  376:
+    opacity: 0.7
+    effect-displacement: 96 256
+  377:
+    opacity: 0.7
+    effect-displacement: 256 96
+  378:
+    opacity: 0.7
+  379:
+    opacity: 0.7
+  380:
+    opacity: 0.7
+  381:
+    opacity: 0.7
+  382:
+    opacity: 0.7
+  383:
+    opacity: 0.7
+  384:
+    opacity: 0.7
+  385:
+    opacity: 0.7
+  386:
+    opacity: 1.0
+  387:
+    opacity: 1.0
+  388:
+    opacity: 0.7
+    effect-displacement: 96 96
+  389:
+    opacity: 0.7
+    effect-displacement: 96 96
+  390:
+    opacity: 0.7
+    effect-displacement: 96 96
+  391:
+    opacity: 0.7
+    effect-displacement: 96 96
+  392:
+    opacity: 0.7
+  393:
+    opacity: 0.7
+  394:
+    opacity: 0.7
+  395:
+    opacity: 0.7
+    effect-displacement: 128 128
+  396:
+    opacity: 0.7
+    effect-displacement: 96 0
+  397:
+    opacity: 0.7
+    effect-displacement: 0 96
+  398:
+    opacity: 0.7
+    effect-displacement: 96 192
+  399:
+    opacity: 0.7
+    effect-displacement: 192 96
+  400:
+    opacity: 0.7
+  401:
+    opacity: 0.7
+    effect-displacement: 64 64
+  402:
+    opacity: 0.7
+    effect-displacement: 96 96
+  403:
+    opacity: 0.7
+  404:
+    opacity: 0.7
+  405:
+    opacity: 0.7
+  406:
+    opacity: 0.7
+  407:
+    opacity: 1.0
+    effect-displacement: 64 64
+  408:
+    opacity: 0.7
+  409:
+    opacity: 0.7
+  410:
+    opacity: 0.7
+  411:
+    opacity: 0.7
+  412:
+    opacity: 0.7
+  413: // efeito visao do vigia norte
+    opacity: 1.0
+    draweffectorder: 2
+  414: // efeito visao do vigia leste
+    opacity: 1.0
+    draweffectorder: 2
+  415: // efeito visao do vigia sul
+    opacity: 1.0
+    draweffectorder: 2
+  416: // efeito visao do vigia oeste
+    opacity: 1.0
+    draweffectorder: 2
+  417:
+    opacity: 0.7
+  418:
+    opacity: 0.7
+  419:
+    opacity: 0.7
+  420:
+    opacity: 0.7
+  421:
+    opacity: 0.7
+  422:
+    opacity: 0.7
+  423:
+    opacity: 0.7
+  424:
+    opacity: 0.7
+  425:
+    opacity: 0.7
+  426:
+    opacity: 0.7
+  427:
+    opacity: 0.7
+  428:
+    opacity: 0.7
+  429:
+    opacity: 0.7
+  430:
+    opacity: 0.7
+  431:
+    opacity: 0.7
+  432:
+    opacity: 0.7
+  433:
+    opacity: 0.7
+  434:
+    opacity: 0.7
+  435:
+    opacity: 0.7
+  436:
+    opacity: 0.7
+  437:
+    opacity: 0.7
+  438:
+    opacity: 0.7
+  439:
+    opacity: 0.7
+  440:
+    opacity: 0.7
+  441:
+    opacity: 0.7
+  442:
+    opacity: 0.7
+  443:
+    opacity: 0.7
+  444:
+    opacity: 0.7
+  445:
+    opacity: 0.7
+  446:
+    opacity: 0.7
+  447:
+    opacity: 1.0
+    effect-displacement: 96 96
+  448:
+    opacity: 1.0
+    effect-displacement: 96 96
+  449:
+    opacity: 0.7
+  450:
+    opacity: 0.7
+  451:
+    opacity: 0.7
+  452:
+    opacity: 0.7
+  453:
+    opacity: 0.7
+  454:
+    opacity: 0.7
+  455:
+    opacity: 0.7
+  456:
+    opacity: 0.7
+  457:
+    opacity: 0.7
+  458:
+    opacity: 0.7
+  459:
+    opacity: 0.7
+  460:
+    opacity: 0.7
+  461:
+    opacity: 0.7
+  462:
+    opacity: 0.7
+  463:
+    opacity: 0.7
+  464:
+    opacity: 0.7
+  465:
+    opacity: 0.7
+  466:
+    opacity: 0.7
+  467:
+    opacity: 0.7
+  468:
+    opacity: 0.7
+  469:
+    opacity: 0.7
+  470:
+    opacity: 0.7
+  471:
+    opacity: 0.7
+  472:
+    opacity: 0.7
+  473:
+    opacity: 0.7
+  474:
+    opacity: 0.7
+  475:
+    opacity: 0.7
+  476:
+    opacity: 0.7
+  477:
+    opacity: 0.7
+  478:
+    opacity: 0.7
+  479:
+    opacity: 0.7
+  480:
+    opacity: 0.7
+  481:
+    opacity: 0.7
+  482:
+    opacity: 0.7
+  483:
+    opacity: 0.7
+  484:
+    opacity: 0.7
+  485:
+    opacity: 0.7
+  486:
+    opacity: 0.7
+  487:
+    opacity: 0.7
+  488:
+    opacity: 0.7
+  489:
+    opacity: 0.7
+  490:
+    opacity: 0.7
+  491:
+    opacity: 0.7
+  492:
+    opacity: 0.7
+  493:
+    opacity: 0.7
+    effect-displacement: 79 32
+  494:
+    opacity: 0.7
+  495:
+    opacity: 0.7
+    effect-displacement: 32 32
+  496:
+    opacity: 0.7
+  497:
+    opacity: 0.7
+  498:
+    opacity: 0.7
+  499:
+    opacity: 0.7
+  500:
+    opacity: 0.7
+  501:
+    opacity: 0.7
+  502:
+    opacity: 1.0
+    effect-displacement: 32 32
+  503:
+    opacity: 1.0
+    effect-displacement: 140 146
+  504:
+    opacity: 1.0
+    effect-displacement: 54 58
+  505:
+    opacity: 0.7
+    effect-displacement: 32 32
+  506:
+    opacity: 0.7
+    effect-displacement: 64 16
+  507:
+    opacity: 0.7
+  508:
+    opacity: 0.7
+  509:
+    opacity: 0.7
+  510:
+    opacity: 0.7
+  511:
+    opacity: 0.7
+  512:
+    opacity: 0.7
+  513:
+    opacity: 0.7
+  514:
+    opacity: 0.7
+  515:
+    opacity: 0.7
+  516:
+    opacity: 0.7
+  517:
+    opacity: 0.7
+  518:
+    opacity: 0.7
+  519:
+    opacity: 0.7
+  520:
+    opacity: 0.7
+  521:
+    opacity: 0.7
+  522:
+    opacity: 0.7
+  523:
+    opacity: 0.7
+  524:
+    opacity: 0.7
+  525:
+    opacity: 0.7
+  526:
+    opacity: 0.7
+  527:
+    opacity: 0.7
+  528:
+    opacity: 0.7
+  529:
+    opacity: 0.7
+  530:
+    opacity: 0.7
+  531:
+    opacity: 0.7
+  532:
+    opacity: 0.7
+  533:
+    opacity: 0.7
+  534:
+    opacity: 0.7
+  535:
+    opacity: 0.7
+  536:
+    opacity: 0.7
+  537:
+    opacity: 0.7
+  538:
+    opacity: 0.7
+  539:
+    opacity: 0.7
+  540:
+    opacity: 0.7
+  541:
+    opacity: 0.7
+  542:
+    opacity: 0.7
+  543:
+    opacity: 0.7
+  544:
+    opacity: 0.7
+  545:
+    opacity: 0.7
+  546:
+    opacity: 0.7
+  547:
+    opacity: 0.7
+  548:
+    opacity: 0.7
+  549:
+    opacity: 0.7
+  550:
+    opacity: 0.7
+  551:
+    opacity: 0.7
+  552:
+    opacity: 0.7
+  553:
+    opacity: 0.7
+  554:
+    opacity: 0.7
+  555:
+    opacity: 0.7
+  556:
+    opacity: 0.7
+  557:
+    opacity: 0.7
+  558:
+    opacity: 0.7
+  559:
+    opacity: 0.7
+  560:
+    opacity: 0.7
+  561:
+    opacity: 0.7
+  562:
+    opacity: 0.7
+  563:
+    opacity: 0.7
+  564:
+    opacity: 0.7
+  565:
+    opacity: 0.7
+  566:
+    opacity: 0.7
+  567:
+    opacity: 0.7
+  568:
+    opacity: 0.7
+  569:
+    opacity: 0.7
+  570:
+    opacity: 0.7
+  571:
+    opacity: 0.7
+  572:
+    opacity: 0.7
+  573:
+    opacity: 0.7
+  574:
+    opacity: 0.7
+  575:
+    opacity: 0.7
+  576:
+    opacity: 0.7
+  577:
+    opacity: 0.7
+  578:
+    opacity: 0.7
+  579:
+    opacity: 0.7
+  580:
+    opacity: 0.7
+  581:
+    opacity: 0.7
+  582:
+    opacity: 0.7
+  583:
+    opacity: 0.7
+  584:
+    opacity: 0.7
+  585:
+    opacity: 1.0
+    effect-displacement: 32 32
+  586:
+    opacity: 1.0
+    effect-displacement: 32 32
+  587:
+    opacity: 1.0
+    effect-displacement: 32 32
+  588:
+    opacity: 1.0
+    effect-displacement: 32 32
+  589:
+    opacity: 0.7
+  590:
+    opacity: 0.7
+  591:
+    opacity: 0.7
+  592:
+    opacity: 0.7
+  593:
+    opacity: 0.7
+  594:
+    opacity: 0.7
+  595:
+    opacity: 0.7
+  596:
+    opacity: 0.7
+  597:
+    opacity: 0.7
+  598:
+    opacity: 0.7
+  599:
+    opacity: 0.7
+  600:
+    opacity: 1.0
+    draweffectorder: 2
+  601:
+    opacity: 1.0
+    draweffectorder: 2
+  602:
+    opacity: 1.0
+    draweffectorder: 2
+    effect-displacement: 32 32
+  603:
+    opacity: 1.0
+    draweffectorder: 2
+    effect-displacement: 128 128
+  604:
+    opacity: 1.0
+    draweffectorder: 2
+  605:
+    opacity: 1.0
+    draweffectorder: 2
+  606:
+    opacity: 1.0
+    draweffectorder: 2
+    effect-displacement: 32 32
+  607:
+    opacity: 1.0
+    draweffectorder: 2
+    effect-displacement: 128 128
+  608:
+    opacity: 1.0
+    draweffectorder: 2
+  609:
+    opacity: 1.0
+    draweffectorder: 2
+  610:
+    opacity: 1.0
+    draweffectorder: 2
+    effect-displacement: 32 32
+  611:
+    opacity: 1.0
+    draweffectorder: 2
+    effect-displacement: 128 128
+  612:
+    opacity: 1.0
+    draweffectorder: 2
+  613:
+    opacity: 1.0
+    draweffectorder: 2
+  614:
+    opacity: 1.0
+    draweffectorder: 2
+    effect-displacement: 32 32
+  615:
+    opacity: 1.0
+    draweffectorder: 2
+    effect-displacement: 128 128
+  616:
+    opacity: 0.7
+  617:
+    opacity: 0.7
+  618:
+    opacity: 0.7
+  619:
+    opacity: 0.7
+  620:
+    opacity: 0.7
+  621:
+    opacity: 0.7
+  622:
+    opacity: 0.7
+  623:
+    opacity: 0.7
+  624:
+    opacity: 0.7
+  625:
+    opacity: 0.7
+  626:
+    opacity: 0.7
+  627:
+    opacity: 0.7
+  628:
+    opacity: 0.7
+  629:
+    opacity: 0.7
+  630:
+    opacity: 0.7
+  631:
+    opacity: 0.7
+  632:
+    opacity: 0.7
+  633:
+    opacity: 0.7
+  634:
+    opacity: 0.7
+  635:
+    opacity: 0.7
+  636:
+    opacity: 0.7
+  637:
+    opacity: 0.7
+  638:
+    opacity: 0.7
+  639:
+    opacity: 0.7
+  640:
+    opacity: 0.7
+  641:
+    opacity: 0.7
+  642:
+    opacity: 0.7
+  643:
+    opacity: 0.7
+  644:
+    opacity: 0.7
+  645:
+    opacity: 0.7
+  646:
+    opacity: 0.7
+  647:
+    opacity: 0.7
+  648:
+    opacity: 0.7
+  649:
+    opacity: 0.7
+  650:
+    opacity: 0.7
+  651:
+    opacity: 0.7
+  652:
+    opacity: 0.7
+  653:
+    opacity: 0.7
+  654:
+    opacity: 0.7
+  655:
+    opacity: 0.7
+  656:
+    opacity: 0.7
+  657:
+    opacity: 0.7
+  658:
+    opacity: 0.7
+  659:
+    opacity: 0.7
+  660:
+    opacity: 0.7
+  661:
+    opacity: 0.7
+  662:
+    opacity: 0.7
+  663:
+    opacity: 0.7
+  664:
+    opacity: 0.7
+  665:
+    opacity: 0.7
+  666:
+    opacity: 0.7
+  667:
+    opacity: 0.7
+  668:
+    opacity: 0.7
+  669:
+    opacity: 0.7
+  670:
+    opacity: 0.7
+  671:
+    opacity: 0.7
+  672:
+    opacity: 0.7
+  673:
+    opacity: 0.7
+  674:
+    opacity: 0.7
+  675:
+    opacity: 0.7
+  676:
+    opacity: 0.7
+  677:
+    opacity: 0.7
+  678:
+    opacity: 0.7
+  679:
+    opacity: 0.7
+  680:
+    opacity: 0.7
+  681:
+    opacity: 0.7
+  682:
+    opacity: 0.7
+  683:
+    opacity: 0.7
+  684:
+    opacity: 0.7
+  685:
+    opacity: 0.7
+  686:
+    opacity: 0.7
+  687:
+    opacity: 0.7
+  688:
+    opacity: 0.7
+  689:
+    opacity: 0.7
+  690:
+    opacity: 0.7
+  691:
+    opacity: 0.7
+  692:
+    opacity: 0.7
+  693:
+    opacity: 0.7
+  694:
+    opacity: 0.7
+  695:
+    opacity: 0.7
+  696:
+    opacity: 0.7
+  697:
+    opacity: 0.7
+  698:
+    opacity: 0.7
+  699:
+    opacity: 0.7
+  700:
+    opacity: 0.7
+  701: // rasengan effect
+    opacity: 1.0
+    effect-displacement: 64 32
+  702: // rasengan effect
+    opacity: 1.0
+    effect-displacement: 160 64
+  703: // rasengan effect
+    opacity: 1.0
+    effect-displacement: 64 160
+  704: // rasengan effect
+    opacity: 1.0
+    effect-displacement: 32 64
+  705: // sharingan
+    opacity: 1.0
+    effect-displacement: 64 64
+    draweffectorder: 2
+  706: // boruto shuriken relampago
+    opacity: 1.0
+    effect-displacement: 64 32
+  707: // boruto shuriken relampago
+    opacity: 1.0
+    effect-displacement: 64 -96
+  708: // boruto shuriken relampago
+    opacity: 1.0
+    effect-displacement: 64 96
+  709: // boruto shuriken relampago
+    opacity: 1.0
+    effect-displacement: 64 128
+    draweffectorder: 2
+  710:
+    opacity: 0.7
+  711: // shino sombra spike frontal
+    opacity: 1.0
+    effect-displacement: 32 0
+  712: // shino sombra spike frontal
+    opacity: 1.0
+    effect-displacement: 128 32
+  713: // shino sombra spike frontal
+    opacity: 1.0
+    effect-displacement: 32 128
+  714: // shino sombra spike frontal
+    opacity: 1.0
+    effect-displacement: 0 32
+  715: // boruto shuriken relampago
+    opacity: 1.0
+    effect-displacement: 32 64
+  716: // boruto shuriken relampago
+    opacity: 1.0
+    effect-displacement: 96 64
+  717: // boruto shuriken relampago
+    opacity: 1.0
+    effect-displacement: 128 64
+    draweffectorder: 2
+  718: // boruto shuriken relampago
+    opacity: 1.0
+    effect-displacement: -96 64
+    draweffectorder: 2
+  719:
+    opacity: 1.0
+    draweffectorder: 2
+    effect-displacement: 96 64
+  720:
+    opacity: 1.0
+    effect-displacement: 96 96
+  721:
+    opacity: 1.0
+    effect-displacement: 96 96
+  722: // shikamaru spike
+    opacity: 1.0
+  723: // shikamaru attached effect
+    opacity: 1.0
+    isLoop
+    draweffectorder: 2
+    effect-displacement: 0 0
+  724:
+    opacity: 1.0
+    effect-displacement: -64 0
+  725:
+    opacity: 1.0
+    effect-displacement: -32 0
+  726:
+    opacity: 1.0
+  727: // shino chuva inseto
+    opacity: 1.0
+    effect-displacement: 32 32
+  728: // shino chicote inseto norte
+    opacity: 1.0
+    effect-displacement: 96 32
+  729: // shino chicote inseto leste
+    opacity: 1.0
+    effect-displacement: 192 96
+  730: // shino chicote inseto sul
+    opacity: 1.0
+    effect-displacement: 96 192
+  731: // shino chicote inseto oeste
+    opacity: 1.0
+    effect-displacement: 32 96
+  732: // shuriken tenten fincada
+    opacity: 1.0
+  733: // tornado inseto
+    opacity: 1.0
+    effect-displacement: 64 64
+  734:
+    opacity: 1.0
+    effect-displacement: 64 64
+    draweffectorder: 2
+  735:
+    opacity: 1.0
+    effect-displacement: 64 64
+    draweffectorder: 2
+  736:
+    opacity: 1.0
+    effect-displacement: 32 32
+  737: // kirin amarelo pt 1
+    opacity: 1.0
+    effect-displacement: 32 32
+  738:
+    opacity: 1.0
+    effect-displacement: 64 0
+    draweffectorder: 2
+  739:
+    opacity: 1.0
+    effect-displacement: 224 64
+    draweffectorder: 2
+  740:
+    opacity: 1.0
+    effect-displacement: 64 224
+    draweffectorder: 2
+  741:
+    opacity: 1.0
+    effect-displacement: 0 64
+    draweffectorder: 2
+  742: // kirin amarelo pt 1
+    opacity: 1.0
+    effect-displacement: 128 128
+  743: // sarada lightning frontal north
+    opacity: 1.0
+    effect-displacement: 64 0
+  744: // sarada lightning frontal east
+    opacity: 1.0
+    effect-displacement: 160 32
+  745: // sarada lightning frontal south
+    opacity: 1.0
+    effect-displacement: 64 160
+  746: // sarada lightning frontal west
+    opacity: 1.0
+    effect-displacement: 0 32
+  747: // mitsuki lightning frontal north
+    opacity: 1.0
+    effect-displacement: 32 -32
+  748: // mitsuki lightning frontal east
+    opacity: 1.0
+    effect-displacement: 192 20
+  749: // mitsuki lightning frontal south
+    opacity: 1.0
+    effect-displacement: 20 192
+  750: // mitsuki lightning frontal west
+    opacity: 1.0
+    effect-displacement: -32 32
+  751:
+    opacity: 0.7
+  752:
+    opacity: 0.7
+  753:
+    opacity: 0.7
+  754:
+    opacity: 0.7
+  755:
+    opacity: 0.7
+  756:
+    opacity: 0.7
+  757:
+    opacity: 0.7
+  758:
+    opacity: 0.7
+  759:
+    opacity: 0.7
+  760:
+    opacity: 0.7
+  761:
+    opacity: 0.7
+  762:
+    opacity: 0.7
+  763:
+    opacity: 0.7
+  764:
+    opacity: 0.7
+  765:
+    opacity: 0.7
+  766:
+    opacity: 0.7
+  767:
+    opacity: 0.7
+    isLoop
+    draweffectorder: 2
+    effect-displacement: 0 0
+  768:
+    opacity: 0.7
+    effect-displacement: 12 12
+  769:
+    opacity: 0.7
+    effect-displacement: 32 32
+    draweffectorder: 2
+  770:
+    opacity: 0.7
+    effect-displacement: 20 20
+    draweffectorder: 2
+  771:
+    opacity: 0.7
+  772:
+    opacity: 0.9
+    draweffectorder: 2
+    effect-displacement: 64 64
+    isLoop
+  773:
+    opacity: 0.7
+  774:
+    opacity: 0.7
+  775:
+    opacity: 0.7
+  776:
+    opacity: 0.7
+  777:
+    opacity: 0.7
+  778:
+    opacity: 0.7
+  779:
+    opacity: 0.7
+  780:
+    opacity: 0.7
+  781:
+    opacity: 0.7
+  782:
+    opacity: 0.7
+  783:
+    opacity: 0.7
+  784:
+    opacity: 0.7
+  785:
+    opacity: 0.7
+  786:
+    opacity: 0.7
+  787:
+    opacity: 0.7
+  788:
+    opacity: 0.7
+  789:
+    opacity: 0.7
+  790:
+    opacity: 0.7
+  791:
+    opacity: 0.7
+  792:
+    opacity: 0.7
+  793:
+    opacity: 0.7
+  794:
+    opacity: 0.7
+  795:
+    opacity: 0.7
+  796:
+    opacity: 0.7
+  797:
+    opacity: 0.7
+  798:
+    opacity: 0.7
+  799:
+    opacity: 0.7
+  800:
+    opacity: 1.0
+    draweffectorder: 2
+  801:
+    opacity: 0.8
+  802:
+    opacity: 0.7
+  803:
+    opacity: 0.7
+  804:
+    opacity: 0.7
+  805:
+    opacity: 0.7
+  806:
+    opacity: 0.7
+  807:
+    opacity: 0.7
+  808:
+    opacity: 0.7
+  809:
+    opacity: 0.7
+  810:
+    opacity: 1.0
+    effect-displacement: 32 32
+  811:
+    opacity: 0.7
+  812:
+    opacity: 0.7
+  813:
+    opacity: 0.7
+  814:
+    opacity: 0.7
+  815:
+    opacity: 0.7
+  816:
+    opacity: 0.7
+  817:
+    opacity: 0.7
+  818:
+    opacity: 0.7
+  819:
+    opacity: 1.0
+    effect-displacement: 96 96
+    draweffectorder: 2
+  820:
+    opacity: 1.0
+    effect-displacement: 64 64
+  821:
+    opacity: 1.0
+    effect-displacement: 96 96
+    draweffectorder: 2
+  822:
+    opacity: 1.0
+    effect-displacement: 64 64
+  823:
+    opacity: 1.0
+    effect-displacement: 96 96
+    draweffectorder: 2
+  824:
+    opacity: 1.0
+    effect-displacement: 64 64
+  825:
+    opacity: 1.0
+    effect-displacement: 96 96
+    draweffectorder: 2
+  826:
+    opacity: 1.0
+    effect-displacement: 64 64
+  827:
+    opacity: 1.0
+    effect-displacement: 96 96
+    draweffectorder: 2
+  828:
+    opacity: 1.0
+    effect-displacement: 64 64
+  829:
+    opacity: 0.7
+  830:
+    opacity: 0.7
+  831:
+    opacity: 0.7
+  832:
+    opacity: 0.7
+  833:
+    opacity: 0.7
+  834:
+    opacity: 0.7
+    effect-displacement: 96 96
+  835:
+    opacity: 1
+    effect-displacement: 64 64
+    draweffectorder: 2
+  836:
+    opacity: 0.7
+  837:
+    opacity: 0.7
+  838:
+    opacity: 0.7
+  839:
+    opacity: 1.0
+    draweffectorder: 2
+    effect-displacement: 64 64
+  840:
+    opacity: 1.0
+    draweffectorder: 2
+    effect-displacement: 64 64
+  841:
+    opacity: 1.0
+    draweffectorder: 2
+    effect-displacement: 64 64
+  842:
+    opacity: 1.0
+    draweffectorder: 2
+    effect-displacement: 64 64
+  843:
+    opacity: 1.0
+    draweffectorder: 2
+    effect-displacement: 96 96
+  844:
+    opacity: 1.0
+  845:
+    opacity: 1.0
+  846:
+    opacity: 1.0
+  847:
+    opacity: 1.0
+    isLoop
+  848:
+    opacity: 1.0
+    effect-displacement: 48 56
+  849:
+    opacity: 1.0
+    draweffectorder: 5
+    effect-displacement: 96 96
+    isLoop
+  850:
+    opacity: 0.7
+  851:
+    opacity: 1.0
+    draweffectorder: 2
+    effect-displacement: 96 96
+    isLoop
+  852:
+    opacity: 0.9
+    effect-displacement: 96 96
+    isLoop
+  853:
+    opacity: 1.0
+    draweffectorder: 2
+    effect-displacement: 24 32
+  854:
+    opacity: 1.0
+    draweffectorder: 2
+    effect-displacement: 64 64
+  855:
+    opacity: 1.0
+    draweffectorder: 2
+    effect-displacement: 64 64
+  856:
+    opacity: 1.0
+    isLoop
+  857:
+    opacity: 1.0
+    effect-displacement: 64 32
+  858:
+    opacity: 1.0
+    effect-displacement: 32 64
+  859:
+    opacity: 1.0
+    draweffectorder: 2
+    effect-displacement: 32 32
+  860:
+    opacity: 1.0
+    draweffectorder: 2
+    effect-displacement: 32 32
+  861:
+    opacity: 1.0
+    effect-displacement: 64 0
+  862:
+    opacity: 1.0
+    effect-displacement: 0 64
+  863:
+    opacity: 0.7
+  864:
+    opacity: 0.7
+  865:
+    opacity: 0.7
+  866:
+    opacity: 0.7
+  867:
+    opacity: 0.7
+  868:
+    opacity: 0.7
+  869:
+    opacity: 0.7
+  870:
+    opacity: 1.0
+  871:
+    opacity: 1.0
+  872:
+    opacity: 0.7
+  873:
+    opacity: 0.7
+  874:
+    opacity: 1.0
+    effect-displacement: 64 -32
+  875:
+    opacity: 1.0
+    effect-displacement: 160 64
+  876:
+    opacity: 1.0
+    effect-displacement: 64 160
+  877:
+    opacity: 1.0
+    effect-displacement: -32 64
+  878:
+    opacity: 0.7
+  879:
+    opacity: 0.7
+  880:
+    opacity: 0.7
+  881:
+    opacity: 0.7
+  882:
+    opacity: 0.7
+  883:
+    opacity: 0.7
+  884:
+    opacity: 0.7
+  885:
+    opacity: 0.7
+  886:
+    opacity: 0.7
+  887:
+    opacity: 0.7
+  888:
+    opacity: 0.7
+  889:
+    opacity: 1.0
+    isLoop
+    effect-displacement: -8 -8
+  890:
+    opacity: 1.0
+    effect-displacement: -8 -8
+  891:
+    opacity: 1.0
+    effect-displacement: -8 -8
+  892:
+    opacity: 1.0
+    effect-displacement: -8 -8
+  893:
+    opacity: 1.0
+    effect-displacement: -8 -8
+  894:
+    opacity: 1.0
+    effect-displacement: -8 -8
+  895:
+    opacity: 1.0
+    effect-displacement: -8 -8
+  896:
+    opacity: 1.0
+    effect-displacement: -8 -8
+  897:
+    opacity: 1.0
+    effect-displacement: -8 -8
+  898:
+    opacity: 1.0
+    effect-displacement: -8 -8
+  899:
+    opacity: 1.0
+    effect-displacement: -8 -8
+  900:
+    opacity: 1.0
+    draweffectorder: 2
+    effect-displacement: 64 64
+  901:
+    opacity: 0.9
+  902:
+    opacity: 0.9
+    effect-displacement: 64 64
+  903:
+    opacity: 0.7
+  904:
+    opacity: 0.7
+  905:
+    opacity: 0.7
+  906:
+    opacity: 0.7
+  907:
+    opacity: 0.7
+  908:
+    opacity: 0.7
+  909:
+    opacity: 1.0
+  910:
+    opacity: 0.7
+  911:
+    opacity: 1.0
+  912:
+    opacity: 1.0
+  913:
+    opacity: 0.9
+  914:
+    opacity: 0.7
+  915:
+    opacity: 0.7
+  916:
+    opacity: 1.0
+  917:
+    opacity: 1.0
+  918:
+    opacity: 1.0
+  919:
+    opacity: 0.7
+  920:
+    opacity: 0.7
+  921:
+    opacity: 0.7
+  922:
+    opacity: 0.7
+  923:
+    opacity: 0.7
+  924:
+    opacity: 0.7
+  925:
+    opacity: 0.7
+  926:
+    draweffectorder: 2
+    opacity: 1.0
+  927:
+    opacity: 0.7
+  928:
+    opacity: 0.7
+  929:
+    opacity: 0.7
+  930:
+    opacity: 0.7
+  931:
+    opacity: 0.9
+  932:
+    opacity: 0.7
+  933:
+    opacity: 0.7
+  934:
+    opacity: 0.7
+  935:
+    opacity: 0.7
+  936:
+    opacity: 0.7
+  937:
+    opacity: 0.7
+  938:
+    opacity: 0.7
+  939:
+    opacity: 0.7
+  940:
+    opacity: 0.7
+  941:
+    opacity: 0.7
+  942:
+    opacity: 0.7
+  943:
+    opacity: 0.7
+  944:
+    opacity: 0.7
+  945:
+    opacity: 0.7
+  946:
+    opacity: 0.7
+  947:
+    opacity: 0.7
+  948:
+    opacity: 0.7
+  949:
+    opacity: 0.7
+  950:
+    opacity: 0.7
+  951:
+    opacity: 0.7
+  952:
+    opacity: 0.7
+  953:
+    opacity: 0.7
+  954:
+    opacity: 0.7
+  955:
+    opacity: 0.7
+  956:
+    opacity: 0.7
+  957:
+    opacity: 0.7
+  958:
+    opacity: 0.7
+  959:
+    opacity: 0.7
+  960:
+    opacity: 0.7
+  961:
+    opacity: 0.7
+  962:
+    opacity: 0.7
+  963:
+    opacity: 0.7
+  964:
+    opacity: 0.9
+    effect-displacement: 96 128
+  965:
+    opacity: 0.9
+    effect-displacement: 96 96
+  966:
+    opacity: 0.9
+    effect-displacement: 128 96
+  967:
+    opacity: 0.9
+    effect-displacement: 96 96
+  968:
+    opacity: 0.7
+  969:
+    opacity: 0.7
+  970:
+    opacity: 0.9
+    isLoop
+  971:
+    opacity: 0.7
+  972:
+    opacity: 0.7
+  973:
+    opacity: 1.0
+  974:
+    opacity: 1.0
+  975:
+    opacity: 1.0
+  976:
+    opacity: 1.0
+  977:
+    opacity: 0.7
+  978:
+    opacity: 0.8
+  979:
+    opacity: 1.0
+  980:
+    opacity: 0.9
+    isLoop
+  981:
+    opacity: 0.9
+    isLoop
+  982:
+    opacity: 0.9
+    isLoop
+  983:
+    opacity: 0.9
+  984:
+    opacity: 0.9
+  985:
+    opacity: 0.9
+  986:
+    opacity: 0.9
+    effect-displacement: -40 -40
+  987:
+    opacity: 0.9
+    effect-displacement: -40 -40
+  988:
+    opacity: 0.9
+    effect-displacement: -40 -40
+  989:
+    opacity: 0.9
+    effect-displacement: -40 -40
+  990:
+    opacity: 0.9
+    effect-displacement: -40 -40
+  991:
+    opacity: 0.9
+    effect-displacement: -40 -40
+  992:
+    opacity: 0.9
+    effect-displacement: -40 -40
+  993:
+    opacity: 0.9
+    effect-displacement: -40 -40
+  994:
+    opacity: 0.9
+    effect-displacement: -40 -40
+  995:
+    opacity: 0.9
+    effect-displacement: -40 -40
+  996:
+    opacity: 0.9
+    effect-displacement: -40 -40
+  997:
+    opacity: 1.0
+  998:
+    opacity: 1.0
+  999:
+    opacity: 1.0
+  1000:
+    opacity: 1.0
+    effect-displacement: 32 32
+  1002:
+    opacity: 0.8
+  1003:
+    opacity: 0.8
+    draweffectorder: 2
+    effect-displacement: 96 96
+  1004:
+    opacity: 0.7
+  1005:
+    opacity: 0.9
+    effect-displacement: 32 224
+  1006:
+    opacity: 0.9
+    effect-displacement: 224 32
+  1007:
+    opacity: 0.9
+    effect-displacement: 32 32
+  1008:
+    opacity: 0.9
+    effect-displacement: 32 32
+  1009:
+    opacity: 0.9
+    effect-displacement: 96 96
+  1010:
+    opacity: 0.9
+    draweffectorder: 2
+  1011:
+    opacity: 0.9
+    draweffectorder: 2
+  1012:
+    opacity: 0.9
+    draweffectorder: 2
+    effect-displacement: 64 64
+  1013:
+    opacity: 0.7
+  1014:
+    opacity: 0.7
+  1015:
+    opacity: 0.7
+  1016:
+    opacity: 0.7
+  1017:
+    opacity: 0.7
+  1018:
+    opacity: 0.7
+    effect-displacement: 0 -32
+  1019:
+    opacity: 0.7
+    effect-displacement: 0 64
+  1020:
+    opacity: 0.7
+    effect-displacement: 64 0
+  1021:
+    opacity: 0.7
+    effect-displacement: -32 0
+  1022:
+    opacity: 0.7
+  1023:
+    opacity: 0.7
+  1024:
+    opacity: 0.7
+  1025:
+    opacity: 0.9
+  1026:
+    opacity: 0.9
+  1027:
+    opacity: 0.9
+  1028:
+    opacity: 0.9
+  1029:
+    opacity: 0.9
+  1030:
+    opacity: 0.9
+  1031:
+    opacity: 0.7
+  1032:
+    opacity: 0.7
+  1033:
+    opacity: 0.7
+  1034:
+    opacity: 0.7
+  1035:
+    opacity: 0.7
+  1036:
+    opacity: 0.7
+  1037:
+    opacity: 0.7
+  1038:
+    opacity: 0.7
+  1039:
+    opacity: 0.7
+  1040:
+    opacity: 1.0
+  1041:
+    opacity: 0.7
+  1042:
+    opacity: 0.7
+  1043:
+    opacity: 0.7
+  1044:
+    draweffectorder: 2
+    opacity: 1.0
+    effect-displacement: 64 64
+  1045:
+    opacity: 0.8
+    draweffectorder: 2
+    effect-displacement: 128 0
+  1046:
+    opacity: 0.8
+    draweffectorder: 2
+    effect-displacement: 256 128
+  1047:
+    opacity: 0.8
+    draweffectorder: 2
+    effect-displacement: 128 256
+  1048:
+    opacity: 0.8
+    draweffectorder: 2
+    effect-displacement: 0 128
+  1049:
+    opacity: 1.0
+    draweffectorder: 2
+    effect-displacement: 64 64
+  1050:
+    opacity: 0.8
+    draweffectorder: 2
+  1051:
+    opacity: 0.9
+    draweffectorder: 2
+  1052:
+    opacity: 0.7
+  1053:
+    opacity: 0.7
+  1054:
+    opacity: 0.7
+  1055:
+    opacity: 0.7
+  1056:
+    opacity: 0.7
+  1057:
+    opacity: 0.7
+  1058:
+    opacity: 0.9
+  1059:
+    opacity: 0.7
+    effect-displacement: 64 0
+  1060:
+    opacity: 0.7
+    effect-displacement: 0 0
+  1061:
+    opacity: 0.7
+    effect-displacement: 0 0
+  1062:
+    opacity: 0.7
+    effect-displacement: 0 64
+  1063:
+    opacity: 0.9
+  1064:
+    opacity: 1.0
+  1065:
+    opacity: 0.7
+  1066:
+    opacity: 0.7
+  1067:
+    opacity: 0.7
+  1068:
+    opacity: 0.7
+  1069:
+    opacity: 0.7
+  1070:
+    opacity: 1.0
+    effect-displacement: 0 256
+  1071:
+    opacity: 1.0
+    effect-displacement: 256 0
+  1072:
+    opacity: 0.8
+  1073:
+    opacity: 0.8
+  1074:
+    opacity: 0.7
+  1075:
+    opacity: 0.7
+  1076:
+    opacity: 0.9
+  1077:
+    opacity: 0.7
+  1078:
+    opacity: 0.7
+  1079:
+    opacity: 0.7
+  1080:
+    opacity: 0.9
+  1081:
+    opacity: 0.9
+  1082:
+    opacity: 0.9
+  1083:
+    opacity: 0.9
+  1084:
+    opacity: 0.7
+  1085:
+    opacity: 0.7
+  1086:
+    opacity: 0.9
+    draweffectorder: 2
+    effect-displacement: 64 64
+  1087:
+    opacity: 0.7
+  1088:
+    opacity: 0.7
+  1089:
+    opacity: 0.7
+  1090:
+    opacity: 0.7
+  1091:
+    opacity: 0.7
+  1092:
+    opacity: 0.7
+  1093:
+    opacity: 0.8
+  1094:
+    opacity: 1.0
+    effect-displacement: 0 0
+  1095:
+    opacity: 0.7
+  1096:
+    opacity: 1.0
+    draweffectorder: 2
+  1097:
+    opacity: 1.0
+    draweffectorder: 2
+  1098:
+    opacity: 1.0
+    draweffectorder: 2
+  1099:
+    opacity: 1.0
+    draweffectorder: 2
+  1100:
+    opacity: 1.0
+    draweffectorder: 2
+  1101:
+    opacity: 0.7
+  1102:
+    opacity: 0.7
+  1103:
+    opacity: 0.7
+  1104:
+    opacity: 0.7
+  1105:
+    opacity: 0.7
+  1106:
+    opacity: 0.7
+  1107:
+    opacity: 0.7
+  1108:
+    opacity: 0.7
+  1109:
+    opacity: 0.7
+  1110:
+    opacity: 0.7
+  1111:
+    opacity: 0.7
+  1112:
+    opacity: 0.7
+  1113:
+    opacity: 0.9
+    draweffectorder: 2
+  1114:
+    opacity: 0.9
+    draweffectorder: 2
+  1115:
+    opacity: 0.7
+  1116:
+    opacity: 0.7
+  1117:
+    opacity: 0.7
+  1118:
+    opacity: 0.7
+  1119:
+    opacity: 0.7
+  1120:
+    opacity: 0.7
+  1121:
+    opacity: 0.7
+  1122:
+    opacity: 0.9
+  1123:
+    opacity: 0.9
+  1124:
+    opacity: 0.7
+  1125:
+    opacity: 0.7
+  1126:
+    opacity: 0.7
+  1127:
+    opacity: 0.9
+  1128:
+    opacity: 0.9
+  1129:
+    opacity: 1.0
+  1130:
+    opacity: 1.0
+  1131:
+    opacity: 0.7
+  1132:
+    opacity: 0.7
+  1133:
+    opacity: 0.9
+  1134:
+    opacity: 0.9
+  1135:
+    opacity: 0.9
+  1136:
+    opacity: 0.9
+  1137:
+    opacity: 0.7
+  1138:
+    opacity: 1.0
+  1139:
+    opacity: 1.0
+  1140:
+    opacity: 0.7
+  1141:
+    opacity: 0.7
+  1142:
+    opacity: 0.7
+    draweffectorder: 2
+    effect-displacement: 64 64
+  1143:
+    opacity: 0.7
+  1144:
+    opacity: 0.7
+  1145:
+    opacity: 0.7
+  1146:
+    opacity: 0.7
+  1147:
+    opacity: 0.7
+  1148:
+    opacity: 0.7
+  1149:
+    opacity: 0.7
+  1150:
+    opacity: 0.7
+  1151:
+    opacity: 0.7
+  1152:
+    opacity: 0.7
+  1153:
+    opacity: 0.7
+  1154:
+    opacity: 0.7
+  1155:
+    opacity: 0.7
+  1156:
+    opacity: 0.7
+  1157:
+    opacity: 1.0
+    draweffectorder: 2
+    effect-displacement: 64 64
+  1158:
+    opacity: 0.8
+  1159:
+    opacity: 1.0
+    effect-displacement: 64 64
+  1160:
+    opacity: 1.0
+    draweffectorder: 2
+    effect-displacement: 64 64
+  1161:
+    opacity: 1.0
+  1162:
+    opacity: 1.0
+  1163:
+    opacity: 1.0
+    draweffectorder: 2
+  1164:
+    opacity: 1.0
+    effect-displacement: 64 64
+  1165:
+    opacity: 1.0
+    draweffectorder: 2
+    effect-displacement: 64 64
+  1166:
+    opacity: 0.8
+    effect-displacement: 64 64
+  1167:
+    opacity: 1.0
+    draweffectorder: 2
+    effect-displacement: 64 64
+  1168:
+    opacity: 0.8
+  1169:
+    opacity: 1.0
+    draweffectorder: 2
+  1170:
+    opacity: 0.99
+  1171:
+    opacity: 0.99
+  1172:
+    opacity: 0.99
+    draweffectorder: 2
+  1173:
+    opacity: 0.7
+  1174:
+    opacity: 0.7
+    draweffectorder: 2
+    effect-displacement: 64 64
+  1175:
+    opacity: 0.7
+  1176:
+    opacity: 0.9
+  1177:
+    opacity: 0.9
+  1178:
+    opacity: 0.7
+  1179:
+    opacity: 0.7
+  1180:
+    opacity: 0.7
+  1181:
+    opacity: 0.7
+  1182:
+    opacity: 0.7
+  1183:
+    opacity: 0.7
+  1184:
+    opacity: 0.7
+  1185:
+    opacity: 0.7
+  1186:
+    opacity: 0.7
+  1187:
+    opacity: 0.7
+  1188:
+    opacity: 0.7
+  1189:
+    opacity: 0.7
+  1190:
+    opacity: 0.7
+  1191:
+    opacity: 0.7
+  1192:
+    opacity: 0.7
+  1193:
+    opacity: 0.7
+  1194:
+    opacity: 0.7
+  1195:
+    opacity: 0.7
+  1196:
+    opacity: 0.7
+  1197:
+    opacity: 0.7
+  1198:
+    opacity: 0.9
+  1199:
+    opacity: 0.9
+  1200:
+    opacity: 0.9
+  1201:
+    opacity: 0.9
+  1202:
+    opacity: 0.7
+  1203:
+    opacity: 1.0
+  1204:
+    opacity: 1.0
+  1205:
+    opacity: 0.9
+  1206:
+    opacity: 1.0
+  1207:
+    opacity: 1.0
+  1208:
+    opacity: 1.0
+  1209:
+    opacity: 1.0
+  1210:
+    opacity: 1.0
+  1211:
+    opacity: 1.0
+  1212:
+    opacity: 1.0
+  1213:
+    opacity: 0.7
+  1214:
+    opacity: 0.7
+  1215:
+    opacity: 0.9
+  1216:
+    opacity: 0.9
+  1217:
+    opacity: 0.7
+  1218:
+    opacity: 0.7
+  1219:
+    opacity: 0.7
+  1220:
+    opacity: 0.7
+  1221:
+    opacity: 0.7
+  1222:
+    opacity: 0.7
+  1223:
+    draweffectorder: 2
+    opacity: 0.9
+  1224:
+    opacity: 0.8
+    effect-displacement: 64 64
+  1225:
+    draweffectorder: 2
+    opacity: 0.8
+    effect-displacement: -32 32
+  1226:
+    draweffectorder: 2
+    opacity: 0.8
+    effect-displacement: 192 32
+  1227:
+    draweffectorder: 2
+    opacity: 0.8
+    effect-displacement: 32 -32
+  1228:
+    draweffectorder: 2
+    opacity: 0.8
+    effect-displacement: 32 192
+  1229:
+    draweffectorder: 2
+    opacity: 0.8
+  1230:
+    opacity: 0.7
+  1231:
+    opacity: 0.8
+    effect-displacement: 224 32
+  1232:
+    opacity: 0.8
+    effect-displacement: 0 32
+  1233:
+    opacity: 0.8
+    effect-displacement: 32 0
+  1234:
+    opacity: 0.8
+    effect-displacement: 32 224
+  1235:
+    opacity: 1.0
+    effect-displacement: 96 128
+  1236:
+    opacity: 0.7
+  1237:
+    opacity: 0.7
+  1238:
+    opacity: 0.7
+  1239:
+    opacity: 0.7
+  1240:
+    opacity: 0.7
+  1241:
+    opacity: 0.7
+  1242:
+    opacity: 0.7
+  1243:
+    opacity: 0.9
+    effect-displacement: 32 0
+    isLoop
+  1244:
+    opacity: 0.9
+    effect-displacement: 32 0
+    isLoop
+  1245:
+    opacity: 0.9
+    effect-displacement: 32 0
+    isLoop
+  1246:
+    opacity: 0.9
+    effect-displacement: 32 0
+    isLoop
+  1247:
+    opacity: 0.9
+    effect-displacement: 32 0
+    isLoop
+  1248:
+    opacity: 0.9
+    effect-displacement: 32 0
+    isLoop
+  1249:
+    opacity: 0.7
+  1250:
+    opacity: 0.7
+  1251:
+    opacity: 0.7
+  1252:
+    opacity: 0.7
+  1253:
+    opacity: 0.7
+  1254:
+    opacity: 0.7
+  1255:
+    opacity: 0.7
+  1256:
+    opacity: 0.7
+  1257:
+    opacity: 0.7
+  1258:
+    opacity: 0.7
+  1259:
+    opacity: 0.7
+  1260:
+    opacity: 0.7
+  1261:
+    opacity: 0.7
+  1262:
+    opacity: 0.7
+  1263:
+    opacity: 1.0
+  1264:
+    opacity: 0.7
+  1265:
+    opacity: 0.7
+  1266:
+    opacity: 0.7
+  1267:
+    opacity: 0.7
+  1268:
+    opacity: 0.7
+  1269:
+    opacity: 0.7
+  1270:
+    opacity: 0.7
+  1271:
+    opacity: 0.7
+  1272:
+    opacity: 0.7
+  1273:
+    opacity: 0.7
+  1274:
+    opacity: 0.7
+  1275:
+    opacity: 0.7
+  1276:
+    opacity: 0.7
+  1277:
+    opacity: 0.7
+  1278:
+    opacity: 0.7
+  1279:
+    opacity: 0.7
+  1280:
+    opacity: 0.7
+  1281:
+    opacity: 0.7
+  1282:
+    opacity: 0.7
+  1283:
+    opacity: 0.7
+  1284:
+    opacity: 0.7
+  1285:
+    opacity: 0.7
+  1286:
+    opacity: 0.7
+  1287:
+    opacity: 0.7
+  1288:
+    opacity: 0.7
+  1289:
+    opacity: 0.7
+  1290:
+    opacity: 0.7
+  1291:
+    opacity: 0.7
+  1292:
+    opacity: 0.7
+  1293:
+    opacity: 0.7
+  1294:
+    opacity: 0.7
+  1295:
+    opacity: 0.7
+  1296:
+    opacity: 0.7
+  1297:
+    opacity: 0.7
+  1298:
+    opacity: 0.7
+  1299:
+    opacity: 0.7
+  1300:
+    opacity: 0.7
+  1301:
+    opacity: 0.7
+  1302:
+    opacity: 0.7
+  1303:
+    opacity: 0.7
+  1304:
+    opacity: 0.7
+  1305:
+    opacity: 0.7
+  1306:
+    opacity: 0.7
+  1307:
+    opacity: 0.7
+  1308:
+    opacity: 0.7
+  1309:
+    opacity: 0.7
+  1310:
+    opacity: 0.7
+  1311:
+    opacity: 0.7
+  1312:
+    opacity: 0.7
+  1313:
+    opacity: 0.7
+  1314:
+    opacity: 0.7
+  1315:
+    opacity: 0.7
+  1316:
+    opacity: 0.7
+  1317:
+    opacity: 0.7
+  1318:
+    opacity: 0.7
+  1319:
+    opacity: 0.7
+  1320:
+    opacity: 0.7
+  1321:
+    opacity: 1.0
+  1322:
+    opacity: 1.0
+  1323:
+    opacity: 1.0
+  1324:
+    opacity: 1.0
+  1325:
+    opacity: 1.0
+  1326:
+    opacity: 1.0
+  1327:
+    opacity: 1.0
+    effect-displacement: 36 36
+  1328:
+    opacity: 0.9
+  1329:
+    opacity: 0.9
+  1330:
+    opacity: 1.0
+  1331:
+    opacity: 1.0
+  1332:
+    opacity: 1.0
+  1333:
+    opacity: 1.0
+  1334:
+    opacity: 1.0
+  1335:
+    opacity: 1.0
+  1336:
+    opacity: 1.0
+    draweffectorder: 2
+    effect-displacement: 56 64
+  1337:
+    opacity: 1.0
+  1338:
+    opacity: 1.0
+  1339:
+    opacity: 1.0
+    effect-displacement: 90 89
+  1340:
+    opacity: 1.0
+  1341:
+    opacity: 1.0
+  1342:
+    opacity: 1.0
+  1343:
+    opacity: 1.0
+  1344:
+    opacity: 1.0
+  1345:
+    opacity: 1.0
+  1346:
+    opacity: 1.0
+  1347:
+    opacity: 1.0
+  1348:
+    opacity: 1.0
+  1349:
+    opacity: 1.0
+  1350:
+    opacity: 1.0
+  1351:
+    opacity: 1.0
+  1352:
+    opacity: 1.0
+  1353:
+    opacity: 1.0
+  1354:
+    opacity: 1.0
+    effect-displacement: 96 96
+  1355:
+    opacity: 1.0
+    draweffectorder: 2
+    effect-displacement: 96 96
+  1356:
+    opacity: 1.0
+    effect-displacement: 96 96
+  1357:
+    opacity: 1.0
+  1358:
+    opacity: 1.0
+  1359:
+    opacity: 1.0
+  1360:
+    opacity: 1.0
+  1361:
+    opacity: 1.0
+    effect-displacement: 64 0
+  1362:
+    opacity: 1.0
+    effect-displacement: 160 64
+  1363:
+    opacity: 1.0
+    effect-displacement: 64 160
+  1364:
+    opacity: 1.0
+    effect-displacement: 0 64
+  1365:
+    opacity: 1.0
+  1366:
+    opacity: 1.0
+  1367:
+    opacity: 1.0
+  1368:
+    opacity: 1.0
+  1369:
+    opacity: 1.0
+  1370:
+    opacity: 1.0
+  1371:
+    opacity: 0.8
+  1372:
+    opacity: 0.8
+  1373:
+    opacity: 1.0
+    effect-displacement: 64 64
+  1374:
+    opacity: 0.8
+  1375:
+    opacity: 1.0
+    effect-displacement: 24 24
+  1376:
+    opacity: 1.0
+    effect-displacement: 24 24
+  1377:
+    opacity: 1.0
+    effect-displacement: 24 24
+  1378:
+    opacity: 1.0
+    effect-displacement: 24 24
+  1380:
+    opacity: 1.0
+    effect-displacement: 96 96
+  1385:
+    opacity: 1.0
+    effect-displacement: 65 65
+  1386:
+    opacity: 1.0
+    effect-displacement: 65 65
+    draweffectorder: 2
+  1387:
+    opacity: 1.0
+    effect-displacement: 65 65
+  1388:
+    opacity: 1.0
+    effect-displacement: 64 64
+  1389:
+    opacity: 1.0
+    effect-displacement: 64 64
+    draweffectorder: 2
+  1390:
+    opacity: 1.0
+    effect-displacement: 64 64
+  1392:
+    opacity: 0.8
+  1393:
+    opacity: 1.0
+    effect-displacement: 64 64
+  1394:
+    opacity: 1.0
+    effect-displacement: 0 0
+  1395:
+    opacity: 1.0
+    effect-displacement: 224 0
+  1396:
+    opacity: 1.0
+    effect-displacement: 0 224
+  1397:
+    opacity: 1.0
+    effect-displacement: 0 0
+  1398:
+    opacity: 1.0
+    effect-displacement: 0 0
+  1399:
+    opacity: 1.0
+    effect-displacement: 224 0
+  1400:
+    opacity: 1.0
+    effect-displacement: 0 224
+  1401:
+    opacity: 1.0
+    effect-displacement: 0 0
+  1402:
+    opacity: 1.0
+    effect-displacement: 0 0
+  1403:
+    opacity: 1.0
+    effect-displacement: 224 0
+  1404:
+    opacity: 1.0
+    effect-displacement: 0 224
+  1405:
+    opacity: 1.0
+    effect-displacement: 0 0
+  1406:
+    opacity: 1.0
+    effect-displacement: 96 96
+  1407:
+    opacity: 1.0
+    effect-displacement: 96 96
+  1408:
+    opacity: 1.0
+    effect-displacement: 96 96
+  1409:
+    opacity: 1.0
+    draweffectorder: 2
+    effect-displacement: 96 96
+  1410:
+    opacity: 1.0
+    effect-displacement: 192 32
+  1411:
+    opacity: 1.0
+    effect-displacement: 0 32
+  1412:
+    opacity: 1.0
+    effect-displacement: 32 0
+  1413:
+    opacity: 1.0
+    effect-displacement: 32 192
+  1414:
+    opacity: 1.0
+    effect-displacement: 96 96
+    draweffectorder: 2
+  1415:
+    opacity: 1.0
+    effect-displacement: 64 64
+    draweffectorder: 2
+  1416:
+    opacity: 1.0
+    draweffectorder: 2
+  1417:
+    opacity: 1.0
+  1418:
+    opacity: 1.0
+  1419:
+    opacity: 1.0
+  1420:
+    opacity: 1.0
+  1421:
+    opacity: 1.0
+    draweffectorder: 2
+  1422:
+    opacity: 1.0
+  1423:
+    opacity: 1.0
+  1424:
+    opacity: 1.0
+  1425:
+    opacity: 1.0
+  1426:
+    opacity: 1.0
+    effect-displacement: 64 -32
+  1427:
+    opacity: 1.0
+    effect-displacement: 64 -32
+    draweffectorder: 2
+  1428:
+    opacity: 1.0
+    effect-displacement: 160 64
+  1429:
+    opacity: 1.0
+    effect-displacement: 160 64
+    draweffectorder: 2
+  1430:
+    opacity: 1.0
+    effect-displacement: 64 160
+  1431:
+    opacity: 1.0
+    effect-displacement: 64 160
+    draweffectorder: 2
+  1432:
+    opacity: 1.0
+    effect-displacement: -32 64
+  1433:
+    opacity: 1.0
+    effect-displacement: -32 64
+    draweffectorder: 2
+  1434:
+    opacity: 1.0
+    effect-displacement: 128 128
+  1435:
+    opacity: 1.0
+    effect-displacement: 64 32
+  1436:
+    opacity: 1.0
+    effect-displacement: 96 96
+    draweffectorder: 2
+  1437:
+    opacity: 1.0
+    effect-displacement: 96 96
+  1438:
+    opacity: 1.0
+    effect-displacement: 64 0
+  1439:
+    opacity: 1.0
+    effect-displacement: 256 48
+  1440:
+    opacity: 1.0
+    effect-displacement: 64 256
+  1441:
+    opacity: 1.0
+    effect-displacement: 0 64
+  1442:
+    opacity: 1.0
+    effect-displacement: 32 32
+  1443:
+    opacity: 1.0
+    draweffectorder: 2
+    effect-displacement: 33 35
+  1444:
+    opacity: 1.0
+    effect-displacement: 160 0
+  1445:
+    opacity: 1.0
+    effect-displacement: 160 160
+  1446:
+    opacity: 1.0
+    effect-displacement: 160 160
+  1447:
+    opacity: 1.0
+    effect-displacement: 0 160
+  1448:
+    opacity: 1.0
+    effect-displacement: 96 0
+  1449:
+    opacity: 1.0
+    effect-displacement: 96 96
+  1450:
+    opacity: 1.0
+    effect-displacement: 96 96
+  1451:
+    opacity: 1.0
+    effect-displacement: 0 96
+  1452:
+    opacity: 1.0
+    effect-displacement: 46 257
+  1453:
+    opacity: 1.0
+    effect-displacement: 96 96
+  1454:
+    opacity: 1.0
+    effect-displacement: 0 0
+  1455:
+    opacity: 1.0
+    effect-displacement: 0 0
+  1456:
+    opacity: 1.0
+    effect-displacement: 32 160
+  1457:
+    opacity: 1.0
+    effect-displacement: 32 0
+  1458:
+    opacity: 1.0
+    effect-displacement: 160 32
+  1459:
+    opacity: 1.0
+    effect-displacement: 0 32
+  1460:
+    opacity: 1.0
+  1461:
+    opacity: 1.0
+    effect-displacement: 64 64
+    draweffectorder: 2
+  1462:
+    opacity: 1.0
+  1463:
+    opacity: 1.0
+    effect-displacement: 96 96
+    draweffectorder: 2
+  1464:
+    opacity: 1.0
+    effect-displacement: 64 64
+    draweffectorder: 2
+  1465:
+    opacity: 1.0
+    effect-displacement: 32 160
+    draweffectorder: 2
+  1466:
+    opacity: 1.0
+    effect-displacement: 0 32
+    draweffectorder: 2
+  1467:
+    opacity: 1.0
+    effect-displacement: 64 64
+  1839:
+    opacity: 0.8
+  1840:
+    opacity: 0.8
+  1899:
+    opacity: 0.8
+  1901:
+    opacity: 0.8
+  1932:
+    opacity: 0.8
+  1933:
+    opacity: 0.8
+  1976:
+    opacity: 0.8
+  2001:
+    opacity: 0.8
+  2002:
+    opacity: 0.8
+    draweffectorder: 2
+  2003:
+    opacity: 0.8
+  2007:
+    opacity: 0.8
+  2008
+    effect-displacement: 32 32
+  2009:
+    opacity: 1.0
+    effect-displacement: 84 83
+  2010:
+    opacity: 0.8
+  2011:
+    opacity: 0.8
+  2012:
+    opacity: 0.85
+    draweffectorder: 2
+  2014:
+    opacity: 0.85
+    draweffectorder: 2
+  2019:
+    opacity: 0.8
+  2020:
+    opacity: 0.8
+  2021:
+    opacity: 0.8
+  2022
+    effect-displacement: 45 -32
+  2023
+    effect-displacement: 256 32
+  2024
+    effect-displacement: -40 32
+  2028:
+    opacity: 0.8
+  2029:
+    opacity: 0.8
+  2037:
+    opacity: 0.8
+  2038:
+    opacity: 0.8
+    effect-displacement: 0 0
+  2040:
+    opacity: 0.8
+  2041:
+    opacity: 1.0
+    effect-displacement: 0 0
+  2042:
+    opacity: 1.0
+    effect-displacement: 32 32
+  2043:
+    opacity: 0.8
+  2044:
+    opacity: 0.8
+  2051:
+    opacity: 0.85
+  2064:
+    opacity: 0.8
+  2065:
+    opacity: 0.8
+    effect-displacement: 32 32
+  2077:
+    opacity: 1.0
+  2078:
+    opacity: 0.8
+    effect-displacement: 20 20
+  2079:
+    opacity: 0.8
+  2086:
+    opacity: 0.8
+  2094:
+    opacity: 0.8
+  2095:
+    draweffectorder: 2
+    opacity: 0.8
+  2097:
+    draweffectorder: 2
+    opacity: 0.85
+  2098:
+    opacity: 0.8
+  2099:
+    opacity: 0.8
+  2102:
+    draweffectorder: 2
+  2103:
+    draweffectorder: 2
+  2104:
+    draweffectorder: 2
+  2105:
+    draweffectorder: 2
+  2108:
+    opacity: 1.0
+  2117:
+    opacity: 0.8
+  2118
+    opacity: 1.0
+    effect-displacement: 56 56
+  2121:
+    opacity: 0.8
+  2122:
+    opacity: 1.0
+    effect-displacement: 32 32
+  2129:
+    opacity: 0.8
+  2130:
+    opacity: 0.9
+    effect-displacement: 18 18
+  2132:
+    opacity: 0.8
+  2133:
+    opacity: 0.8
+  2137:
+    opacity: 0.8
+  2138:
+    opacity: 1.0
+    effect-displacement: 0 32
+  2146:
+    opacity: 0.8
+    draweffectorder: 2
+    effect-displacement: 32 32
+  2147:
+    opacity: 0.8
+    draweffectorder: 2
+    effect-displacement: 32 32
+  2158:
+    opacity: 0.8
+  2159:
+    opacity: 1.0
+    effect-displacement: 32 32
+  2171:
+    opacity: 0.8
+  2172:
+    opacity: 0.8
+  2173:
+    opacity: 0.8
+  2199:
+    opacity: 0.8
+  2200:
+    opacity: 1.0
+    effect-displacement: 32 32
+  2208:
+    opacity: 0.8
+  2209:
+    opacity: 1.0
+    effect-displacement: 0 0
+  2215:
+    opacity: 0.8
+  2216:
+    opacity: 0.8
+  2222:
+    opacity: 0.8
+  2223:
+    opacity: 1.0
+    effect-displacement: 64 64
+  2268:
+    opacity: 0.8
+  2269:
+    opacity: 1.0
+    effect-displacement: 32 32
+  2300:
+    opacity: 0.8
+  2301:
+    opacity: 0.8
+  2302:
+    effect-displacement: 32 32
+  2303:
+    opacity: 0.8
+  2307:
+    opacity: 1.0
+    effect-displacement: 22 22
+  2321:
+    opacity: 0.8
+  2322:
+    opacity: 1.0
+    effect-displacement: 32 32
+  2329:
+    opacity: 0.8
+  2330:
+    opacity: 1.0
+    effect-displacement: 32 32
+  2336:
+    opacity: 0.8
+  2337:
+    opacity: 1.0
+    effect-displacement: 64 32
+  2338:
+    opacity: 0.8
+  2339:
+    opacity: 1.0
+    effect-displacement: 96 0
+  2349:
+    opacity: 0.8
+  2350:
+    opacity: 0.8
+    effect-displacement: 64 32
+  2351:
+    opacity: 0.8
+  2352:
+    opacity: 0.8
+    effect-displacement: 30 30
+  2355:
+    opacity: 0.8
+  2356:
+    opacity: 1.0
+    effect-displacement: 32 32
+  2363:
+    opacity: 0.8
+  2364:
+    opacity: 0.8
+    effect-displacement: 64 32
+  2453:
+    opacity: 0.8
+  2454:
+    opacity: 0.8
+  2461:
+    opacity: 0.8
+  2462:
+    opacity: 1.0
+    effect-displacement: 32 0
+  2502:
+    opacity: 0.8
+  2503:
+    opacity: 0.8
+  2530:
+    opacity: 0.8
+  2531:
+    opacity: 1.0
+    effect-displacement: 32 32
+  2563:
+    opacity: 0.8
+  2564:
+    opacity: 1.0
+    effect-displacement: 0 0
+  2575:
+    opacity: 0.8
+  2576:
+    opacity: 1.0
+    effect-displacement: 32 32
+  2577:
+    opacity: 0.8
+  2578:
+    opacity: 1.0
+    effect-displacement: 32 32
+  2579:
+    opacity: 0.8
+  2580:
+    opacity: 1.0
+    effect-displacement: 32 0
+  2627:
+    opacity: 0.8
+  2628:
+    opacity: 1.0
+    effect-displacement: 0 0
+  2681:
+    opacity: 0.8
+  2682:
+    opacity: 0.8
+    effect-displacement: 32 32
+  2771:
+    opacity: 0.8
+  2772:
+    opacity: 1.0
+    effect-displacement: 32 32
+    draweffectorder: 2
+  2839:
+    opacity: 0.8
+  2840:
+    opacity: 0.9
+    effect-displacement: 64 64
+    draweffectorder: 2
+  2855:
+    opacity: 0.9
+  2898:
+    opacity: 0.8
+  2899:
+    opacity: 0.7
+    draweffectorder: 2
+  2900:
+    opacity: 0.8
+    draweffectorder: 2
+    effect-displacement: 64 64
+  2901:
+    opacity: 0.8
+  2902:
+    opacity: 0.8
+    effect-displacement: 64 64
+  2903:
+    opacity: 1.0
+    effect-displacement: 64 64
+    draweffectorder: 2
+  2904:
+    opacity: 0.7
+    effect-displacement: 64 64
+  2909:
+    opacity: 1.0
+    effect-displacement: 64 64
+  2910:
+    opacity: 0.8
+  2911:
+    opacity: 1.0
+  2912:
+    opacity: 1.0
+  2913:
+    opacity: 0.85
+  2917:
+    opacity: 0.85
+  2918:
+    opacity: 0.85
+  2936:
+    opacity: 0.8
+  2937:
+    opacity: 0.8
+    effect-displacement: 0 0
+  2946:
+    opacity: 0.8
+  2951
+    effect-displacement: 122 117
+  2961:
+    opacity: 0.8
+  2974:
+    opacity: 0.8
+  2976:
+    opacity: 0.85
+  2978:
+    opacity: 0.8
+  2979:
+    opacity: 1.0
+    effect-displacement: 0 0
+  2980:
+    opacity: 0.8
+  2981:
+    opacity: 0.8
+  2982:
+    opacity: 0.8
+  2983:
+    opacity: 0.8
+    effect-displacement: 96 96
+  2984:
+    opacity: 1.0
+    effect-displacement: 64 64
+  2985:
+    opacity: 0.85
+  2986:
+    opacity: 0.85
+  2987:
+    opacity: 0.85
+  2988:
+    opacity: 0.85
+  2989:
+    opacity: 0.85
+  2990:
+    opacity: 0.85
+  2991:
+    opacity: 0.85
+  2992:
+    opacity: 0.85
+  2993:
+    opacity: 0.85
+  2994:
+    opacity: 0.85
+  2995:
+    opacity: 0.85
+  2996:
+    opacity: 0.85
+  2997:
+    opacity: 0.8
+  2998:
+    opacity: 1.0
+    effect-displacement: 32 32
+  2999:
+    opacity: 0.8
+  3000:
+    opacity: 1.0
+    effect-displacement: 32 32
+  3001:
+    opacity: 0.8
+  3002:
+    opacity: 1.0
+    effect-displacement: 122 121
+  3003:
+    opacity: 0.8
+    draweffectorder: 2
+    effect-displacement: 96 96
+  3010:
+    opacity: 0.8
+    draweffectorder: 2
+  3011:
+    opacity: 0.8
+    draweffectorder: 2
+    effect-displacement: 96 96
+  3012:
+    opacity: 0.8
+    draweffectorder: 2
+  3013:
+    opacity: 1.0
+    effect-displacement: 0 0
+  3015:
+    opacity: 0.8
+  3016:
+    opacity: 1.0
+    effect-displacement: 0 0
+  3023:
+    opacity: 0.9
+  3037:
+    opacity: 0.8
+  3038:
+    opacity: 0.8
+  3039:
+    opacity: 0.8
+  3043:
+    opacity: 0.8
+  3044:
+    opacity: 0.8
+    draweffectorder: 2
+  3045:
+    opacity: 1.0
+    effect-displacement: 128 0
+    draweffectorder: 2
+  3046:
+    opacity: 1.0
+    effect-displacement: 256 128
+    draweffectorder: 2
+  3047:
+    opacity: 1.0
+    effect-displacement: 128 256
+    draweffectorder: 2
+  3048:
+    opacity: 1.0
+    effect-displacement: 0 128
+    draweffectorder: 2
+  3049:
+    opacity: 0.8
+    draweffectorder: 2
+    effect-displacement: 86 86
+  3050:
+    opacity: 0.8
+    draweffectorder: 2
+    effect-displacement: 64 64
+  3051:
+    opacity: 0.85
+    draweffectorder: 2
+  3058:
+    opacity: 0.85
+  3063:
+    opacity: 0.85
+  3070:
+    opacity: 1.0
+    effect-displacement: 0 32
+  3071
+    opacity: 1.0
+    effect-displacement: 32 0
+  3072:
+    opacity: 1.0
+    effect-displacement: 33 33
+  3073:
+    opacity: 1.0
+    effect-displacement: 32 0
+  3075:
+    opacity: 0.8
+  3076:
+    opacity: 1.0
+    effect-displacement: 32 32
+  3077:
+    opacity: 0.8
+  3078:
+    opacity: 1.0
+    effect-displacement: 32 32
+  3083:
+    opacity: 0.8
+  3084:
+    opacity: 1.0
+    effect-displacement: 32 32
+  3085:
+    opacity: 0.8
+  3086:
+    effect-displacement: 64 64
+  3092:
+    opacity: 1.0
+    effect-displacement: 128 128
+  3093:
+    opacity: 1.0
+    effect-displacement: 64 64
+  3094:
+    opacity: 0.8
+  3101:
+    opacity: 0.8
+  3102:
+    opacity: 1.0
+    effect-displacement: 0 0
+  3113:
+    opacity: 0.85
+    draweffectorder: 2
+  3114:
+    opacity: 0.85
+    draweffectorder: 2
+  3122:
+    opacity: 0.85
+  3123:
+    opacity: 0.85
+  3127:
+    opacity: 0.8
+  3128:
+    opacity: 0.8
+  3133:
+    opacity: 0.85
+  3134:
+    opacity: 0.85
+  3135:
+    opacity: 0.85
+  3136:
+    opacity: 0.85
+  3137:
+    opacity: 0.8
+    draweffectorder: 2
+  3138:
+    opacity: 0.85
+  3139:
+    opacity: 0.85
+  3142:
+    opacity: 1.0
+    effect-displacement: 50 64
+  3159:
+    opacity: 0.8
+    effect-displacement: 64 64
+  3160:
+    opacity: 0.8
+    draweffectorder: 2
+    effect-displacement: 64 64
+  3161:
+    opacity: 0.8
+    effect-displacement: 64 64
+  3162:
+    opacity: 0.8
+    effect-displacement: 64 64
+  3163:
+    opacity: 0.8
+    draweffectorder: 2
+    effect-displacement: 64 64
+  3164:
+    opacity: 0.8
+    effect-displacement: 64 64
+  3165:
+    opacity: 0.8
+    draweffectorder: 2
+    effect-displacement: 64 64
+  3166:
+    opacity: 0.8
+    effect-displacement: 64 64
+  3167:
+    opacity: 0.8
+    draweffectorder: 2
+    effect-displacement: 64 64
+  3168:
+    opacity: 0.8
+    effect-displacement: 64 64
+  3169:
+    opacity: 0.8
+    draweffectorder: 2
+    effect-displacement: 64 64
+  3170:
+    opacity: 0.895
+  3171:
+    opacity: 0.895
+  3172:
+    opacity: 0.8
+    draweffectorder: 2
+    effect-displacement: 64 64
+  3173:
+    opacity: 0.8
+    effect-displacement: 64 64
+  3174:
+    opacity: 0.85
+    draweffectorder: 2
+  3175:
+    opacity: 0.85
+  3176:
+    opacity: 0.85
+  3177:
+    opacity: 0.85
+  3178:
+    opacity: 0.85
+  3198:
+    opacity: 0.85
+  3199:
+    opacity: 0.85
+  3200:
+    opacity: 0.85
+  3201:
+    opacity: 0.85
+  3215:
+    opacity: 0.85
+  3216:
+    opacity: 0.85
+  3222:
+    opacity: 0.8
+  3223:
+    draweffectorder: 2
+    opacity: 0.8
+  3224:
+    opacity: 0.8
+    effect-displacement: 64 64
+  3225:
+    draweffectorder: 2
+    opacity: 0.8
+  3226:
+    draweffectorder: 2
+    opacity: 0.8
+  3227:
+    draweffectorder: 2
+    opacity: 0.8
+  3228:
+    draweffectorder: 2
+    opacity: 0.8
+  3229:
+    opacity: 0.8
+    effect-displacement: 96 96
+  3230:
+    opacity: 0.8
+  3231:
+    opacity: 0.8
+    effect-displacement: 224 32
+  3232:
+    opacity: 0.8
+    effect-displacement: 0 32
+  3233:
+    opacity: 0.8
+    effect-displacement: 32 0
+  3234:
+    opacity: 0.8
+    effect-displacement: 32 224
+  3239:
+    opacity: 0.8
+  3240:
+    opacity: 0.8
+    effect-displacement: 64 64
+  3243:
+    effect-displacement: 32 0
+  3244:
+    opacity: 0.85
+  3245:
+    effect-displacement: 32 0
+  3246:
+    opacity: 0.85
+  3247:
+    opacity: 0.85
+  3248:
+    opacity: 0.85
+  3252:
+    opacity: 0.85
+  3320:
+    opacity: 0.8
+  3321:
+    opacity: 0.8
+  3324:
+    opacity: 1.0
+    isLoop
+  3325:
+    opacity: 1.0
+    isLoop
+  3326:
+    opacity: 1.0
+    isLoop
+  3329
+    effect-displacement: 32 32
+  3330: // norte
+    opacity: 1.0
+    effect-displacement: 128 96
+  3331: // leste
+    opacity: 1.0
+    effect-displacement: 160 128
+  3332: // sul
+    opacity: 1.0
+    effect-displacement: 128 160
+  3333: // oeste
+    opacity: 1.0
+    effect-displacement: 96 128
+  3339:
+    opacity: 1.0
+    effect-displacement: 32 32
+  3343:
+    opacity: 1.0
+    effect-displacement: 48 48
+    draweffectorder: 2

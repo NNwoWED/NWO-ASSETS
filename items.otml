@@ -1,0 +1,216 @@
+items:
+  356
+    item-displacement: 34 34
+  7311 // fumaça shizune --[[
+    item-displacement: -32 64
+    async-item
+  7312
+    item-displacement: -32 64
+    async-item
+  7313
+    item-displacement: -32 64
+    async-item
+  7314
+    item-displacement: -32 64
+    async-item
+  7315
+    item-displacement: -32 64
+    async-item
+  7316
+    item-displacement: -32 64
+    async-item
+  7317
+    item-displacement: 160 64
+    async-item
+  7318
+    item-displacement: 160 64
+    async-item
+  7319
+    item-displacement: 160 64
+    async-item
+  7320
+    item-displacement: 160 64
+    async-item
+  7321
+    item-displacement: 160 64
+    async-item
+  7322
+    item-displacement: 160 64
+    async-item
+  7323
+    item-displacement: 64 -32
+    async-item
+  7324
+    item-displacement: 64 -32
+    async-item
+  7325
+    item-displacement: 64 -32
+    async-item
+  7326
+    item-displacement: 64 -32
+    async-item
+  7327
+    item-displacement: 64 -32
+    async-item
+  7328
+    item-displacement: 64 -32
+    async-item
+  7329
+    item-displacement: 64 160
+    async-item
+  7330
+    item-displacement: 64 160
+    async-item
+  7331
+    item-displacement: 64 160
+    async-item
+  7332
+    item-displacement: 64 160
+    async-item
+  7333
+    item-displacement: 64 160
+    async-item
+  7334
+    item-displacement: 64 160
+    async-item
+  7525 // fumaca shizune ]]--
+    item-displacement: -32 64
+    async-item
+  10540 // pool of water
+    async-item
+  10541 // pool of water
+    async-item
+  10542 // pool of water
+    async-item
+  10543 // zabuza fog
+    async-item
+  10544 // zabuza fog
+    async-item
+  10545 // zabuza fog
+    async-item
+  10546 // zabuza fog
+    async-item
+  10547 // zabuza fog
+    async-item
+  10548 // pool of water
+    async-item
+  10549 // pool of water
+    async-item
+  10550 // pool of water
+    async-item
+  14393 // pergaminho do ceu
+    async-item
+  14394 // pergaminho da terra
+    async-item
+  24033
+    async-item
+  24034
+    async-item
+  24035
+    async-item
+  24036
+    async-item
+  24037
+    async-item
+  24038
+    async-item
+  24039
+    async-item
+  24040
+    async-item
+  24041
+    async-item
+  24042
+    async-item
+  24043
+    async-item
+  24044
+    async-item
+  24045
+    async-item
+  24046
+    async-item
+  24047
+    async-item
+  24048
+    async-item
+  24049
+    async-item
+  24050
+    async-item
+  24051
+    async-item
+  24052
+    async-item
+  24053
+    async-item
+  24054
+    async-item
+  24055
+    async-item
+  24056
+    async-item
+  24057
+    async-item
+  24058
+    async-item
+  24059
+    async-item
+  24060
+    async-item
+  24061
+    async-item
+  24062
+    async-item
+  24063
+    async-item
+  24064
+    async-item
+  24065
+    async-item
+  24066
+    async-item
+  24067
+    async-item
+  24068
+    async-item
+  24069
+    async-item
+  24070
+    async-item
+  24071
+    async-item
+  24072
+    async-item
+  24073
+    async-item
+  24074
+    async-item
+  24075
+    async-item
+  24076
+    async-item
+  24077
+    async-item
+  24078
+    async-item
+  24079
+    async-item
+  24080
+    async-item
+  24083
+    item-displacement: -5 -5
+  24084
+    item-displacement: -5 -5
+  24144
+    item-displacement: 32 32
+  24146
+    item-displacement: 32 32
+  24160
+    item-displacement: 32 32
+  24161
+    item-displacement: 32 32
+  24169
+    item-displacement: 32 32
+  24170
+    item-displacement: 32 32

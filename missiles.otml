@@ -1,0 +1,85 @@
+missiles:
+  1
+    opacity: 0.6
+  2
+    opacity: 0.8
+  4
+    opacity: 0.6
+  6
+    opacity: 0.6
+  21
+    opacity: 0.6
+  27
+    missile-frame-dur: 25
+  29
+    opacity: 0.6
+  36
+    opacity: 0.6
+  39
+    opacity: 0.6
+  56
+    opacity: 0.6
+  63
+    opacity: 0.6
+  70
+    opacity: 0.6
+  83
+    opacity: 0.6
+  95
+    opacity: 0.6
+  105
+    opacity: 0.6
+  109
+    opacity: 0.6
+  129
+    opacity: 0.6
+  132
+    missile-frame-dur: 10
+  133
+    opacity: 0.6
+  134
+    missile-frame-dur: 10
+  136
+    opacity: 0.6
+  137
+    opacity: 0.6
+  138
+    opacity: 0.6
+  143
+    opacity: 0.6
+  145
+    opacity: 0.6
+  146
+    opacity: 0.6
+  149
+    opacity: 0.6
+  151
+    opacity: 0.6
+  152
+    opacity: 0.6
+  157
+    opacity: 0.6
+  158
+    opacity: 0.6
+  162
+    opacity: 0.6
+  166
+    opacity: 0.6
+  172
+    opacity: 0.6
+  184
+    opacity: 0.6
+  188
+    opacity: 0.6
+  196
+    missile-frame-dur: 10
+  214
+    directional-offset:
+      - 0 32 32
+      - 1 32 32
+      - 2 32 32
+      - 3 32 32
+      - 4 32 32
+      - 5 32 32
+      - 6 32 32
+      - 7 32 32
