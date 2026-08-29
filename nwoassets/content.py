@@ -52,6 +52,7 @@ def scan_directory(root: Path) -> dict[str, object]:
         ".venv",
         "__pycache__",
         "reports",
+        "versions",
     }
     files: list[dict[str, object]] = []
     hashes: defaultdict[str, list[str]] = defaultdict(list)
@@ -289,7 +290,7 @@ def inspect_zip(path: Path) -> dict[str, object]:
 
 
 def inspect_world(root: Path) -> dict[str, object]:
-    world = root / "world"
+    world = root / "assets" / "world"
     if not world.is_dir():
         raise FormatError(f"{world}: diretório world não encontrado")
     maps = [inspect_otbm(path) for path in sorted(world.glob("*.otbm"))]

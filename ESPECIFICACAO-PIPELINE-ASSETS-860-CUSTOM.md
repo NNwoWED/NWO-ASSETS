@@ -12,7 +12,8 @@ O perfil é:
 tibia-860-v2-custom-extended
 ```
 
-A primeira fase implementada é estritamente read-only. Ela:
+A inspeção permanece estritamente read-only. Os comandos de escrita versionam a
+baseline antes de modificar os arquivos oficiais em `assets/`. A ferramenta:
 
 - inventaria e calcula SHA-256 de todos os arquivos;
 - detecta o perfil pelas assinaturas DAT/SPR;
@@ -24,17 +25,27 @@ A primeira fase implementada é estritamente read-only. Ela:
 - valida XMLs e reconhece fragmentos;
 - cataloga OTML sem alterar encoding ou conteúdo;
 - produz relatórios JSON e exit codes adequados.
+- cria `860.rar`, `items.rar` sem XML e `world.zip` contendo somente o OTBM;
+- testa os arquivos compactados antes de permitir qualquer substituição;
+- importa PNGs RGBA em Client IDs de itens existentes;
+- acrescenta sprites, troca apenas a aparência DAT alvo e atualiza o SpriteHash OTB;
+- edita flags booleanas DAT e os 28 bits funcionais OTB por manifesto declarativo;
+- inspeciona uma coordenada OTBM e resolve a pilha Server ID/Client ID;
+- reabre os binários preparados e faz uma troca transacional no local;
+- restaura DAT, SPR e OTB anteriores se a validação final falhar.
 
-Nenhum comando desta fase escreve em DAT, SPR, OTB ou OTBM.
+Os backups ficam em `versions/AAAAMMDD-HHMMSS-microssegundos/`. Arquivos XML,
+OTFI, OTBM e OTML não são modificados pela importação de itens.
 
 ## 2. Baseline comprovada
 
 | Arquivo | Bytes | SHA-256 |
 | --- | ---: | --- |
-| `860/Tibia.dat` | 4.349.631 | `CB19DFE778C2DF4D89E8103B478AC4678AC8825DC6A62629A1A485B2AD46D4DA` |
-| `860/Tibia.spr` | 419.687.836 | `A5F6D901DC4DF99060E5B020AA00DF6BCF0366547153C0BE090BCEA32D3FCFC6` |
-| `860/Tibia.otfi` | 185 | `7743548835944BC799CB871A4E5DEF84F7AF76815031871B9CE74B5EC0E8ADD3` |
-| `items/items.otb` | 996.516 | `1E150F1B8D66710AE79449165E0B237BB79E5CF37E8DE023B9F62ABDC650377E` |
+| `assets/860/Tibia.dat` | 4.369.101 | `B4C7A5D5EA0D020AA9226259E74463C316C8E89CF52CC1989C05858B9873B886` |
+| `assets/860/Tibia.spr` | 430.525.239 | `40FB175894C16FB6319D875612BE202D8B440B9F3CE2E787548C35660C77CC1A` |
+| `assets/860/Tibia.otfi` | 185 | `7743548835944BC799CB871A4E5DEF84F7AF76815031871B9CE74B5EC0E8ADD3` |
+| `assets/items/items.otb` | 1.003.370 | `CA39F2A67BA0F40E1225886982E6B63E69481303D35A48EF965407D088A2A2B5` |
+| `assets/world/mapanovo.otbm` | 78.697.168 | `3F1396A9C7F1817A406897B42D163C25A73CE55E86B072E92416356C96FD3650` |
 
 Assinaturas e versões:
 
@@ -81,20 +92,20 @@ arquivo. O OTFI é obrigatório.
 ```text
 offset  tamanho  campo
 0       4        signature = 0x4C2C7993
-4       2        maxItemId = 24358
-6       2        maxOutfitId = 2285
+4       2        maxItemId = 24522
+6       2        maxOutfitId = 2289
 8       2        maxEffectId = 3363
-10      2        maxMissileId = 216
+10      2        maxMissileId = 219
 ```
 
 Contagens:
 
 ```text
-items     = 24358 - 100 + 1 = 24259
-outfits   = 2285
+items     = 24522 - 100 + 1 = 24423
+outfits   = 2289
 effects   = 3363
-missiles  = 216
-total     = 30123 registros
+missiles  = 219
+total     = 30294 registros
 ```
 
 As categorias são sequenciais, sem tabela de offsets.
@@ -122,7 +133,7 @@ Essa semântica não está no `MetadataReader5` oficial. A CLI a modela como
 - o parse de todas as categorias permanece sincronizado;
 - todos os campos de aparência são válidos;
 - todas as referências cabem no SPR;
-- o parse termina exatamente no byte 4.349.631.
+- o parse termina exatamente no byte 4.369.101.
 
 Não generalizar essa regra para outro DAT 8.60.
 
@@ -160,10 +171,10 @@ O produto das dimensões não pode ultrapassar 4096.
 
 Estado observado:
 
-- 874.016 referências totais de sprite;
-- 244.663 Sprite IDs não zero distintos;
-- 314.374 referências sentinela `0`;
-- Sprite IDs usados entre `1..245380`;
+- 878.146 referências totais de sprite;
+- 250.037 Sprite IDs não zero distintos;
+- 313.854 referências sentinela `0`;
+- Sprite IDs usados entre `1..252143`;
 - maior grupo observado: 4000 sprites.
 
 ## 5. SPR
@@ -172,16 +183,16 @@ Layout:
 
 ```text
 uint32 signature = 0x4C220594
-uint32 spriteCount = 245380
-uint32 offsets[245380]
+uint32 spriteCount = 252143
+uint32 offsets[252143]
 sprite blocks...
 ```
 
-A tabela termina no offset `981528`.
+A tabela termina no offset `1008580`.
 
 Baseline observada:
 
-- 245.380 offsets não zero;
+- 252.143 offsets não zero;
 - nenhum offset compartilhado;
 - nenhum offset fora do arquivo;
 - nenhum payload de tamanho zero;
@@ -203,9 +214,9 @@ csd = OTB 3.20.20-8.60
 
 Foram observados:
 
-- 25.144 nós de item;
-- Server IDs contínuos `100..25243`;
-- Client IDs até `24358`;
+- 25.308 nós de item;
+- Server IDs contínuos `100..25407`;
+- Client IDs até `24522`;
 - múltiplos Server IDs podem apontar para o mesmo Client ID;
 - registros deprecated podem não possuir Client ID.
 
@@ -222,13 +233,11 @@ N:1 e `SpriteHash`.
 
 ## 7. Mapas e configurações
 
-Existem três variantes binariamente diferentes do mapa:
+Existe uma única variante canônica do mapa:
 
-- `world/mapanovo.otbm`;
-- `world/mapanovo 8.otbm`;
-- `mapanovo.otbm` dentro de `world/mapanovo.zip`.
+- `assets/world/mapanovo.otbm`.
 
-As três declaram:
+Ela declara:
 
 ```text
 OTBM map version = 2
@@ -239,12 +248,12 @@ items version = 3.20
 
 A versão de items coincide com o `items.otb`.
 
-A CLI percorre todos os bytes das árvores OTBM. Foram observados 9.663.813 nós
-em `mapanovo 8.otbm`, 9.663.814 em `mapanovo.otbm` e 9.663.813 na cópia do ZIP;
-as três árvores estão balanceadas.
+A CLI percorre todos os bytes da árvore OTBM. Foram observados 10.062.435 nós em
+`mapanovo.otbm`; a árvore está balanceada.
 
-`items/new.xml` é um fragmento com múltiplas raízes, não um documento XML
-standalone. A CLI o envolve apenas em memória para inspeção.
+Os arquivos auxiliares `itemsExport.xml`, `new.xml` e `randomization.xml` foram
+removidos da baseline oficial. Permanecem `items.otb`, `items.xml` e
+`force use.txt` em `assets/items/`.
 
 Os arquivos `.otml` são tratados como configuração textual própria. Não devem
 ser passados para um parser XML.
@@ -259,6 +268,10 @@ nwoassets inspect-client [ROOT] [--deep-spr]
 nwoassets inspect-world [ROOT]
 nwoassets inspect-configs [ROOT]
 nwoassets validate [ROOT] [--deep-spr]
+nwoassets create-version [ROOT]
+nwoassets import-items [ROOT] MANIFEST.csv [--deep-spr]
+nwoassets edit-item-properties [ROOT] MANIFEST.csv [--deep-spr]
+nwoassets inspect-map-position [ROOT] X Y Z
 ```
 
 Todos aceitam:
@@ -273,22 +286,59 @@ Exit codes:
 - `1`: validação concluída com erros;
 - `2`: arquivo inválido, perfil desconhecido ou erro de I/O.
 
-## 9. Próxima fase: importação
+## 9. Versionamento e importador
 
-Antes de habilitar escrita:
+`create-version` exige a estrutura `assets/860`, `assets/items` e `assets/world`.
+Ele usa `rar.exe` para criar e testar `860.rar` e `items.rar`; todos os XMLs são
+excluídos de `items.rar`. `world.zip` recebe exclusivamente o OTBM canônico, que é
+reaberto e comparado por SHA-256. Um `version.json` registra fontes e arquivos.
 
-1. congelar fixtures/golden dos quatro arquivos;
-2. criar writer DAT Metadata5 com a extensão local isolada;
-3. fazer round-trip byte a byte sem mudanças;
-4. implementar split e montagem de PNGs 32x32;
-5. anexar blocos SPR sem modificar os existentes;
-6. obter o `SpriteHash` pelo Item Editor/plugin usado por esta base;
-7. preservar o mapeamento Server ID/Client ID existente;
-8. escrever somente em staging;
-9. reabrir e validar todos os temporários;
-10. testar uma cópia do mapa real no RME.
+`import-items` recebe um CSV UTF-8 com `sequence,client_id,source_path`. A sequência
+deve começar em 1 e ser contínua; Client IDs e caminhos não podem se repetir. O PNG
+deve ser RGBA 8-bit, não entrelaçado, possuir dimensões múltiplas de 32 e
+medir no máximo 224×224. Esse limite mantém o `exactSize` no `uint8` do DAT. O lote:
 
-Até esses critérios serem satisfeitos, a CLI deve continuar read-only.
+1. normaliza alpha zero e magenta opaco como transparência;
+2. separa tiles de 32×32 na ordem bottom-right-first usada pela aparência DAT;
+3. codifica RLE RGBA e acrescenta novos Sprite IDs no final do SPR;
+4. substitui somente a aparência dos Client IDs declarados, com `exactSize`
+   igual à maior dimensão em pixels, conforme o Object Builder;
+5. calcula o MD5 visual compatível com `ItemEditor/PluginInterface/Item.cs`;
+6. atualiza todos os nós OTB mapeados ao Client ID, preservando relações N:1;
+7. cria e testa a versão compactada antes de gerar arquivos temporários;
+8. reabre DAT, SPR e OTB preparados e valida pixels, hashes, contagens e mapeamentos;
+9. troca os três binários no local e executa a validação integrada;
+10. restaura automaticamente os três originais se o commit ou a validação falhar.
+
+Antes de cada lote, o algoritmo de `SpriteHash` precisa coincidir com uma amostra
+determinística de 64 itens da baseline. A fase atual aceita somente Client IDs de
+itens existentes (`100..24522`) e cria aparência estática com uma camada e um frame.
+Criação de novos Client IDs, animações, outfits, effects e missiles continua fora
+do escopo. Não existe mais pasta de staging; temporários atômicos ao lado dos
+binários oficiais são apagados depois do commit ou da reversão.
+
+### 9.1 Editor de propriedades
+
+`edit-item-properties` usa as colunas `sequence`, `server_id`, `client_id`,
+`dat_add_flags`, `dat_remove_flags`, `otb_add_flags` e `otb_remove_flags`. O Client
+ID é opcional no formato, mas deve ser informado quando conhecido para validar o
+mapeamento N:1 do OTB. Múltiplas flags são separadas por `|`.
+
+No DAT, somente flags sem payload podem ser adicionadas ou removidas. Os chunks de
+propriedades com payload e toda a aparência do item são preservados byte a byte.
+No OTB, o editor altera somente a máscara `uint32` do nó identificado pelo Server
+ID; grupo, atributos, filhos e mapeamento para Client ID permanecem iguais.
+
+A operação cria a versão compactada obrigatória, prepara DAT e OTB ao lado dos
+oficiais, reabre ambos, executa a validação integrada e usa rollback automático.
+SPR, OTFI e OTBM não fazem parte do lote e devem permanecer com o mesmo SHA-256.
+
+### 9.2 Inspetor de posição
+
+`inspect-map-position` percorre a árvore de forma streaming e não grava o OTBM.
+O relatório enumera a pilha a partir de 1, identifica itens inline e filhos,
+decodifica `action_id`, `unique_id` e `count` quando presentes, e enriquece cada
+Server ID com Client ID, grupo, máscara OTB e flags DAT.
 
 ## 10. Fontes de verdade
 
@@ -304,3 +354,5 @@ Referências:
 
 - `https://github.com/punkice3407/ObjectBuilder`
 - `https://github.com/OTAcademy/RME`
+- `https://github.com/ottools/ItemEditor/blob/master/Source/PluginInterface/Item.cs`
+- `https://github.com/ottools/ItemEditor/blob/master/Source/PluginInterface/Sprite.cs`

@@ -10,7 +10,11 @@ from typing import Callable
 from . import __version__
 from .content import inspect_world, scan_directory
 from .errors import NwoAssetsError
+from .importer import import_items
+from .otbm import inspect_map_position
 from .pipeline import inspect_client, inspect_text_configs, validate_root
+from .properties import edit_item_properties
+from .versioning import create_version
 
 
 def _write_report(report: dict[str, object], output: str | None) -> None:
@@ -34,7 +38,7 @@ def _root(value: str) -> Path:
 def build_parser() -> argparse.ArgumentParser:
     parser = argparse.ArgumentParser(
         prog="nwoassets",
-        description="Inspeção read-only dos assets Tibia/NWO MAPS.",
+        description="Inspeção, versionamento e importação segura dos assets Tibia/NWO MAPS.",
     )
     parser.add_argument("--version", action="version", version=__version__)
     subparsers = parser.add_subparsers(dest="command", required=True)
@@ -60,6 +64,36 @@ def build_parser() -> argparse.ArgumentParser:
         action="store_true",
         help="valida cabeçalho e RLE de todos os blocos SPR",
     )
+    importer = subparsers.add_parser(
+        "import-items",
+        help="versiona e importa PNGs em Client IDs existentes na pasta assets",
+    )
+    importer.add_argument("root", nargs="?", default=".", type=_root)
+    importer.add_argument("manifest", type=Path)
+    importer.add_argument("-o", "--output", help="grava o relatório JSON neste caminho")
+    importer.add_argument(
+        "--deep-spr",
+        action="store_true",
+        help="valida todos os blocos RLE antes e depois da importação",
+    )
+    common("create-version", "cria 860.rar, items.rar e world.zip antes de alterações")
+    properties = subparsers.add_parser(
+        "edit-item-properties",
+        help="versiona e edita flags DAT/OTB de itens existentes",
+    )
+    properties.add_argument("root", nargs="?", default=".", type=_root)
+    properties.add_argument("manifest", type=Path)
+    properties.add_argument("-o", "--output", help="grava o relatório JSON neste caminho")
+    properties.add_argument("--deep-spr", action="store_true", help="valida todos os blocos RLE")
+    position = subparsers.add_parser(
+        "inspect-map-position",
+        help="inspeciona a pilha de itens em uma coordenada OTBM",
+    )
+    position.add_argument("root", nargs="?", default=".", type=_root)
+    position.add_argument("x", type=int)
+    position.add_argument("y", type=int)
+    position.add_argument("z", type=int)
+    position.add_argument("-o", "--output", help="grava o relatório JSON neste caminho")
     return parser
 
 
@@ -80,11 +114,26 @@ def main(argv: list[str] | None = None) -> int:
         "inspect-world": lambda: inspect_world(args.root),
         "inspect-configs": lambda: inspect_text_configs(args.root),
         "validate": lambda: validate_root(args.root, deep_spr=args.deep_spr),
+        "import-items": lambda: import_items(
+            args.root,
+            args.manifest,
+            deep_spr=args.deep_spr,
+        ),
+        "create-version": lambda: create_version(args.root),
+        "edit-item-properties": lambda: edit_item_properties(
+            args.root, args.manifest, deep_spr=args.deep_spr
+        ),
+        "inspect-map-position": lambda: inspect_map_position(
+            args.root, args.x, args.y, args.z
+        ),
     }
     try:
         report = actions[args.command]()
         _write_report(report, args.output)
-        if args.command == "validate" and not report.get("passed", False):
+        if args.command in {
+            "validate", "import-items", "create-version", "edit-item-properties",
+            "inspect-map-position",
+        } and not report.get("passed", False):
             return 1
         return 0
     except NwoAssetsError as exc:

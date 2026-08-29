@@ -4,8 +4,8 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "nwoassets"
-version = "0.1.0"
-description = "CLI read-only para inspecionar a base customizada Tibia 8.60 do projeto NWO MAPS"
+version = "0.5.0"
+description = "CLI para versionar, validar e importar assets da base customizada Tibia 8.60 do projeto NWO MAPS"
 requires-python = ">=3.11"
 dependencies = []
 
@@ -14,4 +14,3 @@ nwoassets = "nwoassets.cli:main"
 
 [tool.setuptools.packages.find]
 include = ["nwoassets*"]
-

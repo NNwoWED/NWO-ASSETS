@@ -1,68 +1,167 @@
 {
-  "tool_version": "0.1.0",
-  "generated_at": "2026-07-27T20:12:57.122819+00:00",
-  "root": "C:\\Users\\Wedson\\Desktop\\NWO MAPS",
+  "tool_version": "0.5.0",
+  "generated_at": "2026-08-29T09:00:13.707848+00:00",
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
   "inventory": {
-    "root": "C:\\Users\\Wedson\\Desktop\\NWO MAPS",
+    "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
     "ignored_directories": [
       ".git",
       ".pytest_cache",
       ".venv",
       "__pycache__",
-      "reports"
+      "reports",
+      "versions"
     ],
-    "file_count": 43,
-    "total_bytes": 596948297,
+    "file_count": 73,
+    "total_bytes": 517377180,
     "type_counts": {
-      "documentation": 3,
+      "documentation": 13,
       "git-config": 3,
       "items-otb": 1,
-      "map-otbm": 2,
+      "map-otbm": 1,
       "otml-config": 5,
       "text": 1,
       "tibia-dat": 1,
       "tibia-otfi": 1,
       "tibia-spr": 1,
-      "unknown": 15,
-      "xml-config": 9,
-      "zip-container": 1
+      "unknown": 40,
+      "xml-config": 6
     },
-    "duplicate_groups": [],
+    "duplicate_groups": [
+      {
+        "sha256": "5F48084DDA97C3CE728B943090D2E45B93AB3D898ABC777A9BE65078F6BC4A7A",
+        "paths": [
+          "drafts/validate-nwo-assets/agents/openai.yaml",
+          "skills/validate-nwo-assets/agents/openai.yaml"
+        ]
+      },
+      {
+        "sha256": "0E8E89FAF121B9EBE4BCD82DA3876B8950904912B15FB1658CE771BC82118E34",
+        "paths": [
+          "drafts/validate-nwo-assets/references/baseline-860.md",
+          "skills/validate-nwo-assets/references/baseline-860.md"
+        ]
+      },
+      {
+        "sha256": "B4E9196E294E565956F17AE1A64B71D6402ED3073860325778ACC661A8FFDBEA",
+        "paths": [
+          "drafts/validate-nwo-assets/scripts/run-validation.sh",
+          "skills/validate-nwo-assets/scripts/run-validation.sh"
+        ]
+      },
+      {
+        "sha256": "C4B957F0F75E884BAC453E293E34DB09A993858CF8684E3C9FB4CA85BAADBEFF",
+        "paths": [
+          "drafts/validate-nwo-assets/SKILL.md",
+          "skills/validate-nwo-assets/SKILL.md"
+        ]
+      }
+    ],
     "files": [
       {
         "path": ".gitignore",
         "type": "git-config",
-        "size": 46,
-        "sha256": "BFC87BBCD22150E764CE21887DB77B6444A08DA6DC24579B6762AE8455E9D5E8",
-        "modified_utc": "2026-07-27T20:08:22.808739+00:00"
+        "size": 55,
+        "sha256": "1C9E8B3EE34B6BD0DE295E31D47BEC1D3362E933541D72AED0378EF4467DD5A0",
+        "modified_utc": "2026-08-29T08:35:25.608357+00:00"
       },
       {
-        "path": "860/.gitattributes",
+        "path": "assets/860/.gitattributes",
         "type": "git-config",
         "size": 43,
         "sha256": "D5636A3257287440945C5E017581545E5B0A3E2FDDDAE7C5EF8D90FF4DF3D32A",
         "modified_utc": "2025-03-22T22:55:24.525806+00:00"
       },
       {
-        "path": "860/Tibia.dat",
+        "path": "assets/860/Tibia.dat",
         "type": "tibia-dat",
-        "size": 4349631,
-        "sha256": "CB19DFE778C2DF4D89E8103B478AC4678AC8825DC6A62629A1A485B2AD46D4DA",
-        "modified_utc": "2026-07-26T16:13:24.607204+00:00"
+        "size": 4369101,
+        "sha256": "B4C7A5D5EA0D020AA9226259E74463C316C8E89CF52CC1989C05858B9873B886",
+        "modified_utc": "2026-08-28T22:09:21.155846+00:00"
       },
       {
-        "path": "860/Tibia.otfi",
+        "path": "assets/860/Tibia.otfi",
         "type": "tibia-otfi",
         "size": 185,
         "sha256": "7743548835944BC799CB871A4E5DEF84F7AF76815031871B9CE74B5EC0E8ADD3",
-        "modified_utc": "2026-07-26T16:13:37.030756+00:00"
+        "modified_utc": "2026-08-28T22:09:40.866477+00:00"
       },
       {
-        "path": "860/Tibia.spr",
+        "path": "assets/860/Tibia.spr",
         "type": "tibia-spr",
-        "size": 419687836,
-        "sha256": "A5F6D901DC4DF99060E5B020AA00DF6BCF0366547153C0BE090BCEA32D3FCFC6",
-        "modified_utc": "2026-07-26T16:13:36.824180+00:00"
+        "size": 430525239,
+        "sha256": "40FB175894C16FB6319D875612BE202D8B440B9F3CE2E787548C35660C77CC1A",
+        "modified_utc": "2026-08-28T22:09:40.642978+00:00"
+      },
+      {
+        "path": "assets/items/force use.txt",
+        "type": "text",
+        "size": 419,
+        "sha256": "BCB478FDF3F45ECA8D172AFD7A17D3F8CD520924EE0894752452B8FDC8F71959",
+        "modified_utc": "2025-12-06T07:28:22+00:00"
+      },
+      {
+        "path": "assets/items/items.otb",
+        "type": "items-otb",
+        "size": 1003370,
+        "sha256": "CA39F2A67BA0F40E1225886982E6B63E69481303D35A48EF965407D088A2A2B5",
+        "modified_utc": "2026-08-20T00:57:54.072351+00:00"
+      },
+      {
+        "path": "assets/items/items.xml",
+        "type": "xml-config",
+        "size": 799213,
+        "sha256": "9022FA890C372DAE6CA5D456570281EAE1561B24D87BDC039AB8577972E129E4",
+        "modified_utc": "2026-08-16T04:53:12.102807+00:00"
+      },
+      {
+        "path": "assets/world/.gitignore",
+        "type": "git-config",
+        "size": 13,
+        "sha256": "182CC96EC5135E44D77A8948049F6C93644EF5C04091B7EC7EA1339F264EA79E",
+        "modified_utc": "2025-12-11T01:38:40+00:00"
+      },
+      {
+        "path": "assets/world/mapanovo-areas.xml",
+        "type": "xml-config",
+        "size": 492,
+        "sha256": "1DD56116C40F8F7E287CEBA94FB6C6FFB59CDE2E8E457512F3A2B61B7C804636",
+        "modified_utc": "2025-12-31T04:42:36.928183+00:00"
+      },
+      {
+        "path": "assets/world/mapanovo-house.xml",
+        "type": "xml-config",
+        "size": 19061,
+        "sha256": "AC1C42234A10B48A96D895CCA39B6C6110988375C2E22A157A9D8408B18BC81D",
+        "modified_utc": "2026-07-26T16:19:58.727771+00:00"
+      },
+      {
+        "path": "assets/world/mapanovo-spawn.xml",
+        "type": "xml-config",
+        "size": 1406319,
+        "sha256": "7182CB1786F2A6A94166C3FBD3887A770CEB08BCA09D0BF4E1651D67160BD313",
+        "modified_utc": "2026-07-26T16:19:58.724270+00:00"
+      },
+      {
+        "path": "assets/world/mapanovo-things.xml",
+        "type": "xml-config",
+        "size": 57373,
+        "sha256": "EDA1CE36EA301F793609B3B2C37F84C541DA778D2A6546F6B3B67D4B895A7B66",
+        "modified_utc": "2026-07-26T16:19:58.729275+00:00"
+      },
+      {
+        "path": "assets/world/mapanovo.otbm",
+        "type": "map-otbm",
+        "size": 78697168,
+        "sha256": "3F1396A9C7F1817A406897B42D163C25A73CE55E86B072E92416356C96FD3650",
+        "modified_utc": "2026-08-28T15:20:13.025000+00:00"
+      },
+      {
+        "path": "assets/world/routes.xml",
+        "type": "xml-config",
+        "size": 18577,
+        "sha256": "2C834B5CC335424BF124ECA159C2C2ED156C8986AA0F3131C74BF99CAFCAE4E6",
+        "modified_utc": "2026-06-29T12:21:30.693313+00:00"
       },
       {
         "path": "creatures.otml",
@@ -70,6 +169,83 @@
         "size": 42189,
         "sha256": "8246F7C776D09A763E74A7D897FA63A072E18E14359CD767BEB3363A497D5F21",
         "modified_utc": "2026-07-19T10:37:32.911370+00:00"
+      },
+      {
+        "path": "drafts/inspect-nwo-assets/agents/openai.yaml",
+        "type": "unknown",
+        "size": 207,
+        "sha256": "3D14A39E5D3D1BC9644C152A5792DB1A139F1EB56A8AD01653F8C98CD546D8F0",
+        "modified_utc": "2026-07-30T02:17:23.738052+00:00"
+      },
+      {
+        "path": "drafts/inspect-nwo-assets/EVIDENCIA-NIN-7.md",
+        "type": "documentation",
+        "size": 2775,
+        "sha256": "5CD107965E7F7B950DC093E2C77681EF4B67E7A20C4BAF9DE49651A3BBF7E4E9",
+        "modified_utc": "2026-07-30T02:21:46.343071+00:00"
+      },
+      {
+        "path": "drafts/inspect-nwo-assets/references/formatos-e-ids.md",
+        "type": "documentation",
+        "size": 2968,
+        "sha256": "EECCC3DA56CD21C16AAF5D74B56B96B4F5F167BD0AF65A02E2290BA0FD863D3B",
+        "modified_utc": "2026-07-30T02:18:54.952811+00:00"
+      },
+      {
+        "path": "drafts/inspect-nwo-assets/references/troubleshooting.md",
+        "type": "documentation",
+        "size": 3336,
+        "sha256": "642E4A42577835802369CD804EB7AE7E7A909C90C2B2AF09D6C3B05C4D342E78",
+        "modified_utc": "2026-07-30T02:19:16.082867+00:00"
+      },
+      {
+        "path": "drafts/inspect-nwo-assets/SKILL.md",
+        "type": "documentation",
+        "size": 3894,
+        "sha256": "D7C852C34B3021C006F9B3D150FA7C7F6FF9506ED3B1C161F90BEE6573329A95",
+        "modified_utc": "2026-07-30T02:18:54.946051+00:00"
+      },
+      {
+        "path": "drafts/validate-nwo-assets/agents/openai.yaml",
+        "type": "unknown",
+        "size": 216,
+        "sha256": "5F48084DDA97C3CE728B943090D2E45B93AB3D898ABC777A9BE65078F6BC4A7A",
+        "modified_utc": "2026-07-30T02:21:43.504936+00:00"
+      },
+      {
+        "path": "drafts/validate-nwo-assets/EVIDENCIA-NIN-6.md",
+        "type": "documentation",
+        "size": 2206,
+        "sha256": "A0F4DEC4D3EC7213FD562913BDF17F5A796473A8DC5537B801A9D87291DD39EF",
+        "modified_utc": "2026-07-30T02:25:54.763528+00:00"
+      },
+      {
+        "path": "drafts/validate-nwo-assets/references/baseline-860.md",
+        "type": "documentation",
+        "size": 1195,
+        "sha256": "0E8E89FAF121B9EBE4BCD82DA3876B8950904912B15FB1658CE771BC82118E34",
+        "modified_utc": "2026-07-30T02:22:42.139991+00:00"
+      },
+      {
+        "path": "drafts/validate-nwo-assets/scripts/run-validation.sh",
+        "type": "unknown",
+        "size": 2729,
+        "sha256": "B4E9196E294E565956F17AE1A64B71D6402ED3073860325778ACC661A8FFDBEA",
+        "modified_utc": "2026-07-30T02:22:42.147134+00:00"
+      },
+      {
+        "path": "drafts/validate-nwo-assets/scripts/test-run-validation.sh",
+        "type": "unknown",
+        "size": 2019,
+        "sha256": "859E5BB8215CB8995DEC726C4E1CF7AF26A29F7B5E2F7285C13280D8949EDCCD",
+        "modified_utc": "2026-07-30T02:24:39.589385+00:00"
+      },
+      {
+        "path": "drafts/validate-nwo-assets/SKILL.md",
+        "type": "documentation",
+        "size": 2614,
+        "sha256": "C4B957F0F75E884BAC453E293E34DB09A993858CF8684E3C9FB4CA85BAADBEFF",
+        "modified_utc": "2026-07-30T02:22:42.132957+00:00"
       },
       {
         "path": "effects.otml",
@@ -81,9 +257,9 @@
       {
         "path": "ESPECIFICACAO-PIPELINE-ASSETS-860-CUSTOM.md",
         "type": "documentation",
-        "size": 7794,
-        "sha256": "EBA18D2A47197C941267307651CD2316F6C55F4A83D46784EA8B02ADF910F8C0",
-        "modified_utc": "2026-07-27T20:12:43.444095+00:00"
+        "size": 11596,
+        "sha256": "EBA1CD9C8597E5AC2BF165D215E96D8E65E43E676EEFFFE7785489E271A3B604",
+        "modified_utc": "2026-08-29T08:59:33.160214+00:00"
       },
       {
         "path": "ESPECIFICACAO-PORTATIL-PIPELINE-SPRITES-1041.md",
@@ -93,53 +269,25 @@
         "modified_utc": "2026-07-27T20:08:22.802715+00:00"
       },
       {
+        "path": "examples/items-import.csv",
+        "type": "unknown",
+        "size": 54,
+        "sha256": "F110A811E562C489BE1E872B248880BDF73FA56CE27BC11E6A995DA1CE050330",
+        "modified_utc": "2026-08-29T08:08:35.309462+00:00"
+      },
+      {
+        "path": "examples/items-properties.csv",
+        "type": "unknown",
+        "size": 130,
+        "sha256": "C5E2DDB7436C41213AEC0F4F1E9CD5B0A8D9365FB4BB8C13582071F4D481BDA2",
+        "modified_utc": "2026-08-29T08:59:33.158203+00:00"
+      },
+      {
         "path": "items.otml",
         "type": "otml-config",
         "size": 3304,
         "sha256": "366ED92A34B647925FEB4C88A1C3C1B82E3D9FCA2B75C87EBF3C68B61283379A",
         "modified_utc": "2026-07-19T00:52:32.868361+00:00"
-      },
-      {
-        "path": "items/force use.txt",
-        "type": "text",
-        "size": 419,
-        "sha256": "BCB478FDF3F45ECA8D172AFD7A17D3F8CD520924EE0894752452B8FDC8F71959",
-        "modified_utc": "2025-12-06T07:28:22+00:00"
-      },
-      {
-        "path": "items/items.otb",
-        "type": "items-otb",
-        "size": 996516,
-        "sha256": "1E150F1B8D66710AE79449165E0B237BB79E5CF37E8DE023B9F62ABDC650377E",
-        "modified_utc": "2026-07-26T16:19:18.689516+00:00"
-      },
-      {
-        "path": "items/items.xml",
-        "type": "xml-config",
-        "size": 800061,
-        "sha256": "65D646C0BA0B39929D8DCD6582B63D7D80781D864A9279F0EE92A4BA00FA7447",
-        "modified_utc": "2026-07-26T15:31:03.184858+00:00"
-      },
-      {
-        "path": "items/itemsExport.xml",
-        "type": "xml-config",
-        "size": 398346,
-        "sha256": "BB9126B8693EC5C245B676B1090B9B835A70B64D3D66A7149E74EA2AAB3B5D9B",
-        "modified_utc": "2025-12-06T07:28:23+00:00"
-      },
-      {
-        "path": "items/new.xml",
-        "type": "xml-config",
-        "size": 13082,
-        "sha256": "4B30094B859BFE152BF0BB4DFABFE315E55E50461C89CE1CDF8275FB26F01DB8",
-        "modified_utc": "2026-05-09T18:15:19.576927+00:00"
-      },
-      {
-        "path": "items/randomization.xml",
-        "type": "xml-config",
-        "size": 1072,
-        "sha256": "3C5C0F003EFE4AA67F559E58E634996CFA7A1BFD849DDC73B191259115499312",
-        "modified_utc": "2025-12-06T07:28:23+00:00"
       },
       {
         "path": "missiles.otml",
@@ -151,9 +299,9 @@
       {
         "path": "nwoassets/__init__.py",
         "type": "unknown",
-        "size": 77,
-        "sha256": "12AE97419512C2850D667487B38B7BEFCA63093970EF3614BF39B7BF27574B37",
-        "modified_utc": "2026-07-27T20:04:09.926497+00:00"
+        "size": 106,
+        "sha256": "FFC61998D6EB7ED78C59F4034384331B84FFCDABC2CD236D3B04CAF172DAE128",
+        "modified_utc": "2026-08-29T08:59:33.156679+00:00"
       },
       {
         "path": "nwoassets/__main__.py",
@@ -161,6 +309,13 @@
         "size": 49,
         "sha256": "76FA916E93E0AE1A6C1BB51DCC0BCF289C014E9F760A47165F8A84401CCF41D7",
         "modified_utc": "2026-07-27T20:04:09.926497+00:00"
+      },
+      {
+        "path": "nwoassets/atomic.py",
+        "type": "unknown",
+        "size": 1012,
+        "sha256": "29D771A7EB1093EFF5247CADA20B5AB992133400231072E6DE880E78E68E1856",
+        "modified_utc": "2026-08-29T07:38:46.413015+00:00"
       },
       {
         "path": "nwoassets/binary.py",
@@ -172,9 +327,9 @@
       {
         "path": "nwoassets/cli.py",
         "type": "unknown",
-        "size": 3560,
-        "sha256": "84F8BB351CB148C315DF8BCBBEC6D5F65C60AC078C2034AE99421D3E8D8B5B85",
-        "modified_utc": "2026-07-27T20:08:55.021732+00:00"
+        "size": 5811,
+        "sha256": "BBBF7A64165DD8E2287CFFD1A009BEFEC2C4E160420B5837D0069407B340917A",
+        "modified_utc": "2026-08-29T08:54:54.309757+00:00"
       },
       {
         "path": "nwoassets/client.py",
@@ -186,9 +341,9 @@
       {
         "path": "nwoassets/content.py",
         "type": "unknown",
-        "size": 10738,
-        "sha256": "28630CACD23B391A1619D7BCA2F08417502F766DFE5ECB836F52AAD5D67549E5",
-        "modified_utc": "2026-07-27T20:12:25.654679+00:00"
+        "size": 10769,
+        "sha256": "D9F15384275317E2A8FA0236F87FEBD14D55012FD22772CF0794EE6164316B6D",
+        "modified_utc": "2026-08-29T08:32:31.857908+00:00"
       },
       {
         "path": "nwoassets/errors.py",
@@ -198,11 +353,25 @@
         "modified_utc": "2026-07-27T20:04:09.928001+00:00"
       },
       {
+        "path": "nwoassets/importer.py",
+        "type": "unknown",
+        "size": 23641,
+        "sha256": "38B25466AB60738A88DE364C8DA51BC6A7919C97DD48B47D0DB756D95745DA38",
+        "modified_utc": "2026-08-29T08:41:30.899087+00:00"
+      },
+      {
         "path": "nwoassets/otb.py",
         "type": "unknown",
         "size": 6571,
         "sha256": "DFBD2F8835D805DCF07854498F242CEA5BA0108943D82E6408C15BA0D70BDB4F",
         "modified_utc": "2026-07-27T20:09:11.379781+00:00"
+      },
+      {
+        "path": "nwoassets/otbm.py",
+        "type": "unknown",
+        "size": 9955,
+        "sha256": "A3CE2D4F11084EC7971E37D13D10C27BDAD3602DEA14ADFC9DC65BA6D708C867",
+        "modified_utc": "2026-08-29T08:57:58.173351+00:00"
       },
       {
         "path": "nwoassets/otfi.py",
@@ -219,6 +388,13 @@
         "modified_utc": "2026-07-27T20:07:26.591639+00:00"
       },
       {
+        "path": "nwoassets/png.py",
+        "type": "unknown",
+        "size": 7143,
+        "sha256": "5B9475CBFBF2BEB6A1BD764864DFC5A38520C82AF1E4CB0A1290B55E201983F0",
+        "modified_utc": "2026-08-29T08:06:52.873091+00:00"
+      },
+      {
         "path": "nwoassets/profiles.py",
         "type": "unknown",
         "size": 1480,
@@ -226,18 +402,109 @@
         "modified_utc": "2026-07-27T20:04:09.930008+00:00"
       },
       {
+        "path": "nwoassets/properties.py",
+        "type": "unknown",
+        "size": 13985,
+        "sha256": "4AD7F16CAE9F819A47197DA8DAD5B9BE7325A1C6EB34FDD8C6E88C9B3D486C9F",
+        "modified_utc": "2026-08-29T08:59:55.243328+00:00"
+      },
+      {
+        "path": "nwoassets/roundtrip.py",
+        "type": "unknown",
+        "size": 19206,
+        "sha256": "E4D9BF8ABFF21409623A9E5D2E8A2CF2C039DC6EBB5A98A86E8D32AD8B4DB0B9",
+        "modified_utc": "2026-08-29T08:52:14.112995+00:00"
+      },
+      {
+        "path": "nwoassets/sprites.py",
+        "type": "unknown",
+        "size": 5751,
+        "sha256": "CC5F3938A911D7C0EE60F292309DDB269E8C8749C773BD54C06CBDB1DDF41444",
+        "modified_utc": "2026-08-29T07:55:54.299731+00:00"
+      },
+      {
+        "path": "nwoassets/versioning.py",
+        "type": "unknown",
+        "size": 6590,
+        "sha256": "9B0D3ABDB882517E0C1EEA586A48DEDDD7B0B66EC8A33BF362BFBECEB48409B1",
+        "modified_utc": "2026-08-29T08:41:06.812640+00:00"
+      },
+      {
         "path": "pyproject.toml",
         "type": "unknown",
-        "size": 386,
-        "sha256": "4AC0BBD703F0FDA6B16EE99382A88323CC6AF6FAE064A98726756255C7F56EB6",
-        "modified_utc": "2026-07-27T20:04:09.924500+00:00"
+        "size": 401,
+        "sha256": "DEB4B6E88218DD0B20D63CE3196E2B695DDDC6102893E00D30113D0D5E129396",
+        "modified_utc": "2026-08-29T08:59:33.156679+00:00"
       },
       {
         "path": "README.md",
         "type": "documentation",
-        "size": 1444,
-        "sha256": "3C89DA39109FC88E7426F61209169175EA9A37265F01B2B90EC4E8F593F81793",
-        "modified_utc": "2026-07-27T20:12:25.655677+00:00"
+        "size": 5108,
+        "sha256": "B8A23433C4F815ABD69DA518B66EBD20ACB16890187DA7435613D555F2C5EA6E",
+        "modified_utc": "2026-08-29T08:59:33.159207+00:00"
+      },
+      {
+        "path": "skills/triage-nwo-map-variants/agents/openai.yaml",
+        "type": "unknown",
+        "size": 239,
+        "sha256": "50995F35D9E159E35B65BE6A1C2925F954DE689A54723E3D3AF27ACA2875D1D3",
+        "modified_utc": "2026-07-30T02:17:16.579347+00:00"
+      },
+      {
+        "path": "skills/triage-nwo-map-variants/scripts/compare_otbm.py",
+        "type": "unknown",
+        "size": 11619,
+        "sha256": "49B45B5F0D3D9CA831BB1EFC365C9BC474F296359F800A947290A0F8EEA90C51",
+        "modified_utc": "2026-07-30T02:19:04.085104+00:00"
+      },
+      {
+        "path": "skills/triage-nwo-map-variants/SKILL.md",
+        "type": "documentation",
+        "size": 2132,
+        "sha256": "FEFE340AD631D17A4A58C19C87E3F84ADBA93848A53B8144681687BD7F8671FB",
+        "modified_utc": "2026-07-30T02:18:49.533356+00:00"
+      },
+      {
+        "path": "skills/triage-nwo-map-variants/tests/test_compare_otbm.py",
+        "type": "unknown",
+        "size": 3240,
+        "sha256": "31EC2459CFF098E2F3CA215533E7156E4D88A8CCB12749C43EAC2EDF4534F406",
+        "modified_utc": "2026-07-30T02:19:17.358781+00:00"
+      },
+      {
+        "path": "skills/validate-nwo-assets/agents/openai.yaml",
+        "type": "unknown",
+        "size": 216,
+        "sha256": "5F48084DDA97C3CE728B943090D2E45B93AB3D898ABC777A9BE65078F6BC4A7A",
+        "modified_utc": "2026-07-30T02:25:35.672379+00:00"
+      },
+      {
+        "path": "skills/validate-nwo-assets/references/baseline-860.md",
+        "type": "documentation",
+        "size": 1195,
+        "sha256": "0E8E89FAF121B9EBE4BCD82DA3876B8950904912B15FB1658CE771BC82118E34",
+        "modified_utc": "2026-07-30T02:25:35.683295+00:00"
+      },
+      {
+        "path": "skills/validate-nwo-assets/scripts/run-validation.sh",
+        "type": "unknown",
+        "size": 2729,
+        "sha256": "B4E9196E294E565956F17AE1A64B71D6402ED3073860325778ACC661A8FFDBEA",
+        "modified_utc": "2026-07-30T02:25:35.695153+00:00"
+      },
+      {
+        "path": "skills/validate-nwo-assets/scripts/test-run-validation.sh",
+        "type": "unknown",
+        "size": 1921,
+        "sha256": "4D05FA8BA3E4406656E28F4C9C0519D681B816402BEDD277C3BF337634F5B690",
+        "modified_utc": "2026-07-30T02:25:35.703890+00:00"
+      },
+      {
+        "path": "skills/validate-nwo-assets/SKILL.md",
+        "type": "documentation",
+        "size": 2614,
+        "sha256": "C4B957F0F75E884BAC453E293E34DB09A993858CF8684E3C9FB4CA85BAADBEFF",
+        "modified_utc": "2026-07-30T02:25:35.660377+00:00"
       },
       {
         "path": "tests/__init__.py",
@@ -254,11 +521,46 @@
         "modified_utc": "2026-07-27T20:08:22.807232+00:00"
       },
       {
+        "path": "tests/test_importer.py",
+        "type": "unknown",
+        "size": 8457,
+        "sha256": "4EF3AB2B3AA52579FD6E66A6AFB4D94FE029685B51AB89997FA19BCBC7BC1331",
+        "modified_utc": "2026-08-29T08:35:33.390142+00:00"
+      },
+      {
         "path": "tests/test_local_baseline.py",
         "type": "unknown",
-        "size": 1827,
-        "sha256": "44439849ABE469D9D3AB9D3F95F2AE0C1450B30F73F33DEA149C14A1FC9C7EA6",
-        "modified_utc": "2026-07-27T20:08:22.808231+00:00"
+        "size": 2710,
+        "sha256": "2B8381A59D1C223758F7C0D55AD83DE81D79C6EFB926226043E20618916DE2D3",
+        "modified_utc": "2026-08-29T08:34:38.668930+00:00"
+      },
+      {
+        "path": "tests/test_otbm_position.py",
+        "type": "unknown",
+        "size": 1783,
+        "sha256": "A460B6269361BED1CA2F9A17B8DF0C42746605ABF9D8C614FE138D98F94E10C6",
+        "modified_utc": "2026-08-29T08:58:31.670498+00:00"
+      },
+      {
+        "path": "tests/test_properties.py",
+        "type": "unknown",
+        "size": 2643,
+        "sha256": "2EEFED4F0C6BB0D4633D6B26D50223ECBF7FF1468FDA30386B891275A9A12DCE",
+        "modified_utc": "2026-08-29T08:58:31.669497+00:00"
+      },
+      {
+        "path": "tests/test_roundtrip.py",
+        "type": "unknown",
+        "size": 3877,
+        "sha256": "21CC38D511357410A4DF1C2374417C4B8970F1E6EC2FFFA158809B2DAE5A076E",
+        "modified_utc": "2026-08-29T07:45:29.101908+00:00"
+      },
+      {
+        "path": "tests/test_versioning.py",
+        "type": "unknown",
+        "size": 3404,
+        "sha256": "DB57034F341C4F23BBFBB8C116EF91DA024346CF0ADDBE7AEFD98532C1FEED66",
+        "modified_utc": "2026-08-29T08:41:15.633029+00:00"
       },
       {
         "path": "things.otml",
@@ -266,69 +568,6 @@
         "size": 96757,
         "sha256": "73AD176AD54EC71BE31ED25346570ABD9AFAF6918F7359F937550FF49EE957BC",
         "modified_utc": "2026-07-19T13:08:19.526883+00:00"
-      },
-      {
-        "path": "world/.gitignore",
-        "type": "git-config",
-        "size": 13,
-        "sha256": "182CC96EC5135E44D77A8948049F6C93644EF5C04091B7EC7EA1339F264EA79E",
-        "modified_utc": "2025-12-11T01:38:40+00:00"
-      },
-      {
-        "path": "world/mapanovo 8.otbm",
-        "type": "map-otbm",
-        "size": 75673433,
-        "sha256": "9E8EEF5D340431E88D86E11562D7437406AB61D726914420BBAB062B797A9448",
-        "modified_utc": "2026-07-25T12:14:13.926526+00:00"
-      },
-      {
-        "path": "world/mapanovo-areas.xml",
-        "type": "xml-config",
-        "size": 492,
-        "sha256": "1DD56116C40F8F7E287CEBA94FB6C6FFB59CDE2E8E457512F3A2B61B7C804636",
-        "modified_utc": "2025-12-31T04:42:36.928183+00:00"
-      },
-      {
-        "path": "world/mapanovo-house.xml",
-        "type": "xml-config",
-        "size": 19061,
-        "sha256": "AC1C42234A10B48A96D895CCA39B6C6110988375C2E22A157A9D8408B18BC81D",
-        "modified_utc": "2026-07-26T16:19:58.727771+00:00"
-      },
-      {
-        "path": "world/mapanovo-spawn.xml",
-        "type": "xml-config",
-        "size": 1406319,
-        "sha256": "7182CB1786F2A6A94166C3FBD3887A770CEB08BCA09D0BF4E1651D67160BD313",
-        "modified_utc": "2026-07-26T16:19:58.724270+00:00"
-      },
-      {
-        "path": "world/mapanovo-things.xml",
-        "type": "xml-config",
-        "size": 57373,
-        "sha256": "EDA1CE36EA301F793609B3B2C37F84C541DA778D2A6546F6B3B67D4B895A7B66",
-        "modified_utc": "2026-07-26T16:19:58.729275+00:00"
-      },
-      {
-        "path": "world/mapanovo.otbm",
-        "type": "map-otbm",
-        "size": 75673440,
-        "sha256": "500E7A0AEE816DB313906FC891EF9E837BEC895F6B9AC7875C04F9F9D86B36E8",
-        "modified_utc": "2026-07-26T16:19:58.729275+00:00"
-      },
-      {
-        "path": "world/mapanovo.zip",
-        "type": "zip-container",
-        "size": 17540170,
-        "sha256": "35FF7EC3F4D84E568AF643B1F0FA0AC7C1527884F3B41C3EF5921F81F47C0579",
-        "modified_utc": "2026-07-25T01:58:07.223353+00:00"
-      },
-      {
-        "path": "world/routes.xml",
-        "type": "xml-config",
-        "size": 18577,
-        "sha256": "2C834B5CC335424BF124ECA159C2C2ED156C8986AA0F3131C74BF99CAFCAE4E6",
-        "modified_utc": "2026-06-29T12:21:30.693313+00:00"
       }
     ]
   },
@@ -343,10 +582,10 @@
       "otb_version_hint": "8.60"
     },
     "paths": {
-      "otfi": "C:\\Users\\Wedson\\Desktop\\NWO MAPS\\860\\Tibia.otfi",
-      "dat": "C:\\Users\\Wedson\\Desktop\\NWO MAPS\\860\\Tibia.dat",
-      "spr": "C:\\Users\\Wedson\\Desktop\\NWO MAPS\\860\\Tibia.spr",
-      "otb": "C:\\Users\\Wedson\\Desktop\\NWO MAPS\\items\\items.otb"
+      "otfi": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.otfi",
+      "dat": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.dat",
+      "spr": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.spr",
+      "otb": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\items\\items.otb"
     },
     "otfi": {
       "extended": true,
@@ -359,57 +598,57 @@
       "sprite_data_size": 4096
     },
     "dat": {
-      "path": "C:\\Users\\Wedson\\Desktop\\NWO MAPS\\860\\Tibia.dat",
-      "size": 4349631,
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.dat",
+      "size": 4369101,
       "signature": "0x4C2C7993",
       "max_ids": {
-        "items": 24358,
-        "outfits": 2285,
+        "items": 24522,
+        "outfits": 2289,
         "effects": 3363,
-        "missiles": 216
+        "missiles": 219
       },
       "record_counts": {
-        "items": 24259,
-        "outfits": 2285,
+        "items": 24423,
+        "outfits": 2289,
         "effects": 3363,
-        "missiles": 216
+        "missiles": 219
       },
-      "total_records": 30123,
-      "items_end_offset": 1036733,
-      "parsed_end_offset": 4349631,
+      "total_records": 30294,
+      "items_end_offset": 1048687,
+      "parsed_end_offset": 4369101,
       "flag_counts": {
         "animate_always": 232,
-        "block_missile": 3788,
-        "block_pathfind": 3503,
+        "block_missile": 3828,
+        "block_pathfind": 3590,
         "cloth": 1,
         "container": 300,
         "custom_flag_22": 4,
-        "dont_hide": 313,
+        "dont_hide": 312,
         "fluid": 12,
         "fluid_container": 26,
         "force_use": 297,
-        "full_ground": 1560,
-        "ground": 1793,
-        "ground_border": 3601,
+        "full_ground": 1564,
+        "ground": 1798,
+        "ground_border": 3630,
         "hangable": 136,
-        "has_elevation": 1217,
-        "has_light": 1930,
+        "has_elevation": 1226,
+        "has_light": 1934,
         "has_offset": 594,
         "horizontal": 130,
-        "ignore_look": 1196,
-        "lens_help": 513,
+        "ignore_look": 1197,
+        "lens_help": 511,
         "lying_object": 47,
         "market_item": 7,
-        "mini_map": 7901,
+        "mini_map": 7962,
         "multi_use": 511,
-        "on_bottom": 7123,
+        "on_bottom": 7240,
         "on_top": 857,
-        "pickupable": 3370,
+        "pickupable": 3371,
         "rotatable": 339,
-        "stackable": 1020,
+        "stackable": 1023,
         "translucent": 278,
-        "unmoveable": 18321,
-        "unpassable": 8725,
+        "unmoveable": 18482,
+        "unpassable": 8816,
         "vertical": 151,
         "writable": 6,
         "writable_once": 47
@@ -433,34 +672,34 @@
         {
           "category": "items",
           "thing_id": 20227,
-          "offset": 796500
+          "offset": 796566
         }
       ],
       "appearance": {
-        "multi_tile_groups": 14254,
-        "animated_groups": 5864,
+        "multi_tile_groups": 14346,
+        "animated_groups": 5877,
         "max_sprites_in_group": 4000,
-        "sprite_reference_count": 874016,
-        "unique_nonzero_sprite_ids": 244663,
-        "zero_sprite_references": 314374,
+        "sprite_reference_count": 878146,
+        "unique_nonzero_sprite_ids": 250037,
+        "zero_sprite_references": 313854,
         "min_referenced_sprite_id": 1,
-        "max_referenced_sprite_id": 245380
+        "max_referenced_sprite_id": 252143
       }
     },
     "spr": {
-      "path": "C:\\Users\\Wedson\\Desktop\\NWO MAPS\\860\\Tibia.spr",
-      "size": 419687836,
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.spr",
+      "size": 430525239,
       "signature": "0x4C220594",
       "signature_value": 1277298068,
-      "sprite_count": 245380,
+      "sprite_count": 252143,
       "table_start": 8,
-      "table_end": 981528,
+      "table_end": 1008580,
       "zero_offsets": 0,
-      "nonzero_offsets": 245380,
-      "unique_nonzero_offsets": 245380,
+      "nonzero_offsets": 252143,
+      "unique_nonzero_offsets": 252143,
       "shared_offsets": 0,
-      "min_nonzero_offset": 981528,
-      "max_nonzero_offset": 419685415,
+      "min_nonzero_offset": 1008580,
+      "max_nonzero_offset": 430525202,
       "deep_validation": {
         "enabled": true,
         "color_key_mismatches": 0,
@@ -472,8 +711,8 @@
       }
     },
     "otb": {
-      "path": "C:\\Users\\Wedson\\Desktop\\NWO MAPS\\items\\items.otb",
-      "size": 996516,
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\items\\items.otb",
+      "size": 1003370,
       "file_version": 0,
       "root_type": 0,
       "root_flags": 0,
@@ -484,42 +723,42 @@
         "build": 20,
         "csd": "OTB 3.20.20-8.60"
       },
-      "item_nodes": 25144,
+      "item_nodes": 25308,
       "groups": {
-        "0": 22236,
-        "1": 1836,
+        "0": 22395,
+        "1": 1841,
         "2": 300,
         "11": 12,
         "12": 26,
         "14": 734
       },
       "attribute_counts": {
-        "client_id": 24410,
-        "ground_speed": 1836,
+        "client_id": 24574,
+        "ground_speed": 1841,
         "light": 883,
         "max_read_chars": 48,
         "max_read_write_chars": 6,
-        "minimap_color": 7930,
+        "minimap_color": 7991,
         "name": 7,
-        "server_id": 25144,
-        "sprite_hash": 24410,
-        "stack_order": 11629,
+        "server_id": 25308,
+        "sprite_hash": 24574,
+        "stack_order": 11775,
         "trade_as": 7
       },
       "unknown_attributes": {},
       "malformed_attributes": [],
       "server_ids": {
-        "count": 25144,
+        "count": 25308,
         "min": 100,
-        "max": 25243,
+        "max": 25407,
         "duplicates": [],
         "gap_count": 0,
         "gaps_sample": []
       },
       "client_ids": {
-        "count": 24410,
+        "count": 24574,
         "min": 100,
-        "max": 24358,
+        "max": 24522,
         "duplicates": [
           100,
           101,
@@ -592,7 +831,7 @@
   "world": {
     "maps": [
       {
-        "source": "C:\\Users\\Wedson\\Desktop\\NWO MAPS\\world\\mapanovo 8.otbm",
+        "source": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\world\\mapanovo.otbm",
         "file_identifier": 0,
         "root_node_type": 0,
         "map_version": 2,
@@ -602,72 +841,20 @@
         "items_minor_version": 20,
         "description": "No map description available.",
         "tree": {
-          "total_bytes_read": 75673433,
-          "total_nodes": 9663813,
-          "node_starts": 9663813,
-          "node_ends": 9663813,
+          "total_bytes_read": 78697168,
+          "total_nodes": 10062435,
+          "node_starts": 10062435,
+          "node_ends": 10062435,
           "balanced": true
         },
-        "size": 75673433,
-        "sha256": "9E8EEF5D340431E88D86E11562D7437406AB61D726914420BBAB062B797A9448"
-      },
-      {
-        "source": "C:\\Users\\Wedson\\Desktop\\NWO MAPS\\world\\mapanovo.otbm",
-        "file_identifier": 0,
-        "root_node_type": 0,
-        "map_version": 2,
-        "width": 3000,
-        "height": 3000,
-        "items_major_version": 3,
-        "items_minor_version": 20,
-        "description": "No map description available.",
-        "tree": {
-          "total_bytes_read": 75673440,
-          "total_nodes": 9663814,
-          "node_starts": 9663814,
-          "node_ends": 9663814,
-          "balanced": true
-        },
-        "size": 75673440,
-        "sha256": "500E7A0AEE816DB313906FC891EF9E837BEC895F6B9AC7875C04F9F9D86B36E8"
+        "size": 78697168,
+        "sha256": "3F1396A9C7F1817A406897B42D163C25A73CE55E86B072E92416356C96FD3650"
       }
     ],
-    "archives": [
-      {
-        "path": "C:\\Users\\Wedson\\Desktop\\NWO MAPS\\world\\mapanovo.zip",
-        "size": 17540170,
-        "sha256": "35FF7EC3F4D84E568AF643B1F0FA0AC7C1527884F3B41C3EF5921F81F47C0579",
-        "entries": [
-          {
-            "name": "mapanovo.otbm",
-            "size": 75673502,
-            "compressed_size": 17540010,
-            "sha256": "AC21EB49C1B493669C92D7C0965F29DD3A05EF0CF683B290B66A4F307C62D162",
-            "otbm": {
-              "source": "C:\\Users\\Wedson\\Desktop\\NWO MAPS\\world\\mapanovo.zip!/mapanovo.otbm",
-              "file_identifier": 0,
-              "root_node_type": 0,
-              "map_version": 2,
-              "width": 3000,
-              "height": 3000,
-              "items_major_version": 3,
-              "items_minor_version": 20,
-              "description": "No map description available.",
-              "tree": {
-                "total_bytes_read": 75673502,
-                "total_nodes": 9663813,
-                "node_starts": 9663813,
-                "node_ends": 9663813,
-                "balanced": true
-              }
-            }
-          }
-        ]
-      }
-    ],
+    "archives": [],
     "xml": [
       {
-        "path": "C:\\Users\\Wedson\\Desktop\\NWO MAPS\\world\\mapanovo-areas.xml",
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\world\\mapanovo-areas.xml",
         "size": 492,
         "encoding": "utf-8-sig",
         "fragment": false,
@@ -683,7 +870,7 @@
         "numeric_id_max": 1
       },
       {
-        "path": "C:\\Users\\Wedson\\Desktop\\NWO MAPS\\world\\mapanovo-house.xml",
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\world\\mapanovo-house.xml",
         "size": 19061,
         "encoding": "utf-8-sig",
         "fragment": false,
@@ -697,7 +884,7 @@
         "numeric_id_max": 165
       },
       {
-        "path": "C:\\Users\\Wedson\\Desktop\\NWO MAPS\\world\\mapanovo-spawn.xml",
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\world\\mapanovo-spawn.xml",
         "size": 1406319,
         "encoding": "utf-8-sig",
         "fragment": false,
@@ -713,7 +900,7 @@
         "numeric_id_max": null
       },
       {
-        "path": "C:\\Users\\Wedson\\Desktop\\NWO MAPS\\world\\mapanovo-things.xml",
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\world\\mapanovo-things.xml",
         "size": 57373,
         "encoding": "utf-8-sig",
         "fragment": false,
@@ -731,7 +918,7 @@
         "numeric_id_max": 1
       },
       {
-        "path": "C:\\Users\\Wedson\\Desktop\\NWO MAPS\\world\\routes.xml",
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\world\\routes.xml",
         "size": 18577,
         "encoding": "utf-8-sig",
         "fragment": false,
@@ -746,72 +933,28 @@
         "numeric_id_max": 28
       }
     ],
-    "map_variants": 3,
+    "map_variants": 1,
     "identical_map_groups": []
   },
   "configs": {
     "xml": [
       {
-        "path": "C:\\Users\\Wedson\\Desktop\\NWO MAPS\\items\\items.xml",
-        "size": 800061,
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\items\\items.xml",
+        "size": 799213,
         "encoding": "utf-8-sig",
         "fragment": false,
         "root": "items",
-        "element_count": 14706,
+        "element_count": 14667,
         "tag_counts": {
-          "attribute": 9086,
-          "item": 5619,
+          "attribute": 9010,
+          "item": 5656,
           "items": 1
         },
         "numeric_id_min": 100,
-        "numeric_id_max": 25243
+        "numeric_id_max": 25245
       },
       {
-        "path": "C:\\Users\\Wedson\\Desktop\\NWO MAPS\\items\\itemsExport.xml",
-        "size": 398346,
-        "encoding": "utf-8-sig",
-        "fragment": false,
-        "root": "items",
-        "element_count": 11365,
-        "tag_counts": {
-          "item": 11364,
-          "items": 1
-        },
-        "numeric_id_min": 100,
-        "numeric_id_max": 11463
-      },
-      {
-        "path": "C:\\Users\\Wedson\\Desktop\\NWO MAPS\\items\\new.xml",
-        "size": 13082,
-        "encoding": "utf-8-sig",
-        "fragment": true,
-        "root": "nwoassets-fragment",
-        "element_count": 261,
-        "tag_counts": {
-          "attribute": 201,
-          "item": 59,
-          "nwoassets-fragment": 1
-        },
-        "numeric_id_min": 2198,
-        "numeric_id_max": 15631
-      },
-      {
-        "path": "C:\\Users\\Wedson\\Desktop\\NWO MAPS\\items\\randomization.xml",
-        "size": 1072,
-        "encoding": "utf-8-sig",
-        "fragment": false,
-        "root": "randomization",
-        "element_count": 19,
-        "tag_counts": {
-          "config": 1,
-          "palette": 17,
-          "randomization": 1
-        },
-        "numeric_id_min": 101,
-        "numeric_id_max": 4756
-      },
-      {
-        "path": "C:\\Users\\Wedson\\Desktop\\NWO MAPS\\world\\mapanovo-areas.xml",
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\world\\mapanovo-areas.xml",
         "size": 492,
         "encoding": "utf-8-sig",
         "fragment": false,
@@ -827,7 +970,7 @@
         "numeric_id_max": 1
       },
       {
-        "path": "C:\\Users\\Wedson\\Desktop\\NWO MAPS\\world\\mapanovo-house.xml",
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\world\\mapanovo-house.xml",
         "size": 19061,
         "encoding": "utf-8-sig",
         "fragment": false,
@@ -841,7 +984,7 @@
         "numeric_id_max": 165
       },
       {
-        "path": "C:\\Users\\Wedson\\Desktop\\NWO MAPS\\world\\mapanovo-spawn.xml",
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\world\\mapanovo-spawn.xml",
         "size": 1406319,
         "encoding": "utf-8-sig",
         "fragment": false,
@@ -857,7 +1000,7 @@
         "numeric_id_max": null
       },
       {
-        "path": "C:\\Users\\Wedson\\Desktop\\NWO MAPS\\world\\mapanovo-things.xml",
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\world\\mapanovo-things.xml",
         "size": 57373,
         "encoding": "utf-8-sig",
         "fragment": false,
@@ -875,7 +1018,7 @@
         "numeric_id_max": 1
       },
       {
-        "path": "C:\\Users\\Wedson\\Desktop\\NWO MAPS\\world\\routes.xml",
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\world\\routes.xml",
         "size": 18577,
         "encoding": "utf-8-sig",
         "fragment": false,
@@ -892,7 +1035,7 @@
     ],
     "otml": [
       {
-        "path": "C:\\Users\\Wedson\\Desktop\\NWO MAPS\\creatures.otml",
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\creatures.otml",
         "size": 42189,
         "encoding": "utf-8-sig",
         "line_count": 1959,
@@ -902,7 +1045,7 @@
         "mojibake_marker_count": 0
       },
       {
-        "path": "C:\\Users\\Wedson\\Desktop\\NWO MAPS\\effects.otml",
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\effects.otml",
         "size": 63817,
         "encoding": "utf-8-sig",
         "line_count": 4204,
@@ -912,7 +1055,7 @@
         "mojibake_marker_count": 0
       },
       {
-        "path": "C:\\Users\\Wedson\\Desktop\\NWO MAPS\\items.otml",
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\items.otml",
         "size": 3304,
         "encoding": "utf-8-sig",
         "line_count": 216,
@@ -922,7 +1065,7 @@
         "mojibake_marker_count": 0
       },
       {
-        "path": "C:\\Users\\Wedson\\Desktop\\NWO MAPS\\missiles.otml",
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\missiles.otml",
         "size": 1037,
         "encoding": "utf-8-sig",
         "line_count": 85,
@@ -932,7 +1075,7 @@
         "mojibake_marker_count": 0
       },
       {
-        "path": "C:\\Users\\Wedson\\Desktop\\NWO MAPS\\things.otml",
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\things.otml",
         "size": 96757,
         "encoding": "utf-8-sig",
         "line_count": 5634,
@@ -946,10 +1089,7 @@
       }
     ]
   },
-  "warnings": [
-    "XMLs tratados como fragmento: C:\\Users\\Wedson\\Desktop\\NWO MAPS\\items\\new.xml",
-    "foram encontradas 3 variantes distintas de mapa"
-  ],
+  "warnings": [],
   "errors": [],
   "passed": true
 }

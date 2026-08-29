@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<areapalette version="2">
+	<area id="1" name="cemiterio">
+		<sub id="1" clientId="1" name="cemiterio" shader="Map - Forest" fadeInMs="500" fadeOutMs="500" colorR="255" colorG="0" colorB="128">
+			<region fromX="1300" fromY="690" fromZ="6" toX="1329" toY="713" toZ="6" />
+			<region fromX="1299" fromY="690" fromZ="6" toX="1299" toY="696" toZ="6" />
+			<region fromX="1299" fromY="706" fromZ="6" toX="1299" toY="713" toZ="6" />
+		</sub>
+	</area>
+</areapalette>
