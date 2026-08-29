@@ -1,0 +1,4 @@
+interface:
+  display_name: "Inspect NWO Assets"
+  short_description: "Diagnóstico seguro dos assets NWO"
+  default_prompt: "Use $inspect-nwo-assets para diagnosticar os assets NWO em modo somente leitura."

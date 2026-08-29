@@ -1,0 +1,4 @@
+interface:
+  display_name: "NWO Map Variant Triage"
+  short_description: "Compara variantes OTBM sem alterar mapas"
+  default_prompt: "Use $triage-nwo-map-variants para comparar variantes OTBM e gerar uma matriz técnica somente leitura."

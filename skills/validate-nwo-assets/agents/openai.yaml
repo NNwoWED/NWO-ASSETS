@@ -1,0 +1,4 @@
+interface:
+  display_name: "Validate NWO Assets"
+  short_description: "Validação read-only dos assets NWO"
+  default_prompt: "Use $validate-nwo-assets para validar a baseline de assets NWO sem alterar o checkout."
