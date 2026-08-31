@@ -6,6 +6,7 @@ import binascii
 import struct
 import zlib
 
+from .atomic import atomic_binary_output
 from .errors import FormatError
 
 
@@ -20,6 +21,44 @@ class PngImage:
     rgba: bytes
 
 
+def _png_chunk(chunk_type: bytes, payload: bytes) -> bytes:
+    return (
+        struct.pack(">I", len(payload))
+        + chunk_type
+        + payload
+        + struct.pack(">I", binascii.crc32(chunk_type + payload) & 0xFFFFFFFF)
+    )
+
+
+def write_png_rgba(path: Path, image: PngImage) -> None:
+    """Write a deterministic, non-interlaced RGBA 8-bit PNG."""
+
+    if image.width < 1 or image.height < 1:
+        raise FormatError(
+            f"dimensões PNG inválidas para exportação: {image.width}x{image.height}"
+        )
+    expected = image.width * image.height * 4
+    if len(image.rgba) != expected:
+        raise FormatError(
+            f"pixels RGBA possuem {len(image.rgba)} bytes, esperado {expected}"
+        )
+    stride = image.width * 4
+    rows = bytearray()
+    for y in range(image.height):
+        rows.append(0)
+        start = y * stride
+        rows.extend(image.rgba[start : start + stride])
+    ihdr = struct.pack(">IIBBBBB", image.width, image.height, 8, 6, 0, 0, 0)
+    payload = (
+        PNG_SIGNATURE
+        + _png_chunk(b"IHDR", ihdr)
+        + _png_chunk(b"IDAT", zlib.compress(bytes(rows), level=9))
+        + _png_chunk(b"IEND", b"")
+    )
+    with atomic_binary_output(path) as stream:
+        stream.write(payload)
+
+
 def _paeth(left: int, above: int, upper_left: int) -> int:
     estimate = left + above - upper_left
     distance_left = abs(estimate - left)
@@ -32,7 +71,14 @@ def _paeth(left: int, above: int, upper_left: int) -> int:
     return upper_left
 
 
-def read_png_rgba(path: Path) -> PngImage:
+def read_png_rgba(
+    path: Path,
+    *,
+    max_width: int = MAX_ITEM_DIMENSION,
+    max_height: int = MAX_ITEM_DIMENSION,
+) -> PngImage:
+    if max_width < 1 or max_height < 1:
+        raise FormatError("limites PNG devem ser positivos")
     data = path.read_bytes()
     if not data.startswith(PNG_SIGNATURE):
         raise FormatError(f"{path}: assinatura PNG inválida")
@@ -64,10 +110,10 @@ def read_png_rgba(path: Path) -> PngImage:
             )
             if width == 0 or height == 0:
                 raise FormatError(f"{path}: dimensões PNG inválidas {width}x{height}")
-            if width > MAX_ITEM_DIMENSION or height > MAX_ITEM_DIMENSION:
+            if width > max_width or height > max_height:
                 raise FormatError(
                     f"{path}: dimensões {width}x{height} excedem o limite "
-                    f"seguro desta fase ({MAX_ITEM_DIMENSION}x{MAX_ITEM_DIMENSION})"
+                    f"seguro desta fase ({max_width}x{max_height})"
                 )
             if bit_depth != 8 or color_type != 6:
                 raise FormatError(
@@ -180,3 +226,41 @@ def split_tiles_bottom_right_first(image: PngImage, sprite_size: int = 32) -> li
                 tile[target : target + tile_stride] = image.rgba[source : source + tile_stride]
             tiles.append(bytes(tile))
     return tiles
+
+
+def split_vertical_animation_sheet(
+    image: PngImage,
+    frames: int,
+    sprite_size: int = 32,
+) -> tuple[list[bytes], int, int]:
+    """Split a top-to-bottom frame sheet in the same order used by the DAT."""
+
+    if frames < 1 or frames > 255:
+        raise FormatError(f"quantidade de frames inválida: {frames}")
+    if image.height % frames:
+        raise FormatError(
+            f"altura {image.height} não pode ser dividida em {frames} frames"
+        )
+    frame_height = image.height // frames
+    if image.width > MAX_ITEM_DIMENSION or frame_height > MAX_ITEM_DIMENSION:
+        raise FormatError(
+            f"cada frame possui {image.width}x{frame_height}; limite "
+            f"{MAX_ITEM_DIMENSION}x{MAX_ITEM_DIMENSION}"
+        )
+    if image.width % sprite_size or frame_height % sprite_size:
+        raise FormatError(
+            f"cada frame {image.width}x{frame_height} não é múltiplo de {sprite_size}"
+        )
+
+    image_stride = image.width * 4
+    frame_size = frame_height * image_stride
+    tiles: list[bytes] = []
+    for frame in range(frames):
+        start = frame * frame_size
+        frame_image = PngImage(
+            image.width,
+            frame_height,
+            image.rgba[start : start + frame_size],
+        )
+        tiles.extend(split_tiles_bottom_right_first(frame_image, sprite_size))
+    return tiles, image.width // sprite_size, frame_height // sprite_size

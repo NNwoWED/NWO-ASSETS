@@ -19,8 +19,14 @@ from nwoassets.importer import (
 )
 from nwoassets.otb import OtbNode
 from nwoassets.otfi import OtfiConfig, parse_otfi
-from nwoassets.png import normalize_rgba, read_png_rgba, split_tiles_bottom_right_first
+from nwoassets.png import (
+    normalize_rgba,
+    read_png_rgba,
+    split_tiles_bottom_right_first,
+    split_vertical_animation_sheet,
+)
 from nwoassets.roundtrip import (
+    encode_item_appearance,
     encode_simple_item_appearance,
     scan_dat_record_spans,
     write_dat_item_appearances,
@@ -74,6 +80,20 @@ class PngPipelineTests(unittest.TestCase):
         self.assertEqual(tiles[0][:4], bytes((0, 0, 255, 255)))
         self.assertEqual(tiles[1][:4], b"\0\0\0\0")
 
+    def test_splits_vertical_animation_in_frame_order(self) -> None:
+        first = bytes((255, 0, 0, 255)) * 1024
+        second = bytes((0, 255, 0, 255)) * 1024
+        with tempfile.TemporaryDirectory() as directory:
+            path = Path(directory) / "animation.png"
+            path.write_bytes(png_rgba(32, 64, first + second))
+            image = normalize_rgba(
+                read_png_rgba(path, max_width=224, max_height=448)
+            )
+        tiles, width, height = split_vertical_animation_sheet(image, 2)
+        self.assertEqual((width, height), (1, 1))
+        self.assertEqual(tiles[0][:4], bytes((255, 0, 0, 255)))
+        self.assertEqual(tiles[1][:4], bytes((0, 255, 0, 255)))
+
 
 class SpriteCodecTests(unittest.TestCase):
     def test_rgba_rle_roundtrip(self) -> None:
@@ -108,6 +128,25 @@ class DatImporterTests(unittest.TestCase):
     def test_multitile_exact_size_matches_object_builder(self) -> None:
         appearance = encode_simple_item_appearance(2, 2, (1, 2, 3, 4), OTFI)
         self.assertEqual(appearance[:3], b"\x02\x02\x40")
+
+    def test_encodes_animated_item_with_fixed_durations(self) -> None:
+        appearance = encode_item_appearance(
+            1,
+            1,
+            2,
+            (41, 42),
+            OTFI,
+            frame_duration_ms=150,
+            animation_async=False,
+        )
+        item = b"\xFF" + appearance
+        outfit = b"\xFF\x01\x00" + empty_appearance()
+        source_bytes = struct.pack("<IHHHH", 1, 100, 1, 1, 1) + item + outfit + item + item
+        spans = scan_dat_record_spans(source_bytes, OTFI, "animated.dat")
+        self.assertEqual(spans[0].appearances[0].frames, 2)
+        self.assertEqual(spans[0].appearances[0].sprite_ids, (41, 42))
+        self.assertEqual(appearance[7:13], struct.pack("<BiB", 0, 0, 0))
+        self.assertEqual(appearance[13:29], struct.pack("<IIII", 150, 150, 150, 150))
 
 
 class OtbImporterTests(unittest.TestCase):
@@ -144,6 +183,32 @@ class ManifestTests(unittest.TestCase):
             entries = read_manifest(manifest)
         self.assertEqual(entries[0].client_id, 100)
         self.assertEqual(entries[0].source_path, image.resolve())
+        self.assertEqual(entries[0].frames, 1)
+        self.assertIsNone(entries[0].frame_duration_ms)
+
+    def test_reads_animated_manifest_metadata(self) -> None:
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory)
+            image = root / "item.png"
+            image.write_bytes(png_rgba(32, 64, bytes((1, 2, 3, 255)) * 2048))
+            manifest = root / "manifest.csv"
+            with manifest.open("w", encoding="utf-8", newline="") as stream:
+                writer = csv.writer(stream)
+                writer.writerow(
+                    (
+                        "sequence",
+                        "client_id",
+                        "source_path",
+                        "frames",
+                        "frame_duration_ms",
+                        "animation_async",
+                    )
+                )
+                writer.writerow((1, 100, "item.png", 2, 150, 0))
+            entry = read_manifest(manifest)[0]
+        self.assertEqual(entry.frames, 2)
+        self.assertEqual(entry.frame_duration_ms, 150)
+        self.assertFalse(entry.animation_async)
 
 
 class TransactionTests(unittest.TestCase):

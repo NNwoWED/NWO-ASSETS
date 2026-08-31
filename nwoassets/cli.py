@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import argparse
+from datetime import datetime
 import json
 import os
 from pathlib import Path
@@ -10,10 +11,12 @@ from typing import Callable
 from . import __version__
 from .content import inspect_world, scan_directory
 from .errors import NwoAssetsError
+from .exporter import EXPORT_CATEGORIES, export_pngs
 from .importer import import_items
 from .otbm import inspect_map_position
 from .pipeline import inspect_client, inspect_text_configs, validate_root
 from .properties import edit_item_properties
+from .runtime_sync import sync_runtime_assets
 from .versioning import create_version
 
 
@@ -26,6 +29,17 @@ def _write_report(report: dict[str, object], output: str | None) -> None:
         print(f"Relatorio gravado em {path.resolve()}")
     else:
         sys.stdout.write(payload)
+
+
+def _runtime_failure_report(args: argparse.Namespace, exc: BaseException) -> dict[str, object]:
+    return {
+        "tool_version": __version__,
+        "generated_at": datetime.now().astimezone().isoformat(),
+        "root": str(args.root),
+        "dry_run": bool(getattr(args, "dry_run", False)),
+        "passed": False,
+        "error": str(exc),
+    }
 
 
 def _root(value: str) -> Path:
@@ -66,7 +80,10 @@ def build_parser() -> argparse.ArgumentParser:
     )
     importer = subparsers.add_parser(
         "import-items",
-        help="versiona e importa PNGs em Client IDs existentes na pasta assets",
+        help=(
+            "versiona e importa PNGs estáticos ou folhas verticais animadas "
+            "em Client IDs existentes na pasta assets"
+        ),
     )
     importer.add_argument("root", nargs="?", default=".", type=_root)
     importer.add_argument("manifest", type=Path)
@@ -94,6 +111,39 @@ def build_parser() -> argparse.ArgumentParser:
     position.add_argument("y", type=int)
     position.add_argument("z", type=int)
     position.add_argument("-o", "--output", help="grava o relatório JSON neste caminho")
+    exporter = subparsers.add_parser(
+        "export-png",
+        help="exporta items, outfits, effects ou missiles do DAT/SPR como PNG",
+    )
+    exporter.add_argument("root", type=_root)
+    exporter.add_argument("category", choices=sorted(EXPORT_CATEGORIES))
+    exporter.add_argument("ids", nargs="+", type=int)
+    exporter.add_argument(
+        "--id-kind",
+        choices=("client", "server"),
+        default="client",
+        help="interpreta os IDs de items como Client IDs ou Server IDs",
+    )
+    exporter.add_argument(
+        "--out-dir",
+        type=Path,
+        help="pasta de saída; o padrão é export/<categoria>",
+    )
+    exporter.add_argument(
+        "--overwrite",
+        action="store_true",
+        help="substitui PNGs exportados anteriormente",
+    )
+    exporter.add_argument("-o", "--output", help="grava o relatório JSON neste caminho")
+    runtime_sync = common(
+        "sync-runtime",
+        "valida e sincroniza OTB/XML com o servidor e DAT/SPR/860.rar com o client",
+    )
+    runtime_sync.add_argument(
+        "--dry-run",
+        action="store_true",
+        help="valida e relata as cópias sem modificar os destinos",
+    )
     return parser
 
 
@@ -126,20 +176,37 @@ def main(argv: list[str] | None = None) -> int:
         "inspect-map-position": lambda: inspect_map_position(
             args.root, args.x, args.y, args.z
         ),
+        "export-png": lambda: export_pngs(
+            args.root,
+            args.category,
+            args.ids,
+            id_kind=args.id_kind,
+            output_dir=args.out_dir,
+            overwrite=args.overwrite,
+        ),
+        "sync-runtime": lambda: sync_runtime_assets(
+            args.root,
+            dry_run=args.dry_run,
+        ),
     }
     try:
         report = actions[args.command]()
         _write_report(report, args.output)
         if args.command in {
             "validate", "import-items", "create-version", "edit-item-properties",
-            "inspect-map-position",
+            "inspect-map-position", "export-png",
+            "sync-runtime",
         } and not report.get("passed", False):
             return 1
         return 0
     except NwoAssetsError as exc:
+        if args.command == "sync-runtime":
+            _write_report(_runtime_failure_report(args, exc), args.output)
         print(f"erro: {exc}", file=sys.stderr)
         return 2
     except OSError as exc:
+        if args.command == "sync-runtime":
+            _write_report(_runtime_failure_report(args, exc), args.output)
         print(f"erro de I/O: {exc}", file=sys.stderr)
         return 2
 

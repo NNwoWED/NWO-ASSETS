@@ -51,6 +51,7 @@ def scan_directory(root: Path) -> dict[str, object]:
         ".pytest_cache",
         ".venv",
         "__pycache__",
+        "export",
         "reports",
         "versions",
     }

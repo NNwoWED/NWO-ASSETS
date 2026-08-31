@@ -12,10 +12,10 @@ from nwoassets.otfi import parse_otfi
 ROOT = Path(__file__).resolve().parents[1]
 
 BASELINE_SHA256 = {
-    "assets/860/Tibia.dat": "B4C7A5D5EA0D020AA9226259E74463C316C8E89CF52CC1989C05858B9873B886",
-    "assets/860/Tibia.spr": "40FB175894C16FB6319D875612BE202D8B440B9F3CE2E787548C35660C77CC1A",
+    "assets/860/Tibia.dat": "E68A65CA9ABAC59CB24F456D418E964C70F7061E016C7CCD4004C0C9F137D125",
+    "assets/860/Tibia.spr": "F9BF2383ADF5601BD90FC18E4C0C1A4880CB473D72B18F87A3D2BA83E1953CA0",
     "assets/860/Tibia.otfi": "7743548835944BC799CB871A4E5DEF84F7AF76815031871B9CE74B5EC0E8ADD3",
-    "assets/items/items.otb": "CA39F2A67BA0F40E1225886982E6B63E69481303D35A48EF965407D088A2A2B5",
+    "assets/items/items.otb": "013E2829400C4BCAC9AC536B69EC5DDA636E9BCC94E9344248E1D13913087153",
     "assets/world/mapanovo.otbm": "3F1396A9C7F1817A406897B42D163C25A73CE55E86B072E92416356C96FD3650",
 }
 
@@ -32,7 +32,7 @@ class LocalBaselineTests(unittest.TestCase):
         self.assertEqual(dat["signature"], "0x4C2C7993")
         self.assertEqual(dat["max_item_id"], 24522)
         self.assertEqual(spr["signature"], "0x4C220594")
-        self.assertEqual(spr["sprite_count"], 252143)
+        self.assertEqual(spr["sprite_count"], 252158)
         self.assertEqual(spr["zero_offsets"], 0)
 
     def test_dat_parses_to_eof(self) -> None:
@@ -40,9 +40,9 @@ class LocalBaselineTests(unittest.TestCase):
             ROOT / "assets" / "860" / "Tibia.dat",
             self.otfi,
             expected_metadata_reader=5,
-            sprite_count=252143,
+            sprite_count=252158,
         )
-        self.assertEqual(report["parsed_end_offset"], 4_369_101)
+        self.assertEqual(report["parsed_end_offset"], 4_369_272)
         self.assertEqual(report["total_records"], 30_294)
         self.assertEqual(report["flag_counts"]["custom_flag_22"], 4)
 

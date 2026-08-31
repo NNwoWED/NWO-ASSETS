@@ -1,0 +1,67 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "profile": {
+    "key": "tibia-860-v2-custom-extended",
+    "client_version": 860,
+    "label": "Tibia 8.60 v2 customizado com features OTFI",
+    "dat_signature": "0x4C2C7993",
+    "spr_signature": "0x4C220594",
+    "metadata_reader": 5,
+    "otb_version_hint": "8.60"
+  },
+  "category": "items",
+  "id_kind": "server",
+  "requested_ids": [
+    14421
+  ],
+  "output_dir": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\chave-dungeon-extra-20260830",
+  "exported_count": 1,
+  "exported": [
+    {
+      "requested_id": 14421,
+      "client_id": 13544,
+      "server_ids": [
+        14421
+      ],
+      "name": "Chave de Dungeon Extra",
+      "group_index": 0,
+      "width": 32,
+      "height": 448,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 14,
+      "sprite_ids": [
+        252145,
+        252146,
+        252147,
+        252148,
+        252149,
+        252150,
+        252151,
+        252152,
+        252153,
+        252154,
+        252155,
+        252156,
+        252157,
+        252158
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\chave-dungeon-extra-20260830\\server-14421_client-13544_chave-de-dungeon-extra.png",
+      "size": 1395,
+      "sha256": "4090B3135877C1A716BD4028963D6854AB2D1C5E34E8E6EFDDF02E0D66E33376"
+    }
+  ],
+  "sources": {
+    "dat": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.dat",
+      "sha256": "E68A65CA9ABAC59CB24F456D418E964C70F7061E016C7CCD4004C0C9F137D125"
+    },
+    "spr": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.spr",
+      "sha256": "F9BF2383ADF5601BD90FC18E4C0C1A4880CB473D72B18F87A3D2BA83E1953CA0"
+    }
+  },
+  "passed": true
+}

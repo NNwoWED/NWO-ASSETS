@@ -1,0 +1,146 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "profile": {
+    "key": "tibia-860-v2-custom-extended",
+    "client_version": 860,
+    "label": "Tibia 8.60 v2 customizado com features OTFI",
+    "dat_signature": "0x4C2C7993",
+    "spr_signature": "0x4C220594",
+    "metadata_reader": 5,
+    "otb_version_hint": "8.60"
+  },
+  "category": "items",
+  "id_kind": "server",
+  "requested_ids": [
+    24293,
+    24294,
+    24295,
+    24296,
+    24297
+  ],
+  "output_dir": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\mist-survivor",
+  "exported_count": 5,
+  "exported": [
+    {
+      "requested_id": 24293,
+      "client_id": 23408,
+      "server_ids": [
+        24293
+      ],
+      "name": "Mist Survivor Hood",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        212339
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\mist-survivor\\server-24293_client-23408_mist-survivor-hood.png",
+      "size": 408,
+      "sha256": "0F54A6F91AFE67DCF7F061C331824A1C838C16D2B0E5D6E88136C148B8EA137F"
+    },
+    {
+      "requested_id": 24294,
+      "client_id": 23409,
+      "server_ids": [
+        24294
+      ],
+      "name": "Mist Survivor Armor",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        212340
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\mist-survivor\\server-24294_client-23409_mist-survivor-armor.png",
+      "size": 562,
+      "sha256": "16C30F22978F7012027F63167E5F00A433BA825D0AC7FA461F7B326742B005F1"
+    },
+    {
+      "requested_id": 24295,
+      "client_id": 23410,
+      "server_ids": [
+        24295
+      ],
+      "name": "Mist Survivor Legs",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        212341
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\mist-survivor\\server-24295_client-23410_mist-survivor-legs.png",
+      "size": 465,
+      "sha256": "27E38160B2AA6FAD8E705C1191B5248DC2C1C58026F7A3BB02B337B2442B594E"
+    },
+    {
+      "requested_id": 24296,
+      "client_id": 23411,
+      "server_ids": [
+        24296
+      ],
+      "name": "Mist Survivor Boots",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        212342
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\mist-survivor\\server-24296_client-23411_mist-survivor-boots.png",
+      "size": 444,
+      "sha256": "D1B24E37D7F7CFD7695572A745174AA3C8CA916EB767BFD59D8C032EC73B0F70"
+    },
+    {
+      "requested_id": 24297,
+      "client_id": 23412,
+      "server_ids": [
+        24297
+      ],
+      "name": "Mist Survivor Gloves",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        212343
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\mist-survivor\\server-24297_client-23412_mist-survivor-gloves.png",
+      "size": 304,
+      "sha256": "46FC815DD136BD0F7D1EA87353AE31212DA9B07D8EC6270E5821E809F72A9521"
+    }
+  ],
+  "sources": {
+    "dat": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.dat",
+      "sha256": "049EEE421D2B94BC14C7A70437ADF83B450EFA95DFF72928CE05C1614286DBBE"
+    },
+    "spr": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.spr",
+      "sha256": "18D4AB7BDB4F3F2022D9C6B649D0F705A562356E3C73D98210ABED856A511D43"
+    }
+  },
+  "passed": true
+}

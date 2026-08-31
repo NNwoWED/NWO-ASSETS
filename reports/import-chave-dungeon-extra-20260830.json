@@ -1,0 +1,134 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "manifest": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\manifest-chave-dungeon-extra.csv",
+  "profile": "tibia-860-v2-custom-extended",
+  "version_backup": {
+    "tool_version": "0.6.0",
+    "version_id": "20260830-140142-524133",
+    "created_at": "2026-08-30T14:01:53.267765-03:00",
+    "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20260830-140142-524133",
+    "rar_executable": "C:\\Program Files\\WinRAR\\Rar.exe",
+    "sources": [
+      {
+        "path": "assets/860/.gitattributes",
+        "size": 43,
+        "sha256": "D5636A3257287440945C5E017581545E5B0A3E2FDDDAE7C5EF8D90FF4DF3D32A"
+      },
+      {
+        "path": "assets/860/Tibia.dat",
+        "size": 4369102,
+        "sha256": "5C7A49508F23BA7368A6DD5FAB2C459BA74DA910011B7FF7E5DA0DC6818C21F7"
+      },
+      {
+        "path": "assets/860/Tibia.otfi",
+        "size": 185,
+        "sha256": "7743548835944BC799CB871A4E5DEF84F7AF76815031871B9CE74B5EC0E8ADD3"
+      },
+      {
+        "path": "assets/860/Tibia.spr",
+        "size": 430527404,
+        "sha256": "18D4AB7BDB4F3F2022D9C6B649D0F705A562356E3C73D98210ABED856A511D43"
+      },
+      {
+        "path": "assets/items/force use.txt",
+        "size": 419,
+        "sha256": "BCB478FDF3F45ECA8D172AFD7A17D3F8CD520924EE0894752452B8FDC8F71959"
+      },
+      {
+        "path": "assets/items/items.otb",
+        "size": 1003370,
+        "sha256": "EF655A800F173F13B1CC20428A49937623436CD9432C6B5AEED7F9CE924536FB"
+      },
+      {
+        "path": "assets/world/mapanovo.otbm",
+        "size": 78697168,
+        "sha256": "3F1396A9C7F1817A406897B42D163C25A73CE55E86B072E92416356C96FD3650"
+      }
+    ],
+    "archives": {
+      "860": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20260830-140142-524133\\860.rar",
+        "size": 83007184,
+        "sha256": "7E7D39810E9A6F1B8B7DDEA8B195F3DC159BFAC6AC980AC72E6D8CA14B2D335B"
+      },
+      "items": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20260830-140142-524133\\items.rar",
+        "size": 476118,
+        "sha256": "81684BE9FC2A914A57752E621C77E6A6515491C5AE61851765788EF11C86403B"
+      },
+      "world": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20260830-140142-524133\\world.zip",
+        "size": 18968977,
+        "sha256": "B54EA88232FE8D4E0970FA0A864E87D70E406BA518A89FE48752E691D1DE896F"
+      }
+    },
+    "items_xml_excluded": true,
+    "world_entries": [
+      "mapanovo.otbm"
+    ],
+    "passed": true
+  },
+  "sprite_hash_gate": {
+    "sample_count": 64,
+    "mismatch_count": 0,
+    "mismatches": [],
+    "passed": true
+  },
+  "item_count": 1,
+  "new_sprite_count": 14,
+  "sprite_id_range": [
+    252145,
+    252158
+  ],
+  "items": [
+    {
+      "sequence": 1,
+      "client_id": 13544,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\chave_dungeon.png",
+      "file_sha256": "696347E77624CB3357CA1DCF4C657E29C371DFDA7287D0B50C6551E94B028C99",
+      "pixels_sha256": "767D11C19F463F21685E08BF595056279C17FFB5C764A70CE964338C03C1A418",
+      "image_width": 32,
+      "image_height": 448,
+      "width_tiles": 1,
+      "height_tiles": 1,
+      "frames": 14,
+      "frame_duration_ms": 150,
+      "animation_async": false,
+      "sprite_ids": [
+        252145,
+        252146,
+        252147,
+        252148,
+        252149,
+        252150,
+        252151,
+        252152,
+        252153,
+        252154,
+        252155,
+        252156,
+        252157,
+        252158
+      ],
+      "sprite_hash": "E052C65D06D414A71ECBA8F96F87A505"
+    }
+  ],
+  "otb_nodes_updated": {
+    "13544": 1
+  },
+  "transaction_committed": true,
+  "output_hashes": {
+    "dat": "E68A65CA9ABAC59CB24F456D418E964C70F7061E016C7CCD4004C0C9F137D125",
+    "spr": "F9BF2383ADF5601BD90FC18E4C0C1A4880CB473D72B18F87A3D2BA83E1953CA0",
+    "otb": "013E2829400C4BCAC9AC536B69EC5DDA636E9BCC94E9344248E1D13913087153"
+  },
+  "dat_non_targets_preserved": true,
+  "old_sprite_payload_preserved": true,
+  "new_sprite_pixels_verified": true,
+  "untouched_files_preserved": true,
+  "map_byte_equal": true,
+  "final_validation_passed": true,
+  "warnings": [],
+  "errors": [],
+  "passed": true
+}

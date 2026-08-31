@@ -16389,6 +16389,10 @@
 		<attribute key="description" value="Ativa protecao PvP por 2 horas e 20 minutos. Uso diario independente do ticket comum." />
 		<attribute key="market" value="1" />
 	</item>
+	<item id="14421" article="a" name="Chave de Dungeon Extra">
+		<attribute key="description" value="Permite dobrar a recompensa ao concluir uma Dungeon." />
+		<attribute key="market" value="1" />
+	</item>
 
 
 	<item id="14873" article="a" name="Shin Uchiha Eyes">

@@ -13,10 +13,15 @@ from .errors import FormatError
 from .otb import OtbNode, inspect_otb, parse_otb_tree
 from .otfi import OtfiConfig, parse_otfi
 from .pipeline import inspect_client, validate_root
-from .png import normalize_rgba, read_png_rgba, split_tiles_bottom_right_first
+from .png import (
+    MAX_ITEM_DIMENSION,
+    normalize_rgba,
+    read_png_rgba,
+    split_vertical_animation_sheet,
+)
 from .roundtrip import (
     append_spr_blocks,
-    encode_simple_item_appearance,
+    encode_item_appearance,
     scan_dat_record_spans,
     write_dat_item_appearances,
     write_otb_document,
@@ -37,6 +42,9 @@ class ManifestEntry:
     sequence: int
     client_id: int
     source_path: Path
+    frames: int
+    frame_duration_ms: int | None
+    animation_async: bool
 
 
 @dataclass(frozen=True)
@@ -50,6 +58,9 @@ class PreparedItem:
     image_height: int
     width_tiles: int
     height_tiles: int
+    frames: int
+    frame_duration_ms: int | None
+    animation_async: bool
     sprite_ids: tuple[int, ...]
     sprite_hash: str
 
@@ -75,8 +86,34 @@ def read_manifest(path: Path) -> list[ManifestEntry]:
         try:
             sequence = int(row["sequence"])
             client_id = int(row["client_id"])
+            frames = int((row.get("frames") or "1").strip())
         except (TypeError, ValueError) as exc:
-            raise FormatError(f"{path}:{row_number}: sequence/client_id inválido") from exc
+            raise FormatError(
+                f"{path}:{row_number}: sequence/client_id/frames inválido"
+            ) from exc
+        if not 1 <= frames <= 255:
+            raise FormatError(f"{path}:{row_number}: frames deve estar entre 1 e 255")
+        raw_duration = (row.get("frame_duration_ms") or "").strip()
+        try:
+            frame_duration_ms = int(raw_duration) if raw_duration else None
+        except ValueError as exc:
+            raise FormatError(
+                f"{path}:{row_number}: frame_duration_ms inválido"
+            ) from exc
+        raw_async = (row.get("animation_async") or "0").strip()
+        if raw_async not in {"0", "1"}:
+            raise FormatError(
+                f"{path}:{row_number}: animation_async deve ser 0 ou 1"
+            )
+        animation_async = raw_async == "1"
+        if frames > 1 and frame_duration_ms is None:
+            raise FormatError(
+                f"{path}:{row_number}: animação exige frame_duration_ms"
+            )
+        if frames == 1 and (frame_duration_ms is not None or animation_async):
+            raise FormatError(
+                f"{path}:{row_number}: duração/async exige mais de um frame"
+            )
         raw_source = (row.get("source_path") or "").strip()
         if not raw_source:
             raise FormatError(f"{path}:{row_number}: source_path vazio")
@@ -86,7 +123,16 @@ def read_manifest(path: Path) -> list[ManifestEntry]:
         source = source.resolve()
         if source.suffix.casefold() != ".png" or not source.is_file():
             raise FormatError(f"{path}:{row_number}: PNG não encontrado: {source}")
-        entries.append(ManifestEntry(sequence, client_id, source))
+        entries.append(
+            ManifestEntry(
+                sequence,
+                client_id,
+                source,
+                frames,
+                frame_duration_ms,
+                animation_async,
+            )
+        )
 
     expected_sequences = list(range(1, len(entries) + 1))
     sequences = [entry.sequence for entry in entries]
@@ -394,18 +440,36 @@ def _import_items_impl(
     hashes: dict[int, bytes] = {}
     prepared: list[PreparedItem] = []
     for entry in entries:
-        image = normalize_rgba(read_png_rgba(entry.source_path))
-        tiles = split_tiles_bottom_right_first(image, otfi.sprite_size)
+        image = normalize_rgba(
+            read_png_rgba(
+                entry.source_path,
+                max_width=MAX_ITEM_DIMENSION,
+                max_height=MAX_ITEM_DIMENSION * entry.frames,
+            )
+        )
+        tiles, width_tiles, height_tiles = split_vertical_animation_sheet(
+            image, entry.frames, otfi.sprite_size
+        )
+        if len(tiles) > otfi.sprite_data_size:
+            raise FormatError(
+                f"Client ID {entry.client_id}: aparência usa {len(tiles)} sprites; "
+                f"limite OTFI {otfi.sprite_data_size}"
+            )
         sprite_ids = tuple(range(next_sprite_id, next_sprite_id + len(tiles)))
         next_sprite_id += len(tiles)
         blocks.extend(encode_sprite_rgba(tile) for tile in tiles)
         expected_tiles.update(zip(sprite_ids, tiles))
-        width_tiles = image.width // otfi.sprite_size
-        height_tiles = image.height // otfi.sprite_size
-        appearances[entry.client_id] = encode_simple_item_appearance(
-            width_tiles, height_tiles, sprite_ids, otfi
+        appearances[entry.client_id] = encode_item_appearance(
+            width_tiles,
+            height_tiles,
+            entry.frames,
+            sprite_ids,
+            otfi,
+            frame_duration_ms=entry.frame_duration_ms,
+            animation_async=entry.animation_async,
         )
-        item_hash = sprite_hash(tiles)
+        first_frame_tile_count = width_tiles * height_tiles
+        item_hash = sprite_hash(tiles[:first_frame_tile_count])
         hashes[entry.client_id] = item_hash
         prepared.append(
             PreparedItem(
@@ -418,6 +482,9 @@ def _import_items_impl(
                 image_height=image.height,
                 width_tiles=width_tiles,
                 height_tiles=height_tiles,
+                frames=entry.frames,
+                frame_duration_ms=entry.frame_duration_ms,
+                animation_async=entry.animation_async,
                 sprite_ids=sprite_ids,
                 sprite_hash=item_hash.hex().upper(),
             )

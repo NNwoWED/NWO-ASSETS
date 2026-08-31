@@ -1,0 +1,67 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "profile": {
+    "key": "tibia-860-v2-custom-extended",
+    "client_version": 860,
+    "label": "Tibia 8.60 v2 customizado com features OTFI",
+    "dat_signature": "0x4C2C7993",
+    "spr_signature": "0x4C220594",
+    "metadata_reader": 5,
+    "otb_version_hint": "8.60"
+  },
+  "category": "items",
+  "id_kind": "client",
+  "requested_ids": [
+    13595
+  ],
+  "output_dir": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\identificacao-sprites-20260830-chave",
+  "exported_count": 1,
+  "exported": [
+    {
+      "requested_id": 13595,
+      "client_id": 13595,
+      "server_ids": [
+        14472
+      ],
+      "name": "Suna Potion",
+      "group_index": 0,
+      "width": 32,
+      "height": 448,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 14,
+      "sprite_ids": [
+        207607,
+        207607,
+        207607,
+        207607,
+        207607,
+        207607,
+        207607,
+        207607,
+        207607,
+        207608,
+        207609,
+        207610,
+        207611,
+        207612
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\identificacao-sprites-20260830-chave\\client-13595_server-14472_suna-potion.png",
+      "size": 906,
+      "sha256": "1D3E17CF7305D1F14FCE200D65CC45CC7CEBFC255DEF94420B438224C5865C4F"
+    }
+  ],
+  "sources": {
+    "dat": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.dat",
+      "sha256": "5C7A49508F23BA7368A6DD5FAB2C459BA74DA910011B7FF7E5DA0DC6818C21F7"
+    },
+    "spr": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.spr",
+      "sha256": "18D4AB7BDB4F3F2022D9C6B649D0F705A562356E3C73D98210ABED856A511D43"
+    }
+  },
+  "passed": true
+}

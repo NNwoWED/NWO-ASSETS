@@ -12,6 +12,7 @@ NWO-ASSETS/
 │  ├─ 860/
 │  ├─ items/
 │  └─ world/
+├─ export/            # PNGs derivados de items, outfits, effects e missiles
 └─ versions/
 ```
 
@@ -26,6 +27,8 @@ python -m nwoassets create-version . -o reports/version.json
 python -m nwoassets import-items . C:\lote\manifest.csv --deep-spr -o C:\lote\report.json
 python -m nwoassets edit-item-properties . examples\items-properties.csv -o reports\properties.json
 python -m nwoassets inspect-map-position . 926 1195 7 -o reports\position.json
+python -m nwoassets export-png . items 24300 --id-kind server -o reports\export.json
+python -m nwoassets sync-runtime . -o reports\sync-runtime.json
 ```
 
 Também é possível instalar o comando:
@@ -34,6 +37,19 @@ Também é possível instalar o comando:
 python -m pip install -e .
 nwoassets validate .
 ```
+
+## Sincronização com servidor e client
+
+Depois de qualquer alteração validada em `items.otb`, `items.xml`, `Tibia.dat`
+ou `Tibia.spr`, execute `sincronizar-assets-runtime.bat` ou o comando
+`python -m nwoassets sync-runtime . -o reports\sync-runtime.json`.
+
+O sincronizador valida a baseline com verificação profunda do SPR, copia
+`items.otb` e `items.xml` para `Server-Data-Nwo/data/items`, copia `Tibia.dat` e
+`Tibia.spr` para `nwo-otclient-mehah-4.0/data/things/860` e recria
+`nwo-otclient-mehah-4.0/data/things/860.rar`. As publicações usam arquivos
+temporários, conferência de hash e rollback; o RAR é testado pelo WinRAR antes
+de substituir o arquivo anterior.
 
 ## Versionamento obrigatório
 
@@ -59,15 +75,17 @@ são resolvidos a partir da pasta do manifesto. Um modelo está em
 `examples/items-import.csv`:
 
 ```csv
-sequence,client_id,source_path
-1,24522,item-24522.png
-2,24521,subpasta/item-24521.png
+sequence,client_id,source_path,frames,frame_duration_ms,animation_async
+1,24522,item-24522.png,1,,0
+2,24521,subpasta/item-24521-animado.png,14,150,0
 ```
 
 Cada PNG deve ser RGBA 8-bit, não entrelaçado, ter dimensões múltiplas de 32 e
-medir no máximo 224×224. Alpha zero e magenta opaco (`#FF00FF`) tornam-se
-transparentes. Nesta fase, o Client ID deve existir entre `100..24522` e recebe
-uma aparência estática com uma camada e um frame.
+medir no máximo 224×224 por frame. Animações usam uma folha vertical, de cima
+para baixo, com `frames` e `frame_duration_ms` obrigatórios; `animation_async`
+aceita `0` ou `1`. Alpha zero e magenta opaco (`#FF00FF`) tornam-se transparentes.
+Nesta fase, o Client ID deve existir entre `100..24522`; a aparência continua com
+uma camada e sem patterns adicionais.
 
 Depois do backup, a ferramenta prepara arquivos temporários ao lado dos oficiais,
 reabre e valida tudo e faz a troca no próprio `assets/`. Se a validação final
@@ -105,6 +123,28 @@ visual, com posições iniciadas em 1. Para cada item, mostra Server ID, Client 
 grupo e flags OTB/DAT. Itens dentro de containers recebem `nested_depth` maior que
 zero.
 
+## Exportação de PNG
+
+`export-png` lê o DAT e o SPR sem modificar os arquivos oficiais e recompõe a
+aparência na mesma ordem usada pelo `ThingType::exportImage` do client. Itens
+multitile são reposicionados na ordem visual correta; layers e patterns ficam no
+eixo horizontal, enquanto frames, pattern Y e pattern Z ficam no eixo vertical.
+Outfits com mais de um frame group geram um PNG separado para cada grupo.
+
+Por padrão, os arquivos são gravados em `export/<categoria>/`. A categoria pode
+ser `items`, `outfits`, `effects` ou `missiles`. Items aceitam Client ID ou Server
+ID; outfits, effects e missiles usam seus IDs DAT:
+
+```powershell
+python -m nwoassets export-png . items 24300 24302 --id-kind server
+python -m nwoassets export-png . outfits 128 129 --out-dir export\outfits
+python -m nwoassets export-png . effects 1357 1359 --out-dir export\effects
+```
+
+O comando recusa sobrescrever um PNG existente, salvo quando `--overwrite` for
+informado. O relatório inclui os IDs resolvidos, dimensões, layers, patterns,
+frames, Sprite IDs e SHA-256 de cada PNG.
+
 ## Comandos
 
 - `scan`: inventaria e calcula SHA-256;
@@ -116,6 +156,7 @@ zero.
 - `import-items`: versiona e modifica DAT, SPR e OTB no local.
 - `edit-item-properties`: versiona e edita flags booleanas DAT/OTB;
 - `inspect-map-position`: lê a pilha de uma coordenada do OTBM sem modificá-lo.
+- `export-png`: exporta items, outfits, effects e missiles do DAT/SPR como PNG.
 
 Use `--deep-spr` para validar o RLE de todos os sprites. A pasta `versions/` é
 ignorada pelo inventário e pelo Git para não reprocessar nem versionar os backups.

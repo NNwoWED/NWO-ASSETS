@@ -1,0 +1,146 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "profile": {
+    "key": "tibia-860-v2-custom-extended",
+    "client_version": 860,
+    "label": "Tibia 8.60 v2 customizado com features OTFI",
+    "dat_signature": "0x4C2C7993",
+    "spr_signature": "0x4C220594",
+    "metadata_reader": 5,
+    "otb_version_hint": "8.60"
+  },
+  "category": "items",
+  "id_kind": "server",
+  "requested_ids": [
+    24300,
+    24302,
+    24303,
+    24304,
+    24305
+  ],
+  "output_dir": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\mist-assassin",
+  "exported_count": 5,
+  "exported": [
+    {
+      "requested_id": 24300,
+      "client_id": 23415,
+      "server_ids": [
+        24300
+      ],
+      "name": "Mist Assassin Gloves",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        213035
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\mist-assassin\\server-24300_client-23415_mist-assassin-gloves.png",
+      "size": 346,
+      "sha256": "44B949FAD97625B5113D849D38D05AB464D52FC73024C138E0CAB1FE33EF8418"
+    },
+    {
+      "requested_id": 24302,
+      "client_id": 23417,
+      "server_ids": [
+        24302
+      ],
+      "name": "Mist Assassin Helmet",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        213031
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\mist-assassin\\server-24302_client-23417_mist-assassin-helmet.png",
+      "size": 409,
+      "sha256": "6EBF8B94E0B0D7C53092824B6512DA3E637FF87A535578E42420F5A1FE2D6BB0"
+    },
+    {
+      "requested_id": 24303,
+      "client_id": 23418,
+      "server_ids": [
+        24303
+      ],
+      "name": "Mist Assassin Cloth",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        213032
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\mist-assassin\\server-24303_client-23418_mist-assassin-cloth.png",
+      "size": 598,
+      "sha256": "0DD3EE66027A598A5D44581356C3662C2EE1D06D31BCEF675DF1B59C9BFB466C"
+    },
+    {
+      "requested_id": 24304,
+      "client_id": 23419,
+      "server_ids": [
+        24304
+      ],
+      "name": "Mist Assassin Legs",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        213033
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\mist-assassin\\server-24304_client-23419_mist-assassin-legs.png",
+      "size": 585,
+      "sha256": "D7D2480B4CD4C50AAC3F1431528CCDF87BAEFA5F34BFA7C0B907569049E923A6"
+    },
+    {
+      "requested_id": 24305,
+      "client_id": 23420,
+      "server_ids": [
+        24305
+      ],
+      "name": "Mist Assassin Boots",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        213034
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\mist-assassin\\server-24305_client-23420_mist-assassin-boots.png",
+      "size": 379,
+      "sha256": "89E16906EBB52D75A79CA669D2B9A4A884829ABA0199200EEF3A90B194EDB0DE"
+    }
+  ],
+  "sources": {
+    "dat": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.dat",
+      "sha256": "049EEE421D2B94BC14C7A70437ADF83B450EFA95DFF72928CE05C1614286DBBE"
+    },
+    "spr": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.spr",
+      "sha256": "18D4AB7BDB4F3F2022D9C6B649D0F705A562356E3C73D98210ABED856A511D43"
+    }
+  },
+  "passed": true
+}

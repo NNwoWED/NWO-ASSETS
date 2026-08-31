@@ -31,6 +31,7 @@ baseline antes de modificar os arquivos oficiais em `assets/`. A ferramenta:
 - acrescenta sprites, troca apenas a aparência DAT alvo e atualiza o SpriteHash OTB;
 - edita flags booleanas DAT e os 28 bits funcionais OTB por manifesto declarativo;
 - inspeciona uma coordenada OTBM e resolve a pilha Server ID/Client ID;
+- exporta items, outfits, effects e missiles como PNG sem modificar a baseline;
 - reabre os binários preparados e faz uma troca transacional no local;
 - restaura DAT, SPR e OTB anteriores se a validação final falhar.
 
@@ -41,10 +42,10 @@ OTFI, OTBM e OTML não são modificados pela importação de itens.
 
 | Arquivo | Bytes | SHA-256 |
 | --- | ---: | --- |
-| `assets/860/Tibia.dat` | 4.369.101 | `B4C7A5D5EA0D020AA9226259E74463C316C8E89CF52CC1989C05858B9873B886` |
-| `assets/860/Tibia.spr` | 430.525.239 | `40FB175894C16FB6319D875612BE202D8B440B9F3CE2E787548C35660C77CC1A` |
+| `assets/860/Tibia.dat` | 4.369.101 | `049EEE421D2B94BC14C7A70437ADF83B450EFA95DFF72928CE05C1614286DBBE` |
+| `assets/860/Tibia.spr` | 430.527.404 | `18D4AB7BDB4F3F2022D9C6B649D0F705A562356E3C73D98210ABED856A511D43` |
 | `assets/860/Tibia.otfi` | 185 | `7743548835944BC799CB871A4E5DEF84F7AF76815031871B9CE74B5EC0E8ADD3` |
-| `assets/items/items.otb` | 1.003.370 | `CA39F2A67BA0F40E1225886982E6B63E69481303D35A48EF965407D088A2A2B5` |
+| `assets/items/items.otb` | 1.003.370 | `E61CD90BEFDC7A18210419E3E1E1C9C9EEF4C4428F6113A7D8728778C5CA2128` |
 | `assets/world/mapanovo.otbm` | 78.697.168 | `3F1396A9C7F1817A406897B42D163C25A73CE55E86B072E92416356C96FD3650` |
 
 Assinaturas e versões:
@@ -174,7 +175,7 @@ Estado observado:
 - 878.146 referências totais de sprite;
 - 250.037 Sprite IDs não zero distintos;
 - 313.854 referências sentinela `0`;
-- Sprite IDs usados entre `1..252143`;
+- Sprite IDs usados entre `1..252144`;
 - maior grupo observado: 4000 sprites.
 
 ## 5. SPR
@@ -183,8 +184,8 @@ Layout:
 
 ```text
 uint32 signature = 0x4C220594
-uint32 spriteCount = 252143
-uint32 offsets[252143]
+uint32 spriteCount = 252144
+uint32 offsets[252144]
 sprite blocks...
 ```
 
@@ -192,7 +193,7 @@ A tabela termina no offset `1008580`.
 
 Baseline observada:
 
-- 252.143 offsets não zero;
+- 252.144 offsets não zero;
 - nenhum offset compartilhado;
 - nenhum offset fora do arquivo;
 - nenhum payload de tamanho zero;
@@ -272,6 +273,7 @@ nwoassets create-version [ROOT]
 nwoassets import-items [ROOT] MANIFEST.csv [--deep-spr]
 nwoassets edit-item-properties [ROOT] MANIFEST.csv [--deep-spr]
 nwoassets inspect-map-position [ROOT] X Y Z
+nwoassets export-png ROOT {items,outfits,effects,missiles} IDS... [--id-kind client|server]
 ```
 
 Todos aceitam:
@@ -293,17 +295,22 @@ Ele usa `rar.exe` para criar e testar `860.rar` e `items.rar`; todos os XMLs sã
 excluídos de `items.rar`. `world.zip` recebe exclusivamente o OTBM canônico, que é
 reaberto e comparado por SHA-256. Um `version.json` registra fontes e arquivos.
 
-`import-items` recebe um CSV UTF-8 com `sequence,client_id,source_path`. A sequência
-deve começar em 1 e ser contínua; Client IDs e caminhos não podem se repetir. O PNG
-deve ser RGBA 8-bit, não entrelaçado, possuir dimensões múltiplas de 32 e
-medir no máximo 224×224. Esse limite mantém o `exactSize` no `uint8` do DAT. O lote:
+`import-items` recebe um CSV UTF-8 com `sequence,client_id,source_path` e as colunas
+opcionais `frames,frame_duration_ms,animation_async`. A sequência deve começar em
+1 e ser contínua; Client IDs e caminhos não podem se repetir. O PNG deve ser RGBA
+8-bit, não entrelaçado, possuir dimensões múltiplas de 32 e medir no máximo
+224×224 por frame. Animações são folhas verticais de cima para baixo e exigem
+`frame_duration_ms`; `animation_async` aceita `0` ou `1`. O limite por frame mantém
+o `exactSize` no `uint8` do DAT. O lote:
 
 1. normaliza alpha zero e magenta opaco como transparência;
-2. separa tiles de 32×32 na ordem bottom-right-first usada pela aparência DAT;
+2. separa frames verticais e tiles de 32×32 na ordem bottom-right-first usada
+   pela aparência DAT;
 3. codifica RLE RGBA e acrescenta novos Sprite IDs no final do SPR;
 4. substitui somente a aparência dos Client IDs declarados, com `exactSize`
    igual à maior dimensão em pixels, conforme o Object Builder;
-5. calcula o MD5 visual compatível com `ItemEditor/PluginInterface/Item.cs`;
+5. calcula, a partir do primeiro frame, o MD5 visual compatível com
+   `ItemEditor/PluginInterface/Item.cs`;
 6. atualiza todos os nós OTB mapeados ao Client ID, preservando relações N:1;
 7. cria e testa a versão compactada antes de gerar arquivos temporários;
 8. reabre DAT, SPR e OTB preparados e valida pixels, hashes, contagens e mapeamentos;
@@ -312,10 +319,12 @@ medir no máximo 224×224. Esse limite mantém o `exactSize` no `uint8` do DAT. 
 
 Antes de cada lote, o algoritmo de `SpriteHash` precisa coincidir com uma amostra
 determinística de 64 itens da baseline. A fase atual aceita somente Client IDs de
-itens existentes (`100..24522`) e cria aparência estática com uma camada e um frame.
-Criação de novos Client IDs, animações, outfits, effects e missiles continua fora
-do escopo. Não existe mais pasta de staging; temporários atômicos ao lado dos
-binários oficiais são apagados depois do commit ou da reversão.
+itens existentes (`100..24522`) e cria aparências de item estáticas ou animadas,
+com uma camada e sem patterns adicionais. Criação de novos Client IDs e importação
+de outfits, effects e missiles continua fora do escopo. A exportação read-only
+dessas categorias é suportada.
+Não existe mais pasta de staging; temporários atômicos ao lado dos binários
+oficiais são apagados depois do commit ou da reversão.
 
 ### 9.1 Editor de propriedades
 
@@ -339,6 +348,20 @@ SPR, OTFI e OTBM não fazem parte do lote e devem permanecer com o mesmo SHA-256
 O relatório enumera a pilha a partir de 1, identifica itens inline e filhos,
 decodifica `action_id`, `unique_id` e `count` quando presentes, e enriquece cada
 Server ID com Client ID, grupo, máscara OTB e flags DAT.
+
+### 9.3 Exportador PNG
+
+`export-png` recompõe os sprites conforme o layout de `ThingType::exportImage`:
+tiles multitile voltam à ordem visual, layers e pattern X são distribuídos no eixo
+horizontal, e frames, pattern Y e pattern Z no eixo vertical. Outfits com frame
+groups distintos geram um arquivo por grupo. Sprite ID zero é tratado como tile
+transparente, da mesma forma que no client.
+
+Items podem ser selecionados por Client ID ou Server ID; neste último caso, a
+ferramenta resolve o Client ID pelo OTB e usa o nome do `items.xml` apenas para
+nomear o arquivo. Outfits, effects e missiles usam IDs DAT. Os PNGs RGBA 8-bit são
+gravados em `export/`, com relatório de dimensões, layout, Sprite IDs e SHA-256.
+A operação é estritamente read-only em DAT, SPR, OTB e OTBM e não cria backup.
 
 ## 10. Fontes de verdade
 

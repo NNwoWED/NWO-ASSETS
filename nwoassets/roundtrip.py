@@ -187,15 +187,38 @@ def encode_simple_item_appearance(
     sprite_ids: tuple[int, ...],
     otfi: OtfiConfig,
 ) -> bytes:
+    return encode_item_appearance(width, height, 1, sprite_ids, otfi)
+
+
+def encode_item_appearance(
+    width: int,
+    height: int,
+    frames: int,
+    sprite_ids: tuple[int, ...],
+    otfi: OtfiConfig,
+    *,
+    frame_duration_ms: int | None = None,
+    animation_async: bool = False,
+) -> bytes:
     if width < 1 or height < 1 or width > 255 or height > 255:
         raise FormatError(f"dimensões DAT inválidas: {width}x{height}")
-    if len(sprite_ids) != width * height:
+    if frames < 1 or frames > 255:
+        raise FormatError(f"quantidade de frames DAT inválida: {frames}")
+    if len(sprite_ids) != width * height * frames:
         raise FormatError(
-            f"aparência {width}x{height} exige {width * height} sprites, "
+            f"aparência {width}x{height} com {frames} frames exige "
+            f"{width * height * frames} sprites, "
             f"recebeu {len(sprite_ids)}"
         )
     if any(sprite_id <= 0 for sprite_id in sprite_ids):
         raise FormatError("aparência importada não pode referenciar Sprite ID zero")
+    if frames > 1:
+        if not otfi.frame_durations:
+            raise FormatError("perfil OTFI não suporta duração de frames")
+        if frame_duration_ms is None or not 1 <= frame_duration_ms <= 0xFFFFFFFF:
+            raise FormatError("frame_duration_ms deve estar entre 1 e 4294967295")
+    elif frame_duration_ms is not None:
+        raise FormatError("frame_duration_ms somente é válido para animações")
     output = bytearray((width, height))
     if width > 1 or height > 1:
         exact_size = max(width, height) * otfi.sprite_size
@@ -204,7 +227,11 @@ def encode_simple_item_appearance(
                 f"exactSize {exact_size} excede o byte do DAT para {width}x{height}"
             )
         output.append(exact_size)
-    output.extend((1, 1, 1, 1, 1))
+    output.extend((1, 1, 1, 1, frames))
+    if frames > 1:
+        output.extend(struct.pack("<BiB", int(animation_async), 0, 0))
+        for _ in range(frames):
+            output.extend(struct.pack("<II", frame_duration_ms, frame_duration_ms))
     sprite_format = "<I" if otfi.extended else "<H"
     maximum = 0xFFFFFFFF if otfi.extended else 0xFFFF
     for sprite_id in sprite_ids:
