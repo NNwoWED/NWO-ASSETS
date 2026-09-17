@@ -1,0 +1,203 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "manifest": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\manifest-hangable-rotatable-items-20260904.csv",
+  "version_backup": {
+    "tool_version": "0.8.1",
+    "version_id": "20260904-133041-662395",
+    "created_at": "2026-09-04T13:30:55.006723-03:00",
+    "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20260904-133041-662395",
+    "rar_executable": "C:\\Program Files\\WinRAR\\Rar.exe",
+    "sources": [
+      {
+        "path": "assets/860/.gitattributes",
+        "size": 43,
+        "sha256": "D5636A3257287440945C5E017581545E5B0A3E2FDDDAE7C5EF8D90FF4DF3D32A"
+      },
+      {
+        "path": "assets/860/Tibia.dat",
+        "size": 4379150,
+        "sha256": "E210DCB393B2CDC750BE777C493DA6EE4F7031EF804985C0071847571BE92AD4"
+      },
+      {
+        "path": "assets/860/Tibia.otfi",
+        "size": 185,
+        "sha256": "7743548835944BC799CB871A4E5DEF84F7AF76815031871B9CE74B5EC0E8ADD3"
+      },
+      {
+        "path": "assets/860/Tibia.spr",
+        "size": 433179994,
+        "sha256": "DFBD535F0EA389B69D32D491BB63E4E7F25F49CCE3D81AFB959863D8FC625231"
+      },
+      {
+        "path": "assets/items/force use.txt",
+        "size": 419,
+        "sha256": "BCB478FDF3F45ECA8D172AFD7A17D3F8CD520924EE0894752452B8FDC8F71959"
+      },
+      {
+        "path": "assets/items/items.otb",
+        "size": 1003404,
+        "sha256": "992CDB780C2125BC71A46DFA91C9C38FD5AEAAFD07A2518E19A5BFA2C43344A0"
+      },
+      {
+        "path": "assets/world/mapanovo.otbm",
+        "size": 80109484,
+        "sha256": "FEB55A08B8A9ABD9CC129B23BB1D2ED067A903C9473F0D45F62B5CA16CDD6DB5"
+      }
+    ],
+    "archives": {
+      "860": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20260904-133041-662395\\860.rar",
+        "size": 83262414,
+        "sha256": "F9868839231C6067650638F30565E73C7DF26245EEA37C373A7EA971A6CFA46D"
+      },
+      "items": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20260904-133041-662395\\items.rar",
+        "size": 476837,
+        "sha256": "A9AD08EFA35C17169AF62622E328E6DE072CD0AB11C182E005842ED11CC2F0F2"
+      },
+      "world": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20260904-133041-662395\\world.zip",
+        "size": 19340601,
+        "sha256": "DCFFBB6FB455DD8E051C696548FB4210CF88F7F802692C8F96FBEC7EFA8231DA"
+      }
+    },
+    "items_xml_excluded": true,
+    "world_entries": [
+      "mapanovo.otbm"
+    ],
+    "passed": true
+  },
+  "item_count": 4,
+  "items": [
+    {
+      "sequence": 1,
+      "server_id": 14566,
+      "client_id": 13689,
+      "dat": {
+        "before": [
+          "stackable",
+          "pickupable"
+        ],
+        "after": [
+          "pickupable",
+          "hangable",
+          "rotatable"
+        ]
+      },
+      "otb": {
+        "before_mask": "0x000000E0",
+        "after_mask": "0x00018060",
+        "before": [
+          "pickupable",
+          "movable",
+          "stackable"
+        ],
+        "after": [
+          "pickupable",
+          "movable",
+          "rotatable",
+          "hangable"
+        ]
+      }
+    },
+    {
+      "sequence": 2,
+      "server_id": 14568,
+      "client_id": 13691,
+      "dat": {
+        "before": [
+          "stackable",
+          "pickupable"
+        ],
+        "after": [
+          "pickupable",
+          "hangable",
+          "rotatable"
+        ]
+      },
+      "otb": {
+        "before_mask": "0x000000E0",
+        "after_mask": "0x00018060",
+        "before": [
+          "pickupable",
+          "movable",
+          "stackable"
+        ],
+        "after": [
+          "pickupable",
+          "movable",
+          "rotatable",
+          "hangable"
+        ]
+      }
+    },
+    {
+      "sequence": 3,
+      "server_id": 14580,
+      "client_id": 13701,
+      "dat": {
+        "before": [
+          "pickupable",
+          "hangable"
+        ],
+        "after": [
+          "pickupable",
+          "hangable",
+          "rotatable"
+        ]
+      },
+      "otb": {
+        "before_mask": "0x00010060",
+        "after_mask": "0x00018060",
+        "before": [
+          "pickupable",
+          "movable",
+          "hangable"
+        ],
+        "after": [
+          "pickupable",
+          "movable",
+          "rotatable",
+          "hangable"
+        ]
+      }
+    },
+    {
+      "sequence": 4,
+      "server_id": 14581,
+      "client_id": 13702,
+      "dat": {
+        "before": [
+          "pickupable",
+          "hangable"
+        ],
+        "after": [
+          "pickupable",
+          "hangable",
+          "rotatable"
+        ]
+      },
+      "otb": {
+        "before_mask": "0x00010060",
+        "after_mask": "0x00018060",
+        "before": [
+          "pickupable",
+          "movable",
+          "hangable"
+        ],
+        "after": [
+          "pickupable",
+          "movable",
+          "rotatable",
+          "hangable"
+        ]
+      }
+    }
+  ],
+  "transaction_committed": true,
+  "untouched_assets_preserved": true,
+  "final_validation_passed": true,
+  "warnings": [],
+  "errors": [],
+  "passed": true
+}

@@ -1,0 +1,270 @@
+{
+  "tool_version": "0.8.0",
+  "generated_at": "2026-09-03T21:59:43.815716-03:00",
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "source_dir": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\nwo-otclient-mehah-4.0\\data\\things\\860",
+  "version_backup": {
+    "tool_version": "0.8.0",
+    "version_id": "20260903-215927-256879",
+    "created_at": "2026-09-03T21:59:36.695085-03:00",
+    "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20260903-215927-256879",
+    "rar_executable": "C:\\Program Files\\WinRAR\\Rar.exe",
+    "sources": [
+      {
+        "path": "assets/860/.gitattributes",
+        "size": 43,
+        "sha256": "D5636A3257287440945C5E017581545E5B0A3E2FDDDAE7C5EF8D90FF4DF3D32A"
+      },
+      {
+        "path": "assets/860/Tibia.dat",
+        "size": 4378801,
+        "sha256": "ED4AD1A8FE4BF6D5A78C1C4A720C8D6AE9C6AE6D1754FB390F9BE766A8EAF3ED"
+      },
+      {
+        "path": "assets/860/Tibia.otfi",
+        "size": 185,
+        "sha256": "7743548835944BC799CB871A4E5DEF84F7AF76815031871B9CE74B5EC0E8ADD3"
+      },
+      {
+        "path": "assets/860/Tibia.spr",
+        "size": 432918156,
+        "sha256": "5FB375E4A10C64E0ED775E4DE703F7008D81400FF1E532E4FF6E45071A158E06"
+      },
+      {
+        "path": "assets/items/force use.txt",
+        "size": 419,
+        "sha256": "BCB478FDF3F45ECA8D172AFD7A17D3F8CD520924EE0894752452B8FDC8F71959"
+      },
+      {
+        "path": "assets/items/items.otb",
+        "size": 1003369,
+        "sha256": "82E3AD6C3B67DF4962B77886F014171484CB39515BB8268258EC9D127382323B"
+      },
+      {
+        "path": "assets/world/mapanovo.otbm",
+        "size": 80109484,
+        "sha256": "FEB55A08B8A9ABD9CC129B23BB1D2ED067A903C9473F0D45F62B5CA16CDD6DB5"
+      }
+    ],
+    "archives": {
+      "860": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20260903-215927-256879\\860.rar",
+        "size": 83272910,
+        "sha256": "2109D79CCAB6B35C488A550F08B2CF218D264BFE09D4CE0A98686AD6DAA8F01E"
+      },
+      "items": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20260903-215927-256879\\items.rar",
+        "size": 476127,
+        "sha256": "FE5BF43AF1130938282B50951519669DDD8A6DE9C7FDFFE42D0CF06570CDEDBE"
+      },
+      "world": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20260903-215927-256879\\world.zip",
+        "size": 19340601,
+        "sha256": "DCFFBB6FB455DD8E051C696548FB4210CF88F7F802692C8F96FBEC7EFA8231DA"
+      }
+    },
+    "items_xml_excluded": true,
+    "world_entries": [
+      "mapanovo.otbm"
+    ],
+    "passed": true
+  },
+  "source_hashes": {
+    "dat": "DFE37129C43364693FA8EF332232947954D183091A4C450FBDA04746A15AF2D7",
+    "spr": "BD69B13DB9936F5463B2B255BFA52848BACEDCE9D0C4AC3ECA3A195A0382A1D6"
+  },
+  "sprite_hash_gate": {
+    "sample_count": 64,
+    "mismatch_count": 0,
+    "mismatches": [],
+    "passed": true
+  },
+  "canonical_sprite_count_before": 254424,
+  "canonical_sprite_count_after": 254461,
+  "new_sprite_ids": [
+    254425,
+    254461
+  ],
+  "changed_records": [
+    {
+      "category": "items",
+      "client_id": 510,
+      "property_bytes_changed": true,
+      "properties_semantic_changed": false,
+      "appearance_changed": false,
+      "old_size": 20,
+      "new_size": 20
+    },
+    {
+      "category": "items",
+      "client_id": 3700,
+      "property_bytes_changed": true,
+      "properties_semantic_changed": false,
+      "appearance_changed": false,
+      "old_size": 31,
+      "new_size": 31
+    },
+    {
+      "category": "items",
+      "client_id": 13364,
+      "property_bytes_changed": true,
+      "properties_semantic_changed": false,
+      "appearance_changed": false,
+      "old_size": 14,
+      "new_size": 14
+    },
+    {
+      "category": "items",
+      "client_id": 13694,
+      "property_bytes_changed": true,
+      "properties_semantic_changed": true,
+      "appearance_changed": true,
+      "old_size": 14,
+      "new_size": 31
+    },
+    {
+      "category": "items",
+      "client_id": 13695,
+      "property_bytes_changed": true,
+      "properties_semantic_changed": true,
+      "appearance_changed": true,
+      "old_size": 14,
+      "new_size": 79
+    },
+    {
+      "category": "items",
+      "client_id": 13696,
+      "property_bytes_changed": true,
+      "properties_semantic_changed": true,
+      "appearance_changed": true,
+      "old_size": 14,
+      "new_size": 48
+    },
+    {
+      "category": "items",
+      "client_id": 13697,
+      "property_bytes_changed": false,
+      "properties_semantic_changed": false,
+      "appearance_changed": true,
+      "old_size": 14,
+      "new_size": 47
+    },
+    {
+      "category": "items",
+      "client_id": 13698,
+      "property_bytes_changed": true,
+      "properties_semantic_changed": true,
+      "appearance_changed": true,
+      "old_size": 14,
+      "new_size": 31
+    }
+  ],
+  "appearance_client_ids": [
+    13694,
+    13695,
+    13696,
+    13697,
+    13698
+  ],
+  "property_client_ids": [
+    13694,
+    13695,
+    13696,
+    13698
+  ],
+  "otb_changes": [
+    {
+      "server_id": 14571,
+      "client_id": 13694,
+      "flags_before": "0x000000E0",
+      "flags_after": "0x00002001",
+      "flag_names_before": [
+        "pickupable",
+        "movable",
+        "stackable"
+      ],
+      "flag_names_after": [
+        "block_solid",
+        "always_on_top"
+      ],
+      "attributes_changed": true
+    },
+    {
+      "server_id": 14572,
+      "client_id": 13695,
+      "flags_before": "0x000000E0",
+      "flags_after": "0x00002001",
+      "flag_names_before": [
+        "pickupable",
+        "movable",
+        "stackable"
+      ],
+      "flag_names_after": [
+        "block_solid",
+        "always_on_top"
+      ],
+      "attributes_changed": true
+    },
+    {
+      "server_id": 14573,
+      "client_id": 13696,
+      "flags_before": "0x000000E0",
+      "flags_after": "0x00002001",
+      "flag_names_before": [
+        "pickupable",
+        "movable",
+        "stackable"
+      ],
+      "flag_names_after": [
+        "block_solid",
+        "always_on_top"
+      ],
+      "attributes_changed": true
+    },
+    {
+      "server_id": 14574,
+      "client_id": 13697,
+      "flags_before": "0x000000E0",
+      "flags_after": "0x000000E0",
+      "flag_names_before": [
+        "pickupable",
+        "movable",
+        "stackable"
+      ],
+      "flag_names_after": [
+        "pickupable",
+        "movable",
+        "stackable"
+      ],
+      "attributes_changed": true
+    },
+    {
+      "server_id": 14575,
+      "client_id": 13698,
+      "flags_before": "0x000000E0",
+      "flags_after": "0x00002001",
+      "flag_names_before": [
+        "pickupable",
+        "movable",
+        "stackable"
+      ],
+      "flag_names_after": [
+        "block_solid",
+        "always_on_top"
+      ],
+      "attributes_changed": true
+    }
+  ],
+  "output_hashes": {
+    "dat": "DFE37129C43364693FA8EF332232947954D183091A4C450FBDA04746A15AF2D7",
+    "spr": "BD69B13DB9936F5463B2B255BFA52848BACEDCE9D0C4AC3ECA3A195A0382A1D6",
+    "otb": "90CA30F246B0D0778CD6DE04892692EDA24570C3844C780929784AF01F70FBFE"
+  },
+  "transaction_committed": true,
+  "old_sprite_payload_preserved": true,
+  "untouched_assets_preserved": true,
+  "final_validation_passed": true,
+  "warnings": [],
+  "errors": [],
+  "passed": true
+}

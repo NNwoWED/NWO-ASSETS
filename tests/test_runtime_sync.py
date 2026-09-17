@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import json
+import os
 from pathlib import Path
 import tempfile
 import unittest
@@ -20,26 +21,34 @@ class RuntimeSyncTests(unittest.TestCase):
             "items.xml": b"<items>new</items>",
             "Tibia.dat": b"new-dat",
             "Tibia.spr": b"new-spr",
+            "Tibia.otfi": b"new-otfi",
         }
         previous = {
             "items.otb": b"old-otb",
             "items.xml": b"<items>old</items>",
             "Tibia.dat": b"old-dat",
             "Tibia.spr": b"old-spr",
+            "Tibia.otfi": b"old-otfi",
         }
         for name in ("860", "items", "world"):
             (root / "assets" / name).mkdir(parents=True, exist_ok=True)
         server = workspace / "Server-Data-Nwo" / "data" / "items"
+        rme = workspace / "RME 5.0" / "Editor" / "data" / "860"
         client = workspace / "nwo-otclient-mehah-4.0" / "data" / "things" / "860"
+        mobile_things = workspace / "nwo-mobile" / "client" / "data" / "things"
         server.mkdir(parents=True)
+        rme.mkdir(parents=True)
         client.mkdir(parents=True)
+        mobile_things.mkdir(parents=True)
         for name in ("items.otb", "items.xml"):
             (root / "assets" / "items" / name).write_bytes(canonical[name])
             (server / name).write_bytes(previous[name])
+            (rme / name).write_bytes(previous[name])
         for name in ("Tibia.dat", "Tibia.spr"):
             (root / "assets" / "860" / name).write_bytes(canonical[name])
             (client / name).write_bytes(previous[name])
         (client / "Tibia.otfi").write_bytes(b"otfi")
+        (root / "assets" / "860" / "Tibia.otfi").write_bytes(canonical["Tibia.otfi"])
         (client.parent / "860.rar").write_bytes(b"old-rar")
         return root, canonical, previous
 
@@ -73,6 +82,14 @@ class RuntimeSyncTests(unittest.TestCase):
                 canonical["items.xml"],
             )
             self.assertEqual(
+                (workspace / "RME 5.0/Editor/data/860/items.otb").read_bytes(),
+                canonical["items.otb"],
+            )
+            self.assertEqual(
+                (workspace / "RME 5.0/Editor/data/860/items.xml").read_bytes(),
+                canonical["items.xml"],
+            )
+            self.assertEqual(
                 (workspace / "nwo-otclient-mehah-4.0/data/things/860/Tibia.dat").read_bytes(),
                 canonical["Tibia.dat"],
             )
@@ -81,11 +98,41 @@ class RuntimeSyncTests(unittest.TestCase):
                 canonical["Tibia.spr"],
             )
             self.assertEqual(
+                (workspace / "nwo-mobile/client/data/things/860/Tibia.dat").read_bytes(),
+                canonical["Tibia.dat"],
+            )
+            self.assertEqual(
+                (workspace / "nwo-mobile/client/data/things/860/Tibia.otfi").read_bytes(),
+                canonical["Tibia.otfi"],
+            )
+            self.assertEqual(
                 (workspace / "nwo-otclient-mehah-4.0/data/things/860.rar").read_bytes(),
                 b"new-rar",
             )
             self.assertTrue(report["passed"] and report["changed"])
             self.assertFalse(list(workspace.rglob("*.nwoassets.*")))
+
+    @patch("nwoassets.runtime_sync.validate_root", return_value={"passed": True, "errors": [], "warnings": []})
+    @patch("nwoassets.runtime_sync.find_rar", return_value=Path("rar.exe"))
+    @patch("nwoassets.runtime_sync._run_rar", side_effect=fake_rar.__func__)
+    def test_skips_already_equal_spr(self, _rar, _find, _validate) -> None:
+        with tempfile.TemporaryDirectory() as directory:
+            root, canonical, _ = self.make_workspace(directory)
+            spr = root.parent / "nwo-otclient-mehah-4.0/data/things/860/Tibia.spr"
+            spr.write_bytes(canonical["Tibia.spr"])
+            original_replace = os.replace
+
+            def replace_unlocked(source: Path, target: Path) -> None:
+                if Path(source) == spr or Path(target) == spr:
+                    raise AssertionError("unchanged SPR was replaced")
+                original_replace(source, target)
+
+            with patch("nwoassets.runtime_sync.os.replace", side_effect=replace_unlocked):
+                report = sync_runtime_assets(root)
+
+            self.assertTrue(report["passed"])
+            self.assertEqual(spr.read_bytes(), canonical["Tibia.spr"])
+            self.assertTrue(next(entry for entry in report["copies"] if entry["name"] == "Tibia.spr")["already_equal"])
 
     @patch("nwoassets.runtime_sync.validate_root", return_value={"passed": True, "errors": [], "warnings": []})
     @patch("nwoassets.runtime_sync.find_rar", return_value=Path("rar.exe"))
@@ -99,6 +146,10 @@ class RuntimeSyncTests(unittest.TestCase):
             self.assertEqual(
                 (workspace / "Server-Data-Nwo/data/items/items.otb").read_bytes(),
                 previous["items.otb"],
+            )
+            self.assertEqual(
+                (workspace / "RME 5.0/Editor/data/860/items.xml").read_bytes(),
+                previous["items.xml"],
             )
             self.assertEqual(
                 (workspace / "nwo-otclient-mehah-4.0/data/things/860/Tibia.spr").read_bytes(),

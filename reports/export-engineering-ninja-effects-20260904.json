@@ -1,0 +1,63 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "profile": {
+    "key": "tibia-860-v2-custom-extended",
+    "client_version": 860,
+    "label": "Tibia 8.60 v2 customizado com features OTFI",
+    "dat_signature": "0x4C2C7993",
+    "spr_signature": "0x4C220594",
+    "metadata_reader": 5,
+    "otb_version_hint": "8.60"
+  },
+  "category": "effects",
+  "id_kind": "client",
+  "requested_ids": [
+    2
+  ],
+  "output_dir": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\engenharia-ninja-shurikens-kunais-20260904\\effects",
+  "exported_count": 1,
+  "exported": [
+    {
+      "requested_id": 2,
+      "client_id": 2,
+      "server_ids": [],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 384,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 12,
+      "sprite_ids": [
+        39659,
+        39660,
+        39661,
+        39662,
+        39663,
+        39664,
+        39665,
+        39666,
+        39667,
+        39668,
+        39669,
+        39670
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\engenharia-ninja-shurikens-kunais-20260904\\effects\\effect-2.png",
+      "size": 878,
+      "sha256": "1D19F2BBC96EA3DADEB04F351095967412F04830E1F2F40589B5B6307F5101A9"
+    }
+  ],
+  "sources": {
+    "dat": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.dat",
+      "sha256": "AC1AE8A37F6B49C9CAA2DE3663E459FEF0CC0B9092E1E1E1FBF0B0F61C0F7540"
+    },
+    "spr": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.spr",
+      "sha256": "B3CD10EF202DFEDE5F3D1CD6CBEA533229F8899DA51EDC5FEDF4F55DD8BE9D9D"
+    }
+  },
+  "passed": true
+}

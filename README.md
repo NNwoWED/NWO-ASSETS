@@ -25,10 +25,15 @@ subpasta imutável para cada operação, identificada por data, hora e microsseg
 python -m nwoassets validate . --deep-spr
 python -m nwoassets create-version . -o reports/version.json
 python -m nwoassets import-items . C:\lote\manifest.csv --deep-spr -o C:\lote\report.json
+python -m nwoassets import-effects . C:\lote\effects.csv --deep-spr -o C:\lote\effects-report.json
+python -m nwoassets import-outfits . C:\lote\outfits.csv --deep-spr -o C:\lote\outfits-report.json
+python -m nwoassets edit-animation-durations . C:\lote\durations.csv --deep-spr -o C:\lote\durations-report.json
 python -m nwoassets edit-item-properties . examples\items-properties.csv -o reports\properties.json
+python -m nwoassets edit-ground-speeds . reports\ground-speeds.csv --deep-spr -o reports\ground-speeds.json
 python -m nwoassets inspect-map-position . 926 1195 7 -o reports\position.json
 python -m nwoassets export-png . items 24300 --id-kind server -o reports\export.json
 python -m nwoassets sync-runtime . -o reports\sync-runtime.json
+python -m nwoassets adopt-runtime . --deep-spr -o reports\adopt-runtime.json
 ```
 
 Também é possível instalar o comando:
@@ -44,6 +49,14 @@ Depois de qualquer alteração validada em `items.otb`, `items.xml`, `Tibia.dat`
 ou `Tibia.spr`, execute `sincronizar-assets-runtime.bat` ou o comando
 `python -m nwoassets sync-runtime . -o reports\sync-runtime.json`.
 
+Quando o DAT/SPR tiver sido salvo manualmente na pasta `860` do client, use
+`python -m nwoassets adopt-runtime . --deep-spr -o reports\adopt-runtime.json`.
+O comando aceita somente um SPR append-only, cria a versao obrigatoria e
+incorpora DAT/SPR em uma transacao com rollback. Ele identifica os Client IDs
+alterados e atualiza no OTB os SpriteHash e as propriedades com equivalencia
+segura (flags, cor de minimapa e stack order); qualquer alteracao fora desse
+escopo e bloqueada.
+
 O sincronizador valida a baseline com verificação profunda do SPR, copia
 `items.otb` e `items.xml` para `Server-Data-Nwo/data/items`, copia `Tibia.dat` e
 `Tibia.spr` para `nwo-otclient-mehah-4.0/data/things/860` e recria
@@ -53,7 +66,7 @@ de substituir o arquivo anterior.
 
 ## Versionamento obrigatório
 
-Antes de substituir DAT, SPR ou OTB, `import-items` executa automaticamente o
+Antes de substituir DAT, SPR ou OTB, `import-items`, `import-effects` e `import-outfits` executam automaticamente o
 mesmo processo de `create-version` e só continua se os três arquivos forem criados
 e testados:
 
@@ -92,6 +105,34 @@ reabre e valida tudo e faz a troca no próprio `assets/`. Se a validação final
 falhar, DAT, SPR e OTB anteriores são restaurados automaticamente. Os temporários
 não são uma pasta de staging e são removidos ao final.
 
+## Importação de efeitos
+
+`import-effects` recebe folhas verticais RGBA 8-bit de até 320x320 por frame.
+O manifesto informa o Effect ID existente, a quantidade e duração dos frames e,
+opcionalmente, um Effect ID vazio em `preserve_as` para conservar a aparência
+substituída sem duplicar os sprites antigos:
+
+```csv
+sequence,effect_id,source_path,frames,frame_duration_ms,animation_async,preserve_as
+1,1365,descendo.png,3,100,0,1469
+```
+
+A ferramenta preserva propriedades DAT, aceita tiles transparentes em aparências
+multitile, cria e testa a versão obrigatória, reabre todos os pixels novos e faz
+commit transacional somente de DAT e SPR. OTB, mapa, XMLs e OTMLs permanecem
+byte a byte inalterados.
+
+## Importação de outfits
+
+`import-outfits` recebe uma folha completa no mesmo layout produzido por
+`export-png`. O manifesto aceita
+`sequence,operation,outfit_id,reference_outfit_id,source_path`; a coluna
+`operation` é opcional e assume `reserved` quando omitida. Em `reserved`, o
+Outfit ID alvo precisa estar vazio. Em `replace`, o alvo precisa estar ocupado e
+pode ser sua própria referência para preservar dimensões, frame groups, timings
+e demais metadados visuais. As propriedades do alvo são sempre preservadas. A
+operação versiona, valida e modifica somente DAT e SPR.
+
 ## Propriedades DAT/OTB
 
 `edit-item-properties` recebe um CSV UTF-8 e resolve o Client ID real a partir do
@@ -104,6 +145,11 @@ sequence,server_id,client_id,dat_add_flags,dat_remove_flags,otb_add_flags,otb_re
 1,22904,22019,unpassable,,block_solid,
 ```
 
+`edit-ground-speeds` altera exclusivamente o payload de velocidade dos pisos no
+DAT e no OTB. O manifesto usa `sequence,server_id,client_id,ground_speed`. A
+operacao exige que o Server ID seja do grupo ground, confirma o mapeamento do
+Client ID e recusa a alteracao se os valores atuais do DAT e OTB divergirem.
+
 As listas de flags usam `|` quando houver mais de uma propriedade. O editor DAT
 aceita somente flags booleanas sem payload, preservando integralmente propriedades
 como velocidade, luz, elevação e market data. No OTB, estão disponíveis os 28 bits
@@ -114,6 +160,20 @@ Antes da escrita, a ferramenta cria e testa `860.rar`, `items.rar` e `world.zip`
 DAT e OTB são preparados, reabertos e validados; o SPR, OTFI, mapa e arquivos
 textuais permanecem intocados. Uma falha no commit ou na validação restaura os dois
 binários anteriores.
+
+## Duração individual dos frames
+
+`edit-animation-durations` altera somente os pares mínimo/máximo de duração de
+cada frame no DAT. Sprite IDs, pixels, propriedades, modo assíncrono, loop e frame
+inicial são preservados. Os tempos são separados por `|`:
+
+```csv
+sequence,category,client_id,frame_durations_ms
+1,items,13544,100|100|700
+```
+
+A operação cria a versão obrigatória, valida que nenhum registro DAT fora do alvo
+mudou e faz commit transacional somente do DAT.
 
 ## Inspetor de posição OTBM
 
@@ -154,7 +214,11 @@ frames, Sprite IDs e SHA-256 de cada PNG.
 - `validate`: executa a validação integrada;
 - `create-version`: cria manualmente o conjunto RAR/RAR/ZIP;
 - `import-items`: versiona e modifica DAT, SPR e OTB no local.
+- `import-effects`: versiona e modifica efeitos animados no DAT e SPR;
+- `import-outfits`: versiona e preenche outfits reservadas no DAT e SPR usando outra outfit como referência;
+- `edit-animation-durations`: versiona e edita tempos individuais de frames no DAT;
 - `edit-item-properties`: versiona e edita flags booleanas DAT/OTB;
+- `edit-ground-speeds`: versiona e edita a velocidade dos pisos no DAT/OTB;
 - `inspect-map-position`: lê a pilha de uma coordenada do OTBM sem modificá-lo.
 - `export-png`: exporta items, outfits, effects e missiles do DAT/SPR como PNG.
 

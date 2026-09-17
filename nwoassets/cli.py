@@ -9,14 +9,20 @@ import sys
 from typing import Callable
 
 from . import __version__
+from .animation import edit_animation_durations
 from .content import inspect_world, scan_directory
 from .errors import NwoAssetsError
+from .effect_importer import import_effects
 from .exporter import EXPORT_CATEGORIES, export_pngs
+from .groundspeed import edit_ground_speeds
 from .importer import import_items
+from .outfit_importer import import_outfits
 from .otbm import inspect_map_position
 from .pipeline import inspect_client, inspect_text_configs, validate_root
 from .properties import edit_item_properties
+from .runtime_adopt import adopt_runtime_assets
 from .runtime_sync import sync_runtime_assets
+from .remake_importer import import_obd_remakes
 from .versioning import create_version
 
 
@@ -93,6 +99,57 @@ def build_parser() -> argparse.ArgumentParser:
         action="store_true",
         help="valida todos os blocos RLE antes e depois da importação",
     )
+    obd_importer = subparsers.add_parser(
+        "import-obd-remakes",
+        help="versiona e importa itens OBD v2 com padrões e animações",
+    )
+    obd_importer.add_argument("root", nargs="?", default=".", type=_root)
+    obd_importer.add_argument("manifest", type=Path)
+    obd_importer.add_argument("-o", "--output", help="grava relatório JSON")
+    obd_importer.add_argument("--deep-spr", action="store_true")
+    obd_importer.add_argument("--dry-run", action="store_true", help="prepara e relata sem alterar assets")
+    effect_importer = subparsers.add_parser(
+        "import-effects",
+        help=(
+            "versiona e importa folhas verticais animadas em Effect IDs "
+            "existentes na pasta assets"
+        ),
+    )
+    effect_importer.add_argument("root", nargs="?", default=".", type=_root)
+    effect_importer.add_argument("manifest", type=Path)
+    effect_importer.add_argument("-o", "--output", help="grava o relatório JSON neste caminho")
+    effect_importer.add_argument(
+        "--deep-spr",
+        action="store_true",
+        help="valida todos os blocos RLE antes e depois da importação",
+    )
+    outfit_importer = subparsers.add_parser(
+        "import-outfits",
+        help=(
+            "versiona e importa folhas completas em Outfit IDs vazios, "
+            "preservando o layout de uma outfit de referencia"
+        ),
+    )
+    outfit_importer.add_argument("root", nargs="?", default=".", type=_root)
+    outfit_importer.add_argument("manifest", type=Path)
+    outfit_importer.add_argument("-o", "--output", help="grava o relatório JSON neste caminho")
+    outfit_importer.add_argument(
+        "--deep-spr",
+        action="store_true",
+        help="valida todos os blocos RLE antes e depois da importação",
+    )
+    animation = subparsers.add_parser(
+        "edit-animation-durations",
+        help="versiona e edita a duracao individual dos frames no DAT",
+    )
+    animation.add_argument("root", nargs="?", default=".", type=_root)
+    animation.add_argument("manifest", type=Path)
+    animation.add_argument("-o", "--output", help="grava o relatório JSON neste caminho")
+    animation.add_argument(
+        "--deep-spr",
+        action="store_true",
+        help="valida todos os blocos RLE antes e depois da alteração",
+    )
     common("create-version", "cria 860.rar, items.rar e world.zip antes de alterações")
     properties = subparsers.add_parser(
         "edit-item-properties",
@@ -102,6 +159,14 @@ def build_parser() -> argparse.ArgumentParser:
     properties.add_argument("manifest", type=Path)
     properties.add_argument("-o", "--output", help="grava o relatório JSON neste caminho")
     properties.add_argument("--deep-spr", action="store_true", help="valida todos os blocos RLE")
+    ground_speed = subparsers.add_parser(
+        "edit-ground-speeds",
+        help="versiona e edita o ground speed de pisos no DAT e OTB",
+    )
+    ground_speed.add_argument("root", nargs="?", default=".", type=_root)
+    ground_speed.add_argument("manifest", type=Path)
+    ground_speed.add_argument("-o", "--output", help="grava o relatorio JSON neste caminho")
+    ground_speed.add_argument("--deep-spr", action="store_true", help="valida todos os blocos RLE")
     position = subparsers.add_parser(
         "inspect-map-position",
         help="inspeciona a pilha de itens em uma coordenada OTBM",
@@ -137,12 +202,26 @@ def build_parser() -> argparse.ArgumentParser:
     exporter.add_argument("-o", "--output", help="grava o relatório JSON neste caminho")
     runtime_sync = common(
         "sync-runtime",
-        "valida e sincroniza OTB/XML com o servidor e DAT/SPR/860.rar com o client",
+        "valida e sincroniza OTB/XML com servidor e RME e DAT/SPR/860.rar com o client",
     )
     runtime_sync.add_argument(
         "--dry-run",
         action="store_true",
         help="valida e relata as cópias sem modificar os destinos",
+    )
+    runtime_adopt = common(
+        "adopt-runtime",
+        "versiona e incorpora DAT/SPR editados no client, atualizando o OTB",
+    )
+    runtime_adopt.add_argument(
+        "--source-dir",
+        type=Path,
+        help="pasta 860 de origem; por padrao usa o runtime oficial do client",
+    )
+    runtime_adopt.add_argument(
+        "--deep-spr",
+        action="store_true",
+        help="valida todos os blocos RLE antes e depois da incorporacao",
     )
     return parser
 
@@ -169,8 +248,29 @@ def main(argv: list[str] | None = None) -> int:
             args.manifest,
             deep_spr=args.deep_spr,
         ),
+        "import-obd-remakes": lambda: import_obd_remakes(
+            args.root, args.manifest, deep_spr=True, dry_run=args.dry_run
+        ),
+        "import-effects": lambda: import_effects(
+            args.root,
+            args.manifest,
+            deep_spr=args.deep_spr,
+        ),
+        "import-outfits": lambda: import_outfits(
+            args.root,
+            args.manifest,
+            deep_spr=args.deep_spr,
+        ),
+        "edit-animation-durations": lambda: edit_animation_durations(
+            args.root,
+            args.manifest,
+            deep_spr=args.deep_spr,
+        ),
         "create-version": lambda: create_version(args.root),
         "edit-item-properties": lambda: edit_item_properties(
+            args.root, args.manifest, deep_spr=args.deep_spr
+        ),
+        "edit-ground-speeds": lambda: edit_ground_speeds(
             args.root, args.manifest, deep_spr=args.deep_spr
         ),
         "inspect-map-position": lambda: inspect_map_position(
@@ -188,14 +288,20 @@ def main(argv: list[str] | None = None) -> int:
             args.root,
             dry_run=args.dry_run,
         ),
+        "adopt-runtime": lambda: adopt_runtime_assets(
+            args.root,
+            source_dir=args.source_dir,
+            deep_spr=args.deep_spr,
+        ),
     }
     try:
         report = actions[args.command]()
         _write_report(report, args.output)
         if args.command in {
-            "validate", "import-items", "create-version", "edit-item-properties",
+            "validate", "import-items", "import-obd-remakes", "import-effects", "import-outfits", "edit-animation-durations",
+            "create-version", "edit-item-properties", "edit-ground-speeds",
             "inspect-map-position", "export-png",
-            "sync-runtime",
+            "sync-runtime", "adopt-runtime",
         } and not report.get("passed", False):
             return 1
         return 0

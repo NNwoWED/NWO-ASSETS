@@ -1,0 +1,295 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "manifest": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\manifest-profession-tools-properties-20260904.csv",
+  "version_backup": {
+    "tool_version": "0.8.1",
+    "version_id": "20260904-020642-179116",
+    "created_at": "2026-09-04T02:06:53.998733-03:00",
+    "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20260904-020642-179116",
+    "rar_executable": "C:\\Program Files\\WinRAR\\Rar.exe",
+    "sources": [
+      {
+        "path": "assets/860/.gitattributes",
+        "size": 43,
+        "sha256": "D5636A3257287440945C5E017581545E5B0A3E2FDDDAE7C5EF8D90FF4DF3D32A"
+      },
+      {
+        "path": "assets/860/Tibia.dat",
+        "size": 4379119,
+        "sha256": "375243B0E28214949569F41691B1045C35156AC6962CC32D4C2489048C0DBB39"
+      },
+      {
+        "path": "assets/860/Tibia.otfi",
+        "size": 185,
+        "sha256": "7743548835944BC799CB871A4E5DEF84F7AF76815031871B9CE74B5EC0E8ADD3"
+      },
+      {
+        "path": "assets/860/Tibia.spr",
+        "size": 433069522,
+        "sha256": "1FB2C9E04F1711402C09F8EBE559F99101D9EF0F82154628E9A70592377347DB"
+      },
+      {
+        "path": "assets/items/force use.txt",
+        "size": 419,
+        "sha256": "BCB478FDF3F45ECA8D172AFD7A17D3F8CD520924EE0894752452B8FDC8F71959"
+      },
+      {
+        "path": "assets/items/items.otb",
+        "size": 1003395,
+        "sha256": "9C616A3567AB2E7719BD9A0244DE2CC58016231E12B03D64B3D759119898B5A3"
+      },
+      {
+        "path": "assets/world/mapanovo.otbm",
+        "size": 80109484,
+        "sha256": "FEB55A08B8A9ABD9CC129B23BB1D2ED067A903C9473F0D45F62B5CA16CDD6DB5"
+      }
+    ],
+    "archives": {
+      "860": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20260904-020642-179116\\860.rar",
+        "size": 83344910,
+        "sha256": "411E9C634504798EB87F1D0426EF25239BC5E93FB7856F23BE91948517EB7143"
+      },
+      "items": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20260904-020642-179116\\items.rar",
+        "size": 476341,
+        "sha256": "8E8DB6A10BACE0DF21A466872BDFFC4BE46B48E6F269447C60B8BB9DE7225409"
+      },
+      "world": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20260904-020642-179116\\world.zip",
+        "size": 19340601,
+        "sha256": "DCFFBB6FB455DD8E051C696548FB4210CF88F7F802692C8F96FBEC7EFA8231DA"
+      }
+    },
+    "items_xml_excluded": true,
+    "world_entries": [
+      "mapanovo.otbm"
+    ],
+    "passed": true
+  },
+  "item_count": 9,
+  "items": [
+    {
+      "sequence": 1,
+      "server_id": 2510,
+      "client_id": 3410,
+      "dat": {
+        "before": [],
+        "after": [
+          "multi_use",
+          "pickupable"
+        ]
+      },
+      "otb": {
+        "before_mask": "0x00000040",
+        "after_mask": "0x00000070",
+        "before": [
+          "movable"
+        ],
+        "after": [
+          "usable",
+          "pickupable",
+          "movable"
+        ]
+      }
+    },
+    {
+      "sequence": 2,
+      "server_id": 2512,
+      "client_id": 3412,
+      "dat": {
+        "before": [],
+        "after": [
+          "multi_use",
+          "pickupable"
+        ]
+      },
+      "otb": {
+        "before_mask": "0x00000040",
+        "after_mask": "0x00000070",
+        "before": [
+          "movable"
+        ],
+        "after": [
+          "usable",
+          "pickupable",
+          "movable"
+        ]
+      }
+    },
+    {
+      "sequence": 3,
+      "server_id": 2524,
+      "client_id": 3424,
+      "dat": {
+        "before": [],
+        "after": [
+          "multi_use",
+          "pickupable"
+        ]
+      },
+      "otb": {
+        "before_mask": "0x00000040",
+        "after_mask": "0x00000070",
+        "before": [
+          "movable"
+        ],
+        "after": [
+          "usable",
+          "pickupable",
+          "movable"
+        ]
+      }
+    },
+    {
+      "sequence": 4,
+      "server_id": 2527,
+      "client_id": 3427,
+      "dat": {
+        "before": [],
+        "after": [
+          "multi_use",
+          "pickupable"
+        ]
+      },
+      "otb": {
+        "before_mask": "0x00000040",
+        "after_mask": "0x00000070",
+        "before": [
+          "movable"
+        ],
+        "after": [
+          "usable",
+          "pickupable",
+          "movable"
+        ]
+      }
+    },
+    {
+      "sequence": 5,
+      "server_id": 2556,
+      "client_id": 3459,
+      "dat": {
+        "before": [],
+        "after": [
+          "multi_use",
+          "pickupable"
+        ]
+      },
+      "otb": {
+        "before_mask": "0x00000040",
+        "after_mask": "0x00000070",
+        "before": [
+          "movable"
+        ],
+        "after": [
+          "usable",
+          "pickupable",
+          "movable"
+        ]
+      }
+    },
+    {
+      "sequence": 6,
+      "server_id": 2567,
+      "client_id": 3470,
+      "dat": {
+        "before": [],
+        "after": [
+          "multi_use",
+          "pickupable"
+        ]
+      },
+      "otb": {
+        "before_mask": "0x00000040",
+        "after_mask": "0x00000070",
+        "before": [
+          "movable"
+        ],
+        "after": [
+          "usable",
+          "pickupable",
+          "movable"
+        ]
+      }
+    },
+    {
+      "sequence": 7,
+      "server_id": 2568,
+      "client_id": 3471,
+      "dat": {
+        "before": [],
+        "after": [
+          "multi_use",
+          "pickupable"
+        ]
+      },
+      "otb": {
+        "before_mask": "0x00000040",
+        "after_mask": "0x00000070",
+        "before": [
+          "movable"
+        ],
+        "after": [
+          "usable",
+          "pickupable",
+          "movable"
+        ]
+      }
+    },
+    {
+      "sequence": 8,
+      "server_id": 2569,
+      "client_id": 3472,
+      "dat": {
+        "before": [],
+        "after": [
+          "multi_use",
+          "pickupable"
+        ]
+      },
+      "otb": {
+        "before_mask": "0x00000040",
+        "after_mask": "0x00000070",
+        "before": [
+          "movable"
+        ],
+        "after": [
+          "usable",
+          "pickupable",
+          "movable"
+        ]
+      }
+    },
+    {
+      "sequence": 9,
+      "server_id": 2570,
+      "client_id": 3473,
+      "dat": {
+        "before": [],
+        "after": [
+          "multi_use",
+          "pickupable"
+        ]
+      },
+      "otb": {
+        "before_mask": "0x00000040",
+        "after_mask": "0x00000070",
+        "before": [
+          "movable"
+        ],
+        "after": [
+          "usable",
+          "pickupable",
+          "movable"
+        ]
+      }
+    }
+  ],
+  "transaction_committed": true,
+  "untouched_assets_preserved": true,
+  "final_validation_passed": true,
+  "warnings": [],
+  "errors": [],
+  "passed": true
+}

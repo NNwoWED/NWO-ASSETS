@@ -1,0 +1,169 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "profile": {
+    "key": "tibia-860-v2-custom-extended",
+    "client_version": 860,
+    "label": "Tibia 8.60 v2 customizado com features OTFI",
+    "dat_signature": "0x4C2C7993",
+    "spr_signature": "0x4C220594",
+    "metadata_reader": 5,
+    "otb_version_hint": "8.60"
+  },
+  "category": "items",
+  "id_kind": "server",
+  "requested_ids": [
+    14600,
+    14601,
+    14602,
+    14603,
+    14604,
+    14605
+  ],
+  "output_dir": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\wood-products-20260904",
+  "exported_count": 6,
+  "exported": [
+    {
+      "requested_id": 14600,
+      "client_id": 13721,
+      "server_ids": [
+        14600
+      ],
+      "name": "Tábua de Madeira de Carvalho da Folha",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        254553
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\wood-products-20260904\\server-14600_client-13721_tabua-de-madeira-de-carvalho-da-folha.png",
+      "size": 413,
+      "sha256": "B183F9CE3C3268E4D5D3A90783A16E9C03F5DDB0914A15CA05CB3C2CBFBD3470"
+    },
+    {
+      "requested_id": 14601,
+      "client_id": 13722,
+      "server_ids": [
+        14601
+      ],
+      "name": "Tábua de Madeira de Carvalho Nobre",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        254554
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\wood-products-20260904\\server-14601_client-13722_tabua-de-madeira-de-carvalho-nobre.png",
+      "size": 391,
+      "sha256": "D47429E38752994E75A6FE2B66853F01476CF428983854956C8BBF372AD1A387"
+    },
+    {
+      "requested_id": 14602,
+      "client_id": 13723,
+      "server_ids": [
+        14602
+      ],
+      "name": "Tábua de Madeira de Acácia",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        254555
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\wood-products-20260904\\server-14602_client-13723_tabua-de-madeira-de-acacia.png",
+      "size": 395,
+      "sha256": "2F004CFF8173CD8B9BB2C2055EA39EF88B0849CE5C91E04012C3AF6F3DD88906"
+    },
+    {
+      "requested_id": 14603,
+      "client_id": 13724,
+      "server_ids": [
+        14603
+      ],
+      "name": "Pó de Serra",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        254556
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\wood-products-20260904\\server-14603_client-13724_po-de-serra.png",
+      "size": 404,
+      "sha256": "DAD51A5F4DBE326462BDD72D176522EE4D0303B2507D04B495CCC83894AED99D"
+    },
+    {
+      "requested_id": 14604,
+      "client_id": 13725,
+      "server_ids": [
+        14604
+      ],
+      "name": "Pregos",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        254557
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\wood-products-20260904\\server-14604_client-13725_pregos.png",
+      "size": 339,
+      "sha256": "3FCAC61A0A6EED86AB0E5FB1E2A5B13E1875A24DF57E53BB27400049E1ED9966"
+    },
+    {
+      "requested_id": 14605,
+      "client_id": 13726,
+      "server_ids": [
+        14605
+      ],
+      "name": "Carpet de Bambu",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        254558
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\wood-products-20260904\\server-14605_client-13726_carpet-de-bambu.png",
+      "size": 396,
+      "sha256": "664CAEC2D4E9A8E17909711418B61E1980451D602F39F62D4B7657192F000D6E"
+    }
+  ],
+  "sources": {
+    "dat": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.dat",
+      "sha256": "AC1AE8A37F6B49C9CAA2DE3663E459FEF0CC0B9092E1E1E1FBF0B0F61C0F7540"
+    },
+    "spr": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.spr",
+      "sha256": "B3CD10EF202DFEDE5F3D1CD6CBEA533229F8899DA51EDC5FEDF4F55DD8BE9D9D"
+    }
+  },
+  "passed": true
+}

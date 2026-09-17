@@ -1,0 +1,173 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "manifest": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\import-kijin-aura-1235.csv",
+  "profile": "tibia-860-v2-custom-extended",
+  "version_backup": {
+    "tool_version": "0.8.1",
+    "version_id": "20260912-201844-226747",
+    "created_at": "2026-09-12T20:18:57.080616-03:00",
+    "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20260912-201844-226747",
+    "rar_executable": "C:\\Program Files\\WinRAR\\Rar.exe",
+    "sources": [
+      {
+        "path": "assets/860/.gitattributes",
+        "size": 43,
+        "sha256": "D5636A3257287440945C5E017581545E5B0A3E2FDDDAE7C5EF8D90FF4DF3D32A"
+      },
+      {
+        "path": "assets/860/Tibia.dat",
+        "size": 4379231,
+        "sha256": "A1BCFBEF429C98E26F4020EA3DC7781F04AF343DA8D8D39E3353DB924FECF1FA"
+      },
+      {
+        "path": "assets/860/Tibia.otfi",
+        "size": 185,
+        "sha256": "7743548835944BC799CB871A4E5DEF84F7AF76815031871B9CE74B5EC0E8ADD3"
+      },
+      {
+        "path": "assets/860/Tibia.spr",
+        "size": 433230574,
+        "sha256": "8A8E8676CFA165D1A7810EB0D2BEB6E100C7528B07829DAFB19955A2C8CB7B5C"
+      },
+      {
+        "path": "assets/items/force use.txt",
+        "size": 419,
+        "sha256": "BCB478FDF3F45ECA8D172AFD7A17D3F8CD520924EE0894752452B8FDC8F71959"
+      },
+      {
+        "path": "assets/items/items.otb",
+        "size": 1003405,
+        "sha256": "CEE18055680156A420D9B16A34EEFAFD93E16FA35D05BC271EA0C28DD5D0D062"
+      },
+      {
+        "path": "assets/world/mapanovo.otbm",
+        "size": 80105770,
+        "sha256": "8CDFDDF9DC2A9E53053E4F3FAF7F6825FD89B6B63EE06272ECD234B387202821"
+      }
+    ],
+    "archives": {
+      "860": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20260912-201844-226747\\860.rar",
+        "size": 83425752,
+        "sha256": "6F2526D6EE4DB97FFD7B464A95B1B0374D63CA36B974A498C0E3CFBAE6107073"
+      },
+      "items": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20260912-201844-226747\\items.rar",
+        "size": 476987,
+        "sha256": "10B1EC9F5B9FBB592D4A7050832148F1BCA237404D6160E0488F880895A78AD8"
+      },
+      "world": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20260912-201844-226747\\world.zip",
+        "size": 19337359,
+        "sha256": "170CD29639D001F9273247C874479344E8207ECB971919AE0E8CAE14295E4A31"
+      }
+    },
+    "items_xml_excluded": true,
+    "world_entries": [
+      "mapanovo.otbm"
+    ],
+    "passed": true
+  },
+  "effect_count": 1,
+  "new_sprite_count": 64,
+  "sprite_id_range": [
+    254599,
+    254662
+  ],
+  "effects": [
+    {
+      "sequence": 1,
+      "effect_id": 1235,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\aura_kinjin-Sheet.png",
+      "file_sha256": "98D7298738D152D87CCF623B9535FD7EF244CFA9791566F2591997BB6E9B1603",
+      "pixels_sha256": "AFC9FFB2375CE1AD328705BC7CAFA286EB605898B56B4CFD7D41D63BED3403CE",
+      "image_width": 64,
+      "image_height": 1024,
+      "width_tiles": 2,
+      "height_tiles": 2,
+      "frames": 16,
+      "frame_duration_ms": 100,
+      "animation_async": true,
+      "preserve_as": null,
+      "sprite_ids": [
+        254599,
+        254600,
+        254601,
+        254602,
+        254603,
+        254604,
+        254605,
+        254606,
+        254607,
+        254608,
+        254609,
+        254610,
+        254611,
+        254612,
+        254613,
+        254614,
+        254615,
+        254616,
+        254617,
+        254618,
+        254619,
+        254620,
+        254621,
+        254622,
+        254623,
+        254624,
+        254625,
+        254626,
+        254627,
+        254628,
+        254629,
+        254630,
+        254631,
+        254632,
+        254633,
+        254634,
+        254635,
+        254636,
+        254637,
+        254638,
+        254639,
+        254640,
+        254641,
+        254642,
+        254643,
+        254644,
+        254645,
+        254646,
+        254647,
+        254648,
+        254649,
+        254650,
+        254651,
+        254652,
+        254653,
+        254654,
+        254655,
+        254656,
+        254657,
+        254658,
+        254659,
+        254660,
+        254661,
+        254662
+      ]
+    }
+  ],
+  "transaction_committed": true,
+  "output_hashes": {
+    "dat": "653ADCB016B8C3565F385118073FAEE5853DF4CBD55FDE8F1009FAD38D660784",
+    "spr": "C65377BB396137E4388423A2E38734BD75FAB62205D3A656D90C78FB203A47D9"
+  },
+  "dat_non_targets_preserved": true,
+  "old_sprite_payload_preserved": true,
+  "new_sprite_pixels_verified": true,
+  "untouched_files_preserved": true,
+  "final_validation_passed": true,
+  "warnings": [],
+  "errors": [],
+  "passed": true
+}

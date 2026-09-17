@@ -1,0 +1,337 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "profile": {
+    "key": "tibia-860-v2-custom-extended",
+    "client_version": 860,
+    "label": "Tibia 8.60 v2 customizado com features OTFI",
+    "dat_signature": "0x4C2C7993",
+    "spr_signature": "0x4C220594",
+    "metadata_reader": 5,
+    "otb_version_hint": "8.60"
+  },
+  "category": "items",
+  "id_kind": "server",
+  "requested_ids": [
+    17808,
+    17809,
+    17836,
+    17837,
+    17840,
+    17842,
+    17816,
+    17817,
+    17845,
+    17846,
+    17849,
+    17851
+  ],
+  "output_dir": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items",
+  "exported_count": 12,
+  "exported": [
+    {
+      "requested_id": 17808,
+      "client_id": 16923,
+      "server_ids": [
+        17808
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        116202,
+        0,
+        116203,
+        0
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-17808_client-16923.png",
+      "size": 529,
+      "sha256": "DAAE4C58433A3E1176A7B8A80ED078A9CCEE792FAA6FACBC422769273732BF91"
+    },
+    {
+      "requested_id": 17809,
+      "client_id": 16924,
+      "server_ids": [
+        17809
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        116204,
+        0,
+        116205,
+        0
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-17809_client-16924.png",
+      "size": 359,
+      "sha256": "BD14557119E5D878C163C2B74FAFBF458189ED179ADD4F0A4510EED07A33D1D8"
+    },
+    {
+      "requested_id": 17836,
+      "client_id": 16951,
+      "server_ids": [
+        17836
+      ],
+      "name": "Bed",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        116258,
+        0,
+        116259,
+        0
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-17836_client-16951_bed.png",
+      "size": 764,
+      "sha256": "E14507478BA139A2DF0C6B6F604EF0B80EC9BA8FCEC843EC60C12A34624CC8EC"
+    },
+    {
+      "requested_id": 17837,
+      "client_id": 16952,
+      "server_ids": [
+        17837
+      ],
+      "name": "Bed",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        116260,
+        0,
+        116261,
+        150469
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-17837_client-16952_bed.png",
+      "size": 558,
+      "sha256": "390538E013028E5F15A10A352F41A50A63FA783793A2D498BDDAEF58AEF5D58F"
+    },
+    {
+      "requested_id": 17840,
+      "client_id": 16955,
+      "server_ids": [
+        17840
+      ],
+      "name": "Bed",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        116264,
+        0,
+        116265,
+        0
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-17840_client-16955_bed.png",
+      "size": 839,
+      "sha256": "A5DFB08BA501585ACA1F385BD43E3761A14DB1077A8B77F96C666DF73EDB23CE"
+    },
+    {
+      "requested_id": 17842,
+      "client_id": 16957,
+      "server_ids": [
+        17842
+      ],
+      "name": "Roupa de Cama Azul",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        116266
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-17842_client-16957_roupa-de-cama-azul.png",
+      "size": 411,
+      "sha256": "9931E8F500759AC3C8FFF64DC804AC3FE5ED96BD7BE5A92E65121804581F8790"
+    },
+    {
+      "requested_id": 17816,
+      "client_id": 16931,
+      "server_ids": [
+        17816
+      ],
+      "name": "Bed",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        116218,
+        0,
+        116219,
+        0
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-17816_client-16931_bed.png",
+      "size": 623,
+      "sha256": "DB027A00BEB72DB3EFAC5EA85C3E6789245699EF6CA9E86D46AE178929158758"
+    },
+    {
+      "requested_id": 17817,
+      "client_id": 16932,
+      "server_ids": [
+        17817
+      ],
+      "name": "Bed",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        116220,
+        0,
+        116221,
+        150479
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-17817_client-16932_bed.png",
+      "size": 522,
+      "sha256": "535D8D41C49643EDCDB2E88CA8B56D41142928BF1D27E3CC772D366CFFE3D93A"
+    },
+    {
+      "requested_id": 17845,
+      "client_id": 16960,
+      "server_ids": [
+        17845
+      ],
+      "name": "Bed",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        116271,
+        0,
+        116272,
+        0
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-17845_client-16960_bed.png",
+      "size": 763,
+      "sha256": "7ECD6737F2FF1F2F927250C273C4A0D2B7702F91A8CB75938A30D73E3F1B5D21"
+    },
+    {
+      "requested_id": 17846,
+      "client_id": 16961,
+      "server_ids": [
+        17846
+      ],
+      "name": "Bed",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        116273,
+        0,
+        116274,
+        150467
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-17846_client-16961_bed.png",
+      "size": 555,
+      "sha256": "A08E14CFE99ACF35B50CBCB2EE5ADD58084B76A612AF5598B3EFB22A5D54F50C"
+    },
+    {
+      "requested_id": 17849,
+      "client_id": 16964,
+      "server_ids": [
+        17849
+      ],
+      "name": "Bed",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        116277,
+        0,
+        116278,
+        0
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-17849_client-16964_bed.png",
+      "size": 838,
+      "sha256": "660E52004E939A5BF0738F8A3192CE0B9135E0A558848D01BA960826E1DC9BB8"
+    },
+    {
+      "requested_id": 17851,
+      "client_id": 16966,
+      "server_ids": [
+        17851
+      ],
+      "name": "Roupa de Cama Verde",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        116279
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-17851_client-16966_roupa-de-cama-verde.png",
+      "size": 411,
+      "sha256": "AE1BC5390D26228CEBD8915899C432E46212F4AC5D24175D64AADE6D5A34EA0C"
+    }
+  ],
+  "sources": {
+    "dat": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.dat",
+      "sha256": "DFE37129C43364693FA8EF332232947954D183091A4C450FBDA04746A15AF2D7"
+    },
+    "spr": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.spr",
+      "sha256": "BD69B13DB9936F5463B2B255BFA52848BACEDCE9D0C4AC3ECA3A195A0382A1D6"
+    }
+  },
+  "passed": true
+}

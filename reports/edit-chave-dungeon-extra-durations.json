@@ -1,0 +1,202 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "manifest": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\chave-dungeon-extra-durations.csv",
+  "category": "items",
+  "version_backup": {
+    "tool_version": "0.6.0",
+    "version_id": "20260901-173239-404577",
+    "created_at": "2026-09-01T17:32:49.613288-03:00",
+    "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20260901-173239-404577",
+    "rar_executable": "C:\\Program Files\\WinRAR\\Rar.exe",
+    "sources": [
+      {
+        "path": "assets/860/.gitattributes",
+        "size": 43,
+        "sha256": "D5636A3257287440945C5E017581545E5B0A3E2FDDDAE7C5EF8D90FF4DF3D32A"
+      },
+      {
+        "path": "assets/860/Tibia.dat",
+        "size": 4376631,
+        "sha256": "07684699C0C864F603FE7EAB9D3D8E8C32C91E55E8CFCE3C2C2EECA6F7F83D9A"
+      },
+      {
+        "path": "assets/860/Tibia.otfi",
+        "size": 185,
+        "sha256": "7743548835944BC799CB871A4E5DEF84F7AF76815031871B9CE74B5EC0E8ADD3"
+      },
+      {
+        "path": "assets/860/Tibia.spr",
+        "size": 431830995,
+        "sha256": "1B912767D7623B5AC94BDC4068E29A4D2C45CCACD30EEBED73EC264DCBC4C2CE"
+      },
+      {
+        "path": "assets/items/force use.txt",
+        "size": 419,
+        "sha256": "BCB478FDF3F45ECA8D172AFD7A17D3F8CD520924EE0894752452B8FDC8F71959"
+      },
+      {
+        "path": "assets/items/items.otb",
+        "size": 1003369,
+        "sha256": "013E2829400C4BCAC9AC536B69EC5DDA636E9BCC94E9344248E1D13913087153"
+      },
+      {
+        "path": "assets/world/mapanovo.otbm",
+        "size": 78697168,
+        "sha256": "3F1396A9C7F1817A406897B42D163C25A73CE55E86B072E92416356C96FD3650"
+      }
+    ],
+    "archives": {
+      "860": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20260901-173239-404577\\860.rar",
+        "size": 83075633,
+        "sha256": "8DFC06D8BEA52DEA42FFA2766CD7DB37F52F067CF0F1AE2ADB246A5B99B70F18"
+      },
+      "items": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20260901-173239-404577\\items.rar",
+        "size": 476120,
+        "sha256": "C17C5B420FA55F9F6DB2067E5C33C90110225C0B5753F91AA6A709D49EC50E8A"
+      },
+      "world": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20260901-173239-404577\\world.zip",
+        "size": 18968977,
+        "sha256": "B54EA88232FE8D4E0970FA0A864E87D70E406BA518A89FE48752E691D1DE896F"
+      }
+    },
+    "items_xml_excluded": true,
+    "world_entries": [
+      "mapanovo.otbm"
+    ],
+    "passed": true
+  },
+  "changes": {
+    "13544": {
+      "before": [
+        [
+          150,
+          150
+        ],
+        [
+          150,
+          150
+        ],
+        [
+          150,
+          150
+        ],
+        [
+          150,
+          150
+        ],
+        [
+          150,
+          150
+        ],
+        [
+          150,
+          150
+        ],
+        [
+          150,
+          150
+        ],
+        [
+          150,
+          150
+        ],
+        [
+          150,
+          150
+        ],
+        [
+          150,
+          150
+        ],
+        [
+          150,
+          150
+        ],
+        [
+          150,
+          150
+        ],
+        [
+          150,
+          150
+        ],
+        [
+          150,
+          150
+        ]
+      ],
+      "after": [
+        [
+          100,
+          100
+        ],
+        [
+          100,
+          100
+        ],
+        [
+          100,
+          100
+        ],
+        [
+          100,
+          100
+        ],
+        [
+          100,
+          100
+        ],
+        [
+          100,
+          100
+        ],
+        [
+          100,
+          100
+        ],
+        [
+          100,
+          100
+        ],
+        [
+          100,
+          100
+        ],
+        [
+          100,
+          100
+        ],
+        [
+          100,
+          100
+        ],
+        [
+          100,
+          100
+        ],
+        [
+          100,
+          100
+        ],
+        [
+          700,
+          700
+        ]
+      ],
+      "animation_async": false,
+      "loop_count": 0,
+      "start_frame": 0
+    }
+  },
+  "dat_sha256": "9FA5D358E5F0A8E5D17641A855E104EB07F8E0C0209BEFA77D2B14AF6D467567",
+  "spr_unchanged": true,
+  "otb_unchanged": true,
+  "map_unchanged": true,
+  "final_validation_passed": true,
+  "warnings": [],
+  "errors": [],
+  "passed": true
+}

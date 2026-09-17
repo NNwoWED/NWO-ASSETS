@@ -1,0 +1,140 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "manifest": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\profile-cardpacks-import.csv",
+  "profile": "tibia-860-v2-custom-extended",
+  "version_backup": {
+    "tool_version": "0.8.1",
+    "version_id": "20260910-211352-482297",
+    "created_at": "2026-09-10T21:14:05.649822-03:00",
+    "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20260910-211352-482297",
+    "rar_executable": "C:\\Program Files\\WinRAR\\Rar.exe",
+    "sources": [
+      {
+        "path": "assets/860/.gitattributes",
+        "size": 43,
+        "sha256": "D5636A3257287440945C5E017581545E5B0A3E2FDDDAE7C5EF8D90FF4DF3D32A"
+      },
+      {
+        "path": "assets/860/Tibia.dat",
+        "size": 4379199,
+        "sha256": "499D1954E5F34A4C8360840E7520C447F23B8766B27273ED48FF8A76F2D48805"
+      },
+      {
+        "path": "assets/860/Tibia.otfi",
+        "size": 185,
+        "sha256": "7743548835944BC799CB871A4E5DEF84F7AF76815031871B9CE74B5EC0E8ADD3"
+      },
+      {
+        "path": "assets/860/Tibia.spr",
+        "size": 433197251,
+        "sha256": "6F1321727674C74D02EFB0F9FC319D79A723B10E4BB656D795F0611389B34838"
+      },
+      {
+        "path": "assets/items/force use.txt",
+        "size": 419,
+        "sha256": "BCB478FDF3F45ECA8D172AFD7A17D3F8CD520924EE0894752452B8FDC8F71959"
+      },
+      {
+        "path": "assets/items/items.otb",
+        "size": 1003405,
+        "sha256": "0FF0C5FD5FB8D970A5FD7645F234749E321C60C9E176F21375B3052A8977D519"
+      },
+      {
+        "path": "assets/world/mapanovo.otbm",
+        "size": 80105770,
+        "sha256": "8CDFDDF9DC2A9E53053E4F3FAF7F6825FD89B6B63EE06272ECD234B387202821"
+      }
+    ],
+    "archives": {
+      "860": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20260910-211352-482297\\860.rar",
+        "size": 83322351,
+        "sha256": "4F9B8E01791E990DB28A76F2A3C29148EDA9B1B1F6EEE61B693F4BAC46EEA21D"
+      },
+      "items": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20260910-211352-482297\\items.rar",
+        "size": 476898,
+        "sha256": "D3D674AC76CB63958F5045814C73E3819825D9666300E874271004A4CF9C7067"
+      },
+      "world": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20260910-211352-482297\\world.zip",
+        "size": 19337359,
+        "sha256": "170CD29639D001F9273247C874479344E8207ECB971919AE0E8CAE14295E4A31"
+      }
+    },
+    "items_xml_excluded": true,
+    "world_entries": [
+      "mapanovo.otbm"
+    ],
+    "passed": true
+  },
+  "sprite_hash_gate": {
+    "sample_count": 64,
+    "mismatch_count": 0,
+    "mismatches": [],
+    "passed": true
+  },
+  "item_count": 2,
+  "new_sprite_count": 2,
+  "sprite_id_range": [
+    254576,
+    254577
+  ],
+  "items": [
+    {
+      "sequence": 1,
+      "client_id": 13756,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\cardpack.png",
+      "file_sha256": "14AA6A7D51F04A04561D9B007198974A148F85DC186E5E4E58A7F5641360F3CC",
+      "pixels_sha256": "B56B38F43278509D96E54F91442E43E12E7DADE2688284FB29FFB416537E209D",
+      "image_width": 32,
+      "image_height": 32,
+      "width_tiles": 1,
+      "height_tiles": 1,
+      "frames": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_ids": [
+        254576
+      ],
+      "sprite_hash": "E9BE2CA7E1A68E3D1EB290FCF3691976"
+    },
+    {
+      "sequence": 2,
+      "client_id": 13757,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\cardpack-banner.png",
+      "file_sha256": "14AA6A7D51F04A04561D9B007198974A148F85DC186E5E4E58A7F5641360F3CC",
+      "pixels_sha256": "B56B38F43278509D96E54F91442E43E12E7DADE2688284FB29FFB416537E209D",
+      "image_width": 32,
+      "image_height": 32,
+      "width_tiles": 1,
+      "height_tiles": 1,
+      "frames": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_ids": [
+        254577
+      ],
+      "sprite_hash": "E9BE2CA7E1A68E3D1EB290FCF3691976"
+    }
+  ],
+  "otb_nodes_updated": {
+    "13756": 1,
+    "13757": 1
+  },
+  "transaction_committed": true,
+  "output_hashes": {
+    "dat": "790DCB51223517DA95A51F821D3CDF8D3F23C36A7A23AB6A70915DA85EC24298",
+    "spr": "B6C89671C17C2CFAC692AB2B97E4FD5DDEA1B22977AE3C8D9D36719DF82DA6F3",
+    "otb": "6289ED72BC78BCED6561DF31BCA5025AD15862B80EA619440B21517471FA7783"
+  },
+  "dat_non_targets_preserved": true,
+  "old_sprite_payload_preserved": true,
+  "new_sprite_pixels_verified": true,
+  "untouched_files_preserved": true,
+  "map_byte_equal": true,
+  "final_validation_passed": true,
+  "warnings": [],
+  "errors": [],
+  "passed": true
+}

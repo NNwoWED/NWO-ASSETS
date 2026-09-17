@@ -3231,11 +3231,11 @@
 		<attribute key="slotType" value="ring" />
 		<attribute key="showattributes" value="1" />
 	</item>
-	<item id="2510" article="a" name="Kage ring">
-		<attribute key="description" value="[Reflect 10% all damage]" />
-		<attribute key="weight" value="30" />
-		<attribute key="slotType" value="ring" />
-		<attribute key="showattributes" value="1" />
+	<item id="2510" article="a" name="Machado Surrado">
+		<attribute key="weight" value="5" />
+		<attribute key="charges" value="500" />
+		<attribute key="showcharges" value="1" />
+		<attribute key="market" value="1" />
 	</item>
 	<item id="2511" article="a" name="Raikage Band">
 		<attribute key="weight" value="6000" />
@@ -3244,12 +3244,11 @@
 		<attribute key="slotType" value="ring" />
 		<attribute key="showattributes" value="1" />
 	</item>
-	<item id="2512" article="a" name="Supreme Enchanted Shield">
-		<attribute key="weight" value="5700" />
-		<attribute key="defense" value="40" />
-		<attribute key="absorbPercentPhysical" value="7" />
-	    <attribute key="showattributes" value="1" />
-		
+	<item id="2512" article="a" name="Machado de Bronze">
+		<attribute key="weight" value="5" />
+		<attribute key="charges" value="1000" />
+		<attribute key="showcharges" value="1" />
+		<attribute key="market" value="1" />
 	</item>
 	<item id="2513" article="a" name="Recover Mask">
 		<attribute key="description" value="Magic Level +3 Taijutsu Skills + 7 Chakra/Health 4000/s." />
@@ -3356,12 +3355,11 @@
 	    <attribute key="showattributes" value="1" />
 		
 	</item>
-	<item id="2524" article="an" name="Doton Enchanted Shield">
-		<attribute key="weight" value="6700" />
-		<attribute key="defense" value="20" />
-		<attribute key="absorbPercentPhysical" value="2" />
-	    <attribute key="showattributes" value="1" />
-		
+	<item id="2524" article="a" name="Machado de Ferro">
+		<attribute key="weight" value="5" />
+		<attribute key="charges" value="2000" />
+		<attribute key="showcharges" value="1" />
+		<attribute key="market" value="1" />
 	</item>
 	<item id="2525" article="a" name="Speed boots">
 		<attribute key="description" value="Speed 200." />
@@ -3376,22 +3374,11 @@
 		<attribute key="defense" value="10" />
 		
 	</item>
-	<item id="2527" article="a" name="Recover Boots">
-		<attribute key="description" value="Taijutsu Skills + 10 Chakra/Health 3000/s." />
-        <attribute key="weight" value="3500" />
-        <attribute key="armor" value="200" />
-		<attribute key="skillAxe" value="10" />
-        <attribute key="skillClub" value="10" />
-        <attribute key="skillSword" value="10" />
-        <attribute key="skillDist" value="10" />
-		<attribute key="absorbPercentAll" value="3" />
-        <attribute key="speed" value="200" />
-        <attribute key="manaGain" value="3000" />
-        <attribute key="manaTicks" value="1000" />
-        <attribute key="healthGain" value="3000" />
-        <attribute key="healthTicks" value="1000" />
-        <attribute key="showattributes" value="1" />
-        <attribute key="slotType" value="feet" />
+	<item id="2527" article="a" name="Vara de Pesca Simples">
+		<attribute key="weight" value="5" />
+		<attribute key="charges" value="500" />
+		<attribute key="showcharges" value="1" />
+		<attribute key="market" value="1" />
 	</item>
 	<item id="2528" article="a" name="Tower shield">
 		<attribute key="weight" value="8200" />
@@ -3536,13 +3523,19 @@
 	</item>
 	<item id="2553" article="a" name="Picareta de Ferro">
 		<attribute key="weight" value="5" />
+		<attribute key="charges" value="2000" />
+		<attribute key="showcharges" value="1" />
+		<attribute key="market" value="1" />
 	</item>
 	<item id="2554" article="a" name="Shovel">
 		<attribute key="weight" value="3500" />
 	</item>
 	<item id="2555" article="an" name="Anvil" />
-	<item id="2556" article="a" name="Wooden hammer">
-		<attribute key="weight" value="600" />
+	<item id="2556" article="a" name="Vara de Pesca de Bronze">
+		<attribute key="weight" value="5" />
+		<attribute key="charges" value="1000" />
+		<attribute key="showcharges" value="1" />
+		<attribute key="market" value="1" />
 	</item>
 	<item id="2557" article="a" name="Carpenter hammer">
 		<attribute key="weight" value="800" />
@@ -3574,17 +3567,29 @@
 	<item id="2566" article="a" name="Knife">
 		<attribute key="weight" value="100" />
 	</item>
-	<item id="2567" article="a" name="Wooden spoon">
-		<attribute key="weight" value="100" />
+	<item id="2567" article="a" name="Vara de Pesca de Ferro">
+		<attribute key="weight" value="5" />
+		<attribute key="charges" value="2000" />
+		<attribute key="showcharges" value="1" />
+		<attribute key="market" value="1" />
 	</item>
-	<item id="2568" article="a" name="Cleaver">
-		<attribute key="weight" value="660" />
+	<item id="2568" article="a" name="Foice Surrada">
+		<attribute key="weight" value="5" />
+		<attribute key="charges" value="500" />
+		<attribute key="showcharges" value="1" />
+		<attribute key="market" value="1" />
 	</item>
-	<item id="2569" article="an" name="Oven spatula">
-		<attribute key="weight" value="1400" />
+	<item id="2569" article="a" name="Foice de Bronze">
+		<attribute key="weight" value="5" />
+		<attribute key="charges" value="1000" />
+		<attribute key="showcharges" value="1" />
+		<attribute key="market" value="1" />
 	</item>
-	<item id="2570" article="a" name="Rolling pin">
-		<attribute key="weight" value="500" />
+	<item id="2570" article="a" name="Foice de Ferro">
+		<attribute key="weight" value="5" />
+		<attribute key="charges" value="2000" />
+		<attribute key="showcharges" value="1" />
+		<attribute key="market" value="1" />
 	</item>
 	<item id="2574" article="a" name="White vase">
 		<attribute key="weight" value="1500" />
@@ -3911,7 +3916,7 @@
 		<attribute key="weight" value="1200" />
 	</item>
 	<item id="2684" article="a" name="Cenoura">
-		<attribute key="description" value="Comida level 1. 20HP/s" />
+		<attribute key="description" value="Requisito: nível 1 | Cura: 20 HP/s | Duração: 10 minutos." />
 		<attribute key="market" value="1" />
 	</item>
 	<item id="2685" article="a" name="Tomato" plural="tomatoes">
@@ -11733,92 +11738,87 @@
 		<attribute key="slotType" value="head" />
 		<attribute key="showattributes" value="1" />
 	</item>	
-	<item fromid="10052" toid="10059" article="a" name="Crystal column" />
-	<item id="10062" name="Amarie's favourite book">
-		<attribute key="weight" value="800" />
-	</item>
-	<item fromid="10063" toid="10064" article="a" name="Epaminondas doll">
-		<attribute key="description" value="He talks, moves and sings just like a real person." />
-		<attribute key="weight" value="777" />
-	</item>
-	<item id="10066" article="a" name="Dark essence">
-		<attribute key="weight" value="260" />
-	</item>
-	<item id="10068" article="a" name="Flask with paint">
-		<attribute key="weight" value="180" />
-	</item>
-	<item id="10089" article="an" name="Heal fake potion" plural="heal fake potions">
-		<attribute key="description" value="Drink to recover life." />
-		<attribute key="weight" value="200" />
-	</item>
+	<item id="10051" article="a" name="Lava wall" />
+	<item id="10052" article="a" name="Lava wall" />
+	<item id="10053" article="a" name="Lava wall" />
+	<item id="10054" article="a" name="Lava wall" />
+	<item id="10055" article="a" name="Lava wall" />
+	<item id="10056" article="a" name="Lava wall" />
+	<item id="10057" article="a" name="Lava wall" />
+	<item id="10058" name="Brown pavement" />
+	<item id="10059" name="Brown pavement" />
+	<item id="10060" name="Brown pavement" />
+	<item id="10061" name="Brown pavement" />
+	<item id="10062" name="Brown pavement" />
+	<item id="10063" name="Brown pavement" />
+	<item id="10064" name="Brown pavement" />
+	<item id="10065" name="Brown pavement" />
+	<item id="10066" name="Cracked earth" />
+	<item id="10067" name="Cracked earth" />
+	<item id="10068" name="Cracked earth" />
+	<item id="10069" name="Cracked earth" />
+	<item id="10070" name="Cracked earth" />
+	<item id="10071" name="Cracked earth" />
+	<item id="10072" name="Cracked earth" />
+	<item id="10073" name="Cracked earth" />
+	<item id="10074" name="Cracked earth" />
+	<item id="10075" name="Cracked earth" />
+	<item id="10076" name="Cracked earth" />
+	<item id="10077" name="Cracked earth" />
+	<item id="10078" article="a" name="Ramp" />
+	<item id="10079" article="a" name="Ramp" />
+	<item id="10080" article="a" name="Ramp" />
+	<item id="10081" article="a" name="Ramp" />
+	<item id="10082" article="a" name="Ramp" />
+	<item id="10083" article="a" name="Ramp" />
+	<item id="10084" article="a" name="Ramp" />
+	<item id="10085" article="a" name="Ramp" />
+	<item id="10086" article="a" name="Ramp" />
+	<item id="10088" article="a" name="Ramp" />
+	<item id="10089" article="a" name="Ramp" />
+	<item id="10090" article="a" name="Ramp" />
+	<item id="10092" article="a" name="Tree" />
+	<item id="10093" article="a" name="Tree" />
+	<item id="10094" name="Grass" />
+	<item id="10095" name="Grass" />
+	<item id="10096" name="Grass" />
+	<item id="10097" name="Grass" />
+	<item id="10098" name="Grass" />
+	<item id="10099" name="Grass" />
+	<item id="10100" article="a" name="Wall" />
+	<item id="10101" article="a" name="Wall" />
+	<item id="10102" article="a" name="Wall" />
+	<item id="10103" article="a" name="Wall" />
+	<item id="10104" article="a" name="Wall" />
+	<item id="10105" article="a" name="Wall" />
+	<item id="10106" article="a" name="Wall" />
+	<item id="10107" article="a" name="Wall" />
+	<item id="10108" article="a" name="Wall" />
+	<item id="10109" article="a" name="Wall" />
+	<item id="10110" article="a" name="Wall" />
+	<item id="10111" article="a" name="Wall" />
+	<item id="10117" article="a" name="Wall" />
+	<item id="10118" article="a" name="Wall" />
+	<item id="10119" article="a" name="Wall" />
+	<item id="10120" article="a" name="Wall" />
+	<item id="10123" article="a" name="Wall" />
+	<item id="10124" article="a" name="Wall" />
+	<item id="10125" article="a" name="Wall" />
+	<item id="10126" article="a" name="Wall" />
+	<item id="10134" article="a" name="Wall" />
+	<item id="10135" article="a" name="Wall" />
+	<item id="10136" article="a" name="Wall" />
+	<item id="10137" article="a" name="Wall" />
+	<item id="10138" article="a" name="Wall" />
+	<item id="10139" article="a" name="Wall" />
+	<item id="10140" article="a" name="Wall" />
+	<item id="10141" article="a" name="Wall" />
 	<item id="10091" article="a" name="Crystal key">
 		<attribute key="type" value="key" />
 		<attribute key="weight" value="100" />
 	</item>
-	<item id="10092" article="a" name="Love potion">
-		<attribute key="weight" value="100" />
-	</item>
-	<item id="10103" article="a" name="Very old piece of paper">
-		<attribute key="description" value="You have the slight impression that it bears a secret." />
-		<attribute key="weight" value="200" />
-	</item>
-	<item id="10104" article="a" name="Very old piece of paper">
-		<attribute key="description" value="You have the slight impression that it bears a secret." />
-		<attribute key="weight" value="200" />
-	</item>
-	<item id="10106" article="a" name="Crumpled piece of paper">
-		<attribute key="description" value="It contains the formula for the memory potion Eclesius invented." />
-		<attribute key="weight" value="110" />
-	</item>
-	<item fromid="10107" toid="10108" name="Hand puppets">
-		<attribute key="weight" value="5" />
-	</item>
-	<item id="10109" article="a" name="Bundle bag">
-		<attribute key="weight" value="100" />
-	</item>
-	<item id="10111" article="a" name="Book">
-		<attribute key="weight" value="100" />
-	</item>
-	<item fromid="10112" toid="10113" article="a" name="Stone pile" />
-	<item fromid="10116" toid="10118" article="a" name="Stone pile" />
-	<item id="10119" article="a" name="Heated worm punisher">
-		<attribute key="weight" value="6450" />
-		<attribute key="duration" value="10" />
-		<attribute key="decayTo" value="10152" />
-		<attribute key="description" value="This hammer is a worm's worst nightmare." />
-	</item>
-	<item id="10122" article="a" name="Very old piece of paper">
-		<attribute key="description" value="You have the slight impression that it bears a secret." />
-		<attribute key="weight" value="200" />
-		<attribute key="readable" value="1" />
-	</item>
-	<item id="10124" article="a" name="Champion's cup">
-		<attribute key="weight" value="1800" />
-		<attribute key="writeable" value="1" />
-		<attribute key="maxTextLen" value="128" />
-	</item>
-	<item id="10125" article="a" name="Silver cup of honour">
-		<attribute key="weight" value="1600" />
-		<attribute key="writeable" value="1" />
-		<attribute key="maxTextLen" value="128" />
-	</item>
-	<item id="10126" article="a" name="Bronze cup of honour">
-		<attribute key="weight" value="1600" />
-		<attribute key="writeable" value="1" />
-		<attribute key="maxTextLen" value="128" />
-	</item>
 	<item id="10127" article="a" name="Golden warrior trophy">
 		<attribute key="weight" value="1900" />
-		<attribute key="writeable" value="1" />
-		<attribute key="maxTextLen" value="128" />
-	</item>
-	<item id="10128" article="a" name="Silver warrior trophy">
-		<attribute key="weight" value="1850" />
-		<attribute key="writeable" value="1" />
-		<attribute key="maxTextLen" value="128" />
-	</item>
-	<item id="10129" article="a" name="Bronze warrior trophy">
-		<attribute key="weight" value="1800" />
 		<attribute key="writeable" value="1" />
 		<attribute key="maxTextLen" value="128" />
 	</item>
@@ -11827,52 +11827,8 @@
 		<attribute key="writeable" value="1" />
 		<attribute key="maxTextLen" value="128" />
 	</item>
-	<item id="10131" article="a" name="Silver trophy of excellence">
-		<attribute key="weight" value="1300" />
-		<attribute key="writeable" value="1" />
-		<attribute key="maxTextLen" value="128" />
-	</item>
-	<item id="10132" article="a" name="Bronze trophy of excellence">
-		<attribute key="weight" value="1300" />
-		<attribute key="writeable" value="1" />
-		<attribute key="maxTextLen" value="128" />
-	</item>
-	<item id="10133" article="a" name="Medald addon">
-		<attribute key="weight" value="100" />
-	</item>
-	<item id="10135" article="a" name="Medal rank d">
-		<attribute key="description" value="Comprovante de que você completou uma missão RANK D." />
-		<attribute key="weight" value="100" />
-	</item>
-	<item id="10136" article="a" name="Medal rank a">
-		<attribute key="description" value="Comprovante de que você completou uma missão RANK A." />
-		<attribute key="weight" value="100" />	
-	</item>
-	<item id="10137" article="a" name="Medal rank s">
-		<attribute key="description" value="Comprovante de que você completou uma missão RANK S." />
-		<attribute key="weight" value="100" />
-	</item>
-	<item id="10138" article="a" name="Medal rank c">
-		<attribute key="description" value="Comprovante de que você completou uma missão RANK C." />
-		<attribute key="weight" value="100" />
-	</item>
-	<item id="10140" article="a" name="Medal rank b">
-		<attribute key="description" value="Comprovante de que você completou uma missão RANK B." />
-		<attribute key="weight" value="100" />
-	</item>
-	<item id="10143" article="a" name="Cherry blossom tree" />
 	<item id="10150" article="a" name="Cocktail glass">
 		<attribute key="weight" value="2000" />
-	</item>
-	<item id="10151" article="a" name="Golem part">
-		<attribute key="weight" value="35" />
-	</item>
-	<item id="10153" article="a" name="Golem disassembler">
-		<attribute key="description" value="It looks suspiciously similar to a crowbar." />
-		<attribute key="weight" value="1500" />
-	</item>
-	<item id="10156" article="a" name="Dark essence" plural="dark essences">
-		<attribute key="weight" value="260" />
 	</item>
 	<item id="10165" article="a" name="Golem blueprint">
 		<attribute key="weight" value="120" />
@@ -13913,20 +13869,23 @@
 		<attribute key="market" value="1" />
 	</item>
 	<item id="11535" article="a" name="Hardened Leather" plural="Hardened Leathers">
+		<attribute key="description" value="Couro reforçado usado na criação de equipamentos resistentes." />
 		<attribute key="market" value="1" />
 	</item>
 	<item id="11536" article="a" name="Black Hardened Leather" plural="Black Hardened Leathers">
+		<attribute key="description" value="Couro negro reforçado usado na criação de equipamentos avançados." />
 		<attribute key="market" value="1" />
 	</item>
 	<item id="11537" article="a" name="Boar Meat">
-		<attribute key="description" value="Comida level 1. 10HP/s" />
+		<attribute key="description" value="Requisito: nível 1 | Cura: 10 HP/s | Duração: 10 minutos." />
 		<attribute key="market" value="1" />
 	</item>	
 	<item id="11538" article="a" name="Bear Meat">
-		<attribute key="description" value="Comida level 1. 10HP/s" />
+		<attribute key="description" value="Requisito: nível 1 | Cura: 10 HP/s | Duração: 10 minutos." />
 		<attribute key="market" value="1" />
 	</item>	
 	<item id="11539" article="a" name="Bandit Sword">
+		<attribute key="description" value="Espada saqueada de bandidos, usada na forja de equipamentos." />
 		<attribute key="market" value="1" />
 	</item>
 	<item id="11540" article="a" name="Bandit Shinobi Dagger">
@@ -13939,10 +13898,11 @@
 		<attribute key="market" value="1" />
 	</item>
 	<item id="11543" article="a" name="Fang" plural="Fangs">
+		<attribute key="description" value="Presa afiada usada na fabricação de armas ninjas." />
 		<attribute key="market" value="1" />
 	</item>
 	<item id="11544" article="a" name="Snake Eggs">
-		<attribute key="description" value="Comida level 10. 15HP/s" />
+		<attribute key="description" value="Requisito: nível 10 | Cura: 15 HP/s | Duração: 10 minutos." />
 		<attribute key="market" value="1" />
 	</item>	
 	<item id="11545" article="a" name="Snake Poison" plural="Snake Poisons">
@@ -13957,36 +13917,45 @@
 		<attribute key="market" value="1" />
 	</item>
 	<item id="11550" article="an" name="Black Bear Paw" plural="Black Bear Paws">
+		<attribute key="description" value="Pata de urso-negro usada na criação de equipamentos pesados." />
 		<attribute key="market" value="1" />
 	</item>
 	<item id="11551" article="a" name="Piece of cloth" plural="Pieces of cloth">
+		<attribute key="description" value="Retalho de tecido usado na fabricação de roupas e bandanas." />
 		<attribute key="market" value="1" />
 	</item>
 	<item id="11552" article="a" name="Giant scorpion scale" plural="Giant scorpion scales">
+		<attribute key="description" value="Escama resistente de escorpião gigante usada na forja." />
 		<attribute key="market" value="1" />
 	</item>
 	<item id="11554" article="a" name="Bandit badge" plural="Bandit badges">
+		<attribute key="description" value="Insígnia de bandido usada na criação de equipamentos." />
 		<attribute key="market" value="1" />
 	</item>
 	<item id="11555" article="a" name="Snake scale" plural="Snake scales">
+		<attribute key="description" value="Escama de cobra flexível usada na fabricação de equipamentos." />
 		<attribute key="market" value="1" />
 	</item>
 	<item id="11556" article="a" name="Scorpion Tail" plural="Scorpion Tails">
+		<attribute key="description" value="Cauda venenosa de escorpião usada na medicina ninja." />
 		<attribute key="market" value="1" />
 	</item>
 	<item id="11557" article="a" name="Small Spider Poison" plural="Small Spider Poisons">
+		<attribute key="description" value="Item obtido a partir de aranhas." />
 		<attribute key="market" value="1" />
 	</item>
 	<item id="11558" article="a" name="Big Spider Poison" plural="Big Spider Poisons">
 		<attribute key="market" value="1" />
 	</item>
 	<item id="11559" article="a" name="Small Snake Poison" plural="Small Snake Poisons">
+		<attribute key="description" value="Veneno fraco de cobra usado no preparo de remédios." />
 		<attribute key="market" value="1" />
 	</item>
 	<item id="11560" article="a" name="Big Snake Poison" plural="Big Snake Poisons">
 		<attribute key="market" value="1" />
 	</item>
 	<item id="11561" article="a" name="Small Scorpion Poison" plural="Small Scorpion Poisons">
+		<attribute key="description" value="Veneno forte obtido a partir de escorpiões." />
 		<attribute key="market" value="1" />
 	</item>
 	<item id="11562" article="a" name="Big Scorpion Poison" plural="Big Scorpion Poisons">
@@ -13996,6 +13965,7 @@
 		<attribute key="market" value="1" />
 	</item>
 	<item id="11553" article="a" name="Simple Chakra Potion" plural="Simple Chakra Potions">
+		<attribute key="description" value="Poção simples que restaura chakra." />
 		<attribute key="market" value="1" />
 	</item>
 	<item id="11564" article="a" name="Serpent Tails" plural="Serpent Tails"/>
@@ -14015,6 +13985,7 @@
 	</item>
 	<item id="11571" article="a" name="White cloth" plural="White cloths"/>
 	<item id="11572" article="a" name="Black cloth" plural="Black cloths">
+		<attribute key="description" value="Tecido negro usado na fabricação de roupas e equipamentos." />
 		<attribute key="market" value="1" />
 	</item>
 	<item id="11573" article="a" name="Red cloth" plural="Red cloths"/>
@@ -14022,20 +13993,25 @@
 		<attribute key="market" value="1" />
 	</item>
 	<item id="11575" article="a" name="Old Rune" plural="Old Runes">
+		<attribute key="description" value="Runa antiga com chakra residual usada em selamento e engenharia." />
 		<attribute key="market" value="1" />
 		<attribute key="dropRarity" value="very_rare" />
 	</item>
 	<item id="11576" article="a" name="Special Sand" plural="Special Sands">
+		<attribute key="description" value="Areia especial imbuída de chakra usada na engenharia ninja." />
 		<attribute key="market" value="1" />
 	</item>
 	<item id="11577" article="a" name="Empty Rune" plural="Empty Runes"/>
 	<item id="11578" article="a" name="Yellow cloth" plural="Yellow cloths">
+		<attribute key="description" value="Tecido amarelo usado na fabricação de roupas e equipamentos." />
 		<attribute key="market" value="1" />
 	</item>
 	<item id="11579" article="a" name="Essence of earth" plural="Essences of earth">
+		<attribute key="description" value="Essência elemental usada na criação de equipamentos." />
 		<attribute key="market" value="1" />
 	</item>
 	<item id="11580" article="a" name="Sand heart" plural="Sand hearts">
+		<attribute key="description" value="Núcleo de areia condensada usado na forja avançada." />
 		<attribute key="market" value="1" />
 		<attribute key="dropRarity" value="rare" />
 	</item>
@@ -14146,10 +14122,52 @@
 		<attribute key="market" value="1" />
 	</item>	
 
-	<item id="14630" article="a" name="Icon Cardpack">
-		<attribute key="description" value="Ao usar esse item você ganhará um ícone aleatório." />
-		<attribute key="marketInfo" value="Icon" />
+	<item id="14630" article="an" name="Ícone de Perfil">
+		<attribute key="description" value="Use este item para desbloquear o ícone de perfil indicado no cartão." />
+		<attribute key="marketInfo" value="Ícone de Perfil" />
 	</item>	
+	<item id="14631" article="a" name="Banner de Perfil">
+		<attribute key="description" value="Use este item para desbloquear o banner de perfil indicado no cartão." />
+		<attribute key="marketInfo" value="Banner de Perfil" />
+	</item>
+	<item id="14632" article="an" name="Elixir Guardião de Ferro">
+		<attribute key="description" value="Reduz em 40% o dano sofrido de monstros e bosses durante 30 minutos. Não funciona contra jogadores." />
+	</item>
+	<item id="14633" article="an" name="Elixir da Fortuna">
+		<attribute key="description" value="Aumenta em 15% a chance de obter loot durante 2 minutos. Tempo de recarga: 30 minutos." />
+	</item>
+	<item id="14634" article="an" name="Elixir Stamina Regen">
+		<attribute key="description" value="Recupera instantaneamente 100% da stamina verde." />
+	</item>
+	<item id="14635" article="an" name="Icon Cardpack">
+		<attribute key="description" value="Ao abrir, entrega um cartão de ícone de perfil aleatório ainda não desbloqueado." />
+		<attribute key="marketInfo" value="Cardpack" />
+	</item>
+	<item id="14636" article="a" name="Banner Cardpack">
+		<attribute key="description" value="Ao abrir, entrega um cartão de banner de perfil aleatório ainda não desbloqueado." />
+		<attribute key="marketInfo" value="Cardpack" />
+	</item>
+	<item id="14637" article="a" name="Kijin Depot">
+		<attribute key="description" value="Coloque este depot no piso de uma house para acessar os seus itens armazenados." />
+		<attribute key="weight" value="5000" />
+		<attribute key="forceSerialize" value="1" />
+	</item>
+	<item id="14686" article="a" name="Bless PvP">
+		<attribute key="description" value="Preserva sua bênção normal em uma morte PvP elegível e é consumida ao protegê-la. Sozinha, não reduz perdas nem é consumida." />
+	</item>
+	<item id="14638" article="a" name="Kijin Backpack">
+		<attribute key="description" value="Backpack exclusiva do Passe de Batalha Kijin." />
+		<attribute key="weight" value="1800" />
+		<attribute key="containerSize" value="40" />
+		<attribute key="slotType" value="backpack" />
+	</item>
+	<item id="14639" article="a" name="Kijin Shuriken Bag">
+		<attribute key="description" value="Bag Kijin destinada apenas para shurikens e kunais arremessáveis." />
+		<attribute key="weight" value="1800" />
+		<attribute key="containerSize" value="8" />
+		<attribute key="slotType" value="ammo" />
+		<attribute key="containerRestriction" value="shuriken" />
+	</item>
 	
 	<item id="13478" article="a" name="Assassin Box">
 		<attribute key="description" value="Ao usar esse item você ganhará fragmentos de algum personagem Assassin." />
@@ -14217,7 +14235,7 @@
 		<attribute key="decayTo" value="0" />
 		<attribute key="duration" value="1" />
 	</item>
-	<item id="24967" article="a" name="Zabuza Box Vocation">
+	<item id="24967" article="a" name="Kubikiribouchou Box">
 		<attribute key="description" value="Use para liberar o personagem Zabuza Momochi." />
 		<attribute key="marketInfo" value="Character" />
 	</item>
@@ -15764,7 +15782,6 @@
 	</item>
 	<item id="24320" article="a" name="Fang hood">
 		<attribute key="armor" value="80" />
-        <attribute key="speed" value="15" />
         <attribute key="showattributes" value="1" />
         <attribute key="slotType" value="head" />
 		<attribute key="classe" value="2" />
@@ -15772,7 +15789,6 @@
 	</item>
 	<item id="24321" article="a" name="Fang vest">
 		<attribute key="armor" value="170" />
-        <attribute key="speed" value="20" />
         <attribute key="showattributes" value="1" />
         <attribute key="slotType" value="body" />
 		<attribute key="classe" value="2" />
@@ -15780,7 +15796,6 @@
 	</item>
 	<item id="24322" article="a" name="Fang Legs">
 		<attribute key="armor" value="120" />
-        <attribute key="speed" value="15" />
         <attribute key="showattributes" value="1" />
         <attribute key="slotType" value="legs" />
 		<attribute key="classe" value="2" />
@@ -16114,7 +16129,9 @@
 		<attribute key="description" value="Ao usar, você ganhará +50% de XP adicional por 1 hora." />
 	</item>
 	<item id="14430" article="a" name="Dungeon Boost">
-		<attribute key="description" value="Ao usar, você ganhará +20% de velocidade de recarga por 1 hora. Uso: 1 vez por dia." />
+		<attribute key="description" value="Ao usar, transfere todas as cargas deste item para o perfil. Cada carga reduz em 50% a energia de uma entrada em dungeon." />
+		<attribute key="showCharges" value="1" />
+		<attribute key="charges" value="1" />
 	</item>
 	<item id="14806" article="a" name="Benção Comum">
 		<attribute key="description" value="Ao usar, concede a Benção Comum e reduz em 40% a penalidade de morte." />
@@ -16582,16 +16599,21 @@
 		<attribute key="description" value="Pergaminho de upgrade usado nos níveis +13 até +16." />
 	</item>
 	<item id="14459" article="a" name="Bear stew">
-		<attribute key="description" value="Comida level 50. 40HP/s" />
+		<attribute key="description" value="Requisito: nível 50 | Cura: 40 HP/s | Duração: 10 minutos." />
 	</item>	
 	<item id="14460" article="a" name="Boar stew">
-		<attribute key="description" value="Comida level 50. 40HP/s" />
+		<attribute key="description" value="Requisito: nível 50 | Cura: 40 HP/s | Duração: 10 minutos." />
 	</item>	
-	<item id="14461" article="a" name="Medicinal Herb" />
+	<item id="14461" article="a" name="Medicinal Herb">
+		<attribute key="description" value="Erva medicinal usada no preparo de poções e remédios." />
+		<attribute key="market" value="1" />
+	</item>
 	<item id="14462" article="a" name="Broken lance" >
+		<attribute key="description" value="Fragmento de lança usado na reconstrução de armas." />
 		<attribute key="market" value="1" />
 	</item>
 	<item id="14463" article="a" name="Shukaku's Eye" >
+		<attribute key="description" value="Olho carregado de chakra usado na criação de equipamentos raros." />
 		<attribute key="market" value="1" />
 		<attribute key="dropRarity" value="very_rare" />
 	</item>
@@ -16599,9 +16621,11 @@
 	<item id="14465" article="a" name="Dirty cloth" />
 	<item id="14466" article="a" name="Empty paper" />
 	<item id="14467" article="a" name="Raw leather" >
+		<attribute key="description" value="Couro cru usado na fabricação de armas e equipamentos." />
 		<attribute key="market" value="1" />
 	</item>
 	<item id="14468" article="a" name="Black Raw leather" >
+		<attribute key="description" value="Couro negro cru usado na fabricação de equipamentos avançados." />
 		<attribute key="market" value="1" />
 	</item>
 	<item id="14469" article="a" name="Piece of tiger skin" >
@@ -16616,7 +16640,7 @@
 		<attribute key="market" value="1" />
 	</item>
 	<item id="14474" article="a" name="Ichiraku's Ramen">
-		<attribute key="description" value="Comida level 20. 20HP/s" />
+		<attribute key="description" value="Requisito: nível 20 | Cura: 20 HP/s | Duração: 10 minutos." />
 	</item>	
 
 	<item id="14475" article="a" name="Bone Shuriken">
@@ -16662,13 +16686,16 @@
 		<attribute key="market" value="1" />
 	</item>
 	<item id="14482" article="a" name="Puppet Core" >
+		<attribute key="description" value="Núcleo mecânico usado na construção de marionetes." />
 		<attribute key="market" value="1" />
 		<attribute key="dropRarity" value="very_rare" />
 	</item>
 	<item id="14483" article="a" name="Chakra strings" >
+		<attribute key="description" value="Fios condutores de chakra usados em medicina e engenharia." />
 		<attribute key="market" value="1" />
 	</item>
 	<item id="14484" article="a" name="Puppet wood" >
+		<attribute key="description" value="Madeira preparada para construir marionetes e pergaminhos." />
 		<attribute key="market" value="1" />
 	</item>
 	<item id="14486" article="a" name="Black boar coat" />
@@ -16694,6 +16721,7 @@
 		<attribute key="market" value="1" />
 	</item>
 	<item id="14494" article="a" name="Chakra blade" plural="Chakra blades">
+		<attribute key="description" value="Lâmina imbuída de chakra usada em selos avançados." />
 		<attribute key="market" value="1" />
 	</item>
 	<item id="14495" article="a" name="Conductive plate" plural="Conductive plates">
@@ -16800,28 +16828,33 @@
 	</item>
 	<item id="14530" article="a" name="Ayu">
 		<attribute key="clientid" value="13653" />
-		<attribute key="description" value="A flexible fiber used in craft and construction." />
+		<attribute key="description" value="Peixe de rio pequeno e ágil, usado na culinária ninja." />
 		<attribute key="weight" value="15" />
+		<attribute key="market" value="1" />
 	</item>
 	<item id="14531" article="a" name="Salmão">
 		<attribute key="clientid" value="13654" />
-		<attribute key="description" value="Fresh bamboo gathered by woodcutting." />
+		<attribute key="description" value="Peixe de rio nutritivo, valorizado na culinária ninja." />
 		<attribute key="weight" value="60" />
+		<attribute key="market" value="1" />
 	</item>
 	<item id="14532" article="a" name="Sayori">
 		<attribute key="clientid" value="13655" />
-		<attribute key="description" value="A rough stone with a faint chakra trace." />
+		<attribute key="description" value="Peixe esguio de águas costeiras, usado na culinária ninja." />
 		<attribute key="weight" value="90" />
+		<attribute key="market" value="1" />
 	</item>
 	<item id="14533" article="a" name="Unagi">
 		<attribute key="clientid" value="13656" />
-		<attribute key="description" value="Metallic sand used by ninja smiths." />
+		<attribute key="description" value="Enguia de água doce apreciada na culinária ninja." />
 		<attribute key="weight" value="80" />
+		<attribute key="market" value="1" />
 	</item>
 	<item id="14534" article="a" name="Fugu">
 		<attribute key="clientid" value="13657" />
 		<attribute key="description" value="A fresh fish used in ninja cooking." />
 		<attribute key="weight" value="70" />
+		<attribute key="market" value="1" />
 	</item>
 	<item id="14535" article="a" name="Mitarashi Dango">
 		<attribute key="clientid" value="10602" />
@@ -16848,10 +16881,11 @@
 		<attribute key="description" value="Processed herbs ready for medicine craft." />
 		<attribute key="weight" value="30" />
 	</item>
-	<item id="14540" article="a" name="Curry De Urso">
+	<item id="14540" article="a" name="Curry de Urso">
 		<attribute key="clientid" value="13663" />
-		<attribute key="description" value="Curry prepared with bear meat and Sansho pepper." />
+		<attribute key="description" value="Requisito: nível 60 | Cura: 60 HP/s | Duração: 10 minutos." />
 		<attribute key="weight" value="30" />
+		<attribute key="market" value="1" />
 	</item>
 	<item id="14541" article="a" name="Trio de Onigiri">
 		<attribute key="clientid" value="13664" />
@@ -16862,46 +16896,55 @@
 		<attribute key="clientid" value="13665" />
 		<attribute key="description" value="Wood gathered from the oak trees of the Leaf." />
 		<attribute key="weight" value="80" />
+		<attribute key="market" value="1" />
 	</item>
 	<item id="14543" article="a" name="Carvalho Nobre">
 		<attribute key="clientid" value="13666" />
 		<attribute key="description" value="High-quality oak used in ninja construction." />
 		<attribute key="weight" value="80" />
+		<attribute key="market" value="1" />
 	</item>
 	<item id="14544" article="an" name="Madeira de Acácia Seca">
 		<attribute key="clientid" value="13667" />
 		<attribute key="description" value="Dry acacia wood gathered in the desert." />
 		<attribute key="weight" value="80" />
+		<attribute key="market" value="1" />
 	</item>
 	<item id="14545" article="a" name="Fibra">
 		<attribute key="clientid" value="13668" />
-		<attribute key="description" value="Flexible fiber used in construction." />
+		<attribute key="description" value="Fibra flexível usada em construções." />
 		<attribute key="weight" value="10" />
+		<attribute key="market" value="1" />
 	</item>
 	<item id="14546" article="a" name="Pimenta Sansho">
 		<attribute key="clientid" value="13669" />
 		<attribute key="description" value="Aromatic pepper used in ninja cooking." />
 		<attribute key="weight" value="5" />
+		<attribute key="market" value="1" />
 	</item>
 	<item id="14547" article="a" name="Erva de Shikkotsu">
 		<attribute key="clientid" value="13670" />
-		<attribute key="description" value="A medicinal herb used by ninja medics." />
+		<attribute key="description" value="Uma erva medicinal usada por médicos ninjas." />
 		<attribute key="weight" value="5" />
+		<attribute key="market" value="1" />
 	</item>
 	<item id="14548" article="a" name="Lótus da Névoa">
 		<attribute key="clientid" value="13671" />
 		<attribute key="description" value="A rare lotus gathered in the Mist." />
 		<attribute key="weight" value="5" />
+		<attribute key="market" value="1" />
 	</item>
 	<item id="14549" article="a" name="Raiz de Sunagakure">
 		<attribute key="clientid" value="13672" />
 		<attribute key="description" value="A medicinal root gathered in Sunagakure." />
 		<attribute key="weight" value="10" />
+		<attribute key="market" value="1" />
 	</item>
 	<item id="14550" article="an" name="Robalo da Névoa">
 		<attribute key="clientid" value="13673" />
 		<attribute key="description" value="A bass caught in the waters of the Mist." />
 		<attribute key="weight" value="70" />
+		<attribute key="market" value="1" />
 	</item>
 	<item id="14551" article="a" name="Arraia das Profundezas">
 		<attribute key="clientid" value="13674" />
@@ -16912,51 +16955,61 @@
 		<attribute key="clientid" value="13675" />
 		<attribute key="description" value="A fresh carp used in ninja cooking." />
 		<attribute key="weight" value="70" />
+		<attribute key="market" value="1" />
 	</item>
 	<item id="14553" article="a" name="Traíra do Oásis">
 		<attribute key="clientid" value="13676" />
 		<attribute key="description" value="A fish caught in desert oases." />
 		<attribute key="weight" value="70" />
+		<attribute key="market" value="1" />
 	</item>
 	<item id="14554" article="a" name="Peixe-Escorpião do Deserto">
 		<attribute key="clientid" value="13677" />
 		<attribute key="description" value="A venomous desert fish used in advanced medicine." />
 		<attribute key="weight" value="70" />
+		<attribute key="market" value="1" />
 	</item>
 	<item id="14555" article="an" name="Superior Puppet Wood">
 		<attribute key="clientid" value="13678" />
 		<attribute key="description" value="Puppet wood refined by ninja medicine." />
 		<attribute key="weight" value="50" />
+		<attribute key="market" value="1" />
 	</item>
-	<item id="14556" article="a" name="Sopa De Carpa">
+	<item id="14556" article="a" name="Sopa de Carpa">
 		<attribute key="clientid" value="13679" />
-		<attribute key="description" value="Carp soup seasoned with Sansho pepper." />
+		<attribute key="description" value="Requisito: nível 50 | Cura: 50 HP/s | Duração: 10 minutos." />
 		<attribute key="weight" value="30" />
+		<attribute key="market" value="1" />
 	</item>
-	<item id="14557" article="a" name="Ensopado De Peixe do Oásis">
+	<item id="14557" article="a" name="Ensopado de Peixe do Oásis">
 		<attribute key="clientid" value="13680" />
-		<attribute key="description" value="Oasis fish stew seasoned with Sansho pepper." />
+		<attribute key="description" value="Requisito: nível 100 | Cura: 100 HP/s | Duração: 10 minutos." />
 		<attribute key="weight" value="30" />
+		<attribute key="market" value="1" />
 	</item>
-	<item id="14558" article="a" name="Postas De Robalo">
+	<item id="14558" article="a" name="Postas de Robalo">
 		<attribute key="clientid" value="13681" />
-		<attribute key="description" value="Mist bass slices seasoned with Sansho pepper." />
+		<attribute key="description" value="Requisito: nível 250 | Cura: 120 HP/s | Duração: 10 minutos." />
 		<attribute key="weight" value="30" />
+		<attribute key="market" value="1" />
 	</item>
 	<item id="14559" article="a" name="Papel">
 		<attribute key="clientid" value="13682" />
 		<attribute key="description" value="Paper prepared for ninja sealing." />
 		<attribute key="weight" value="10" />
+		<attribute key="market" value="1" />
 	</item>
 	<item id="14560" article="an" name="Pergaminho Base">
 		<attribute key="clientid" value="13683" />
 		<attribute key="description" value="A base scroll used in sealing and engineering." />
 		<attribute key="weight" value="10" />
+		<attribute key="market" value="1" />
 	</item>
 	<item id="14561" article="a" name="Pergaminho Superior">
 		<attribute key="clientid" value="13684" />
 		<attribute key="description" value="A superior scroll prepared for advanced seals." />
 		<attribute key="weight" value="20" />
+		<attribute key="market" value="1" />
 	</item>
 	<item id="14562" article="a" name="Shurikens encantadas">
 		<attribute key="clientid" value="13685" />
@@ -16967,36 +17020,44 @@
 		<attribute key="clientid" value="13686" />
 		<attribute key="description" value="Prepared paper used to assemble ninja traps." />
 		<attribute key="weight" value="10" />
+		<attribute key="market" value="1" />
 	</item>
 	<item id="14564" article="a" name="Papel Explosivo">
 		<attribute key="clientid" value="13687" />
 		<attribute key="description" value="Explosive paper prepared by ninja engineers." />
 		<attribute key="weight" value="10" />
+		<attribute key="market" value="1" />
 	</item>
 	<item id="14565" article="a" name="Mesa Tática de Planejamento">
 		<attribute key="clientid" value="13688" />
 		<attribute key="description" value="A tactical planning table for houses." />
 		<attribute key="weight" value="500" />
 	</item>
-	<item id="14566" article="a" name="Roupa de cama">
+	<item id="14566" article="a" name="Luminária de Chakra de Cobre">
 		<attribute key="clientid" value="13689" />
-		<attribute key="description" value="Bedding crafted for houses." />
-		<attribute key="weight" value="200" />
+		<attribute key="description" value="Uma luminária de cobre energizada com chakra para decoração de paredes." />
+		<attribute key="weight" value="300" />
+		<attribute key="rotateTo" value="14568" />
+		<attribute key="market" value="1" />
 	</item>
 	<item id="14567" article="a" name="Vaso Sagrado da Névoa">
 		<attribute key="clientid" value="13690" />
 		<attribute key="description" value="A sacred vase from the Mist for house decoration." />
 		<attribute key="weight" value="300" />
+		<attribute key="market" value="1" />
 	</item>
 	<item id="14568" article="a" name="Luminária de Chakra de Cobre">
 		<attribute key="clientid" value="13691" />
-		<attribute key="description" value="A copper lamp powered by chakra." />
+		<attribute key="description" value="Uma luminária de cobre energizada com chakra para decoração de paredes." />
 		<attribute key="weight" value="300" />
+		<attribute key="rotateTo" value="14566" />
+		<attribute key="market" value="1" />
 	</item>
 	<item id="14569" article="a" name="Carpets de bambu">
 		<attribute key="clientid" value="13692" />
 		<attribute key="description" value="Bamboo carpets crafted for houses." />
 		<attribute key="weight" value="100" />
+		<attribute key="market" value="1" />
 	</item>
 	<item id="14570" article="a" name="Shuriken">
 		<attribute key="clientid" value="13693" />
@@ -17075,6 +17136,92 @@
 		<attribute key="movable" value="0" />
 		<attribute key="forceSerialize" value="1" />
 	</item>
+	<item id="14580" article="a" name="Quadro de Kunais">
+		<attribute key="clientid" value="13701" />
+		<attribute key="description" value="Um quadro de kunais para decoração de paredes." />
+		<attribute key="rotateTo" value="14581" />
+		<attribute key="market" value="1" />
+	</item>
+	<item id="14581" article="a" name="Quadro de Kunais">
+		<attribute key="clientid" value="13702" />
+		<attribute key="description" value="Um quadro de kunais para decoração de paredes." />
+		<attribute key="rotateTo" value="14580" />
+		<attribute key="market" value="1" />
+	</item>
+	<item id="14582" article="a" name="Tapete de Palha 1"><attribute key="clientid" value="13703" /><attribute key="market" value="1" /></item>
+	<item id="14583" article="a" name="Tapete de Palha 2"><attribute key="clientid" value="13704" /><attribute key="market" value="1" /></item>
+	<item id="14584" article="a" name="Tapete de Palha 3"><attribute key="clientid" value="13705" /><attribute key="market" value="1" /></item>
+	<item id="14585" article="a" name="Tapete de Palha 4"><attribute key="clientid" value="13706" /><attribute key="market" value="1" /></item>
+	<item id="14586" article="a" name="Tapete de Palha 5"><attribute key="clientid" value="13707" /><attribute key="market" value="1" /></item>
+	<item id="14587" article="a" name="Tapete de Palha 6"><attribute key="clientid" value="13708" /><attribute key="market" value="1" /></item>
+	<item id="14588" article="a" name="Tapete de Palha 7"><attribute key="clientid" value="13709" /><attribute key="market" value="1" /></item>
+	<item id="14589" article="a" name="Tapete de Palha 8"><attribute key="clientid" value="13710" /><attribute key="market" value="1" /></item>
+	<item id="14590" article="a" name="Tapete de Palha 9"><attribute key="clientid" value="13711" /><attribute key="market" value="1" /></item>
+	<item id="14591" article="a" name="Tapete de Palha 10"><attribute key="clientid" value="13712" /><attribute key="market" value="1" /></item>
+	<item id="14592" article="a" name="Tapete de Palha 11"><attribute key="clientid" value="13713" /><attribute key="market" value="1" /></item>
+	<item id="14593" article="a" name="Tapete de Palha 12"><attribute key="clientid" value="13714" /><attribute key="market" value="1" /></item>
+	<item id="14594" article="a" name="Tapete de Palha 13"><attribute key="clientid" value="13715" /><attribute key="market" value="1" /></item>
+	<item id="14595" article="a" name="Tapete de Palha 14"><attribute key="clientid" value="13716" /><attribute key="market" value="1" /></item>
+	<item id="14596" article="a" name="Tapete de Palha 15"><attribute key="clientid" value="13717" /><attribute key="market" value="1" /></item>
+	<item id="14597" article="a" name="Caixa da Mesa de Madeira Horizontal">
+		<attribute key="clientid" value="13718" />
+		<attribute key="description" value="Use a caixa no piso de uma house para montar a mesa horizontal." />
+		<attribute key="market" value="1" />
+	</item>
+	<item id="14598" article="a" name="Caixa da Mesa de Madeira Vertical">
+		<attribute key="clientid" value="13719" />
+		<attribute key="description" value="Use a caixa no piso de uma house para montar a mesa vertical." />
+		<attribute key="market" value="1" />
+	</item>
+	<item id="14599" article="a" name="Caixa do Vaso Sagrado da Névoa">
+		<attribute key="clientid" value="13720" />
+		<attribute key="description" value="Use a caixa no piso de uma house para montar o Vaso Sagrado da Névoa." />
+		<attribute key="market" value="1" />
+	</item>
+	<item id="14600" article="a" name="Tábua de Madeira de Carvalho da Folha">
+		<attribute key="clientid" value="13721" />
+		<attribute key="description" value="Uma tábua produzida a partir de madeira bruta de Carvalho da Folha." />
+		<attribute key="market" value="1" />
+	</item>
+	<item id="14601" article="a" name="Tábua de Madeira de Carvalho Nobre">
+		<attribute key="clientid" value="13722" />
+		<attribute key="description" value="Uma tábua produzida a partir de madeira bruta de Carvalho Nobre." />
+		<attribute key="market" value="1" />
+	</item>
+	<item id="14602" article="a" name="Tábua de Madeira de Acácia">
+		<attribute key="clientid" value="13723" />
+		<attribute key="description" value="Uma tábua produzida a partir de madeira bruta de Acácia." />
+		<attribute key="market" value="1" />
+	</item>
+	<item id="14603" article="a" name="Pó de Serra">
+		<attribute key="clientid" value="13724" />
+		<attribute key="description" value="Um subproduto do beneficiamento de madeira bruta." />
+		<attribute key="market" value="1" />
+	</item>
+	<item id="14604" article="a" name="Pregos">
+		<attribute key="clientid" value="13725" />
+		<attribute key="description" value="Pregos forjados a partir de uma barra de ferro." />
+		<attribute key="market" value="1" />
+	</item>
+	<item id="14605" article="a" name="Carpet de Bambu">
+		<attribute key="clientid" value="13726" />
+		<attribute key="description" value="Um carpet de bambu aberto, pronto para decorar o piso." />
+		<attribute key="market" value="1" />
+	</item>
+	<item id="16543" article="an" name="Almofada">
+		<attribute key="clientid" value="15658" />
+		<attribute key="description" value="Uma almofada elevada sobre a qual se pode caminhar." />
+		<attribute key="market" value="1" />
+	</item>
+	<item id="16544" article="a" name="Banqueta de Madeira">
+		<attribute key="clientid" value="15659" />
+		<attribute key="rotateTo" value="16545" />
+		<attribute key="market" value="1" />
+	</item>
+	<item id="16545" article="a" name="Banqueta de Madeira">
+		<attribute key="clientid" value="15660" />
+		<attribute key="rotateTo" value="16544" />
+	</item>
 	<item fromid="25207" toid="25210" article="a" name="Bancada de Construcao de House">
 		<attribute key="description" value="Uma bancada para receitas de construcao de house." />
 		<attribute key="blocking" value="0" />
@@ -17121,7 +17268,7 @@
 	<item id="14706" article="a" name="Arroz"/>
 	<item id="14704" article="a" name="Sal"/>
 	<item id="14765" article="a" name="Mix de Vegetais">
-		<attribute key="description" value="Level: 1\nCura vida por segundo" />
+		<attribute key="description" value="Requisito: nível 1 | Cura: 10 HP/s | Duração: 10 minutos." />
 	</item>
 	<item id="14651" article="a" name="Pilula de Banana">
 		<attribute key="description" value="Level: 50\nCura 340 de vida." />
@@ -17133,98 +17280,98 @@
 		<attribute key="description" value="Level: 75\nCura 500 de vida." />
 	</item>
 	<item id="14654" article="a" name="Kushiyaki de frango">
-		<attribute key="description" value="Level: 50" />
+		<attribute key="description" value="Requisito: nível 50 | Cura: 20 HP/s | Duração: 10 minutos." />
 	</item>
 	<item id="14655" article="a" name="Pilula de Kiwi">
 		<attribute key="description" value="Level: 100\nCura 670 de vida." />
 	</item>
 	<item id="14656" article="a" name="Tempura de legumes">
-		<attribute key="description" value="Level: 75"/>
+		<attribute key="description" value="Requisito: nível 75 | Cura: 25 HP/s | Duração: 10 minutos." />
 	</item>
 	<item id="14657" article="a" name="Pilula de Menta">
 		<attribute key="description" value="Level: 125\nCura 830 de vida." />
 	</item>
 	<item id="14658" article="a" name="Katsudon de porco">
-		<attribute key="description" value="Level: 100" />
+		<attribute key="description" value="Requisito: nível 100 | Cura: 30 HP/s | Duração: 10 minutos." />
 	</item>
 	<item id="14659" article="a" name="Pilula de Tutti Frutti">
 		<attribute key="description" value="Level: 150\nCura 1000 de vida." />
 	</item>
 	<item id="14660" article="a" name="Noodles de vegetais">
-		<attribute key="description" value="Level: 125" />
+		<attribute key="description" value="Requisito: nível 125 | Cura: 35 HP/s | Duração: 19 minutos e 30 segundos." />
 	</item>
 	<item id="14661" article="a" name="Pilula de Blueberry">
 		<attribute key="description" value="Level: 175\nCura 1170 de vida." />
 	</item>
 	<item id="14662" article="a" name="Yakimeshi de frango">
-		<attribute key="description" value="Level: 150" />
+		<attribute key="description" value="Requisito: nível 150 | Cura: 40 HP/s | Duração: 10 minutos." />
 	</item>
 	<item id="14663" article="a" name="Pilula de Beringela">
 		<attribute key="description" value="Level: 200\nCura 1330 de vida." />
 	</item>
 	<item id="14664" article="a" name="Soba de legumes">
-		<attribute key="description" value="Level: 175" />
+		<attribute key="description" value="Requisito: nível 175 | Cura: 45 HP/s | Duração: 10 minutos." />
 	</item>
 	<item id="14665" article="a" name="Pilula de Cereja">
 		<attribute key="description" value="Level: 225\nCura 1500 de vida." />
 	</item>
 	<item id="14666" article="a" name="Teriyaki de frango">
-		<attribute key="description" value="Level: 200." />
+		<attribute key="description" value="Requisito: nível 200 | Cura: 50 HP/s | Duração: 10 minutos." />
 	</item>
 	<item id="14667" article="a" name="Pilula de Melancia">
 		<attribute key="description" value="Level: 250\nCura 1670 de vida." />
 	</item>
 
 	<item id="8838" name="Batata">
-		<attribute key="description" value="Comida level 1. 20HP/s" />
+		<attribute key="description" value="Requisito: nível 1 | Cura: 20 HP/s | Duração: 10 minutos." />
 	</item>
 	<item id="14720" name="Ovos">
-		<attribute key="description" value="Comida level 1. 10HP/s" />
+		<attribute key="description" value="Requisito: nível 1 | Cura: 10 HP/s | Duração: 10 minutos." />
 	</item>
 	<item id="14779" name="Farinha"/>
 	<item id="14713" name="Salmão"/>
 	<item id="14688" name="Água">
-		<attribute key="description" value="Comida level 1. 20HP/s" />
+		<attribute key="description" value="Requisito: nível 1 | Cura: 20 HP/s | Duração: 10 minutos." />
 	</item>
 	<item id="14705" name="Açúcar"/>
 	<item id="14698" name="Morango">
-		<attribute key="description" value="Comida level 1. 10HP/s" />
+		<attribute key="description" value="Requisito: nível 1 | Cura: 10 HP/s | Duração: 10 minutos." />
 	</item>
 	<item id="14699" name="Laranja">
-		<attribute key="description" value="Comida level 1. 20HP/s" />
+		<attribute key="description" value="Requisito: nível 1 | Cura: 20 HP/s | Duração: 10 minutos." />
 	</item>
 	<item id="14700" name="Maçã">
-		<attribute key="description" value="Comida level 1. 20HP/s" />
+		<attribute key="description" value="Requisito: nível 1 | Cura: 20 HP/s | Duração: 10 minutos." />
 	</item>
 	<item id="14701" name="Melancia">
-		<attribute key="description" value="Comida level 1. 20HP/s" />
+		<attribute key="description" value="Requisito: nível 1 | Cura: 20 HP/s | Duração: 10 minutos." />
 	</item>
 	<item id="14702" name="Uva"/>
 	<item id="14703" name="Chocolate"/>
 	<item id="14707" name="Leite"/>
 	<item id="14708" name="Queijo"/>
 	<item id="14709" name="Alface">
-		<attribute key="description" value="Comida level 1. 20HP/s" />
+		<attribute key="description" value="Requisito: nível 1 | Cura: 20 HP/s | Duração: 10 minutos." />
 	</item>
 	<item id="14712" name="Carne de Porco"/>
 	<item id="14714" name="Tomate">
-		<attribute key="description" value="Comida level 1. 20HP/s" />
+		<attribute key="description" value="Requisito: nível 1 | Cura: 20 HP/s | Duração: 10 minutos." />
 	</item>
 	<item id="14715" name="Cebola">
-		<attribute key="description" value="Comida level 1. 20HP/s" />
+		<attribute key="description" value="Requisito: nível 1 | Cura: 20 HP/s | Duração: 10 minutos." />
 	</item>
 	<item id="14716" name="Pimenta">
-		<attribute key="description" value="Comida level 1. 10HP/s" />
+		<attribute key="description" value="Requisito: nível 1 | Cura: 10 HP/s | Duração: 10 minutos." />
 	</item>
 	<item id="14717" name="Pão de hamburguer"/>
 	<item id="14718" name="Soja"/>
 	<item id="14719" name="Baguete"/>
 	<item id="14721" name="Salcicha"/>
 	<item id="14772" name="Repolho">
-		<attribute key="description" value="Comida level 1. 20HP/s" />
+		<attribute key="description" value="Requisito: nível 1 | Cura: 20 HP/s | Duração: 10 minutos." />
 	</item>
 	<item id="14775" name="Alho">
-		<attribute key="description" value="Comida level 1. 10HP/s" />
+		<attribute key="description" value="Requisito: nível 1 | Cura: 10 HP/s | Duração: 10 minutos." />
 	</item>
 
 	<item id="14861" article="a" name="Kurama mode headband" >
@@ -17933,6 +18080,30 @@
 		<attribute key="partnerDirection" value="3" />
 		<attribute key="transformTo" value="17833" />
 	</item>
+	<item id="17842" article="a" name="Roupa de Cama Azul">
+		<attribute key="description" value="Use em uma cama de house para deixa-la azul." />
+		<attribute key="market" value="1" />
+	</item>
+	<item id="17851" article="a" name="Roupa de Cama Verde">
+		<attribute key="description" value="Use em uma cama de house para deixa-la verde." />
+		<attribute key="market" value="1" />
+	</item>
+	<item id="17860" article="a" name="Roupa de Cama Amarela">
+		<attribute key="description" value="Use em uma cama de house para deixa-la amarela." />
+		<attribute key="market" value="1" />
+	</item>
+	<item id="17869" article="a" name="Roupa de Cama Roxa">
+		<attribute key="description" value="Use em uma cama de house para deixa-la roxa." />
+		<attribute key="market" value="1" />
+	</item>
+	<item id="17878" article="a" name="Roupa de Cama Vermelha">
+		<attribute key="description" value="Use em uma cama de house para deixa-la vermelha." />
+		<attribute key="market" value="1" />
+	</item>
+	<item id="17887" article="a" name="Roupa de Cama Preta">
+		<attribute key="description" value="Use em uma cama de house para deixa-la preta." />
+		<attribute key="market" value="1" />
+	</item>
 	<!-- beds end -->
 
 	<item fromid="17993" toid="18005" article="a" name="Sign">
@@ -18077,7 +18248,6 @@
 		<attribute key="type" value="door" />
 	</item>
 	<item id="19510" article="a" name="Open door">
-		<attribute key="blockprojectile" value="1" />
 		<attribute key="type" value="door" />
 		<attribute key="description" value="It is locked." />
 	</item>
@@ -18086,7 +18256,6 @@
 		<attribute key="type" value="door" />
 	</item>
 	<item id="19512" article="a" name="Open door">
-		<attribute key="blockprojectile" value="1" />
 		<attribute key="type" value="door" />
 		<attribute key="description" value="It is locked." />
 	</item>
@@ -18095,7 +18264,6 @@
 		<attribute key="type" value="door" />
 	</item>
 	<item id="19514" article="a" name="Open door">
-		<attribute key="blockprojectile" value="1" />
 		<attribute key="type" value="door" />
 		<attribute key="description" value="It is locked." />
 	</item>
@@ -18104,7 +18272,6 @@
 		<attribute key="type" value="door" />
 	</item>
 	<item id="19516" article="a" name="Open door">
-		<attribute key="blockprojectile" value="1" />
 		<attribute key="type" value="door" />
 		<attribute key="description" value="It is locked." />
 	</item>
@@ -18113,7 +18280,6 @@
 		<attribute key="type" value="door" />
 	</item>
 	<item id="19518" article="a" name="Open door">
-		<attribute key="blockprojectile" value="1" />
 		<attribute key="type" value="door" />
 		<attribute key="description" value="It is locked." />
 	</item>
@@ -18122,7 +18288,6 @@
 		<attribute key="type" value="door" />
 	</item>
 	<item id="19520" article="a" name="Open door">
-		<attribute key="blockprojectile" value="1" />
 		<attribute key="type" value="door" />
 		<attribute key="description" value="It is locked." />
 	</item>
@@ -18131,7 +18296,6 @@
 		<attribute key="type" value="door" />
 	</item>
 	<item id="19522" article="a" name="Open door">
-		<attribute key="blockprojectile" value="1" />
 		<attribute key="type" value="door" />
 		<attribute key="description" value="It is locked." />
 	</item>
@@ -18140,7 +18304,6 @@
 		<attribute key="type" value="door" />
 	</item>
 	<item id="19524" article="a" name="Open door">
-		<attribute key="blockprojectile" value="1" />
 		<attribute key="type" value="door" />
 		<attribute key="description" value="It is locked." />
 	</item>
@@ -18770,7 +18933,11 @@
 		<attribute key="weight" value="5" />
 	</item>
 	<item id="22299" article="a" name="Picareta Simples">
+		<attribute key="description" value="Picareta simples para extrair minérios fáceis." />
 		<attribute key="weight" value="5" />
+		<attribute key="charges" value="500" />
+		<attribute key="showcharges" value="1" />
+		<attribute key="market" value="1" />
 	</item>
 	<item id="22293" article="a" name="Sickle">
 		<attribute key="weight" value="5" />
@@ -18783,6 +18950,8 @@
 	</item>
 	<item id="22302" article="a" name="Fishing rod">
 		<attribute key="weight" value="5" />
+		<attribute key="charges" value="500" />
+		<attribute key="showcharges" value="1" />
 	</item>
 
 	<item id="23039" article="a" name="Ramp">
@@ -18840,11 +19009,25 @@
 	</item>
 
 	<item fromid="14229" toid="14232" article="a" name="Floor" />
-	<item id="14233" article="a" name="Picareta de Cobre" />
+	<item id="14233" article="a" name="Picareta de Cobre">
+		<attribute key="description" value="Picareta de cobre para extrair minérios de dificuldade média." />
+		<attribute key="charges" value="1000" />
+		<attribute key="showcharges" value="1" />
+		<attribute key="market" value="1" />
+	</item>
 	<item fromid="14234" toid="14235" article="a" name="Pickaxe" />
-	<item id="14237" article="a" name="Barra de Cobre" />
-	<item id="14238" article="a" name="Barra de Ferro" />
-	<item id="14241" article="a" name="Sal" />
+	<item id="14237" article="a" name="Barra de Cobre">
+		<attribute key="description" value="Barra refinada de cobre usada na forja e construção." />
+		<attribute key="market" value="1" />
+	</item>
+	<item id="14238" article="a" name="Barra de Ferro">
+		<attribute key="description" value="Barra refinada de ferro usada na forja e engenharia." />
+		<attribute key="market" value="1" />
+	</item>
+	<item id="14241" article="a" name="Sal">
+		<attribute key="description" value="Sal refinado usado no preparo de alimentos." />
+		<attribute key="market" value="1" />
+	</item>
 	<item id="14243" article="a" name="Mining Crystal Spot" />
 	<item id="14244" article="a" name="Pedra com cobre" />
 	<item id="14245" article="a" name="Pedras com ferro" />
@@ -18867,12 +19050,24 @@
 	<item id="14262" article="a" name="Mining Crystal Spot" />
 	<item id="14263" article="a" name="Mining Crystal Spot" />
 	<item id="14264" article="a" name="Mining Crystal Spot" />
-	<item id="14265" article="a" name="Minério de Cobre" />
-	<item id="14266" article="a" name="Minério de Ferro" />
+	<item id="14265" article="a" name="Minério de Cobre">
+		<attribute key="description" value="Minério bruto de cobre usado no refino." />
+		<attribute key="market" value="1" />
+	</item>
+	<item id="14266" article="a" name="Minério de Ferro">
+		<attribute key="description" value="Minério bruto de ferro usado no refino." />
+		<attribute key="market" value="1" />
+	</item>
 	<item id="14267" article="a" name="Mining Crystal Spot" />
 	<item id="14268" article="a" name="Mining Crystal Spot" />
-	<item id="14269" article="a" name="Pedra de Sódio" />
-	<item id="14270" article="a" name="Carvão" />
+	<item id="14269" article="a" name="Pedra de Sódio">
+		<attribute key="description" value="Pedra rica em sódio usada para produzir sal." />
+		<attribute key="market" value="1" />
+	</item>
+	<item id="14270" article="a" name="Carvão">
+		<attribute key="description" value="Combustível mineral usado no refino e na culinária." />
+		<attribute key="market" value="1" />
+	</item>
 	<item fromid="14271" toid="14381" article="a" name="Grave Tombstone" />
 	<item fromid="15145" toid="15147" article="a" name="Floor" />
 	<item fromid="15161" toid="15162" article="a" name="Floor" />
@@ -18883,7 +19078,31 @@
 	<item id="19820" article="a" name="Danger Wet Sign" />
 	<item fromid="19809" toid="19819" article="a" name="Shop Sign" />
 	<item fromid="19821" toid="19824" article="a" name="Lantern Shop Sign" />
-	<item fromid="19832" toid="19858" article="a" name="Kage Funeral" />
+	<item id="19832" article="a" name="Mesa de Madeira Horizontal">
+		<attribute key="clientid" value="18947" />
+		<attribute key="pickupable" value="0" />
+		<attribute key="movable" value="1" />
+		<attribute key="forceSerialize" value="1" />
+	</item>
+	<item id="19833" article="a" name="Mesa de Madeira Horizontal">
+		<attribute key="clientid" value="18948" />
+		<attribute key="pickupable" value="0" />
+		<attribute key="movable" value="1" />
+		<attribute key="forceSerialize" value="1" />
+	</item>
+	<item id="19834" article="a" name="Mesa de Madeira Vertical">
+		<attribute key="clientid" value="18949" />
+		<attribute key="pickupable" value="0" />
+		<attribute key="movable" value="1" />
+		<attribute key="forceSerialize" value="1" />
+	</item>
+	<item id="19835" article="a" name="Mesa de Madeira Vertical">
+		<attribute key="clientid" value="18950" />
+		<attribute key="pickupable" value="0" />
+		<attribute key="movable" value="1" />
+		<attribute key="forceSerialize" value="1" />
+	</item>
+	<item fromid="19836" toid="19858" article="a" name="Kage Funeral" />
 	<item id="19859" article="a" name="Torch Pillar" />
 	<item fromid="19866" toid="19873" article="a" name="Wall" />
 	<item fromid="20376" toid="20397" article="a" name="Wooden Wall"/>
@@ -18897,6 +19116,10 @@
         <attribute key="armor" value="100" />
         <attribute key="slotType" value="body" />
 		<attribute key="classe" value="2" />
+	</item>
+	<item id="24885" name="Hashirama roots invisible blocker">
+		<attribute key="decayTo" value="0" />
+		<attribute key="duration" value="6" />
 	</item>
 	<item id="24886" name="bridge floor"/>
 	<item id="24895" name="bridge floor"/>

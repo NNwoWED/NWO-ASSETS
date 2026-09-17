@@ -1,0 +1,140 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "manifest": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\manifest-unified-table-vase-packages-20260904.csv",
+  "profile": "tibia-860-v2-custom-extended",
+  "version_backup": {
+    "tool_version": "0.8.1",
+    "version_id": "20260904-094056-476272",
+    "created_at": "2026-09-04T09:41:06.902312-03:00",
+    "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20260904-094056-476272",
+    "rar_executable": "C:\\Program Files\\WinRAR\\Rar.exe",
+    "sources": [
+      {
+        "path": "assets/860/.gitattributes",
+        "size": 43,
+        "sha256": "D5636A3257287440945C5E017581545E5B0A3E2FDDDAE7C5EF8D90FF4DF3D32A"
+      },
+      {
+        "path": "assets/860/Tibia.dat",
+        "size": 4379114,
+        "sha256": "660EBDCEB4BAEF49F55C1CEF7DADBB924E70BC3BE1053F98354945883EC9C37A"
+      },
+      {
+        "path": "assets/860/Tibia.otfi",
+        "size": 185,
+        "sha256": "7743548835944BC799CB871A4E5DEF84F7AF76815031871B9CE74B5EC0E8ADD3"
+      },
+      {
+        "path": "assets/860/Tibia.spr",
+        "size": 433159806,
+        "sha256": "FB10C0856017546C2A2BAF7871980030419D2F8340F6795314E41DC12B59CD55"
+      },
+      {
+        "path": "assets/items/force use.txt",
+        "size": 419,
+        "sha256": "BCB478FDF3F45ECA8D172AFD7A17D3F8CD520924EE0894752452B8FDC8F71959"
+      },
+      {
+        "path": "assets/items/items.otb",
+        "size": 1003402,
+        "sha256": "BB76B317AC5C2A9D25EC3A05D12A007E7A7513703D862B106A9FD5C285F92757"
+      },
+      {
+        "path": "assets/world/mapanovo.otbm",
+        "size": 80109484,
+        "sha256": "FEB55A08B8A9ABD9CC129B23BB1D2ED067A903C9473F0D45F62B5CA16CDD6DB5"
+      }
+    ],
+    "archives": {
+      "860": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20260904-094056-476272\\860.rar",
+        "size": 83376171,
+        "sha256": "0027F13C22BBDCEFE191CDE3B7AE828E7722441C862F77E0A28F16E29A5208B0"
+      },
+      "items": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20260904-094056-476272\\items.rar",
+        "size": 476717,
+        "sha256": "1DBEFC5747A60B9FA5DE83DCC8830A442153C33670849EDF48CAC357BEF56B31"
+      },
+      "world": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20260904-094056-476272\\world.zip",
+        "size": 19340601,
+        "sha256": "DCFFBB6FB455DD8E051C696548FB4210CF88F7F802692C8F96FBEC7EFA8231DA"
+      }
+    },
+    "items_xml_excluded": true,
+    "world_entries": [
+      "mapanovo.otbm"
+    ],
+    "passed": true
+  },
+  "sprite_hash_gate": {
+    "sample_count": 64,
+    "mismatch_count": 0,
+    "mismatches": [],
+    "passed": true
+  },
+  "item_count": 2,
+  "new_sprite_count": 2,
+  "sprite_id_range": [
+    254551,
+    254552
+  ],
+  "items": [
+    {
+      "sequence": 1,
+      "client_id": 13718,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\importados\\caixa_mesa_de_madeira_vertical.png",
+      "file_sha256": "9A819A939623C33800DE19B5247C0FDB1509FE72783B38278A0638E95D8BD484",
+      "pixels_sha256": "D1732D46474B79299B0D4EE016DD86CE16959B2860F0A796D73D950F1851F48E",
+      "image_width": 32,
+      "image_height": 32,
+      "width_tiles": 1,
+      "height_tiles": 1,
+      "frames": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_ids": [
+        254551
+      ],
+      "sprite_hash": "2EC2497068FC7537D8E42AE4CC1B28AF"
+    },
+    {
+      "sequence": 2,
+      "client_id": 13720,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\importados\\caixa_mesa_de_madeira_vertical-importado.png",
+      "file_sha256": "9A819A939623C33800DE19B5247C0FDB1509FE72783B38278A0638E95D8BD484",
+      "pixels_sha256": "D1732D46474B79299B0D4EE016DD86CE16959B2860F0A796D73D950F1851F48E",
+      "image_width": 32,
+      "image_height": 32,
+      "width_tiles": 1,
+      "height_tiles": 1,
+      "frames": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_ids": [
+        254552
+      ],
+      "sprite_hash": "2EC2497068FC7537D8E42AE4CC1B28AF"
+    }
+  ],
+  "otb_nodes_updated": {
+    "13718": 1,
+    "13720": 1
+  },
+  "transaction_committed": true,
+  "output_hashes": {
+    "dat": "9A11FCC17F5BA1754D67CA3CB739C70C243F58D7177E85733BD8A1D84F2A16CD",
+    "spr": "41A755042D92A01010BEBE13FCF2CB9F81976238F5527FA7514865626AB181F1",
+    "otb": "330B0D98B3A8CF7FC752E0424668250E2101EB7F87EEE9612872B0F3C9231A09"
+  },
+  "dat_non_targets_preserved": true,
+  "old_sprite_payload_preserved": true,
+  "new_sprite_pixels_verified": true,
+  "untouched_files_preserved": true,
+  "map_byte_equal": true,
+  "final_validation_passed": true,
+  "warnings": [],
+  "errors": [],
+  "passed": true
+}

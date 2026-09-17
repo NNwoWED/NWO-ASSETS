@@ -1,0 +1,273 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "manifest": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\manifest-profession-tools-20260904.csv",
+  "profile": "tibia-860-v2-custom-extended",
+  "version_backup": {
+    "tool_version": "0.8.1",
+    "version_id": "20260904-020600-989829",
+    "created_at": "2026-09-04T02:06:15.447312-03:00",
+    "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20260904-020600-989829",
+    "rar_executable": "C:\\Program Files\\WinRAR\\Rar.exe",
+    "sources": [
+      {
+        "path": "assets/860/.gitattributes",
+        "size": 43,
+        "sha256": "D5636A3257287440945C5E017581545E5B0A3E2FDDDAE7C5EF8D90FF4DF3D32A"
+      },
+      {
+        "path": "assets/860/Tibia.dat",
+        "size": 4379119,
+        "sha256": "85A125F18FB2C083DE385B77ED906716BBC270AC23F774B13A280569B0242A22"
+      },
+      {
+        "path": "assets/860/Tibia.otfi",
+        "size": 185,
+        "sha256": "7743548835944BC799CB871A4E5DEF84F7AF76815031871B9CE74B5EC0E8ADD3"
+      },
+      {
+        "path": "assets/860/Tibia.spr",
+        "size": 433058785,
+        "sha256": "E1BB34AB33418D1A4930C0502A520732F9DFD979079FE9858A63B095EA34B185"
+      },
+      {
+        "path": "assets/items/force use.txt",
+        "size": 419,
+        "sha256": "BCB478FDF3F45ECA8D172AFD7A17D3F8CD520924EE0894752452B8FDC8F71959"
+      },
+      {
+        "path": "assets/items/items.otb",
+        "size": 1003401,
+        "sha256": "A156246D00387065016DA7F42911B312F6EB1F296F1BD72DBD0D2BDAD5E6C59E"
+      },
+      {
+        "path": "assets/world/mapanovo.otbm",
+        "size": 80109484,
+        "sha256": "FEB55A08B8A9ABD9CC129B23BB1D2ED067A903C9473F0D45F62B5CA16CDD6DB5"
+      }
+    ],
+    "archives": {
+      "860": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20260904-020600-989829\\860.rar",
+        "size": 83371930,
+        "sha256": "CABF642CC70260FB9223C4CE1E7CF0794EFC5A4C820BBCEEB47440AE9B19219A"
+      },
+      "items": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20260904-020600-989829\\items.rar",
+        "size": 476202,
+        "sha256": "02DAAAF0D4DC9B9CAC6D398CC97E0741D7939B7B5C19062FFA33D6EDB9EED36D"
+      },
+      "world": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20260904-020600-989829\\world.zip",
+        "size": 19340601,
+        "sha256": "DCFFBB6FB455DD8E051C696548FB4210CF88F7F802692C8F96FBEC7EFA8231DA"
+      }
+    },
+    "items_xml_excluded": true,
+    "world_entries": [
+      "mapanovo.otbm"
+    ],
+    "passed": true
+  },
+  "sprite_hash_gate": {
+    "sample_count": 64,
+    "mismatch_count": 0,
+    "mismatches": [],
+    "passed": true
+  },
+  "item_count": 9,
+  "new_sprite_count": 9,
+  "sprite_id_range": [
+    254498,
+    254506
+  ],
+  "items": [
+    {
+      "sequence": 1,
+      "client_id": 3410,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\machado_surrado-importado.png",
+      "file_sha256": "D8C2D3511B27188AC09C64B356FB36236B899B78E84452A536E44E5B3C304DF8",
+      "pixels_sha256": "CC246FF5A2437343C5E7F486F62D053A9DD08DE4D4ED9F61D2BFC6AB7743B654",
+      "image_width": 32,
+      "image_height": 32,
+      "width_tiles": 1,
+      "height_tiles": 1,
+      "frames": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_ids": [
+        254498
+      ],
+      "sprite_hash": "40A4797AC1019FE4F20A9F1A14D0B6F9"
+    },
+    {
+      "sequence": 2,
+      "client_id": 3412,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\machado_bronze-importado.png",
+      "file_sha256": "18930394EBBFA66DBF6D460728EEBCCC03188E99B6C950AFA6ED389B43BF0CF6",
+      "pixels_sha256": "3D23BABF5EE4209A7C46E9EE302153F2C811B934034DBC94057423D9FF347FDB",
+      "image_width": 32,
+      "image_height": 32,
+      "width_tiles": 1,
+      "height_tiles": 1,
+      "frames": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_ids": [
+        254499
+      ],
+      "sprite_hash": "3F3F52CE37B194F851F8322EB4990229"
+    },
+    {
+      "sequence": 3,
+      "client_id": 3424,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\machado_ferro-importado.png",
+      "file_sha256": "E10EF666A176C35C26BB87C1B9F46FFC583771828B8F9A73061E23EA21B692CE",
+      "pixels_sha256": "B1D642B56080C1BD778E4AFA85BD4B94FF57F47E34F5686FB1577E08D6824584",
+      "image_width": 32,
+      "image_height": 32,
+      "width_tiles": 1,
+      "height_tiles": 1,
+      "frames": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_ids": [
+        254500
+      ],
+      "sprite_hash": "EF8D0A5EFFC4B2F75AE724BD1EAF582D"
+    },
+    {
+      "sequence": 4,
+      "client_id": 3427,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\vara_de_pescar_simples-importado.png",
+      "file_sha256": "8944CA1EAFB3129BDB8A2992430AC919471A7AAB51312E531CAFE336DF25D9D4",
+      "pixels_sha256": "DD08FB92F8A19DC6B26D332EB6BE99672D189C2A99DF1198F925C0FF127D7BA9",
+      "image_width": 32,
+      "image_height": 32,
+      "width_tiles": 1,
+      "height_tiles": 1,
+      "frames": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_ids": [
+        254501
+      ],
+      "sprite_hash": "B438B2EF735D58FD6E2530942DCD76BC"
+    },
+    {
+      "sequence": 5,
+      "client_id": 3459,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\vara_de_pescar_de_bronze-importado.png",
+      "file_sha256": "4521EEC03B4AFA0D78D07D7A00E7584AA34D5530D02B0FD2D236A6259FBC853D",
+      "pixels_sha256": "D2F143DB2C68544D45EBD72115DD1D5AF8FF9EBC3272F90BD4A171D6FB983DAC",
+      "image_width": 32,
+      "image_height": 32,
+      "width_tiles": 1,
+      "height_tiles": 1,
+      "frames": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_ids": [
+        254502
+      ],
+      "sprite_hash": "3E1DC156A02FB3B729B45FD6F4E633CB"
+    },
+    {
+      "sequence": 6,
+      "client_id": 3470,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\vara_de_pescar_de_ferro-importado.png",
+      "file_sha256": "8435D02C043092A25BDB34E1AC71EB73F42EF6F5801BE7CD00DB12D4DA91A2FB",
+      "pixels_sha256": "48747F578D2125A1485995E5C2BEE90D561AC83D24757C181FBA81DFD172D84F",
+      "image_width": 32,
+      "image_height": 32,
+      "width_tiles": 1,
+      "height_tiles": 1,
+      "frames": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_ids": [
+        254503
+      ],
+      "sprite_hash": "8D6189483945BF89F7E097F7475ACC10"
+    },
+    {
+      "sequence": 7,
+      "client_id": 3471,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\foice_surrada-importado.png",
+      "file_sha256": "226ECEC8E35DF84D1E7344A8AE19CDF02E872E6EFE57F9E0D4EDBE549EDACBA5",
+      "pixels_sha256": "82E8988BD14FCB3FE4E663850FB916D13905FAD98582697DB2896314A61373D8",
+      "image_width": 32,
+      "image_height": 32,
+      "width_tiles": 1,
+      "height_tiles": 1,
+      "frames": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_ids": [
+        254504
+      ],
+      "sprite_hash": "3C3DCE4F252A6241FBA2056977E86B43"
+    },
+    {
+      "sequence": 8,
+      "client_id": 3472,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\foice_bronze-importado.png",
+      "file_sha256": "B0FC4770327FCFBD939EA8DD3AB8B90E0A140DAEB71A4B086818A4B2CDC72247",
+      "pixels_sha256": "42FAF3B7AEF31D25F84900838622EE361EA338D42E5969B06B60222D62C85F3D",
+      "image_width": 32,
+      "image_height": 32,
+      "width_tiles": 1,
+      "height_tiles": 1,
+      "frames": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_ids": [
+        254505
+      ],
+      "sprite_hash": "2C0D8FA29B519852600444971D35ADF5"
+    },
+    {
+      "sequence": 9,
+      "client_id": 3473,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\Foice_ferro-importado.png",
+      "file_sha256": "50E1A78A8EDAC22E355E175D15DA24647EB3FFD9F9FA9E163207FEA3EFACE216",
+      "pixels_sha256": "8A7F539EAF5E91A07A99BF43ABE94F82E523CE07136A51908A06990C23DB9A72",
+      "image_width": 32,
+      "image_height": 32,
+      "width_tiles": 1,
+      "height_tiles": 1,
+      "frames": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_ids": [
+        254506
+      ],
+      "sprite_hash": "2BFC9BC5F93AC04E515FA8BF41681C51"
+    }
+  ],
+  "otb_nodes_updated": {
+    "3410": 1,
+    "3412": 1,
+    "3424": 1,
+    "3427": 1,
+    "3459": 1,
+    "3470": 1,
+    "3471": 1,
+    "3472": 1,
+    "3473": 1
+  },
+  "transaction_committed": true,
+  "output_hashes": {
+    "dat": "375243B0E28214949569F41691B1045C35156AC6962CC32D4C2489048C0DBB39",
+    "spr": "1FB2C9E04F1711402C09F8EBE559F99101D9EF0F82154628E9A70592377347DB",
+    "otb": "9C616A3567AB2E7719BD9A0244DE2CC58016231E12B03D64B3D759119898B5A3"
+  },
+  "dat_non_targets_preserved": true,
+  "old_sprite_payload_preserved": true,
+  "new_sprite_pixels_verified": true,
+  "untouched_files_preserved": true,
+  "map_byte_equal": true,
+  "final_validation_passed": true,
+  "warnings": [],
+  "errors": [],
+  "passed": true
+}

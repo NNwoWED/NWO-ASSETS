@@ -1,0 +1,162 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "manifest": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\battlepass-kijin-properties-20260911.csv",
+  "version_backup": {
+    "tool_version": "0.8.1",
+    "version_id": "20260911-142312-453521",
+    "created_at": "2026-09-11T14:23:24.846514-03:00",
+    "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20260911-142312-453521",
+    "rar_executable": "C:\\Program Files\\WinRAR\\Rar.exe",
+    "sources": [
+      {
+        "path": "assets/860/.gitattributes",
+        "size": 43,
+        "sha256": "D5636A3257287440945C5E017581545E5B0A3E2FDDDAE7C5EF8D90FF4DF3D32A"
+      },
+      {
+        "path": "assets/860/Tibia.dat",
+        "size": 4379230,
+        "sha256": "A72D6714DE6C1399EC5EEEBA36B4C05D37AA1364F1EFEEBCB3E6AF3E3638C98C"
+      },
+      {
+        "path": "assets/860/Tibia.otfi",
+        "size": 185,
+        "sha256": "7743548835944BC799CB871A4E5DEF84F7AF76815031871B9CE74B5EC0E8ADD3"
+      },
+      {
+        "path": "assets/860/Tibia.spr",
+        "size": 433218700,
+        "sha256": "D4D87839081CB9777AECC335512C3D38C9248D244D515346C3352148114BF957"
+      },
+      {
+        "path": "assets/items/force use.txt",
+        "size": 419,
+        "sha256": "BCB478FDF3F45ECA8D172AFD7A17D3F8CD520924EE0894752452B8FDC8F71959"
+      },
+      {
+        "path": "assets/items/items.otb",
+        "size": 1003405,
+        "sha256": "8DC47683D5A32858384966639D284ADC1D4F4556CD108366161C3FBC064BA3B0"
+      },
+      {
+        "path": "assets/world/mapanovo.otbm",
+        "size": 80105770,
+        "sha256": "8CDFDDF9DC2A9E53053E4F3FAF7F6825FD89B6B63EE06272ECD234B387202821"
+      }
+    ],
+    "archives": {
+      "860": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20260911-142312-453521\\860.rar",
+        "size": 83482605,
+        "sha256": "5D0126F76AC58CB0AD5B3A0CFC2F978D6BF06A9A271F72CA247FFDA1858B3023"
+      },
+      "items": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20260911-142312-453521\\items.rar",
+        "size": 476965,
+        "sha256": "32C5A01225F0629AD28ECECD327CD6F6CF0FE3B47DC6B6A8F244243AC0C69201"
+      },
+      "world": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20260911-142312-453521\\world.zip",
+        "size": 19337359,
+        "sha256": "170CD29639D001F9273247C874479344E8207ECB971919AE0E8CAE14295E4A31"
+      }
+    },
+    "items_xml_excluded": true,
+    "world_entries": [
+      "mapanovo.otbm"
+    ],
+    "passed": true
+  },
+  "item_count": 3,
+  "items": [
+    {
+      "sequence": 1,
+      "server_id": 14637,
+      "client_id": 13758,
+      "dat": {
+        "before": [
+          "stackable",
+          "pickupable"
+        ],
+        "after": [
+          "pickupable"
+        ]
+      },
+      "otb": {
+        "before_mask": "0x000000E0",
+        "after_mask": "0x00000060",
+        "before": [
+          "pickupable",
+          "movable",
+          "stackable"
+        ],
+        "after": [
+          "pickupable",
+          "movable"
+        ]
+      }
+    },
+    {
+      "sequence": 2,
+      "server_id": 14638,
+      "client_id": 13759,
+      "dat": {
+        "before": [
+          "stackable",
+          "pickupable"
+        ],
+        "after": [
+          "pickupable",
+          "container"
+        ]
+      },
+      "otb": {
+        "before_mask": "0x000000E0",
+        "after_mask": "0x00000060",
+        "before": [
+          "pickupable",
+          "movable",
+          "stackable"
+        ],
+        "after": [
+          "pickupable",
+          "movable"
+        ]
+      }
+    },
+    {
+      "sequence": 3,
+      "server_id": 14639,
+      "client_id": 13760,
+      "dat": {
+        "before": [
+          "stackable",
+          "pickupable"
+        ],
+        "after": [
+          "pickupable",
+          "container"
+        ]
+      },
+      "otb": {
+        "before_mask": "0x000000E0",
+        "after_mask": "0x00000060",
+        "before": [
+          "pickupable",
+          "movable",
+          "stackable"
+        ],
+        "after": [
+          "pickupable",
+          "movable"
+        ]
+      }
+    }
+  ],
+  "transaction_committed": true,
+  "untouched_assets_preserved": true,
+  "final_validation_passed": true,
+  "warnings": [],
+  "errors": [],
+  "passed": true
+}

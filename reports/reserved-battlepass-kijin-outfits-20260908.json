@@ -1,0 +1,33 @@
+{
+  "generated_at": "2026-09-08",
+  "purpose": "Reserva de outfits para skins Kijin do Passe de Batalha",
+  "sprites_imported": false,
+  "reservations": [
+    {
+      "name": "Kurenai Kijin",
+      "vocation_id": 11,
+      "outfit_id": 1520,
+      "storage_id": 89076,
+      "status": "reserved_waiting_for_sprite"
+    },
+    {
+      "name": "Shino Kijin",
+      "vocation_id": 26,
+      "outfit_id": 1521,
+      "storage_id": 89077,
+      "status": "reserved_waiting_for_sprite"
+    },
+    {
+      "name": "Kimimaro Kijin",
+      "vocation_id": 24,
+      "outfit_id": 1522,
+      "storage_id": 89078,
+      "status": "reserved_waiting_for_sprite"
+    }
+  ],
+  "verification": {
+    "dat_slots_empty": true,
+    "existing_project_references_found_before_reservation": false,
+    "note": "Nenhuma aparencia foi importada. As recompensas permanecem indisponiveis ate o recebimento das sprites."
+  }
+}

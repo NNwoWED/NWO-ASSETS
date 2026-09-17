@@ -1,0 +1,2231 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "profile": {
+    "key": "tibia-860-v2-custom-extended",
+    "client_version": 860,
+    "label": "Tibia 8.60 v2 customizado com features OTFI",
+    "dat_signature": "0x4C2C7993",
+    "spr_signature": "0x4C220594",
+    "metadata_reader": 5,
+    "otb_version_hint": "8.60"
+  },
+  "category": "items",
+  "id_kind": "server",
+  "requested_ids": [
+    1047,
+    1048,
+    11901,
+    11902,
+    11903,
+    11904,
+    14213,
+    14988,
+    15097,
+    19428,
+    19429,
+    19430,
+    19455,
+    19456,
+    19457,
+    19458,
+    19459,
+    19460,
+    19461,
+    19462,
+    19463,
+    19464,
+    19465,
+    19466,
+    19467,
+    19468,
+    19469,
+    19470,
+    19471,
+    19472,
+    19473,
+    19474,
+    19475,
+    19476,
+    19477,
+    19478,
+    19479,
+    19480,
+    19481,
+    19482,
+    19483,
+    19484,
+    19485,
+    19486,
+    19487,
+    20626,
+    20627,
+    20628,
+    20629,
+    20630,
+    20631,
+    23302,
+    23303,
+    23304,
+    23305,
+    23306,
+    23307,
+    23308,
+    23309,
+    23310,
+    23311,
+    23312,
+    23313,
+    23314,
+    23315,
+    23316,
+    23317,
+    23328,
+    23347,
+    23367,
+    25181,
+    25182,
+    25183,
+    25184,
+    25185,
+    25186,
+    25187,
+    25188,
+    25189,
+    25190,
+    25191
+  ],
+  "output_dir": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\house-wall-orientation-audit-20260904",
+  "exported_count": 81,
+  "exported": [
+    {
+      "requested_id": 1047,
+      "client_id": 1292,
+      "server_ids": [
+        1047
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        69108,
+        64925,
+        69109,
+        64927
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\house-wall-orientation-audit-20260904\\server-1047_client-1292.png",
+      "size": 2581,
+      "sha256": "9F48690BF20D7BCFFF2D78DE07005235DA6964D1CBE57F07F50B60E3C373407A"
+    },
+    {
+      "requested_id": 1048,
+      "client_id": 1293,
+      "server_ids": [
+        1048
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        69110,
+        69111,
+        64935,
+        64936
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\house-wall-orientation-audit-20260904\\server-1048_client-1293.png",
+      "size": 2215,
+      "sha256": "73D2548A06AC0C0C0DAF9140FBA4BF18EF4F85965ACE1EC6490EB47706FF46C0"
+    },
+    {
+      "requested_id": 11901,
+      "client_id": 11024,
+      "server_ids": [
+        11901
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        64944,
+        64945,
+        64946,
+        64947
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\house-wall-orientation-audit-20260904\\server-11901_client-11024.png",
+      "size": 1231,
+      "sha256": "A21488779271A3C8E983C93FD5B23174EB42E0E2583236825F3212A10B3A7BA6"
+    },
+    {
+      "requested_id": 11902,
+      "client_id": 11025,
+      "server_ids": [
+        11902
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 128,
+      "height": 192,
+      "layers": 1,
+      "pattern_x": 2,
+      "pattern_y": 3,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        64924,
+        64925,
+        64926,
+        64927,
+        64928,
+        64925,
+        64922,
+        64929,
+        64928,
+        64925,
+        64922,
+        64929,
+        64930,
+        64931,
+        64932,
+        64933,
+        64930,
+        64931,
+        64932,
+        64933,
+        64924,
+        64925,
+        64926,
+        64927
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\house-wall-orientation-audit-20260904\\server-11902_client-11025.png",
+      "size": 10472,
+      "sha256": "ED4F1E62C67A4CC0FD5F5596A7C21872A0E30D32A779552AF842AF801A2D0734"
+    },
+    {
+      "requested_id": 11903,
+      "client_id": 11026,
+      "server_ids": [
+        11903
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        64920,
+        64921,
+        64922,
+        64923
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\house-wall-orientation-audit-20260904\\server-11903_client-11026.png",
+      "size": 3316,
+      "sha256": "00D68045F8ED4AC78733A1492015E5260CEAD1B65CC5D2144AA58A433DEF7A41"
+    },
+    {
+      "requested_id": 11904,
+      "client_id": 11027,
+      "server_ids": [
+        11904
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 192,
+      "height": 128,
+      "layers": 1,
+      "pattern_x": 3,
+      "pattern_y": 2,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        64934,
+        64921,
+        64935,
+        64936,
+        64937,
+        64938,
+        64935,
+        64939,
+        64940,
+        64941,
+        64942,
+        64943,
+        64937,
+        64938,
+        64935,
+        64939,
+        64940,
+        64941,
+        64942,
+        64943,
+        64934,
+        64921,
+        64935,
+        64936
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\house-wall-orientation-audit-20260904\\server-11904_client-11027.png",
+      "size": 8027,
+      "sha256": "EA098D4B9AB12E47F1A475C4716C9948A5B3844475A94A6606097646E039C379"
+    },
+    {
+      "requested_id": 14213,
+      "client_id": 13336,
+      "server_ids": [
+        14213
+      ],
+      "name": "Wall",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        0,
+        0,
+        0,
+        70063
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\house-wall-orientation-audit-20260904\\server-14213_client-13336_wall.png",
+      "size": 596,
+      "sha256": "C8E84023ABA6722D10A03395D1BF460860C02A0D4EF4C1BA096EDBFA61E6D06A"
+    },
+    {
+      "requested_id": 14988,
+      "client_id": 14103,
+      "server_ids": [
+        14988
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        86413,
+        86414,
+        86415,
+        86416
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\house-wall-orientation-audit-20260904\\server-14988_client-14103.png",
+      "size": 897,
+      "sha256": "60FEAE6F37D949AC8BD6B63DDDFC3A144BB0BDEE605AC6ABB531E74390753A51"
+    },
+    {
+      "requested_id": 15097,
+      "client_id": 14212,
+      "server_ids": [
+        15097
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        138086,
+        86901,
+        138083,
+        86898
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\house-wall-orientation-audit-20260904\\server-15097_client-14212.png",
+      "size": 1150,
+      "sha256": "7CFEF7AC8B29AAB2D55EB675FAD9FCE25DC6D5CB37087411643571DBF81007CD"
+    },
+    {
+      "requested_id": 19428,
+      "client_id": 18543,
+      "server_ids": [
+        19428
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        131772,
+        131768,
+        131773,
+        131774
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\house-wall-orientation-audit-20260904\\server-19428_client-18543.png",
+      "size": 948,
+      "sha256": "6ABE32A90BACA25B90A2C107EE8091C73BF8C347B35F5889A2AE6EF57A71A3D2"
+    },
+    {
+      "requested_id": 19429,
+      "client_id": 18544,
+      "server_ids": [
+        19429
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        131771,
+        125962,
+        131769,
+        125963
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\house-wall-orientation-audit-20260904\\server-19429_client-18544.png",
+      "size": 1063,
+      "sha256": "EEA88F46DD6A9686DB1C30C1AFE5F697C29F7B2FA044102218D3F4961E872136"
+    },
+    {
+      "requested_id": 19430,
+      "client_id": 18545,
+      "server_ids": [
+        19430
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        131767,
+        131768,
+        131769,
+        131770
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\house-wall-orientation-audit-20260904\\server-19430_client-18545.png",
+      "size": 1576,
+      "sha256": "B610505EBA46A1040F8EB88EE690FF929A9B7DD93D855C631030FFE12CE64006"
+    },
+    {
+      "requested_id": 19455,
+      "client_id": 18570,
+      "server_ids": [
+        19455
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        139009,
+        125999,
+        128917,
+        126000
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\house-wall-orientation-audit-20260904\\server-19455_client-18570.png",
+      "size": 588,
+      "sha256": "3E43BF50F3EE896007F5CD01EFC16FC20FEC1FD549B751F288062709652208F9"
+    },
+    {
+      "requested_id": 19456,
+      "client_id": 18571,
+      "server_ids": [
+        19456
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        139008,
+        126001,
+        128916,
+        126000
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\house-wall-orientation-audit-20260904\\server-19456_client-18571.png",
+      "size": 618,
+      "sha256": "03FB581E6CE1EA2587AC04733E33E59910C29ED141103149AFB432BC5F226A1A"
+    },
+    {
+      "requested_id": 19457,
+      "client_id": 18572,
+      "server_ids": [
+        19457
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        139007,
+        126002,
+        128917,
+        126003
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\house-wall-orientation-audit-20260904\\server-19457_client-18572.png",
+      "size": 988,
+      "sha256": "2B8EA18645212C13079841DB48C2F30D47CED7601F5C1BD23C4EAD507B9656A3"
+    },
+    {
+      "requested_id": 19458,
+      "client_id": 18573,
+      "server_ids": [
+        19458
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        139006,
+        126004,
+        128916,
+        126003
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\house-wall-orientation-audit-20260904\\server-19458_client-18573.png",
+      "size": 1016,
+      "sha256": "E734417B528CDB26F17D648ED7A134444B9576201C53EF994E6AA1BAF31773D4"
+    },
+    {
+      "requested_id": 19459,
+      "client_id": 18574,
+      "server_ids": [
+        19459
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        128915,
+        125999,
+        128913,
+        126005
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\house-wall-orientation-audit-20260904\\server-19459_client-18574.png",
+      "size": 1104,
+      "sha256": "E92331F0B7F32726DD4275B8366E1BBFE1900144591422BB86E9B1BE570A416B"
+    },
+    {
+      "requested_id": 19460,
+      "client_id": 18575,
+      "server_ids": [
+        19460
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        128914,
+        126001,
+        128912,
+        126005
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\house-wall-orientation-audit-20260904\\server-19460_client-18575.png",
+      "size": 1115,
+      "sha256": "FC4EC65D5C05EC080991A3DB2178309401802452FB10AD14A6B70C2CC0A47531"
+    },
+    {
+      "requested_id": 19461,
+      "client_id": 18576,
+      "server_ids": [
+        19461
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        139005,
+        126002,
+        128913,
+        126006
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\house-wall-orientation-audit-20260904\\server-19461_client-18576.png",
+      "size": 1437,
+      "sha256": "834A03AF60680C4711454ACAA7B08C9271EB96F9D39632D7D56D3173A9837D67"
+    },
+    {
+      "requested_id": 19462,
+      "client_id": 18577,
+      "server_ids": [
+        19462
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        139004,
+        126004,
+        128912,
+        126006
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\house-wall-orientation-audit-20260904\\server-19462_client-18577.png",
+      "size": 1471,
+      "sha256": "B827C96B51492EE70D3B8F297F8AF41D7AB51C3B11F7B009D38C01AD4CA6143B"
+    },
+    {
+      "requested_id": 19463,
+      "client_id": 18578,
+      "server_ids": [
+        19463
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 192,
+      "height": 192,
+      "layers": 1,
+      "pattern_x": 6,
+      "pattern_y": 6,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        126007,
+        126008,
+        126009,
+        126010,
+        126011,
+        126012,
+        126013,
+        126014,
+        126015,
+        126016,
+        126017,
+        126018,
+        126019,
+        126020,
+        126021,
+        126022,
+        126023,
+        126024,
+        126025,
+        126026,
+        126027,
+        126028,
+        126029,
+        126030,
+        126031,
+        126032,
+        126033,
+        126034,
+        126035,
+        126036,
+        126037,
+        126038,
+        126039,
+        126040,
+        126041,
+        126042
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\house-wall-orientation-audit-20260904\\server-19463_client-18578.png",
+      "size": 74822,
+      "sha256": "D3E4704CC0131CFD6867A31237849BC886D22E0EC9FD52F3A65C2BBFBFD9BFCF"
+    },
+    {
+      "requested_id": 19464,
+      "client_id": 18579,
+      "server_ids": [
+        19464
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        128910,
+        126043,
+        128911,
+        126044
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\house-wall-orientation-audit-20260904\\server-19464_client-18579.png",
+      "size": 626,
+      "sha256": "674561DF2340B23B048BD593D71B64D3C1DD47643B313F2A19C4569A97679F9C"
+    },
+    {
+      "requested_id": 19465,
+      "client_id": 18580,
+      "server_ids": [
+        19465
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        128909,
+        126045,
+        128906,
+        126044
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\house-wall-orientation-audit-20260904\\server-19465_client-18580.png",
+      "size": 628,
+      "sha256": "F2377715D5F01239CADE77DE7EACAA284A21949AE32E4222261731F9204DFB68"
+    },
+    {
+      "requested_id": 19466,
+      "client_id": 18581,
+      "server_ids": [
+        19466
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        128907,
+        126046,
+        128908,
+        126047
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\house-wall-orientation-audit-20260904\\server-19466_client-18581.png",
+      "size": 1023,
+      "sha256": "A664A0ECBE3FEA4A7F940B19520803E0F9AD634628466BF6796A1B1FF5D2E53E"
+    },
+    {
+      "requested_id": 19467,
+      "client_id": 18582,
+      "server_ids": [
+        19467
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        128905,
+        126048,
+        128906,
+        126047
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\house-wall-orientation-audit-20260904\\server-19467_client-18582.png",
+      "size": 1022,
+      "sha256": "716BCADA12106384676433DEE038C8DB6D927CAC63F8286158FBCA81F48537FA"
+    },
+    {
+      "requested_id": 19468,
+      "client_id": 18583,
+      "server_ids": [
+        19468
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        128903,
+        126043,
+        128904,
+        126049
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\house-wall-orientation-audit-20260904\\server-19468_client-18583.png",
+      "size": 1099,
+      "sha256": "CA442DDF7404119776E4243DD3E847464CDCED6D6BF9CFA2F0C0EAF7A6C5D093"
+    },
+    {
+      "requested_id": 19469,
+      "client_id": 18584,
+      "server_ids": [
+        19469
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        128902,
+        126045,
+        128899,
+        126049
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\house-wall-orientation-audit-20260904\\server-19469_client-18584.png",
+      "size": 1128,
+      "sha256": "A86EF3BE5AA62D86957050FE785E329849734D4BF039E28A54C768FAEB9940A2"
+    },
+    {
+      "requested_id": 19470,
+      "client_id": 18585,
+      "server_ids": [
+        19470
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        128900,
+        126046,
+        128901,
+        126050
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\house-wall-orientation-audit-20260904\\server-19470_client-18585.png",
+      "size": 1471,
+      "sha256": "604DBDC4EE560019912D1022A1C37DFDBD7C717324F4F50C76089E60588F24B3"
+    },
+    {
+      "requested_id": 19471,
+      "client_id": 18586,
+      "server_ids": [
+        19471
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        128897,
+        128898,
+        128899,
+        126050
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\house-wall-orientation-audit-20260904\\server-19471_client-18586.png",
+      "size": 1474,
+      "sha256": "796C26B7F02E2701755B4A0EC7A4504B6D909D889BD2A9F2F27F98666148A58B"
+    },
+    {
+      "requested_id": 19472,
+      "client_id": 18587,
+      "server_ids": [
+        19472
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        128896,
+        126051,
+        128894,
+        126052
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\house-wall-orientation-audit-20260904\\server-19472_client-18587.png",
+      "size": 603,
+      "sha256": "DD732744E7889A882B6941FC11E150B9AF04156EE9B71171D9A009AD98320423"
+    },
+    {
+      "requested_id": 19473,
+      "client_id": 18588,
+      "server_ids": [
+        19473
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        128895,
+        126053,
+        128892,
+        126052
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\house-wall-orientation-audit-20260904\\server-19473_client-18588.png",
+      "size": 625,
+      "sha256": "4B79C750BFC8B555546A637456E1EEDC4FC4A2E7966D1CB054E143E491A409C2"
+    },
+    {
+      "requested_id": 19474,
+      "client_id": 18589,
+      "server_ids": [
+        19474
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        128893,
+        126054,
+        128894,
+        126055
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\house-wall-orientation-audit-20260904\\server-19474_client-18589.png",
+      "size": 1003,
+      "sha256": "36205F6821D1088BEAA6B6DAA8778B7AA35419D363940F7EAC772AF186C79CFB"
+    },
+    {
+      "requested_id": 19475,
+      "client_id": 18590,
+      "server_ids": [
+        19475
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        128891,
+        126056,
+        128892,
+        126055
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\house-wall-orientation-audit-20260904\\server-19475_client-18590.png",
+      "size": 1013,
+      "sha256": "134ECF6948E753A1FC175F537C14A7A31E1F029B34E42D29B7E3A45E5004F8C8"
+    },
+    {
+      "requested_id": 19476,
+      "client_id": 18591,
+      "server_ids": [
+        19476
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        128890,
+        126051,
+        128888,
+        126057
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\house-wall-orientation-audit-20260904\\server-19476_client-18591.png",
+      "size": 1088,
+      "sha256": "DECCE8FD2DAA9972CE23BB2B7BFFECFC4DA817CBD8BA3A1DF7D590F3FB12EFC9"
+    },
+    {
+      "requested_id": 19477,
+      "client_id": 18592,
+      "server_ids": [
+        19477
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        128889,
+        126053,
+        128886,
+        126057
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\house-wall-orientation-audit-20260904\\server-19477_client-18592.png",
+      "size": 1110,
+      "sha256": "371FF693626B74E5689A9BCA35F145161DC206DE7B49DD8F9FAC9D93A022AA29"
+    },
+    {
+      "requested_id": 19478,
+      "client_id": 18593,
+      "server_ids": [
+        19478
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        128887,
+        126054,
+        128888,
+        126058
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\house-wall-orientation-audit-20260904\\server-19478_client-18593.png",
+      "size": 1456,
+      "sha256": "11C25A5AAF17A51B28CBD599758588ED4740EA3AE52849A59BCBC37464D20B00"
+    },
+    {
+      "requested_id": 19479,
+      "client_id": 18594,
+      "server_ids": [
+        19479
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        128885,
+        126056,
+        128886,
+        126058
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\house-wall-orientation-audit-20260904\\server-19479_client-18594.png",
+      "size": 1459,
+      "sha256": "78518C2ECD7C77ADA16AB32C56A32CB85F80449BB471EF936937B93A091D5168"
+    },
+    {
+      "requested_id": 19480,
+      "client_id": 18595,
+      "server_ids": [
+        19480
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        128884,
+        126059,
+        128882,
+        126060
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\house-wall-orientation-audit-20260904\\server-19480_client-18595.png",
+      "size": 614,
+      "sha256": "2C51CB56AD06D6F49E2C7E2FE4E3DDEC726832493A5C3B7A0A642EC17406D64B"
+    },
+    {
+      "requested_id": 19481,
+      "client_id": 18596,
+      "server_ids": [
+        19481
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        128883,
+        126061,
+        128880,
+        126060
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\house-wall-orientation-audit-20260904\\server-19481_client-18596.png",
+      "size": 618,
+      "sha256": "E92526963504F45F2B005404CABCCACCDFB6025BE0C2624F355EAD007B2E50C8"
+    },
+    {
+      "requested_id": 19482,
+      "client_id": 18597,
+      "server_ids": [
+        19482
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        128881,
+        126062,
+        128882,
+        126063
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\house-wall-orientation-audit-20260904\\server-19482_client-18597.png",
+      "size": 1010,
+      "sha256": "44374EF4F92C7528963BE00D126F30EF176B48EE671CC1332750F3EF279ACCE7"
+    },
+    {
+      "requested_id": 19483,
+      "client_id": 18598,
+      "server_ids": [
+        19483
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        128879,
+        126064,
+        128880,
+        126065
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\house-wall-orientation-audit-20260904\\server-19483_client-18598.png",
+      "size": 1011,
+      "sha256": "3F7EDB8E5F97BF94567D1E74402CCB115D7BCB1DFEE5D87A9AD3630E2938F3B3"
+    },
+    {
+      "requested_id": 19484,
+      "client_id": 18599,
+      "server_ids": [
+        19484
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        128877,
+        126059,
+        128878,
+        126066
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\house-wall-orientation-audit-20260904\\server-19484_client-18599.png",
+      "size": 1097,
+      "sha256": "100E339DB1599AF74E4776118D7880A864CC94CC76DFB914E44442BD97F66E50"
+    },
+    {
+      "requested_id": 19485,
+      "client_id": 18600,
+      "server_ids": [
+        19485
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        128959,
+        126061,
+        128957,
+        126067
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\house-wall-orientation-audit-20260904\\server-19485_client-18600.png",
+      "size": 1104,
+      "sha256": "D9770F30AA2EF9E1E6D57CBCD04BE5C8C72B73AC0F18AA226BF5234757D834DC"
+    },
+    {
+      "requested_id": 19486,
+      "client_id": 18601,
+      "server_ids": [
+        19486
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        128958,
+        126062,
+        128878,
+        126068
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\house-wall-orientation-audit-20260904\\server-19486_client-18601.png",
+      "size": 1461,
+      "sha256": "A62C5AE11F4FD54720E50CB559421CAEBE297E3A170E405511AA2ED6CFD80425"
+    },
+    {
+      "requested_id": 19487,
+      "client_id": 18602,
+      "server_ids": [
+        19487
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        128956,
+        126064,
+        128957,
+        126069
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\house-wall-orientation-audit-20260904\\server-19487_client-18602.png",
+      "size": 1473,
+      "sha256": "90823E09BD02F2471B761452E587B60E21B561D8557F7B1EF409CA98A1BB7C45"
+    },
+    {
+      "requested_id": 20626,
+      "client_id": 19741,
+      "server_ids": [
+        20626
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        129241,
+        129242,
+        129243,
+        129244
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\house-wall-orientation-audit-20260904\\server-20626_client-19741.png",
+      "size": 871,
+      "sha256": "AA912995F1D10DED01E4ED574EE5022862DD985BCDBB2B75B5B1A083B78A4622"
+    },
+    {
+      "requested_id": 20627,
+      "client_id": 19742,
+      "server_ids": [
+        20627
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        129245,
+        129246,
+        129247,
+        129248
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\house-wall-orientation-audit-20260904\\server-20627_client-19742.png",
+      "size": 1008,
+      "sha256": "E2DEDFBC27B81D56514A6DD3736A7AE98DFE8146F1B28A44EFC7FD9282831931"
+    },
+    {
+      "requested_id": 20628,
+      "client_id": 19743,
+      "server_ids": [
+        20628
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        129249,
+        129250,
+        129251,
+        129252
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\house-wall-orientation-audit-20260904\\server-20628_client-19743.png",
+      "size": 1819,
+      "sha256": "CEE027A058A39A2170323066101390C5D37F4636CDE56BFF3E2DDE80DCA33A18"
+    },
+    {
+      "requested_id": 20629,
+      "client_id": 19744,
+      "server_ids": [
+        20629
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 96,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        129253,
+        129254,
+        129255,
+        0,
+        129256,
+        129257
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\house-wall-orientation-audit-20260904\\server-20629_client-19744.png",
+      "size": 2439,
+      "sha256": "80822E0F3A2BA03E980EEB43C28444D7DF1A778E0F9A7BC689CF21A762FA1711"
+    },
+    {
+      "requested_id": 20630,
+      "client_id": 19745,
+      "server_ids": [
+        20630
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        129258,
+        129259,
+        129260,
+        129261
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\house-wall-orientation-audit-20260904\\server-20630_client-19745.png",
+      "size": 1919,
+      "sha256": "99B8A9624C97C5BEE680EEDD752BFEE9DE9528D837DE673B4F4BA94FD95BE3D3"
+    },
+    {
+      "requested_id": 20631,
+      "client_id": 19746,
+      "server_ids": [
+        20631
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 96,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        129262,
+        0,
+        129263,
+        129264,
+        129265,
+        129266
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\house-wall-orientation-audit-20260904\\server-20631_client-19746.png",
+      "size": 2439,
+      "sha256": "36A15BD337FE389A8D0874705C6E1054E64833383FB5776C3EB561F58A7DEFD0"
+    },
+    {
+      "requested_id": 23302,
+      "client_id": 22417,
+      "server_ids": [
+        23302
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        149784,
+        149785,
+        128916,
+        126003
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\house-wall-orientation-audit-20260904\\server-23302_client-22417.png",
+      "size": 1141,
+      "sha256": "DA8F1D4E809E6ABC01BF8FFCA3F3B5F94F65725AFF4272612438EFFB7A4488B5"
+    },
+    {
+      "requested_id": 23303,
+      "client_id": 22418,
+      "server_ids": [
+        23303
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        149786,
+        126001,
+        149787,
+        126005
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\house-wall-orientation-audit-20260904\\server-23303_client-22418.png",
+      "size": 1251,
+      "sha256": "9F8A0CD300B4D9BFAF03C0EC029B69B1728431A0FC8E785598C144BC68B56A11"
+    },
+    {
+      "requested_id": 23304,
+      "client_id": 22419,
+      "server_ids": [
+        23304
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        149788,
+        149789,
+        128906,
+        126047
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\house-wall-orientation-audit-20260904\\server-23304_client-22419.png",
+      "size": 1137,
+      "sha256": "0984BDE226AD01DB94013E1C2FEFC5508C788CC82E42E87DE9A27CF9D69AA207"
+    },
+    {
+      "requested_id": 23305,
+      "client_id": 22420,
+      "server_ids": [
+        23305
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        149790,
+        126045,
+        149791,
+        126049
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\house-wall-orientation-audit-20260904\\server-23305_client-22420.png",
+      "size": 1252,
+      "sha256": "8E30D40027AA26880F8B9230A4A7E60EA43EC6F060052BD12E0A9F8D31000E1B"
+    },
+    {
+      "requested_id": 23306,
+      "client_id": 22421,
+      "server_ids": [
+        23306
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        149792,
+        149793,
+        128892,
+        126055
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\house-wall-orientation-audit-20260904\\server-23306_client-22421.png",
+      "size": 1128,
+      "sha256": "D17A0993927121CE226E358BEB6A3096F7522AC05B5E1792EB112BBF0A9663A5"
+    },
+    {
+      "requested_id": 23307,
+      "client_id": 22422,
+      "server_ids": [
+        23307
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        149794,
+        126053,
+        149795,
+        126057
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\house-wall-orientation-audit-20260904\\server-23307_client-22422.png",
+      "size": 1247,
+      "sha256": "8EFF79350FDF8DE8AC9A8B458ABC4FCE81D0363093D570E25E5EB305A7904AE7"
+    },
+    {
+      "requested_id": 23308,
+      "client_id": 22423,
+      "server_ids": [
+        23308
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        149796,
+        149797,
+        128880,
+        126065
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\house-wall-orientation-audit-20260904\\server-23308_client-22423.png",
+      "size": 1123,
+      "sha256": "42FC5C332D9913CF1BCCCA3BD27A9E18FF5B80EB65541C56EC2AC9E548E11288"
+    },
+    {
+      "requested_id": 23309,
+      "client_id": 22424,
+      "server_ids": [
+        23309
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        149798,
+        126061,
+        149799,
+        126067
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\house-wall-orientation-audit-20260904\\server-23309_client-22424.png",
+      "size": 1226,
+      "sha256": "173ED670B24A0279A36E9AF5C4E1AC3C5DF1C8F31EBB898F9EEDD26EF2B1F443"
+    },
+    {
+      "requested_id": 23310,
+      "client_id": 22425,
+      "server_ids": [
+        23310
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        149800,
+        149801,
+        128971,
+        127466
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\house-wall-orientation-audit-20260904\\server-23310_client-22425.png",
+      "size": 1124,
+      "sha256": "244BFEFC6DAE1FA1DDED2F73976E63557F08D7692B601FBBAB4EEE738FFAB1C5"
+    },
+    {
+      "requested_id": 23311,
+      "client_id": 22426,
+      "server_ids": [
+        23311
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        149802,
+        127463,
+        149803,
+        127468
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\house-wall-orientation-audit-20260904\\server-23311_client-22426.png",
+      "size": 1231,
+      "sha256": "816899FF37FBA609AC77DCAD8AAC8C47CE6A3872D1616D3F866BEFF5563BEF55"
+    },
+    {
+      "requested_id": 23312,
+      "client_id": 22427,
+      "server_ids": [
+        23312
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        149804,
+        149805,
+        128916,
+        126003
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\house-wall-orientation-audit-20260904\\server-23312_client-22427.png",
+      "size": 1132,
+      "sha256": "173EC97310DD0BF8177C96CC89E6C79B46D672E3DA8531D9691318FC562C0C7D"
+    },
+    {
+      "requested_id": 23313,
+      "client_id": 22428,
+      "server_ids": [
+        23313
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        149806,
+        126001,
+        149807,
+        126005
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\house-wall-orientation-audit-20260904\\server-23313_client-22428.png",
+      "size": 1348,
+      "sha256": "71CB151818FA5267F645436B9EF89F87AD11267885A2BA21DCAF859670931FE7"
+    },
+    {
+      "requested_id": 23314,
+      "client_id": 22429,
+      "server_ids": [
+        23314
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        149808,
+        149809,
+        128906,
+        126047
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\house-wall-orientation-audit-20260904\\server-23314_client-22429.png",
+      "size": 1126,
+      "sha256": "79316D04B6EB114CD0F7BD6B031B6666EC4B3DB12495187C09590C1C5F5C7E0E"
+    },
+    {
+      "requested_id": 23315,
+      "client_id": 22430,
+      "server_ids": [
+        23315
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        149810,
+        126045,
+        149811,
+        126049
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\house-wall-orientation-audit-20260904\\server-23315_client-22430.png",
+      "size": 1351,
+      "sha256": "18F35D2818861D7C3EC87F2BD681E06A11946786512EAB95DB39CCF86B0157AF"
+    },
+    {
+      "requested_id": 23316,
+      "client_id": 22431,
+      "server_ids": [
+        23316
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        149812,
+        149813,
+        128892,
+        126055
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\house-wall-orientation-audit-20260904\\server-23316_client-22431.png",
+      "size": 1131,
+      "sha256": "DB9BD438B810C360E9D80EB85D87C173C20B7008AB793C79F46D99FB66EA4A7C"
+    },
+    {
+      "requested_id": 23317,
+      "client_id": 22432,
+      "server_ids": [
+        23317
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        149814,
+        126053,
+        149815,
+        126057
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\house-wall-orientation-audit-20260904\\server-23317_client-22432.png",
+      "size": 1334,
+      "sha256": "65548CFFD5C8EB40A78B4D6E653945DFAA122946CC4E18A571700C96AD9996A2"
+    },
+    {
+      "requested_id": 23328,
+      "client_id": 22443,
+      "server_ids": [
+        23328
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 96,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        149834,
+        149825,
+        149826,
+        128880,
+        126065,
+        0
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\house-wall-orientation-audit-20260904\\server-23328_client-22443.png",
+      "size": 1031,
+      "sha256": "1250DE10462C42B1BD0D605A461B49AC3A943D01DB1B27D8D6DC00A80F743D95"
+    },
+    {
+      "requested_id": 23347,
+      "client_id": 22462,
+      "server_ids": [
+        23347
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        149865,
+        149866,
+        149867,
+        126057
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\house-wall-orientation-audit-20260904\\server-23347_client-22462.png",
+      "size": 1262,
+      "sha256": "56A6900CEA5CF0B6F28D660AF9B7B3D67F0177647EC70EC76A60F3648078FCEE"
+    },
+    {
+      "requested_id": 23367,
+      "client_id": 22482,
+      "server_ids": [
+        23367
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        149911,
+        126053,
+        149912,
+        126057
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\house-wall-orientation-audit-20260904\\server-23367_client-22482.png",
+      "size": 1253,
+      "sha256": "4EAF9BE9D5D6B5FDE56EFFF1FD165A6168FA48BF47E7FA6CCCA6863AC210122E"
+    },
+    {
+      "requested_id": 25181,
+      "client_id": 24296,
+      "server_ids": [
+        25181
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        236327,
+        236328,
+        236329,
+        236330
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\house-wall-orientation-audit-20260904\\server-25181_client-24296.png",
+      "size": 1556,
+      "sha256": "78561AC09512BFA1EE5F31880BF661CA492F916C7C586840EA0AA19E0DD0DC2E"
+    },
+    {
+      "requested_id": 25182,
+      "client_id": 24297,
+      "server_ids": [
+        25182
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        236331,
+        236332,
+        236333,
+        236334
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\house-wall-orientation-audit-20260904\\server-25182_client-24297.png",
+      "size": 1318,
+      "sha256": "5F625AD8254CF4CCC54A3D46FDA0075CCE7913E3172705C26E24D029A15D6F55"
+    },
+    {
+      "requested_id": 25183,
+      "client_id": 24298,
+      "server_ids": [
+        25183
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        236347,
+        0,
+        236348,
+        236349
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\house-wall-orientation-audit-20260904\\server-25183_client-24298.png",
+      "size": 959,
+      "sha256": "FBA562CD4DD483414341683F950A39388BA09AD7979348FF52EDB14C10B58B13"
+    },
+    {
+      "requested_id": 25184,
+      "client_id": 24299,
+      "server_ids": [
+        25184
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        236350,
+        236351,
+        236352,
+        236353
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\house-wall-orientation-audit-20260904\\server-25184_client-24299.png",
+      "size": 1269,
+      "sha256": "7ECC5AD7F8DF692C0C6E10868773D6193C74CF27D3CE7BFE83E37E09CB748BCB"
+    },
+    {
+      "requested_id": 25185,
+      "client_id": 24300,
+      "server_ids": [
+        25185
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        236343,
+        236344,
+        236345,
+        236346
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\house-wall-orientation-audit-20260904\\server-25185_client-24300.png",
+      "size": 1715,
+      "sha256": "165B8E5B3B82B92A098C903EE6E4B6E8BAF87EECEEFEE3E71B1E0A8E038B17AE"
+    },
+    {
+      "requested_id": 25186,
+      "client_id": 24301,
+      "server_ids": [
+        25186
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        236354,
+        236355,
+        236356,
+        236357
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\house-wall-orientation-audit-20260904\\server-25186_client-24301.png",
+      "size": 1456,
+      "sha256": "F3E860E3982D9B49570582F838AD7EDFBF0F3B7C6E469C674817C3FCF87A4AA0"
+    },
+    {
+      "requested_id": 25187,
+      "client_id": 24302,
+      "server_ids": [
+        25187
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        236358,
+        236359,
+        0,
+        236360
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\house-wall-orientation-audit-20260904\\server-25187_client-24302.png",
+      "size": 842,
+      "sha256": "8D935604598651E1CBF1350933282791CB96D5E72A1DBFCC2752D66D3519F225"
+    },
+    {
+      "requested_id": 25188,
+      "client_id": 24303,
+      "server_ids": [
+        25188
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 128,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 2,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        236321,
+        236322,
+        0,
+        236323,
+        236324,
+        236325,
+        0,
+        236326
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\house-wall-orientation-audit-20260904\\server-25188_client-24303.png",
+      "size": 2995,
+      "sha256": "B4AA26B02A9C2CDEED666B18C085C0C1C7416F4DBEA92CD76CF6EF6682381475"
+    },
+    {
+      "requested_id": 25189,
+      "client_id": 24304,
+      "server_ids": [
+        25189
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 128,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 2,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        236313,
+        236314,
+        236315,
+        236316,
+        236317,
+        236318,
+        236319,
+        236320
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\house-wall-orientation-audit-20260904\\server-25189_client-24304.png",
+      "size": 2923,
+      "sha256": "BE9020389DF721D9758B64E13B73C155098B26790872C5EF24C9DD4E9AE1A0E0"
+    },
+    {
+      "requested_id": 25190,
+      "client_id": 24305,
+      "server_ids": [
+        25190
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 128,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 2,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        236361,
+        236362,
+        236363,
+        236364,
+        236365,
+        236366,
+        236367,
+        236368
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\house-wall-orientation-audit-20260904\\server-25190_client-24305.png",
+      "size": 3370,
+      "sha256": "E55B4F8E7EE7A0AB17F96424386B0DAA1445495CD52C1E17221558C30E3708F3"
+    },
+    {
+      "requested_id": 25191,
+      "client_id": 24306,
+      "server_ids": [
+        25191
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 128,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 2,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        236369,
+        0,
+        236370,
+        236371,
+        236372,
+        0,
+        236373,
+        236374
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\house-wall-orientation-audit-20260904\\server-25191_client-24306.png",
+      "size": 3466,
+      "sha256": "291314F6BDCEFB82BB7244F880CC84DBFF5BF2B204EC6A48E26247BA0471D007"
+    }
+  ],
+  "sources": {
+    "dat": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.dat",
+      "sha256": "AC1AE8A37F6B49C9CAA2DE3663E459FEF0CC0B9092E1E1E1FBF0B0F61C0F7540"
+    },
+    "spr": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.spr",
+      "sha256": "B3CD10EF202DFEDE5F3D1CD6CBEA533229F8899DA51EDC5FEDF4F55DD8BE9D9D"
+    }
+  },
+  "passed": true
+}

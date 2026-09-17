@@ -1,0 +1,208 @@
+﻿server_id	client_id	name	otb_flags	dat_flags
+14883	14000	Ice ramp	block_pathfind|has_height|always_on_top	on_bottom|unmoveable|block_pathfind|has_elevation|mini_map
+14884	14001	Ramp	has_height|always_on_top	on_bottom|unmoveable|has_elevation|mini_map
+14885	14002	Ramp	block_pathfind|has_height|always_on_top	on_bottom|unmoveable|block_pathfind|has_elevation|mini_map
+14886	14003	Ramp	has_height|always_on_top	on_bottom|unmoveable|has_elevation|mini_map
+14887	14004	Ramp	block_pathfind|has_height|always_on_top	on_bottom|unmoveable|block_pathfind|has_elevation|mini_map
+14888	14005	Ramp	has_height|always_on_top	on_bottom|unmoveable|has_elevation|mini_map
+14889	14006	Ramp	block_pathfind|has_height|always_on_top	on_bottom|unmoveable|block_pathfind|has_elevation|mini_map
+14890	14007	Ramp	has_height|always_on_top	on_bottom|unmoveable|has_elevation|mini_map
+14935	14050		has_height|always_on_top|look_through	on_bottom|unmoveable|has_elevation|mini_map|ignore_look
+14936	14051		has_height|always_on_top|look_through	on_bottom|unmoveable|has_elevation|mini_map|ignore_look
+14958	14073		block_pathfind|has_height|always_on_top	on_bottom|unmoveable|block_pathfind|has_elevation|mini_map
+14959	14074		has_height|always_on_top	on_bottom|unmoveable|has_elevation|mini_map
+14960	14075		block_pathfind|has_height|always_on_top	on_bottom|unmoveable|block_pathfind|has_elevation|mini_map
+14961	14076		has_height|always_on_top	on_bottom|unmoveable|has_elevation|mini_map
+14962	14077		block_pathfind|has_height|always_on_top	on_bottom|unmoveable|block_pathfind|has_elevation|mini_map
+14963	14078		has_height|always_on_top	on_bottom|unmoveable|has_elevation|mini_map
+14964	14079		block_pathfind|has_height|always_on_top	on_bottom|unmoveable|block_pathfind|has_elevation|mini_map
+14965	14080		has_height|always_on_top	on_bottom|unmoveable|has_elevation|mini_map
+15794	14909		has_height|always_on_top	on_bottom|unmoveable|has_elevation|mini_map
+15795	14910		block_pathfind|has_height|always_on_top	on_bottom|unmoveable|block_pathfind|has_elevation|mini_map
+15796	14911		has_height|always_on_top	on_bottom|unmoveable|has_elevation|mini_map
+15797	14912		block_pathfind|has_height|always_on_top	on_bottom|unmoveable|block_pathfind|has_elevation|mini_map
+15798	14913		has_height|always_on_top	on_bottom|unmoveable|has_elevation|mini_map
+15799	14914		block_pathfind|has_height|always_on_top	on_bottom|unmoveable|block_pathfind|has_elevation|mini_map
+15800	14915		has_height|always_on_top	on_bottom|unmoveable|has_elevation|mini_map
+15801	14916		block_pathfind|has_height|always_on_top	on_bottom|unmoveable|block_pathfind|has_elevation|mini_map
+16254	15369	Ramp	block_pathfind|has_height|always_on_top	on_bottom|unmoveable|block_pathfind|has_elevation|mini_map
+16255	15370	Ramp	has_height|always_on_top	on_bottom|unmoveable|has_elevation|mini_map
+16256	15371	Ramp	block_pathfind|has_height|always_on_top	on_bottom|unmoveable|block_pathfind|has_elevation|mini_map
+16257	15372	Ramp	has_height|always_on_top	on_bottom|unmoveable|has_elevation|mini_map
+16258	15373	Ramp	block_pathfind|has_height|always_on_top	on_bottom|unmoveable|block_pathfind|has_elevation|mini_map
+16259	15374	Ramp	has_height|always_on_top	on_bottom|unmoveable|has_elevation|mini_map
+16260	15375	Ramp	block_pathfind|has_height|always_on_top	on_bottom|unmoveable|block_pathfind|has_elevation|mini_map
+16261	15376		has_height|always_on_top	on_bottom|unmoveable|has_elevation|mini_map
+16274	15389	Ramp	block_pathfind|has_height|always_on_top	on_bottom|unmoveable|block_pathfind|has_elevation|mini_map
+16275	15390	Ramp	has_height|always_on_top	on_bottom|unmoveable|has_elevation|mini_map
+16276	15391	Ramp	block_pathfind|has_height|always_on_top	on_bottom|unmoveable|block_pathfind|has_elevation|mini_map
+16277	15392	Ramp	has_height|always_on_top	on_bottom|unmoveable|has_elevation|mini_map
+16462	15577		has_height	ground|unmoveable|has_elevation
+16463	15578		has_height	ground|unmoveable|has_elevation
+16543	15658		has_height	unmoveable|has_elevation
+16544	15659		has_height	unmoveable|has_elevation
+16545	15660		has_height	unmoveable|has_elevation
+16546	15661		has_height	unmoveable|has_elevation
+16947	16062	Ramp	block_pathfind|has_height|always_on_top	on_bottom|unmoveable|block_pathfind|has_elevation|mini_map
+16948	16063	Ramp	has_height|always_on_top	on_bottom|unmoveable|has_elevation|mini_map
+16949	16064	Ramp	block_pathfind|has_height|always_on_top	on_bottom|unmoveable|block_pathfind|has_elevation|mini_map
+16950	16065	Ramp	has_height|always_on_top	on_bottom|unmoveable|has_elevation|mini_map
+16951	16066	Ramp	block_pathfind|has_height|always_on_top	on_bottom|unmoveable|block_pathfind|has_elevation|mini_map
+16952	16067	Ramp	has_height|always_on_top	on_bottom|unmoveable|has_elevation|mini_map
+16953	16068	Ramp	block_pathfind|has_height|always_on_top	on_bottom|unmoveable|block_pathfind|has_elevation|mini_map
+16954	16069	Ramp	has_height|always_on_top	on_bottom|unmoveable|has_elevation|mini_map
+18168	17283		block_solid|has_height	unpassable|unmoveable|has_elevation|mini_map
+18172	17287		block_solid|has_height	unpassable|unmoveable|has_elevation|mini_map
+19004	18119		has_height	ground|unmoveable|has_elevation|mini_map
+19005	18120		has_height	ground|unmoveable|has_elevation|mini_map
+19006	18121		has_height	ground|unmoveable|has_elevation|mini_map
+19007	18122		has_height	ground|unmoveable|has_elevation|mini_map
+19008	18123		has_height	ground|unmoveable|has_elevation|mini_map
+19009	18124		has_height	ground|unmoveable|has_elevation|mini_map
+19010	18125		has_height	ground|unmoveable|has_elevation|mini_map
+19011	18126		has_height	ground|unmoveable|has_elevation|mini_map
+19012	18127		has_height	ground|unmoveable|has_elevation|mini_map
+19013	18128		has_height	ground|unmoveable|has_elevation|mini_map
+19014	18129		has_height	ground|unmoveable|has_elevation|mini_map
+19015	18130		has_height	ground|unmoveable|has_elevation|mini_map
+19016	18131		has_height	ground|unmoveable|has_elevation|mini_map
+19017	18132		has_height	ground|unmoveable|has_elevation|mini_map
+19018	18133		has_height	ground|unmoveable|has_elevation|mini_map
+19832	18947		block_solid|block_projectile|block_pathfind|has_height|always_on_top	on_bottom|unpassable|unmoveable|block_missile|block_pathfind|has_elevation
+19833	18948		block_solid|block_projectile|block_pathfind|has_height|always_on_top	on_bottom|unpassable|unmoveable|block_missile|block_pathfind|has_elevation
+19834	18949		block_solid|block_projectile|block_pathfind|has_height|always_on_top	on_bottom|unpassable|unmoveable|block_missile|block_pathfind|has_elevation
+19835	18950		block_solid|block_projectile|block_pathfind|has_height|always_on_top	on_bottom|unpassable|unmoveable|block_missile|block_pathfind|has_elevation
+19836	18951		block_solid|block_projectile|block_pathfind|has_height|always_on_top	on_bottom|unpassable|unmoveable|block_missile|block_pathfind|has_elevation
+19837	18952		block_solid|block_projectile|block_pathfind|has_height|always_on_top	on_bottom|unpassable|unmoveable|block_missile|block_pathfind|has_elevation
+19840	18955		block_solid|block_pathfind|has_height|always_on_top	on_bottom|unpassable|unmoveable|block_pathfind|has_elevation
+19841	18956		block_solid|block_pathfind|has_height|always_on_top	on_bottom|unpassable|unmoveable|block_pathfind|has_elevation
+19842	18957		block_solid|block_pathfind|has_height|always_on_top	on_bottom|unpassable|unmoveable|block_pathfind|has_elevation
+19843	18958		block_solid|block_pathfind|has_height|always_on_top	on_bottom|unpassable|unmoveable|block_pathfind|has_elevation
+19844	18959		block_solid|block_pathfind|has_height|always_on_top	on_bottom|unpassable|unmoveable|block_pathfind|has_elevation
+19845	18960		block_solid|block_pathfind|has_height|always_on_top	on_bottom|unpassable|unmoveable|block_pathfind|has_elevation
+19846	18961		block_solid|block_pathfind|has_height|always_on_top	on_bottom|unpassable|unmoveable|block_pathfind|has_elevation
+19847	18962		block_solid|block_pathfind|has_height|always_on_top	on_bottom|unpassable|unmoveable|block_pathfind|has_elevation
+19848	18963		block_solid|block_pathfind|has_height|always_on_top	on_bottom|unpassable|unmoveable|block_pathfind|has_elevation
+19851	18966		block_solid|block_pathfind|has_height|always_on_top	on_bottom|unpassable|unmoveable|block_pathfind|has_elevation
+19852	18967		block_solid|block_pathfind|has_height|always_on_top	on_bottom|unpassable|unmoveable|block_pathfind|has_elevation
+19853	18968		block_solid|block_pathfind|has_height|always_on_top	on_bottom|unpassable|unmoveable|block_pathfind|has_elevation
+19854	18969		block_solid|block_pathfind|has_height|always_on_top	on_bottom|unpassable|unmoveable|block_pathfind|has_elevation
+19855	18970		block_solid|block_pathfind|has_height|always_on_top	on_bottom|unpassable|unmoveable|block_pathfind|has_elevation
+19858	18973		block_solid|block_pathfind|has_height|always_on_top	on_bottom|unpassable|unmoveable|block_pathfind|has_elevation
+20723	19838		has_height|walk_stack	ground|unmoveable|has_elevation|mini_map|full_ground
+20726	19841		has_height|walk_stack	ground|unmoveable|has_elevation|mini_map|full_ground
+21544	20659		has_height|always_on_top	on_bottom|unmoveable|has_elevation
+21545	20660		has_height|always_on_top	on_bottom|unmoveable|has_elevation
+21546	20661		has_height|always_on_top	on_bottom|unmoveable|has_elevation
+21547	20662		has_height|always_on_top	on_bottom|unmoveable|has_elevation
+21548	20663		has_height|always_on_top	on_bottom|unmoveable|has_elevation
+21549	20664		has_height|always_on_top	on_bottom|unmoveable|has_elevation
+21550	20665		has_height|always_on_top	on_bottom|unmoveable|has_elevation
+21551	20666		has_height|always_on_top	on_bottom|unmoveable|has_elevation
+21552	20667		has_height|always_on_top	on_bottom|unmoveable|has_elevation
+21553	20668		has_height|always_on_top	on_bottom|unmoveable|has_elevation
+21554	20669		has_height|always_on_top	on_bottom|unmoveable|has_elevation
+21555	20670		has_height|always_on_top	on_bottom|unmoveable|has_elevation
+21556	20671		has_height|always_on_top	on_bottom|unmoveable|has_elevation
+21557	20672		has_height|always_on_top	on_bottom|unmoveable|has_elevation
+21558	20673		has_height|always_on_top	on_bottom|unmoveable|has_elevation
+21559	20674		has_height|always_on_top	on_bottom|unmoveable|has_elevation
+21560	20675		has_height|always_on_top	on_bottom|unmoveable|has_elevation
+21561	20676		has_height|always_on_top	on_bottom|unmoveable|has_elevation
+21564	20679		has_height|always_on_top	on_bottom|unmoveable|has_elevation
+21565	20680		has_height|always_on_top	on_bottom|unmoveable|has_elevation
+21568	20683		has_height|always_on_top	on_bottom|unmoveable|has_elevation
+21569	20684		has_height|always_on_top	on_bottom|unmoveable|has_elevation
+21570	20685		has_height|always_on_top	on_bottom|unmoveable|has_elevation
+21571	20686		has_height|always_on_top	on_bottom|unmoveable|has_elevation
+21572	20687		has_height|always_on_top	on_bottom|unmoveable|has_elevation
+21573	20688		has_height|always_on_top	on_bottom|unmoveable|has_elevation
+21575	20690		has_height|always_on_top	on_bottom|unmoveable|has_elevation
+21576	20691		has_height|always_on_top	on_bottom|unmoveable|has_elevation
+21577	20692		has_height|always_on_top	on_bottom|unmoveable|has_elevation
+21578	20693		has_height|always_on_top	on_bottom|unmoveable|has_elevation
+21580	20695		has_height|always_on_top	on_bottom|unmoveable|has_elevation
+21581	20696		has_height|always_on_top	on_bottom|unmoveable|has_elevation
+21582	20697		has_height|always_on_top	on_bottom|unmoveable|has_elevation
+21583	20698		has_height|always_on_top	on_bottom|unmoveable|has_elevation
+21584	20699		has_height|always_on_top	on_bottom|unmoveable|has_elevation
+21585	20700		has_height|always_on_top	on_bottom|unmoveable|has_elevation
+21586	20701		has_height|always_on_top	on_bottom|unmoveable|has_elevation
+21587	20702		has_height|always_on_top	on_bottom|unmoveable|has_elevation
+21588	20703		has_height|always_on_top	on_bottom|unmoveable|has_elevation
+21589	20704		has_height|always_on_top	on_bottom|unmoveable|has_elevation
+21590	20705		has_height|always_on_top	on_bottom|unmoveable|has_elevation
+21591	20706		has_height|always_on_top	on_bottom|unmoveable|has_elevation
+21593	20708		has_height|always_on_top	on_bottom|unmoveable|has_elevation
+21594	20709		has_height|always_on_top	on_bottom|unmoveable|has_elevation
+21595	20710		has_height|always_on_top	on_bottom|unmoveable|has_elevation
+21596	20711		has_height|always_on_top	on_bottom|unmoveable|has_elevation
+21597	20712		has_height|always_on_top	on_bottom|unmoveable|has_elevation
+21598	20713		has_height|always_on_top	on_bottom|unmoveable|has_elevation
+21603	20718		has_height|always_on_top	on_bottom|unmoveable|has_elevation
+21606	20721		has_height|always_on_top	on_bottom|unmoveable|has_elevation
+21608	20723		has_height|always_on_top	on_bottom|unmoveable|has_elevation
+21609	20724		has_height|always_on_top	on_bottom|unmoveable|has_elevation
+21610	20725		has_height|always_on_top	on_bottom|unmoveable|has_elevation
+21611	20726		has_height|always_on_top	on_bottom|unmoveable|has_elevation
+21614	20729		has_height|always_on_top	on_bottom|unmoveable|has_elevation
+21615	20730		has_height|always_on_top	on_bottom|unmoveable|has_elevation
+21619	20734		has_height|always_on_top	on_bottom|unmoveable|has_elevation
+21620	20735		has_height|always_on_top	on_bottom|unmoveable|has_elevation
+21621	20736		has_height|always_on_top	on_bottom|unmoveable|has_elevation
+21623	20738		has_height|always_on_top	on_bottom|unmoveable|has_elevation
+21624	20739		has_height|always_on_top	on_bottom|unmoveable|has_elevation
+21625	20740		has_height|always_on_top	on_bottom|unmoveable|has_elevation
+21626	20741		has_height|always_on_top	on_bottom|unmoveable|has_elevation
+21628	20743		has_height|always_on_top	on_bottom|unmoveable|has_elevation
+21629	20744		has_height|always_on_top	on_bottom|unmoveable|has_elevation
+21630	20745		has_height|always_on_top	on_bottom|unmoveable|has_elevation
+21631	20746		has_height|always_on_top	on_bottom|unmoveable|has_elevation
+21666	20781		has_height|always_on_top	on_bottom|unmoveable|has_elevation
+21667	20782		has_height|always_on_top	on_bottom|unmoveable|has_elevation
+21671	20786		has_height|always_on_top	on_bottom|unmoveable|has_elevation
+21672	20787		has_height|always_on_top	on_bottom|unmoveable|has_elevation
+21676	20791		has_height|always_on_top	on_bottom|unmoveable|has_elevation
+22118	21233		block_solid|block_pathfind|has_height|always_on_top	on_bottom|unpassable|unmoveable|block_pathfind|has_elevation
+22196	21311		block_pathfind|has_height|always_on_top	on_bottom|unmoveable|block_pathfind|has_elevation
+22197	21312		block_pathfind|has_height|always_on_top	on_bottom|unmoveable|block_pathfind|has_elevation
+22198	21313		block_pathfind|has_height|always_on_top	on_bottom|unmoveable|block_pathfind|has_elevation
+22199	21314		block_pathfind|has_height|always_on_top	on_bottom|unmoveable|block_pathfind|has_elevation
+22200	21315		block_pathfind|has_height|always_on_top	on_bottom|unmoveable|block_pathfind|has_elevation
+22201	21316		block_pathfind|has_height|always_on_top	on_bottom|unmoveable|block_pathfind|has_elevation
+22202	21317		block_pathfind|has_height|always_on_top	on_bottom|unmoveable|block_pathfind|has_elevation
+22203	21318		block_pathfind|has_height|always_on_top	on_bottom|unmoveable|block_pathfind|has_elevation
+22204	21319		block_pathfind|has_height|always_on_top	on_bottom|unmoveable|block_pathfind|has_elevation
+22205	21320		block_pathfind|has_height|always_on_top	on_bottom|unmoveable|block_pathfind|has_elevation
+22206	21321		block_pathfind|has_height|always_on_top	on_bottom|unmoveable|block_pathfind|has_elevation
+22207	21322		block_pathfind|has_height|always_on_top	on_bottom|unmoveable|block_pathfind|has_elevation
+22208	21323		block_pathfind|has_height|always_on_top	on_bottom|unmoveable|block_pathfind|has_elevation
+23593	22708		block_solid|has_height|always_on_top	on_bottom|unpassable|unmoveable|has_elevation|mini_map
+23995	23110		has_height|always_on_top	on_bottom|unmoveable|has_elevation
+23996	23111		has_height|always_on_top	on_bottom|unmoveable|has_elevation
+23997	23112		has_height|always_on_top	on_bottom|unmoveable|has_elevation
+23998	23113		has_height|always_on_top	on_bottom|unmoveable|has_elevation
+23999	23114		has_height|always_on_top	on_bottom|unmoveable|has_elevation
+24000	23115		has_height|always_on_top	on_bottom|unmoveable|has_elevation
+24024	23139		has_height|always_on_top	on_bottom|unmoveable|has_elevation
+24025	23140		has_height|always_on_top	on_bottom|unmoveable|has_elevation
+24031	23146		block_solid|block_projectile|block_pathfind|has_height|always_on_top	on_bottom|unpassable|unmoveable|block_missile|block_pathfind|has_elevation
+24032	23147		block_solid|block_projectile|block_pathfind|has_height|always_on_top	on_bottom|unpassable|unmoveable|block_missile|block_pathfind|has_elevation
+24978	24093	Character Random Box	has_height|pickupable|movable|stackable	stackable|pickupable|has_elevation
+24979	24094	Character Choice Box	has_height|pickupable|movable|stackable	stackable|pickupable|has_elevation
+24980	24095		has_height|pickupable|movable|stackable	stackable|pickupable|has_elevation
+24981	24096		has_height|pickupable|movable|stackable	stackable|pickupable|has_elevation
+25014	24129		has_height|always_on_top	on_bottom|unmoveable|has_elevation|mini_map
+25015	24130		has_height|always_on_top	on_bottom|unmoveable|has_elevation|mini_map
+25016	24131		has_height|always_on_top	on_bottom|unmoveable|has_elevation|mini_map
+25017	24132		has_height|pickupable|always_on_top	on_bottom|unmoveable|pickupable|has_elevation|mini_map
+25100	24215	Depot Totem	block_solid|has_height	container|unpassable|unmoveable|has_offset|has_elevation|lens_help
+25326	24441		has_height|always_on_top	on_bottom|unmoveable|has_elevation|mini_map
+25327	24442		has_height|always_on_top	on_bottom|unmoveable|has_elevation|mini_map
+25328	24443		has_height|always_on_top	on_bottom|unmoveable|has_elevation|mini_map
+25329	24444		has_height|always_on_top	on_bottom|unmoveable|has_elevation|mini_map
+25330	24445		has_height|always_on_top	on_bottom|unmoveable|has_elevation|mini_map
+25331	24446		has_height|always_on_top	on_bottom|unmoveable|has_elevation|mini_map
+25332	24447		has_height|always_on_top	on_bottom|unmoveable|has_elevation|mini_map
+25333	24448		has_height|always_on_top	on_bottom|unmoveable|has_elevation|mini_map
+25395	24510		has_height|always_on_top	on_bottom|unmoveable|has_elevation

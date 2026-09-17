@@ -1,0 +1,169 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "profile": {
+    "key": "tibia-860-v2-custom-extended",
+    "client_version": 860,
+    "label": "Tibia 8.60 v2 customizado com features OTFI",
+    "dat_signature": "0x4C2C7993",
+    "spr_signature": "0x4C220594",
+    "metadata_reader": 5,
+    "otb_version_hint": "8.60"
+  },
+  "category": "items",
+  "id_kind": "server",
+  "requested_ids": [
+    14638,
+    14639,
+    14640,
+    14641,
+    14642,
+    14643
+  ],
+  "output_dir": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\kijin-bag-candidates",
+  "exported_count": 6,
+  "exported": [
+    {
+      "requested_id": 14638,
+      "client_id": 13759,
+      "server_ids": [
+        14638
+      ],
+      "name": "Kijin Backpack",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        254587
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\kijin-bag-candidates\\server-14638_client-13759_kijin-backpack.png",
+      "size": 777,
+      "sha256": "9F3B4230405D0A24463D6870ABD1DBD4FE64A7D0C0B699E068078202DC35547E"
+    },
+    {
+      "requested_id": 14639,
+      "client_id": 13760,
+      "server_ids": [
+        14639
+      ],
+      "name": "Kijin Shuriken Backpack",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        254588
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\kijin-bag-candidates\\server-14639_client-13760_kijin-shuriken-backpack.png",
+      "size": 840,
+      "sha256": "69A335F7E3EADABFB532D86D1C16CE2C5307928489FF7AE38CF118620D03D472"
+    },
+    {
+      "requested_id": 14640,
+      "client_id": 13761,
+      "server_ids": [
+        14640
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        81131
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\kijin-bag-candidates\\server-14640_client-13761.png",
+      "size": 341,
+      "sha256": "62691600E104ABBA9FD555EDCC4D62B07E0F5F39422780F64B4E9173F54B5A8F"
+    },
+    {
+      "requested_id": 14641,
+      "client_id": 13762,
+      "server_ids": [
+        14641
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        110303
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\kijin-bag-candidates\\server-14641_client-13762.png",
+      "size": 1124,
+      "sha256": "CC7782DB55A9E2CA26387C5E1204B524F760AAFD0C0419895C03A5B84EE841E5"
+    },
+    {
+      "requested_id": 14642,
+      "client_id": 13763,
+      "server_ids": [
+        14642
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        81131
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\kijin-bag-candidates\\server-14642_client-13763.png",
+      "size": 341,
+      "sha256": "62691600E104ABBA9FD555EDCC4D62B07E0F5F39422780F64B4E9173F54B5A8F"
+    },
+    {
+      "requested_id": 14643,
+      "client_id": 13764,
+      "server_ids": [
+        14643
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        110304
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\kijin-bag-candidates\\server-14643_client-13764.png",
+      "size": 1124,
+      "sha256": "B277AB22756628ABD76F1AEB79BC4B4E647111C8D41173E20D6B842580B3E60A"
+    }
+  ],
+  "sources": {
+    "dat": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.dat",
+      "sha256": "01A2756D1BEED55E83FE7197D5CA7E4581FB866E1C742B4C096811F2DCBF9336"
+    },
+    "spr": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.spr",
+      "sha256": "D61107796ECB75CA8CBB0BD7E4C0F68F361ADE5DECC63C919858C6367E47599E"
+    }
+  },
+  "passed": true
+}

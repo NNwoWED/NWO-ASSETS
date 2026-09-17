@@ -232,6 +232,8 @@ def split_vertical_animation_sheet(
     image: PngImage,
     frames: int,
     sprite_size: int = 32,
+    *,
+    max_dimension: int = MAX_ITEM_DIMENSION,
 ) -> tuple[list[bytes], int, int]:
     """Split a top-to-bottom frame sheet in the same order used by the DAT."""
 
@@ -242,10 +244,10 @@ def split_vertical_animation_sheet(
             f"altura {image.height} não pode ser dividida em {frames} frames"
         )
     frame_height = image.height // frames
-    if image.width > MAX_ITEM_DIMENSION or frame_height > MAX_ITEM_DIMENSION:
+    if image.width > max_dimension or frame_height > max_dimension:
         raise FormatError(
             f"cada frame possui {image.width}x{frame_height}; limite "
-            f"{MAX_ITEM_DIMENSION}x{MAX_ITEM_DIMENSION}"
+            f"{max_dimension}x{max_dimension}"
         )
     if image.width % sprite_size or frame_height % sprite_size:
         raise FormatError(

@@ -1,0 +1,89 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "profile": {
+    "key": "tibia-860-v2-custom-extended",
+    "client_version": 860,
+    "label": "Tibia 8.60 v2 customizado com features OTFI",
+    "dat_signature": "0x4C2C7993",
+    "spr_signature": "0x4C220594",
+    "metadata_reader": 5,
+    "otb_version_hint": "8.60"
+  },
+  "category": "items",
+  "id_kind": "server",
+  "requested_ids": [
+    14574
+  ],
+  "output_dir": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\carvalho-da-nevoa-after",
+  "exported_count": 1,
+  "exported": [
+    {
+      "requested_id": 14574,
+      "client_id": 13697,
+      "server_ids": [
+        14574
+      ],
+      "name": "Carvalho da Névoa",
+      "group_index": 0,
+      "width": 96,
+      "height": 384,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 4,
+      "sprite_ids": [
+        254462,
+        254463,
+        254464,
+        254465,
+        254466,
+        254467,
+        254468,
+        254469,
+        254470,
+        254471,
+        254472,
+        254473,
+        254474,
+        254475,
+        254476,
+        254477,
+        254478,
+        254479,
+        254480,
+        254481,
+        254482,
+        254483,
+        254484,
+        254485,
+        254486,
+        254487,
+        254488,
+        254489,
+        254490,
+        254491,
+        254492,
+        254493,
+        254494,
+        254495,
+        254496,
+        254497
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\carvalho-da-nevoa-after\\server-14574_client-13697_carvalho-da-nevoa.png",
+      "size": 32068,
+      "sha256": "3EE23A9DE70DB02B25E18C2C994909D6DAEF96DB6EA8950A17AAF765DE4323D2"
+    }
+  ],
+  "sources": {
+    "dat": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.dat",
+      "sha256": "98F5D7BE7480C91680555E2EEF8CAD9322F6802C67B3AB7DAF624E6D3F663A9E"
+    },
+    "spr": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.spr",
+      "sha256": "E1BB34AB33418D1A4930C0502A520732F9DFD979079FE9858A63B095EA34B185"
+    }
+  },
+  "passed": true
+}

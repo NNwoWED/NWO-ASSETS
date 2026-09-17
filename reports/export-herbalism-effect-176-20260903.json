@@ -1,0 +1,87 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "profile": {
+    "key": "tibia-860-v2-custom-extended",
+    "client_version": 860,
+    "label": "Tibia 8.60 v2 customizado com features OTFI",
+    "dat_signature": "0x4C2C7993",
+    "spr_signature": "0x4C220594",
+    "metadata_reader": 5,
+    "otb_version_hint": "8.60"
+  },
+  "category": "effects",
+  "id_kind": "client",
+  "requested_ids": [
+    176
+  ],
+  "output_dir": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\effects",
+  "exported_count": 1,
+  "exported": [
+    {
+      "requested_id": 176,
+      "client_id": 176,
+      "server_ids": [],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 576,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 9,
+      "sprite_ids": [
+        0,
+        0,
+        251435,
+        0,
+        0,
+        0,
+        251436,
+        0,
+        0,
+        0,
+        251437,
+        251438,
+        251439,
+        251440,
+        251441,
+        0,
+        251442,
+        251443,
+        0,
+        0,
+        251444,
+        0,
+        0,
+        0,
+        251445,
+        251446,
+        0,
+        0,
+        251447,
+        251448,
+        251449,
+        0,
+        251450,
+        0,
+        251451,
+        251452
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\effects\\effect-176.png",
+      "size": 1559,
+      "sha256": "9C02706D3EB35B9634D539DCED11B6D7784149E0AB96A9CFD90B76BD3C0F0CA5"
+    }
+  ],
+  "sources": {
+    "dat": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.dat",
+      "sha256": "DFE37129C43364693FA8EF332232947954D183091A4C450FBDA04746A15AF2D7"
+    },
+    "spr": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.spr",
+      "sha256": "BD69B13DB9936F5463B2B255BFA52848BACEDCE9D0C4AC3ECA3A195A0382A1D6"
+    }
+  },
+  "passed": true
+}

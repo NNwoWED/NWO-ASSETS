@@ -1,0 +1,146 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "manifest": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\manifest-kunai-frame-height-replace-20260904.csv",
+  "profile": "tibia-860-v2-custom-extended",
+  "version_backup": {
+    "tool_version": "0.8.1",
+    "version_id": "20260904-135158-756181",
+    "created_at": "2026-09-04T13:52:10.302285-03:00",
+    "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20260904-135158-756181",
+    "rar_executable": "C:\\Program Files\\WinRAR\\Rar.exe",
+    "sources": [
+      {
+        "path": "assets/860/.gitattributes",
+        "size": 43,
+        "sha256": "D5636A3257287440945C5E017581545E5B0A3E2FDDDAE7C5EF8D90FF4DF3D32A"
+      },
+      {
+        "path": "assets/860/Tibia.dat",
+        "size": 4379154,
+        "sha256": "41B4A3A0E5D719EC4022EC978200837D675E854CF476CD8DDBF96E2DC1B658AD"
+      },
+      {
+        "path": "assets/860/Tibia.otfi",
+        "size": 185,
+        "sha256": "7743548835944BC799CB871A4E5DEF84F7AF76815031871B9CE74B5EC0E8ADD3"
+      },
+      {
+        "path": "assets/860/Tibia.spr",
+        "size": 433179994,
+        "sha256": "DFBD535F0EA389B69D32D491BB63E4E7F25F49CCE3D81AFB959863D8FC625231"
+      },
+      {
+        "path": "assets/items/force use.txt",
+        "size": 419,
+        "sha256": "BCB478FDF3F45ECA8D172AFD7A17D3F8CD520924EE0894752452B8FDC8F71959"
+      },
+      {
+        "path": "assets/items/items.otb",
+        "size": 1003404,
+        "sha256": "1F40B825FA20524F18B17A58C7C41DA7CF5A4C7F6310D2391193545A741A4ACA"
+      },
+      {
+        "path": "assets/world/mapanovo.otbm",
+        "size": 80109484,
+        "sha256": "FEB55A08B8A9ABD9CC129B23BB1D2ED067A903C9473F0D45F62B5CA16CDD6DB5"
+      }
+    ],
+    "archives": {
+      "860": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20260904-135158-756181\\860.rar",
+        "size": 83264913,
+        "sha256": "D48806BAF20A77A355D877D4D1644D3EBF070C5A7313CC93B63DE50494E6CC07"
+      },
+      "items": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20260904-135158-756181\\items.rar",
+        "size": 476836,
+        "sha256": "A8554376F45EDEABBC4CDD3567EE70441C09D15A25F3F8EAA186B2DE1484CA61"
+      },
+      "world": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20260904-135158-756181\\world.zip",
+        "size": 19340601,
+        "sha256": "DCFFBB6FB455DD8E051C696548FB4210CF88F7F802692C8F96FBEC7EFA8231DA"
+      }
+    },
+    "items_xml_excluded": true,
+    "world_entries": [
+      "mapanovo.otbm"
+    ],
+    "passed": true
+  },
+  "sprite_hash_gate": {
+    "sample_count": 64,
+    "mismatch_count": 0,
+    "mismatches": [],
+    "passed": true
+  },
+  "item_count": 2,
+  "new_sprite_count": 8,
+  "sprite_id_range": [
+    254563,
+    254570
+  ],
+  "items": [
+    {
+      "sequence": 1,
+      "client_id": 13701,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\quadro_de_kunais.png",
+      "file_sha256": "4D68DBFC62A0FDB58229109EC1D8A591E55CEFAF532BE3B16A890D2D122C9D68",
+      "pixels_sha256": "CA2B2A1A27D039BB30A90F2C949E7B07141D8C7E70B673BD80B3BEC3E466B876",
+      "image_width": 64,
+      "image_height": 64,
+      "width_tiles": 2,
+      "height_tiles": 2,
+      "frames": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_ids": [
+        254563,
+        254564,
+        254565,
+        254566
+      ],
+      "sprite_hash": "B6083BF33921BE24B0B7FD26A9AADBED"
+    },
+    {
+      "sequence": 2,
+      "client_id": 13702,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\quadro_de_kunais1.png",
+      "file_sha256": "1FB4133DECEB72C232572EF3FC71E76DF8F6C43721146D152358AE4E4658063A",
+      "pixels_sha256": "431C7DEAE4FDD0D59EE0E2A8B6C0AEA7AD4B676B393974283168C6E883BCCF93",
+      "image_width": 64,
+      "image_height": 64,
+      "width_tiles": 2,
+      "height_tiles": 2,
+      "frames": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_ids": [
+        254567,
+        254568,
+        254569,
+        254570
+      ],
+      "sprite_hash": "06FC70AC403C4DADC73431C7E0ABB529"
+    }
+  ],
+  "otb_nodes_updated": {
+    "13701": 1,
+    "13702": 1
+  },
+  "transaction_committed": true,
+  "output_hashes": {
+    "dat": "F53CFAD1A74623BC7DED5803263F0F37BC77A034917A2B29E77B1C754F836CE2",
+    "spr": "6DF5511A6F7DDB04430C34ACE5097012B22BCB21B8B22212430169EE497F29BD",
+    "otb": "68C91653BA418B1558E5F8961F3A6285F0795E9AC3E8F540FA9B0CE5665C609E"
+  },
+  "dat_non_targets_preserved": true,
+  "old_sprite_payload_preserved": true,
+  "new_sprite_pixels_verified": true,
+  "untouched_files_preserved": true,
+  "map_byte_equal": true,
+  "final_validation_passed": true,
+  "warnings": [],
+  "errors": [],
+  "passed": true
+}

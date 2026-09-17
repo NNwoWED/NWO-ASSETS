@@ -1,0 +1,124 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "manifest": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\manifest-copper-lamp-rotation-20260904.csv",
+  "profile": "tibia-860-v2-custom-extended",
+  "version_backup": {
+    "tool_version": "0.8.1",
+    "version_id": "20260904-132957-822328",
+    "created_at": "2026-09-04T13:30:10.734617-03:00",
+    "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20260904-132957-822328",
+    "rar_executable": "C:\\Program Files\\WinRAR\\Rar.exe",
+    "sources": [
+      {
+        "path": "assets/860/.gitattributes",
+        "size": 43,
+        "sha256": "D5636A3257287440945C5E017581545E5B0A3E2FDDDAE7C5EF8D90FF4DF3D32A"
+      },
+      {
+        "path": "assets/860/Tibia.dat",
+        "size": 4379137,
+        "sha256": "67215C8A4E498ADDCF8388324124C951C3F3DC0F9FD1C30AED70B770F12A4E75"
+      },
+      {
+        "path": "assets/860/Tibia.otfi",
+        "size": 185,
+        "sha256": "7743548835944BC799CB871A4E5DEF84F7AF76815031871B9CE74B5EC0E8ADD3"
+      },
+      {
+        "path": "assets/860/Tibia.spr",
+        "size": 433179054,
+        "sha256": "B3CD10EF202DFEDE5F3D1CD6CBEA533229F8899DA51EDC5FEDF4F55DD8BE9D9D"
+      },
+      {
+        "path": "assets/items/force use.txt",
+        "size": 419,
+        "sha256": "BCB478FDF3F45ECA8D172AFD7A17D3F8CD520924EE0894752452B8FDC8F71959"
+      },
+      {
+        "path": "assets/items/items.otb",
+        "size": 1003404,
+        "sha256": "B06A2D1CFF0C13B0910C59F52C1C4A5EF49979A1F41530D3E0A60E3405513B3F"
+      },
+      {
+        "path": "assets/world/mapanovo.otbm",
+        "size": 80109484,
+        "sha256": "FEB55A08B8A9ABD9CC129B23BB1D2ED067A903C9473F0D45F62B5CA16CDD6DB5"
+      }
+    ],
+    "archives": {
+      "860": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20260904-132957-822328\\860.rar",
+        "size": 83350250,
+        "sha256": "F0FCED95B1605C1370CFE736F7DA8BB74852962474E9D1EA1C9B53845E390AAB"
+      },
+      "items": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20260904-132957-822328\\items.rar",
+        "size": 476819,
+        "sha256": "FEFEC24E73BA567C8C822429274E9E0870ABD40001FFE5C13B9892B66C34258F"
+      },
+      "world": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20260904-132957-822328\\world.zip",
+        "size": 19340601,
+        "sha256": "DCFFBB6FB455DD8E051C696548FB4210CF88F7F802692C8F96FBEC7EFA8231DA"
+      }
+    },
+    "items_xml_excluded": true,
+    "world_entries": [
+      "mapanovo.otbm"
+    ],
+    "passed": true
+  },
+  "sprite_hash_gate": {
+    "sample_count": 64,
+    "mismatch_count": 0,
+    "mismatches": [],
+    "passed": true
+  },
+  "item_count": 1,
+  "new_sprite_count": 4,
+  "sprite_id_range": [
+    254559,
+    254562
+  ],
+  "items": [
+    {
+      "sequence": 1,
+      "client_id": 13689,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\luminaria parede2.png",
+      "file_sha256": "399703818C1E0FE21758766890C7F519C9167362300399620CEB75F2F775BFBC",
+      "pixels_sha256": "01C960E4E680F09BBA5B053E1E4C7A41D7B53002113255D90BAAACD5EA7BC5DD",
+      "image_width": 64,
+      "image_height": 64,
+      "width_tiles": 2,
+      "height_tiles": 2,
+      "frames": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_ids": [
+        254559,
+        254560,
+        254561,
+        254562
+      ],
+      "sprite_hash": "DC2FAB4CF150F83F9514885DAF82378E"
+    }
+  ],
+  "otb_nodes_updated": {
+    "13689": 1
+  },
+  "transaction_committed": true,
+  "output_hashes": {
+    "dat": "E210DCB393B2CDC750BE777C493DA6EE4F7031EF804985C0071847571BE92AD4",
+    "spr": "DFBD535F0EA389B69D32D491BB63E4E7F25F49CCE3D81AFB959863D8FC625231",
+    "otb": "992CDB780C2125BC71A46DFA91C9C38FD5AEAAFD07A2518E19A5BFA2C43344A0"
+  },
+  "dat_non_targets_preserved": true,
+  "old_sprite_payload_preserved": true,
+  "new_sprite_pixels_verified": true,
+  "untouched_files_preserved": true,
+  "map_byte_equal": true,
+  "final_validation_passed": true,
+  "warnings": [],
+  "errors": [],
+  "passed": true
+}

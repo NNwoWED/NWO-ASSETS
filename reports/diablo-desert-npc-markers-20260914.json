@@ -1,0 +1,655 @@
+{
+  "generated_at": "2026-09-15T00:23:03.822009+00:00",
+  "operation": "add_missing_otbm_npc_markers",
+  "map": "C:\\Users\\Wedson\\Desktop\\Nova pasta (3)\\Diablo desert 0.6.otbm",
+  "csv": "C:\\Users\\Wedson\\Desktop\\Nova pasta (3)\\diablo-desert-npc-placeholder-positions - diablo-desert-npc-placeholder-positions.csv.csv",
+  "backup_zip": "C:\\Users\\Wedson\\Desktop\\Nova pasta (3)\\Diablo desert 0.6-before-npc-markers-20260914-211641-212834.zip",
+  "selection_policy": "Somente linhas Status=Confirmada com coordenada individual.",
+  "marker_server_id": 10011,
+  "confirmed_csv_count": 54,
+  "already_correct_count": 3,
+  "inserted_count": 51,
+  "inserted_on_existing_tiles": 49,
+  "inserted_with_new_tiles": 2,
+  "marker_count_before": 80,
+  "marker_count_after": 131,
+  "sha256_before": "14B9FB9EC53F3C8CE9C8CFE88B1C2129BA3CD17BBD91A2EA4151B187C18C6A4E",
+  "sha256_after": "6B74868D605E5A8423F55B8F70EE9D324A56CCDF7A5783883AE010488CB27BD4",
+  "map_summary_before": {
+    "source": "C:\\Users\\Wedson\\Desktop\\Nova pasta (3)\\Diablo desert 0.6.otbm",
+    "file_identifier": 0,
+    "root_node_type": 0,
+    "map_version": 2,
+    "width": 4000,
+    "height": 4000,
+    "items_major_version": 3,
+    "items_minor_version": 55,
+    "description": "No map description available.",
+    "tree": {
+      "total_bytes_read": 28955002,
+      "total_nodes": 3951994,
+      "node_starts": 3951994,
+      "node_ends": 3951994,
+      "balanced": true
+    },
+    "size": 28955002,
+    "sha256": "14B9FB9EC53F3C8CE9C8CFE88B1C2129BA3CD17BBD91A2EA4151B187C18C6A4E"
+  },
+  "map_summary_after": {
+    "source": "C:\\Users\\Wedson\\Desktop\\Nova pasta (3)\\Diablo desert 0.6.otbm",
+    "file_identifier": 0,
+    "root_node_type": 0,
+    "map_version": 2,
+    "width": 4000,
+    "height": 4000,
+    "items_major_version": 3,
+    "items_minor_version": 55,
+    "description": "No map description available.",
+    "tree": {
+      "total_bytes_read": 28956616,
+      "total_nodes": 3952048,
+      "node_starts": 3952048,
+      "node_ends": 3952048,
+      "balanced": true
+    },
+    "size": 28956616,
+    "sha256": "6B74868D605E5A8423F55B8F70EE9D324A56CCDF7A5783883AE010488CB27BD4"
+  },
+  "already_correct": [
+    {
+      "area": "Honda Farm",
+      "npc": "Bulma",
+      "position": {
+        "x": 2249,
+        "y": 1923,
+        "z": 7
+      },
+      "context": "Chegada do grupo na fazenda"
+    },
+    {
+      "area": "Honda Farm",
+      "npc": "Oolong",
+      "position": {
+        "x": 2251,
+        "y": 1924,
+        "z": 7
+      },
+      "context": "Chegada do grupo e Estrelas Doces"
+    },
+    {
+      "area": "Honda Farm",
+      "npc": "Goku",
+      "position": {
+        "x": 2249,
+        "y": 1925,
+        "z": 7
+      },
+      "context": "Chegada do grupo na fazenda"
+    }
+  ],
+  "inserted": [
+    {
+      "area": "Honda Farm",
+      "npc": "Honda",
+      "position": {
+        "x": 2250,
+        "y": 1923,
+        "z": 7
+      },
+      "context": "Posicao principal na fazenda",
+      "insertion_kind": "existing_tile"
+    },
+    {
+      "area": "Honda Farm",
+      "npc": "Oolong",
+      "position": {
+        "x": 2240,
+        "y": 1904,
+        "z": 7
+      },
+      "context": "Escondido na moita",
+      "insertion_kind": "existing_tile"
+    },
+    {
+      "area": "Orange City e arredores",
+      "npc": "Akihiro",
+      "position": {
+        "x": 2056,
+        "y": 1970,
+        "z": 7
+      },
+      "context": "Inicio de Mercador do Deserto",
+      "insertion_kind": "existing_tile"
+    },
+    {
+      "area": "Orange City e arredores",
+      "npc": "Campeao Katsuo",
+      "position": {
+        "x": 2364,
+        "y": 2029,
+        "z": 7
+      },
+      "context": "Inicio de O Desafio do Campeao",
+      "insertion_kind": "existing_tile"
+    },
+    {
+      "area": "Orange City e arredores",
+      "npc": "Bento",
+      "position": {
+        "x": 2366,
+        "y": 1983,
+        "z": 7
+      },
+      "context": "Dono da loja de comida",
+      "insertion_kind": "existing_tile"
+    },
+    {
+      "area": "Orange City e arredores",
+      "npc": "Shun",
+      "position": {
+        "x": 2362,
+        "y": 1970,
+        "z": 7
+      },
+      "context": "Entregador encontrado com os lanches",
+      "insertion_kind": "existing_tile"
+    },
+    {
+      "area": "Orange City e arredores",
+      "npc": "Turista das Estrelas Doces",
+      "position": {
+        "x": 2315,
+        "y": 1973,
+        "z": 7
+      },
+      "context": "Encontro da quest Estrelas Doces",
+      "insertion_kind": "existing_tile"
+    },
+    {
+      "area": "Orange City e arredores",
+      "npc": "Tarugo",
+      "position": {
+        "x": 2426,
+        "y": 2054,
+        "z": 7
+      },
+      "context": "Pescador no pier do lago",
+      "insertion_kind": "existing_tile"
+    },
+    {
+      "area": "Orange City e arredores",
+      "npc": "NPC deitado da emboscada",
+      "position": {
+        "x": 2157,
+        "y": 1971,
+        "z": 7
+      },
+      "context": "Pessoa usada como isca em Mercador do Deserto",
+      "insertion_kind": "existing_tile"
+    },
+    {
+      "area": "Sandstone Desert",
+      "npc": "Bulma",
+      "position": {
+        "x": 2307,
+        "y": 2193,
+        "z": 7
+      },
+      "context": "Descanso sob o cogumelo",
+      "insertion_kind": "existing_tile"
+    },
+    {
+      "area": "Sandstone Desert",
+      "npc": "Goku",
+      "position": {
+        "x": 2307,
+        "y": 2191,
+        "z": 7
+      },
+      "context": "Descanso sob o cogumelo",
+      "insertion_kind": "existing_tile"
+    },
+    {
+      "area": "Sandstone Desert",
+      "npc": "Oolong",
+      "position": {
+        "x": 2305,
+        "y": 2193,
+        "z": 7
+      },
+      "context": "Descanso sob o cogumelo",
+      "insertion_kind": "existing_tile"
+    },
+    {
+      "area": "Sandstone Desert",
+      "npc": "Oolong",
+      "position": {
+        "x": 2304,
+        "y": 2196,
+        "z": 7
+      },
+      "context": "Esconderijo durante o confronto",
+      "insertion_kind": "existing_tile"
+    },
+    {
+      "area": "Sandstone Desert",
+      "npc": "Pual",
+      "position": {
+        "x": 2294,
+        "y": 2191,
+        "z": 7
+      },
+      "context": "Esconderijo durante o confronto",
+      "insertion_kind": "existing_tile"
+    },
+    {
+      "area": "Sandstone Desert",
+      "npc": "Goku",
+      "position": {
+        "x": 2309,
+        "y": 2189,
+        "z": 7
+      },
+      "context": "Reposicionamento durante o confronto",
+      "insertion_kind": "existing_tile"
+    },
+    {
+      "area": "Sandstone Desert",
+      "npc": "Yamcha",
+      "position": {
+        "x": 2298,
+        "y": 2188,
+        "z": 7
+      },
+      "context": "Posicao inicial do combate",
+      "insertion_kind": "existing_tile"
+    },
+    {
+      "area": "Sandstone Desert",
+      "npc": "Bulma",
+      "position": {
+        "x": 2303,
+        "y": 2190,
+        "z": 7
+      },
+      "context": "Aproximacao apos a derrota de Yamcha",
+      "insertion_kind": "existing_tile"
+    },
+    {
+      "area": "Destroyed Fire Mountain",
+      "npc": "Bulma",
+      "position": {
+        "x": 2280,
+        "y": 2321,
+        "z": 7
+      },
+      "context": "Espera na chegada as ruinas",
+      "insertion_kind": "existing_tile"
+    },
+    {
+      "area": "Destroyed Fire Mountain",
+      "npc": "Oolong",
+      "position": {
+        "x": 2281,
+        "y": 2322,
+        "z": 7
+      },
+      "context": "Espera na chegada as ruinas",
+      "insertion_kind": "existing_tile"
+    },
+    {
+      "area": "Destroyed Fire Mountain",
+      "npc": "Goku",
+      "position": {
+        "x": 2280,
+        "y": 2323,
+        "z": 7
+      },
+      "context": "Espera na chegada as ruinas",
+      "insertion_kind": "existing_tile"
+    },
+    {
+      "area": "Destroyed Fire Mountain",
+      "npc": "Rei Cutelo",
+      "position": {
+        "x": 2285,
+        "y": 2325,
+        "z": 7
+      },
+      "context": "Entrada surpresa e confronto",
+      "insertion_kind": "existing_tile"
+    },
+    {
+      "area": "Destroyed Fire Mountain",
+      "npc": "Bulma",
+      "position": {
+        "x": 2291,
+        "y": 2347,
+        "z": 7
+      },
+      "context": "Saida do subterraneo",
+      "insertion_kind": "existing_tile"
+    },
+    {
+      "area": "Destroyed Fire Mountain",
+      "npc": "Goku",
+      "position": {
+        "x": 2294,
+        "y": 2350,
+        "z": 7
+      },
+      "context": "Saida do subterraneo",
+      "insertion_kind": "existing_tile"
+    },
+    {
+      "area": "Destroyed Fire Mountain",
+      "npc": "Oolong",
+      "position": {
+        "x": 2289,
+        "y": 2347,
+        "z": 7
+      },
+      "context": "Saida do subterraneo",
+      "insertion_kind": "existing_tile"
+    },
+    {
+      "area": "Destroyed Fire Mountain",
+      "npc": "Rei Cutelo",
+      "position": {
+        "x": 2289,
+        "y": 2353,
+        "z": 7
+      },
+      "context": "Saida do subterraneo",
+      "insertion_kind": "existing_tile"
+    },
+    {
+      "area": "Ox-King Village",
+      "npc": "Rei Cutelo",
+      "position": {
+        "x": 2322,
+        "y": 2270,
+        "z": 7
+      },
+      "context": "Ponto principal de recepcao e quests",
+      "insertion_kind": "existing_tile"
+    },
+    {
+      "area": "Ox-King Village",
+      "npc": "Goku",
+      "position": {
+        "x": 2320,
+        "y": 2271,
+        "z": 7
+      },
+      "context": "Grupo na area de recepcao",
+      "insertion_kind": "existing_tile"
+    },
+    {
+      "area": "Ox-King Village",
+      "npc": "Bulma",
+      "position": {
+        "x": 2323,
+        "y": 2271,
+        "z": 7
+      },
+      "context": "Grupo na area de recepcao",
+      "insertion_kind": "existing_tile"
+    },
+    {
+      "area": "Ox-King Village",
+      "npc": "Oolong",
+      "position": {
+        "x": 2320,
+        "y": 2272,
+        "z": 7
+      },
+      "context": "Grupo e side quests",
+      "insertion_kind": "existing_tile"
+    },
+    {
+      "area": "Ox-King Village",
+      "npc": "Chef Ryori",
+      "position": {
+        "x": 2312,
+        "y": 2297,
+        "z": 6
+      },
+      "context": "Loja de alimentos",
+      "insertion_kind": "new_tile"
+    },
+    {
+      "area": "Ox-King Village",
+      "npc": "Cientista Himari",
+      "position": {
+        "x": 2331,
+        "y": 2289,
+        "z": 7
+      },
+      "context": "Biblioteca",
+      "insertion_kind": "existing_tile"
+    },
+    {
+      "area": "Ox-King Village",
+      "npc": "Crianca leitora",
+      "position": {
+        "x": 2323,
+        "y": 2285,
+        "z": 6
+      },
+      "context": "A Lenda da Espada Tartaruga",
+      "insertion_kind": "new_tile"
+    },
+    {
+      "area": "Fungus Town",
+      "npc": "Bulma",
+      "position": {
+        "x": 2163,
+        "y": 2063,
+        "z": 7
+      },
+      "context": "Chegada do grupo",
+      "insertion_kind": "existing_tile"
+    },
+    {
+      "area": "Fungus Town",
+      "npc": "Goku",
+      "position": {
+        "x": 2162,
+        "y": 2062,
+        "z": 7
+      },
+      "context": "Chegada do grupo pela ordem da quest",
+      "insertion_kind": "existing_tile"
+    },
+    {
+      "area": "Fungus Town",
+      "npc": "Oolong",
+      "position": {
+        "x": 2166,
+        "y": 2064,
+        "z": 7
+      },
+      "context": "Chegada do grupo pela ordem da quest",
+      "insertion_kind": "existing_tile"
+    },
+    {
+      "area": "Fungus Town",
+      "npc": "Goku",
+      "position": {
+        "x": 2159,
+        "y": 2067,
+        "z": 7
+      },
+      "context": "Avanco da cutscene",
+      "insertion_kind": "existing_tile"
+    },
+    {
+      "area": "Fungus Town",
+      "npc": "Capanga da Gangue Coelho 1",
+      "position": {
+        "x": 2157,
+        "y": 2066,
+        "z": 7
+      },
+      "context": "Cena inicial da Gangue Coelho",
+      "insertion_kind": "existing_tile"
+    },
+    {
+      "area": "Fungus Town",
+      "npc": "Morador de Fungus Town",
+      "position": {
+        "x": 2157,
+        "y": 2067,
+        "z": 7
+      },
+      "context": "Cena inicial da Gangue Coelho",
+      "insertion_kind": "existing_tile"
+    },
+    {
+      "area": "Fungus Town",
+      "npc": "Capanga da Gangue Coelho 2",
+      "position": {
+        "x": 2157,
+        "y": 2068,
+        "z": 7
+      },
+      "context": "Cena inicial da Gangue Coelho",
+      "insertion_kind": "existing_tile"
+    },
+    {
+      "area": "Fungus Town",
+      "npc": "Chefe Usagi",
+      "position": {
+        "x": 2165,
+        "y": 2067,
+        "z": 7
+      },
+      "context": "Chegada e confronto na praca",
+      "insertion_kind": "existing_tile"
+    },
+    {
+      "area": "Fungus Town",
+      "npc": "Capanga escondido 1",
+      "position": {
+        "x": 2173,
+        "y": 2057,
+        "z": 7
+      },
+      "context": "Etapa de captura",
+      "insertion_kind": "existing_tile"
+    },
+    {
+      "area": "Fungus Town",
+      "npc": "Capanga escondido 2",
+      "position": {
+        "x": 2139,
+        "y": 2061,
+        "z": 7
+      },
+      "context": "Etapa de captura",
+      "insertion_kind": "existing_tile"
+    },
+    {
+      "area": "Fungus Town",
+      "npc": "Capanga escondido 3",
+      "position": {
+        "x": 2174,
+        "y": 2078,
+        "z": 7
+      },
+      "context": "Etapa de captura",
+      "insertion_kind": "existing_tile"
+    },
+    {
+      "area": "Fungus Town",
+      "npc": "Pessoa Misteriosa",
+      "position": {
+        "x": 2145,
+        "y": 2084,
+        "z": 7
+      },
+      "context": "Inicio de Rei de Todo o Mundo",
+      "insertion_kind": "existing_tile"
+    },
+    {
+      "area": "Rota para Pilaf's Castle",
+      "npc": "Bulma",
+      "position": {
+        "x": 2096,
+        "y": 2098,
+        "z": 7
+      },
+      "context": "Parada na estrada",
+      "insertion_kind": "existing_tile"
+    },
+    {
+      "area": "Rota para Pilaf's Castle",
+      "npc": "Goku",
+      "position": {
+        "x": 2098,
+        "y": 2099,
+        "z": 7
+      },
+      "context": "Parada na estrada pela ordem da quest",
+      "insertion_kind": "existing_tile"
+    },
+    {
+      "area": "Rota para Pilaf's Castle",
+      "npc": "Oolong",
+      "position": {
+        "x": 2099,
+        "y": 2100,
+        "z": 7
+      },
+      "context": "Parada na estrada pela ordem da quest",
+      "insertion_kind": "existing_tile"
+    },
+    {
+      "area": "Rota para Pilaf's Castle",
+      "npc": "Robo de Pilaf",
+      "position": {
+        "x": 2090,
+        "y": 2104,
+        "z": 7
+      },
+      "context": "Roubo das Esferas do Dragao",
+      "insertion_kind": "existing_tile"
+    },
+    {
+      "area": "Pilaf's Castle",
+      "npc": "Bulma",
+      "position": {
+        "x": 2091,
+        "y": 2151,
+        "z": 7
+      },
+      "context": "Entrada do castelo pela ordem da quest",
+      "insertion_kind": "existing_tile"
+    },
+    {
+      "area": "Pilaf's Castle",
+      "npc": "Oolong",
+      "position": {
+        "x": 2090,
+        "y": 2150,
+        "z": 7
+      },
+      "context": "Entrada do castelo pela ordem da quest",
+      "insertion_kind": "existing_tile"
+    },
+    {
+      "area": "Pequena Savana",
+      "npc": "Yuko",
+      "position": {
+        "x": 2047,
+        "y": 2034,
+        "z": 7
+      },
+      "context": "Esconderijo inicial atras da moita",
+      "insertion_kind": "existing_tile"
+    }
+  ],
+  "errors": [],
+  "passed": true
+}

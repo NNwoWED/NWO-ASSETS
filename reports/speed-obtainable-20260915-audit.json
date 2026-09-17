@@ -1,0 +1,46 @@
+{
+  "passed": true,
+  "scope": "Only three Fang XML speed attributes removed; all other XML item data and DAT/SPR/OTB/OTBM unchanged",
+  "before": {
+    "normalized": "C25C07E552A51AF2473443722C37C1F49DF2B0B5D860665D19352C8B45C36C08",
+    "hashes": [
+      {
+        "Path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.dat",
+        "Hash": "E4E3526F01E523EB2A2ABA8A160DD6FF4D5181EA5344B156BAA8D1668AFDFD91"
+      },
+      {
+        "Path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.spr",
+        "Hash": "1FF97E16F49B0780990027557A1F4822DEB429E4CC72E717D2FD389E01FE413F"
+      },
+      {
+        "Path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\items\\items.otb",
+        "Hash": "9057AC9833B94AFCCD8936738265828A602A31A4828E49B64223F74CD9E0E6E9"
+      },
+      {
+        "Path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\world\\mapanovo.otbm",
+        "Hash": "8CDFDDF9DC2A9E53053E4F3FAF7F6825FD89B6B63EE06272ECD234B387202821"
+      }
+    ]
+  },
+  "after": {
+    "normalized": "C25C07E552A51AF2473443722C37C1F49DF2B0B5D860665D19352C8B45C36C08",
+    "hashes": [
+      {
+        "Path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.dat",
+        "Hash": "E4E3526F01E523EB2A2ABA8A160DD6FF4D5181EA5344B156BAA8D1668AFDFD91"
+      },
+      {
+        "Path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.spr",
+        "Hash": "1FF97E16F49B0780990027557A1F4822DEB429E4CC72E717D2FD389E01FE413F"
+      },
+      {
+        "Path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\items\\items.otb",
+        "Hash": "9057AC9833B94AFCCD8936738265828A602A31A4828E49B64223F74CD9E0E6E9"
+      },
+      {
+        "Path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\world\\mapanovo.otbm",
+        "Hash": "8CDFDDF9DC2A9E53053E4F3FAF7F6825FD89B6B63EE06272ECD234B387202821"
+      }
+    ]
+  }
+}

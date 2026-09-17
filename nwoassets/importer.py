@@ -193,11 +193,16 @@ def update_otb_sprite_hashes(
     source: Path,
     destination: Path,
     replacements: dict[int, bytes],
+    *,
+    animated: dict[int, bool] | None = None,
 ) -> dict[int, int]:
     if source.resolve() == destination.resolve() or destination.exists():
         raise FormatError("OTB de destino deve ser novo e diferente da origem")
     if any(len(value) != 16 for value in replacements.values()):
         raise FormatError("todo SpriteHash deve possuir 16 bytes")
+    animated = animated or {}
+    if not set(animated).issubset(replacements):
+        raise FormatError("flags de animacao OTB exigem SpriteHash no mesmo Client ID")
     file_version, root = parse_otb_tree(source)
     original_root_data = root.data
     original_nodes = tuple((node.data, node.children) for node in root.children)
@@ -208,6 +213,11 @@ def update_otb_sprite_hashes(
         if client_id not in replacements:
             continue
         rebuilt = bytearray(node.data[:5])
+        if client_id in animated:
+            flags = struct.unpack_from("<I", rebuilt, 1)[0]
+            animation_bit = 1 << 24
+            flags = flags | animation_bit if animated[client_id] else flags & ~animation_bit
+            struct.pack_into("<I", rebuilt, 1, flags)
         found_hash = False
         for attribute, payload in attributes:
             if attribute == 0x20:
@@ -506,7 +516,12 @@ def _import_items_impl(
     try:
         append_spr_blocks(paths["spr"], targets["spr"], otfi, blocks)
         write_dat_item_appearances(paths["dat"], targets["dat"], otfi, appearances)
-        otb_updates = update_otb_sprite_hashes(paths["otb"], targets["otb"], hashes)
+        otb_updates = update_otb_sprite_hashes(
+            paths["otb"],
+            targets["otb"],
+            hashes,
+            animated={item.client_id: item.frames > 1 for item in prepared},
+        )
 
         pending_spr = inspect_spr(targets["spr"], otfi, deep=deep_spr)
         pending_dat = inspect_dat(

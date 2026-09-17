@@ -1,0 +1,132 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "profile": {
+    "key": "tibia-860-v2-custom-extended",
+    "client_version": 860,
+    "label": "Tibia 8.60 v2 customizado com features OTFI",
+    "dat_signature": "0x4C2C7993",
+    "spr_signature": "0x4C220594",
+    "metadata_reader": 5,
+    "otb_version_hint": "8.60"
+  },
+  "category": "items",
+  "id_kind": "server",
+  "requested_ids": [
+    14566,
+    14568,
+    14580,
+    14581
+  ],
+  "output_dir": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\hangable-rotation-audit-20260904",
+  "exported_count": 4,
+  "exported": [
+    {
+      "requested_id": 14566,
+      "client_id": 13689,
+      "server_ids": [
+        14566
+      ],
+      "name": "Roupa de cama",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        80990
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\hangable-rotation-audit-20260904\\server-14566_client-13689_roupa-de-cama.png",
+      "size": 234,
+      "sha256": "4090500761AFF41897060AE73E11444C24FB684DA82C74DF4D33113D606B7D78"
+    },
+    {
+      "requested_id": 14568,
+      "client_id": 13691,
+      "server_ids": [
+        14568
+      ],
+      "name": "Luminária de Chakra de Cobre",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        0,
+        249689,
+        0,
+        0
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\hangable-rotation-audit-20260904\\server-14568_client-13691_luminaria-de-chakra-de-cobre.png",
+      "size": 398,
+      "sha256": "8EA8719966968109B4E5B2B4B23F162D23C537DAF30C019AC0B264FA8C42A1D6"
+    },
+    {
+      "requested_id": 14580,
+      "client_id": 13701,
+      "server_ids": [
+        14580
+      ],
+      "name": "Quadro de Kunais",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        254507,
+        254508,
+        254509,
+        254510
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\hangable-rotation-audit-20260904\\server-14580_client-13701_quadro-de-kunais.png",
+      "size": 480,
+      "sha256": "C198EA6F57E79C5042EB2C87365210004C2BEF83509525D214AACC835821B641"
+    },
+    {
+      "requested_id": 14581,
+      "client_id": 13702,
+      "server_ids": [
+        14581
+      ],
+      "name": "Quadro de Kunais",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        254511,
+        254512,
+        254513,
+        254514
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\hangable-rotation-audit-20260904\\server-14581_client-13702_quadro-de-kunais.png",
+      "size": 606,
+      "sha256": "8452F86823967328FD5B4F8B747A7751A906B0A0F47754814808758DBECAF993"
+    }
+  ],
+  "sources": {
+    "dat": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.dat",
+      "sha256": "67215C8A4E498ADDCF8388324124C951C3F3DC0F9FD1C30AED70B770F12A4E75"
+    },
+    "spr": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.spr",
+      "sha256": "B3CD10EF202DFEDE5F3D1CD6CBEA533229F8899DA51EDC5FEDF4F55DD8BE9D9D"
+    }
+  },
+  "passed": true
+}

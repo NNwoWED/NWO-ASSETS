@@ -33,7 +33,7 @@ def _require_directory(path: Path, description: str) -> Path:
     return path
 
 
-def _runtime_paths(root: Path) -> tuple[dict[str, Path], dict[str, Path], Path, Path]:
+def _runtime_paths(root: Path) -> tuple[dict[str, Path], dict[str, Path], Path, Path, Path]:
     root = root.resolve()
     layout = require_asset_layout(root)
     workspace = root.parent.resolve()
@@ -41,16 +41,31 @@ def _runtime_paths(root: Path) -> tuple[dict[str, Path], dict[str, Path], Path, 
         workspace / "Server-Data-Nwo" / "data" / "items",
         "diretório de items do servidor",
     )
+    rme_items = _require_directory(
+        workspace / "RME 5.0" / "Editor" / "data" / "860",
+        "diretório de items do RME",
+    )
     client_things = _require_directory(
         workspace / "nwo-otclient-mehah-4.0" / "data" / "things",
         "diretório things do client",
     )
     client_860 = _require_directory(client_things / "860", "diretório 860 do client")
+    mobile_things = _require_directory(
+        workspace / "nwo-mobile" / "client" / "data" / "things",
+        "diretorio things do client mobile",
+    )
+    mobile_860 = (mobile_things / "860").resolve()
+    if mobile_860.exists() and not mobile_860.is_dir():
+        raise FormatError(f"destino 860 do client mobile nao e diretorio: {mobile_860}")
     sources = {
         "items.otb": layout["items"] / "items.otb",
         "items.xml": layout["items"] / "items.xml",
+        "rme/items.otb": layout["items"] / "items.otb",
+        "rme/items.xml": layout["items"] / "items.xml",
         "Tibia.dat": layout["860"] / "Tibia.dat",
         "Tibia.spr": layout["860"] / "Tibia.spr",
+        "mobile/Tibia.dat": layout["860"] / "Tibia.dat",
+        "mobile/Tibia.otfi": layout["860"] / "Tibia.otfi",
     }
     missing = [str(path) for path in sources.values() if not path.is_file()]
     if missing:
@@ -58,10 +73,14 @@ def _runtime_paths(root: Path) -> tuple[dict[str, Path], dict[str, Path], Path, 
     targets = {
         "items.otb": server_items / "items.otb",
         "items.xml": server_items / "items.xml",
+        "rme/items.otb": rme_items / "items.otb",
+        "rme/items.xml": rme_items / "items.xml",
         "Tibia.dat": client_860 / "Tibia.dat",
         "Tibia.spr": client_860 / "Tibia.spr",
+        "mobile/Tibia.dat": mobile_860 / "Tibia.dat",
+        "mobile/Tibia.otfi": mobile_860 / "Tibia.otfi",
     }
-    return sources, targets, client_860, client_things / "860.rar"
+    return sources, targets, client_860, client_things / "860.rar", mobile_860
 
 
 def _expected_rar_entries(client_860: Path) -> set[str]:
@@ -110,7 +129,7 @@ def _rollback(published: list[Path], backups: dict[Path, Path]) -> None:
 
 def sync_runtime_assets(root: Path, *, dry_run: bool = False) -> dict[str, object]:
     root = root.resolve()
-    sources, targets, client_860, archive = _runtime_paths(root)
+    sources, targets, client_860, archive, mobile_860 = _runtime_paths(root)
     validation = validate_root(root, deep_spr=True)
     if not validation.get("passed", False):
         raise FormatError(f"baseline canônica reprovou: {validation.get('errors', [])}")
@@ -147,9 +166,11 @@ def sync_runtime_assets(root: Path, *, dry_run: bool = False) -> dict[str, objec
         report["changed"] = False
         return report
 
+    changed_names = {entry["name"] for entry in copies if not entry["already_equal"]}
     pending: dict[Path, Path] = {}
     backups: dict[Path, Path] = {}
     published: list[Path] = []
+    mobile_directory_created = False
     rar = find_rar()
     archive_pending = _transaction_path(archive, "pending")
     all_targets = [*targets.values(), archive]
@@ -169,9 +190,15 @@ def sync_runtime_assets(root: Path, *, dry_run: bool = False) -> dict[str, objec
         )
 
     try:
+        if not mobile_860.exists():
+            mobile_860.mkdir()
+            mobile_directory_created = True
         for name, target in targets.items():
-            pending[target] = _prepare_copy(sources[name], target, client_860)
-        for target in targets.values():
+            if name in changed_names:
+                pending[target] = _prepare_copy(sources[name], target, client_860)
+        for name, target in targets.items():
+            if name not in changed_names:
+                continue
             backup = _runtime_transaction_path(target, "backup", client_860)
             if target.exists():
                 os.replace(target, backup)
@@ -214,3 +241,5 @@ def sync_runtime_assets(root: Path, *, dry_run: bool = False) -> dict[str, objec
         for path in pending.values():
             path.unlink(missing_ok=True)
         archive_pending.unlink(missing_ok=True)
+        if mobile_directory_created and mobile_860.exists() and not any(mobile_860.iterdir()):
+            mobile_860.rmdir()

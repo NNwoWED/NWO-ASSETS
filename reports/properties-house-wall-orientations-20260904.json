@@ -1,0 +1,1169 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "manifest": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\manifest-house-wall-orientations-20260904.csv",
+  "version_backup": {
+    "tool_version": "0.8.1",
+    "version_id": "20260904-130818-480362",
+    "created_at": "2026-09-04T13:08:28.437625-03:00",
+    "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20260904-130818-480362",
+    "rar_executable": "C:\\Program Files\\WinRAR\\Rar.exe",
+    "sources": [
+      {
+        "path": "assets/860/.gitattributes",
+        "size": 43,
+        "sha256": "D5636A3257287440945C5E017581545E5B0A3E2FDDDAE7C5EF8D90FF4DF3D32A"
+      },
+      {
+        "path": "assets/860/Tibia.dat",
+        "size": 4379116,
+        "sha256": "AC1AE8A37F6B49C9CAA2DE3663E459FEF0CC0B9092E1E1E1FBF0B0F61C0F7540"
+      },
+      {
+        "path": "assets/860/Tibia.otfi",
+        "size": 185,
+        "sha256": "7743548835944BC799CB871A4E5DEF84F7AF76815031871B9CE74B5EC0E8ADD3"
+      },
+      {
+        "path": "assets/860/Tibia.spr",
+        "size": 433179054,
+        "sha256": "B3CD10EF202DFEDE5F3D1CD6CBEA533229F8899DA51EDC5FEDF4F55DD8BE9D9D"
+      },
+      {
+        "path": "assets/items/force use.txt",
+        "size": 419,
+        "sha256": "BCB478FDF3F45ECA8D172AFD7A17D3F8CD520924EE0894752452B8FDC8F71959"
+      },
+      {
+        "path": "assets/items/items.otb",
+        "size": 1003404,
+        "sha256": "CF457F5E95DE7301C45A085D5EDBC224E5464FFCFE1E73C2BFC38B8756E0A803"
+      },
+      {
+        "path": "assets/world/mapanovo.otbm",
+        "size": 80109484,
+        "sha256": "FEB55A08B8A9ABD9CC129B23BB1D2ED067A903C9473F0D45F62B5CA16CDD6DB5"
+      }
+    ],
+    "archives": {
+      "860": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20260904-130818-480362\\860.rar",
+        "size": 83352807,
+        "sha256": "88970659D7276044BB0AB2344F21FF2464CF1D2BFEBF9C26A10CEB1BEDD710B0"
+      },
+      "items": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20260904-130818-480362\\items.rar",
+        "size": 476805,
+        "sha256": "867078274E7D28DC544B96A678D2CAFD5B7DA034C94F9600A89D62C070873507"
+      },
+      "world": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20260904-130818-480362\\world.zip",
+        "size": 19340601,
+        "sha256": "DCFFBB6FB455DD8E051C696548FB4210CF88F7F802692C8F96FBEC7EFA8231DA"
+      }
+    },
+    "items_xml_excluded": true,
+    "world_entries": [
+      "mapanovo.otbm"
+    ],
+    "passed": true
+  },
+  "item_count": 28,
+  "items": [
+    {
+      "sequence": 1,
+      "server_id": 11902,
+      "client_id": 11025,
+      "dat": {
+        "before": [
+          "on_bottom",
+          "unpassable",
+          "unmoveable",
+          "block_missile",
+          "mini_map"
+        ],
+        "after": [
+          "on_bottom",
+          "unpassable",
+          "unmoveable",
+          "block_missile",
+          "mini_map",
+          "horizontal"
+        ]
+      },
+      "otb": {
+        "before_mask": "0x00002003",
+        "after_mask": "0x00022003",
+        "before": [
+          "block_solid",
+          "block_projectile",
+          "always_on_top"
+        ],
+        "after": [
+          "block_solid",
+          "block_projectile",
+          "always_on_top",
+          "vertical"
+        ]
+      }
+    },
+    {
+      "sequence": 2,
+      "server_id": 15097,
+      "client_id": 14212,
+      "dat": {
+        "before": [
+          "on_bottom",
+          "unpassable",
+          "unmoveable",
+          "block_missile",
+          "mini_map"
+        ],
+        "after": [
+          "on_bottom",
+          "unpassable",
+          "unmoveable",
+          "block_missile",
+          "mini_map",
+          "vertical"
+        ]
+      },
+      "otb": {
+        "before_mask": "0x00002003",
+        "after_mask": "0x00042003",
+        "before": [
+          "block_solid",
+          "block_projectile",
+          "always_on_top"
+        ],
+        "after": [
+          "block_solid",
+          "block_projectile",
+          "always_on_top",
+          "horizontal"
+        ]
+      }
+    },
+    {
+      "sequence": 3,
+      "server_id": 19428,
+      "client_id": 18543,
+      "dat": {
+        "before": [
+          "on_bottom",
+          "unpassable",
+          "unmoveable",
+          "block_missile",
+          "block_pathfind",
+          "mini_map"
+        ],
+        "after": [
+          "on_bottom",
+          "unpassable",
+          "unmoveable",
+          "block_missile",
+          "block_pathfind",
+          "mini_map",
+          "vertical"
+        ]
+      },
+      "otb": {
+        "before_mask": "0x00002007",
+        "after_mask": "0x00042007",
+        "before": [
+          "block_solid",
+          "block_projectile",
+          "block_pathfind",
+          "always_on_top"
+        ],
+        "after": [
+          "block_solid",
+          "block_projectile",
+          "block_pathfind",
+          "always_on_top",
+          "horizontal"
+        ]
+      }
+    },
+    {
+      "sequence": 4,
+      "server_id": 19429,
+      "client_id": 18544,
+      "dat": {
+        "before": [
+          "on_bottom",
+          "unpassable",
+          "unmoveable",
+          "block_missile",
+          "block_pathfind",
+          "mini_map"
+        ],
+        "after": [
+          "on_bottom",
+          "unpassable",
+          "unmoveable",
+          "block_missile",
+          "block_pathfind",
+          "mini_map",
+          "horizontal"
+        ]
+      },
+      "otb": {
+        "before_mask": "0x00002007",
+        "after_mask": "0x00022007",
+        "before": [
+          "block_solid",
+          "block_projectile",
+          "block_pathfind",
+          "always_on_top"
+        ],
+        "after": [
+          "block_solid",
+          "block_projectile",
+          "block_pathfind",
+          "always_on_top",
+          "vertical"
+        ]
+      }
+    },
+    {
+      "sequence": 5,
+      "server_id": 19457,
+      "client_id": 18572,
+      "dat": {
+        "before": [
+          "on_bottom",
+          "unpassable",
+          "unmoveable",
+          "block_missile",
+          "block_pathfind",
+          "mini_map"
+        ],
+        "after": [
+          "on_bottom",
+          "unpassable",
+          "unmoveable",
+          "block_missile",
+          "block_pathfind",
+          "mini_map",
+          "vertical"
+        ]
+      },
+      "otb": {
+        "before_mask": "0x00002007",
+        "after_mask": "0x00042007",
+        "before": [
+          "block_solid",
+          "block_projectile",
+          "block_pathfind",
+          "always_on_top"
+        ],
+        "after": [
+          "block_solid",
+          "block_projectile",
+          "block_pathfind",
+          "always_on_top",
+          "horizontal"
+        ]
+      }
+    },
+    {
+      "sequence": 6,
+      "server_id": 19458,
+      "client_id": 18573,
+      "dat": {
+        "before": [
+          "on_bottom",
+          "unpassable",
+          "unmoveable",
+          "block_missile",
+          "block_pathfind",
+          "mini_map"
+        ],
+        "after": [
+          "on_bottom",
+          "unpassable",
+          "unmoveable",
+          "block_missile",
+          "block_pathfind",
+          "mini_map",
+          "vertical"
+        ]
+      },
+      "otb": {
+        "before_mask": "0x00002007",
+        "after_mask": "0x00042007",
+        "before": [
+          "block_solid",
+          "block_projectile",
+          "block_pathfind",
+          "always_on_top"
+        ],
+        "after": [
+          "block_solid",
+          "block_projectile",
+          "block_pathfind",
+          "always_on_top",
+          "horizontal"
+        ]
+      }
+    },
+    {
+      "sequence": 7,
+      "server_id": 19459,
+      "client_id": 18574,
+      "dat": {
+        "before": [
+          "on_bottom",
+          "unpassable",
+          "unmoveable",
+          "block_missile",
+          "block_pathfind",
+          "mini_map"
+        ],
+        "after": [
+          "on_bottom",
+          "unpassable",
+          "unmoveable",
+          "block_missile",
+          "block_pathfind",
+          "mini_map",
+          "horizontal"
+        ]
+      },
+      "otb": {
+        "before_mask": "0x00002007",
+        "after_mask": "0x00022007",
+        "before": [
+          "block_solid",
+          "block_projectile",
+          "block_pathfind",
+          "always_on_top"
+        ],
+        "after": [
+          "block_solid",
+          "block_projectile",
+          "block_pathfind",
+          "always_on_top",
+          "vertical"
+        ]
+      }
+    },
+    {
+      "sequence": 8,
+      "server_id": 19460,
+      "client_id": 18575,
+      "dat": {
+        "before": [
+          "on_bottom",
+          "unpassable",
+          "unmoveable",
+          "block_missile",
+          "block_pathfind",
+          "mini_map"
+        ],
+        "after": [
+          "on_bottom",
+          "unpassable",
+          "unmoveable",
+          "block_missile",
+          "block_pathfind",
+          "mini_map",
+          "horizontal"
+        ]
+      },
+      "otb": {
+        "before_mask": "0x00002007",
+        "after_mask": "0x00022007",
+        "before": [
+          "block_solid",
+          "block_projectile",
+          "block_pathfind",
+          "always_on_top"
+        ],
+        "after": [
+          "block_solid",
+          "block_projectile",
+          "block_pathfind",
+          "always_on_top",
+          "vertical"
+        ]
+      }
+    },
+    {
+      "sequence": 9,
+      "server_id": 19466,
+      "client_id": 18581,
+      "dat": {
+        "before": [
+          "on_bottom",
+          "unpassable",
+          "unmoveable",
+          "block_missile",
+          "block_pathfind",
+          "mini_map"
+        ],
+        "after": [
+          "on_bottom",
+          "unpassable",
+          "unmoveable",
+          "block_missile",
+          "block_pathfind",
+          "mini_map",
+          "vertical"
+        ]
+      },
+      "otb": {
+        "before_mask": "0x00002007",
+        "after_mask": "0x00042007",
+        "before": [
+          "block_solid",
+          "block_projectile",
+          "block_pathfind",
+          "always_on_top"
+        ],
+        "after": [
+          "block_solid",
+          "block_projectile",
+          "block_pathfind",
+          "always_on_top",
+          "horizontal"
+        ]
+      }
+    },
+    {
+      "sequence": 10,
+      "server_id": 19467,
+      "client_id": 18582,
+      "dat": {
+        "before": [
+          "on_bottom",
+          "unpassable",
+          "unmoveable",
+          "block_missile",
+          "block_pathfind",
+          "mini_map"
+        ],
+        "after": [
+          "on_bottom",
+          "unpassable",
+          "unmoveable",
+          "block_missile",
+          "block_pathfind",
+          "mini_map",
+          "vertical"
+        ]
+      },
+      "otb": {
+        "before_mask": "0x00002007",
+        "after_mask": "0x00042007",
+        "before": [
+          "block_solid",
+          "block_projectile",
+          "block_pathfind",
+          "always_on_top"
+        ],
+        "after": [
+          "block_solid",
+          "block_projectile",
+          "block_pathfind",
+          "always_on_top",
+          "horizontal"
+        ]
+      }
+    },
+    {
+      "sequence": 11,
+      "server_id": 19468,
+      "client_id": 18583,
+      "dat": {
+        "before": [
+          "on_bottom",
+          "unpassable",
+          "unmoveable",
+          "block_missile",
+          "block_pathfind",
+          "mini_map"
+        ],
+        "after": [
+          "on_bottom",
+          "unpassable",
+          "unmoveable",
+          "block_missile",
+          "block_pathfind",
+          "mini_map",
+          "horizontal"
+        ]
+      },
+      "otb": {
+        "before_mask": "0x00002007",
+        "after_mask": "0x00022007",
+        "before": [
+          "block_solid",
+          "block_projectile",
+          "block_pathfind",
+          "always_on_top"
+        ],
+        "after": [
+          "block_solid",
+          "block_projectile",
+          "block_pathfind",
+          "always_on_top",
+          "vertical"
+        ]
+      }
+    },
+    {
+      "sequence": 12,
+      "server_id": 19469,
+      "client_id": 18584,
+      "dat": {
+        "before": [
+          "on_bottom",
+          "unpassable",
+          "unmoveable",
+          "block_missile",
+          "block_pathfind",
+          "mini_map"
+        ],
+        "after": [
+          "on_bottom",
+          "unpassable",
+          "unmoveable",
+          "block_missile",
+          "block_pathfind",
+          "mini_map",
+          "horizontal"
+        ]
+      },
+      "otb": {
+        "before_mask": "0x00002007",
+        "after_mask": "0x00022007",
+        "before": [
+          "block_solid",
+          "block_projectile",
+          "block_pathfind",
+          "always_on_top"
+        ],
+        "after": [
+          "block_solid",
+          "block_projectile",
+          "block_pathfind",
+          "always_on_top",
+          "vertical"
+        ]
+      }
+    },
+    {
+      "sequence": 13,
+      "server_id": 19474,
+      "client_id": 18589,
+      "dat": {
+        "before": [
+          "on_bottom",
+          "unpassable",
+          "unmoveable",
+          "block_missile",
+          "block_pathfind",
+          "mini_map"
+        ],
+        "after": [
+          "on_bottom",
+          "unpassable",
+          "unmoveable",
+          "block_missile",
+          "block_pathfind",
+          "mini_map",
+          "vertical"
+        ]
+      },
+      "otb": {
+        "before_mask": "0x00002007",
+        "after_mask": "0x00042007",
+        "before": [
+          "block_solid",
+          "block_projectile",
+          "block_pathfind",
+          "always_on_top"
+        ],
+        "after": [
+          "block_solid",
+          "block_projectile",
+          "block_pathfind",
+          "always_on_top",
+          "horizontal"
+        ]
+      }
+    },
+    {
+      "sequence": 14,
+      "server_id": 19475,
+      "client_id": 18590,
+      "dat": {
+        "before": [
+          "on_bottom",
+          "unpassable",
+          "unmoveable",
+          "block_missile",
+          "block_pathfind",
+          "mini_map"
+        ],
+        "after": [
+          "on_bottom",
+          "unpassable",
+          "unmoveable",
+          "block_missile",
+          "block_pathfind",
+          "mini_map",
+          "vertical"
+        ]
+      },
+      "otb": {
+        "before_mask": "0x00002007",
+        "after_mask": "0x00042007",
+        "before": [
+          "block_solid",
+          "block_projectile",
+          "block_pathfind",
+          "always_on_top"
+        ],
+        "after": [
+          "block_solid",
+          "block_projectile",
+          "block_pathfind",
+          "always_on_top",
+          "horizontal"
+        ]
+      }
+    },
+    {
+      "sequence": 15,
+      "server_id": 19476,
+      "client_id": 18591,
+      "dat": {
+        "before": [
+          "on_bottom",
+          "unpassable",
+          "unmoveable",
+          "block_missile",
+          "block_pathfind",
+          "mini_map"
+        ],
+        "after": [
+          "on_bottom",
+          "unpassable",
+          "unmoveable",
+          "block_missile",
+          "block_pathfind",
+          "mini_map",
+          "horizontal"
+        ]
+      },
+      "otb": {
+        "before_mask": "0x00002007",
+        "after_mask": "0x00022007",
+        "before": [
+          "block_solid",
+          "block_projectile",
+          "block_pathfind",
+          "always_on_top"
+        ],
+        "after": [
+          "block_solid",
+          "block_projectile",
+          "block_pathfind",
+          "always_on_top",
+          "vertical"
+        ]
+      }
+    },
+    {
+      "sequence": 16,
+      "server_id": 19477,
+      "client_id": 18592,
+      "dat": {
+        "before": [
+          "on_bottom",
+          "unpassable",
+          "unmoveable",
+          "block_missile",
+          "block_pathfind",
+          "mini_map"
+        ],
+        "after": [
+          "on_bottom",
+          "unpassable",
+          "unmoveable",
+          "block_missile",
+          "block_pathfind",
+          "mini_map",
+          "horizontal"
+        ]
+      },
+      "otb": {
+        "before_mask": "0x00002007",
+        "after_mask": "0x00022007",
+        "before": [
+          "block_solid",
+          "block_projectile",
+          "block_pathfind",
+          "always_on_top"
+        ],
+        "after": [
+          "block_solid",
+          "block_projectile",
+          "block_pathfind",
+          "always_on_top",
+          "vertical"
+        ]
+      }
+    },
+    {
+      "sequence": 17,
+      "server_id": 19482,
+      "client_id": 18597,
+      "dat": {
+        "before": [
+          "on_bottom",
+          "unpassable",
+          "unmoveable",
+          "block_missile",
+          "block_pathfind",
+          "mini_map"
+        ],
+        "after": [
+          "on_bottom",
+          "unpassable",
+          "unmoveable",
+          "block_missile",
+          "block_pathfind",
+          "mini_map",
+          "vertical"
+        ]
+      },
+      "otb": {
+        "before_mask": "0x00002007",
+        "after_mask": "0x00042007",
+        "before": [
+          "block_solid",
+          "block_projectile",
+          "block_pathfind",
+          "always_on_top"
+        ],
+        "after": [
+          "block_solid",
+          "block_projectile",
+          "block_pathfind",
+          "always_on_top",
+          "horizontal"
+        ]
+      }
+    },
+    {
+      "sequence": 18,
+      "server_id": 19483,
+      "client_id": 18598,
+      "dat": {
+        "before": [
+          "on_bottom",
+          "unpassable",
+          "unmoveable",
+          "block_missile",
+          "block_pathfind",
+          "mini_map"
+        ],
+        "after": [
+          "on_bottom",
+          "unpassable",
+          "unmoveable",
+          "block_missile",
+          "block_pathfind",
+          "mini_map",
+          "vertical"
+        ]
+      },
+      "otb": {
+        "before_mask": "0x00002007",
+        "after_mask": "0x00042007",
+        "before": [
+          "block_solid",
+          "block_projectile",
+          "block_pathfind",
+          "always_on_top"
+        ],
+        "after": [
+          "block_solid",
+          "block_projectile",
+          "block_pathfind",
+          "always_on_top",
+          "horizontal"
+        ]
+      }
+    },
+    {
+      "sequence": 19,
+      "server_id": 19485,
+      "client_id": 18600,
+      "dat": {
+        "before": [
+          "on_bottom",
+          "unpassable",
+          "unmoveable",
+          "block_missile",
+          "block_pathfind",
+          "mini_map"
+        ],
+        "after": [
+          "on_bottom",
+          "unpassable",
+          "unmoveable",
+          "block_missile",
+          "block_pathfind",
+          "mini_map",
+          "horizontal"
+        ]
+      },
+      "otb": {
+        "before_mask": "0x00002007",
+        "after_mask": "0x00022007",
+        "before": [
+          "block_solid",
+          "block_projectile",
+          "block_pathfind",
+          "always_on_top"
+        ],
+        "after": [
+          "block_solid",
+          "block_projectile",
+          "block_pathfind",
+          "always_on_top",
+          "vertical"
+        ]
+      }
+    },
+    {
+      "sequence": 20,
+      "server_id": 20628,
+      "client_id": 19743,
+      "dat": {
+        "before": [
+          "on_top",
+          "unmoveable"
+        ],
+        "after": [
+          "on_top",
+          "unmoveable",
+          "vertical"
+        ]
+      },
+      "otb": {
+        "before_mask": "0x00002000",
+        "after_mask": "0x00042000",
+        "before": [
+          "always_on_top"
+        ],
+        "after": [
+          "always_on_top",
+          "horizontal"
+        ]
+      }
+    },
+    {
+      "sequence": 21,
+      "server_id": 20631,
+      "client_id": 19746,
+      "dat": {
+        "before": [
+          "on_top",
+          "unmoveable"
+        ],
+        "after": [
+          "on_top",
+          "unmoveable",
+          "horizontal"
+        ]
+      },
+      "otb": {
+        "before_mask": "0x00002000",
+        "after_mask": "0x00022000",
+        "before": [
+          "always_on_top"
+        ],
+        "after": [
+          "always_on_top",
+          "vertical"
+        ]
+      }
+    },
+    {
+      "sequence": 22,
+      "server_id": 25181,
+      "client_id": 24296,
+      "dat": {
+        "before": [
+          "on_bottom",
+          "unpassable",
+          "unmoveable",
+          "block_missile",
+          "mini_map"
+        ],
+        "after": [
+          "on_bottom",
+          "unpassable",
+          "unmoveable",
+          "block_missile",
+          "mini_map",
+          "horizontal"
+        ]
+      },
+      "otb": {
+        "before_mask": "0x00002003",
+        "after_mask": "0x00022003",
+        "before": [
+          "block_solid",
+          "block_projectile",
+          "always_on_top"
+        ],
+        "after": [
+          "block_solid",
+          "block_projectile",
+          "always_on_top",
+          "vertical"
+        ]
+      }
+    },
+    {
+      "sequence": 23,
+      "server_id": 25182,
+      "client_id": 24297,
+      "dat": {
+        "before": [
+          "on_bottom",
+          "unpassable",
+          "unmoveable",
+          "block_missile",
+          "mini_map"
+        ],
+        "after": [
+          "on_bottom",
+          "unpassable",
+          "unmoveable",
+          "block_missile",
+          "mini_map",
+          "vertical"
+        ]
+      },
+      "otb": {
+        "before_mask": "0x00002003",
+        "after_mask": "0x00042003",
+        "before": [
+          "block_solid",
+          "block_projectile",
+          "always_on_top"
+        ],
+        "after": [
+          "block_solid",
+          "block_projectile",
+          "always_on_top",
+          "horizontal"
+        ]
+      }
+    },
+    {
+      "sequence": 24,
+      "server_id": 25183,
+      "client_id": 24298,
+      "dat": {
+        "before": [
+          "on_bottom",
+          "unpassable",
+          "unmoveable",
+          "block_missile",
+          "mini_map"
+        ],
+        "after": [
+          "on_bottom",
+          "unpassable",
+          "unmoveable",
+          "block_missile",
+          "mini_map",
+          "horizontal"
+        ]
+      },
+      "otb": {
+        "before_mask": "0x00002003",
+        "after_mask": "0x00022003",
+        "before": [
+          "block_solid",
+          "block_projectile",
+          "always_on_top"
+        ],
+        "after": [
+          "block_solid",
+          "block_projectile",
+          "always_on_top",
+          "vertical"
+        ]
+      }
+    },
+    {
+      "sequence": 25,
+      "server_id": 25185,
+      "client_id": 24300,
+      "dat": {
+        "before": [
+          "on_bottom",
+          "unpassable",
+          "unmoveable",
+          "block_missile",
+          "vertical",
+          "mini_map"
+        ],
+        "after": [
+          "on_bottom",
+          "unpassable",
+          "unmoveable",
+          "block_missile",
+          "mini_map"
+        ]
+      },
+      "otb": {
+        "before_mask": "0x00042003",
+        "after_mask": "0x00002003",
+        "before": [
+          "block_solid",
+          "block_projectile",
+          "always_on_top",
+          "horizontal"
+        ],
+        "after": [
+          "block_solid",
+          "block_projectile",
+          "always_on_top"
+        ]
+      }
+    },
+    {
+      "sequence": 26,
+      "server_id": 25186,
+      "client_id": 24301,
+      "dat": {
+        "before": [
+          "on_bottom",
+          "unpassable",
+          "unmoveable",
+          "block_missile",
+          "vertical",
+          "mini_map"
+        ],
+        "after": [
+          "on_bottom",
+          "unpassable",
+          "unmoveable",
+          "block_missile",
+          "mini_map",
+          "horizontal"
+        ]
+      },
+      "otb": {
+        "before_mask": "0x00042003",
+        "after_mask": "0x00022003",
+        "before": [
+          "block_solid",
+          "block_projectile",
+          "always_on_top",
+          "horizontal"
+        ],
+        "after": [
+          "block_solid",
+          "block_projectile",
+          "always_on_top",
+          "vertical"
+        ]
+      }
+    },
+    {
+      "sequence": 27,
+      "server_id": 25190,
+      "client_id": 24305,
+      "dat": {
+        "before": [
+          "on_bottom",
+          "unpassable",
+          "unmoveable",
+          "block_missile",
+          "vertical",
+          "mini_map"
+        ],
+        "after": [
+          "on_bottom",
+          "unpassable",
+          "unmoveable",
+          "block_missile",
+          "mini_map",
+          "horizontal"
+        ]
+      },
+      "otb": {
+        "before_mask": "0x00042003",
+        "after_mask": "0x00022003",
+        "before": [
+          "block_solid",
+          "block_projectile",
+          "always_on_top",
+          "horizontal"
+        ],
+        "after": [
+          "block_solid",
+          "block_projectile",
+          "always_on_top",
+          "vertical"
+        ]
+      }
+    },
+    {
+      "sequence": 28,
+      "server_id": 25191,
+      "client_id": 24306,
+      "dat": {
+        "before": [
+          "on_bottom",
+          "unpassable",
+          "unmoveable",
+          "block_missile",
+          "vertical",
+          "mini_map"
+        ],
+        "after": [
+          "on_bottom",
+          "unpassable",
+          "unmoveable",
+          "block_missile",
+          "mini_map",
+          "horizontal"
+        ]
+      },
+      "otb": {
+        "before_mask": "0x00042003",
+        "after_mask": "0x00022003",
+        "before": [
+          "block_solid",
+          "block_projectile",
+          "always_on_top",
+          "horizontal"
+        ],
+        "after": [
+          "block_solid",
+          "block_projectile",
+          "always_on_top",
+          "vertical"
+        ]
+      }
+    }
+  ],
+  "transaction_committed": true,
+  "untouched_assets_preserved": true,
+  "final_validation_passed": true,
+  "warnings": [],
+  "errors": [],
+  "passed": true
+}

@@ -1,0 +1,141 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "manifest": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\manifest-bamboo-carpet-use-properties-20260904.csv",
+  "version_backup": {
+    "tool_version": "0.8.1",
+    "version_id": "20260904-102843-830180",
+    "created_at": "2026-09-04T10:28:55.444078-03:00",
+    "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20260904-102843-830180",
+    "rar_executable": "C:\\Program Files\\WinRAR\\Rar.exe",
+    "sources": [
+      {
+        "path": "assets/860/.gitattributes",
+        "size": 43,
+        "sha256": "D5636A3257287440945C5E017581545E5B0A3E2FDDDAE7C5EF8D90FF4DF3D32A"
+      },
+      {
+        "path": "assets/860/Tibia.dat",
+        "size": 4379114,
+        "sha256": "14CFA5EEB59ED6FBAB9B7F2695923B5BE17A535ACF821FF344A07274CBD6B4F9"
+      },
+      {
+        "path": "assets/860/Tibia.otfi",
+        "size": 185,
+        "sha256": "7743548835944BC799CB871A4E5DEF84F7AF76815031871B9CE74B5EC0E8ADD3"
+      },
+      {
+        "path": "assets/860/Tibia.spr",
+        "size": 433179054,
+        "sha256": "B3CD10EF202DFEDE5F3D1CD6CBEA533229F8899DA51EDC5FEDF4F55DD8BE9D9D"
+      },
+      {
+        "path": "assets/items/force use.txt",
+        "size": 419,
+        "sha256": "BCB478FDF3F45ECA8D172AFD7A17D3F8CD520924EE0894752452B8FDC8F71959"
+      },
+      {
+        "path": "assets/items/items.otb",
+        "size": 1003404,
+        "sha256": "8D9EB2A5FA46E69FA5889CB100906754C36B5F3AAC0BF908C32163AD4F6F519A"
+      },
+      {
+        "path": "assets/world/mapanovo.otbm",
+        "size": 80109484,
+        "sha256": "FEB55A08B8A9ABD9CC129B23BB1D2ED067A903C9473F0D45F62B5CA16CDD6DB5"
+      }
+    ],
+    "archives": {
+      "860": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20260904-102843-830180\\860.rar",
+        "size": 83351958,
+        "sha256": "1DA8AC329617472E97D8578711E6AB6A83950B403BB9DDC421CE00C668F5D144"
+      },
+      "items": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20260904-102843-830180\\items.rar",
+        "size": 476800,
+        "sha256": "B7BFD07D5C4F90F3C4B6E5BECB3ED0D874BC5FF43476CE636F1DF4132981EE32"
+      },
+      "world": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20260904-102843-830180\\world.zip",
+        "size": 19340601,
+        "sha256": "DCFFBB6FB455DD8E051C696548FB4210CF88F7F802692C8F96FBEC7EFA8231DA"
+      }
+    },
+    "items_xml_excluded": true,
+    "world_entries": [
+      "mapanovo.otbm"
+    ],
+    "passed": true
+  },
+  "item_count": 2,
+  "items": [
+    {
+      "sequence": 1,
+      "server_id": 14569,
+      "client_id": 13692,
+      "dat": {
+        "before": [
+          "stackable",
+          "pickupable"
+        ],
+        "after": [
+          "stackable",
+          "pickupable",
+          "multi_use"
+        ]
+      },
+      "otb": {
+        "before_mask": "0x000000E0",
+        "after_mask": "0x000000F0",
+        "before": [
+          "pickupable",
+          "movable",
+          "stackable"
+        ],
+        "after": [
+          "usable",
+          "pickupable",
+          "movable",
+          "stackable"
+        ]
+      }
+    },
+    {
+      "sequence": 2,
+      "server_id": 14605,
+      "client_id": 13726,
+      "dat": {
+        "before": [
+          "stackable",
+          "pickupable"
+        ],
+        "after": [
+          "stackable",
+          "pickupable",
+          "multi_use"
+        ]
+      },
+      "otb": {
+        "before_mask": "0x000000E0",
+        "after_mask": "0x000000F0",
+        "before": [
+          "pickupable",
+          "movable",
+          "stackable"
+        ],
+        "after": [
+          "usable",
+          "pickupable",
+          "movable",
+          "stackable"
+        ]
+      }
+    }
+  ],
+  "transaction_committed": true,
+  "untouched_assets_preserved": true,
+  "final_validation_passed": true,
+  "warnings": [],
+  "errors": [],
+  "passed": true
+}

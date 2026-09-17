@@ -1,0 +1,10 @@
+sequence,server_id,client_id,dat_add_flags,dat_remove_flags,otb_add_flags,otb_remove_flags
+1,22904,22019,on_bottom|unpassable|unmoveable|block_missile|block_pathfind,,block_solid|block_projectile|block_pathfind|always_on_top,movable
+2,22905,22020,on_bottom|unpassable|unmoveable|block_missile|block_pathfind,,block_solid|block_projectile|block_pathfind|always_on_top,movable
+3,22906,22021,on_bottom|unpassable|unmoveable|block_missile|block_pathfind,,block_solid|block_projectile|block_pathfind|always_on_top,movable
+4,22907,22022,on_bottom|unpassable|unmoveable|block_missile|block_pathfind,,block_solid|block_projectile|block_pathfind|always_on_top,movable
+5,22908,22023,on_bottom|unpassable|unmoveable|block_missile|block_pathfind,,block_solid|block_projectile|block_pathfind|always_on_top,movable
+6,22909,22024,on_bottom|unpassable|unmoveable|block_missile|block_pathfind,,block_solid|block_projectile|block_pathfind|always_on_top,movable
+7,22910,22025,on_bottom|unpassable|unmoveable|block_missile|block_pathfind,,block_solid|block_projectile|block_pathfind|always_on_top,movable
+8,22911,22026,on_bottom|unpassable|unmoveable|block_missile|block_pathfind,,block_solid|block_projectile|block_pathfind|always_on_top,movable
+9,22912,22027,on_bottom|unpassable|unmoveable|block_missile|block_pathfind,,block_solid|block_projectile|block_pathfind|always_on_top,movable

@@ -40,6 +40,18 @@ class DatRecordSpan:
     appearances: tuple[DatAppearance, ...]
 
 
+@dataclass(frozen=True)
+class DatAnimationTiming:
+    category: str
+    thing_id: int
+    frames: int
+    animation_async: bool
+    loop_count: int
+    start_frame: int
+    duration_offsets: tuple[int, ...]
+    durations: tuple[tuple[int, int], ...]
+
+
 def _require_new_destination(source: Path, destination: Path) -> None:
     if source.resolve() == destination.resolve():
         raise FormatError("origem e destino não podem ser o mesmo arquivo")
@@ -199,6 +211,8 @@ def encode_item_appearance(
     *,
     frame_duration_ms: int | None = None,
     animation_async: bool = False,
+    exact_size: int | None = None,
+    allow_zero_sprite_ids: bool = False,
 ) -> bytes:
     if width < 1 or height < 1 or width > 255 or height > 255:
         raise FormatError(f"dimensões DAT inválidas: {width}x{height}")
@@ -210,7 +224,9 @@ def encode_item_appearance(
             f"{width * height * frames} sprites, "
             f"recebeu {len(sprite_ids)}"
         )
-    if any(sprite_id <= 0 for sprite_id in sprite_ids):
+    if any(sprite_id < 0 for sprite_id in sprite_ids):
+        raise FormatError("Sprite ID nao pode ser negativo")
+    if not allow_zero_sprite_ids and any(sprite_id == 0 for sprite_id in sprite_ids):
         raise FormatError("aparência importada não pode referenciar Sprite ID zero")
     if frames > 1:
         if not otfi.frame_durations:
@@ -221,12 +237,14 @@ def encode_item_appearance(
         raise FormatError("frame_duration_ms somente é válido para animações")
     output = bytearray((width, height))
     if width > 1 or height > 1:
-        exact_size = max(width, height) * otfi.sprite_size
-        if exact_size > 0xFF:
+        encoded_exact_size = exact_size or max(width, height) * otfi.sprite_size
+        if not 1 <= encoded_exact_size <= 0xFF:
             raise FormatError(
-                f"exactSize {exact_size} excede o byte do DAT para {width}x{height}"
+                f"exactSize {encoded_exact_size} excede o byte do DAT para {width}x{height}"
             )
-        output.append(exact_size)
+        output.append(encoded_exact_size)
+    elif exact_size is not None:
+        raise FormatError("exact_size somente e valido para aparencias multitile")
     output.extend((1, 1, 1, 1, frames))
     if frames > 1:
         output.extend(struct.pack("<BiB", int(animation_async), 0, 0))
@@ -263,6 +281,126 @@ def write_dat_item_appearances(
             else:
                 output.write(data[span.start : span.end])
     return {thing_id: items[thing_id] for thing_id in replacements}
+
+
+def write_dat_appearances(
+    source: Path,
+    destination: Path,
+    otfi: OtfiConfig,
+    category: str,
+    replacements: dict[int, bytes],
+) -> dict[int, DatRecordSpan]:
+    """Replace appearances in one DAT category while preserving properties verbatim."""
+
+    _require_new_destination(source, destination)
+    data = source.read_bytes()
+    spans = scan_dat_record_spans(data, otfi, str(source))
+    records = {
+        span.thing_id: span for span in spans if span.category == category
+    }
+    missing = sorted(set(replacements) - set(records))
+    if missing:
+        raise FormatError(f"IDs DAT inexistentes em {category}: {missing}")
+    with atomic_binary_output(destination) as output:
+        output.write(data[:12])
+        for span in spans:
+            if span.category == category and span.thing_id in replacements:
+                output.write(data[span.start : span.properties_end])
+                output.write(replacements[span.thing_id])
+            else:
+                output.write(data[span.start : span.end])
+    return {thing_id: records[thing_id] for thing_id in replacements}
+
+
+def read_dat_animation_timings(
+    data: bytes,
+    otfi: OtfiConfig,
+    category: str,
+    thing_ids: set[int],
+    source: str,
+) -> dict[int, DatAnimationTiming]:
+    if category == "outfits":
+        raise FormatError("edicao de duracao para outfits ainda nao e suportada")
+    spans = {
+        span.thing_id: span
+        for span in scan_dat_record_spans(data, otfi, source)
+        if span.category == category and span.thing_id in thing_ids
+    }
+    missing = sorted(thing_ids - set(spans))
+    if missing:
+        raise FormatError(f"IDs DAT inexistentes em {category}: {missing}")
+
+    timings: dict[int, DatAnimationTiming] = {}
+    for thing_id, span in spans.items():
+        position = span.properties_end
+        width, height = struct.unpack_from("<BB", data, position)
+        position += 2
+        if width > 1 or height > 1:
+            position += 1
+        _layers, _pattern_x, _pattern_y, _pattern_z, frames = struct.unpack_from(
+            "<BBBBB", data, position
+        )
+        position += 5
+        if frames <= 1:
+            raise FormatError(f"{category} {thing_id} nao possui animacao")
+        animation_async, loop_count, start_frame = struct.unpack_from(
+            "<BiB", data, position
+        )
+        position += 6
+        offsets: list[int] = []
+        durations: list[tuple[int, int]] = []
+        for _ in range(frames):
+            offsets.append(position)
+            durations.append(struct.unpack_from("<II", data, position))
+            position += 8
+        timings[thing_id] = DatAnimationTiming(
+            category=category,
+            thing_id=thing_id,
+            frames=frames,
+            animation_async=bool(animation_async),
+            loop_count=loop_count,
+            start_frame=start_frame,
+            duration_offsets=tuple(offsets),
+            durations=tuple(durations),
+        )
+    return timings
+
+
+def write_dat_animation_durations(
+    source: Path,
+    destination: Path,
+    otfi: OtfiConfig,
+    category: str,
+    edits: dict[int, tuple[int, ...]],
+) -> dict[int, dict[str, object]]:
+    _require_new_destination(source, destination)
+    source_data = source.read_bytes()
+    timings = read_dat_animation_timings(
+        source_data, otfi, category, set(edits), str(source)
+    )
+    output = bytearray(source_data)
+    changes: dict[int, dict[str, object]] = {}
+    for thing_id, durations in edits.items():
+        timing = timings[thing_id]
+        if len(durations) != timing.frames:
+            raise FormatError(
+                f"{category} {thing_id}: esperado {timing.frames} tempos, "
+                f"recebido {len(durations)}"
+            )
+        if any(duration < 1 or duration > 0xFFFFFFFF for duration in durations):
+            raise FormatError(f"{category} {thing_id}: duracao fora da faixa valida")
+        for offset, duration in zip(timing.duration_offsets, durations):
+            struct.pack_into("<II", output, offset, duration, duration)
+        changes[thing_id] = {
+            "before": timing.durations,
+            "after": tuple((duration, duration) for duration in durations),
+            "animation_async": timing.animation_async,
+            "loop_count": timing.loop_count,
+            "start_frame": timing.start_frame,
+        }
+    with atomic_binary_output(destination) as stream:
+        stream.write(output)
+    return changes
 
 
 def _dat_property_chunks(

@@ -1,0 +1,148 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "manifest": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\bless-pvp-kijin-20260911.csv",
+  "profile": "tibia-860-v2-custom-extended",
+  "version_backup": {
+    "tool_version": "0.8.1",
+    "version_id": "20260911-211741-749763",
+    "created_at": "2026-09-11T21:17:56.898922-03:00",
+    "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20260911-211741-749763",
+    "rar_executable": "C:\\Program Files\\WinRAR\\Rar.exe",
+    "sources": [
+      {
+        "path": "assets/860/.gitattributes",
+        "size": 43,
+        "sha256": "D5636A3257287440945C5E017581545E5B0A3E2FDDDAE7C5EF8D90FF4DF3D32A"
+      },
+      {
+        "path": "assets/860/Tibia.dat",
+        "size": 4379229,
+        "sha256": "1C59AA38B9C7BEBE0DC284F0002CC878D31AB58A473A1EDA12F3E704BEFB31AF"
+      },
+      {
+        "path": "assets/860/Tibia.otfi",
+        "size": 185,
+        "sha256": "7743548835944BC799CB871A4E5DEF84F7AF76815031871B9CE74B5EC0E8ADD3"
+      },
+      {
+        "path": "assets/860/Tibia.spr",
+        "size": 433218700,
+        "sha256": "D4D87839081CB9777AECC335512C3D38C9248D244D515346C3352148114BF957"
+      },
+      {
+        "path": "assets/items/force use.txt",
+        "size": 419,
+        "sha256": "BCB478FDF3F45ECA8D172AFD7A17D3F8CD520924EE0894752452B8FDC8F71959"
+      },
+      {
+        "path": "assets/items/items.otb",
+        "size": 1003405,
+        "sha256": "A09685A041848360EDF4B58D0052B00BF856E1B6AC4B06603264CCD292F3C6C6"
+      },
+      {
+        "path": "assets/world/mapanovo.otbm",
+        "size": 80105770,
+        "sha256": "8CDFDDF9DC2A9E53053E4F3FAF7F6825FD89B6B63EE06272ECD234B387202821"
+      }
+    ],
+    "archives": {
+      "860": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20260911-211741-749763\\860.rar",
+        "size": 83482535,
+        "sha256": "B236721D762B3D9917D39C814CB591FEAEB1000D0F0F020B23CD88186E6EBE7B"
+      },
+      "items": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20260911-211741-749763\\items.rar",
+        "size": 476970,
+        "sha256": "D7520742F27B48614EFD02B873B5D7B9E342EFAAE7A9672FE9BB011E83B18F24"
+      },
+      "world": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20260911-211741-749763\\world.zip",
+        "size": 19337359,
+        "sha256": "170CD29639D001F9273247C874479344E8207ECB971919AE0E8CAE14295E4A31"
+      }
+    },
+    "items_xml_excluded": true,
+    "world_entries": [
+      "mapanovo.otbm"
+    ],
+    "passed": true
+  },
+  "sprite_hash_gate": {
+    "sample_count": 64,
+    "mismatch_count": 0,
+    "mismatches": [],
+    "passed": true
+  },
+  "item_count": 2,
+  "new_sprite_count": 10,
+  "sprite_id_range": [
+    254589,
+    254598
+  ],
+  "items": [
+    {
+      "sequence": 1,
+      "client_id": 13807,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\Icon_Blessing_PVP_2.png",
+      "file_sha256": "582231C85E0058E093EC35102A06757BA8205B83E1ACD824BB07EE0ADD739C0D",
+      "pixels_sha256": "3B50E333F3851222CB71BAC9D82C6D804C58C2094C61BFA23CDFC0E71340DB0D",
+      "image_width": 32,
+      "image_height": 32,
+      "width_tiles": 1,
+      "height_tiles": 1,
+      "frames": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_ids": [
+        254589
+      ],
+      "sprite_hash": "FDED8A93879737FA9A7DFA6C7700ED1B"
+    },
+    {
+      "sequence": 2,
+      "client_id": 13758,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\locker1.png",
+      "file_sha256": "6AC9C0C636A525EBE11623D2607903A2B5A71A08D3B19BCD64EE38097C5373EE",
+      "pixels_sha256": "CD78940F14067FE67FB10A13EF2367982DEC47B8C7C60FAAF308A84752233BE3",
+      "image_width": 96,
+      "image_height": 96,
+      "width_tiles": 3,
+      "height_tiles": 3,
+      "frames": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_ids": [
+        254590,
+        254591,
+        254592,
+        254593,
+        254594,
+        254595,
+        254596,
+        254597,
+        254598
+      ],
+      "sprite_hash": "24F3838E9CEA3B66B9DA2E3E461D7DC0"
+    }
+  ],
+  "otb_nodes_updated": {
+    "13807": 1,
+    "13758": 1
+  },
+  "transaction_committed": true,
+  "output_hashes": {
+    "dat": "60BA1EE752FE20401AA404CEA06EF39075B16F0D35F57152D682F9CC83FA348D",
+    "spr": "8A8E8676CFA165D1A7810EB0D2BEB6E100C7528B07829DAFB19955A2C8CB7B5C",
+    "otb": "8CD43152B1E66A0C5C6ED2DE6E07A18116A7BA2E331C43B1DC492B6061BA43E2"
+  },
+  "dat_non_targets_preserved": true,
+  "old_sprite_payload_preserved": true,
+  "new_sprite_pixels_verified": true,
+  "untouched_files_preserved": true,
+  "map_byte_equal": true,
+  "final_validation_passed": true,
+  "warnings": [],
+  "errors": [],
+  "passed": true
+}

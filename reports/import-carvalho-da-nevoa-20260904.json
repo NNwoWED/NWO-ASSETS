@@ -1,0 +1,156 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "manifest": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\import-carvalho-da-nevoa-20260904.csv",
+  "profile": "tibia-860-v2-custom-extended",
+  "version_backup": {
+    "tool_version": "0.8.1",
+    "version_id": "20260904-011606-282822",
+    "created_at": "2026-09-04T01:16:16.543177-03:00",
+    "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20260904-011606-282822",
+    "rar_executable": "C:\\Program Files\\WinRAR\\Rar.exe",
+    "sources": [
+      {
+        "path": "assets/860/.gitattributes",
+        "size": 43,
+        "sha256": "D5636A3257287440945C5E017581545E5B0A3E2FDDDAE7C5EF8D90FF4DF3D32A"
+      },
+      {
+        "path": "assets/860/Tibia.dat",
+        "size": 4378967,
+        "sha256": "DFE37129C43364693FA8EF332232947954D183091A4C450FBDA04746A15AF2D7"
+      },
+      {
+        "path": "assets/860/Tibia.otfi",
+        "size": 185,
+        "sha256": "7743548835944BC799CB871A4E5DEF84F7AF76815031871B9CE74B5EC0E8ADD3"
+      },
+      {
+        "path": "assets/860/Tibia.spr",
+        "size": 432988701,
+        "sha256": "BD69B13DB9936F5463B2B255BFA52848BACEDCE9D0C4AC3ECA3A195A0382A1D6"
+      },
+      {
+        "path": "assets/items/force use.txt",
+        "size": 419,
+        "sha256": "BCB478FDF3F45ECA8D172AFD7A17D3F8CD520924EE0894752452B8FDC8F71959"
+      },
+      {
+        "path": "assets/items/items.otb",
+        "size": 1003400,
+        "sha256": "90CA30F246B0D0778CD6DE04892692EDA24570C3844C780929784AF01F70FBFE"
+      },
+      {
+        "path": "assets/world/mapanovo.otbm",
+        "size": 80109484,
+        "sha256": "FEB55A08B8A9ABD9CC129B23BB1D2ED067A903C9473F0D45F62B5CA16CDD6DB5"
+      }
+    ],
+    "archives": {
+      "860": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20260904-011606-282822\\860.rar",
+        "size": 83433330,
+        "sha256": "A55CB7CEB27EB055D737195B4F0835212699ED357E9C0F7DB4172C4C4B121165"
+      },
+      "items": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20260904-011606-282822\\items.rar",
+        "size": 476196,
+        "sha256": "384DDB91461D63F4E9491583BAA226AF2D3185FC29B383255D005C177F6E7B3C"
+      },
+      "world": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20260904-011606-282822\\world.zip",
+        "size": 19340601,
+        "sha256": "DCFFBB6FB455DD8E051C696548FB4210CF88F7F802692C8F96FBEC7EFA8231DA"
+      }
+    },
+    "items_xml_excluded": true,
+    "world_entries": [
+      "mapanovo.otbm"
+    ],
+    "passed": true
+  },
+  "sprite_hash_gate": {
+    "sample_count": 64,
+    "mismatch_count": 0,
+    "mismatches": [],
+    "passed": true
+  },
+  "item_count": 1,
+  "new_sprite_count": 36,
+  "sprite_id_range": [
+    254462,
+    254497
+  ],
+  "items": [
+    {
+      "sequence": 1,
+      "client_id": 13697,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\carvalho-da-nevoa-96x384-4frames-300ms.png",
+      "file_sha256": "7F9D82F5E0E26C8514D572407D7363A16AFD560B198421973615A42DC351B59C",
+      "pixels_sha256": "888238FDCA715B2CA516173D7409E17537BA4CB190FAC66BB77DC049663CCF94",
+      "image_width": 96,
+      "image_height": 384,
+      "width_tiles": 3,
+      "height_tiles": 3,
+      "frames": 4,
+      "frame_duration_ms": 300,
+      "animation_async": false,
+      "sprite_ids": [
+        254462,
+        254463,
+        254464,
+        254465,
+        254466,
+        254467,
+        254468,
+        254469,
+        254470,
+        254471,
+        254472,
+        254473,
+        254474,
+        254475,
+        254476,
+        254477,
+        254478,
+        254479,
+        254480,
+        254481,
+        254482,
+        254483,
+        254484,
+        254485,
+        254486,
+        254487,
+        254488,
+        254489,
+        254490,
+        254491,
+        254492,
+        254493,
+        254494,
+        254495,
+        254496,
+        254497
+      ],
+      "sprite_hash": "E2FD8563DC279AA4FA986D073856CEA9"
+    }
+  ],
+  "otb_nodes_updated": {
+    "13697": 1
+  },
+  "transaction_committed": true,
+  "output_hashes": {
+    "dat": "98F5D7BE7480C91680555E2EEF8CAD9322F6802C67B3AB7DAF624E6D3F663A9E",
+    "spr": "E1BB34AB33418D1A4930C0502A520732F9DFD979079FE9858A63B095EA34B185",
+    "otb": "0EEF074D9AE45AFFC335113A13FFE3623002806B36B01764DB3CDA80EBDE86FA"
+  },
+  "dat_non_targets_preserved": true,
+  "old_sprite_payload_preserved": true,
+  "new_sprite_pixels_verified": true,
+  "untouched_files_preserved": true,
+  "map_byte_equal": true,
+  "final_validation_passed": true,
+  "warnings": [],
+  "errors": [],
+  "passed": true
+}

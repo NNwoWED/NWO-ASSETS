@@ -1,0 +1,5 @@
+sequence,server_id,client_id,dat_add_flags,dat_remove_flags,otb_add_flags,otb_remove_flags
+1,14566,13689,hangable|rotatable,stackable,hangable|rotatable,stackable
+2,14568,13691,hangable|rotatable,stackable,hangable|rotatable,stackable
+3,14580,13701,rotatable,stackable,rotatable,stackable
+4,14581,13702,rotatable,stackable,rotatable,stackable

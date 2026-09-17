@@ -1,0 +1,145 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "profile": {
+    "key": "tibia-860-v2-custom-extended",
+    "client_version": 860,
+    "label": "Tibia 8.60 v2 customizado com features OTFI",
+    "dat_signature": "0x4C2C7993",
+    "spr_signature": "0x4C220594",
+    "metadata_reader": 5,
+    "otb_version_hint": "8.60"
+  },
+  "category": "items",
+  "id_kind": "server",
+  "requested_ids": [
+    14761,
+    24966,
+    25056,
+    25100
+  ],
+  "output_dir": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items",
+  "exported_count": 4,
+  "exported": [
+    {
+      "requested_id": 14761,
+      "client_id": 13882,
+      "server_ids": [
+        14761
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        81167
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-14761_client-13882.png",
+      "size": 382,
+      "sha256": "6AD59866150A997B5FDEECE16C57C002DD07134DFDF344FDE091BE9085DED8CB"
+    },
+    {
+      "requested_id": 24966,
+      "client_id": 24081,
+      "server_ids": [
+        24966
+      ],
+      "name": "Zabuza Backpack",
+      "group_index": 0,
+      "width": 32,
+      "height": 640,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 20,
+      "sprite_ids": [
+        210202,
+        210203,
+        210204,
+        210205,
+        210206,
+        210207,
+        210208,
+        210209,
+        210210,
+        210211,
+        210212,
+        210213,
+        210214,
+        210215,
+        210216,
+        210217,
+        210218,
+        210219,
+        210219,
+        210219
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-24966_client-24081_zabuza-backpack.png",
+      "size": 2118,
+      "sha256": "D9E80AD0FB4EF99C36C39B9926D60A19F19CC7789A54D629B081C7DCD1C9BB3F"
+    },
+    {
+      "requested_id": 25056,
+      "client_id": 24171,
+      "server_ids": [
+        25056
+      ],
+      "name": "Easter Backpack",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        220742
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-25056_client-24171_easter-backpack.png",
+      "size": 851,
+      "sha256": "6EEB7661DAC8AEB04141DDA4E026D3EA29BC422EEAA731BA3DB4B37AB2CEA095"
+    },
+    {
+      "requested_id": 25100,
+      "client_id": 24215,
+      "server_ids": [
+        25100
+      ],
+      "name": "Depot Totem",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        232847,
+        232848,
+        232849,
+        232850
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-25100_client-24215_depot-totem.png",
+      "size": 1345,
+      "sha256": "75C59B66F83593790D01851C7A873336023EE0E5F2407B4145D55D67512568AA"
+    }
+  ],
+  "sources": {
+    "dat": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.dat",
+      "sha256": "E32384BAE4A08F9A6FBC08F322C587DCD3CA7549821D894C00F69E15FE712503"
+    },
+    "spr": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.spr",
+      "sha256": "B6C89671C17C2CFAC692AB2B97E4FD5DDEA1B22977AE3C8D9D36719DF82DA6F3"
+    }
+  },
+  "passed": true
+}

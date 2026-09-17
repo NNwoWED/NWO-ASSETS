@@ -1,0 +1,77 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "profile": {
+    "key": "tibia-860-v2-custom-extended",
+    "client_version": 860,
+    "label": "Tibia 8.60 v2 customizado com features OTFI",
+    "dat_signature": "0x4C2C7993",
+    "spr_signature": "0x4C220594",
+    "metadata_reader": 5,
+    "otb_version_hint": "8.60"
+  },
+  "category": "items",
+  "id_kind": "server",
+  "requested_ids": [
+    14630,
+    14631
+  ],
+  "output_dir": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items",
+  "exported_count": 2,
+  "exported": [
+    {
+      "requested_id": 14630,
+      "client_id": 13751,
+      "server_ids": [
+        14630
+      ],
+      "name": "Icon Cardpack",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        254571
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-14630_client-13751_icon-cardpack.png",
+      "size": 377,
+      "sha256": "290526E1B1232103D88818430DFA891EF72D594E994D762EB04FF5413A1E0F53"
+    },
+    {
+      "requested_id": 14631,
+      "client_id": 13752,
+      "server_ids": [
+        14631
+      ],
+      "name": "Banner Cardpack",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        254572
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-14631_client-13752_banner-cardpack.png",
+      "size": 370,
+      "sha256": "A2C0BD27B19C43DCF1607544185F8F58024A4E6131F433F56422F42754EE7AB1"
+    }
+  ],
+  "sources": {
+    "dat": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.dat",
+      "sha256": "499D1954E5F34A4C8360840E7520C447F23B8766B27273ED48FF8A76F2D48805"
+    },
+    "spr": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.spr",
+      "sha256": "6F1321727674C74D02EFB0F9FC319D79A723B10E4BB656D795F0611389B34838"
+    }
+  },
+  "passed": true
+}

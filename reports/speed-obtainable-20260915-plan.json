@@ -1,0 +1,15 @@
+{
+  "operation": "remove XML speed attribute from obtainable non-boots",
+  "scope": "Fang equipment only; preserve legacy items and all boots",
+  "items": [
+    {"server_id": 24320, "client_id": 23435, "name": "Fang hood", "speed_before": 15, "speed_after": 0},
+    {"server_id": 24321, "client_id": 23436, "name": "Fang vest", "speed_before": 20, "speed_after": 0},
+    {"server_id": 24322, "client_id": 23437, "name": "Fang Legs", "speed_before": 15, "speed_after": 0}
+  ],
+  "appearance": "unchanged; PNG and sprite layout not applicable",
+  "dat_otb_policy": "unchanged; XML ability only, not ground speed",
+  "boots": {"24287": 10, "24341": 5, "24323": 15, "24332": 5},
+  "same_level_rule": "No duplicate equipment levels among confirmed obtainable boots",
+  "excluded": "Mist Assassin Boots (24305): no active acquisition identified",
+  "database": "not accessed"
+}

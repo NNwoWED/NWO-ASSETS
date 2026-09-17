@@ -9,5 +9,5 @@ if errorlevel 1 (
   exit /b 1
 )
 
-echo Assets sincronizados com o servidor e o client.
+echo Assets sincronizados com o servidor, o RME e o client.
 exit /b 0

@@ -1,0 +1,251 @@
+{
+  "profile": {
+    "key": "tibia-860-v2-custom-extended",
+    "client_version": 860,
+    "label": "Tibia 8.60 v2 customizado com features OTFI",
+    "dat_signature": "0x4C2C7993",
+    "spr_signature": "0x4C220594",
+    "metadata_reader": 5,
+    "otb_version_hint": "8.60"
+  },
+  "paths": {
+    "otfi": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.otfi",
+    "dat": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.dat",
+    "spr": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.spr",
+    "otb": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\items\\items.otb"
+  },
+  "otfi": {
+    "extended": true,
+    "transparency": true,
+    "frame_durations": true,
+    "frame_groups": true,
+    "metadata_file": "Tibia.dat",
+    "sprites_file": "Tibia.spr",
+    "sprite_size": 32,
+    "sprite_data_size": 4096
+  },
+  "dat": {
+    "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.dat",
+    "size": 4379231,
+    "signature": "0x4C2C7993",
+    "max_ids": {
+      "items": 24522,
+      "outfits": 2289,
+      "effects": 3363,
+      "missiles": 219
+    },
+    "record_counts": {
+      "items": 24423,
+      "outfits": 2289,
+      "effects": 3363,
+      "missiles": 219
+    },
+    "total_records": 30294,
+    "items_end_offset": 1049288,
+    "parsed_end_offset": 4379231,
+    "flag_counts": {
+      "animate_always": 232,
+      "block_missile": 3833,
+      "block_pathfind": 3599,
+      "cloth": 1,
+      "container": 302,
+      "custom_flag_22": 4,
+      "dont_hide": 312,
+      "fluid": 12,
+      "fluid_container": 26,
+      "force_use": 297,
+      "full_ground": 1564,
+      "ground": 1798,
+      "ground_border": 3630,
+      "hangable": 140,
+      "has_elevation": 1226,
+      "has_light": 1934,
+      "has_offset": 594,
+      "horizontal": 144,
+      "ignore_look": 1197,
+      "lens_help": 511,
+      "lying_object": 47,
+      "market_item": 7,
+      "mini_map": 7965,
+      "multi_use": 531,
+      "on_bottom": 7253,
+      "on_top": 857,
+      "pickupable": 3380,
+      "rotatable": 345,
+      "stackable": 1008,
+      "translucent": 278,
+      "unmoveable": 18490,
+      "unpassable": 8824,
+      "vertical": 158,
+      "writable": 6,
+      "writable_once": 47
+    },
+    "custom_flag_22_occurrences": [
+      {
+        "category": "items",
+        "thing_id": 100,
+        "offset": 24
+      },
+      {
+        "category": "items",
+        "thing_id": 4812,
+        "offset": 143279
+      },
+      {
+        "category": "items",
+        "thing_id": 4814,
+        "offset": 143600
+      },
+      {
+        "category": "items",
+        "thing_id": 20227,
+        "offset": 797120
+      }
+    ],
+    "appearance": {
+      "multi_tile_groups": 14367,
+      "animated_groups": 5888,
+      "max_sprites_in_group": 4000,
+      "sprite_reference_count": 880528,
+      "unique_nonzero_sprite_ids": 251776,
+      "zero_sprite_references": 314543,
+      "min_referenced_sprite_id": 1,
+      "max_referenced_sprite_id": 254598
+    }
+  },
+  "spr": {
+    "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.spr",
+    "size": 433230574,
+    "signature": "0x4C220594",
+    "signature_value": 1277298068,
+    "sprite_count": 254598,
+    "table_start": 8,
+    "table_end": 1018400,
+    "zero_offsets": 0,
+    "nonzero_offsets": 254598,
+    "unique_nonzero_offsets": 254598,
+    "shared_offsets": 0,
+    "min_nonzero_offset": 1018400,
+    "max_nonzero_offset": 433230565,
+    "deep_validation": {
+      "enabled": false
+    }
+  },
+  "otb": {
+    "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\items\\items.otb",
+    "size": 1003405,
+    "file_version": 0,
+    "root_type": 0,
+    "root_flags": 0,
+    "root_version_attribute": 1,
+    "version": {
+      "major": 3,
+      "minor": 20,
+      "build": 20,
+      "csd": "OTB 3.20.20-8.60"
+    },
+    "item_nodes": 25308,
+    "groups": {
+      "0": 22395,
+      "1": 1841,
+      "2": 300,
+      "11": 12,
+      "12": 26,
+      "14": 734
+    },
+    "attribute_counts": {
+      "client_id": 24574,
+      "ground_speed": 1841,
+      "light": 883,
+      "max_read_chars": 48,
+      "max_read_write_chars": 6,
+      "minimap_color": 7994,
+      "name": 7,
+      "server_id": 25308,
+      "sprite_hash": 24574,
+      "stack_order": 11779,
+      "trade_as": 7
+    },
+    "unknown_attributes": {},
+    "malformed_attributes": [],
+    "server_ids": {
+      "count": 25308,
+      "min": 100,
+      "max": 25407,
+      "duplicates": [],
+      "gap_count": 0,
+      "gaps_sample": []
+    },
+    "client_ids": {
+      "count": 24574,
+      "min": 100,
+      "max": 24522,
+      "duplicates": [
+        100,
+        101,
+        110,
+        138,
+        140,
+        144,
+        168,
+        231,
+        248,
+        347,
+        351,
+        352,
+        353,
+        354,
+        355,
+        369,
+        370,
+        386,
+        408,
+        411,
+        413,
+        414,
+        428,
+        432,
+        433,
+        653,
+        654,
+        655,
+        1283,
+        2117,
+        2139,
+        2141,
+        2142,
+        2143,
+        2149,
+        2150,
+        2151,
+        2186,
+        2217,
+        2470,
+        2479,
+        2543,
+        2544,
+        2545,
+        2546,
+        2547,
+        2548,
+        2549,
+        2550,
+        2551
+      ]
+    },
+    "identity_mappings": 1429
+  },
+  "checks": {
+    "profile_detected": true,
+    "otfi_sprite_size_32": true,
+    "otfi_sprite_data_size_4096": true,
+    "dat_signature_matches_profile": true,
+    "spr_signature_matches_profile": true,
+    "otb_mentions_client_version": true,
+    "otb_client_ids_fit_dat": true,
+    "spr_deep_validation": true
+  },
+  "warnings": [],
+  "errors": [],
+  "passed": true
+}

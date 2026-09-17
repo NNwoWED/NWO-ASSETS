@@ -1,0 +1,647 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "profile": {
+    "key": "tibia-860-v2-custom-extended",
+    "client_version": 860,
+    "label": "Tibia 8.60 v2 customizado com features OTFI",
+    "dat_signature": "0x4C2C7993",
+    "spr_signature": "0x4C220594",
+    "metadata_reader": 5,
+    "otb_version_hint": "8.60"
+  },
+  "category": "items",
+  "id_kind": "server",
+  "requested_ids": [
+    14580,
+    14581,
+    14582,
+    14583,
+    14584,
+    14585,
+    14586,
+    14587,
+    14588,
+    14589,
+    14590,
+    14591,
+    14592,
+    14593,
+    14594,
+    14595,
+    14596,
+    14597,
+    14598,
+    16543,
+    16544,
+    16545,
+    19832,
+    19833,
+    19834,
+    19835
+  ],
+  "output_dir": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\furniture-20260904",
+  "exported_count": 26,
+  "exported": [
+    {
+      "requested_id": 14580,
+      "client_id": 13701,
+      "server_ids": [
+        14580
+      ],
+      "name": "Quadro de Kunais",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        254507,
+        254508,
+        254509,
+        254510
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\furniture-20260904\\server-14580_client-13701_quadro-de-kunais.png",
+      "size": 480,
+      "sha256": "C198EA6F57E79C5042EB2C87365210004C2BEF83509525D214AACC835821B641"
+    },
+    {
+      "requested_id": 14581,
+      "client_id": 13702,
+      "server_ids": [
+        14581
+      ],
+      "name": "Quadro de Kunais",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        254511,
+        254512,
+        254513,
+        254514
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\furniture-20260904\\server-14581_client-13702_quadro-de-kunais.png",
+      "size": 606,
+      "sha256": "8452F86823967328FD5B4F8B747A7751A906B0A0F47754814808758DBECAF993"
+    },
+    {
+      "requested_id": 14582,
+      "client_id": 13703,
+      "server_ids": [
+        14582
+      ],
+      "name": "Tapete de Palha 1",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        254515
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\furniture-20260904\\server-14582_client-13703_tapete-de-palha-1.png",
+      "size": 457,
+      "sha256": "5E123401F242ECC2EED31B7085D3ECD6FBD970CDBF878AC064029B013DFE24F9"
+    },
+    {
+      "requested_id": 14583,
+      "client_id": 13704,
+      "server_ids": [
+        14583
+      ],
+      "name": "Tapete de Palha 2",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        254516
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\furniture-20260904\\server-14583_client-13704_tapete-de-palha-2.png",
+      "size": 436,
+      "sha256": "A9808B40BDE3A568A4325A8D3C3C6F190D81AE03FAA4E6A7EAB9302FFC084643"
+    },
+    {
+      "requested_id": 14584,
+      "client_id": 13705,
+      "server_ids": [
+        14584
+      ],
+      "name": "Tapete de Palha 3",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        254517
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\furniture-20260904\\server-14584_client-13705_tapete-de-palha-3.png",
+      "size": 474,
+      "sha256": "4783524CF3528BC3334492BE9A37A4D4DCE3FC2AD10473E06367E643548932AF"
+    },
+    {
+      "requested_id": 14585,
+      "client_id": 13706,
+      "server_ids": [
+        14585
+      ],
+      "name": "Tapete de Palha 4",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        254518
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\furniture-20260904\\server-14585_client-13706_tapete-de-palha-4.png",
+      "size": 436,
+      "sha256": "02C90628418BB1758D3EB70DEE96720AC0ADDDE15B41153B75C90634A937E788"
+    },
+    {
+      "requested_id": 14586,
+      "client_id": 13707,
+      "server_ids": [
+        14586
+      ],
+      "name": "Tapete de Palha 5",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        254519
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\furniture-20260904\\server-14586_client-13707_tapete-de-palha-5.png",
+      "size": 333,
+      "sha256": "97D7AE877E0FF8FD53067215EC2E02655C3D3C3C03D2A4B6E16075156919A461"
+    },
+    {
+      "requested_id": 14587,
+      "client_id": 13708,
+      "server_ids": [
+        14587
+      ],
+      "name": "Tapete de Palha 6",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        254520
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\furniture-20260904\\server-14587_client-13708_tapete-de-palha-6.png",
+      "size": 482,
+      "sha256": "45135051863E1F2DA441AC4713350DAA4A83BE4EA7AA41EE5C876864CF0DF0AE"
+    },
+    {
+      "requested_id": 14588,
+      "client_id": 13709,
+      "server_ids": [
+        14588
+      ],
+      "name": "Tapete de Palha 7",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        254521
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\furniture-20260904\\server-14588_client-13709_tapete-de-palha-7.png",
+      "size": 446,
+      "sha256": "1128336E568AC8B968365CA4CD7C34114AE197D9449137597EB8C17EC50B693B"
+    },
+    {
+      "requested_id": 14589,
+      "client_id": 13710,
+      "server_ids": [
+        14589
+      ],
+      "name": "Tapete de Palha 8",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        254522
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\furniture-20260904\\server-14589_client-13710_tapete-de-palha-8.png",
+      "size": 430,
+      "sha256": "F205B3B2C41711350918F1505610196FB8E0DAA879E6062C1DE5B5272A2A630D"
+    },
+    {
+      "requested_id": 14590,
+      "client_id": 13711,
+      "server_ids": [
+        14590
+      ],
+      "name": "Tapete de Palha 9",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        254523
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\furniture-20260904\\server-14590_client-13711_tapete-de-palha-9.png",
+      "size": 432,
+      "sha256": "B2761A89930F606060565638A019BB63CD8B8A9AD546C1A43D5A1A7E89178BB9"
+    },
+    {
+      "requested_id": 14591,
+      "client_id": 13712,
+      "server_ids": [
+        14591
+      ],
+      "name": "Tapete de Palha 10",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        254524
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\furniture-20260904\\server-14591_client-13712_tapete-de-palha-10.png",
+      "size": 482,
+      "sha256": "B0D5C73ACB0936D920E6C168FBDB23CAFAD19FAF64950D8B205E8601C8318B74"
+    },
+    {
+      "requested_id": 14592,
+      "client_id": 13713,
+      "server_ids": [
+        14592
+      ],
+      "name": "Tapete de Palha 11",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        254525
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\furniture-20260904\\server-14592_client-13713_tapete-de-palha-11.png",
+      "size": 453,
+      "sha256": "6EBA1025E42B5B8D86904D3C2F97BF0C65508A0E45ED31D7376875C95FE9CEEB"
+    },
+    {
+      "requested_id": 14593,
+      "client_id": 13714,
+      "server_ids": [
+        14593
+      ],
+      "name": "Tapete de Palha 12",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        254526
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\furniture-20260904\\server-14593_client-13714_tapete-de-palha-12.png",
+      "size": 471,
+      "sha256": "5990C033E98080B518C9280294AB3AA0422184B070C1BD6E7A6CF69CC968E996"
+    },
+    {
+      "requested_id": 14594,
+      "client_id": 13715,
+      "server_ids": [
+        14594
+      ],
+      "name": "Tapete de Palha 13",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        254527
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\furniture-20260904\\server-14594_client-13715_tapete-de-palha-13.png",
+      "size": 477,
+      "sha256": "F1A43D3814C3D3635C3AAA5EE704104FFCAB77C65EDC4340140120EB43AD5A0C"
+    },
+    {
+      "requested_id": 14595,
+      "client_id": 13716,
+      "server_ids": [
+        14595
+      ],
+      "name": "Tapete de Palha 14",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        254528
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\furniture-20260904\\server-14595_client-13716_tapete-de-palha-14.png",
+      "size": 403,
+      "sha256": "881BFF285787B9AEE980EF155B14D6C4A116E631ABA08898085EDB5A0FEBBD1F"
+    },
+    {
+      "requested_id": 14596,
+      "client_id": 13717,
+      "server_ids": [
+        14596
+      ],
+      "name": "Tapete de Palha 15",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        254529
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\furniture-20260904\\server-14596_client-13717_tapete-de-palha-15.png",
+      "size": 476,
+      "sha256": "F37FA583F3B23EC7E345DAE5F640E93E41341014CEB99C094E508F318D9731A9"
+    },
+    {
+      "requested_id": 14597,
+      "client_id": 13718,
+      "server_ids": [
+        14597
+      ],
+      "name": "Caixa da Mesa de Madeira Horizontal",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        254530
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\furniture-20260904\\server-14597_client-13718_caixa-da-mesa-de-madeira-horizontal.png",
+      "size": 772,
+      "sha256": "15BBD867D38EC5B01E5EA8BCFA4F8764F12D301B55962FE5D54CE631D89DE249"
+    },
+    {
+      "requested_id": 14598,
+      "client_id": 13719,
+      "server_ids": [
+        14598
+      ],
+      "name": "Caixa da Mesa de Madeira Vertical",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        254531
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\furniture-20260904\\server-14598_client-13719_caixa-da-mesa-de-madeira-vertical.png",
+      "size": 712,
+      "sha256": "9A819A939623C33800DE19B5247C0FDB1509FE72783B38278A0638E95D8BD484"
+    },
+    {
+      "requested_id": 16543,
+      "client_id": 15658,
+      "server_ids": [
+        16543
+      ],
+      "name": "Almofada",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        254532
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\furniture-20260904\\server-16543_client-15658_almofada.png",
+      "size": 315,
+      "sha256": "4A2D1E69637BF025B576A8481CD96EF322432BB8C20D3610D1A94ED2084224ED"
+    },
+    {
+      "requested_id": 16544,
+      "client_id": 15659,
+      "server_ids": [
+        16544
+      ],
+      "name": "Cadeira de Madeira",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        254533
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\furniture-20260904\\server-16544_client-15659_cadeira-de-madeira.png",
+      "size": 381,
+      "sha256": "C89DC724FDBA7F8CFCCC49FBECB2DACB90A6784CE2B2EAD9C82243517430DB41"
+    },
+    {
+      "requested_id": 16545,
+      "client_id": 15660,
+      "server_ids": [
+        16545
+      ],
+      "name": "Cadeira de Madeira",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        254534
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\furniture-20260904\\server-16545_client-15660_cadeira-de-madeira.png",
+      "size": 443,
+      "sha256": "F83FDBCED50D65697524AB12CE53E2C6475F5531561DD645196409D34BFC08BA"
+    },
+    {
+      "requested_id": 19832,
+      "client_id": 18947,
+      "server_ids": [
+        19832
+      ],
+      "name": "Mesa de Madeira Horizontal",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        254535,
+        254536,
+        254537,
+        254538
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\furniture-20260904\\server-19832_client-18947_mesa-de-madeira-horizontal.png",
+      "size": 499,
+      "sha256": "8EE79BA7AD5028FBDD0A03EC6E32E9C9FF1FF21ED840A5659B37DC3BAE4CF172"
+    },
+    {
+      "requested_id": 19833,
+      "client_id": 18948,
+      "server_ids": [
+        19833
+      ],
+      "name": "Mesa de Madeira Horizontal",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        254539,
+        254540,
+        254541,
+        254542
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\furniture-20260904\\server-19833_client-18948_mesa-de-madeira-horizontal.png",
+      "size": 343,
+      "sha256": "35875C1B15F79B61FFAE10314842E3C39D6C75534A41E76BF3BD17DB38FB5765"
+    },
+    {
+      "requested_id": 19834,
+      "client_id": 18949,
+      "server_ids": [
+        19834
+      ],
+      "name": "Mesa de Madeira Vertical",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        254543,
+        254544,
+        254545,
+        254546
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\furniture-20260904\\server-19834_client-18949_mesa-de-madeira-vertical.png",
+      "size": 475,
+      "sha256": "0ABBA79C0E029A4299672ADD925B1A593CF7A2DB1EDBD04F779F54EB037693A1"
+    },
+    {
+      "requested_id": 19835,
+      "client_id": 18950,
+      "server_ids": [
+        19835
+      ],
+      "name": "Mesa de Madeira Vertical",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        254547,
+        254548,
+        254549,
+        254550
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\furniture-20260904\\server-19835_client-18950_mesa-de-madeira-vertical.png",
+      "size": 327,
+      "sha256": "5C8A1853597C5D7ADB8F1E7E5D4FD768020E6C3046830D31FCD57239342CD068"
+    }
+  ],
+  "sources": {
+    "dat": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.dat",
+      "sha256": "6525248D15A14073EF5631C4A8CC963F8A802884055556B21B4606FDB6FF84A8"
+    },
+    "spr": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.spr",
+      "sha256": "FB10C0856017546C2A2BAF7871980030419D2F8340F6795314E41DC12B59CD55"
+    }
+  },
+  "passed": true
+}

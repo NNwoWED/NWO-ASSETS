@@ -1,0 +1,100 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "profile": {
+    "key": "tibia-860-v2-custom-extended",
+    "client_version": 860,
+    "label": "Tibia 8.60 v2 customizado com features OTFI",
+    "dat_signature": "0x4C2C7993",
+    "spr_signature": "0x4C220594",
+    "metadata_reader": 5,
+    "otb_version_hint": "8.60"
+  },
+  "category": "items",
+  "id_kind": "server",
+  "requested_ids": [
+    14597,
+    14598,
+    14599
+  ],
+  "output_dir": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items",
+  "exported_count": 3,
+  "exported": [
+    {
+      "requested_id": 14597,
+      "client_id": 13718,
+      "server_ids": [
+        14597
+      ],
+      "name": "Caixa da Mesa de Madeira Horizontal",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        254551
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-14597_client-13718_caixa-da-mesa-de-madeira-horizontal.png",
+      "size": 712,
+      "sha256": "9A819A939623C33800DE19B5247C0FDB1509FE72783B38278A0638E95D8BD484"
+    },
+    {
+      "requested_id": 14598,
+      "client_id": 13719,
+      "server_ids": [
+        14598
+      ],
+      "name": "Caixa da Mesa de Madeira Vertical",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        254531
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-14598_client-13719_caixa-da-mesa-de-madeira-vertical.png",
+      "size": 712,
+      "sha256": "9A819A939623C33800DE19B5247C0FDB1509FE72783B38278A0638E95D8BD484"
+    },
+    {
+      "requested_id": 14599,
+      "client_id": 13720,
+      "server_ids": [
+        14599
+      ],
+      "name": "Caixa do Vaso Sagrado da Névoa",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        254552
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-14599_client-13720_caixa-do-vaso-sagrado-da-nevoa.png",
+      "size": 712,
+      "sha256": "9A819A939623C33800DE19B5247C0FDB1509FE72783B38278A0638E95D8BD484"
+    }
+  ],
+  "sources": {
+    "dat": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.dat",
+      "sha256": "03F0C60DFC0615991C81C1FAB4AD62435ACA90BF442E17F5880D7833DE8898C4"
+    },
+    "spr": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.spr",
+      "sha256": "41A755042D92A01010BEBE13FCF2CB9F81976238F5527FA7514865626AB181F1"
+    }
+  },
+  "passed": true
+}

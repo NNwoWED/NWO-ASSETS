@@ -1,0 +1,5 @@
+sequence,server_id,client_id,dat_add_flags,dat_remove_flags,otb_add_flags,otb_remove_flags
+1,19832,18947,block_pathfind,unpassable|unmoveable,block_pathfind|movable,block_solid
+2,19833,18948,block_pathfind,unpassable|unmoveable,block_pathfind|movable,block_solid
+3,19834,18949,block_pathfind,unpassable|unmoveable,block_pathfind|movable,block_solid
+4,19835,18950,block_pathfind,unpassable|unmoveable,block_pathfind|movable,block_solid

@@ -1,0 +1,2508 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "manifest": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\remake-tibia-20260916\\manifest.csv",
+  "version_backup": {
+    "tool_version": "0.8.2",
+    "version_id": "20260916-141536-358036",
+    "created_at": "2026-09-16T14:15:46.568654-03:00",
+    "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20260916-141536-358036",
+    "rar_executable": "C:\\Program Files\\WinRAR\\Rar.exe",
+    "sources": [
+      {
+        "path": "assets/860/.gitattributes",
+        "size": 43,
+        "sha256": "D5636A3257287440945C5E017581545E5B0A3E2FDDDAE7C5EF8D90FF4DF3D32A"
+      },
+      {
+        "path": "assets/860/Tibia.dat",
+        "size": 4380243,
+        "sha256": "2635757D27FCEE47D565F8958EF3756A4C411D9922F8175C1AFC3F6CA5AEC9EC"
+      },
+      {
+        "path": "assets/860/Tibia.otfi",
+        "size": 185,
+        "sha256": "7743548835944BC799CB871A4E5DEF84F7AF76815031871B9CE74B5EC0E8ADD3"
+      },
+      {
+        "path": "assets/860/Tibia.spr",
+        "size": 434293976,
+        "sha256": "FEBDBCB89C09B5327C768E8D7D3FBA078287230FA3B20371A779B913EEB8EBC2"
+      },
+      {
+        "path": "assets/items/force use.txt",
+        "size": 419,
+        "sha256": "BCB478FDF3F45ECA8D172AFD7A17D3F8CD520924EE0894752452B8FDC8F71959"
+      },
+      {
+        "path": "assets/items/items.otb",
+        "size": 1003405,
+        "sha256": "9057AC9833B94AFCCD8936738265828A602A31A4828E49B64223F74CD9E0E6E9"
+      },
+      {
+        "path": "assets/world/mapanovo.otbm",
+        "size": 80105770,
+        "sha256": "8CDFDDF9DC2A9E53053E4F3FAF7F6825FD89B6B63EE06272ECD234B387202821"
+      }
+    ],
+    "archives": {
+      "860": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20260916-141536-358036\\860.rar",
+        "size": 83655021,
+        "sha256": "EF09FF51BC6525155CBEC3D89B8C37AC7162847A3F82124EFC26EC2FBBA0D24B"
+      },
+      "items": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20260916-141536-358036\\items.rar",
+        "size": 476793,
+        "sha256": "37454C955828867E195E8BE98B7352F2D0535AD28CB6CA0181120230053F54AC"
+      },
+      "world": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20260916-141536-358036\\world.zip",
+        "size": 19337359,
+        "sha256": "170CD29639D001F9273247C874479344E8207ECB971919AE0E8CAE14295E4A31"
+      }
+    },
+    "items_xml_excluded": true,
+    "world_entries": [
+      "mapanovo.otbm"
+    ],
+    "passed": true
+  },
+  "item_count": 100,
+  "new_sprite_count": 1040,
+  "sprite_id_range": [
+    255505,
+    256544
+  ],
+  "items": [
+    {
+      "sequence": 1,
+      "server_id": 10051,
+      "client_id": 9132,
+      "source_server_id": 5061,
+      "source_client_id": 5061,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\remake-tibia-20260916\\item_5061_860v2-v2.obd",
+      "source_sha256": "82AA65F191719EC1C14C3C690AE665E08C80643A92DBB03B0C4A1D07A32E0F0E",
+      "layout": [
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        5
+      ],
+      "sprite_count": 10,
+      "sprite_ids": [
+        255505,
+        255514
+      ],
+      "sprite_hash": "EE0E3CCCA9D52D2DBD8F80492D89ACAF"
+    },
+    {
+      "sequence": 2,
+      "server_id": 10052,
+      "client_id": 9133,
+      "source_server_id": 5062,
+      "source_client_id": 5062,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\remake-tibia-20260916\\item_5062_860v2-v2.obd",
+      "source_sha256": "1CEC024FC33C8D493E6CF7D22F64F620721AF74DE1B07870A01E772D91ECB584",
+      "layout": [
+        1,
+        2,
+        1,
+        1,
+        1,
+        1,
+        5
+      ],
+      "sprite_count": 10,
+      "sprite_ids": [
+        255515,
+        255524
+      ],
+      "sprite_hash": "3BA0808D4F5681E476E20DC1E6F223A3"
+    },
+    {
+      "sequence": 3,
+      "server_id": 10053,
+      "client_id": 9134,
+      "source_server_id": 5063,
+      "source_client_id": 5063,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\remake-tibia-20260916\\item_5063_860v2-v2.obd",
+      "source_sha256": "FDA818F08370F5BE3C2D151C5ED37E95D219E4713151E9F45170E2307C614B70",
+      "layout": [
+        2,
+        2,
+        1,
+        1,
+        1,
+        1,
+        5
+      ],
+      "sprite_count": 20,
+      "sprite_ids": [
+        255525,
+        255544
+      ],
+      "sprite_hash": "5F9FE124501D424DC3455C06FBF5A714"
+    },
+    {
+      "sequence": 4,
+      "server_id": 10054,
+      "client_id": 9135,
+      "source_server_id": 5064,
+      "source_client_id": 5064,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\remake-tibia-20260916\\item_5064_860v2-v2.obd",
+      "source_sha256": "B07F65CB021B3BEEC9111D7491E0DE3208C4BBECF196C7F206A90CE472791A2F",
+      "layout": [
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        5
+      ],
+      "sprite_count": 10,
+      "sprite_ids": [
+        255545,
+        255554
+      ],
+      "sprite_hash": "71FEAD33A59374331BB460BB5D38BBDE"
+    },
+    {
+      "sequence": 5,
+      "server_id": 10055,
+      "client_id": 9136,
+      "source_server_id": 8174,
+      "source_client_id": 5065,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\remake-tibia-20260916\\item_5065_860v2-v2.obd",
+      "source_sha256": "3DE22F354FEA0AE98A0F6BD2451CA83F02CB4F231D44714087B39CCBE6504AB4",
+      "layout": [
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        5
+      ],
+      "sprite_count": 10,
+      "sprite_ids": [
+        255555,
+        255564
+      ],
+      "sprite_hash": "CA2F0D237C5D2D387255956AD553CBEE"
+    },
+    {
+      "sequence": 6,
+      "server_id": 10056,
+      "client_id": 9137,
+      "source_server_id": 5066,
+      "source_client_id": 5066,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\remake-tibia-20260916\\item_5066_860v2-v2.obd",
+      "source_sha256": "E79A66720969FA3748BF9932BB31C5B89A9C9A5A886725E016B2075CA955B659",
+      "layout": [
+        1,
+        2,
+        1,
+        1,
+        1,
+        1,
+        5
+      ],
+      "sprite_count": 10,
+      "sprite_ids": [
+        255565,
+        255574
+      ],
+      "sprite_hash": "C086E46790C1FF93FCCFB9A0D8BBD9AF"
+    },
+    {
+      "sequence": 7,
+      "server_id": 10057,
+      "client_id": 9138,
+      "source_server_id": 5067,
+      "source_client_id": 5067,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\remake-tibia-20260916\\item_5067_860v2-v2.obd",
+      "source_sha256": "69379EFE49F4E9DD8EBD2D7435D1CE445A4CCE84DE49D31403BBA25DAEC5AB1E",
+      "layout": [
+        1,
+        2,
+        1,
+        1,
+        1,
+        1,
+        5
+      ],
+      "sprite_count": 10,
+      "sprite_ids": [
+        255575,
+        255584
+      ],
+      "sprite_hash": "4BBD49F263DAFAEFEE14C45BFCDCAE73"
+    },
+    {
+      "sequence": 8,
+      "server_id": 10058,
+      "client_id": 9139,
+      "source_server_id": 8423,
+      "source_client_id": 7593,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\remake-tibia-20260916\\item_7593_860v2-v2.obd",
+      "source_sha256": "B06BA4AFE5AD262A4435C649302FFEFFF041D5B996F10BA259C1699A23EC48C4",
+      "layout": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "sprite_count": 1,
+      "sprite_ids": [
+        255585,
+        255585
+      ],
+      "sprite_hash": "FFB62D426F6C98E5A7DC75B2D804F96C"
+    },
+    {
+      "sequence": 9,
+      "server_id": 10059,
+      "client_id": 9140,
+      "source_server_id": 8425,
+      "source_client_id": 7595,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\remake-tibia-20260916\\item_7595_860v2-v2.obd",
+      "source_sha256": "625D876908A18DC99FCF226885AD92AE51F216E79132D7E16AAAF45A6C8E4485",
+      "layout": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "sprite_count": 1,
+      "sprite_ids": [
+        255586,
+        255586
+      ],
+      "sprite_hash": "4AB02C449D736BDCBB7F6F5A6FA5E153"
+    },
+    {
+      "sequence": 10,
+      "server_id": 10060,
+      "client_id": 9141,
+      "source_server_id": 8426,
+      "source_client_id": 7596,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\remake-tibia-20260916\\item_7596_860v2-v2.obd",
+      "source_sha256": "67DAC2EEF013BF65472B3FFFE3816CD593062398EFDEFD9B46ABA7894DF089F8",
+      "layout": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "sprite_count": 1,
+      "sprite_ids": [
+        255587,
+        255587
+      ],
+      "sprite_hash": "F310AE1F79BBEDA3CBBBC7BEAE6ADC6D"
+    },
+    {
+      "sequence": 11,
+      "server_id": 10061,
+      "client_id": 9142,
+      "source_server_id": 8427,
+      "source_client_id": 7597,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\remake-tibia-20260916\\item_7597_860v2-v2.obd",
+      "source_sha256": "86407B8101B2539F8AC88ACA57EC9EC31258493F630B2435F506DE5A3E617AEA",
+      "layout": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "sprite_count": 1,
+      "sprite_ids": [
+        255588,
+        255588
+      ],
+      "sprite_hash": "A219F0E09AB3C533BAB9F6D2A785894C"
+    },
+    {
+      "sequence": 12,
+      "server_id": 10062,
+      "client_id": 9143,
+      "source_server_id": 8428,
+      "source_client_id": 7598,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\remake-tibia-20260916\\item_7598_860v2-v2.obd",
+      "source_sha256": "AC06C9EE9131E7E07F5FA510F5EC3FDF7A5BF67206EC94D76A427A0AA1FA472E",
+      "layout": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "sprite_count": 1,
+      "sprite_ids": [
+        255589,
+        255589
+      ],
+      "sprite_hash": "6B5C0B2C1DFAACDE04F82442D372FF1C"
+    },
+    {
+      "sequence": 13,
+      "server_id": 10063,
+      "client_id": 9144,
+      "source_server_id": 8429,
+      "source_client_id": 7599,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\remake-tibia-20260916\\item_7599_860v2-v2.obd",
+      "source_sha256": "6149A611A0060DA2467747DFD7D25811BD7AB5C719F484B9F3BD681CC4C1A67A",
+      "layout": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "sprite_count": 1,
+      "sprite_ids": [
+        255590,
+        255590
+      ],
+      "sprite_hash": "779B401B02D767D2677BFE79A2D53DE6"
+    },
+    {
+      "sequence": 14,
+      "server_id": 10064,
+      "client_id": 9145,
+      "source_server_id": 8430,
+      "source_client_id": 7600,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\remake-tibia-20260916\\item_7600_860v2-v2.obd",
+      "source_sha256": "7BB731011AF2014B1850A8C54EBBE6F4E7715706FEA9E62526110A92AE568473",
+      "layout": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "sprite_count": 1,
+      "sprite_ids": [
+        255591,
+        255591
+      ],
+      "sprite_hash": "1108025194FBE9021A9D9F205C222D8A"
+    },
+    {
+      "sequence": 15,
+      "server_id": 10065,
+      "client_id": 9146,
+      "source_server_id": 8431,
+      "source_client_id": 7601,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\remake-tibia-20260916\\item_7601_860v2-v2.obd",
+      "source_sha256": "4F466C2F5C49D1ABF272D2732EC9484470C280A55404043454300860B568B71A",
+      "layout": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "sprite_count": 1,
+      "sprite_ids": [
+        255592,
+        255592
+      ],
+      "sprite_hash": "7D6D1D2AB56329E9F1113BCCF64824D1"
+    },
+    {
+      "sequence": 16,
+      "server_id": 10066,
+      "client_id": 9147,
+      "source_server_id": 8435,
+      "source_client_id": 7605,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\remake-tibia-20260916\\item_7605_860v2-v2.obd",
+      "source_sha256": "2432B88769716B8C8F1CCD5EFDC58056F3AB99BA806CD03294C664CBE70167D1",
+      "layout": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "sprite_count": 1,
+      "sprite_ids": [
+        255593,
+        255593
+      ],
+      "sprite_hash": "64529BABB025B8DDB43D0590243AC159"
+    },
+    {
+      "sequence": 17,
+      "server_id": 10067,
+      "client_id": 9148,
+      "source_server_id": 8436,
+      "source_client_id": 7606,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\remake-tibia-20260916\\item_7606_860v2-v2.obd",
+      "source_sha256": "0A6D5222E386EE82015459ADF381838CEC2131186C6F1410F4AC7563B95EDEB8",
+      "layout": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "sprite_count": 1,
+      "sprite_ids": [
+        255594,
+        255594
+      ],
+      "sprite_hash": "6D4049C60B6350773889BDA4059092FC"
+    },
+    {
+      "sequence": 18,
+      "server_id": 10068,
+      "client_id": 9149,
+      "source_server_id": 8437,
+      "source_client_id": 7607,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\remake-tibia-20260916\\item_7607_860v2-v2.obd",
+      "source_sha256": "8A52B2DE9BD795298D61E888E4C1CE16357B7D730E1BD101B938C5D98EA475D7",
+      "layout": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "sprite_count": 1,
+      "sprite_ids": [
+        255595,
+        255595
+      ],
+      "sprite_hash": "E5A60703DF5730EFBB98490B58E91531"
+    },
+    {
+      "sequence": 19,
+      "server_id": 10069,
+      "client_id": 9150,
+      "source_server_id": 8438,
+      "source_client_id": 7608,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\remake-tibia-20260916\\item_7608_860v2-v2.obd",
+      "source_sha256": "0026CF415FA25F59EA188F997CE5A02FF8A43AE20F27B06EDF00FBCFB97EA729",
+      "layout": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "sprite_count": 1,
+      "sprite_ids": [
+        255596,
+        255596
+      ],
+      "sprite_hash": "63D6D2C242DF252C49F93705C16B5FC1"
+    },
+    {
+      "sequence": 20,
+      "server_id": 10070,
+      "client_id": 9151,
+      "source_server_id": 8439,
+      "source_client_id": 7609,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\remake-tibia-20260916\\item_7609_860v2-v2.obd",
+      "source_sha256": "F5ED5D24D3D2D03D7ADD41DB6BA894C9E31EBD8132473BBBA5E5BD2587A232BC",
+      "layout": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "sprite_count": 1,
+      "sprite_ids": [
+        255597,
+        255597
+      ],
+      "sprite_hash": "12E64555DDA9618EA82AF78C2C707463"
+    },
+    {
+      "sequence": 21,
+      "server_id": 10071,
+      "client_id": 9152,
+      "source_server_id": 8440,
+      "source_client_id": 7610,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\remake-tibia-20260916\\item_7610_860v2-v2.obd",
+      "source_sha256": "FB4C2B7A20BAA5E310F7CB8761A262AEEAFC13FFE421D2798387DC44343B407F",
+      "layout": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "sprite_count": 1,
+      "sprite_ids": [
+        255598,
+        255598
+      ],
+      "sprite_hash": "E8EBDA06F5204354C4C52AA57E9F02F1"
+    },
+    {
+      "sequence": 22,
+      "server_id": 10072,
+      "client_id": 9153,
+      "source_server_id": 8441,
+      "source_client_id": 7611,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\remake-tibia-20260916\\item_7611_860v2-v2.obd",
+      "source_sha256": "76A11A49CD6C157626D3150393EEC01F5D2563990D2DCF006C23A0BE00B6D5C5",
+      "layout": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "sprite_count": 1,
+      "sprite_ids": [
+        255599,
+        255599
+      ],
+      "sprite_hash": "4FB6F2A19225BD647B057E56F3C35458"
+    },
+    {
+      "sequence": 23,
+      "server_id": 10073,
+      "client_id": 9154,
+      "source_server_id": 8442,
+      "source_client_id": 7612,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\remake-tibia-20260916\\item_7612_860v2-v2.obd",
+      "source_sha256": "F8586D8B5FD5D1E665C702FC3C5B710510B434F5E5692A9C080E8F106C1BA389",
+      "layout": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "sprite_count": 1,
+      "sprite_ids": [
+        255600,
+        255600
+      ],
+      "sprite_hash": "E651F483340B3E5EC49B5A20FEBC64CE"
+    },
+    {
+      "sequence": 24,
+      "server_id": 10074,
+      "client_id": 9155,
+      "source_server_id": 8443,
+      "source_client_id": 7613,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\remake-tibia-20260916\\item_7613_860v2-v2.obd",
+      "source_sha256": "167760905A5E554849662759FFDC36E31BCD8CA4B341DE062FC0DA3D1A103EFF",
+      "layout": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "sprite_count": 1,
+      "sprite_ids": [
+        255601,
+        255601
+      ],
+      "sprite_hash": "5B38E22173B8288EA529BB03CF0CD647"
+    },
+    {
+      "sequence": 25,
+      "server_id": 10075,
+      "client_id": 9156,
+      "source_server_id": 8444,
+      "source_client_id": 7614,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\remake-tibia-20260916\\item_7614_860v2-v2.obd",
+      "source_sha256": "9B01500F3C3ADE46DA5A08506A30EB54C42081ABD00D7C828B320B21A3F4A5BE",
+      "layout": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "sprite_count": 1,
+      "sprite_ids": [
+        255602,
+        255602
+      ],
+      "sprite_hash": "CB2C051A21C97BD1BB763A9E088E925D"
+    },
+    {
+      "sequence": 26,
+      "server_id": 10076,
+      "client_id": 9157,
+      "source_server_id": 8445,
+      "source_client_id": 7615,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\remake-tibia-20260916\\item_7615_860v2-v2.obd",
+      "source_sha256": "CA8DE6EE5CF7BDB5FC72E6F1F42723ACC62A312BA4BDC27D5FF9FA4616AE2881",
+      "layout": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "sprite_count": 1,
+      "sprite_ids": [
+        255603,
+        255603
+      ],
+      "sprite_hash": "733097492544445D8B6CFC53E05940CD"
+    },
+    {
+      "sequence": 27,
+      "server_id": 10077,
+      "client_id": 9158,
+      "source_server_id": 8446,
+      "source_client_id": 7616,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\remake-tibia-20260916\\item_7616_860v2-v2.obd",
+      "source_sha256": "7B7D7B0065D7FD112C9A4FA6F3C5AB247E4B464A18A39AAE9381CFF28CE5BC54",
+      "layout": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "sprite_count": 1,
+      "sprite_ids": [
+        255604,
+        255604
+      ],
+      "sprite_hash": "E7742A28123AFF51FA5CB65BD5D92D16"
+    },
+    {
+      "sequence": 28,
+      "server_id": 10078,
+      "client_id": 9159,
+      "source_server_id": 13233,
+      "source_client_id": 12356,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\remake-tibia-20260916\\item_12356_860v2-v2.obd",
+      "source_sha256": "786DD7B00D2A2D764894DEFE1D02EDD806D47DA449D226B28013F11D927ED3DC",
+      "layout": [
+        1,
+        1,
+        1,
+        2,
+        1,
+        1,
+        1
+      ],
+      "sprite_count": 2,
+      "sprite_ids": [
+        255605,
+        255606
+      ],
+      "sprite_hash": "63AD44801ABEB876C9F52D3BD8521E2E"
+    },
+    {
+      "sequence": 29,
+      "server_id": 10079,
+      "client_id": 9160,
+      "source_server_id": 13234,
+      "source_client_id": 12357,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\remake-tibia-20260916\\item_12357_860v2-v2.obd",
+      "source_sha256": "E4FF2A0D600A8957B379890CEF3CB90F1B99A2F6CF96CB3B3830CB1519341845",
+      "layout": [
+        1,
+        1,
+        1,
+        2,
+        1,
+        1,
+        1
+      ],
+      "sprite_count": 2,
+      "sprite_ids": [
+        255607,
+        255608
+      ],
+      "sprite_hash": "A382EB7A27550F0D007BDF22D073529A"
+    },
+    {
+      "sequence": 30,
+      "server_id": 10080,
+      "client_id": 9161,
+      "source_server_id": 13235,
+      "source_client_id": 12358,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\remake-tibia-20260916\\item_12358_860v2-v2.obd",
+      "source_sha256": "84604B3342EAAE5587C38956FDE5C3C41B727476FD2479D8DD208B99EAFB554A",
+      "layout": [
+        1,
+        1,
+        1,
+        1,
+        2,
+        1,
+        1
+      ],
+      "sprite_count": 2,
+      "sprite_ids": [
+        255609,
+        255610
+      ],
+      "sprite_hash": "68F12D43366907E2C09833554A7D3965"
+    },
+    {
+      "sequence": 31,
+      "server_id": 10081,
+      "client_id": 9162,
+      "source_server_id": 13236,
+      "source_client_id": 12359,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\remake-tibia-20260916\\item_12359_860v2-v2.obd",
+      "source_sha256": "DE5EC2628D8312D02D0756ECCB4D5BC023B5A029E94394A01A0192F0C0A26B19",
+      "layout": [
+        1,
+        1,
+        1,
+        1,
+        2,
+        1,
+        1
+      ],
+      "sprite_count": 2,
+      "sprite_ids": [
+        255611,
+        255612
+      ],
+      "sprite_hash": "8B432328ECC9B402FBFE71C0FCFF5F6E"
+    },
+    {
+      "sequence": 32,
+      "server_id": 10082,
+      "client_id": 9163,
+      "source_server_id": 13237,
+      "source_client_id": 12360,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\remake-tibia-20260916\\item_12360_860v2-v2.obd",
+      "source_sha256": "550CF0EF091D0F44F2EFFAB833F252732D184C80AA749E23C1391FD7E0243EFB",
+      "layout": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "sprite_count": 1,
+      "sprite_ids": [
+        255613,
+        255613
+      ],
+      "sprite_hash": "C00DE3AA7CD330217E853A8EFDDE7E24"
+    },
+    {
+      "sequence": 33,
+      "server_id": 10083,
+      "client_id": 9164,
+      "source_server_id": 13238,
+      "source_client_id": 12361,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\remake-tibia-20260916\\item_12361_860v2-v2.obd",
+      "source_sha256": "C412BF3F280A14489C5260F2564577DBEA1F42BAD2B339D6CB964D986D3AD695",
+      "layout": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "sprite_count": 1,
+      "sprite_ids": [
+        255614,
+        255614
+      ],
+      "sprite_hash": "B8A7258E3080B98F76DC4000552A2FCA"
+    },
+    {
+      "sequence": 34,
+      "server_id": 10084,
+      "client_id": 9165,
+      "source_server_id": 13239,
+      "source_client_id": 12362,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\remake-tibia-20260916\\item_12362_860v2-v2.obd",
+      "source_sha256": "B6281C834E0BCF81C81A799B902EB0E8B9830048841D0E2C77A62DB5EA355026",
+      "layout": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "sprite_count": 1,
+      "sprite_ids": [
+        255615,
+        255615
+      ],
+      "sprite_hash": "F2B7FA714E3B1ECEAEEF30CC18750355"
+    },
+    {
+      "sequence": 35,
+      "server_id": 10085,
+      "client_id": 9166,
+      "source_server_id": 13240,
+      "source_client_id": 12363,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\remake-tibia-20260916\\item_12363_860v2-v2.obd",
+      "source_sha256": "C4714EAA6A4A632737A4EDBC8E5A0B55458139CBC75C858B274F5BD558203293",
+      "layout": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "sprite_count": 1,
+      "sprite_ids": [
+        255616,
+        255616
+      ],
+      "sprite_hash": "786987E62CD3DE72CDD9D32FFD131DA4"
+    },
+    {
+      "sequence": 36,
+      "server_id": 10086,
+      "client_id": 9167,
+      "source_server_id": 13241,
+      "source_client_id": 12364,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\remake-tibia-20260916\\item_12364_860v2-v2.obd",
+      "source_sha256": "C79590E406390A0A7219ECBB0D2479E0B76301420D26DBF4EF660297C5C8EB41",
+      "layout": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "sprite_count": 1,
+      "sprite_ids": [
+        255617,
+        255617
+      ],
+      "sprite_hash": "4D6211833F477C6855261FFF3A25B6CA"
+    },
+    {
+      "sequence": 37,
+      "server_id": 10088,
+      "client_id": 9169,
+      "source_server_id": 13242,
+      "source_client_id": 12365,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\remake-tibia-20260916\\item_12365_860v2-v2.obd",
+      "source_sha256": "0477B41A228C75892B4CFDB67468BC212F01C60A6CD80193620BF86EFB0C9C50",
+      "layout": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "sprite_count": 1,
+      "sprite_ids": [
+        255618,
+        255618
+      ],
+      "sprite_hash": "432F0329CEDE0B1B0C49670A27CAB5E2"
+    },
+    {
+      "sequence": 38,
+      "server_id": 10089,
+      "client_id": 9170,
+      "source_server_id": 13243,
+      "source_client_id": 12366,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\remake-tibia-20260916\\item_12366_860v2-v2.obd",
+      "source_sha256": "32D9ABA5BC76CF52C7224B606E7D14F1F36ECFBF79FB1818290F452DF23E04F3",
+      "layout": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "sprite_count": 1,
+      "sprite_ids": [
+        255619,
+        255619
+      ],
+      "sprite_hash": "CA9B41B37F026109E9A7E105AA320D51"
+    },
+    {
+      "sequence": 39,
+      "server_id": 10090,
+      "client_id": 9171,
+      "source_server_id": 13244,
+      "source_client_id": 12367,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\remake-tibia-20260916\\item_12367_860v2-v2.obd",
+      "source_sha256": "6025B17BA4C4AC8E3474DC67A447E28E7E8305DFBC3486AE34C89D0D52B64EFB",
+      "layout": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "sprite_count": 1,
+      "sprite_ids": [
+        255620,
+        255620
+      ],
+      "sprite_hash": "04608DA4FF2DB71C502DE6B47253CB6D"
+    },
+    {
+      "sequence": 40,
+      "server_id": 10092,
+      "client_id": 9173,
+      "source_server_id": 13256,
+      "source_client_id": 12379,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\remake-tibia-20260916\\item_12379_860v2-v2.obd",
+      "source_sha256": "CF1D1E980C9D738BB9494FFEFD0DD03F8FE632C2575D756D6901077E866DBE31",
+      "layout": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "sprite_count": 1,
+      "sprite_ids": [
+        255621,
+        255621
+      ],
+      "sprite_hash": "162D6326D3FEA12AF42BDC027DDBCA67"
+    },
+    {
+      "sequence": 41,
+      "server_id": 10093,
+      "client_id": 9174,
+      "source_server_id": 13257,
+      "source_client_id": 12380,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\remake-tibia-20260916\\item_12380_860v2-v2.obd",
+      "source_sha256": "F7F808DF6635F208444DF022F92D3B6F3C77C7CF43C82E2AE6DEFC6A89A420D9",
+      "layout": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "sprite_count": 1,
+      "sprite_ids": [
+        255622,
+        255622
+      ],
+      "sprite_hash": "1AEBE6DF5272D9A85B135243CC76B4CC"
+    },
+    {
+      "sequence": 42,
+      "server_id": 10094,
+      "client_id": 9175,
+      "source_server_id": 13258,
+      "source_client_id": 12381,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\remake-tibia-20260916\\item_12381_860v2-v2.obd",
+      "source_sha256": "1BBD3F03BD4F43F12CFD37844A4743463709CE05F79FD513CE7D3F4F3605A52F",
+      "layout": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "sprite_count": 1,
+      "sprite_ids": [
+        255623,
+        255623
+      ],
+      "sprite_hash": "A2E798E71303FEA7A48FE6D4626282A3"
+    },
+    {
+      "sequence": 43,
+      "server_id": 10095,
+      "client_id": 9176,
+      "source_server_id": 13259,
+      "source_client_id": 12382,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\remake-tibia-20260916\\item_12382_860v2-v2.obd",
+      "source_sha256": "2767EDFC857324AD0ED8A0086631B51CF930559641CBF27C39A44BE9FB59ED50",
+      "layout": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "sprite_count": 1,
+      "sprite_ids": [
+        255624,
+        255624
+      ],
+      "sprite_hash": "781D4DCE6EF76F946640AF676DC3DCA3"
+    },
+    {
+      "sequence": 44,
+      "server_id": 10096,
+      "client_id": 9178,
+      "source_server_id": 13260,
+      "source_client_id": 12383,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\remake-tibia-20260916\\item_12383_860v2-v2.obd",
+      "source_sha256": "132390DCA52B5FF518522611F1B77B4DBA9C8EACAF3F0CBD49D5453AC84A06B5",
+      "layout": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "sprite_count": 1,
+      "sprite_ids": [
+        255625,
+        255625
+      ],
+      "sprite_hash": "CB421FFC0FD792CE61B54791CBA28599"
+    },
+    {
+      "sequence": 45,
+      "server_id": 10097,
+      "client_id": 9179,
+      "source_server_id": 13261,
+      "source_client_id": 12384,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\remake-tibia-20260916\\item_12384_860v2-v2.obd",
+      "source_sha256": "8CF78BC49667937BE4FA51AD42FB92FBB0BB2FEC2D519958226F358C40ABBB2D",
+      "layout": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "sprite_count": 1,
+      "sprite_ids": [
+        255626,
+        255626
+      ],
+      "sprite_hash": "A61F33B5466127C697622409EDC8ED04"
+    },
+    {
+      "sequence": 46,
+      "server_id": 10098,
+      "client_id": 9180,
+      "source_server_id": 13262,
+      "source_client_id": 12385,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\remake-tibia-20260916\\item_12385_860v2-v2.obd",
+      "source_sha256": "186AB36CFFFE3BF0B0070936A92B32264C24CF55FEFEDA1EBF8F0ED4255F0330",
+      "layout": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "sprite_count": 1,
+      "sprite_ids": [
+        255627,
+        255627
+      ],
+      "sprite_hash": "F21312FAF48CEC71FC52CA993C5A1ABA"
+    },
+    {
+      "sequence": 47,
+      "server_id": 10099,
+      "client_id": 9181,
+      "source_server_id": 13263,
+      "source_client_id": 12386,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\remake-tibia-20260916\\item_12386_860v2-v2.obd",
+      "source_sha256": "07A02D41E3AFF6DA62F6A3636A93F4B144BCACA84D58A199280BAFC645F13BE0",
+      "layout": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "sprite_count": 1,
+      "sprite_ids": [
+        255628,
+        255628
+      ],
+      "sprite_hash": "53E5392A30A9CBBF879BB79BA8F64685"
+    },
+    {
+      "sequence": 48,
+      "server_id": 10100,
+      "client_id": 9182,
+      "source_server_id": 14985,
+      "source_client_id": 14100,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\remake-tibia-20260916\\item_14100_860v2-v2.obd",
+      "source_sha256": "E0151BA5CFE6AC80EB25D00A209CA2DBFDD18057E9CA8B844517757DF5AEFA10",
+      "layout": [
+        1,
+        1,
+        1,
+        2,
+        1,
+        1,
+        10
+      ],
+      "sprite_count": 20,
+      "sprite_ids": [
+        255629,
+        255648
+      ],
+      "sprite_hash": "FCC86BC873A26C5C48729BBE0E444612"
+    },
+    {
+      "sequence": 49,
+      "server_id": 10101,
+      "client_id": 9183,
+      "source_server_id": 14986,
+      "source_client_id": 14101,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\remake-tibia-20260916\\item_14101_860v2-v2.obd",
+      "source_sha256": "195F2FE27782C6AE7F45050D6CBCBA1224969B8E739B7FC7768E570B8A28ACD7",
+      "layout": [
+        1,
+        1,
+        1,
+        1,
+        2,
+        1,
+        10
+      ],
+      "sprite_count": 20,
+      "sprite_ids": [
+        255649,
+        255668
+      ],
+      "sprite_hash": "A94A6A31764C84FEF882EBB4B87F3440"
+    },
+    {
+      "sequence": 50,
+      "server_id": 10102,
+      "client_id": 9184,
+      "source_server_id": 14987,
+      "source_client_id": 14102,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\remake-tibia-20260916\\item_14102_860v2-v2.obd",
+      "source_sha256": "ECC9F24D14B326BF4EF6352E21F4C98A5657E1804ABAA9BD1EABDA3C7C8B1C41",
+      "layout": [
+        1,
+        1,
+        1,
+        2,
+        1,
+        1,
+        10
+      ],
+      "sprite_count": 20,
+      "sprite_ids": [
+        255669,
+        255688
+      ],
+      "sprite_hash": "91DF5B2A7997F694A59048CCD8157EA0"
+    },
+    {
+      "sequence": 51,
+      "server_id": 10103,
+      "client_id": 9185,
+      "source_server_id": 14988,
+      "source_client_id": 14103,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\remake-tibia-20260916\\item_14103_860v2-v2.obd",
+      "source_sha256": "02C33CBECFD717C859783D4EAD2BE8843DC216F02224997A037CB5B404D58F14",
+      "layout": [
+        1,
+        1,
+        1,
+        1,
+        2,
+        1,
+        10
+      ],
+      "sprite_count": 20,
+      "sprite_ids": [
+        255689,
+        255708
+      ],
+      "sprite_hash": "E393BE3BEF90E3B9EDA6EEBC2A7E00C2"
+    },
+    {
+      "sequence": 52,
+      "server_id": 10104,
+      "client_id": 9186,
+      "source_server_id": 14989,
+      "source_client_id": 14104,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\remake-tibia-20260916\\item_14104_860v2-v2.obd",
+      "source_sha256": "DC003BA3D2CFC6FFC37488DCF002D464A7010BDB89A842F281C9BA08DA3EFB83",
+      "layout": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        10
+      ],
+      "sprite_count": 10,
+      "sprite_ids": [
+        255709,
+        255718
+      ],
+      "sprite_hash": "4267CA160BC16C6DE2289FEA27D6F3FD"
+    },
+    {
+      "sequence": 53,
+      "server_id": 10105,
+      "client_id": 9187,
+      "source_server_id": 14990,
+      "source_client_id": 14105,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\remake-tibia-20260916\\item_14105_860v2-v2.obd",
+      "source_sha256": "BC5C670057705E301EDDBA52192EBCF391E8191A013E62B400FC05C603306039",
+      "layout": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        10
+      ],
+      "sprite_count": 10,
+      "sprite_ids": [
+        255719,
+        255728
+      ],
+      "sprite_hash": "4875ADD3FA381721D010C7535904F219"
+    },
+    {
+      "sequence": 54,
+      "server_id": 10106,
+      "client_id": 9188,
+      "source_server_id": 14991,
+      "source_client_id": 14106,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\remake-tibia-20260916\\item_14106_860v2-v2.obd",
+      "source_sha256": "DBD82D0EF48F1952F4C3AF680582038D1E204E342F8C0B0959258851A4756085",
+      "layout": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        10
+      ],
+      "sprite_count": 10,
+      "sprite_ids": [
+        255729,
+        255738
+      ],
+      "sprite_hash": "CFBE58284D79F1A1862FD60CC6E1E62C"
+    },
+    {
+      "sequence": 55,
+      "server_id": 10107,
+      "client_id": 9189,
+      "source_server_id": 14992,
+      "source_client_id": 14107,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\remake-tibia-20260916\\item_14107_860v2-v2.obd",
+      "source_sha256": "BC5728B699C93B3BBD1A3ADD4D7A0069C51E4490FFF2FB7043F6B3EAAA72E8B7",
+      "layout": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        10
+      ],
+      "sprite_count": 10,
+      "sprite_ids": [
+        255739,
+        255748
+      ],
+      "sprite_hash": "A3F3F85538B3EFFCF8584A7EA7E62F49"
+    },
+    {
+      "sequence": 56,
+      "server_id": 10108,
+      "client_id": 9190,
+      "source_server_id": 14993,
+      "source_client_id": 14108,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\remake-tibia-20260916\\item_14108_860v2-v2.obd",
+      "source_sha256": "FEFFCBD40BD9E2AE0067F31056D216B40B7424AE4F09BDCA652052E27467098A",
+      "layout": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        10
+      ],
+      "sprite_count": 10,
+      "sprite_ids": [
+        255749,
+        255758
+      ],
+      "sprite_hash": "6E0109C023390C4A4843927F34FD1724"
+    },
+    {
+      "sequence": 57,
+      "server_id": 10109,
+      "client_id": 9191,
+      "source_server_id": 14994,
+      "source_client_id": 14109,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\remake-tibia-20260916\\item_14109_860v2-v2.obd",
+      "source_sha256": "7ED582739AE769E75E868671965BC0B287F522E0FCFDF63B737D2AC01599E392",
+      "layout": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        10
+      ],
+      "sprite_count": 10,
+      "sprite_ids": [
+        255759,
+        255768
+      ],
+      "sprite_hash": "0245A98C48EB5CE387BA5F1FE921BA12"
+    },
+    {
+      "sequence": 58,
+      "server_id": 10110,
+      "client_id": 9192,
+      "source_server_id": 14995,
+      "source_client_id": 14110,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\remake-tibia-20260916\\item_14110_860v2-v2.obd",
+      "source_sha256": "C1A22C45366AE1FE027422BEF5F2EC160646BAB141233EEB5A2983532646610D",
+      "layout": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        10
+      ],
+      "sprite_count": 10,
+      "sprite_ids": [
+        255769,
+        255778
+      ],
+      "sprite_hash": "D12D92D2197377AF4FC61455ABBD1AA0"
+    },
+    {
+      "sequence": 59,
+      "server_id": 10111,
+      "client_id": 9193,
+      "source_server_id": 14996,
+      "source_client_id": 14111,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\remake-tibia-20260916\\item_14111_860v2-v2.obd",
+      "source_sha256": "9C2DEC565E65A2F128CCC83F02ECDECE835B01F8EAA6ED36801681D353923D68",
+      "layout": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        10
+      ],
+      "sprite_count": 10,
+      "sprite_ids": [
+        255779,
+        255788
+      ],
+      "sprite_hash": "0BCB713EE5786493CFB1B2B2B885BC55"
+    },
+    {
+      "sequence": 60,
+      "server_id": 10112,
+      "client_id": 9194,
+      "source_server_id": 14998,
+      "source_client_id": 14113,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\remake-tibia-20260916\\item_14113_860v2-v2.obd",
+      "source_sha256": "1D0A289AB5773CA35228B01B159E55AC1E8E4E5E9DA6A3808720E3EE59EF6E3E",
+      "layout": [
+        1,
+        1,
+        1,
+        3,
+        1,
+        1,
+        6
+      ],
+      "sprite_count": 18,
+      "sprite_ids": [
+        255789,
+        255806
+      ],
+      "sprite_hash": "E197B1649149793CAFD5A3CDA980A9ED"
+    },
+    {
+      "sequence": 61,
+      "server_id": 10113,
+      "client_id": 9195,
+      "source_server_id": 14999,
+      "source_client_id": 14114,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\remake-tibia-20260916\\item_14114_860v2-v2.obd",
+      "source_sha256": "597169228852DFF51EF365194013D338E99359521271E10E73A2EDD50AA7A6ED",
+      "layout": [
+        1,
+        1,
+        1,
+        1,
+        3,
+        1,
+        6
+      ],
+      "sprite_count": 18,
+      "sprite_ids": [
+        255807,
+        255824
+      ],
+      "sprite_hash": "31BD5A8D5B9F6FBC46E8C603D54EDC51"
+    },
+    {
+      "sequence": 62,
+      "server_id": 10114,
+      "client_id": 9196,
+      "source_server_id": 15000,
+      "source_client_id": 14115,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\remake-tibia-20260916\\item_14115_860v2-v2.obd",
+      "source_sha256": "395E272DA84034404F4E6619725BACE497E6364AF452991AB8DF75966A5E3526",
+      "layout": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        6
+      ],
+      "sprite_count": 6,
+      "sprite_ids": [
+        255825,
+        255830
+      ],
+      "sprite_hash": "BC6AB7DE41184EAE11394C58E9DD06DB"
+    },
+    {
+      "sequence": 63,
+      "server_id": 10115,
+      "client_id": 9197,
+      "source_server_id": 15001,
+      "source_client_id": 14116,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\remake-tibia-20260916\\item_14116_860v2-v2.obd",
+      "source_sha256": "0412C2DF79DCA49DDB7CD9B6E64364BBDBFCE7C652A9E6D856CFBB99C09A5766",
+      "layout": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        6
+      ],
+      "sprite_count": 6,
+      "sprite_ids": [
+        255831,
+        255836
+      ],
+      "sprite_hash": "BDE883466AA2B35F6DE19E852A8FFD37"
+    },
+    {
+      "sequence": 64,
+      "server_id": 10116,
+      "client_id": 9198,
+      "source_server_id": 15002,
+      "source_client_id": 14117,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\remake-tibia-20260916\\item_14117_860v2-v2.obd",
+      "source_sha256": "4C9560CF83E313410829BEE14E9DC0E7E30B39C783069EC7AC037DF52AF85D5A",
+      "layout": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        6
+      ],
+      "sprite_count": 6,
+      "sprite_ids": [
+        255837,
+        255842
+      ],
+      "sprite_hash": "4DCEBB97CF964705AC6EB51ACC96A48E"
+    },
+    {
+      "sequence": 65,
+      "server_id": 10117,
+      "client_id": 9199,
+      "source_server_id": 15003,
+      "source_client_id": 14118,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\remake-tibia-20260916\\item_14118_860v2-v2.obd",
+      "source_sha256": "347A787F811675F742F6CB36DD21D3EE1B8DD02F6F10AC1CDB2282A82602FCEF",
+      "layout": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        6
+      ],
+      "sprite_count": 6,
+      "sprite_ids": [
+        255843,
+        255848
+      ],
+      "sprite_hash": "1E9768FC7D6F899DE1D415151B17B6F8"
+    },
+    {
+      "sequence": 66,
+      "server_id": 10118,
+      "client_id": 9200,
+      "source_server_id": 15004,
+      "source_client_id": 14119,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\remake-tibia-20260916\\item_14119_860v2-v2.obd",
+      "source_sha256": "411241D535D4554571FA52846230C9AFF75CDFBBFDC2BA9DF0566D189E63B544",
+      "layout": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        6
+      ],
+      "sprite_count": 6,
+      "sprite_ids": [
+        255849,
+        255854
+      ],
+      "sprite_hash": "57A5A3852DA37E57CCC245DB7D6281EF"
+    },
+    {
+      "sequence": 67,
+      "server_id": 10119,
+      "client_id": 9201,
+      "source_server_id": 15005,
+      "source_client_id": 14120,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\remake-tibia-20260916\\item_14120_860v2-v2.obd",
+      "source_sha256": "F09E6D9ED0A0A05791E9C11D153255E126F700699C804C13C1AAC58B5B38D005",
+      "layout": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        6
+      ],
+      "sprite_count": 6,
+      "sprite_ids": [
+        255855,
+        255860
+      ],
+      "sprite_hash": "81A115E63E5941DFF308005996C39CB0"
+    },
+    {
+      "sequence": 68,
+      "server_id": 10120,
+      "client_id": 9202,
+      "source_server_id": 15006,
+      "source_client_id": 14121,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\remake-tibia-20260916\\item_14121_860v2-v2.obd",
+      "source_sha256": "CD73D12CC667F17ADCFD78F0FB6EF6AB6F7132570319D1CE48EAF8F34BB606A0",
+      "layout": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        6
+      ],
+      "sprite_count": 6,
+      "sprite_ids": [
+        255861,
+        255866
+      ],
+      "sprite_hash": "DC61672B89FE5AA3A06C08001D0114B7"
+    },
+    {
+      "sequence": 69,
+      "server_id": 10121,
+      "client_id": 9203,
+      "source_server_id": 15007,
+      "source_client_id": 14122,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\remake-tibia-20260916\\item_14122_860v2-v2.obd",
+      "source_sha256": "F0EDF984FC7DE628B4BDEC958C0DBD4ED4B8F62E6CE829A50600574B507AE297",
+      "layout": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        6
+      ],
+      "sprite_count": 6,
+      "sprite_ids": [
+        255867,
+        255872
+      ],
+      "sprite_hash": "4F2A92A8C48132642482E57F36A1D16A"
+    },
+    {
+      "sequence": 70,
+      "server_id": 10122,
+      "client_id": 9204,
+      "source_server_id": 15008,
+      "source_client_id": 14123,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\remake-tibia-20260916\\item_14123_860v2-v2.obd",
+      "source_sha256": "D7ED7EDC7F718D6182CB709C09E9E86ABB0C1384BF97A9DD51E26BFD72652DCE",
+      "layout": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        6
+      ],
+      "sprite_count": 6,
+      "sprite_ids": [
+        255873,
+        255878
+      ],
+      "sprite_hash": "B8954FCCCF7C32DBFE63AC34E34AAA06"
+    },
+    {
+      "sequence": 71,
+      "server_id": 10123,
+      "client_id": 9205,
+      "source_server_id": 15009,
+      "source_client_id": 14124,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\remake-tibia-20260916\\item_14124_860v2-v2.obd",
+      "source_sha256": "419EF393F4DEEF39CCAF55BB92A6DD0ECF7F545F956C4E683EDB4CADD800CCA1",
+      "layout": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        6
+      ],
+      "sprite_count": 6,
+      "sprite_ids": [
+        255879,
+        255884
+      ],
+      "sprite_hash": "DA7E248E39E8B23FB55EA7702AC2394D"
+    },
+    {
+      "sequence": 72,
+      "server_id": 10124,
+      "client_id": 9206,
+      "source_server_id": 15010,
+      "source_client_id": 14125,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\remake-tibia-20260916\\item_14125_860v2-v2.obd",
+      "source_sha256": "A3B60616BF306B9395F76946862AEE919EB32A926347D3A170E9DEC36038653F",
+      "layout": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        6
+      ],
+      "sprite_count": 6,
+      "sprite_ids": [
+        255885,
+        255890
+      ],
+      "sprite_hash": "474407B532E3D0EDA93FD044EBA2331E"
+    },
+    {
+      "sequence": 73,
+      "server_id": 10125,
+      "client_id": 9207,
+      "source_server_id": 15011,
+      "source_client_id": 14126,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\remake-tibia-20260916\\item_14126_860v2-v2.obd",
+      "source_sha256": "6C8D3748569E4329E3B13E44AFB9D5E40940C9CDCC0C45BEE5B8E6BB4CEDF12E",
+      "layout": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        6
+      ],
+      "sprite_count": 6,
+      "sprite_ids": [
+        255891,
+        255896
+      ],
+      "sprite_hash": "B507DFBDF4294FC8ACFEFDDBC45244F3"
+    },
+    {
+      "sequence": 74,
+      "server_id": 10126,
+      "client_id": 9208,
+      "source_server_id": 15012,
+      "source_client_id": 14127,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\remake-tibia-20260916\\item_14127_860v2-v2.obd",
+      "source_sha256": "3D6E8BE514BAD1921E9CDC65ADA7D1D5DB6C69D2D0E831E66496F22CBD679263",
+      "layout": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        10
+      ],
+      "sprite_count": 10,
+      "sprite_ids": [
+        255897,
+        255906
+      ],
+      "sprite_hash": "86C08C55AE635E02B3AEA968ED5D6FE0"
+    },
+    {
+      "sequence": 75,
+      "server_id": 10128,
+      "client_id": 9210,
+      "source_server_id": 15013,
+      "source_client_id": 14128,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\remake-tibia-20260916\\item_14128_860v2-v2.obd",
+      "source_sha256": "FB10191EFF1467F12D7404360063908C03687E699EB994DA9424403905AF5464",
+      "layout": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        10
+      ],
+      "sprite_count": 10,
+      "sprite_ids": [
+        255907,
+        255916
+      ],
+      "sprite_hash": "CBE188BE81787E34CF109A7A38807164"
+    },
+    {
+      "sequence": 76,
+      "server_id": 10129,
+      "client_id": 9211,
+      "source_server_id": 15014,
+      "source_client_id": 14129,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\remake-tibia-20260916\\item_14129_860v2-v2.obd",
+      "source_sha256": "E670CE7357BF7BBD592A1B3D01A45B9E54FF50A77932FEE89563862B7249C061",
+      "layout": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        10
+      ],
+      "sprite_count": 10,
+      "sprite_ids": [
+        255917,
+        255926
+      ],
+      "sprite_hash": "1708EFAE97AFD7F4EDBD96B182DC3FCE"
+    },
+    {
+      "sequence": 77,
+      "server_id": 10131,
+      "client_id": 9213,
+      "source_server_id": 15015,
+      "source_client_id": 14130,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\remake-tibia-20260916\\item_14130_860v2-v2.obd",
+      "source_sha256": "48E07CAF92929047F1E15E78B783F39EF227CF5FF7A16EAF49233EE8816F7EB2",
+      "layout": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        10
+      ],
+      "sprite_count": 10,
+      "sprite_ids": [
+        255927,
+        255936
+      ],
+      "sprite_hash": "6288994D82DB8128A6BBECC91EF1F82B"
+    },
+    {
+      "sequence": 78,
+      "server_id": 10132,
+      "client_id": 9214,
+      "source_server_id": 15016,
+      "source_client_id": 14131,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\remake-tibia-20260916\\item_14131_860v2-v2.obd",
+      "source_sha256": "19B9C486F221FC6110BD959DF8EF404A23D2D58482FCCF2ADD4E43E778911AD0",
+      "layout": [
+        2,
+        2,
+        1,
+        2,
+        1,
+        1,
+        6
+      ],
+      "sprite_count": 48,
+      "sprite_ids": [
+        255937,
+        255984
+      ],
+      "sprite_hash": "340C25E7F4CD1AC499AA87C595749E4D"
+    },
+    {
+      "sequence": 79,
+      "server_id": 10133,
+      "client_id": 9215,
+      "source_server_id": 15017,
+      "source_client_id": 14132,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\remake-tibia-20260916\\item_14132_860v2-v2.obd",
+      "source_sha256": "F771A94A8869AFF94B7C7A578C8A18A9AC5B89564991A395D37D3971AAD7AA56",
+      "layout": [
+        2,
+        2,
+        1,
+        2,
+        1,
+        1,
+        6
+      ],
+      "sprite_count": 48,
+      "sprite_ids": [
+        255985,
+        256032
+      ],
+      "sprite_hash": "AB0D8A388AA5BC0C21008F586C721D91"
+    },
+    {
+      "sequence": 80,
+      "server_id": 10134,
+      "client_id": 9216,
+      "source_server_id": 15026,
+      "source_client_id": 14141,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\remake-tibia-20260916\\item_14141_860v2-v2.obd",
+      "source_sha256": "51DC25FDF860C25E7A629E0C7B67A17FA0CAA6F7AAF331271F692E368B6B3919",
+      "layout": [
+        2,
+        2,
+        1,
+        4,
+        2,
+        1,
+        3
+      ],
+      "sprite_count": 96,
+      "sprite_ids": [
+        256033,
+        256128
+      ],
+      "sprite_hash": "38E28F9D9AA2132D5AA719E7B7E2017D"
+    },
+    {
+      "sequence": 81,
+      "server_id": 10135,
+      "client_id": 9217,
+      "source_server_id": 15029,
+      "source_client_id": 14144,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\remake-tibia-20260916\\item_14144_860v2-v2.obd",
+      "source_sha256": "13311742F4629E60F8577A32EB76C69E03CA828D21456ECAA5CB2CCFE20FE2C9",
+      "layout": [
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        16
+      ],
+      "sprite_count": 32,
+      "sprite_ids": [
+        256129,
+        256160
+      ],
+      "sprite_hash": "DEA42EC71C557EB5860B0BDFC6B1984F"
+    },
+    {
+      "sequence": 82,
+      "server_id": 10136,
+      "client_id": 9218,
+      "source_server_id": 15030,
+      "source_client_id": 14145,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\remake-tibia-20260916\\item_14145_860v2-v2.obd",
+      "source_sha256": "46B0629DFCDCBBE91E0C920DFDC8EA033F9E773842C764109CC44661A8BDFF43",
+      "layout": [
+        1,
+        2,
+        1,
+        1,
+        1,
+        1,
+        16
+      ],
+      "sprite_count": 32,
+      "sprite_ids": [
+        256161,
+        256192
+      ],
+      "sprite_hash": "BE12861D68E94CFC6E56917008E5146D"
+    },
+    {
+      "sequence": 83,
+      "server_id": 10137,
+      "client_id": 9219,
+      "source_server_id": 15031,
+      "source_client_id": 14146,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\remake-tibia-20260916\\item_14146_860v2-v2.obd",
+      "source_sha256": "C2C4F4B135F76915C439F09442272F5915A73AB62A14705B367D32068B616589",
+      "layout": [
+        2,
+        2,
+        1,
+        1,
+        1,
+        1,
+        8
+      ],
+      "sprite_count": 32,
+      "sprite_ids": [
+        256193,
+        256224
+      ],
+      "sprite_hash": "650E01EEF663EE48567EA75A25713477"
+    },
+    {
+      "sequence": 84,
+      "server_id": 10138,
+      "client_id": 9220,
+      "source_server_id": 15032,
+      "source_client_id": 14147,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\remake-tibia-20260916\\item_14147_860v2-v2.obd",
+      "source_sha256": "3106E3495E751667EDEE374F98C6D917F0CCC4828B31EE6BF1A2DBF537AC4F8B",
+      "layout": [
+        2,
+        2,
+        1,
+        1,
+        1,
+        1,
+        8
+      ],
+      "sprite_count": 32,
+      "sprite_ids": [
+        256225,
+        256256
+      ],
+      "sprite_hash": "156DD9B3A92622267E9477D9557EEEEE"
+    },
+    {
+      "sequence": 85,
+      "server_id": 10139,
+      "client_id": 9221,
+      "source_server_id": 15033,
+      "source_client_id": 14148,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\remake-tibia-20260916\\item_14148_860v2-v2.obd",
+      "source_sha256": "0E4A082E51012DFA46ADEECEC33E810829021FD9F34A6B6EBB28FD6DF32BD120",
+      "layout": [
+        2,
+        2,
+        1,
+        1,
+        1,
+        1,
+        9
+      ],
+      "sprite_count": 36,
+      "sprite_ids": [
+        256257,
+        256292
+      ],
+      "sprite_hash": "FAD061108D4ABE41F6488E616E5D5731"
+    },
+    {
+      "sequence": 86,
+      "server_id": 10140,
+      "client_id": 9222,
+      "source_server_id": 15034,
+      "source_client_id": 14149,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\remake-tibia-20260916\\item_14149_860v2-v2.obd",
+      "source_sha256": "BF0561EED0C55F32C01517DBB1554F4ADF53B0D1AAC109C6DD45ECA6184255CD",
+      "layout": [
+        2,
+        2,
+        1,
+        1,
+        1,
+        1,
+        9
+      ],
+      "sprite_count": 36,
+      "sprite_ids": [
+        256293,
+        256328
+      ],
+      "sprite_hash": "8C3249F0D1B5C2259283C401747B284B"
+    },
+    {
+      "sequence": 87,
+      "server_id": 10141,
+      "client_id": 9223,
+      "source_server_id": 15035,
+      "source_client_id": 14150,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\remake-tibia-20260916\\item_14150_860v2-v2.obd",
+      "source_sha256": "277343C1A882DCB6596027B203602807EEE78CC555A06FC5F349ABCC1CC9E90D",
+      "layout": [
+        1,
+        2,
+        1,
+        3,
+        1,
+        1,
+        3
+      ],
+      "sprite_count": 18,
+      "sprite_ids": [
+        256329,
+        256346
+      ],
+      "sprite_hash": "0FA1846DB2E255AF6B279444B0B2D145"
+    },
+    {
+      "sequence": 88,
+      "server_id": 10142,
+      "client_id": 9224,
+      "source_server_id": 15036,
+      "source_client_id": 14151,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\remake-tibia-20260916\\item_14151_860v2-v2.obd",
+      "source_sha256": "7256FEA2116562EAAB74419AC6E9BDD85CF2574FD5B227DF429119D75081615B",
+      "layout": [
+        2,
+        1,
+        1,
+        1,
+        3,
+        1,
+        3
+      ],
+      "sprite_count": 18,
+      "sprite_ids": [
+        256347,
+        256364
+      ],
+      "sprite_hash": "C309C9D60F01CAF1E8686043518FC56C"
+    },
+    {
+      "sequence": 89,
+      "server_id": 10143,
+      "client_id": 9225,
+      "source_server_id": 22373,
+      "source_client_id": 21488,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\remake-tibia-20260916\\item_21488_860v2-v2.obd",
+      "source_sha256": "628E85AD56035581C8DF158BF28862847798FB4E46D346BA3083817DDB080952",
+      "layout": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        10
+      ],
+      "sprite_count": 10,
+      "sprite_ids": [
+        256365,
+        256374
+      ],
+      "sprite_hash": "FFB8DA372AA4EF589539ACEA75B1A2EA"
+    },
+    {
+      "sequence": 90,
+      "server_id": 10144,
+      "client_id": 9226,
+      "source_server_id": 22374,
+      "source_client_id": 21489,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\remake-tibia-20260916\\item_21489_860v2-v2.obd",
+      "source_sha256": "459AF3B6E92CA58A5D5E6C9C02FD3105C3BE68AB34109D9F0C6C9ACEE6D131A8",
+      "layout": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        20
+      ],
+      "sprite_count": 20,
+      "sprite_ids": [
+        256375,
+        256394
+      ],
+      "sprite_hash": "F726752CD82F6B591A3B4A19AAFA0726"
+    },
+    {
+      "sequence": 91,
+      "server_id": 10145,
+      "client_id": 9227,
+      "source_server_id": 22375,
+      "source_client_id": 21490,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\remake-tibia-20260916\\item_21490_860v2-v2.obd",
+      "source_sha256": "5F1F5FA6266DCC1E94D0AB8124C1E835656ADA7FB05BFFEA63B3B48DE78FD099",
+      "layout": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        10
+      ],
+      "sprite_count": 10,
+      "sprite_ids": [
+        256395,
+        256404
+      ],
+      "sprite_hash": "705693C8FE04239365370C371B09458E"
+    },
+    {
+      "sequence": 92,
+      "server_id": 10146,
+      "client_id": 9228,
+      "source_server_id": 22376,
+      "source_client_id": 21491,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\remake-tibia-20260916\\item_21491_860v2-v2.obd",
+      "source_sha256": "EFC69C9C5303D97A7043DF36CF174506A19A7360BE422C7396CA0E7CFED9A062",
+      "layout": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        10
+      ],
+      "sprite_count": 10,
+      "sprite_ids": [
+        256405,
+        256414
+      ],
+      "sprite_hash": "3E0E0EB18096C6A5F21955D54B62CE09"
+    },
+    {
+      "sequence": 93,
+      "server_id": 10147,
+      "client_id": 9229,
+      "source_server_id": 22377,
+      "source_client_id": 21492,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\remake-tibia-20260916\\item_21492_860v2-v2.obd",
+      "source_sha256": "019D3FAFD807254DDE88203339B4C9AB56ED0F7EFC1336FD0A43EFBF36EB58B3",
+      "layout": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        20
+      ],
+      "sprite_count": 20,
+      "sprite_ids": [
+        256415,
+        256434
+      ],
+      "sprite_hash": "11F64627A31940531B91A7161B0BCF72"
+    },
+    {
+      "sequence": 94,
+      "server_id": 10148,
+      "client_id": 9230,
+      "source_server_id": 22378,
+      "source_client_id": 21493,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\remake-tibia-20260916\\item_21493_860v2-v2.obd",
+      "source_sha256": "9B10D610042EB896B5BD1AEE7F96C9005F984852EB9AF37DA156170B1C2B0ED0",
+      "layout": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        20
+      ],
+      "sprite_count": 20,
+      "sprite_ids": [
+        256435,
+        256454
+      ],
+      "sprite_hash": "683612F05C105902B05C2E2BAE395E23"
+    },
+    {
+      "sequence": 95,
+      "server_id": 10149,
+      "client_id": 9231,
+      "source_server_id": 22379,
+      "source_client_id": 21494,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\remake-tibia-20260916\\item_21494_860v2-v2.obd",
+      "source_sha256": "91A435974E4E12C1754CAD48DC0BE7844C9DCE9DD4ADC8528D6750D57221AB21",
+      "layout": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        10
+      ],
+      "sprite_count": 10,
+      "sprite_ids": [
+        256455,
+        256464
+      ],
+      "sprite_hash": "FFB8DA372AA4EF589539ACEA75B1A2EA"
+    },
+    {
+      "sequence": 96,
+      "server_id": 10151,
+      "client_id": 9233,
+      "source_server_id": 22380,
+      "source_client_id": 21495,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\remake-tibia-20260916\\item_21495_860v2-v2.obd",
+      "source_sha256": "294B429048095C66442E43A20FC87A0916342534F28F59763C67795EAAD003B5",
+      "layout": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        20
+      ],
+      "sprite_count": 20,
+      "sprite_ids": [
+        256465,
+        256484
+      ],
+      "sprite_hash": "F726752CD82F6B591A3B4A19AAFA0726"
+    },
+    {
+      "sequence": 97,
+      "server_id": 10153,
+      "client_id": 9235,
+      "source_server_id": 22381,
+      "source_client_id": 21496,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\remake-tibia-20260916\\item_21496_860v2-v2.obd",
+      "source_sha256": "45202ACCCB675B996A742669A8FFB8A69DD64B86D740E1C3DBA6F8F0F675EB9D",
+      "layout": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        10
+      ],
+      "sprite_count": 10,
+      "sprite_ids": [
+        256485,
+        256494
+      ],
+      "sprite_hash": "705693C8FE04239365370C371B09458E"
+    },
+    {
+      "sequence": 98,
+      "server_id": 10154,
+      "client_id": 9236,
+      "source_server_id": 22382,
+      "source_client_id": 21497,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\remake-tibia-20260916\\item_21497_860v2-v2.obd",
+      "source_sha256": "74A2E5570841944BA51F5F61DEF9851195A0EA8F73A4C2B96DDB1D2DDFA7E580",
+      "layout": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        10
+      ],
+      "sprite_count": 10,
+      "sprite_ids": [
+        256495,
+        256504
+      ],
+      "sprite_hash": "3E0E0EB18096C6A5F21955D54B62CE09"
+    },
+    {
+      "sequence": 99,
+      "server_id": 10155,
+      "client_id": 9237,
+      "source_server_id": 22383,
+      "source_client_id": 21498,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\remake-tibia-20260916\\item_21498_860v2-v2.obd",
+      "source_sha256": "4200742489FA6D8BCC7248659D31AE0B1D1E0DC0EFB8BAFE46859FD36A9532C1",
+      "layout": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        20
+      ],
+      "sprite_count": 20,
+      "sprite_ids": [
+        256505,
+        256524
+      ],
+      "sprite_hash": "11F64627A31940531B91A7161B0BCF72"
+    },
+    {
+      "sequence": 100,
+      "server_id": 10156,
+      "client_id": 9238,
+      "source_server_id": 22384,
+      "source_client_id": 21499,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\remake-tibia-20260916\\item_21499_860v2-v2.obd",
+      "source_sha256": "834E4C292B79BA4BA36C3AEFD2D4008C5F4F6E63AEE5D4A882A29378C2B4FD01",
+      "layout": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        20
+      ],
+      "sprite_count": 20,
+      "sprite_ids": [
+        256525,
+        256544
+      ],
+      "sprite_hash": "683612F05C105902B05C2E2BAE395E23"
+    }
+  ],
+  "xml": {
+    "targets": 100,
+    "source_definitions": 75,
+    "target_definitions_removed": 46,
+    "target_elements_removed": 34,
+    "target_definitions_written": 75,
+    "names_written": 75
+  },
+  "catalog": {
+    "ITEMS_BYCID": 52,
+    "ITEMS_BYNAME": 29,
+    "ITEMS_BYSERVERID": 29
+  },
+  "map_scan": {
+    "tiles_scanned": 7824286,
+    "item_nodes_scanned": 2105106
+  },
+  "output_hashes": {
+    "dat": "18ED6B4618654551F9BE99F45294387C0DE2107B843834E4F965DD843C9D0954",
+    "spr": "2CDE7E238A06FCA302CA970335DC61EF639E2750AC355AF4D81DB2D80800D7E0",
+    "otb": "0E1A1A4AD6D6BC85225C320E18EB6ACE2949A86D66F6966667A797C2B268CE02",
+    "xml": "BEC9AAFAFE29CECE6C025A2304706ACD6CC16522E5E32AAF449889211458E992",
+    "catalog": "805481EEF1ED64B66E6E2403C5D8FA2307A29BCB871888C670AB7AA3E7C33BE6"
+  },
+  "map_byte_equal": true,
+  "transaction_committed": true,
+  "final_validation_passed": true,
+  "warnings": [],
+  "errors": [],
+  "passed": true
+}

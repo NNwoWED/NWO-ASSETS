@@ -1,0 +1,330 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "profile": {
+    "key": "tibia-860-v2-custom-extended",
+    "client_version": 860,
+    "label": "Tibia 8.60 v2 customizado com features OTFI",
+    "dat_signature": "0x4C2C7993",
+    "spr_signature": "0x4C220594",
+    "metadata_reader": 5,
+    "otb_version_hint": "8.60"
+  },
+  "category": "items",
+  "id_kind": "server",
+  "requested_ids": [
+    22299,
+    14233,
+    2553,
+    2510,
+    2512,
+    2524,
+    2568,
+    2569,
+    2570,
+    2527,
+    2556,
+    2567,
+    22302
+  ],
+  "output_dir": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items",
+  "exported_count": 13,
+  "exported": [
+    {
+      "requested_id": 22299,
+      "client_id": 21414,
+      "server_ids": [
+        22299
+      ],
+      "name": "Picareta Simples",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        247091
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-22299_client-21414_picareta-simples.png",
+      "size": 440,
+      "sha256": "7F03F76587C5E62ACF3B15404E6CFF12E19EB90895606AC59D8215F9203313CA"
+    },
+    {
+      "requested_id": 14233,
+      "client_id": 13356,
+      "server_ids": [
+        14233
+      ],
+      "name": "Picareta de Cobre",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        247089
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-14233_client-13356_picareta-de-cobre.png",
+      "size": 397,
+      "sha256": "1D95FAA03667229B66D552193AE318A5025B3373A543E4FAA049D2251782B386"
+    },
+    {
+      "requested_id": 2553,
+      "client_id": 3456,
+      "server_ids": [
+        2553
+      ],
+      "name": "Picareta de Ferro",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        247090
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-2553_client-3456_picareta-de-ferro.png",
+      "size": 447,
+      "sha256": "AA71956E6868EF3F671243D4535A5697EDF579D7B9675A6917EEA36CE94DA1F5"
+    },
+    {
+      "requested_id": 2510,
+      "client_id": 3410,
+      "server_ids": [
+        2510
+      ],
+      "name": "Machado Surrado",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        254498
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-2510_client-3410_machado-surrado.png",
+      "size": 430,
+      "sha256": "DE32BC16F66D9503D9536A4C4041F383D6546DEB2A0364C162D6DBF3F87DD18D"
+    },
+    {
+      "requested_id": 2512,
+      "client_id": 3412,
+      "server_ids": [
+        2512
+      ],
+      "name": "Machado de Bronze",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        254499
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-2512_client-3412_machado-de-bronze.png",
+      "size": 389,
+      "sha256": "3751F276194CBB604F2CE418E05E1EB2A1B6559203596EF8DD8E269C67BBF41B"
+    },
+    {
+      "requested_id": 2524,
+      "client_id": 3424,
+      "server_ids": [
+        2524
+      ],
+      "name": "Machado de Ferro",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        254500
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-2524_client-3424_machado-de-ferro.png",
+      "size": 413,
+      "sha256": "90BB438888F2CA94109CA19DD6ACF4C0F1424B00AF240A170C648BEF4F19233A"
+    },
+    {
+      "requested_id": 2568,
+      "client_id": 3471,
+      "server_ids": [
+        2568
+      ],
+      "name": "Foice Surrada",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        254504
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-2568_client-3471_foice-surrada.png",
+      "size": 310,
+      "sha256": "34B9C589E645B4D21B393B26529BB3662624A98A644BD6001D18B99D7E64F442"
+    },
+    {
+      "requested_id": 2569,
+      "client_id": 3472,
+      "server_ids": [
+        2569
+      ],
+      "name": "Foice de Bronze",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        254505
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-2569_client-3472_foice-de-bronze.png",
+      "size": 275,
+      "sha256": "BE3193B9B58217C7421E22112AD03087014B0BBD03A7CFB9476D7C657D161336"
+    },
+    {
+      "requested_id": 2570,
+      "client_id": 3473,
+      "server_ids": [
+        2570
+      ],
+      "name": "Foice de Ferro",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        254506
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-2570_client-3473_foice-de-ferro.png",
+      "size": 307,
+      "sha256": "EAF532AD3F8C99B32FC93055F190D6764D6917825F144396D9A7B9401AB9DB71"
+    },
+    {
+      "requested_id": 2527,
+      "client_id": 3427,
+      "server_ids": [
+        2527
+      ],
+      "name": "Vara de Pesca Simples",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        254501
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-2527_client-3427_vara-de-pesca-simples.png",
+      "size": 399,
+      "sha256": "B3E174C287AD81C4EC9634811C112999886AC4DF4293687832933890A3C72E14"
+    },
+    {
+      "requested_id": 2556,
+      "client_id": 3459,
+      "server_ids": [
+        2556
+      ],
+      "name": "Vara de Pesca de Bronze",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        254502
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-2556_client-3459_vara-de-pesca-de-bronze.png",
+      "size": 477,
+      "sha256": "A78715AF22BDB532D59DA97CFD91DD6153FBCAC4048230E33F278333C65C5809"
+    },
+    {
+      "requested_id": 2567,
+      "client_id": 3470,
+      "server_ids": [
+        2567
+      ],
+      "name": "Vara de Pesca de Ferro",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        254503
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-2567_client-3470_vara-de-pesca-de-ferro.png",
+      "size": 523,
+      "sha256": "277113946CFE52CB9E550921A7D065B7AD03FE1257B428B2A7C901D366CEA0B5"
+    },
+    {
+      "requested_id": 22302,
+      "client_id": 21417,
+      "server_ids": [
+        22302
+      ],
+      "name": "Fishing rod",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        142053
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-22302_client-21417_fishing-rod.png",
+      "size": 365,
+      "sha256": "9F6F3525A4D7FDA1C0BD65EB0511AE59ADA4A1B910EFCA895C63052C8EBEA6EE"
+    }
+  ],
+  "sources": {
+    "dat": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.dat",
+      "sha256": "F53CFAD1A74623BC7DED5803263F0F37BC77A034917A2B29E77B1C754F836CE2"
+    },
+    "spr": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.spr",
+      "sha256": "6DF5511A6F7DDB04430C34ACE5097012B22BCB21B8B22212430169EE497F29BD"
+    }
+  },
+  "passed": true
+}

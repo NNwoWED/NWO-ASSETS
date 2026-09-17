@@ -1,0 +1,140 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "manifest": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\import-kijin-bags-swap-20260914.csv",
+  "profile": "tibia-860-v2-custom-extended",
+  "version_backup": {
+    "tool_version": "0.8.2",
+    "version_id": "20260914-154758-410575",
+    "created_at": "2026-09-14T15:48:14.408382-03:00",
+    "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20260914-154758-410575",
+    "rar_executable": "C:\\Program Files\\WinRAR\\Rar.exe",
+    "sources": [
+      {
+        "path": "assets/860/.gitattributes",
+        "size": 43,
+        "sha256": "D5636A3257287440945C5E017581545E5B0A3E2FDDDAE7C5EF8D90FF4DF3D32A"
+      },
+      {
+        "path": "assets/860/Tibia.dat",
+        "size": 4379595,
+        "sha256": "2CCD9F77E85E99912EDAE9DB760E6EE2A70A0BBF7C3948E7449FACD9639868B9"
+      },
+      {
+        "path": "assets/860/Tibia.otfi",
+        "size": 185,
+        "sha256": "7743548835944BC799CB871A4E5DEF84F7AF76815031871B9CE74B5EC0E8ADD3"
+      },
+      {
+        "path": "assets/860/Tibia.spr",
+        "size": 433846734,
+        "sha256": "AE7C28A69675CF226666FE39E33202637FD9F09E5ABCA771C832DF35B02FBE9E"
+      },
+      {
+        "path": "assets/items/force use.txt",
+        "size": 419,
+        "sha256": "BCB478FDF3F45ECA8D172AFD7A17D3F8CD520924EE0894752452B8FDC8F71959"
+      },
+      {
+        "path": "assets/items/items.otb",
+        "size": 1003405,
+        "sha256": "7221A2862D9297FB050B54BF3C4D478EA858C026EE82DEF712F02231DD04FB48"
+      },
+      {
+        "path": "assets/world/mapanovo.otbm",
+        "size": 80105770,
+        "sha256": "8CDFDDF9DC2A9E53053E4F3FAF7F6825FD89B6B63EE06272ECD234B387202821"
+      }
+    ],
+    "archives": {
+      "860": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20260914-154758-410575\\860.rar",
+        "size": 83520331,
+        "sha256": "C2C19745A3573A9B6C71333B0FFC7AFBE4113D35A98BEA97C19CBEF90DFC2ADB"
+      },
+      "items": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20260914-154758-410575\\items.rar",
+        "size": 476793,
+        "sha256": "CD485B37780C03F6AF27DD0047F43A816DAE376BC3C4B27A619A0D534E7B4179"
+      },
+      "world": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20260914-154758-410575\\world.zip",
+        "size": 19337359,
+        "sha256": "170CD29639D001F9273247C874479344E8207ECB971919AE0E8CAE14295E4A31"
+      }
+    },
+    "items_xml_excluded": true,
+    "world_entries": [
+      "mapanovo.otbm"
+    ],
+    "passed": true
+  },
+  "sprite_hash_gate": {
+    "sample_count": 64,
+    "mismatch_count": 0,
+    "mismatches": [],
+    "passed": true
+  },
+  "item_count": 2,
+  "new_sprite_count": 2,
+  "sprite_id_range": [
+    255239,
+    255240
+  ],
+  "items": [
+    {
+      "sequence": 1,
+      "client_id": 13759,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\server-14639_client-13760_kijin-shuriken-backpack.png",
+      "file_sha256": "69A335F7E3EADABFB532D86D1C16CE2C5307928489FF7AE38CF118620D03D472",
+      "pixels_sha256": "78871D6D3B41E2789154D306767F15BE270D033D54AC04185283F82029C4EFD1",
+      "image_width": 32,
+      "image_height": 32,
+      "width_tiles": 1,
+      "height_tiles": 1,
+      "frames": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_ids": [
+        255239
+      ],
+      "sprite_hash": "512123896754DB2FDB306A3D90B44992"
+    },
+    {
+      "sequence": 2,
+      "client_id": 13760,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\bagkunai.png",
+      "file_sha256": "189763256C8A2CD51F9B0DD55D98B48FEF7A59E34384D0471013C948B1131D20",
+      "pixels_sha256": "DD11E939746EE0FA9ADF8DA7D3CEAE747BADF2312A1F7DE5CCEBB5D456434715",
+      "image_width": 32,
+      "image_height": 32,
+      "width_tiles": 1,
+      "height_tiles": 1,
+      "frames": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_ids": [
+        255240
+      ],
+      "sprite_hash": "24E4530E862E9E17AEC3CA42A625DE57"
+    }
+  ],
+  "otb_nodes_updated": {
+    "13759": 1,
+    "13760": 1
+  },
+  "transaction_committed": true,
+  "output_hashes": {
+    "dat": "E4E3526F01E523EB2A2ABA8A160DD6FF4D5181EA5344B156BAA8D1668AFDFD91",
+    "spr": "1FF97E16F49B0780990027557A1F4822DEB429E4CC72E717D2FD389E01FE413F",
+    "otb": "9057AC9833B94AFCCD8936738265828A602A31A4828E49B64223F74CD9E0E6E9"
+  },
+  "dat_non_targets_preserved": true,
+  "old_sprite_payload_preserved": true,
+  "new_sprite_pixels_verified": true,
+  "untouched_files_preserved": true,
+  "map_byte_equal": true,
+  "final_validation_passed": true,
+  "warnings": [],
+  "errors": [],
+  "passed": true
+}

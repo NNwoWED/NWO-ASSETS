@@ -1,0 +1,192 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "profile": {
+    "key": "tibia-860-v2-custom-extended",
+    "client_version": 860,
+    "label": "Tibia 8.60 v2 customizado com features OTFI",
+    "dat_signature": "0x4C2C7993",
+    "spr_signature": "0x4C220594",
+    "metadata_reader": 5,
+    "otb_version_hint": "8.60"
+  },
+  "category": "items",
+  "id_kind": "server",
+  "requested_ids": [
+    14475,
+    24265,
+    14479,
+    14562,
+    14478,
+    24262,
+    24292
+  ],
+  "output_dir": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\engenharia-ninja-shurikens-kunais-20260904\\itens",
+  "exported_count": 7,
+  "exported": [
+    {
+      "requested_id": 14475,
+      "client_id": 13598,
+      "server_ids": [
+        14475
+      ],
+      "name": "Bone Shuriken",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        207615
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\engenharia-ninja-shurikens-kunais-20260904\\itens\\server-14475_client-13598_bone-shuriken.png",
+      "size": 491,
+      "sha256": "833FA552A205B0E32B79AA1195D3C12BB7E2A088D19140359C180416BB142FC5"
+    },
+    {
+      "requested_id": 24265,
+      "client_id": 23380,
+      "server_ids": [
+        24265
+      ],
+      "name": "Ronin Shuriken",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        210933
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\engenharia-ninja-shurikens-kunais-20260904\\itens\\server-24265_client-23380_ronin-shuriken.png",
+      "size": 507,
+      "sha256": "2DE7CF5CE8398FC59F42DD86C163E857912A1FF2877970AADE3BFFDC7EAC818A"
+    },
+    {
+      "requested_id": 14479,
+      "client_id": 13602,
+      "server_ids": [
+        14479
+      ],
+      "name": "Suna Kunai",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        207619
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\engenharia-ninja-shurikens-kunais-20260904\\itens\\server-14479_client-13602_suna-kunai.png",
+      "size": 429,
+      "sha256": "F2F07F6FB9AB68C9474922263B2EEA368A77F738A5B1019FC774248839E836F5"
+    },
+    {
+      "requested_id": 14562,
+      "client_id": 13685,
+      "server_ids": [
+        14562
+      ],
+      "name": "Shurikens encantadas",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        80990
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\engenharia-ninja-shurikens-kunais-20260904\\itens\\server-14562_client-13685_shurikens-encantadas.png",
+      "size": 234,
+      "sha256": "4090500761AFF41897060AE73E11444C24FB684DA82C74DF4D33113D606B7D78"
+    },
+    {
+      "requested_id": 14478,
+      "client_id": 13601,
+      "server_ids": [
+        14478
+      ],
+      "name": "Advanced Kunai",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        207618
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\engenharia-ninja-shurikens-kunais-20260904\\itens\\server-14478_client-13601_advanced-kunai.png",
+      "size": 369,
+      "sha256": "08C1940FDB7663DB27271FD74D34F4F9214592BD72D06B9FC19903F4D86F216F"
+    },
+    {
+      "requested_id": 24262,
+      "client_id": 23377,
+      "server_ids": [
+        24262
+      ],
+      "name": "Ronin Kunai",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        210932
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\engenharia-ninja-shurikens-kunais-20260904\\itens\\server-24262_client-23377_ronin-kunai.png",
+      "size": 424,
+      "sha256": "13C92ACD341BC0233440367518DEF56CABCDDAC0834440E0865E018C4DB9DFA5"
+    },
+    {
+      "requested_id": 24292,
+      "client_id": 23407,
+      "server_ids": [
+        24292
+      ],
+      "name": "Mist Shuriken",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        212346
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\engenharia-ninja-shurikens-kunais-20260904\\itens\\server-24292_client-23407_mist-shuriken.png",
+      "size": 478,
+      "sha256": "C113B84BE296C9AE56AC6E9916A19631FFF45D27E77E94E6B1C8D9FF2B6223D9"
+    }
+  ],
+  "sources": {
+    "dat": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.dat",
+      "sha256": "AC1AE8A37F6B49C9CAA2DE3663E459FEF0CC0B9092E1E1E1FBF0B0F61C0F7540"
+    },
+    "spr": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.spr",
+      "sha256": "B3CD10EF202DFEDE5F3D1CD6CBEA533229F8899DA51EDC5FEDF4F55DD8BE9D9D"
+    }
+  },
+  "passed": true
+}

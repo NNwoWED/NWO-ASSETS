@@ -138,6 +138,7 @@ effects:
     opacity: 0.7
   61:
     opacity: 0.7
+    effect-displacement: 64 64
   62:
     opacity: 0.7
   63:
@@ -258,6 +259,8 @@ effects:
     opacity: 0.7
   111:
     opacity: 0.7
+    isLoop
+    effect-displacement: -32 -32
   112:
     opacity: 0.7
   113:
@@ -2932,7 +2935,7 @@ effects:
     effect-displacement: 32 224
   1235:
     opacity: 1.0
-    effect-displacement: 96 128
+    effect-displacement: 0 0
   1236:
     opacity: 0.7
   1237:
@@ -3993,6 +3996,7 @@ effects:
     effect-displacement: 32 32
   3085:
     opacity: 0.8
+    effect-displacement: 50 44
   3086:
     effect-displacement: 64 64
   3092:

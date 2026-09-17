@@ -1,0 +1,133 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "manifest": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\manifest-house-wall-orientations-addon-correction-20260904.csv",
+  "version_backup": {
+    "tool_version": "0.8.1",
+    "version_id": "20260904-130915-708073",
+    "created_at": "2026-09-04T13:09:25.142687-03:00",
+    "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20260904-130915-708073",
+    "rar_executable": "C:\\Program Files\\WinRAR\\Rar.exe",
+    "sources": [
+      {
+        "path": "assets/860/.gitattributes",
+        "size": 43,
+        "sha256": "D5636A3257287440945C5E017581545E5B0A3E2FDDDAE7C5EF8D90FF4DF3D32A"
+      },
+      {
+        "path": "assets/860/Tibia.dat",
+        "size": 4379139,
+        "sha256": "67719079FE0A7AB28C023B52615CB849F9EB4510250ABF225C36BD3524615C7B"
+      },
+      {
+        "path": "assets/860/Tibia.otfi",
+        "size": 185,
+        "sha256": "7743548835944BC799CB871A4E5DEF84F7AF76815031871B9CE74B5EC0E8ADD3"
+      },
+      {
+        "path": "assets/860/Tibia.spr",
+        "size": 433179054,
+        "sha256": "B3CD10EF202DFEDE5F3D1CD6CBEA533229F8899DA51EDC5FEDF4F55DD8BE9D9D"
+      },
+      {
+        "path": "assets/items/force use.txt",
+        "size": 419,
+        "sha256": "BCB478FDF3F45ECA8D172AFD7A17D3F8CD520924EE0894752452B8FDC8F71959"
+      },
+      {
+        "path": "assets/items/items.otb",
+        "size": 1003404,
+        "sha256": "F16C95FCC0468BAF295BB0EA177631E6C2F381C229D332222DF56D0F6DB41C18"
+      },
+      {
+        "path": "assets/world/mapanovo.otbm",
+        "size": 80109484,
+        "sha256": "FEB55A08B8A9ABD9CC129B23BB1D2ED067A903C9473F0D45F62B5CA16CDD6DB5"
+      }
+    ],
+    "archives": {
+      "860": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20260904-130915-708073\\860.rar",
+        "size": 83353985,
+        "sha256": "D5BE8333440608551DCEEC2106CE3A04C68A89E0320C66B27ED5F5662E02E775"
+      },
+      "items": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20260904-130915-708073\\items.rar",
+        "size": 476821,
+        "sha256": "F81FC3AE18A2A752E1838F77443FDD6886A47DB880E100F38F3D7303A7E20AE8"
+      },
+      "world": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20260904-130915-708073\\world.zip",
+        "size": 19340601,
+        "sha256": "DCFFBB6FB455DD8E051C696548FB4210CF88F7F802692C8F96FBEC7EFA8231DA"
+      }
+    },
+    "items_xml_excluded": true,
+    "world_entries": [
+      "mapanovo.otbm"
+    ],
+    "passed": true
+  },
+  "item_count": 2,
+  "items": [
+    {
+      "sequence": 1,
+      "server_id": 20628,
+      "client_id": 19743,
+      "dat": {
+        "before": [
+          "on_top",
+          "unmoveable",
+          "vertical"
+        ],
+        "after": [
+          "on_top",
+          "unmoveable"
+        ]
+      },
+      "otb": {
+        "before_mask": "0x00042000",
+        "after_mask": "0x00002000",
+        "before": [
+          "always_on_top",
+          "horizontal"
+        ],
+        "after": [
+          "always_on_top"
+        ]
+      }
+    },
+    {
+      "sequence": 2,
+      "server_id": 20631,
+      "client_id": 19746,
+      "dat": {
+        "before": [
+          "on_top",
+          "unmoveable",
+          "horizontal"
+        ],
+        "after": [
+          "on_top",
+          "unmoveable"
+        ]
+      },
+      "otb": {
+        "before_mask": "0x00022000",
+        "after_mask": "0x00002000",
+        "before": [
+          "always_on_top",
+          "vertical"
+        ],
+        "after": [
+          "always_on_top"
+        ]
+      }
+    }
+  ],
+  "transaction_committed": true,
+  "untouched_assets_preserved": true,
+  "final_validation_passed": true,
+  "warnings": [],
+  "errors": [],
+  "passed": true
+}

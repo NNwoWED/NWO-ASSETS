@@ -1,0 +1,62 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "profile": {
+    "key": "tibia-860-v2-custom-extended",
+    "client_version": 860,
+    "label": "Tibia 8.60 v2 customizado com features OTFI",
+    "dat_signature": "0x4C2C7993",
+    "spr_signature": "0x4C220594",
+    "metadata_reader": 5,
+    "otb_version_hint": "8.60"
+  },
+  "category": "items",
+  "id_kind": "server",
+  "requested_ids": [
+    14574
+  ],
+  "output_dir": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\carvalho-da-nevoa-before",
+  "exported_count": 1,
+  "exported": [
+    {
+      "requested_id": 14574,
+      "client_id": 13697,
+      "server_ids": [
+        14574
+      ],
+      "name": "Carvalho da Névoa",
+      "group_index": 0,
+      "width": 96,
+      "height": 96,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        254453,
+        254454,
+        254455,
+        254456,
+        254457,
+        254458,
+        254459,
+        254460,
+        254461
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\carvalho-da-nevoa-before\\server-14574_client-13697_carvalho-da-nevoa.png",
+      "size": 3090,
+      "sha256": "19C20C3D96D679DA191E42A877E0F1EC5DBD6A9289E4D6114BAD8118623D7772"
+    }
+  ],
+  "sources": {
+    "dat": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.dat",
+      "sha256": "DFE37129C43364693FA8EF332232947954D183091A4C450FBDA04746A15AF2D7"
+    },
+    "spr": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.spr",
+      "sha256": "BD69B13DB9936F5463B2B255BFA52848BACEDCE9D0C4AC3ECA3A195A0382A1D6"
+    }
+  },
+  "passed": true
+}

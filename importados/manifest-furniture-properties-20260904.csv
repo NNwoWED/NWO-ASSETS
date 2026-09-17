@@ -1,0 +1,12 @@
+sequence,server_id,client_id,dat_add_flags,dat_remove_flags,otb_add_flags,otb_remove_flags
+1,14580,13701,hangable,stackable,hangable,stackable
+2,14581,13702,hangable,stackable,hangable,stackable
+3,14597,13718,multi_use,stackable,usable,stackable
+4,14598,13719,multi_use,stackable,usable,stackable
+5,16543,15658,pickupable,unmoveable,pickupable|movable,
+6,16544,15659,pickupable|rotatable,unmoveable,pickupable|movable|rotatable,
+7,16545,15660,pickupable|rotatable,unmoveable,pickupable|movable|rotatable,
+8,19832,18947,,block_missile|block_pathfind,,block_projectile|block_pathfind
+9,19833,18948,,block_missile|block_pathfind,,block_projectile|block_pathfind
+10,19834,18949,,block_missile|block_pathfind,,block_projectile|block_pathfind
+11,19835,18950,,block_missile|block_pathfind,,block_projectile|block_pathfind

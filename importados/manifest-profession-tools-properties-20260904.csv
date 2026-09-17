@@ -1,0 +1,10 @@
+sequence,server_id,client_id,dat_add_flags,dat_remove_flags,otb_add_flags,otb_remove_flags
+1,2510,3410,multi_use|pickupable,,usable|pickupable,
+2,2512,3412,multi_use|pickupable,,usable|pickupable,
+3,2524,3424,multi_use|pickupable,,usable|pickupable,
+4,2527,3427,multi_use|pickupable,,usable|pickupable,
+5,2556,3459,multi_use|pickupable,,usable|pickupable,
+6,2567,3470,multi_use|pickupable,,usable|pickupable,
+7,2568,3471,multi_use|pickupable,,usable|pickupable,
+8,2569,3472,multi_use|pickupable,,usable|pickupable,
+9,2570,3473,multi_use|pickupable,,usable|pickupable,

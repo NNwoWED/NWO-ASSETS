@@ -1,0 +1,2686 @@
+{
+  "tool_version": "0.8.1",
+  "generated_at": "2026-09-12T17:32:47.982305+00:00",
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "inventory": {
+    "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+    "ignored_directories": [
+      ".git",
+      ".pytest_cache",
+      ".venv",
+      "__pycache__",
+      "export",
+      "reports",
+      "versions"
+    ],
+    "file_count": 256,
+    "total_bytes": 522803250,
+    "type_counts": {
+      "documentation": 13,
+      "git-config": 3,
+      "items-otb": 1,
+      "map-otbm": 1,
+      "otml-config": 5,
+      "text": 1,
+      "tibia-dat": 1,
+      "tibia-otfi": 1,
+      "tibia-spr": 1,
+      "unknown": 223,
+      "xml-config": 6
+    },
+    "duplicate_groups": [
+      {
+        "sha256": "5F48084DDA97C3CE728B943090D2E45B93AB3D898ABC777A9BE65078F6BC4A7A",
+        "paths": [
+          "drafts/validate-nwo-assets/agents/openai.yaml",
+          "skills/validate-nwo-assets/agents/openai.yaml"
+        ]
+      },
+      {
+        "sha256": "0E8E89FAF121B9EBE4BCD82DA3876B8950904912B15FB1658CE771BC82118E34",
+        "paths": [
+          "drafts/validate-nwo-assets/references/baseline-860.md",
+          "skills/validate-nwo-assets/references/baseline-860.md"
+        ]
+      },
+      {
+        "sha256": "B4E9196E294E565956F17AE1A64B71D6402ED3073860325778ACC661A8FFDBEA",
+        "paths": [
+          "drafts/validate-nwo-assets/scripts/run-validation.sh",
+          "skills/validate-nwo-assets/scripts/run-validation.sh"
+        ]
+      },
+      {
+        "sha256": "C4B957F0F75E884BAC453E293E34DB09A993858CF8684E3C9FB4CA85BAADBEFF",
+        "paths": [
+          "drafts/validate-nwo-assets/SKILL.md",
+          "skills/validate-nwo-assets/SKILL.md"
+        ]
+      },
+      {
+        "sha256": "01BA4719C80B6FE911B091A7C05124B64EEECE964E09C058EF8F9805DACA546B",
+        "paths": [
+          "importados/.gitkeep",
+          "sprites/.gitkeep",
+          "tests/__init__.py"
+        ]
+      },
+      {
+        "sha256": "308D7CD5568D9A224C4AB94A1083158FC71D52BFC527A8FAEA857A8E6214B575",
+        "paths": [
+          "importados/almofada-importado.png",
+          "importados/almofada.png"
+        ]
+      },
+      {
+        "sha256": "7F9D82F5E0E26C8514D572407D7363A16AFD560B198421973615A42DC351B59C",
+        "paths": [
+          "importados/asdasdasdadasdasdadsadasd-Sheet.png",
+          "importados/carvalho-da-nevoa-96x384-4frames-300ms.png"
+        ]
+      },
+      {
+        "sha256": "A66677C4C24C5CC5A5C8B98CB515BEF64C85B0ABFE6573212F0868FB8CD3CD39",
+        "paths": [
+          "importados/cadeira_de_madeira1-importado.png",
+          "importados/cadeiras1.png"
+        ]
+      },
+      {
+        "sha256": "C5CCEA4140AEE036BDCFD9D039D06879D21F7F041886EC5E027864F18B3FC234",
+        "paths": [
+          "importados/cadeira_de_madeira2-importado.png",
+          "importados/cadeiras2.png"
+        ]
+      },
+      {
+        "sha256": "15BBD867D38EC5B01E5EA8BCFA4F8764F12D301B55962FE5D54CE631D89DE249",
+        "paths": [
+          "importados/caixa_mesa_de_madeira_horizontal-importado.png",
+          "importados/caixa_mesa_de_madeira_horizontal.png"
+        ]
+      },
+      {
+        "sha256": "9A819A939623C33800DE19B5247C0FDB1509FE72783B38278A0638E95D8BD484",
+        "paths": [
+          "importados/caixa_mesa_de_madeira_vertical-importado.png",
+          "importados/caixa_mesa_de_madeira_vertical.png"
+        ]
+      },
+      {
+        "sha256": "14AA6A7D51F04A04561D9B007198974A148F85DC186E5E4E58A7F5641360F3CC",
+        "paths": [
+          "importados/cardpack-banner.png",
+          "importados/cardpack.png"
+        ]
+      },
+      {
+        "sha256": "B0FC4770327FCFBD939EA8DD3AB8B90E0A140DAEB71A4B086818A4B2CDC72247",
+        "paths": [
+          "importados/foice_bronze-importado.png",
+          "importados/foice_bronze.png"
+        ]
+      },
+      {
+        "sha256": "50E1A78A8EDAC22E355E175D15DA24647EB3FFD9F9FA9E163207FEA3EFACE216",
+        "paths": [
+          "importados/Foice_ferro-importado.png",
+          "importados/Foice_ferro.png"
+        ]
+      },
+      {
+        "sha256": "226ECEC8E35DF84D1E7344A8AE19CDF02E872E6EFE57F9E0D4EDBE549EDACBA5",
+        "paths": [
+          "importados/foice_surrada-importado.png",
+          "importados/foice_surrada.png"
+        ]
+      },
+      {
+        "sha256": "18930394EBBFA66DBF6D460728EEBCCC03188E99B6C950AFA6ED389B43BF0CF6",
+        "paths": [
+          "importados/machado_bronze-importado.png",
+          "importados/machado_bronze.png"
+        ]
+      },
+      {
+        "sha256": "E10EF666A176C35C26BB87C1B9F46FFC583771828B8F9A73061E23EA21B692CE",
+        "paths": [
+          "importados/machado_ferro-importado.png",
+          "importados/machado_ferro.png"
+        ]
+      },
+      {
+        "sha256": "D8C2D3511B27188AC09C64B356FB36236B899B78E84452A536E44E5B3C304DF8",
+        "paths": [
+          "importados/machado_surrado-importado.png",
+          "importados/machado_surrado.png"
+        ]
+      },
+      {
+        "sha256": "189C806A5D3528D32E13B615E6724F8F15B5763AAEB7718E711891EB39DE565E",
+        "paths": [
+          "importados/mesa_de_madeira1-importado.png",
+          "importados/mesa_de_madeira1.png"
+        ]
+      },
+      {
+        "sha256": "ECB3F5877434B0190C231E52094B89241CCDA8EC6115CBDD8518CBA2A3ABB971",
+        "paths": [
+          "importados/mesa_de_madeira1.1-importado.png",
+          "importados/mesa_de_madeira1.1.png"
+        ]
+      },
+      {
+        "sha256": "3067944B43BD02B9BAEDE3BD4DB540469F60E139CB9E75AF6DECAA412977D359",
+        "paths": [
+          "importados/mesa_de_madeira_2-importado.png",
+          "importados/mesa_de_madeira_2.png"
+        ]
+      },
+      {
+        "sha256": "B3AD2CD0E845685CD2E32D09D232F6997561AB99A8F55AADE5DED59A00699AF9",
+        "paths": [
+          "importados/mesa_de_madeira_2.2-importado.png",
+          "importados/mesa_de_madeira_2.2.png"
+        ]
+      },
+      {
+        "sha256": "06085295138DE07B67F733DA069A962CE8EC5A0825EE32C357D71C2580B32579",
+        "paths": [
+          "importados/po_de_serra-importado.png",
+          "importados/po_de_serra.png"
+        ]
+      },
+      {
+        "sha256": "D3BFB0E1BBF39D0FD3544E033E6FEA855BAB6B7BD841269B6E9F78D3BD21F332",
+        "paths": [
+          "importados/Pregos-importado.png",
+          "importados/Pregos.png"
+        ]
+      },
+      {
+        "sha256": "3EE76369BDB0BFC479BF3E26CDF5FB39013B10D79D850B5187D5DC9EE88A4CC4",
+        "paths": [
+          "importados/quadro_de_kunais-horizontal-importado.png",
+          "importados/quadro_de_kunais.png"
+        ]
+      },
+      {
+        "sha256": "9F0F7E7E2C16E973D4ACE6F3CA9BAA1CEF360E4F81747A2400FF90CD119A0C3E",
+        "paths": [
+          "importados/quadro_de_kunais-vertical-importado.png",
+          "importados/quadro_de_kunais2.png"
+        ]
+      },
+      {
+        "sha256": "3210C30D33CB3680230E594F178603DCEDB7182DA2349EDE3525A1E75A560F27",
+        "paths": [
+          "importados/Tabua_de_Madeira_de_Acacia-importado.png",
+          "importados/Tabua_de_Madeira_de_Acacia.png"
+        ]
+      },
+      {
+        "sha256": "CD9EA6454674CCE6A712E258500C437FDE9E5FCC6753B8BBCB433631C38535DF",
+        "paths": [
+          "importados/Tabua_de_Madeira_de_Carvalho_da_Folha-importado.png",
+          "importados/Tabua_de_Madeira_de_Carvalho_da_Folha.png"
+        ]
+      },
+      {
+        "sha256": "EE6CB681544A71FC73BCA1DE691800451F8130B89B5BD52EA6D56238CD559C66",
+        "paths": [
+          "importados/Tabua_de_Madeira_de_Carvalho_Nobre-importado.png",
+          "importados/Tabua_de_Madeira_de_Carvalho_Nobre.png"
+        ]
+      },
+      {
+        "sha256": "1C72F64FC2D384E85775C603D4A928332F72E65D7ADDD68867DAD460F633F064",
+        "paths": [
+          "importados/tapete_asset-importado.png",
+          "importados/tapete_asset.png"
+        ]
+      },
+      {
+        "sha256": "D91C5CBB2593CB8E9F2822165B73A4386F3E4B476876CEC119DB040B54D63715",
+        "paths": [
+          "importados/tapete_de_palha1-importado.png",
+          "importados/tapete_de_palha1.png"
+        ]
+      },
+      {
+        "sha256": "7D12A844FB1F10E035333E53F5A13FB3642DEDB53BD3544D73D4996424914235",
+        "paths": [
+          "importados/tapete_de_palha10-importado.png",
+          "importados/tapete_de_palha10.png"
+        ]
+      },
+      {
+        "sha256": "6157A2ABD733FA47C726E832D0BCF2AD490D0C4133948B67002E6773092FA2F6",
+        "paths": [
+          "importados/tapete_de_palha11-importado.png",
+          "importados/tapete_de_palha11.png"
+        ]
+      },
+      {
+        "sha256": "A469E018D61867DDE11647FA986D6F12ADCA39DA0C1D1D743CDB0E2C4B0800FC",
+        "paths": [
+          "importados/tapete_de_palha12-importado.png",
+          "importados/tapete_de_palha12.png"
+        ]
+      },
+      {
+        "sha256": "83D52BD9E695291CBD9314D5DCB743551F29B92203952B5A5E414EF624A32287",
+        "paths": [
+          "importados/tapete_de_palha13-importado.png",
+          "importados/tapete_de_palha13.png"
+        ]
+      },
+      {
+        "sha256": "4FD2B03A71663994D7035ECF2B827449BFDCFB458FC57BA87E4E3CFBD9348BBD",
+        "paths": [
+          "importados/tapete_de_palha14-importado.png",
+          "importados/tapete_de_palha14.png"
+        ]
+      },
+      {
+        "sha256": "AFF3D25000AB05FE8CBAB5FDE875260148D74347BEE016E3F2489258834633B5",
+        "paths": [
+          "importados/tapete_de_palha15-importado.png",
+          "importados/tapete_de_palha15.png"
+        ]
+      },
+      {
+        "sha256": "6371B07CD69EE3EF9A049AB9E35200566657366C8F02D51348459744482A9553",
+        "paths": [
+          "importados/tapete_de_palha2-importado.png",
+          "importados/tapete_de_palha2.png"
+        ]
+      },
+      {
+        "sha256": "34DCA5769C9C147CE0B1CE78E5AD47061683323255DA81D643EADB05C0882ED0",
+        "paths": [
+          "importados/tapete_de_palha3-importado.png",
+          "importados/tapete_de_palha3.png"
+        ]
+      },
+      {
+        "sha256": "7B68F77C03630B5199A80CF6CD8D49E5BC2E24D8133D43A8D5938205012A7C53",
+        "paths": [
+          "importados/tapete_de_palha4-importado.png",
+          "importados/tapete_de_palha4.png"
+        ]
+      },
+      {
+        "sha256": "8DFF82546C047EF98A2FC32AB137483EFACB128A4668B7C01171D062479B495B",
+        "paths": [
+          "importados/tapete_de_palha5-importado.png",
+          "importados/tapete_de_palha5.png"
+        ]
+      },
+      {
+        "sha256": "7D29680FD0F9AC2CD9199E7AC4B58C8319F22E15364D5C4CCB276A25D887679C",
+        "paths": [
+          "importados/tapete_de_palha6-importado.png",
+          "importados/tapete_de_palha6.png"
+        ]
+      },
+      {
+        "sha256": "5565436DD706111D55643F7DA2061C92732D27016A152A8E9D6559BDB0963DF7",
+        "paths": [
+          "importados/tapete_de_palha7-importado.png",
+          "importados/tapete_de_palha7.png"
+        ]
+      },
+      {
+        "sha256": "D55F6590C5210833B923B4D990D46F5D9F81AB459B8AC9AA03F9FD93E63E4D63",
+        "paths": [
+          "importados/tapete_de_palha8-importado.png",
+          "importados/tapete_de_palha8.png"
+        ]
+      },
+      {
+        "sha256": "AB7F6229987CA0E1D02C587503EAC2E6939AFEEACC8AE807C3F0B6220B79108F",
+        "paths": [
+          "importados/tapete_de_palha9-importado.png",
+          "importados/tapete_de_palha9.png"
+        ]
+      },
+      {
+        "sha256": "4521EEC03B4AFA0D78D07D7A00E7584AA34D5530D02B0FD2D236A6259FBC853D",
+        "paths": [
+          "importados/vara_de_pescar_de_bronze-importado.png",
+          "importados/vara_de_pescar_de_bronze.png"
+        ]
+      },
+      {
+        "sha256": "8435D02C043092A25BDB34E1AC71EB73F42EF6F5801BE7CD00DB12D4DA91A2FB",
+        "paths": [
+          "importados/vara_de_pescar_de_ferro-importado.png",
+          "importados/vara_de_pescar_de_ferro.png"
+        ]
+      },
+      {
+        "sha256": "8944CA1EAFB3129BDB8A2992430AC919471A7AAB51312E531CAFE336DF25D9D4",
+        "paths": [
+          "importados/vara_de_pescar_simples-importado.png",
+          "importados/vara_de_pescar_simples.png"
+        ]
+      }
+    ],
+    "files": [
+      {
+        "path": ".gitignore",
+        "type": "git-config",
+        "size": 81,
+        "sha256": "2A45434816BE28E72643FF3C8C3EC8EB55D184F50DF1E1C3C27EE5F2EDE3EC39",
+        "modified_utc": "2026-08-29T21:03:26.392551+00:00"
+      },
+      {
+        "path": "assets/860/.gitattributes",
+        "type": "git-config",
+        "size": 43,
+        "sha256": "D5636A3257287440945C5E017581545E5B0A3E2FDDDAE7C5EF8D90FF4DF3D32A",
+        "modified_utc": "2025-03-22T22:55:24.525806+00:00"
+      },
+      {
+        "path": "assets/860/Tibia.dat",
+        "type": "tibia-dat",
+        "size": 4379231,
+        "sha256": "A1BCFBEF429C98E26F4020EA3DC7781F04AF343DA8D8D39E3353DB924FECF1FA",
+        "modified_utc": "2026-09-12T00:19:39.393309+00:00"
+      },
+      {
+        "path": "assets/860/Tibia.otfi",
+        "type": "tibia-otfi",
+        "size": 185,
+        "sha256": "7743548835944BC799CB871A4E5DEF84F7AF76815031871B9CE74B5EC0E8ADD3",
+        "modified_utc": "2026-08-28T22:09:40.866477+00:00"
+      },
+      {
+        "path": "assets/860/Tibia.spr",
+        "type": "tibia-spr",
+        "size": 433230574,
+        "sha256": "8A8E8676CFA165D1A7810EB0D2BEB6E100C7528B07829DAFB19955A2C8CB7B5C",
+        "modified_utc": "2026-09-12T00:17:58.807215+00:00"
+      },
+      {
+        "path": "assets/items/force use.txt",
+        "type": "text",
+        "size": 419,
+        "sha256": "BCB478FDF3F45ECA8D172AFD7A17D3F8CD520924EE0894752452B8FDC8F71959",
+        "modified_utc": "2025-12-06T07:28:22+00:00"
+      },
+      {
+        "path": "assets/items/items.otb",
+        "type": "items-otb",
+        "size": 1003405,
+        "sha256": "CEE18055680156A420D9B16A34EEFAFD93E16FA35D05BC271EA0C28DD5D0D062",
+        "modified_utc": "2026-09-12T00:19:39.885455+00:00"
+      },
+      {
+        "path": "assets/items/items.xml",
+        "type": "xml-config",
+        "size": 815492,
+        "sha256": "760735D48C7887FFBFE07A3B15D2D96A6547DB7BD2C024AB465E05F86C95DC03",
+        "modified_utc": "2026-09-12T00:20:13.149087+00:00"
+      },
+      {
+        "path": "assets/world/.gitignore",
+        "type": "git-config",
+        "size": 13,
+        "sha256": "182CC96EC5135E44D77A8948049F6C93644EF5C04091B7EC7EA1339F264EA79E",
+        "modified_utc": "2025-12-11T01:38:40+00:00"
+      },
+      {
+        "path": "assets/world/mapanovo-areas.xml",
+        "type": "xml-config",
+        "size": 492,
+        "sha256": "1DD56116C40F8F7E287CEBA94FB6C6FFB59CDE2E8E457512F3A2B61B7C804636",
+        "modified_utc": "2025-12-31T04:42:36.928183+00:00"
+      },
+      {
+        "path": "assets/world/mapanovo-house.xml",
+        "type": "xml-config",
+        "size": 19061,
+        "sha256": "AC1C42234A10B48A96D895CCA39B6C6110988375C2E22A157A9D8408B18BC81D",
+        "modified_utc": "2026-07-26T16:19:58.727771+00:00"
+      },
+      {
+        "path": "assets/world/mapanovo-spawn.xml",
+        "type": "xml-config",
+        "size": 1406319,
+        "sha256": "7182CB1786F2A6A94166C3FBD3887A770CEB08BCA09D0BF4E1651D67160BD313",
+        "modified_utc": "2026-07-26T16:19:58.724270+00:00"
+      },
+      {
+        "path": "assets/world/mapanovo-things.xml",
+        "type": "xml-config",
+        "size": 57373,
+        "sha256": "EDA1CE36EA301F793609B3B2C37F84C541DA778D2A6546F6B3B67D4B895A7B66",
+        "modified_utc": "2026-07-26T16:19:58.729275+00:00"
+      },
+      {
+        "path": "assets/world/mapanovo.otbm",
+        "type": "map-otbm",
+        "size": 80105770,
+        "sha256": "8CDFDDF9DC2A9E53053E4F3FAF7F6825FD89B6B63EE06272ECD234B387202821",
+        "modified_utc": "2026-09-04T17:36:10+00:00"
+      },
+      {
+        "path": "assets/world/routes.xml",
+        "type": "xml-config",
+        "size": 18577,
+        "sha256": "2C834B5CC335424BF124ECA159C2C2ED156C8986AA0F3131C74BF99CAFCAE4E6",
+        "modified_utc": "2026-06-29T12:21:30.693313+00:00"
+      },
+      {
+        "path": "creatures.otml",
+        "type": "otml-config",
+        "size": 42189,
+        "sha256": "8246F7C776D09A763E74A7D897FA63A072E18E14359CD767BEB3363A497D5F21",
+        "modified_utc": "2026-07-19T10:37:32.911370+00:00"
+      },
+      {
+        "path": "drafts/inspect-nwo-assets/agents/openai.yaml",
+        "type": "unknown",
+        "size": 207,
+        "sha256": "3D14A39E5D3D1BC9644C152A5792DB1A139F1EB56A8AD01653F8C98CD546D8F0",
+        "modified_utc": "2026-07-30T02:17:23.738052+00:00"
+      },
+      {
+        "path": "drafts/inspect-nwo-assets/EVIDENCIA-NIN-7.md",
+        "type": "documentation",
+        "size": 2775,
+        "sha256": "5CD107965E7F7B950DC093E2C77681EF4B67E7A20C4BAF9DE49651A3BBF7E4E9",
+        "modified_utc": "2026-07-30T02:21:46.343071+00:00"
+      },
+      {
+        "path": "drafts/inspect-nwo-assets/references/formatos-e-ids.md",
+        "type": "documentation",
+        "size": 2968,
+        "sha256": "EECCC3DA56CD21C16AAF5D74B56B96B4F5F167BD0AF65A02E2290BA0FD863D3B",
+        "modified_utc": "2026-07-30T02:18:54.952811+00:00"
+      },
+      {
+        "path": "drafts/inspect-nwo-assets/references/troubleshooting.md",
+        "type": "documentation",
+        "size": 3336,
+        "sha256": "642E4A42577835802369CD804EB7AE7E7A909C90C2B2AF09D6C3B05C4D342E78",
+        "modified_utc": "2026-07-30T02:19:16.082867+00:00"
+      },
+      {
+        "path": "drafts/inspect-nwo-assets/SKILL.md",
+        "type": "documentation",
+        "size": 3894,
+        "sha256": "D7C852C34B3021C006F9B3D150FA7C7F6FF9506ED3B1C161F90BEE6573329A95",
+        "modified_utc": "2026-07-30T02:18:54.946051+00:00"
+      },
+      {
+        "path": "drafts/validate-nwo-assets/agents/openai.yaml",
+        "type": "unknown",
+        "size": 216,
+        "sha256": "5F48084DDA97C3CE728B943090D2E45B93AB3D898ABC777A9BE65078F6BC4A7A",
+        "modified_utc": "2026-07-30T02:21:43.504936+00:00"
+      },
+      {
+        "path": "drafts/validate-nwo-assets/EVIDENCIA-NIN-6.md",
+        "type": "documentation",
+        "size": 2206,
+        "sha256": "A0F4DEC4D3EC7213FD562913BDF17F5A796473A8DC5537B801A9D87291DD39EF",
+        "modified_utc": "2026-07-30T02:25:54.763528+00:00"
+      },
+      {
+        "path": "drafts/validate-nwo-assets/references/baseline-860.md",
+        "type": "documentation",
+        "size": 1195,
+        "sha256": "0E8E89FAF121B9EBE4BCD82DA3876B8950904912B15FB1658CE771BC82118E34",
+        "modified_utc": "2026-07-30T02:22:42.139991+00:00"
+      },
+      {
+        "path": "drafts/validate-nwo-assets/scripts/run-validation.sh",
+        "type": "unknown",
+        "size": 2729,
+        "sha256": "B4E9196E294E565956F17AE1A64B71D6402ED3073860325778ACC661A8FFDBEA",
+        "modified_utc": "2026-07-30T02:22:42.147134+00:00"
+      },
+      {
+        "path": "drafts/validate-nwo-assets/scripts/test-run-validation.sh",
+        "type": "unknown",
+        "size": 2019,
+        "sha256": "859E5BB8215CB8995DEC726C4E1CF7AF26A29F7B5E2F7285C13280D8949EDCCD",
+        "modified_utc": "2026-07-30T02:24:39.589385+00:00"
+      },
+      {
+        "path": "drafts/validate-nwo-assets/SKILL.md",
+        "type": "documentation",
+        "size": 2614,
+        "sha256": "C4B957F0F75E884BAC453E293E34DB09A993858CF8684E3C9FB4CA85BAADBEFF",
+        "modified_utc": "2026-07-30T02:22:42.132957+00:00"
+      },
+      {
+        "path": "effects.otml",
+        "type": "otml-config",
+        "size": 63817,
+        "sha256": "B3260B986A48641659AF48E94AA0442AF1040D827C34E7789F4D21DDBFEF7082",
+        "modified_utc": "2026-07-19T05:51:21.092847+00:00"
+      },
+      {
+        "path": "ESPECIFICACAO-PIPELINE-ASSETS-860-CUSTOM.md",
+        "type": "documentation",
+        "size": 12931,
+        "sha256": "39BE4DB25BFB001B87F0251BE4020FD231CA12B6FEA48AC6E0B3770A612DAD26",
+        "modified_utc": "2026-08-30T17:00:50.750069+00:00"
+      },
+      {
+        "path": "ESPECIFICACAO-PORTATIL-PIPELINE-SPRITES-1041.md",
+        "type": "documentation",
+        "size": 44815,
+        "sha256": "9B2867FF86A99F91AEE2E4F11AC098DC81652FA64E26274BB12808947FA0C716",
+        "modified_utc": "2026-07-27T20:08:22.802715+00:00"
+      },
+      {
+        "path": "examples/items-import.csv",
+        "type": "unknown",
+        "size": 100,
+        "sha256": "3E96BE44403A334D509846808C167D5A9D4910C777FED229E5864649CD5C7074",
+        "modified_utc": "2026-08-30T17:05:56.289427+00:00"
+      },
+      {
+        "path": "examples/items-properties.csv",
+        "type": "unknown",
+        "size": 130,
+        "sha256": "C5E2DDB7436C41213AEC0F4F1E9CD5B0A8D9365FB4BB8C13582071F4D481BDA2",
+        "modified_utc": "2026-08-29T08:59:33.158203+00:00"
+      },
+      {
+        "path": "importados/.gitkeep",
+        "type": "unknown",
+        "size": 1,
+        "sha256": "01BA4719C80B6FE911B091A7C05124B64EEECE964E09C058EF8F9805DACA546B",
+        "modified_utc": "2026-08-29T14:51:05.608931+00:00"
+      },
+      {
+        "path": "importados/almofada-importado.png",
+        "type": "unknown",
+        "size": 565,
+        "sha256": "308D7CD5568D9A224C4AB94A1083158FC71D52BFC527A8FAEA857A8E6214B575",
+        "modified_utc": "2026-09-04T05:42:26.415792+00:00"
+      },
+      {
+        "path": "importados/almofada.png",
+        "type": "unknown",
+        "size": 565,
+        "sha256": "308D7CD5568D9A224C4AB94A1083158FC71D52BFC527A8FAEA857A8E6214B575",
+        "modified_utc": "2026-09-04T05:42:26.415792+00:00"
+      },
+      {
+        "path": "importados/artesao-import-256x64.png",
+        "type": "unknown",
+        "size": 1769,
+        "sha256": "0403BDF5E19CF96B3EFB498ED429DAFD5BE031173EA7AE7C52DBC79556567599",
+        "modified_utc": "2026-09-03T02:48:45.062954+00:00"
+      },
+      {
+        "path": "importados/artesao.png",
+        "type": "unknown",
+        "size": 3239,
+        "sha256": "F63A1901DADFD0B1418D642DFE6A43FD5B4FDA09575AB31E864E56DF98485493",
+        "modified_utc": "2026-09-02T20:58:01.363442+00:00"
+      },
+      {
+        "path": "importados/asdasdasdadasdasdadsadasd-Sheet.png",
+        "type": "unknown",
+        "size": 44506,
+        "sha256": "7F9D82F5E0E26C8514D572407D7363A16AFD560B198421973615A42DC351B59C",
+        "modified_utc": "2026-09-04T04:13:37.602313+00:00"
+      },
+      {
+        "path": "importados/banner.png",
+        "type": "unknown",
+        "size": 603,
+        "sha256": "2B7DD881A0BB4B66F49B63E92E16211416A86D6FED47A8C577AB40AAFF1C023E",
+        "modified_utc": "2026-09-07T23:47:04.927391+00:00"
+      },
+      {
+        "path": "importados/battlepass-kijin-items-20260911.csv",
+        "type": "unknown",
+        "size": 100,
+        "sha256": "35D1492B37D9B8FFD5D07117DA0C59DD7BF596EC3C7042A6638214075564B846",
+        "modified_utc": "2026-09-11T17:22:21.128591+00:00"
+      },
+      {
+        "path": "importados/battlepass-kijin-properties-20260911.csv",
+        "type": "unknown",
+        "size": 217,
+        "sha256": "00329515B257D0092B031B6718F78AB88C2A5D793AA3DA4891F8C2903221A93E",
+        "modified_utc": "2026-09-11T17:22:21.128591+00:00"
+      },
+      {
+        "path": "importados/bless-pvp-kijin-20260911/bless-pvp-kijin-20260911.csv",
+        "type": "unknown",
+        "size": 83,
+        "sha256": "00BC1B374880A9F9693DBFB9E7D1D7662854B5085DE089B31E79A037DCC80980",
+        "modified_utc": "2026-09-12T00:15:48.875058+00:00"
+      },
+      {
+        "path": "importados/bless-pvp-kijin-20260911/bless-pvp-properties-20260911.csv",
+        "type": "unknown",
+        "size": 149,
+        "sha256": "46337344D0DF9A64A35727D9A14B0CEEC71281582CB5F5E7B0618891ADA06EC2",
+        "modified_utc": "2026-09-12T00:15:48.876059+00:00"
+      },
+      {
+        "path": "importados/bless-pvp-kijin-20260911/Icon_Blessing_PVP.png",
+        "type": "unknown",
+        "size": 1034,
+        "sha256": "80A871D75D79D22A944F4C6B65B255A96CB8BA39DC6117DC07851808BA87286C",
+        "modified_utc": "2026-09-11T23:49:56.144845+00:00"
+      },
+      {
+        "path": "importados/bless-pvp-kijin-20260911/Icon_Blessing_PVP_2.png",
+        "type": "unknown",
+        "size": 660,
+        "sha256": "582231C85E0058E093EC35102A06757BA8205B83E1ACD824BB07EE0ADD739C0D",
+        "modified_utc": "2026-09-11T23:50:01.771959+00:00"
+      },
+      {
+        "path": "importados/bless-pvp-kijin-20260911/locker1.png",
+        "type": "unknown",
+        "size": 5174,
+        "sha256": "6AC9C0C636A525EBE11623D2607903A2B5A71A08D3B19BCD64EE38097C5373EE",
+        "modified_utc": "2026-09-11T20:10:42.710272+00:00"
+      },
+      {
+        "path": "importados/cadeira_de_madeira1-importado.png",
+        "type": "unknown",
+        "size": 555,
+        "sha256": "A66677C4C24C5CC5A5C8B98CB515BEF64C85B0ABFE6573212F0868FB8CD3CD39",
+        "modified_utc": "2026-09-04T05:20:07.114557+00:00"
+      },
+      {
+        "path": "importados/cadeira_de_madeira2-importado.png",
+        "type": "unknown",
+        "size": 857,
+        "sha256": "C5CCEA4140AEE036BDCFD9D039D06879D21F7F041886EC5E027864F18B3FC234",
+        "modified_utc": "2026-09-04T05:19:46.703211+00:00"
+      },
+      {
+        "path": "importados/cadeiras1.png",
+        "type": "unknown",
+        "size": 555,
+        "sha256": "A66677C4C24C5CC5A5C8B98CB515BEF64C85B0ABFE6573212F0868FB8CD3CD39",
+        "modified_utc": "2026-09-04T05:20:07.114557+00:00"
+      },
+      {
+        "path": "importados/cadeiras2.png",
+        "type": "unknown",
+        "size": 857,
+        "sha256": "C5CCEA4140AEE036BDCFD9D039D06879D21F7F041886EC5E027864F18B3FC234",
+        "modified_utc": "2026-09-04T05:19:46.703211+00:00"
+      },
+      {
+        "path": "importados/caixa_mesa_de_madeira_horizontal-importado.png",
+        "type": "unknown",
+        "size": 772,
+        "sha256": "15BBD867D38EC5B01E5EA8BCFA4F8764F12D301B55962FE5D54CE631D89DE249",
+        "modified_utc": "2026-09-04T07:30:37.804838+00:00"
+      },
+      {
+        "path": "importados/caixa_mesa_de_madeira_horizontal.png",
+        "type": "unknown",
+        "size": 772,
+        "sha256": "15BBD867D38EC5B01E5EA8BCFA4F8764F12D301B55962FE5D54CE631D89DE249",
+        "modified_utc": "2026-09-04T07:30:37.804838+00:00"
+      },
+      {
+        "path": "importados/caixa_mesa_de_madeira_vertical-importado.png",
+        "type": "unknown",
+        "size": 712,
+        "sha256": "9A819A939623C33800DE19B5247C0FDB1509FE72783B38278A0638E95D8BD484",
+        "modified_utc": "2026-09-04T07:30:37.814848+00:00"
+      },
+      {
+        "path": "importados/caixa_mesa_de_madeira_vertical.png",
+        "type": "unknown",
+        "size": 712,
+        "sha256": "9A819A939623C33800DE19B5247C0FDB1509FE72783B38278A0638E95D8BD484",
+        "modified_utc": "2026-09-04T07:30:37.814848+00:00"
+      },
+      {
+        "path": "importados/cardpack-banner.png",
+        "type": "unknown",
+        "size": 649,
+        "sha256": "14AA6A7D51F04A04561D9B007198974A148F85DC186E5E4E58A7F5641360F3CC",
+        "modified_utc": "2026-08-29T15:04:08.506008+00:00"
+      },
+      {
+        "path": "importados/cardpack.png",
+        "type": "unknown",
+        "size": 649,
+        "sha256": "14AA6A7D51F04A04561D9B007198974A148F85DC186E5E4E58A7F5641360F3CC",
+        "modified_utc": "2026-08-29T15:04:08.506008+00:00"
+      },
+      {
+        "path": "importados/carvalho-da-nevoa-96x384-4frames-300ms.png",
+        "type": "unknown",
+        "size": 44506,
+        "sha256": "7F9D82F5E0E26C8514D572407D7363A16AFD560B198421973615A42DC351B59C",
+        "modified_utc": "2026-09-04T04:13:37.602313+00:00"
+      },
+      {
+        "path": "importados/chave-dungeon-extra-durations.csv",
+        "type": "unknown",
+        "size": 117,
+        "sha256": "6C9CAC6D324ACAC50DB88134A7419F0C1CD02F8038B57927C5A40CF0E69A8878",
+        "modified_utc": "2026-09-01T20:32:26.067346+00:00"
+      },
+      {
+        "path": "importados/chave_dungeon.png",
+        "type": "unknown",
+        "size": 2646,
+        "sha256": "696347E77624CB3357CA1DCF4C657E29C371DFDA7287D0B50C6551E94B028C99",
+        "modified_utc": "2026-08-30T16:28:57.040282+00:00"
+      },
+      {
+        "path": "importados/cientista-import-256x64.png",
+        "type": "unknown",
+        "size": 1698,
+        "sha256": "29B2D69855044394AF7A94567D57098FC65C9E480A17D3989B5AEFA8A9B189B6",
+        "modified_utc": "2026-09-03T02:48:45.105235+00:00"
+      },
+      {
+        "path": "importados/cientista.png",
+        "type": "unknown",
+        "size": 3202,
+        "sha256": "034B990E7BE6D24905CF552E25CFD5132F24DFB19AA12F5166839E77ADAF131E",
+        "modified_utc": "2026-09-02T20:57:54.076860+00:00"
+      },
+      {
+        "path": "importados/cozinheira-import-256x64.png",
+        "type": "unknown",
+        "size": 1647,
+        "sha256": "4B17DBACB949E21C195395A5069EE1C2E8A4060FFEA74BB20AAD3DC5FC0BB83E",
+        "modified_utc": "2026-09-03T02:48:45.156247+00:00"
+      },
+      {
+        "path": "importados/cozinheira.png",
+        "type": "unknown",
+        "size": 3019,
+        "sha256": "F2CC8017DE35C3D9064A74F04DA398166B703F9894E8421914E4AF165B514C48",
+        "modified_utc": "2026-09-02T20:57:50.132331+00:00"
+      },
+      {
+        "path": "importados/daily-rewards-items-20260907.csv",
+        "type": "unknown",
+        "size": 233,
+        "sha256": "C993254D71C9A96A3896805CA171A486A03EC457BC4A1AC23FD0763822E3A316",
+        "modified_utc": "2026-09-08T00:09:55.218409+00:00"
+      },
+      {
+        "path": "importados/descendo_3_frames-importado.png",
+        "type": "unknown",
+        "size": 10272,
+        "sha256": "76CFA8F93BA39037EE3C126459B534FD4F5436FC3C8951634F71F9FF338D86C2",
+        "modified_utc": "2026-09-01T18:10:23.258742+00:00"
+      },
+      {
+        "path": "importados/descendo_3_frames.png",
+        "type": "unknown",
+        "size": 17103,
+        "sha256": "4AAF896E47A7DFD847265B5BB957DDA947EAC8DC0659580EA3822C024EB63D1B",
+        "modified_utc": "2026-09-01T14:41:25.922983+00:00"
+      },
+      {
+        "path": "importados/dungeon-boost-charges-properties-20260907.csv",
+        "type": "unknown",
+        "size": 127,
+        "sha256": "A9DD4DDE520C1D1850D7AC573161F31E623A6EF7B79E4F1AFE7FA98D397AA429",
+        "modified_utc": "2026-09-08T00:11:53.732970+00:00"
+      },
+      {
+        "path": "importados/e2-chicote1-6_frames.png",
+        "type": "unknown",
+        "size": 128910,
+        "sha256": "2947A5E3C9012BC9142F2C34E9CB4AA264D332F9ECD6CD0F72C92A0B5469265C",
+        "modified_utc": "2026-09-01T20:22:43.747918+00:00"
+      },
+      {
+        "path": "importados/e2-parte2-chicote2-7_frames.png",
+        "type": "unknown",
+        "size": 152020,
+        "sha256": "80C517ABA877934F4D0482C37E3E0B9311C483EE9B7EDCE1D472269C10683328",
+        "modified_utc": "2026-09-01T20:24:04.794058+00:00"
+      },
+      {
+        "path": "importados/Elixir da Fortuna.png",
+        "type": "unknown",
+        "size": 1334,
+        "sha256": "2486D1F148EFBD959B2DC428DA4CC672318FA0BA35D8D4D86E23CB06C3158136",
+        "modified_utc": "2026-08-15T15:47:06.350307+00:00"
+      },
+      {
+        "path": "importados/Elixir Guardião de Ferro.png",
+        "type": "unknown",
+        "size": 1337,
+        "sha256": "784AA55E7077462F32837A6D13D7B26F31CE424229C0DFBB02039AD6782A138C",
+        "modified_utc": "2026-08-15T15:47:11.107186+00:00"
+      },
+      {
+        "path": "importados/engenheiro-import-256x64.png",
+        "type": "unknown",
+        "size": 1694,
+        "sha256": "AB05EDD358E0B93AE9CA8A4E3481EEB38AAA98D4DB9FE0D7B2C3E162F302BC30",
+        "modified_utc": "2026-09-03T02:48:45.201812+00:00"
+      },
+      {
+        "path": "importados/engenheiro.png",
+        "type": "unknown",
+        "size": 3236,
+        "sha256": "DFFC552C6390D805D660C191C6F72E8A602DC4BCF9029BB7C7C6358FC1528E9F",
+        "modified_utc": "2026-09-03T02:05:35.825090+00:00"
+      },
+      {
+        "path": "importados/Exilir de Stamina.png",
+        "type": "unknown",
+        "size": 1429,
+        "sha256": "261F3FE9C1DB85AF9ECAC7F7D0816F43F6FC86E87602665665AB32CE25BA870C",
+        "modified_utc": "2026-08-15T15:46:58.356801+00:00"
+      },
+      {
+        "path": "importados/ferreiro-import-256x64.png",
+        "type": "unknown",
+        "size": 1812,
+        "sha256": "14E38741146300C0DB6076379ABB17C509800B8B12E23012035523C9A8582F5F",
+        "modified_utc": "2026-09-03T02:48:45.244402+00:00"
+      },
+      {
+        "path": "importados/ferreiro.png",
+        "type": "unknown",
+        "size": 3459,
+        "sha256": "9441A19707DA52F6DE76F5926EF580FFE1D9B0307D7C509ECD7C6CE7AB0D8026",
+        "modified_utc": "2026-09-02T20:57:57.854460+00:00"
+      },
+      {
+        "path": "importados/foice_bronze-importado.png",
+        "type": "unknown",
+        "size": 513,
+        "sha256": "B0FC4770327FCFBD939EA8DD3AB8B90E0A140DAEB71A4B086818A4B2CDC72247",
+        "modified_utc": "2026-08-15T15:50:23.183851+00:00"
+      },
+      {
+        "path": "importados/foice_bronze.png",
+        "type": "unknown",
+        "size": 513,
+        "sha256": "B0FC4770327FCFBD939EA8DD3AB8B90E0A140DAEB71A4B086818A4B2CDC72247",
+        "modified_utc": "2026-08-15T15:50:23.183851+00:00"
+      },
+      {
+        "path": "importados/Foice_ferro-importado.png",
+        "type": "unknown",
+        "size": 574,
+        "sha256": "50E1A78A8EDAC22E355E175D15DA24647EB3FFD9F9FA9E163207FEA3EFACE216",
+        "modified_utc": "2026-08-15T15:50:25.710911+00:00"
+      },
+      {
+        "path": "importados/Foice_ferro.png",
+        "type": "unknown",
+        "size": 574,
+        "sha256": "50E1A78A8EDAC22E355E175D15DA24647EB3FFD9F9FA9E163207FEA3EFACE216",
+        "modified_utc": "2026-08-15T15:50:25.710911+00:00"
+      },
+      {
+        "path": "importados/foice_surrada-importado.png",
+        "type": "unknown",
+        "size": 596,
+        "sha256": "226ECEC8E35DF84D1E7344A8AE19CDF02E872E6EFE57F9E0D4EDBE549EDACBA5",
+        "modified_utc": "2026-08-15T15:50:28.773824+00:00"
+      },
+      {
+        "path": "importados/foice_surrada.png",
+        "type": "unknown",
+        "size": 596,
+        "sha256": "226ECEC8E35DF84D1E7344A8AE19CDF02E872E6EFE57F9E0D4EDBE549EDACBA5",
+        "modified_utc": "2026-08-15T15:50:28.773824+00:00"
+      },
+      {
+        "path": "importados/hashirama-e2-trap-properties.csv",
+        "type": "unknown",
+        "size": 165,
+        "sha256": "9CDDA295BED74A8C0C3FBB4B3CAD4359A6FF2BD020560E62248B7B43C0806D2C",
+        "modified_utc": "2026-09-03T21:54:43.049461+00:00"
+      },
+      {
+        "path": "importados/hashirama-e3-trap-properties.csv",
+        "type": "unknown",
+        "size": 179,
+        "sha256": "5E670082C93259C114DB23EB6BB641A3922D5F24EDEA7AD5DA8ED940770CFB5D",
+        "modified_utc": "2026-09-03T00:28:26.500545+00:00"
+      },
+      {
+        "path": "importados/image.png",
+        "type": "unknown",
+        "size": 1362,
+        "sha256": "39595063D1731B3F7B4A3344DEFFAA20008ED9BE89E67905401BE44BA07DF773",
+        "modified_utc": "2026-08-29T14:59:13.236519+00:00"
+      },
+      {
+        "path": "importados/import-carvalho-da-nevoa-20260904.csv",
+        "type": "unknown",
+        "size": 131,
+        "sha256": "CE59780DB7FBB34ADF842CA6C47441BAD6C4B8BA69DF596603994055453B234D",
+        "modified_utc": "2026-09-04T04:15:55.646822+00:00"
+      },
+      {
+        "path": "importados/import-item-13751.csv",
+        "type": "unknown",
+        "size": 63,
+        "sha256": "7F398F0863761EDBCE6B907FD9E5D3C7B01FBB8895CADBF3845F7F76DE33E960",
+        "modified_utc": "2026-08-29T15:04:27.409615+00:00"
+      },
+      {
+        "path": "importados/item-12010-nonmovable-properties.csv",
+        "type": "unknown",
+        "size": 126,
+        "sha256": "B93FD085B66656012EFD623A825870985AE18B3F1214EB18E21A1BBA123C8EF9",
+        "modified_utc": "2026-09-08T22:33:13.247776+00:00"
+      },
+      {
+        "path": "importados/item-510-floor-properties.csv",
+        "type": "unknown",
+        "size": 123,
+        "sha256": "298D3975ECF298EF24B5C21D997F29370650086CB353AC69402979DB56246386",
+        "modified_utc": "2026-09-01T21:01:24.474902+00:00"
+      },
+      {
+        "path": "importados/kijin-backpack-importado.png",
+        "type": "unknown",
+        "size": 777,
+        "sha256": "9F3B4230405D0A24463D6870ABD1DBD4FE64A7D0C0B699E068078202DC35547E",
+        "modified_utc": "2026-09-11T17:26:45.115813+00:00"
+      },
+      {
+        "path": "importados/kijin-backpack-original.png",
+        "type": "unknown",
+        "size": 1508,
+        "sha256": "969F0B458E7900971E09E1B097825A01BA249E34CC3414D1B6D0A54289260E02",
+        "modified_utc": "2026-09-11T17:01:45.293509+00:00"
+      },
+      {
+        "path": "importados/kijin-depot-importado.png",
+        "type": "unknown",
+        "size": 2975,
+        "sha256": "B438AB9708A0B10B751E524A51ED4B860F5E8CF76568160DD2225ECE4325D183",
+        "modified_utc": "2026-09-11T17:26:45.096533+00:00"
+      },
+      {
+        "path": "importados/kijin-depot-original.png",
+        "type": "unknown",
+        "size": 4839,
+        "sha256": "6B2DBAB094B55DB039ED6F09E36059915B1E55EEE95ED25B8D3E7E21804AA681",
+        "modified_utc": "2026-09-11T17:00:50.498853+00:00"
+      },
+      {
+        "path": "importados/kijin-shuriken-backpack-importado.png",
+        "type": "unknown",
+        "size": 840,
+        "sha256": "69A335F7E3EADABFB532D86D1C16CE2C5307928489FF7AE38CF118620D03D472",
+        "modified_utc": "2026-09-11T17:26:45.126291+00:00"
+      },
+      {
+        "path": "importados/kijin-shuriken-backpack-original.png",
+        "type": "unknown",
+        "size": 1682,
+        "sha256": "C2AB6AA48D1BE7F41E9D0B77B0AACB53D0EBB2CC881CF483124DED130B413E82",
+        "modified_utc": "2026-09-11T17:02:01.069953+00:00"
+      },
+      {
+        "path": "importados/kimimaro-child-layers.csv",
+        "type": "unknown",
+        "size": 147,
+        "sha256": "63761572168EAD905D1FC71B524EF7687948204F843F872FEF9BD619DCF43F99",
+        "modified_utc": "2026-09-02T11:25:26.410914+00:00"
+      },
+      {
+        "path": "importados/kimimaro-e2-effects.csv",
+        "type": "unknown",
+        "size": 173,
+        "sha256": "92CE664479D99A17432A2D683DA03D27E927080D2A4739D83A8FCF47F8F32FCB",
+        "modified_utc": "2026-09-01T20:41:11.765582+00:00"
+      },
+      {
+        "path": "importados/kimimaro-e4-effects.csv",
+        "type": "unknown",
+        "size": 370,
+        "sha256": "8E67D6443862A7C8D84210E496B3EF080B2D2278031961CA9A6CBFC8E91A5A03",
+        "modified_utc": "2026-09-01T18:10:32.898178+00:00"
+      },
+      {
+        "path": "importados/kimimaro-e4-natural-end-effects.csv",
+        "type": "unknown",
+        "size": 138,
+        "sha256": "6B02DB610819425BE527005AE92DB1292737994D9E78BD25FB7D38668CD283C4",
+        "modified_utc": "2026-09-02T19:47:00.134468+00:00"
+      },
+      {
+        "path": "importados/Kimimaro_merge_all-Sheet.png",
+        "type": "unknown",
+        "size": 79549,
+        "sha256": "23E2774148B1AA38A0E40CDC8E78C3A343000B98C05A4E55DFBAD37CE9002342",
+        "modified_utc": "2026-09-02T20:58:11.727891+00:00"
+      },
+      {
+        "path": "importados/kimimaro_pequeno_espinho-Sheet.png",
+        "type": "unknown",
+        "size": 25299,
+        "sha256": "206E668B6F8A7672620A6F8E49FD1B7D924ADF4842C22CE43B9919961E62F42B",
+        "modified_utc": "2026-09-02T11:13:28.724873+00:00"
+      },
+      {
+        "path": "importados/kimimaro_pequeno_espinho_ALONGANDO-Sheet.png",
+        "type": "unknown",
+        "size": 12094,
+        "sha256": "A621CAB81AB8E21A610431B6246CA1D06E7BA88E6314819C814AA7B9E5AC04DD",
+        "modified_utc": "2026-09-02T11:13:24.114416+00:00"
+      },
+      {
+        "path": "importados/luminaria parede2.png",
+        "type": "unknown",
+        "size": 739,
+        "sha256": "399703818C1E0FE21758766890C7F519C9167362300399620CEB75F2F775BFBC",
+        "modified_utc": "2026-08-19T16:48:49+00:00"
+      },
+      {
+        "path": "importados/machado_bronze-importado.png",
+        "type": "unknown",
+        "size": 719,
+        "sha256": "18930394EBBFA66DBF6D460728EEBCCC03188E99B6C950AFA6ED389B43BF0CF6",
+        "modified_utc": "2026-08-15T15:50:04.667854+00:00"
+      },
+      {
+        "path": "importados/machado_bronze.png",
+        "type": "unknown",
+        "size": 719,
+        "sha256": "18930394EBBFA66DBF6D460728EEBCCC03188E99B6C950AFA6ED389B43BF0CF6",
+        "modified_utc": "2026-08-15T15:50:04.667854+00:00"
+      },
+      {
+        "path": "importados/machado_ferro-importado.png",
+        "type": "unknown",
+        "size": 800,
+        "sha256": "E10EF666A176C35C26BB87C1B9F46FFC583771828B8F9A73061E23EA21B692CE",
+        "modified_utc": "2026-08-15T15:50:08.633365+00:00"
+      },
+      {
+        "path": "importados/machado_ferro.png",
+        "type": "unknown",
+        "size": 800,
+        "sha256": "E10EF666A176C35C26BB87C1B9F46FFC583771828B8F9A73061E23EA21B692CE",
+        "modified_utc": "2026-08-15T15:50:08.633365+00:00"
+      },
+      {
+        "path": "importados/machado_surrado-importado.png",
+        "type": "unknown",
+        "size": 815,
+        "sha256": "D8C2D3511B27188AC09C64B356FB36236B899B78E84452A536E44E5B3C304DF8",
+        "modified_utc": "2026-08-15T15:50:11.749950+00:00"
+      },
+      {
+        "path": "importados/machado_surrado.png",
+        "type": "unknown",
+        "size": 815,
+        "sha256": "D8C2D3511B27188AC09C64B356FB36236B899B78E84452A536E44E5B3C304DF8",
+        "modified_utc": "2026-08-15T15:50:11.749950+00:00"
+      },
+      {
+        "path": "importados/manifest-bamboo-carpet-use-properties-20260904.csv",
+        "type": "unknown",
+        "size": 157,
+        "sha256": "6C62E1295AC9075C526F133D674185BDA3EE930E7A50FE3181A0068C729ED6EF",
+        "modified_utc": "2026-09-04T13:27:54.963345+00:00"
+      },
+      {
+        "path": "importados/manifest-chave-dungeon-extra.csv",
+        "type": "unknown",
+        "size": 107,
+        "sha256": "C09A245F7322C8C38A5CB5A689C8DE6B92A2C23D403E61E59348760D6720D825",
+        "modified_utc": "2026-08-30T17:01:25.155185+00:00"
+      },
+      {
+        "path": "importados/manifest-copper-lamp-rotation-20260904.csv",
+        "type": "unknown",
+        "size": 107,
+        "sha256": "6DB559B96CBED8030ADC5DE642E2C9FDDCD7DBD93E07F6C507756B0F0B2A9D54",
+        "modified_utc": "2026-09-04T16:29:45.010400+00:00"
+      },
+      {
+        "path": "importados/manifest-furniture-20260904.csv",
+        "type": "unknown",
+        "size": 1293,
+        "sha256": "EBE0429692840470DDFDB0F8B70B8177AE77D187AB0ED64A8A49709718D81228",
+        "modified_utc": "2026-09-04T07:39:39.409076+00:00"
+      },
+      {
+        "path": "importados/manifest-furniture-properties-20260904.csv",
+        "type": "unknown",
+        "size": 815,
+        "sha256": "D57AC63479B22B751E7D867765D4CB5564FF3690E01B7838E61B4E7199D2A571",
+        "modified_utc": "2026-09-04T07:39:39.410079+00:00"
+      },
+      {
+        "path": "importados/manifest-hangable-rotatable-items-20260904.csv",
+        "type": "unknown",
+        "size": 343,
+        "sha256": "4A18EF3F9CC883CCCC5D9AF3810D6B40BE83700A2C5B24CC0554D614A01936B4",
+        "modified_utc": "2026-09-04T16:29:45.011405+00:00"
+      },
+      {
+        "path": "importados/manifest-house-wall-orientations-20260904.csv",
+        "type": "unknown",
+        "size": 1624,
+        "sha256": "1A615EE6FC9A86BBEF944081F57FD09805F0BBD85C5CB5B338BE743C7CB734FE",
+        "modified_utc": "2026-09-04T16:08:07.718085+00:00"
+      },
+      {
+        "path": "importados/manifest-house-wall-orientations-addon-correction-20260904.csv",
+        "type": "unknown",
+        "size": 203,
+        "sha256": "D92819B64C75787CE6D5DA348FF0E0328011BCC15A870280370360DEFA64B800",
+        "modified_utc": "2026-09-04T16:09:05.703494+00:00"
+      },
+      {
+        "path": "importados/manifest-kunai-frame-height-replace-20260904.csv",
+        "type": "unknown",
+        "size": 141,
+        "sha256": "1D9A8FBE63626122DEE5730556FCEA4812C853B8DDCC9B5455F215279B7F7B4F",
+        "modified_utc": "2026-09-04T16:51:47.789368+00:00"
+      },
+      {
+        "path": "importados/manifest-profession-tools-20260904.csv",
+        "type": "unknown",
+        "size": 376,
+        "sha256": "854FA38A799312491350B4DAE14121CBDA287BB66BC1B2A0E866DBF9C6182132",
+        "modified_utc": "2026-09-04T05:05:31.859178+00:00"
+      },
+      {
+        "path": "importados/manifest-profession-tools-properties-20260904.csv",
+        "type": "unknown",
+        "size": 568,
+        "sha256": "C4D17868D8756A562DFDB3E14E2EDEE87E5D56C9816F7DE5FDCA0D6BF9ABBE95",
+        "modified_utc": "2026-09-04T05:05:31.860182+00:00"
+      },
+      {
+        "path": "importados/manifest-unified-table-vase-packages-20260904.csv",
+        "type": "unknown",
+        "size": 206,
+        "sha256": "4560A13AB72C691C97208815A625FB7434BF89A5526A28D19596582EEBB081A7",
+        "modified_utc": "2026-09-04T12:40:45.694407+00:00"
+      },
+      {
+        "path": "importados/manifest-vase-package-properties-20260904.csv",
+        "type": "unknown",
+        "size": 142,
+        "sha256": "4131A771505B00D4A1109C84B5831660CFADB5D7DB499218120B3EC3B3D6433C",
+        "modified_utc": "2026-09-04T12:41:25.981781+00:00"
+      },
+      {
+        "path": "importados/manifest-wood-products-20260904.csv",
+        "type": "unknown",
+        "size": 306,
+        "sha256": "782F815C4DB571432BE94FBDB12DA411945FCE7CB572220C15FE744FADBC889E",
+        "modified_utc": "2026-09-04T13:19:45.871506+00:00"
+      },
+      {
+        "path": "importados/mantido_dnv_3_frames-importado.png",
+        "type": "unknown",
+        "size": 37307,
+        "sha256": "8F2C2597DECEDE984829A969EAAA8B06B7815811467AC064D5521E6FF41FD37F",
+        "modified_utc": "2026-09-01T18:10:23.717567+00:00"
+      },
+      {
+        "path": "importados/mantido_dnv_3_frames.png",
+        "type": "unknown",
+        "size": 58395,
+        "sha256": "D8AF1C05BA8FE3617944A967159D6C6E597185DA6CA528EC70FA1A9B078E51F7",
+        "modified_utc": "2026-09-01T14:41:21.721010+00:00"
+      },
+      {
+        "path": "importados/marcenero.png",
+        "type": "unknown",
+        "size": 3385,
+        "sha256": "3BD1347364E126B8C62C9832E0028E8DE0760246F9648D8A64A22C12B09A679A",
+        "modified_utc": "2026-09-02T20:57:46.339797+00:00"
+      },
+      {
+        "path": "importados/mesa_de_madeira1-importado.png",
+        "type": "unknown",
+        "size": 741,
+        "sha256": "189C806A5D3528D32E13B615E6724F8F15B5763AAEB7718E711891EB39DE565E",
+        "modified_utc": "2026-09-04T05:26:07.481192+00:00"
+      },
+      {
+        "path": "importados/mesa_de_madeira1.1-importado.png",
+        "type": "unknown",
+        "size": 477,
+        "sha256": "ECB3F5877434B0190C231E52094B89241CCDA8EC6115CBDD8518CBA2A3ABB971",
+        "modified_utc": "2026-09-04T05:25:55.143663+00:00"
+      },
+      {
+        "path": "importados/mesa_de_madeira1.1.png",
+        "type": "unknown",
+        "size": 477,
+        "sha256": "ECB3F5877434B0190C231E52094B89241CCDA8EC6115CBDD8518CBA2A3ABB971",
+        "modified_utc": "2026-09-04T05:25:55.143663+00:00"
+      },
+      {
+        "path": "importados/mesa_de_madeira1.png",
+        "type": "unknown",
+        "size": 741,
+        "sha256": "189C806A5D3528D32E13B615E6724F8F15B5763AAEB7718E711891EB39DE565E",
+        "modified_utc": "2026-09-04T05:26:07.481192+00:00"
+      },
+      {
+        "path": "importados/mesa_de_madeira_2-importado.png",
+        "type": "unknown",
+        "size": 724,
+        "sha256": "3067944B43BD02B9BAEDE3BD4DB540469F60E139CB9E75AF6DECAA412977D359",
+        "modified_utc": "2026-09-04T05:27:33.054918+00:00"
+      },
+      {
+        "path": "importados/mesa_de_madeira_2.2-importado.png",
+        "type": "unknown",
+        "size": 500,
+        "sha256": "B3AD2CD0E845685CD2E32D09D232F6997561AB99A8F55AADE5DED59A00699AF9",
+        "modified_utc": "2026-09-04T05:27:25.797862+00:00"
+      },
+      {
+        "path": "importados/mesa_de_madeira_2.2.png",
+        "type": "unknown",
+        "size": 500,
+        "sha256": "B3AD2CD0E845685CD2E32D09D232F6997561AB99A8F55AADE5DED59A00699AF9",
+        "modified_utc": "2026-09-04T05:27:25.797862+00:00"
+      },
+      {
+        "path": "importados/mesa_de_madeira_2.png",
+        "type": "unknown",
+        "size": 724,
+        "sha256": "3067944B43BD02B9BAEDE3BD4DB540469F60E139CB9E75AF6DECAA412977D359",
+        "modified_utc": "2026-09-04T05:27:33.054918+00:00"
+      },
+      {
+        "path": "importados/npc-professions-kimimaro-remake-20260902.csv",
+        "type": "unknown",
+        "size": 387,
+        "sha256": "2CCAAEE6DD9AA547BAAF62B6F7C2D9C23EEB696CCDDD1D2601D8E4D857C5A05A",
+        "modified_utc": "2026-09-03T02:49:32.299319+00:00"
+      },
+      {
+        "path": "importados/ossos_pequenos_voltando-Sheet.png",
+        "type": "unknown",
+        "size": 10932,
+        "sha256": "A4A89C7656C3EA3038C91FEE04A24BC3EA989B475ADDE6EE452C574EDE7E5426",
+        "modified_utc": "2026-09-02T19:40:23.849392+00:00"
+      },
+      {
+        "path": "importados/perfil.png",
+        "type": "unknown",
+        "size": 574,
+        "sha256": "6FD379AA1FCE80561DD905646BB28C20569A6EC6F166944A284EA8D48AF17192",
+        "modified_utc": "2026-09-07T23:48:31.887225+00:00"
+      },
+      {
+        "path": "importados/po_de_serra-importado.png",
+        "type": "unknown",
+        "size": 763,
+        "sha256": "06085295138DE07B67F733DA069A962CE8EC5A0825EE32C357D71C2580B32579",
+        "modified_utc": "2026-09-04T13:11:37.900342+00:00"
+      },
+      {
+        "path": "importados/po_de_serra.png",
+        "type": "unknown",
+        "size": 763,
+        "sha256": "06085295138DE07B67F733DA069A962CE8EC5A0825EE32C357D71C2580B32579",
+        "modified_utc": "2026-09-04T13:11:37.900342+00:00"
+      },
+      {
+        "path": "importados/Pregos-importado.png",
+        "type": "unknown",
+        "size": 613,
+        "sha256": "D3BFB0E1BBF39D0FD3544E033E6FEA855BAB6B7BD841269B6E9F78D3BD21F332",
+        "modified_utc": "2026-09-04T13:12:01.447250+00:00"
+      },
+      {
+        "path": "importados/Pregos.png",
+        "type": "unknown",
+        "size": 613,
+        "sha256": "D3BFB0E1BBF39D0FD3544E033E6FEA855BAB6B7BD841269B6E9F78D3BD21F332",
+        "modified_utc": "2026-09-04T13:12:01.447250+00:00"
+      },
+      {
+        "path": "importados/profile-cardpacks-import.csv",
+        "type": "unknown",
+        "size": 131,
+        "sha256": "226F00EB4AC1F71AF036B4DA8E56F0ACD11621E44EFF3A559C27FB6B8EAFB9AF",
+        "modified_utc": "2026-09-11T00:13:42.559312+00:00"
+      },
+      {
+        "path": "importados/profile-cards-properties.csv",
+        "type": "unknown",
+        "size": 163,
+        "sha256": "AAB9EC7AC96A9F39CDB66DA0E2FB6146D210D0189783E292981DC62C24F7C7EE",
+        "modified_utc": "2026-09-11T00:13:25.174759+00:00"
+      },
+      {
+        "path": "importados/properties-sal-stackable.csv",
+        "type": "unknown",
+        "size": 127,
+        "sha256": "5F9DA76808F418F6AFED3BDB5134DAF25FA33B46E3B0973270495A0126BC7DB3",
+        "modified_utc": "2026-08-29T22:29:23.647139+00:00"
+      },
+      {
+        "path": "importados/properties-stone-suna-22019-22027.csv",
+        "type": "unknown",
+        "size": 1369,
+        "sha256": "EFA0DB826A57A7CC14D407C0992BDA54165547D99656F2E42F64800A7481F4CC",
+        "modified_utc": "2026-09-10T12:14:24.580418+00:00"
+      },
+      {
+        "path": "importados/quadro_de_kunais-height-corrected-20260904.png",
+        "type": "unknown",
+        "size": 913,
+        "sha256": "4D68DBFC62A0FDB58229109EC1D8A591E55CEFAF532BE3B16A890D2D122C9D68",
+        "modified_utc": "2026-09-04T16:50:22.127687+00:00"
+      },
+      {
+        "path": "importados/quadro_de_kunais-horizontal-importado.png",
+        "type": "unknown",
+        "size": 976,
+        "sha256": "3EE76369BDB0BFC479BF3E26CDF5FB39013B10D79D850B5187D5DC9EE88A4CC4",
+        "modified_utc": "2026-09-04T05:42:19.711535+00:00"
+      },
+      {
+        "path": "importados/quadro_de_kunais-vertical-importado.png",
+        "type": "unknown",
+        "size": 1089,
+        "sha256": "9F0F7E7E2C16E973D4ACE6F3CA9BAA1CEF360E4F81747A2400FF90CD119A0C3E",
+        "modified_utc": "2026-09-04T05:42:15.499415+00:00"
+      },
+      {
+        "path": "importados/quadro_de_kunais.png",
+        "type": "unknown",
+        "size": 976,
+        "sha256": "3EE76369BDB0BFC479BF3E26CDF5FB39013B10D79D850B5187D5DC9EE88A4CC4",
+        "modified_utc": "2026-09-04T05:42:19.711535+00:00"
+      },
+      {
+        "path": "importados/quadro_de_kunais1-height-corrected-20260904.png",
+        "type": "unknown",
+        "size": 1059,
+        "sha256": "1FB4133DECEB72C232572EF3FC71E76DF8F6C43721146D152358AE4E4658063A",
+        "modified_utc": "2026-09-04T16:50:26.111423+00:00"
+      },
+      {
+        "path": "importados/quadro_de_kunais2.png",
+        "type": "unknown",
+        "size": 1089,
+        "sha256": "9F0F7E7E2C16E973D4ACE6F3CA9BAA1CEF360E4F81747A2400FF90CD119A0C3E",
+        "modified_utc": "2026-09-04T05:42:15.499415+00:00"
+      },
+      {
+        "path": "importados/so_a_ponta_mantido_3_frames-importado.png",
+        "type": "unknown",
+        "size": 10444,
+        "sha256": "E9BE50F22FAECFF93CE6FA6600FD940AAE47AF7265242DABE04661FA76582625",
+        "modified_utc": "2026-09-01T18:10:24.131945+00:00"
+      },
+      {
+        "path": "importados/so_a_ponta_mantido_3_frames.png",
+        "type": "unknown",
+        "size": 18226,
+        "sha256": "680164768BD890B124C91201FA489D08F710E1C59792038AEF7EFC6EB308785A",
+        "modified_utc": "2026-09-01T14:41:13.960557+00:00"
+      },
+      {
+        "path": "importados/so_a_ponta_subindo_5_frames-importado.png",
+        "type": "unknown",
+        "size": 19305,
+        "sha256": "F378AEB3E288B03661805DD8ACFD1C1ECC32CF6A4236E4FEA885309948AE7BB9",
+        "modified_utc": "2026-09-01T18:10:24.842469+00:00"
+      },
+      {
+        "path": "importados/so_a_ponta_subindo_5_frames.png",
+        "type": "unknown",
+        "size": 33330,
+        "sha256": "9A2370B8B605C71E7BBEC28169416361A2F75B2741123E9435EDD45189465531",
+        "modified_utc": "2026-09-01T14:41:10.080460+00:00"
+      },
+      {
+        "path": "importados/subindo_dnv_4_frames-importado.png",
+        "type": "unknown",
+        "size": 139934,
+        "sha256": "2E5D65C7E628528F92A4EF1C69704AE9D0601AE0D56C9813FD40DB859DCA4450",
+        "modified_utc": "2026-09-01T18:10:25.512625+00:00"
+      },
+      {
+        "path": "importados/subindo_dnv_4_frames.png",
+        "type": "unknown",
+        "size": 175147,
+        "sha256": "7D235A13193459D92E94064BE5031203993DBD8B82324959811C98294581F170",
+        "modified_utc": "2026-09-01T14:41:17.802922+00:00"
+      },
+      {
+        "path": "importados/Tabua_de_Madeira_de_Acacia-importado.png",
+        "type": "unknown",
+        "size": 760,
+        "sha256": "3210C30D33CB3680230E594F178603DCEDB7182DA2349EDE3525A1E75A560F27",
+        "modified_utc": "2026-09-04T13:07:53.019182+00:00"
+      },
+      {
+        "path": "importados/Tabua_de_Madeira_de_Acacia.png",
+        "type": "unknown",
+        "size": 760,
+        "sha256": "3210C30D33CB3680230E594F178603DCEDB7182DA2349EDE3525A1E75A560F27",
+        "modified_utc": "2026-09-04T13:07:53.019182+00:00"
+      },
+      {
+        "path": "importados/Tabua_de_Madeira_de_Carvalho_da_Folha-importado.png",
+        "type": "unknown",
+        "size": 801,
+        "sha256": "CD9EA6454674CCE6A712E258500C437FDE9E5FCC6753B8BBCB433631C38535DF",
+        "modified_utc": "2026-09-04T13:07:58.212585+00:00"
+      },
+      {
+        "path": "importados/Tabua_de_Madeira_de_Carvalho_da_Folha.png",
+        "type": "unknown",
+        "size": 801,
+        "sha256": "CD9EA6454674CCE6A712E258500C437FDE9E5FCC6753B8BBCB433631C38535DF",
+        "modified_utc": "2026-09-04T13:07:58.212585+00:00"
+      },
+      {
+        "path": "importados/Tabua_de_Madeira_de_Carvalho_Nobre-importado.png",
+        "type": "unknown",
+        "size": 741,
+        "sha256": "EE6CB681544A71FC73BCA1DE691800451F8130B89B5BD52EA6D56238CD559C66",
+        "modified_utc": "2026-09-04T13:08:02.374556+00:00"
+      },
+      {
+        "path": "importados/Tabua_de_Madeira_de_Carvalho_Nobre.png",
+        "type": "unknown",
+        "size": 741,
+        "sha256": "EE6CB681544A71FC73BCA1DE691800451F8130B89B5BD52EA6D56238CD559C66",
+        "modified_utc": "2026-09-04T13:08:02.374556+00:00"
+      },
+      {
+        "path": "importados/tapete_asset-importado.png",
+        "type": "unknown",
+        "size": 620,
+        "sha256": "1C72F64FC2D384E85775C603D4A928332F72E65D7ADDD68867DAD460F633F064",
+        "modified_utc": "2026-09-04T13:09:02.252808+00:00"
+      },
+      {
+        "path": "importados/tapete_asset.png",
+        "type": "unknown",
+        "size": 620,
+        "sha256": "1C72F64FC2D384E85775C603D4A928332F72E65D7ADDD68867DAD460F633F064",
+        "modified_utc": "2026-09-04T13:09:02.252808+00:00"
+      },
+      {
+        "path": "importados/tapete_de_palha1-importado.png",
+        "type": "unknown",
+        "size": 680,
+        "sha256": "D91C5CBB2593CB8E9F2822165B73A4386F3E4B476876CEC119DB040B54D63715",
+        "modified_utc": "2026-09-04T05:42:37.540903+00:00"
+      },
+      {
+        "path": "importados/tapete_de_palha1.png",
+        "type": "unknown",
+        "size": 680,
+        "sha256": "D91C5CBB2593CB8E9F2822165B73A4386F3E4B476876CEC119DB040B54D63715",
+        "modified_utc": "2026-09-04T05:42:37.540903+00:00"
+      },
+      {
+        "path": "importados/tapete_de_palha10-importado.png",
+        "type": "unknown",
+        "size": 741,
+        "sha256": "7D12A844FB1F10E035333E53F5A13FB3642DEDB53BD3544D73D4996424914235",
+        "modified_utc": "2026-09-04T05:42:58.883909+00:00"
+      },
+      {
+        "path": "importados/tapete_de_palha10.png",
+        "type": "unknown",
+        "size": 741,
+        "sha256": "7D12A844FB1F10E035333E53F5A13FB3642DEDB53BD3544D73D4996424914235",
+        "modified_utc": "2026-09-04T05:42:58.883909+00:00"
+      },
+      {
+        "path": "importados/tapete_de_palha11-importado.png",
+        "type": "unknown",
+        "size": 732,
+        "sha256": "6157A2ABD733FA47C726E832D0BCF2AD490D0C4133948B67002E6773092FA2F6",
+        "modified_utc": "2026-09-04T05:43:33.057157+00:00"
+      },
+      {
+        "path": "importados/tapete_de_palha11.png",
+        "type": "unknown",
+        "size": 732,
+        "sha256": "6157A2ABD733FA47C726E832D0BCF2AD490D0C4133948B67002E6773092FA2F6",
+        "modified_utc": "2026-09-04T05:43:33.057157+00:00"
+      },
+      {
+        "path": "importados/tapete_de_palha12-importado.png",
+        "type": "unknown",
+        "size": 708,
+        "sha256": "A469E018D61867DDE11647FA986D6F12ADCA39DA0C1D1D743CDB0E2C4B0800FC",
+        "modified_utc": "2026-09-04T05:43:36.401358+00:00"
+      },
+      {
+        "path": "importados/tapete_de_palha12.png",
+        "type": "unknown",
+        "size": 708,
+        "sha256": "A469E018D61867DDE11647FA986D6F12ADCA39DA0C1D1D743CDB0E2C4B0800FC",
+        "modified_utc": "2026-09-04T05:43:36.401358+00:00"
+      },
+      {
+        "path": "importados/tapete_de_palha13-importado.png",
+        "type": "unknown",
+        "size": 702,
+        "sha256": "83D52BD9E695291CBD9314D5DCB743551F29B92203952B5A5E414EF624A32287",
+        "modified_utc": "2026-09-04T05:43:39.611365+00:00"
+      },
+      {
+        "path": "importados/tapete_de_palha13.png",
+        "type": "unknown",
+        "size": 702,
+        "sha256": "83D52BD9E695291CBD9314D5DCB743551F29B92203952B5A5E414EF624A32287",
+        "modified_utc": "2026-09-04T05:43:39.611365+00:00"
+      },
+      {
+        "path": "importados/tapete_de_palha14-importado.png",
+        "type": "unknown",
+        "size": 580,
+        "sha256": "4FD2B03A71663994D7035ECF2B827449BFDCFB458FC57BA87E4E3CFBD9348BBD",
+        "modified_utc": "2026-09-04T05:43:43.295466+00:00"
+      },
+      {
+        "path": "importados/tapete_de_palha14.png",
+        "type": "unknown",
+        "size": 580,
+        "sha256": "4FD2B03A71663994D7035ECF2B827449BFDCFB458FC57BA87E4E3CFBD9348BBD",
+        "modified_utc": "2026-09-04T05:43:43.295466+00:00"
+      },
+      {
+        "path": "importados/tapete_de_palha15-importado.png",
+        "type": "unknown",
+        "size": 734,
+        "sha256": "AFF3D25000AB05FE8CBAB5FDE875260148D74347BEE016E3F2489258834633B5",
+        "modified_utc": "2026-09-04T05:43:29.926658+00:00"
+      },
+      {
+        "path": "importados/tapete_de_palha15.png",
+        "type": "unknown",
+        "size": 734,
+        "sha256": "AFF3D25000AB05FE8CBAB5FDE875260148D74347BEE016E3F2489258834633B5",
+        "modified_utc": "2026-09-04T05:43:29.926658+00:00"
+      },
+      {
+        "path": "importados/tapete_de_palha2-importado.png",
+        "type": "unknown",
+        "size": 732,
+        "sha256": "6371B07CD69EE3EF9A049AB9E35200566657366C8F02D51348459744482A9553",
+        "modified_utc": "2026-09-04T05:42:42.591141+00:00"
+      },
+      {
+        "path": "importados/tapete_de_palha2.png",
+        "type": "unknown",
+        "size": 732,
+        "sha256": "6371B07CD69EE3EF9A049AB9E35200566657366C8F02D51348459744482A9553",
+        "modified_utc": "2026-09-04T05:42:42.591141+00:00"
+      },
+      {
+        "path": "importados/tapete_de_palha3-importado.png",
+        "type": "unknown",
+        "size": 698,
+        "sha256": "34DCA5769C9C147CE0B1CE78E5AD47061683323255DA81D643EADB05C0882ED0",
+        "modified_utc": "2026-09-04T05:42:47.584074+00:00"
+      },
+      {
+        "path": "importados/tapete_de_palha3.png",
+        "type": "unknown",
+        "size": 698,
+        "sha256": "34DCA5769C9C147CE0B1CE78E5AD47061683323255DA81D643EADB05C0882ED0",
+        "modified_utc": "2026-09-04T05:42:47.584074+00:00"
+      },
+      {
+        "path": "importados/tapete_de_palha4-importado.png",
+        "type": "unknown",
+        "size": 683,
+        "sha256": "7B68F77C03630B5199A80CF6CD8D49E5BC2E24D8133D43A8D5938205012A7C53",
+        "modified_utc": "2026-09-04T05:42:52.443922+00:00"
+      },
+      {
+        "path": "importados/tapete_de_palha4.png",
+        "type": "unknown",
+        "size": 683,
+        "sha256": "7B68F77C03630B5199A80CF6CD8D49E5BC2E24D8133D43A8D5938205012A7C53",
+        "modified_utc": "2026-09-04T05:42:52.443922+00:00"
+      },
+      {
+        "path": "importados/tapete_de_palha5-importado.png",
+        "type": "unknown",
+        "size": 503,
+        "sha256": "8DFF82546C047EF98A2FC32AB137483EFACB128A4668B7C01171D062479B495B",
+        "modified_utc": "2026-09-04T05:42:32.993861+00:00"
+      },
+      {
+        "path": "importados/tapete_de_palha5.png",
+        "type": "unknown",
+        "size": 503,
+        "sha256": "8DFF82546C047EF98A2FC32AB137483EFACB128A4668B7C01171D062479B495B",
+        "modified_utc": "2026-09-04T05:42:32.993861+00:00"
+      },
+      {
+        "path": "importados/tapete_de_palha6-importado.png",
+        "type": "unknown",
+        "size": 722,
+        "sha256": "7D29680FD0F9AC2CD9199E7AC4B58C8319F22E15364D5C4CCB276A25D887679C",
+        "modified_utc": "2026-09-04T05:43:06.951089+00:00"
+      },
+      {
+        "path": "importados/tapete_de_palha6.png",
+        "type": "unknown",
+        "size": 722,
+        "sha256": "7D29680FD0F9AC2CD9199E7AC4B58C8319F22E15364D5C4CCB276A25D887679C",
+        "modified_utc": "2026-09-04T05:43:06.951089+00:00"
+      },
+      {
+        "path": "importados/tapete_de_palha7-importado.png",
+        "type": "unknown",
+        "size": 678,
+        "sha256": "5565436DD706111D55643F7DA2061C92732D27016A152A8E9D6559BDB0963DF7",
+        "modified_utc": "2026-09-04T05:43:10.810099+00:00"
+      },
+      {
+        "path": "importados/tapete_de_palha7.png",
+        "type": "unknown",
+        "size": 678,
+        "sha256": "5565436DD706111D55643F7DA2061C92732D27016A152A8E9D6559BDB0963DF7",
+        "modified_utc": "2026-09-04T05:43:10.810099+00:00"
+      },
+      {
+        "path": "importados/tapete_de_palha8-importado.png",
+        "type": "unknown",
+        "size": 659,
+        "sha256": "D55F6590C5210833B923B4D990D46F5D9F81AB459B8AC9AA03F9FD93E63E4D63",
+        "modified_utc": "2026-09-04T05:43:14.360319+00:00"
+      },
+      {
+        "path": "importados/tapete_de_palha8.png",
+        "type": "unknown",
+        "size": 659,
+        "sha256": "D55F6590C5210833B923B4D990D46F5D9F81AB459B8AC9AA03F9FD93E63E4D63",
+        "modified_utc": "2026-09-04T05:43:14.360319+00:00"
+      },
+      {
+        "path": "importados/tapete_de_palha9-importado.png",
+        "type": "unknown",
+        "size": 590,
+        "sha256": "AB7F6229987CA0E1D02C587503EAC2E6939AFEEACC8AE807C3F0B6220B79108F",
+        "modified_utc": "2026-09-04T05:43:18.137654+00:00"
+      },
+      {
+        "path": "importados/tapete_de_palha9.png",
+        "type": "unknown",
+        "size": 590,
+        "sha256": "AB7F6229987CA0E1D02C587503EAC2E6939AFEEACC8AE807C3F0B6220B79108F",
+        "modified_utc": "2026-09-04T05:43:18.137654+00:00"
+      },
+      {
+        "path": "importados/vara_de_pescar_de_bronze-importado.png",
+        "type": "unknown",
+        "size": 857,
+        "sha256": "4521EEC03B4AFA0D78D07D7A00E7584AA34D5530D02B0FD2D236A6259FBC853D",
+        "modified_utc": "2026-08-15T15:47:16.233586+00:00"
+      },
+      {
+        "path": "importados/vara_de_pescar_de_bronze.png",
+        "type": "unknown",
+        "size": 857,
+        "sha256": "4521EEC03B4AFA0D78D07D7A00E7584AA34D5530D02B0FD2D236A6259FBC853D",
+        "modified_utc": "2026-08-15T15:47:16.233586+00:00"
+      },
+      {
+        "path": "importados/vara_de_pescar_de_ferro-importado.png",
+        "type": "unknown",
+        "size": 996,
+        "sha256": "8435D02C043092A25BDB34E1AC71EB73F42EF6F5801BE7CD00DB12D4DA91A2FB",
+        "modified_utc": "2026-08-15T15:47:26.009859+00:00"
+      },
+      {
+        "path": "importados/vara_de_pescar_de_ferro.png",
+        "type": "unknown",
+        "size": 996,
+        "sha256": "8435D02C043092A25BDB34E1AC71EB73F42EF6F5801BE7CD00DB12D4DA91A2FB",
+        "modified_utc": "2026-08-15T15:47:26.009859+00:00"
+      },
+      {
+        "path": "importados/vara_de_pescar_simples-importado.png",
+        "type": "unknown",
+        "size": 699,
+        "sha256": "8944CA1EAFB3129BDB8A2992430AC919471A7AAB51312E531CAFE336DF25D9D4",
+        "modified_utc": "2026-08-15T15:47:21.037815+00:00"
+      },
+      {
+        "path": "importados/vara_de_pescar_simples.png",
+        "type": "unknown",
+        "size": 699,
+        "sha256": "8944CA1EAFB3129BDB8A2992430AC919471A7AAB51312E531CAFE336DF25D9D4",
+        "modified_utc": "2026-08-15T15:47:21.037815+00:00"
+      },
+      {
+        "path": "items.otml",
+        "type": "otml-config",
+        "size": 3304,
+        "sha256": "366ED92A34B647925FEB4C88A1C3C1B82E3D9FCA2B75C87EBF3C68B61283379A",
+        "modified_utc": "2026-07-19T00:52:32.868361+00:00"
+      },
+      {
+        "path": "missiles.otml",
+        "type": "otml-config",
+        "size": 1037,
+        "sha256": "8166C970DE415DA2B706EB189F869C7E9B333D64F675F55758F5A5BC808DA212",
+        "modified_utc": "2026-06-04T22:47:31.720867+00:00"
+      },
+      {
+        "path": "nwoassets/__init__.py",
+        "type": "unknown",
+        "size": 106,
+        "sha256": "C97E662ED40C3205E96121CDACD0E36FC20BEABEA01B974264EA572ECD9DBFC4",
+        "modified_utc": "2026-09-04T04:15:32.818031+00:00"
+      },
+      {
+        "path": "nwoassets/__main__.py",
+        "type": "unknown",
+        "size": 49,
+        "sha256": "76FA916E93E0AE1A6C1BB51DCC0BCF289C014E9F760A47165F8A84401CCF41D7",
+        "modified_utc": "2026-07-27T20:04:09.926497+00:00"
+      },
+      {
+        "path": "nwoassets/animation.py",
+        "type": "unknown",
+        "size": 8175,
+        "sha256": "7B20D353AD7FD23F4261C2236586D8AB430B3DFE627E1950BB0FDC82046AD7F5",
+        "modified_utc": "2026-09-01T20:31:17.765522+00:00"
+      },
+      {
+        "path": "nwoassets/atomic.py",
+        "type": "unknown",
+        "size": 1012,
+        "sha256": "29D771A7EB1093EFF5247CADA20B5AB992133400231072E6DE880E78E68E1856",
+        "modified_utc": "2026-08-29T07:38:46.413015+00:00"
+      },
+      {
+        "path": "nwoassets/binary.py",
+        "type": "unknown",
+        "size": 1329,
+        "sha256": "998BF54A6DEAB9152871249E43110874E14D26CCC530A8B464E9302CE1D67BB1",
+        "modified_utc": "2026-07-27T20:04:09.929007+00:00"
+      },
+      {
+        "path": "nwoassets/cli.py",
+        "type": "unknown",
+        "size": 11329,
+        "sha256": "CDA67CA5B6BAD15E14CB70FFF5198E0D66689F738F1BD90547AAC04C9F5BF106",
+        "modified_utc": "2026-09-04T18:51:08.997134+00:00"
+      },
+      {
+        "path": "nwoassets/client.py",
+        "type": "unknown",
+        "size": 14842,
+        "sha256": "CD38DA0E875BAC403C335011EF949EDC4C099B38CCA2256841A1A537F6E3002F",
+        "modified_utc": "2026-07-27T20:07:26.589632+00:00"
+      },
+      {
+        "path": "nwoassets/content.py",
+        "type": "unknown",
+        "size": 10787,
+        "sha256": "D58C4BB979937084FD90B54758CB4355AAD9E09497D72E25CA9169997A21A316",
+        "modified_utc": "2026-08-29T21:03:26.388544+00:00"
+      },
+      {
+        "path": "nwoassets/effect_importer.py",
+        "type": "unknown",
+        "size": 16002,
+        "sha256": "AD4707157528D69CD417A28528E2429FB26245DE8F136569B954147EC57CD935",
+        "modified_utc": "2026-09-01T18:11:06.297062+00:00"
+      },
+      {
+        "path": "nwoassets/errors.py",
+        "type": "unknown",
+        "size": 320,
+        "sha256": "B4EAF44A9B5F11565E120FE08AA2A902EB36BCC7E99E4F5B46A83AE73A122C48",
+        "modified_utc": "2026-07-27T20:04:09.928001+00:00"
+      },
+      {
+        "path": "nwoassets/exporter.py",
+        "type": "unknown",
+        "size": 14200,
+        "sha256": "99CD14FEBC074FA24CD390D1178BAA4E57BE18F75C1C77E5E27EC714B9973146",
+        "modified_utc": "2026-08-29T21:06:56.974480+00:00"
+      },
+      {
+        "path": "nwoassets/importer.py",
+        "type": "unknown",
+        "size": 26542,
+        "sha256": "B326BEBD48208A2EC501744AD70002EADA4645A0C3D5BD02CE3E1A315EF7FDCD",
+        "modified_utc": "2026-09-04T04:15:32.815964+00:00"
+      },
+      {
+        "path": "nwoassets/otb.py",
+        "type": "unknown",
+        "size": 6571,
+        "sha256": "DFBD2F8835D805DCF07854498F242CEA5BA0108943D82E6408C15BA0D70BDB4F",
+        "modified_utc": "2026-07-27T20:09:11.379781+00:00"
+      },
+      {
+        "path": "nwoassets/otbm.py",
+        "type": "unknown",
+        "size": 9955,
+        "sha256": "A3CE2D4F11084EC7971E37D13D10C27BDAD3602DEA14ADFC9DC65BA6D708C867",
+        "modified_utc": "2026-08-29T08:57:58.173351+00:00"
+      },
+      {
+        "path": "nwoassets/otfi.py",
+        "type": "unknown",
+        "size": 2078,
+        "sha256": "0F39A8687E1F6DF87D3C2742A45D8B37C7EDB2BF7A648878F0AAA53B01E1B8F0",
+        "modified_utc": "2026-07-27T20:04:09.932515+00:00"
+      },
+      {
+        "path": "nwoassets/outfit_importer.py",
+        "type": "unknown",
+        "size": 21354,
+        "sha256": "29CD0FB0AE11CBCEFF7FE07349C29BA45347CDA7E4AEA27A9CD4A1D857872AAB",
+        "modified_utc": "2026-09-03T02:47:33.545794+00:00"
+      },
+      {
+        "path": "nwoassets/pipeline.py",
+        "type": "unknown",
+        "size": 6019,
+        "sha256": "3B56BC2B3008377D4796DFCDCAC18587BEAC8C314D77AB7D3C9CA76FAF92B0CE",
+        "modified_utc": "2026-07-27T20:07:26.591639+00:00"
+      },
+      {
+        "path": "nwoassets/png.py",
+        "type": "unknown",
+        "size": 10060,
+        "sha256": "696FA9C22E5BCFB11F4DDFFE095D2D3787FBE46D739B9FE3D08088B51AAF8693",
+        "modified_utc": "2026-09-01T18:11:06.296058+00:00"
+      },
+      {
+        "path": "nwoassets/profiles.py",
+        "type": "unknown",
+        "size": 1480,
+        "sha256": "0959B2CE69CFECDC904B2902F9B382048BB3E8FD45039DF2226C826197FB941C",
+        "modified_utc": "2026-07-27T20:04:09.930008+00:00"
+      },
+      {
+        "path": "nwoassets/properties.py",
+        "type": "unknown",
+        "size": 14133,
+        "sha256": "ACA46035B6138F3AD8F27C23CA5FF85A76BFE891C25DBD6EC3D8C17E303C19DC",
+        "modified_utc": "2026-08-29T09:01:15.243380+00:00"
+      },
+      {
+        "path": "nwoassets/roundtrip.py",
+        "type": "unknown",
+        "size": 25428,
+        "sha256": "0C39467E10E75CF7A7E27104618CF3ECDE95B52F679DFE1E410FE17A088E8141",
+        "modified_utc": "2026-09-01T20:30:28.999047+00:00"
+      },
+      {
+        "path": "nwoassets/runtime_adopt.py",
+        "type": "unknown",
+        "size": 18262,
+        "sha256": "D9FCCA86AEA38C30C5F7C820176FD0FC760935999D522330DF469531B1A019D6",
+        "modified_utc": "2026-09-04T01:02:01.962778+00:00"
+      },
+      {
+        "path": "nwoassets/runtime_sync.py",
+        "type": "unknown",
+        "size": 8083,
+        "sha256": "064158C8F4A27DDAF127917EF59A67E89DFAFD596544094522B42AE1B6CA1DF4",
+        "modified_utc": "2026-09-04T18:51:08.996134+00:00"
+      },
+      {
+        "path": "nwoassets/sprites.py",
+        "type": "unknown",
+        "size": 5751,
+        "sha256": "CC5F3938A911D7C0EE60F292309DDB269E8C8749C773BD54C06CBDB1DDF41444",
+        "modified_utc": "2026-08-29T07:55:54.299731+00:00"
+      },
+      {
+        "path": "nwoassets/versioning.py",
+        "type": "unknown",
+        "size": 6590,
+        "sha256": "9B0D3ABDB882517E0C1EEA586A48DEDDD7B0B66EC8A33BF362BFBECEB48409B1",
+        "modified_utc": "2026-08-29T08:41:06.812640+00:00"
+      },
+      {
+        "path": "pyproject.toml",
+        "type": "unknown",
+        "size": 401,
+        "sha256": "E028BFCAA0ED5728D6D413196DACE1FCC9522FDEDE22A42877790CB480558AA3",
+        "modified_utc": "2026-09-04T04:15:32.819031+00:00"
+      },
+      {
+        "path": "README.md",
+        "type": "documentation",
+        "size": 10348,
+        "sha256": "B8338AE97336500945387A4FAF293A7E859B0C34D4A4ED254086A7817174E85B",
+        "modified_utc": "2026-09-04T01:00:13.224666+00:00"
+      },
+      {
+        "path": "sincronizar-assets-runtime.bat",
+        "type": "unknown",
+        "size": 417,
+        "sha256": "116D44D85243099784FC38660DD3AB4B47E9FB55FE47341E705B3F61CB1B2815",
+        "modified_utc": "2026-09-04T18:51:08.998640+00:00"
+      },
+      {
+        "path": "skills/triage-nwo-map-variants/agents/openai.yaml",
+        "type": "unknown",
+        "size": 239,
+        "sha256": "50995F35D9E159E35B65BE6A1C2925F954DE689A54723E3D3AF27ACA2875D1D3",
+        "modified_utc": "2026-07-30T02:17:16.579347+00:00"
+      },
+      {
+        "path": "skills/triage-nwo-map-variants/scripts/compare_otbm.py",
+        "type": "unknown",
+        "size": 11619,
+        "sha256": "49B45B5F0D3D9CA831BB1EFC365C9BC474F296359F800A947290A0F8EEA90C51",
+        "modified_utc": "2026-07-30T02:19:04.085104+00:00"
+      },
+      {
+        "path": "skills/triage-nwo-map-variants/SKILL.md",
+        "type": "documentation",
+        "size": 2132,
+        "sha256": "FEFE340AD631D17A4A58C19C87E3F84ADBA93848A53B8144681687BD7F8671FB",
+        "modified_utc": "2026-07-30T02:18:49.533356+00:00"
+      },
+      {
+        "path": "skills/triage-nwo-map-variants/tests/test_compare_otbm.py",
+        "type": "unknown",
+        "size": 3240,
+        "sha256": "31EC2459CFF098E2F3CA215533E7156E4D88A8CCB12749C43EAC2EDF4534F406",
+        "modified_utc": "2026-07-30T02:19:17.358781+00:00"
+      },
+      {
+        "path": "skills/validate-nwo-assets/agents/openai.yaml",
+        "type": "unknown",
+        "size": 216,
+        "sha256": "5F48084DDA97C3CE728B943090D2E45B93AB3D898ABC777A9BE65078F6BC4A7A",
+        "modified_utc": "2026-07-30T02:25:35.672379+00:00"
+      },
+      {
+        "path": "skills/validate-nwo-assets/references/baseline-860.md",
+        "type": "documentation",
+        "size": 1195,
+        "sha256": "0E8E89FAF121B9EBE4BCD82DA3876B8950904912B15FB1658CE771BC82118E34",
+        "modified_utc": "2026-07-30T02:25:35.683295+00:00"
+      },
+      {
+        "path": "skills/validate-nwo-assets/scripts/run-validation.sh",
+        "type": "unknown",
+        "size": 2729,
+        "sha256": "B4E9196E294E565956F17AE1A64B71D6402ED3073860325778ACC661A8FFDBEA",
+        "modified_utc": "2026-07-30T02:25:35.695153+00:00"
+      },
+      {
+        "path": "skills/validate-nwo-assets/scripts/test-run-validation.sh",
+        "type": "unknown",
+        "size": 1921,
+        "sha256": "4D05FA8BA3E4406656E28F4C9C0519D681B816402BEDD277C3BF337634F5B690",
+        "modified_utc": "2026-07-30T02:25:35.703890+00:00"
+      },
+      {
+        "path": "skills/validate-nwo-assets/SKILL.md",
+        "type": "documentation",
+        "size": 2614,
+        "sha256": "C4B957F0F75E884BAC453E293E34DB09A993858CF8684E3C9FB4CA85BAADBEFF",
+        "modified_utc": "2026-07-30T02:25:35.660377+00:00"
+      },
+      {
+        "path": "sprites/.gitkeep",
+        "type": "unknown",
+        "size": 1,
+        "sha256": "01BA4719C80B6FE911B091A7C05124B64EEECE964E09C058EF8F9805DACA546B",
+        "modified_utc": "2026-08-29T14:51:05.606936+00:00"
+      },
+      {
+        "path": "tests/__init__.py",
+        "type": "unknown",
+        "size": 1,
+        "sha256": "01BA4719C80B6FE911B091A7C05124B64EEECE964E09C058EF8F9805DACA546B",
+        "modified_utc": "2026-07-27T20:08:22.806223+00:00"
+      },
+      {
+        "path": "tests/test_animation.py",
+        "type": "unknown",
+        "size": 2641,
+        "sha256": "642CCED6C4E323B6C4C8E894080D58A38C859613A30CDE4930394A1E3D42215D",
+        "modified_utc": "2026-09-01T20:31:54.237403+00:00"
+      },
+      {
+        "path": "tests/test_effect_importer.py",
+        "type": "unknown",
+        "size": 3073,
+        "sha256": "6ABB3CA0B3861084B3F3E5F1E39E3B35CBA30679F17312152331B2BA000B08BD",
+        "modified_utc": "2026-09-01T18:09:27.603576+00:00"
+      },
+      {
+        "path": "tests/test_exporter.py",
+        "type": "unknown",
+        "size": 2711,
+        "sha256": "5BD47769C1136B83F5C3B2F1EF5233D85FE7E0A8A1B46469067EA3A52C50C16B",
+        "modified_utc": "2026-08-29T21:06:56.977001+00:00"
+      },
+      {
+        "path": "tests/test_formats.py",
+        "type": "unknown",
+        "size": 1748,
+        "sha256": "410251F638EF24294BBDC4524580A087154AE32B5F80A39D544293D130956AFC",
+        "modified_utc": "2026-07-27T20:08:22.807232+00:00"
+      },
+      {
+        "path": "tests/test_importer.py",
+        "type": "unknown",
+        "size": 12137,
+        "sha256": "96143BDED8DCD314C22ADD8FEEDCB7FB6680BFD660BD3C5F47A884EF6EE60D3E",
+        "modified_utc": "2026-09-04T04:15:36.984420+00:00"
+      },
+      {
+        "path": "tests/test_local_baseline.py",
+        "type": "unknown",
+        "size": 2710,
+        "sha256": "894F0D00C8801BDFA0044C8FFB893B5F65A7DC16331BCED7D8ACE46D34252826",
+        "modified_utc": "2026-09-04T05:08:59.757590+00:00"
+      },
+      {
+        "path": "tests/test_otbm_position.py",
+        "type": "unknown",
+        "size": 1783,
+        "sha256": "A460B6269361BED1CA2F9A17B8DF0C42746605ABF9D8C614FE138D98F94E10C6",
+        "modified_utc": "2026-08-29T08:58:31.670498+00:00"
+      },
+      {
+        "path": "tests/test_outfit_importer.py",
+        "type": "unknown",
+        "size": 6597,
+        "sha256": "8F40530F7CF68C9CFBD47F395638510BE97ED2E2B093E12005B9D0C19B692929",
+        "modified_utc": "2026-09-03T02:47:33.545794+00:00"
+      },
+      {
+        "path": "tests/test_properties.py",
+        "type": "unknown",
+        "size": 2643,
+        "sha256": "2EEFED4F0C6BB0D4633D6B26D50223ECBF7FF1468FDA30386B891275A9A12DCE",
+        "modified_utc": "2026-08-29T08:58:31.669497+00:00"
+      },
+      {
+        "path": "tests/test_roundtrip.py",
+        "type": "unknown",
+        "size": 3877,
+        "sha256": "21CC38D511357410A4DF1C2374417C4B8970F1E6EC2FFFA158809B2DAE5A076E",
+        "modified_utc": "2026-08-29T07:45:29.101908+00:00"
+      },
+      {
+        "path": "tests/test_runtime_adopt.py",
+        "type": "unknown",
+        "size": 2670,
+        "sha256": "62E27A92CCC94E0DAEE4F6564A3029503CAA52077F323CE7671E47B0E0667FAD",
+        "modified_utc": "2026-09-04T00:59:05.479103+00:00"
+      },
+      {
+        "path": "tests/test_runtime_sync.py",
+        "type": "unknown",
+        "size": 6069,
+        "sha256": "C88E58DB7E4A2B0B5A38DC4A05DBE82CA0DB18F8E52355054BFFB816E6255EE8",
+        "modified_utc": "2026-09-04T18:51:08.997134+00:00"
+      },
+      {
+        "path": "tests/test_versioning.py",
+        "type": "unknown",
+        "size": 3404,
+        "sha256": "DB57034F341C4F23BBFBB8C116EF91DA024346CF0ADDBE7AEFD98532C1FEED66",
+        "modified_utc": "2026-08-29T08:41:15.633029+00:00"
+      },
+      {
+        "path": "things.otml",
+        "type": "otml-config",
+        "size": 96757,
+        "sha256": "73AD176AD54EC71BE31ED25346570ABD9AFAF6918F7359F937550FF49EE957BC",
+        "modified_utc": "2026-07-19T13:08:19.526883+00:00"
+      }
+    ]
+  },
+  "client": {
+    "profile": {
+      "key": "tibia-860-v2-custom-extended",
+      "client_version": 860,
+      "label": "Tibia 8.60 v2 customizado com features OTFI",
+      "dat_signature": "0x4C2C7993",
+      "spr_signature": "0x4C220594",
+      "metadata_reader": 5,
+      "otb_version_hint": "8.60"
+    },
+    "paths": {
+      "otfi": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.otfi",
+      "dat": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.dat",
+      "spr": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.spr",
+      "otb": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\items\\items.otb"
+    },
+    "otfi": {
+      "extended": true,
+      "transparency": true,
+      "frame_durations": true,
+      "frame_groups": true,
+      "metadata_file": "Tibia.dat",
+      "sprites_file": "Tibia.spr",
+      "sprite_size": 32,
+      "sprite_data_size": 4096
+    },
+    "dat": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.dat",
+      "size": 4379231,
+      "signature": "0x4C2C7993",
+      "max_ids": {
+        "items": 24522,
+        "outfits": 2289,
+        "effects": 3363,
+        "missiles": 219
+      },
+      "record_counts": {
+        "items": 24423,
+        "outfits": 2289,
+        "effects": 3363,
+        "missiles": 219
+      },
+      "total_records": 30294,
+      "items_end_offset": 1049288,
+      "parsed_end_offset": 4379231,
+      "flag_counts": {
+        "animate_always": 232,
+        "block_missile": 3833,
+        "block_pathfind": 3599,
+        "cloth": 1,
+        "container": 302,
+        "custom_flag_22": 4,
+        "dont_hide": 312,
+        "fluid": 12,
+        "fluid_container": 26,
+        "force_use": 297,
+        "full_ground": 1564,
+        "ground": 1798,
+        "ground_border": 3630,
+        "hangable": 140,
+        "has_elevation": 1226,
+        "has_light": 1934,
+        "has_offset": 594,
+        "horizontal": 144,
+        "ignore_look": 1197,
+        "lens_help": 511,
+        "lying_object": 47,
+        "market_item": 7,
+        "mini_map": 7965,
+        "multi_use": 531,
+        "on_bottom": 7253,
+        "on_top": 857,
+        "pickupable": 3380,
+        "rotatable": 345,
+        "stackable": 1008,
+        "translucent": 278,
+        "unmoveable": 18490,
+        "unpassable": 8824,
+        "vertical": 158,
+        "writable": 6,
+        "writable_once": 47
+      },
+      "custom_flag_22_occurrences": [
+        {
+          "category": "items",
+          "thing_id": 100,
+          "offset": 24
+        },
+        {
+          "category": "items",
+          "thing_id": 4812,
+          "offset": 143279
+        },
+        {
+          "category": "items",
+          "thing_id": 4814,
+          "offset": 143600
+        },
+        {
+          "category": "items",
+          "thing_id": 20227,
+          "offset": 797120
+        }
+      ],
+      "appearance": {
+        "multi_tile_groups": 14367,
+        "animated_groups": 5888,
+        "max_sprites_in_group": 4000,
+        "sprite_reference_count": 880528,
+        "unique_nonzero_sprite_ids": 251776,
+        "zero_sprite_references": 314543,
+        "min_referenced_sprite_id": 1,
+        "max_referenced_sprite_id": 254598
+      }
+    },
+    "spr": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.spr",
+      "size": 433230574,
+      "signature": "0x4C220594",
+      "signature_value": 1277298068,
+      "sprite_count": 254598,
+      "table_start": 8,
+      "table_end": 1018400,
+      "zero_offsets": 0,
+      "nonzero_offsets": 254598,
+      "unique_nonzero_offsets": 254598,
+      "shared_offsets": 0,
+      "min_nonzero_offset": 1018400,
+      "max_nonzero_offset": 433230565,
+      "deep_validation": {
+        "enabled": true,
+        "color_key_mismatches": 0,
+        "truncated_blocks": 0,
+        "rle_invalid_blocks": 0,
+        "payload_zero_blocks": 0,
+        "explicit_transparent_blocks": 31,
+        "passed": true
+      }
+    },
+    "otb": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\items\\items.otb",
+      "size": 1003405,
+      "file_version": 0,
+      "root_type": 0,
+      "root_flags": 0,
+      "root_version_attribute": 1,
+      "version": {
+        "major": 3,
+        "minor": 20,
+        "build": 20,
+        "csd": "OTB 3.20.20-8.60"
+      },
+      "item_nodes": 25308,
+      "groups": {
+        "0": 22395,
+        "1": 1841,
+        "2": 300,
+        "11": 12,
+        "12": 26,
+        "14": 734
+      },
+      "attribute_counts": {
+        "client_id": 24574,
+        "ground_speed": 1841,
+        "light": 883,
+        "max_read_chars": 48,
+        "max_read_write_chars": 6,
+        "minimap_color": 7994,
+        "name": 7,
+        "server_id": 25308,
+        "sprite_hash": 24574,
+        "stack_order": 11779,
+        "trade_as": 7
+      },
+      "unknown_attributes": {},
+      "malformed_attributes": [],
+      "server_ids": {
+        "count": 25308,
+        "min": 100,
+        "max": 25407,
+        "duplicates": [],
+        "gap_count": 0,
+        "gaps_sample": []
+      },
+      "client_ids": {
+        "count": 24574,
+        "min": 100,
+        "max": 24522,
+        "duplicates": [
+          100,
+          101,
+          110,
+          138,
+          140,
+          144,
+          168,
+          231,
+          248,
+          347,
+          351,
+          352,
+          353,
+          354,
+          355,
+          369,
+          370,
+          386,
+          408,
+          411,
+          413,
+          414,
+          428,
+          432,
+          433,
+          653,
+          654,
+          655,
+          1283,
+          2117,
+          2139,
+          2141,
+          2142,
+          2143,
+          2149,
+          2150,
+          2151,
+          2186,
+          2217,
+          2470,
+          2479,
+          2543,
+          2544,
+          2545,
+          2546,
+          2547,
+          2548,
+          2549,
+          2550,
+          2551
+        ]
+      },
+      "identity_mappings": 1429
+    },
+    "checks": {
+      "profile_detected": true,
+      "otfi_sprite_size_32": true,
+      "otfi_sprite_data_size_4096": true,
+      "dat_signature_matches_profile": true,
+      "spr_signature_matches_profile": true,
+      "otb_mentions_client_version": true,
+      "otb_client_ids_fit_dat": true,
+      "spr_deep_validation": true
+    },
+    "warnings": [],
+    "errors": [],
+    "passed": true
+  },
+  "world": {
+    "maps": [
+      {
+        "source": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\world\\mapanovo.otbm",
+        "file_identifier": 0,
+        "root_node_type": 0,
+        "map_version": 2,
+        "width": 3000,
+        "height": 3000,
+        "items_major_version": 3,
+        "items_minor_version": 20,
+        "description": "No map description available.",
+        "tree": {
+          "total_bytes_read": 80105770,
+          "total_nodes": 10251899,
+          "node_starts": 10251899,
+          "node_ends": 10251899,
+          "balanced": true
+        },
+        "size": 80105770,
+        "sha256": "8CDFDDF9DC2A9E53053E4F3FAF7F6825FD89B6B63EE06272ECD234B387202821"
+      }
+    ],
+    "archives": [],
+    "xml": [
+      {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\world\\mapanovo-areas.xml",
+        "size": 492,
+        "encoding": "utf-8-sig",
+        "fragment": false,
+        "root": "areapalette",
+        "element_count": 6,
+        "tag_counts": {
+          "area": 1,
+          "areapalette": 1,
+          "region": 3,
+          "sub": 1
+        },
+        "numeric_id_min": 1,
+        "numeric_id_max": 1
+      },
+      {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\world\\mapanovo-house.xml",
+        "size": 19061,
+        "encoding": "utf-8-sig",
+        "fragment": false,
+        "root": "houses",
+        "element_count": 163,
+        "tag_counts": {
+          "house": 162,
+          "houses": 1
+        },
+        "numeric_id_min": 4,
+        "numeric_id_max": 165
+      },
+      {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\world\\mapanovo-spawn.xml",
+        "size": 1406319,
+        "encoding": "utf-8-sig",
+        "fragment": false,
+        "root": "spawns",
+        "element_count": 18746,
+        "tag_counts": {
+          "monster": 9410,
+          "npc": 39,
+          "spawn": 9296,
+          "spawns": 1
+        },
+        "numeric_id_min": null,
+        "numeric_id_max": null
+      },
+      {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\world\\mapanovo-things.xml",
+        "size": 57373,
+        "encoding": "utf-8-sig",
+        "fragment": false,
+        "root": "areapalette",
+        "element_count": 732,
+        "tag_counts": {
+          "apng": 8,
+          "area": 1,
+          "areapalette": 1,
+          "region": 720,
+          "sound": 1,
+          "sub": 1
+        },
+        "numeric_id_min": 0,
+        "numeric_id_max": 1
+      },
+      {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\world\\routes.xml",
+        "size": 18577,
+        "encoding": "utf-8-sig",
+        "fragment": false,
+        "root": "routes",
+        "element_count": 368,
+        "tag_counts": {
+          "route": 28,
+          "routes": 1,
+          "waypoint": 339
+        },
+        "numeric_id_min": 1,
+        "numeric_id_max": 28
+      }
+    ],
+    "map_variants": 1,
+    "identical_map_groups": []
+  },
+  "configs": {
+    "xml": [
+      {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\items\\items.xml",
+        "size": 815492,
+        "encoding": "utf-8-sig",
+        "fragment": false,
+        "root": "items",
+        "element_count": 14933,
+        "tag_counts": {
+          "attribute": 9225,
+          "item": 5707,
+          "items": 1
+        },
+        "numeric_id_min": 100,
+        "numeric_id_max": 25245
+      },
+      {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\world\\mapanovo-areas.xml",
+        "size": 492,
+        "encoding": "utf-8-sig",
+        "fragment": false,
+        "root": "areapalette",
+        "element_count": 6,
+        "tag_counts": {
+          "area": 1,
+          "areapalette": 1,
+          "region": 3,
+          "sub": 1
+        },
+        "numeric_id_min": 1,
+        "numeric_id_max": 1
+      },
+      {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\world\\mapanovo-house.xml",
+        "size": 19061,
+        "encoding": "utf-8-sig",
+        "fragment": false,
+        "root": "houses",
+        "element_count": 163,
+        "tag_counts": {
+          "house": 162,
+          "houses": 1
+        },
+        "numeric_id_min": 4,
+        "numeric_id_max": 165
+      },
+      {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\world\\mapanovo-spawn.xml",
+        "size": 1406319,
+        "encoding": "utf-8-sig",
+        "fragment": false,
+        "root": "spawns",
+        "element_count": 18746,
+        "tag_counts": {
+          "monster": 9410,
+          "npc": 39,
+          "spawn": 9296,
+          "spawns": 1
+        },
+        "numeric_id_min": null,
+        "numeric_id_max": null
+      },
+      {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\world\\mapanovo-things.xml",
+        "size": 57373,
+        "encoding": "utf-8-sig",
+        "fragment": false,
+        "root": "areapalette",
+        "element_count": 732,
+        "tag_counts": {
+          "apng": 8,
+          "area": 1,
+          "areapalette": 1,
+          "region": 720,
+          "sound": 1,
+          "sub": 1
+        },
+        "numeric_id_min": 0,
+        "numeric_id_max": 1
+      },
+      {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\world\\routes.xml",
+        "size": 18577,
+        "encoding": "utf-8-sig",
+        "fragment": false,
+        "root": "routes",
+        "element_count": 368,
+        "tag_counts": {
+          "route": 28,
+          "routes": 1,
+          "waypoint": 339
+        },
+        "numeric_id_min": 1,
+        "numeric_id_max": 28
+      }
+    ],
+    "otml": [
+      {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\creatures.otml",
+        "size": 42189,
+        "encoding": "utf-8-sig",
+        "line_count": 1959,
+        "top_level_sections": [
+          "creatures"
+        ],
+        "mojibake_marker_count": 0
+      },
+      {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\effects.otml",
+        "size": 63817,
+        "encoding": "utf-8-sig",
+        "line_count": 4204,
+        "top_level_sections": [
+          "effects"
+        ],
+        "mojibake_marker_count": 0
+      },
+      {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\items.otml",
+        "size": 3304,
+        "encoding": "utf-8-sig",
+        "line_count": 216,
+        "top_level_sections": [
+          "items"
+        ],
+        "mojibake_marker_count": 0
+      },
+      {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\missiles.otml",
+        "size": 1037,
+        "encoding": "utf-8-sig",
+        "line_count": 85,
+        "top_level_sections": [
+          "missiles"
+        ],
+        "mojibake_marker_count": 0
+      },
+      {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\things.otml",
+        "size": 96757,
+        "encoding": "utf-8-sig",
+        "line_count": 5634,
+        "top_level_sections": [
+          "missiles",
+          "items",
+          "creatures",
+          "effects"
+        ],
+        "mojibake_marker_count": 0
+      }
+    ]
+  },
+  "warnings": [],
+  "errors": [],
+  "passed": true
+}

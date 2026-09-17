@@ -1,0 +1,69 @@
+{
+  "map": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\world\\mapanovo.otbm",
+  "position": {
+    "x": 2666,
+    "y": 400,
+    "z": 7
+  },
+  "found": true,
+  "items": [
+    {
+      "server_id": 14229,
+      "nested_depth": 0,
+      "stack_position": 1,
+      "stack_position_zero_based": 0,
+      "client_id": 13352,
+      "otb_group": 1,
+      "otb_flags_mask": "0x02000000",
+      "otb_flags": [
+        "walk_stack"
+      ],
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "mini_map",
+        "full_ground"
+      ]
+    },
+    {
+      "server_id": 18471,
+      "nested_depth": 0,
+      "stack_position": 2,
+      "stack_position_zero_based": 1,
+      "client_id": 17586,
+      "otb_group": 0,
+      "otb_flags_mask": "0x00002000",
+      "otb_flags": [
+        "always_on_top"
+      ],
+      "dat_flags": [
+        "ground_border",
+        "unmoveable"
+      ]
+    },
+    {
+      "server_id": 18467,
+      "nested_depth": 0,
+      "stack_position": 3,
+      "stack_position_zero_based": 2,
+      "client_id": 17582,
+      "otb_group": 0,
+      "otb_flags_mask": "0x00002000",
+      "otb_flags": [
+        "always_on_top"
+      ],
+      "dat_flags": [
+        "ground_border",
+        "unmoveable"
+      ]
+    }
+  ],
+  "tile_areas_examined": 162266,
+  "matching_tile_areas": 956,
+  "tiles_examined": 15863,
+  "node_type": "tile",
+  "house_id": null,
+  "tile_flags": "0x00000010",
+  "passed": true,
+  "errors": []
+}

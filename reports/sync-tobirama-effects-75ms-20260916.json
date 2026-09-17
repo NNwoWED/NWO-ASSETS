@@ -1,0 +1,8 @@
+{
+  "tool_version": "0.8.2",
+  "generated_at": "2026-09-16T15:29:25.118438-03:00",
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "dry_run": false,
+  "passed": false,
+  "error": "[WinError 32] O arquivo já está sendo usado por outro processo: 'C:\\\\Users\\\\Wedson\\\\Desktop\\\\NWO NEW\\\\nwo-otclient-mehah-4.0\\\\data\\\\things\\\\860\\\\Tibia.spr' -> 'C:\\\\Users\\\\Wedson\\\\Desktop\\\\NWO NEW\\\\nwo-otclient-mehah-4.0\\\\data\\\\things\\\\.Tibia.nwoassets.backup.spr'"
+}

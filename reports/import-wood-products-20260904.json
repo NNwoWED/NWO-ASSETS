@@ -1,0 +1,216 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "manifest": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\manifest-wood-products-20260904.csv",
+  "profile": "tibia-860-v2-custom-extended",
+  "version_backup": {
+    "tool_version": "0.8.1",
+    "version_id": "20260904-101957-358761",
+    "created_at": "2026-09-04T10:20:08.631262-03:00",
+    "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20260904-101957-358761",
+    "rar_executable": "C:\\Program Files\\WinRAR\\Rar.exe",
+    "sources": [
+      {
+        "path": "assets/860/.gitattributes",
+        "size": 43,
+        "sha256": "D5636A3257287440945C5E017581545E5B0A3E2FDDDAE7C5EF8D90FF4DF3D32A"
+      },
+      {
+        "path": "assets/860/Tibia.dat",
+        "size": 4379114,
+        "sha256": "03F0C60DFC0615991C81C1FAB4AD62435ACA90BF442E17F5880D7833DE8898C4"
+      },
+      {
+        "path": "assets/860/Tibia.otfi",
+        "size": 185,
+        "sha256": "7743548835944BC799CB871A4E5DEF84F7AF76815031871B9CE74B5EC0E8ADD3"
+      },
+      {
+        "path": "assets/860/Tibia.spr",
+        "size": 433166808,
+        "sha256": "41A755042D92A01010BEBE13FCF2CB9F81976238F5527FA7514865626AB181F1"
+      },
+      {
+        "path": "assets/items/force use.txt",
+        "size": 419,
+        "sha256": "BCB478FDF3F45ECA8D172AFD7A17D3F8CD520924EE0894752452B8FDC8F71959"
+      },
+      {
+        "path": "assets/items/items.otb",
+        "size": 1003402,
+        "sha256": "F242FFEB7C0F5CE357F0BC90A7F515527C27440F7F813899AFC7A588FC5BFACA"
+      },
+      {
+        "path": "assets/world/mapanovo.otbm",
+        "size": 80109484,
+        "sha256": "FEB55A08B8A9ABD9CC129B23BB1D2ED067A903C9473F0D45F62B5CA16CDD6DB5"
+      }
+    ],
+    "archives": {
+      "860": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20260904-101957-358761\\860.rar",
+        "size": 83311534,
+        "sha256": "30E9BF97A289E49A07CF9725AB0DBA2AD8254163507CA4A0BFF3C97D83306E03"
+      },
+      "items": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20260904-101957-358761\\items.rar",
+        "size": 476714,
+        "sha256": "3075206B598F7713C6EF224A37E325119558F3521AD15707917FC7A8387B5A9C"
+      },
+      "world": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20260904-101957-358761\\world.zip",
+        "size": 19340601,
+        "sha256": "DCFFBB6FB455DD8E051C696548FB4210CF88F7F802692C8F96FBEC7EFA8231DA"
+      }
+    },
+    "items_xml_excluded": true,
+    "world_entries": [
+      "mapanovo.otbm"
+    ],
+    "passed": true
+  },
+  "sprite_hash_gate": {
+    "sample_count": 64,
+    "mismatch_count": 0,
+    "mismatches": [],
+    "passed": true
+  },
+  "item_count": 6,
+  "new_sprite_count": 6,
+  "sprite_id_range": [
+    254553,
+    254558
+  ],
+  "items": [
+    {
+      "sequence": 1,
+      "client_id": 13721,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\Tabua_de_Madeira_de_Carvalho_da_Folha.png",
+      "file_sha256": "CD9EA6454674CCE6A712E258500C437FDE9E5FCC6753B8BBCB433631C38535DF",
+      "pixels_sha256": "F71DAB8121A8AFE385826FAD42066E1FDE68432EF65F1D2CCF93742EF0259F6A",
+      "image_width": 32,
+      "image_height": 32,
+      "width_tiles": 1,
+      "height_tiles": 1,
+      "frames": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_ids": [
+        254553
+      ],
+      "sprite_hash": "66C3AA946208DF29E7A2514689468068"
+    },
+    {
+      "sequence": 2,
+      "client_id": 13722,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\Tabua_de_Madeira_de_Carvalho_Nobre.png",
+      "file_sha256": "EE6CB681544A71FC73BCA1DE691800451F8130B89B5BD52EA6D56238CD559C66",
+      "pixels_sha256": "B6CCC1008EEC10309525A1C875EA4C776828E5CC752C50E5F79CE97795F58BB1",
+      "image_width": 32,
+      "image_height": 32,
+      "width_tiles": 1,
+      "height_tiles": 1,
+      "frames": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_ids": [
+        254554
+      ],
+      "sprite_hash": "A82106B3C9B86829EB1795196EABF9E8"
+    },
+    {
+      "sequence": 3,
+      "client_id": 13723,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\Tabua_de_Madeira_de_Acacia.png",
+      "file_sha256": "3210C30D33CB3680230E594F178603DCEDB7182DA2349EDE3525A1E75A560F27",
+      "pixels_sha256": "D50B4AB5231EB1970FD96223EF1C6D2C6B0E0AB05D18C8C3B9829C5CFBA2A68E",
+      "image_width": 32,
+      "image_height": 32,
+      "width_tiles": 1,
+      "height_tiles": 1,
+      "frames": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_ids": [
+        254555
+      ],
+      "sprite_hash": "AD11FF7E60D04D8800F7AA6ADA202B0C"
+    },
+    {
+      "sequence": 4,
+      "client_id": 13724,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\po_de_serra.png",
+      "file_sha256": "06085295138DE07B67F733DA069A962CE8EC5A0825EE32C357D71C2580B32579",
+      "pixels_sha256": "437E2ECDA3A47C45AD1487FF053C293B0A143D4AE4AFF84605104E1186ED1D2F",
+      "image_width": 32,
+      "image_height": 32,
+      "width_tiles": 1,
+      "height_tiles": 1,
+      "frames": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_ids": [
+        254556
+      ],
+      "sprite_hash": "F583E4D5390130D6AD926DB396DECD27"
+    },
+    {
+      "sequence": 5,
+      "client_id": 13725,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\Pregos.png",
+      "file_sha256": "D3BFB0E1BBF39D0FD3544E033E6FEA855BAB6B7BD841269B6E9F78D3BD21F332",
+      "pixels_sha256": "526C39D282030E275FC3DE01047068DF3CB2CDC43C005CD1EFA6013F64ACD451",
+      "image_width": 32,
+      "image_height": 32,
+      "width_tiles": 1,
+      "height_tiles": 1,
+      "frames": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_ids": [
+        254557
+      ],
+      "sprite_hash": "4EE8E47C1CFD5DA8411DFB76429E085A"
+    },
+    {
+      "sequence": 6,
+      "client_id": 13726,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\tapete_asset.png",
+      "file_sha256": "1C72F64FC2D384E85775C603D4A928332F72E65D7ADDD68867DAD460F633F064",
+      "pixels_sha256": "450BF979B563E719747FAEDCE6A2CE2A8AC6B089E1E7F132CD90639C4CD8FA89",
+      "image_width": 32,
+      "image_height": 32,
+      "width_tiles": 1,
+      "height_tiles": 1,
+      "frames": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_ids": [
+        254558
+      ],
+      "sprite_hash": "1D5680B287BE64189D37C5FCE7AF35B8"
+    }
+  ],
+  "otb_nodes_updated": {
+    "13721": 1,
+    "13722": 1,
+    "13723": 1,
+    "13724": 1,
+    "13725": 1,
+    "13726": 1
+  },
+  "transaction_committed": true,
+  "output_hashes": {
+    "dat": "14CFA5EEB59ED6FBAB9B7F2695923B5BE17A535ACF821FF344A07274CBD6B4F9",
+    "spr": "B3CD10EF202DFEDE5F3D1CD6CBEA533229F8899DA51EDC5FEDF4F55DD8BE9D9D",
+    "otb": "8D9EB2A5FA46E69FA5889CB100906754C36B5F3AAC0BF908C32163AD4F6F519A"
+  },
+  "dat_non_targets_preserved": true,
+  "old_sprite_payload_preserved": true,
+  "new_sprite_pixels_verified": true,
+  "untouched_files_preserved": true,
+  "map_byte_equal": true,
+  "final_validation_passed": true,
+  "warnings": [],
+  "errors": [],
+  "passed": true
+}

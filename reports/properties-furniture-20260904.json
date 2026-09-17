@@ -1,0 +1,428 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "manifest": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\manifest-furniture-properties-20260904.csv",
+  "version_backup": {
+    "tool_version": "0.8.1",
+    "version_id": "20260904-044036-663738",
+    "created_at": "2026-09-04T04:40:46.384397-03:00",
+    "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20260904-044036-663738",
+    "rar_executable": "C:\\Program Files\\WinRAR\\Rar.exe",
+    "sources": [
+      {
+        "path": "assets/860/.gitattributes",
+        "size": 43,
+        "sha256": "D5636A3257287440945C5E017581545E5B0A3E2FDDDAE7C5EF8D90FF4DF3D32A"
+      },
+      {
+        "path": "assets/860/Tibia.dat",
+        "size": 4379124,
+        "sha256": "FCC2B9161BD4EA3586F31DE51F3ABB7401B5F7DF0D5CF6E3D4B2952A0F8EEADA"
+      },
+      {
+        "path": "assets/860/Tibia.otfi",
+        "size": 185,
+        "sha256": "7743548835944BC799CB871A4E5DEF84F7AF76815031871B9CE74B5EC0E8ADD3"
+      },
+      {
+        "path": "assets/860/Tibia.spr",
+        "size": 433159806,
+        "sha256": "FB10C0856017546C2A2BAF7871980030419D2F8340F6795314E41DC12B59CD55"
+      },
+      {
+        "path": "assets/items/force use.txt",
+        "size": 419,
+        "sha256": "BCB478FDF3F45ECA8D172AFD7A17D3F8CD520924EE0894752452B8FDC8F71959"
+      },
+      {
+        "path": "assets/items/items.otb",
+        "size": 1003402,
+        "sha256": "1B35D56FFC57AE4133F55D786D2103D602F09F93BB0BE5017B57ABB53C6999CA"
+      },
+      {
+        "path": "assets/world/mapanovo.otbm",
+        "size": 80109484,
+        "sha256": "FEB55A08B8A9ABD9CC129B23BB1D2ED067A903C9473F0D45F62B5CA16CDD6DB5"
+      }
+    ],
+    "archives": {
+      "860": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20260904-044036-663738\\860.rar",
+        "size": 83377001,
+        "sha256": "DEED7217A8C931978FB2581D8B5CD7665ED5754B92C4CAFE2C1E72BA07095137"
+      },
+      "items": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20260904-044036-663738\\items.rar",
+        "size": 476701,
+        "sha256": "72676263EF4AB6350F3340D8CBE7CC523C167555D6AD2687C4F681DEBDBA035E"
+      },
+      "world": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20260904-044036-663738\\world.zip",
+        "size": 19340601,
+        "sha256": "DCFFBB6FB455DD8E051C696548FB4210CF88F7F802692C8F96FBEC7EFA8231DA"
+      }
+    },
+    "items_xml_excluded": true,
+    "world_entries": [
+      "mapanovo.otbm"
+    ],
+    "passed": true
+  },
+  "item_count": 11,
+  "items": [
+    {
+      "sequence": 1,
+      "server_id": 14580,
+      "client_id": 13701,
+      "dat": {
+        "before": [
+          "stackable",
+          "pickupable"
+        ],
+        "after": [
+          "pickupable",
+          "hangable"
+        ]
+      },
+      "otb": {
+        "before_mask": "0x000000E0",
+        "after_mask": "0x00010060",
+        "before": [
+          "pickupable",
+          "movable",
+          "stackable"
+        ],
+        "after": [
+          "pickupable",
+          "movable",
+          "hangable"
+        ]
+      }
+    },
+    {
+      "sequence": 2,
+      "server_id": 14581,
+      "client_id": 13702,
+      "dat": {
+        "before": [
+          "stackable",
+          "pickupable"
+        ],
+        "after": [
+          "pickupable",
+          "hangable"
+        ]
+      },
+      "otb": {
+        "before_mask": "0x000000E0",
+        "after_mask": "0x00010060",
+        "before": [
+          "pickupable",
+          "movable",
+          "stackable"
+        ],
+        "after": [
+          "pickupable",
+          "movable",
+          "hangable"
+        ]
+      }
+    },
+    {
+      "sequence": 3,
+      "server_id": 14597,
+      "client_id": 13718,
+      "dat": {
+        "before": [
+          "stackable",
+          "pickupable"
+        ],
+        "after": [
+          "pickupable",
+          "multi_use"
+        ]
+      },
+      "otb": {
+        "before_mask": "0x000000E0",
+        "after_mask": "0x00000070",
+        "before": [
+          "pickupable",
+          "movable",
+          "stackable"
+        ],
+        "after": [
+          "usable",
+          "pickupable",
+          "movable"
+        ]
+      }
+    },
+    {
+      "sequence": 4,
+      "server_id": 14598,
+      "client_id": 13719,
+      "dat": {
+        "before": [
+          "stackable",
+          "pickupable"
+        ],
+        "after": [
+          "pickupable",
+          "multi_use"
+        ]
+      },
+      "otb": {
+        "before_mask": "0x000000E0",
+        "after_mask": "0x00000070",
+        "before": [
+          "pickupable",
+          "movable",
+          "stackable"
+        ],
+        "after": [
+          "usable",
+          "pickupable",
+          "movable"
+        ]
+      }
+    },
+    {
+      "sequence": 5,
+      "server_id": 16543,
+      "client_id": 15658,
+      "dat": {
+        "before": [
+          "unmoveable",
+          "has_elevation"
+        ],
+        "after": [
+          "has_elevation",
+          "pickupable"
+        ]
+      },
+      "otb": {
+        "before_mask": "0x00000008",
+        "after_mask": "0x00000068",
+        "before": [
+          "has_height"
+        ],
+        "after": [
+          "has_height",
+          "pickupable",
+          "movable"
+        ]
+      }
+    },
+    {
+      "sequence": 6,
+      "server_id": 16544,
+      "client_id": 15659,
+      "dat": {
+        "before": [
+          "unmoveable",
+          "has_elevation"
+        ],
+        "after": [
+          "has_elevation",
+          "pickupable",
+          "rotatable"
+        ]
+      },
+      "otb": {
+        "before_mask": "0x00000008",
+        "after_mask": "0x00008068",
+        "before": [
+          "has_height"
+        ],
+        "after": [
+          "has_height",
+          "pickupable",
+          "movable",
+          "rotatable"
+        ]
+      }
+    },
+    {
+      "sequence": 7,
+      "server_id": 16545,
+      "client_id": 15660,
+      "dat": {
+        "before": [
+          "unmoveable",
+          "has_elevation"
+        ],
+        "after": [
+          "has_elevation",
+          "pickupable",
+          "rotatable"
+        ]
+      },
+      "otb": {
+        "before_mask": "0x00000008",
+        "after_mask": "0x00008068",
+        "before": [
+          "has_height"
+        ],
+        "after": [
+          "has_height",
+          "pickupable",
+          "movable",
+          "rotatable"
+        ]
+      }
+    },
+    {
+      "sequence": 8,
+      "server_id": 19832,
+      "client_id": 18947,
+      "dat": {
+        "before": [
+          "on_bottom",
+          "unpassable",
+          "unmoveable",
+          "block_missile",
+          "block_pathfind",
+          "has_elevation"
+        ],
+        "after": [
+          "on_bottom",
+          "unpassable",
+          "unmoveable",
+          "has_elevation"
+        ]
+      },
+      "otb": {
+        "before_mask": "0x0000200F",
+        "after_mask": "0x00002009",
+        "before": [
+          "block_solid",
+          "block_projectile",
+          "block_pathfind",
+          "has_height",
+          "always_on_top"
+        ],
+        "after": [
+          "block_solid",
+          "has_height",
+          "always_on_top"
+        ]
+      }
+    },
+    {
+      "sequence": 9,
+      "server_id": 19833,
+      "client_id": 18948,
+      "dat": {
+        "before": [
+          "on_bottom",
+          "unpassable",
+          "unmoveable",
+          "block_missile",
+          "block_pathfind",
+          "has_elevation"
+        ],
+        "after": [
+          "on_bottom",
+          "unpassable",
+          "unmoveable",
+          "has_elevation"
+        ]
+      },
+      "otb": {
+        "before_mask": "0x0000200F",
+        "after_mask": "0x00002009",
+        "before": [
+          "block_solid",
+          "block_projectile",
+          "block_pathfind",
+          "has_height",
+          "always_on_top"
+        ],
+        "after": [
+          "block_solid",
+          "has_height",
+          "always_on_top"
+        ]
+      }
+    },
+    {
+      "sequence": 10,
+      "server_id": 19834,
+      "client_id": 18949,
+      "dat": {
+        "before": [
+          "on_bottom",
+          "unpassable",
+          "unmoveable",
+          "block_missile",
+          "block_pathfind",
+          "has_elevation"
+        ],
+        "after": [
+          "on_bottom",
+          "unpassable",
+          "unmoveable",
+          "has_elevation"
+        ]
+      },
+      "otb": {
+        "before_mask": "0x0000200F",
+        "after_mask": "0x00002009",
+        "before": [
+          "block_solid",
+          "block_projectile",
+          "block_pathfind",
+          "has_height",
+          "always_on_top"
+        ],
+        "after": [
+          "block_solid",
+          "has_height",
+          "always_on_top"
+        ]
+      }
+    },
+    {
+      "sequence": 11,
+      "server_id": 19835,
+      "client_id": 18950,
+      "dat": {
+        "before": [
+          "on_bottom",
+          "unpassable",
+          "unmoveable",
+          "block_missile",
+          "block_pathfind",
+          "has_elevation"
+        ],
+        "after": [
+          "on_bottom",
+          "unpassable",
+          "unmoveable",
+          "has_elevation"
+        ]
+      },
+      "otb": {
+        "before_mask": "0x0000200F",
+        "after_mask": "0x00002009",
+        "before": [
+          "block_solid",
+          "block_projectile",
+          "block_pathfind",
+          "has_height",
+          "always_on_top"
+        ],
+        "after": [
+          "block_solid",
+          "has_height",
+          "always_on_top"
+        ]
+      }
+    }
+  ],
+  "transaction_committed": true,
+  "untouched_assets_preserved": true,
+  "final_validation_passed": true,
+  "warnings": [],
+  "errors": [],
+  "passed": true
+}

@@ -1,0 +1,614 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "manifest": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\manifest-furniture-20260904.csv",
+  "profile": "tibia-860-v2-custom-extended",
+  "version_backup": {
+    "tool_version": "0.8.1",
+    "version_id": "20260904-043958-309386",
+    "created_at": "2026-09-04T04:40:08.218563-03:00",
+    "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20260904-043958-309386",
+    "rar_executable": "C:\\Program Files\\WinRAR\\Rar.exe",
+    "sources": [
+      {
+        "path": "assets/860/.gitattributes",
+        "size": 43,
+        "sha256": "D5636A3257287440945C5E017581545E5B0A3E2FDDDAE7C5EF8D90FF4DF3D32A"
+      },
+      {
+        "path": "assets/860/Tibia.dat",
+        "size": 4379137,
+        "sha256": "4C6AEF3F91571FE49BC07C4FC83A399FF75ACC87F93AFFB650AC4B4AE8849A93"
+      },
+      {
+        "path": "assets/860/Tibia.otfi",
+        "size": 185,
+        "sha256": "7743548835944BC799CB871A4E5DEF84F7AF76815031871B9CE74B5EC0E8ADD3"
+      },
+      {
+        "path": "assets/860/Tibia.spr",
+        "size": 433069522,
+        "sha256": "1FB2C9E04F1711402C09F8EBE559F99101D9EF0F82154628E9A70592377347DB"
+      },
+      {
+        "path": "assets/items/force use.txt",
+        "size": 419,
+        "sha256": "BCB478FDF3F45ECA8D172AFD7A17D3F8CD520924EE0894752452B8FDC8F71959"
+      },
+      {
+        "path": "assets/items/items.otb",
+        "size": 1003395,
+        "sha256": "AE8B0FBF1620FA2928665F40338F98AA2581878A309F64FF16234EFE2E10E26B"
+      },
+      {
+        "path": "assets/world/mapanovo.otbm",
+        "size": 80109484,
+        "sha256": "FEB55A08B8A9ABD9CC129B23BB1D2ED067A903C9473F0D45F62B5CA16CDD6DB5"
+      }
+    ],
+    "archives": {
+      "860": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20260904-043958-309386\\860.rar",
+        "size": 83348773,
+        "sha256": "0DF54F1D070288E5FF6AA484F4D00BF3A0F401FC2F8C05F51BF96E456F485961"
+      },
+      "items": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20260904-043958-309386\\items.rar",
+        "size": 476349,
+        "sha256": "CB544CB77CB78C448F0BC5AC4E47681C2F4F55A237F3ABD8DCF55710FDCFAD0A"
+      },
+      "world": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20260904-043958-309386\\world.zip",
+        "size": 19340601,
+        "sha256": "DCFFBB6FB455DD8E051C696548FB4210CF88F7F802692C8F96FBEC7EFA8231DA"
+      }
+    },
+    "items_xml_excluded": true,
+    "world_entries": [
+      "mapanovo.otbm"
+    ],
+    "passed": true
+  },
+  "sprite_hash_gate": {
+    "sample_count": 64,
+    "mismatch_count": 0,
+    "mismatches": [],
+    "passed": true
+  },
+  "item_count": 26,
+  "new_sprite_count": 44,
+  "sprite_id_range": [
+    254507,
+    254550
+  ],
+  "items": [
+    {
+      "sequence": 1,
+      "client_id": 13701,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\quadro_de_kunais-horizontal-importado.png",
+      "file_sha256": "3EE76369BDB0BFC479BF3E26CDF5FB39013B10D79D850B5187D5DC9EE88A4CC4",
+      "pixels_sha256": "7F0495DC0069D2C65BACA9D87493083431C5A6841B7FFB652E0510F435FCAE78",
+      "image_width": 64,
+      "image_height": 64,
+      "width_tiles": 2,
+      "height_tiles": 2,
+      "frames": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_ids": [
+        254507,
+        254508,
+        254509,
+        254510
+      ],
+      "sprite_hash": "F4DD0077186C4C16074A3690A937CBB1"
+    },
+    {
+      "sequence": 2,
+      "client_id": 13702,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\quadro_de_kunais-vertical-importado.png",
+      "file_sha256": "9F0F7E7E2C16E973D4ACE6F3CA9BAA1CEF360E4F81747A2400FF90CD119A0C3E",
+      "pixels_sha256": "7002E6A86D02C89698CBF6BA58786CF77AAFA036470952B22D3D8EFF7FFF389D",
+      "image_width": 64,
+      "image_height": 64,
+      "width_tiles": 2,
+      "height_tiles": 2,
+      "frames": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_ids": [
+        254511,
+        254512,
+        254513,
+        254514
+      ],
+      "sprite_hash": "B0DEF8A297CF0C478677CC8B0F49488E"
+    },
+    {
+      "sequence": 3,
+      "client_id": 13703,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\tapete_de_palha1-importado.png",
+      "file_sha256": "D91C5CBB2593CB8E9F2822165B73A4386F3E4B476876CEC119DB040B54D63715",
+      "pixels_sha256": "2AFF790C4AA0D4EDBC953EBE622E049FCCAA1BB46441605840A66D68315CAE5B",
+      "image_width": 32,
+      "image_height": 32,
+      "width_tiles": 1,
+      "height_tiles": 1,
+      "frames": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_ids": [
+        254515
+      ],
+      "sprite_hash": "687E4EA6D48966651C04C8C4E77B7E9D"
+    },
+    {
+      "sequence": 4,
+      "client_id": 13704,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\tapete_de_palha2-importado.png",
+      "file_sha256": "6371B07CD69EE3EF9A049AB9E35200566657366C8F02D51348459744482A9553",
+      "pixels_sha256": "4DF919D503C62B5B54E457FFA151CE29A33422AE1831CED58800057289A0A979",
+      "image_width": 32,
+      "image_height": 32,
+      "width_tiles": 1,
+      "height_tiles": 1,
+      "frames": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_ids": [
+        254516
+      ],
+      "sprite_hash": "E1201D39B35FA698C8FB71BED0CAE28C"
+    },
+    {
+      "sequence": 5,
+      "client_id": 13705,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\tapete_de_palha3-importado.png",
+      "file_sha256": "34DCA5769C9C147CE0B1CE78E5AD47061683323255DA81D643EADB05C0882ED0",
+      "pixels_sha256": "AAC0B5BC22AB169E8DBF01FF4BAF90BA3FD22CC5C6CFD1501D5E254ECE65AAAB",
+      "image_width": 32,
+      "image_height": 32,
+      "width_tiles": 1,
+      "height_tiles": 1,
+      "frames": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_ids": [
+        254517
+      ],
+      "sprite_hash": "993F893CFFF234BD2CF41F9FBEFB2C56"
+    },
+    {
+      "sequence": 6,
+      "client_id": 13706,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\tapete_de_palha4-importado.png",
+      "file_sha256": "7B68F77C03630B5199A80CF6CD8D49E5BC2E24D8133D43A8D5938205012A7C53",
+      "pixels_sha256": "599366C45974E43A7C6F108988DCB96E7123FBE92D05AF9355C1CE2F9F33C964",
+      "image_width": 32,
+      "image_height": 32,
+      "width_tiles": 1,
+      "height_tiles": 1,
+      "frames": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_ids": [
+        254518
+      ],
+      "sprite_hash": "27D1193FECBA342BCA0EB19713435EB0"
+    },
+    {
+      "sequence": 7,
+      "client_id": 13707,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\tapete_de_palha5-importado.png",
+      "file_sha256": "8DFF82546C047EF98A2FC32AB137483EFACB128A4668B7C01171D062479B495B",
+      "pixels_sha256": "C1CB356E326967942B7B8CF5B3B076194C5F100F670F8E3304E759E75C27F008",
+      "image_width": 32,
+      "image_height": 32,
+      "width_tiles": 1,
+      "height_tiles": 1,
+      "frames": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_ids": [
+        254519
+      ],
+      "sprite_hash": "E39EEA48E21FB2138E1CC151F527E991"
+    },
+    {
+      "sequence": 8,
+      "client_id": 13708,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\tapete_de_palha6-importado.png",
+      "file_sha256": "7D29680FD0F9AC2CD9199E7AC4B58C8319F22E15364D5C4CCB276A25D887679C",
+      "pixels_sha256": "52F7928A8FC8E0887060B342861E386BA721C55820CDAE9F50AC53B8199D020C",
+      "image_width": 32,
+      "image_height": 32,
+      "width_tiles": 1,
+      "height_tiles": 1,
+      "frames": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_ids": [
+        254520
+      ],
+      "sprite_hash": "5ABC6710875CFD1F45E7A5626C44FFDD"
+    },
+    {
+      "sequence": 9,
+      "client_id": 13709,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\tapete_de_palha7-importado.png",
+      "file_sha256": "5565436DD706111D55643F7DA2061C92732D27016A152A8E9D6559BDB0963DF7",
+      "pixels_sha256": "F05EF6882223870D7EE89A9D610B963BE095367EAD8EE30FB1197DA5194D850C",
+      "image_width": 32,
+      "image_height": 32,
+      "width_tiles": 1,
+      "height_tiles": 1,
+      "frames": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_ids": [
+        254521
+      ],
+      "sprite_hash": "C7FDCEEC1EDEEEC12968A906D59E8D50"
+    },
+    {
+      "sequence": 10,
+      "client_id": 13710,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\tapete_de_palha8-importado.png",
+      "file_sha256": "D55F6590C5210833B923B4D990D46F5D9F81AB459B8AC9AA03F9FD93E63E4D63",
+      "pixels_sha256": "630B0A9D980AB6E4DB126133F93339533878A641296E9C560AB3B3DC25E956AB",
+      "image_width": 32,
+      "image_height": 32,
+      "width_tiles": 1,
+      "height_tiles": 1,
+      "frames": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_ids": [
+        254522
+      ],
+      "sprite_hash": "C5E6324D73D2C95C66D6A05A09980662"
+    },
+    {
+      "sequence": 11,
+      "client_id": 13711,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\tapete_de_palha9-importado.png",
+      "file_sha256": "AB7F6229987CA0E1D02C587503EAC2E6939AFEEACC8AE807C3F0B6220B79108F",
+      "pixels_sha256": "8427D675B57FFCE7D257294A7EBD1B07CA28F88BB6612E48C48C566FA3F58531",
+      "image_width": 32,
+      "image_height": 32,
+      "width_tiles": 1,
+      "height_tiles": 1,
+      "frames": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_ids": [
+        254523
+      ],
+      "sprite_hash": "D7B51640BA6F221B61E6771D31C107BA"
+    },
+    {
+      "sequence": 12,
+      "client_id": 13712,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\tapete_de_palha10-importado.png",
+      "file_sha256": "7D12A844FB1F10E035333E53F5A13FB3642DEDB53BD3544D73D4996424914235",
+      "pixels_sha256": "25B5F29FF61A08F4DE479891C51467167B9C680655F7E26F3C02D1A3A530478F",
+      "image_width": 32,
+      "image_height": 32,
+      "width_tiles": 1,
+      "height_tiles": 1,
+      "frames": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_ids": [
+        254524
+      ],
+      "sprite_hash": "8D0313AD19919481A08BC3AF68A2485B"
+    },
+    {
+      "sequence": 13,
+      "client_id": 13713,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\tapete_de_palha11-importado.png",
+      "file_sha256": "6157A2ABD733FA47C726E832D0BCF2AD490D0C4133948B67002E6773092FA2F6",
+      "pixels_sha256": "F143098E65C2C4C12A17EE466C373A5DF96518740C06D648EF5118C153ACCA3B",
+      "image_width": 32,
+      "image_height": 32,
+      "width_tiles": 1,
+      "height_tiles": 1,
+      "frames": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_ids": [
+        254525
+      ],
+      "sprite_hash": "7ADBAC1D7455E76FD45DB8A0ACD216D6"
+    },
+    {
+      "sequence": 14,
+      "client_id": 13714,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\tapete_de_palha12-importado.png",
+      "file_sha256": "A469E018D61867DDE11647FA986D6F12ADCA39DA0C1D1D743CDB0E2C4B0800FC",
+      "pixels_sha256": "2635865203B9A4191CFF2C006CE654210B04D87ED80C4DA89A8ED9C698E72A7A",
+      "image_width": 32,
+      "image_height": 32,
+      "width_tiles": 1,
+      "height_tiles": 1,
+      "frames": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_ids": [
+        254526
+      ],
+      "sprite_hash": "9175AD8974935FA23B90663B38E7950D"
+    },
+    {
+      "sequence": 15,
+      "client_id": 13715,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\tapete_de_palha13-importado.png",
+      "file_sha256": "83D52BD9E695291CBD9314D5DCB743551F29B92203952B5A5E414EF624A32287",
+      "pixels_sha256": "1ED786647298772A56BA4E42079F9B72FA7FF3B722C47FEDA59776A8F04FB511",
+      "image_width": 32,
+      "image_height": 32,
+      "width_tiles": 1,
+      "height_tiles": 1,
+      "frames": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_ids": [
+        254527
+      ],
+      "sprite_hash": "71562A388F0670B7F7E254319C085F4F"
+    },
+    {
+      "sequence": 16,
+      "client_id": 13716,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\tapete_de_palha14-importado.png",
+      "file_sha256": "4FD2B03A71663994D7035ECF2B827449BFDCFB458FC57BA87E4E3CFBD9348BBD",
+      "pixels_sha256": "AB2DE79A54D05E900B371C3B4EDA592900A433B4D69525FB1A54D347756CD1F9",
+      "image_width": 32,
+      "image_height": 32,
+      "width_tiles": 1,
+      "height_tiles": 1,
+      "frames": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_ids": [
+        254528
+      ],
+      "sprite_hash": "01F82B268B7D6785EB2EDC7B07E78E62"
+    },
+    {
+      "sequence": 17,
+      "client_id": 13717,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\tapete_de_palha15-importado.png",
+      "file_sha256": "AFF3D25000AB05FE8CBAB5FDE875260148D74347BEE016E3F2489258834633B5",
+      "pixels_sha256": "04D17520BE168A34F708D4360AC235068B2C522EB8A2F099A69C257D79E9BE66",
+      "image_width": 32,
+      "image_height": 32,
+      "width_tiles": 1,
+      "height_tiles": 1,
+      "frames": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_ids": [
+        254529
+      ],
+      "sprite_hash": "817D9493CDF17FCED53FFEBC83E500E3"
+    },
+    {
+      "sequence": 18,
+      "client_id": 13718,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\caixa_mesa_de_madeira_horizontal-importado.png",
+      "file_sha256": "15BBD867D38EC5B01E5EA8BCFA4F8764F12D301B55962FE5D54CE631D89DE249",
+      "pixels_sha256": "28F49AC62F2E347C1318C56D8110F8CD4D4F6EB4A90D8B9D43A67AA02106E8FF",
+      "image_width": 32,
+      "image_height": 32,
+      "width_tiles": 1,
+      "height_tiles": 1,
+      "frames": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_ids": [
+        254530
+      ],
+      "sprite_hash": "047267A8163134AD6F2131192308FBDB"
+    },
+    {
+      "sequence": 19,
+      "client_id": 13719,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\caixa_mesa_de_madeira_vertical-importado.png",
+      "file_sha256": "9A819A939623C33800DE19B5247C0FDB1509FE72783B38278A0638E95D8BD484",
+      "pixels_sha256": "D1732D46474B79299B0D4EE016DD86CE16959B2860F0A796D73D950F1851F48E",
+      "image_width": 32,
+      "image_height": 32,
+      "width_tiles": 1,
+      "height_tiles": 1,
+      "frames": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_ids": [
+        254531
+      ],
+      "sprite_hash": "2EC2497068FC7537D8E42AE4CC1B28AF"
+    },
+    {
+      "sequence": 20,
+      "client_id": 15658,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\almofada-importado.png",
+      "file_sha256": "308D7CD5568D9A224C4AB94A1083158FC71D52BFC527A8FAEA857A8E6214B575",
+      "pixels_sha256": "F6F80EC5C5970C50734289245823C0871491309CA40C4D2A5B621B6E8D2288E1",
+      "image_width": 32,
+      "image_height": 32,
+      "width_tiles": 1,
+      "height_tiles": 1,
+      "frames": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_ids": [
+        254532
+      ],
+      "sprite_hash": "87CBA0B638068C7F7D3BC57E1C893D95"
+    },
+    {
+      "sequence": 21,
+      "client_id": 15659,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\cadeira_de_madeira1-importado.png",
+      "file_sha256": "A66677C4C24C5CC5A5C8B98CB515BEF64C85B0ABFE6573212F0868FB8CD3CD39",
+      "pixels_sha256": "D5DCF1A29BD593732FC8A33FA48623AFA56A8D17B2EC967C0B65B017417B3C33",
+      "image_width": 32,
+      "image_height": 32,
+      "width_tiles": 1,
+      "height_tiles": 1,
+      "frames": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_ids": [
+        254533
+      ],
+      "sprite_hash": "06172BC0A7C745A24B3191A94216602E"
+    },
+    {
+      "sequence": 22,
+      "client_id": 15660,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\cadeira_de_madeira2-importado.png",
+      "file_sha256": "C5CCEA4140AEE036BDCFD9D039D06879D21F7F041886EC5E027864F18B3FC234",
+      "pixels_sha256": "F19929265048E62B5A214B6731A9F52846A51526BB532389A4462D9536E732B7",
+      "image_width": 32,
+      "image_height": 32,
+      "width_tiles": 1,
+      "height_tiles": 1,
+      "frames": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_ids": [
+        254534
+      ],
+      "sprite_hash": "BDFF20B361B3BB786424396544C37ED9"
+    },
+    {
+      "sequence": 23,
+      "client_id": 18947,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\mesa_de_madeira1-importado.png",
+      "file_sha256": "189C806A5D3528D32E13B615E6724F8F15B5763AAEB7718E711891EB39DE565E",
+      "pixels_sha256": "99B2CDAB0A01A618C43DF833F59EBAC11B137BB759BF19045BC86752A0A45942",
+      "image_width": 64,
+      "image_height": 64,
+      "width_tiles": 2,
+      "height_tiles": 2,
+      "frames": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_ids": [
+        254535,
+        254536,
+        254537,
+        254538
+      ],
+      "sprite_hash": "66B37E1F69536E3C554F42D3F9BA5E62"
+    },
+    {
+      "sequence": 24,
+      "client_id": 18948,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\mesa_de_madeira1.1-importado.png",
+      "file_sha256": "ECB3F5877434B0190C231E52094B89241CCDA8EC6115CBDD8518CBA2A3ABB971",
+      "pixels_sha256": "98A1C63F5E31870366ACF31934356567E8B0A51250DAC1F8AB82D4C396E6D168",
+      "image_width": 64,
+      "image_height": 64,
+      "width_tiles": 2,
+      "height_tiles": 2,
+      "frames": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_ids": [
+        254539,
+        254540,
+        254541,
+        254542
+      ],
+      "sprite_hash": "6B1E4C023BAE3D63AEFFC49C2FDBA455"
+    },
+    {
+      "sequence": 25,
+      "client_id": 18949,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\mesa_de_madeira_2-importado.png",
+      "file_sha256": "3067944B43BD02B9BAEDE3BD4DB540469F60E139CB9E75AF6DECAA412977D359",
+      "pixels_sha256": "75FF921BE7ABBD80B5F4A84FB6E16A392763E531BC23F9FB9F74AD84BB808AEC",
+      "image_width": 64,
+      "image_height": 64,
+      "width_tiles": 2,
+      "height_tiles": 2,
+      "frames": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_ids": [
+        254543,
+        254544,
+        254545,
+        254546
+      ],
+      "sprite_hash": "1ABC994EFA3B4E595676E57179AEB913"
+    },
+    {
+      "sequence": 26,
+      "client_id": 18950,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\mesa_de_madeira_2.2-importado.png",
+      "file_sha256": "B3AD2CD0E845685CD2E32D09D232F6997561AB99A8F55AADE5DED59A00699AF9",
+      "pixels_sha256": "B181E055712C8002B5ABAC9B18DC7FCF35BBD3AB75E85B125CAC6E236A95E866",
+      "image_width": 64,
+      "image_height": 64,
+      "width_tiles": 2,
+      "height_tiles": 2,
+      "frames": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_ids": [
+        254547,
+        254548,
+        254549,
+        254550
+      ],
+      "sprite_hash": "201AE257C6F62A25E0C94211F3E5ECFC"
+    }
+  ],
+  "otb_nodes_updated": {
+    "13701": 1,
+    "13702": 1,
+    "13703": 1,
+    "13704": 1,
+    "13705": 1,
+    "13706": 1,
+    "13707": 1,
+    "13708": 1,
+    "13709": 1,
+    "13710": 1,
+    "13711": 1,
+    "13712": 1,
+    "13713": 1,
+    "13714": 1,
+    "13715": 1,
+    "13716": 1,
+    "13717": 1,
+    "13718": 1,
+    "13719": 1,
+    "15658": 1,
+    "15659": 1,
+    "15660": 1,
+    "18947": 1,
+    "18948": 1,
+    "18949": 1,
+    "18950": 1
+  },
+  "transaction_committed": true,
+  "output_hashes": {
+    "dat": "FCC2B9161BD4EA3586F31DE51F3ABB7401B5F7DF0D5CF6E3D4B2952A0F8EEADA",
+    "spr": "FB10C0856017546C2A2BAF7871980030419D2F8340F6795314E41DC12B59CD55",
+    "otb": "1B35D56FFC57AE4133F55D786D2103D602F09F93BB0BE5017B57ABB53C6999CA"
+  },
+  "dat_non_targets_preserved": true,
+  "old_sprite_payload_preserved": true,
+  "new_sprite_pixels_verified": true,
+  "untouched_files_preserved": true,
+  "map_byte_equal": true,
+  "final_validation_passed": true,
+  "warnings": [],
+  "errors": [],
+  "passed": true
+}

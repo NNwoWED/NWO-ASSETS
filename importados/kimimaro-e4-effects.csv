@@ -1,0 +1,6 @@
+sequence,effect_id,source_path,frames,frame_duration_ms,animation_async,preserve_as
+1,1365,descendo_3_frames-importado.png,3,100,0,1469
+2,1366,so_a_ponta_mantido_3_frames-importado.png,3,100,0,1470
+3,1367,so_a_ponta_subindo_5_frames-importado.png,5,100,0,1471
+4,1368,subindo_dnv_4_frames-importado.png,4,100,0,1472
+5,1369,mantido_dnv_3_frames-importado.png,3,100,0,1473

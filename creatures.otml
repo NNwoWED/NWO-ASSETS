@@ -1568,6 +1568,10 @@ creatures: // outfits
     async-outfit
     name-displacement: -44 -26
     outfit-displacement: 32 32
+  1520 // kurenai kijin
+    name-displacement: -44 -26
+  1521 // shino kijin
+    name-displacement: -44 -26
   1551 // naruto js
     async-outfit
     hidecreatureinfo

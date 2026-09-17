@@ -1,0 +1,209 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "profile": {
+    "key": "tibia-860-v2-custom-extended",
+    "client_version": 860,
+    "label": "Tibia 8.60 v2 customizado com features OTFI",
+    "dat_signature": "0x4C2C7993",
+    "spr_signature": "0x4C220594",
+    "metadata_reader": 5,
+    "otb_version_hint": "8.60"
+  },
+  "category": "items",
+  "id_kind": "client",
+  "requested_ids": [
+    24083,
+    24228,
+    24229,
+    24230,
+    24231
+  ],
+  "output_dir": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items",
+  "exported_count": 5,
+  "exported": [
+    {
+      "requested_id": 24083,
+      "client_id": 24083,
+      "server_ids": [
+        24968
+      ],
+      "name": "Zabuza dummy",
+      "group_index": 0,
+      "width": 64,
+      "height": 1024,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 16,
+      "sprite_ids": [
+        210521,
+        210522,
+        210523,
+        210524,
+        210525,
+        210526,
+        210527,
+        210528,
+        210529,
+        210530,
+        210531,
+        210532,
+        210533,
+        210534,
+        210535,
+        210536,
+        210537,
+        210538,
+        210539,
+        210540,
+        210541,
+        210542,
+        210543,
+        210544,
+        210545,
+        210546,
+        210547,
+        210548,
+        210549,
+        210550,
+        210551,
+        210552,
+        210553,
+        210554,
+        210555,
+        210556,
+        210557,
+        210558,
+        210559,
+        210560,
+        210561,
+        210562,
+        210563,
+        210564,
+        210565,
+        210562,
+        210566,
+        210567,
+        210568,
+        210569,
+        210570,
+        210571,
+        210572,
+        210573,
+        210574,
+        210575,
+        210576,
+        210577,
+        210578,
+        210579,
+        210580,
+        210581,
+        210582,
+        210583
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\client-24083_server-24968_zabuza-dummy.png",
+      "size": 8794,
+      "sha256": "FA7E2D5FFF1A82F13335E6582EA3B1FD953A3F86C3EA9942B6D6D82DCE5E1BB7"
+    },
+    {
+      "requested_id": 24228,
+      "client_id": 24228,
+      "server_ids": [
+        25113
+      ],
+      "name": "Ninjutsu (1800 cargas)",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        213143
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\client-24228_server-25113_ninjutsu-1800-cargas.png",
+      "size": 449,
+      "sha256": "4E9B01FE498B72445EE1DD94375541D599D398F2AE2A7494695429A5960D598C"
+    },
+    {
+      "requested_id": 24229,
+      "client_id": 24229,
+      "server_ids": [
+        25114
+      ],
+      "name": "Taijutsu (1800 cargas)",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        13380
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\client-24229_server-25114_taijutsu-1800-cargas.png",
+      "size": 362,
+      "sha256": "314FE0F357E7E6219652783449BB904A9DB208DBF1D6DDAE62DAF5BE531C06EA"
+    },
+    {
+      "requested_id": 24230,
+      "client_id": 24230,
+      "server_ids": [
+        25115
+      ],
+      "name": "Medicine (1800 cargas)",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        213144
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\client-24230_server-25115_medicine-1800-cargas.png",
+      "size": 427,
+      "sha256": "AAB12320816A7B0193557007F865C1893522B94962FEF7DBBB53BCAD096C63F4"
+    },
+    {
+      "requested_id": 24231,
+      "client_id": 24231,
+      "server_ids": [
+        25116
+      ],
+      "name": "Genjutsu (1800 cargas)",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        213145
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\client-24231_server-25116_genjutsu-1800-cargas.png",
+      "size": 443,
+      "sha256": "DF4A1B2BF2058E33FE2075F3FC017F861058807005FD62D3E5313A11A6186942"
+    }
+  ],
+  "sources": {
+    "dat": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.dat",
+      "sha256": "499D1954E5F34A4C8360840E7520C447F23B8766B27273ED48FF8A76F2D48805"
+    },
+    "spr": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.spr",
+      "sha256": "6F1321727674C74D02EFB0F9FC319D79A723B10E4BB656D795F0611389B34838"
+    }
+  },
+  "passed": true
+}

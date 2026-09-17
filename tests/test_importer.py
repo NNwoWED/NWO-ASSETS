@@ -17,7 +17,7 @@ from nwoassets.importer import (
     update_otb_sprite_hashes,
     verify_sprite_hash_algorithm,
 )
-from nwoassets.otb import OtbNode
+from nwoassets.otb import OtbNode, parse_otb_tree
 from nwoassets.otfi import OtfiConfig, parse_otfi
 from nwoassets.png import (
     normalize_rgba,
@@ -167,6 +167,26 @@ class OtbImporterTests(unittest.TestCase):
             hashes = _otb_sprite_hashes(output)
         self.assertEqual(updated, {100: 1})
         self.assertEqual(hashes[100], [expected])
+
+    def test_sets_animation_flag_for_animated_item(self) -> None:
+        attributes = (
+            b"\x10\x02\x00" + struct.pack("<H", 100)
+            + b"\x11\x02\x00" + struct.pack("<H", 200)
+            + b"\x20\x10\x00" + bytes(16)
+        )
+        root_node = OtbNode(b"root", [OtbNode(b"\0" + bytes(4) + attributes, [])])
+        expected = bytes.fromhex("00112233445566778899AABBCCDDEEFF")
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory)
+            source = root / "source.otb"
+            output = root / "output.otb"
+            write_otb_document(0, root_node, source)
+            update_otb_sprite_hashes(
+                source, output, {200: expected}, animated={200: True}
+            )
+            _, written = parse_otb_tree(output)
+        flags = struct.unpack_from("<I", written.children[0].data, 1)[0]
+        self.assertEqual(flags & (1 << 24), 1 << 24)
 
 
 class ManifestTests(unittest.TestCase):

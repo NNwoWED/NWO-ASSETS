@@ -1,0 +1,77 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "profile": {
+    "key": "tibia-860-v2-custom-extended",
+    "client_version": 860,
+    "label": "Tibia 8.60 v2 customizado com features OTFI",
+    "dat_signature": "0x4C2C7993",
+    "spr_signature": "0x4C220594",
+    "metadata_reader": 5,
+    "otb_version_hint": "8.60"
+  },
+  "category": "items",
+  "id_kind": "server",
+  "requested_ids": [
+    14638,
+    14639
+  ],
+  "output_dir": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\kijin-bags-after",
+  "exported_count": 2,
+  "exported": [
+    {
+      "requested_id": 14638,
+      "client_id": 13759,
+      "server_ids": [
+        14638
+      ],
+      "name": "Kijin Backpack",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        255239
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\kijin-bags-after\\server-14638_client-13759_kijin-backpack.png",
+      "size": 840,
+      "sha256": "69A335F7E3EADABFB532D86D1C16CE2C5307928489FF7AE38CF118620D03D472"
+    },
+    {
+      "requested_id": 14639,
+      "client_id": 13760,
+      "server_ids": [
+        14639
+      ],
+      "name": "Kijin Shuriken Bag",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        255240
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\kijin-bags-after\\server-14639_client-13760_kijin-shuriken-bag.png",
+      "size": 646,
+      "sha256": "3A2AC9782BD8C34327ED4A31DA643FB5EE6DD4B0B38939C44669F9D1DF1137A5"
+    }
+  ],
+  "sources": {
+    "dat": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.dat",
+      "sha256": "E4E3526F01E523EB2A2ABA8A160DD6FF4D5181EA5344B156BAA8D1668AFDFD91"
+    },
+    "spr": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.spr",
+      "sha256": "1FF97E16F49B0780990027557A1F4822DEB429E4CC72E717D2FD389E01FE413F"
+    }
+  },
+  "passed": true
+}

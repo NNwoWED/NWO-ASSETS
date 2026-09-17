@@ -1,0 +1,8 @@
+sequence,operation,outfit_id,reference_outfit_id,source_path
+1,reserved,1514,2000,artesao-import-256x64.png
+2,reserved,1515,2000,cientista-import-256x64.png
+3,reserved,1516,2000,cozinheira-import-256x64.png
+4,reserved,1517,2000,engenheiro-import-256x64.png
+5,reserved,1518,2000,ferreiro-import-256x64.png
+6,reserved,1519,2000,marcenero.png
+7,replace,324,324,Kimimaro_merge_all-Sheet.png

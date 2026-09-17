@@ -1,0 +1,218 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "profile": {
+    "key": "tibia-860-v2-custom-extended",
+    "client_version": 860,
+    "label": "Tibia 8.60 v2 customizado com features OTFI",
+    "dat_signature": "0x4C2C7993",
+    "spr_signature": "0x4C220594",
+    "metadata_reader": 5,
+    "otb_version_hint": "8.60"
+  },
+  "category": "items",
+  "id_kind": "server",
+  "requested_ids": [
+    11124,
+    11122,
+    25033,
+    25057,
+    25058,
+    25059,
+    25062,
+    25063
+  ],
+  "output_dir": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items",
+  "exported_count": 8,
+  "exported": [
+    {
+      "requested_id": 11124,
+      "client_id": 10213,
+      "server_ids": [
+        11124
+      ],
+      "name": "Dummy package",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        220755
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-11124_client-10213_dummy-package.png",
+      "size": 772,
+      "sha256": "15BBD867D38EC5B01E5EA8BCFA4F8764F12D301B55962FE5D54CE631D89DE249"
+    },
+    {
+      "requested_id": 11122,
+      "client_id": 10211,
+      "server_ids": [
+        11122
+      ],
+      "name": "BathTub Package",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        220756
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-11122_client-10211_bathtub-package.png",
+      "size": 712,
+      "sha256": "9A819A939623C33800DE19B5247C0FDB1509FE72783B38278A0638E95D8BD484"
+    },
+    {
+      "requested_id": 25033,
+      "client_id": 24148,
+      "server_ids": [
+        25033
+      ],
+      "name": "Easter Dummy Package",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        219373
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-25033_client-24148_easter-dummy-package.png",
+      "size": 962,
+      "sha256": "CEEE46F5009CDA339C22C0009649AB96DE778EDEEF38EBC5C5B3043ECE934025"
+    },
+    {
+      "requested_id": 25057,
+      "client_id": 24172,
+      "server_ids": [
+        25057
+      ],
+      "name": "Wheelbarrow Package",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        220744
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-25057_client-24172_wheelbarrow-package.png",
+      "size": 1032,
+      "sha256": "9EB04D8AF4D3BE6836F2EB27F18701FE59E24D094AD0BE9E171254D48646903D"
+    },
+    {
+      "requested_id": 25058,
+      "client_id": 24173,
+      "server_ids": [
+        25058
+      ],
+      "name": "Big Egg Package",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        220745
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-25058_client-24173_big-egg-package.png",
+      "size": 864,
+      "sha256": "747E961B95C7DECF75F4E5626A2350900EBEDD83F9FD46E317AFFDD4FF81F264"
+    },
+    {
+      "requested_id": 25059,
+      "client_id": 24174,
+      "server_ids": [
+        25059
+      ],
+      "name": "Easter Depot Package",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        220746
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-25059_client-24174_easter-depot-package.png",
+      "size": 843,
+      "sha256": "570E21A8D84A9BBCF19CD798FD20452ED0E74B9200B70EDAB125CA9BD80BB9FF"
+    },
+    {
+      "requested_id": 25062,
+      "client_id": 24177,
+      "server_ids": [
+        25062
+      ],
+      "name": "Hashirama Monument Package",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        221539
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-25062_client-24177_hashirama-monument-package.png",
+      "size": 851,
+      "sha256": "2E1070FF384AE33021B6703FD57FA689F6214CF9257C4DD3E43015ADB863A523"
+    },
+    {
+      "requested_id": 25063,
+      "client_id": 24178,
+      "server_ids": [
+        25063
+      ],
+      "name": "Madara Monument Package",
+      "group_index": 0,
+      "width": 32,
+      "height": 128,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 4,
+      "sprite_ids": [
+        221540,
+        221541,
+        221542,
+        221543
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-25063_client-24178_madara-monument-package.png",
+      "size": 2584,
+      "sha256": "0E8C6126ED4C5ECF56D3A463CE94B15B2E503506774F2257661BDA0BB6C04443"
+    }
+  ],
+  "sources": {
+    "dat": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.dat",
+      "sha256": "4C6AEF3F91571FE49BC07C4FC83A399FF75ACC87F93AFFB650AC4B4AE8849A93"
+    },
+    "spr": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.spr",
+      "sha256": "1FB2C9E04F1711402C09F8EBE559F99101D9EF0F82154628E9A70592377347DB"
+    }
+  },
+  "passed": true
+}
