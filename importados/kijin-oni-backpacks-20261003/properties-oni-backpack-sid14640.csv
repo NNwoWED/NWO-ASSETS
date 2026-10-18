@@ -1,0 +1,2 @@
+sequence,server_id,client_id,dat_add_flags,dat_remove_flags,otb_add_flags,otb_remove_flags
+1,14640,13761,container,stackable|multi_use,,usable|stackable

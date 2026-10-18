@@ -141,10 +141,13 @@ effects:
     effect-displacement: 64 64
   62:
     opacity: 0.7
+    effect-displacement: 64 64
   63:
-    opacity: 0.7
+    opacity: 1.0
+    effect-displacement: 90 89
   64:
-    opacity: 0.7
+    opacity: 1.0
+    effect-displacement: 90 89
   65:
     opacity: 0.7
   66:
@@ -929,6 +932,7 @@ effects:
     opacity: 0.7
   379:
     opacity: 0.7
+    effect-displacement: 128 128
   380:
     opacity: 0.7
   381:
@@ -1758,16 +1762,16 @@ effects:
     draweffectorder: 2
   742: // kirin amarelo pt 1
     opacity: 1.0
-    effect-displacement: 128 128
+    effect-displacement: 111 115
   743: // sarada lightning frontal north
     opacity: 1.0
-    effect-displacement: 64 0
+    effect-displacement: 79 0
   744: // sarada lightning frontal east
     opacity: 1.0
-    effect-displacement: 160 32
+    effect-displacement: 192 47
   745: // sarada lightning frontal south
     opacity: 1.0
-    effect-displacement: 64 160
+    effect-displacement: 80 192
   746: // sarada lightning frontal west
     opacity: 1.0
     effect-displacement: 0 32
@@ -2836,12 +2840,16 @@ effects:
     opacity: 0.7
   1193:
     opacity: 0.7
+    effect-displacement: 46 16
   1194:
     opacity: 0.7
+    effect-displacement: 48 47
   1195:
     opacity: 0.7
+    effect-displacement: 48 48
   1196:
     opacity: 0.7
+    effect-displacement: 17 48
   1197:
     opacity: 0.7
   1198:
@@ -3190,20 +3198,23 @@ effects:
     opacity: 1.0
   1354:
     opacity: 1.0
-    effect-displacement: 96 96
+    effect-displacement: 128 128
   1355:
     opacity: 1.0
     draweffectorder: 2
     effect-displacement: 96 96
   1356:
     opacity: 1.0
-    effect-displacement: 96 96
+    effect-displacement: 128 128
   1357:
     opacity: 1.0
+    effect-displacement: 128 128
   1358:
     opacity: 1.0
+    effect-displacement: 128 128
   1359:
     opacity: 1.0
+    effect-displacement: 128 128
   1360:
     opacity: 1.0
   1361:
@@ -3220,23 +3231,33 @@ effects:
     effect-displacement: 0 64
   1365:
     opacity: 1.0
+    draweffectorder: 2
+    effect-displacement: 128 128
   1366:
     opacity: 1.0
+    draweffectorder: 2
+    effect-displacement: 128 128
   1367:
     opacity: 1.0
+    draweffectorder: 2
+    effect-displacement: 128 128
   1368:
     opacity: 1.0
+    draweffectorder: 2
+    effect-displacement: 128 128
   1369:
     opacity: 1.0
+    effect-displacement: 128 128
   1370:
     opacity: 1.0
+    draweffectorder: 2
+    effect-displacement: 128 128
   1371:
     opacity: 0.8
   1372:
     opacity: 0.8
   1373:
     opacity: 1.0
-    effect-displacement: 64 64
   1374:
     opacity: 0.8
   1375:
@@ -3413,16 +3434,16 @@ effects:
     effect-displacement: 96 96
   1438:
     opacity: 1.0
-    effect-displacement: 64 0
+    effect-displacement: 96 64
   1439:
     opacity: 1.0
-    effect-displacement: 256 48
+    effect-displacement: 224 96
   1440:
     opacity: 1.0
-    effect-displacement: 64 256
+    effect-displacement: 96 224
   1441:
     opacity: 1.0
-    effect-displacement: 0 64
+    effect-displacement: 64 96
   1442:
     opacity: 1.0
     effect-displacement: 32 32
@@ -3841,6 +3862,14 @@ effects:
     effect-displacement: 122 117
   2961:
     opacity: 0.8
+  2964
+    effect-displacement: 112 159
+  2965
+    effect-displacement: 96 64
+  2966
+    effect-displacement: 159 113
+  2967
+    effect-displacement: 64 96
   2974:
     opacity: 0.8
   2976:

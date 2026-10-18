@@ -1,0 +1,100 @@
+{
+  "tool_version": "0.8.2",
+  "generated_at": "2026-09-27T14:29:56.507994-03:00",
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "dry_run": false,
+  "validation": {
+    "passed": true,
+    "errors": [],
+    "warnings": []
+  },
+  "copies": [
+    {
+      "name": "items.otb",
+      "source": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\items\\items.otb",
+      "target": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\Server-Data-Nwo\\data\\items\\items.otb",
+      "size": 1003939,
+      "sha256": "682B175ACDD68DFC0A14E1A4EEEA60DA962343BE0A5851EA418DEE76CE85736A",
+      "already_equal": true
+    },
+    {
+      "name": "items.xml",
+      "source": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\items\\items.xml",
+      "target": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\Server-Data-Nwo\\data\\items\\items.xml",
+      "size": 815301,
+      "sha256": "7507CC10FF873E5235B009AB2B528AD9BFD94B409DBF389EF10FD8E1ACAA9F20",
+      "already_equal": true
+    },
+    {
+      "name": "rme/items.otb",
+      "source": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\items\\items.otb",
+      "target": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\RME 5.0\\Editor\\data\\860\\items.otb",
+      "size": 1003939,
+      "sha256": "682B175ACDD68DFC0A14E1A4EEEA60DA962343BE0A5851EA418DEE76CE85736A",
+      "already_equal": true
+    },
+    {
+      "name": "rme/items.xml",
+      "source": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\items\\items.xml",
+      "target": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\RME 5.0\\Editor\\data\\860\\items.xml",
+      "size": 815301,
+      "sha256": "7507CC10FF873E5235B009AB2B528AD9BFD94B409DBF389EF10FD8E1ACAA9F20",
+      "already_equal": true
+    },
+    {
+      "name": "Tibia.dat",
+      "source": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.dat",
+      "target": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\nwo-otclient-mehah-4.0\\data\\things\\860\\Tibia.dat",
+      "size": 4399680,
+      "sha256": "44E96CEA20DECD665DEED5C090B0481943C9868B65AD4FD8B4D757FAC1F8A6FF",
+      "already_equal": false
+    },
+    {
+      "name": "Tibia.spr",
+      "source": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.spr",
+      "target": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\nwo-otclient-mehah-4.0\\data\\things\\860\\Tibia.spr",
+      "size": 440611983,
+      "sha256": "0DD2307D813BC6C5EEEB5209FC4828CBC562594FFA84897B702CF5569842743D",
+      "already_equal": false
+    },
+    {
+      "name": "mobile/Tibia.dat",
+      "source": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.dat",
+      "target": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\nwo-mobile\\client\\data\\things\\860\\Tibia.dat",
+      "size": 4399680,
+      "sha256": "44E96CEA20DECD665DEED5C090B0481943C9868B65AD4FD8B4D757FAC1F8A6FF",
+      "already_equal": false
+    },
+    {
+      "name": "mobile/Tibia.spr",
+      "source": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.spr",
+      "target": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\nwo-mobile\\client\\data\\things\\860\\Tibia.spr",
+      "size": 440611983,
+      "sha256": "0DD2307D813BC6C5EEEB5209FC4828CBC562594FFA84897B702CF5569842743D",
+      "already_equal": false
+    },
+    {
+      "name": "mobile/Tibia.otfi",
+      "source": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.otfi",
+      "target": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\nwo-mobile\\client\\data\\things\\860\\Tibia.otfi",
+      "size": 185,
+      "sha256": "7743548835944BC799CB871A4E5DEF84F7AF76815031871B9CE74B5EC0E8ADD3",
+      "already_equal": true
+    }
+  ],
+  "archive": {
+    "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\nwo-otclient-mehah-4.0\\data\\things\\860.rar",
+    "size": 83912537,
+    "sha256": "BE51E95174A077E01969B30BAF5CE144B8B5F17512F46297426D3F0F63A90EB3",
+    "entries": [
+      "860",
+      "860\\.gitattributes",
+      "860\\tibia.dat",
+      "860\\tibia.otfi",
+      "860\\tibia.spr"
+    ],
+    "rar_executable": "C:\\Program Files\\WinRAR\\Rar.exe"
+  },
+  "passed": true,
+  "changed": true
+}

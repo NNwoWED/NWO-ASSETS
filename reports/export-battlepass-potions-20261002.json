@@ -1,0 +1,77 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "profile": {
+    "key": "tibia-860-v2-custom-extended",
+    "client_version": 860,
+    "label": "Tibia 8.60 v2 customizado com features OTFI",
+    "dat_signature": "0x4C2C7993",
+    "spr_signature": "0x4C220594",
+    "metadata_reader": 5,
+    "otb_version_hint": "8.60"
+  },
+  "category": "items",
+  "id_kind": "server",
+  "requested_ids": [
+    14625,
+    14634
+  ],
+  "output_dir": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items",
+  "exported_count": 2,
+  "exported": [
+    {
+      "requested_id": 14625,
+      "client_id": 13746,
+      "server_ids": [
+        14625
+      ],
+      "name": "DG Stamina Potion",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        260674
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-14625_client-13746_dg-stamina-potion.png",
+      "size": 520,
+      "sha256": "888917B63D1622E3D5B344AA611426F5ED726CC6036143EACC695253D3793D29"
+    },
+    {
+      "requested_id": 14634,
+      "client_id": 13755,
+      "server_ids": [
+        14634
+      ],
+      "name": "Elixir Stamina Regen",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        254575
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-14634_client-13755_elixir-stamina-regen.png",
+      "size": 712,
+      "sha256": "4F0F1A0BB1C73BC9493643D770B22E96F11AB51A0EA4ECFA60FB91D7CEE5FB8B"
+    }
+  ],
+  "sources": {
+    "dat": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.dat",
+      "sha256": "F359292FBBC250AA22B7854A5D6AF8EAEEABA502B9CD26BE5BAE698249F01F45"
+    },
+    "spr": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.spr",
+      "sha256": "D349A20C9138527D846EB7FEC28206B32727018417209B8C6373C683FCB3AFC6"
+    }
+  },
+  "passed": true
+}

@@ -1,0 +1,424 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "profile": {
+    "key": "tibia-860-v2-custom-extended",
+    "client_version": 860,
+    "label": "Tibia 8.60 v2 customizado com features OTFI",
+    "dat_signature": "0x4C2C7993",
+    "spr_signature": "0x4C220594",
+    "metadata_reader": 5,
+    "otb_version_hint": "8.60"
+  },
+  "category": "items",
+  "id_kind": "server",
+  "requested_ids": [
+    12372,
+    12373,
+    12374,
+    12375,
+    12376,
+    12377,
+    12378,
+    12379,
+    12380,
+    12381,
+    12382,
+    12383,
+    12384,
+    12385,
+    12386,
+    12387
+  ],
+  "output_dir": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\decorative-passable-12372-12387-after-20261009",
+  "exported_count": 16,
+  "exported": [
+    {
+      "requested_id": 12372,
+      "client_id": 11495,
+      "server_ids": [
+        12372
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        40998,
+        40999
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\decorative-passable-12372-12387-after-20261009\\server-12372_client-11495.png",
+      "size": 1015,
+      "sha256": "FEB298E7BA06527C9535CA5319CD485AFE1D28139BDC2C04A687467BABE64405"
+    },
+    {
+      "requested_id": 12373,
+      "client_id": 11496,
+      "server_ids": [
+        12373
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        41000,
+        41001
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\decorative-passable-12372-12387-after-20261009\\server-12373_client-11496.png",
+      "size": 1459,
+      "sha256": "08D9FF9222B27A187921415EC14042C0F7689282051B1A021401AE3FB5660E0C"
+    },
+    {
+      "requested_id": 12374,
+      "client_id": 11497,
+      "server_ids": [
+        12374
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        41002,
+        41003
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\decorative-passable-12372-12387-after-20261009\\server-12374_client-11497.png",
+      "size": 1111,
+      "sha256": "F6DC459AD5964DA7B05B01C5EAD53D599AD68C7E450D45D2D398CA73FF43C743"
+    },
+    {
+      "requested_id": 12375,
+      "client_id": 11498,
+      "server_ids": [
+        12375
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        41004,
+        41005
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\decorative-passable-12372-12387-after-20261009\\server-12375_client-11498.png",
+      "size": 948,
+      "sha256": "E3954E7E8EE53E71B22394F7AED1361B5D3878FA2642BE723CF5E9E1DFB0FFA3"
+    },
+    {
+      "requested_id": 12376,
+      "client_id": 11499,
+      "server_ids": [
+        12376
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        41006
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\decorative-passable-12372-12387-after-20261009\\server-12376_client-11499.png",
+      "size": 1339,
+      "sha256": "C94BBCA0C55301C72B8F7FB1F281056D790BE2A7640DCD5396F472B50196ECE0"
+    },
+    {
+      "requested_id": 12377,
+      "client_id": 11500,
+      "server_ids": [
+        12377
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        41007,
+        41008
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\decorative-passable-12372-12387-after-20261009\\server-12377_client-11500.png",
+      "size": 992,
+      "sha256": "09A26289F6FF298A894EC5DB409295D81AE127C9C12E4FACEA36914AB832187B"
+    },
+    {
+      "requested_id": 12378,
+      "client_id": 11501,
+      "server_ids": [
+        12378
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        41009,
+        40999,
+        41010,
+        0
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\decorative-passable-12372-12387-after-20261009\\server-12378_client-11501.png",
+      "size": 1268,
+      "sha256": "4FF7D4E62B8CB829830CD140DCE9EBFB002D16D08579696834D8E2561FCACFC4"
+    },
+    {
+      "requested_id": 12379,
+      "client_id": 11502,
+      "server_ids": [
+        12379
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        41011,
+        41012
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\decorative-passable-12372-12387-after-20261009\\server-12379_client-11502.png",
+      "size": 1529,
+      "sha256": "7989560D3FE3C8E29F190C6F54D5C10A2EAE28E2127398F528C385628F754135"
+    },
+    {
+      "requested_id": 12380,
+      "client_id": 11503,
+      "server_ids": [
+        12380
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        41013,
+        41014,
+        0,
+        0
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\decorative-passable-12372-12387-after-20261009\\server-12380_client-11503.png",
+      "size": 1278,
+      "sha256": "4F32C512036B9EBFB80B7755151A4F321F0D383972D93C75DBE14F28EF6BBE97"
+    },
+    {
+      "requested_id": 12381,
+      "client_id": 11504,
+      "server_ids": [
+        12381
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        41015,
+        41016,
+        41017,
+        41018
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\decorative-passable-12372-12387-after-20261009\\server-12381_client-11504.png",
+      "size": 1860,
+      "sha256": "DA4FB79ED18240071FDBD9898DB95E9BBE7299A64A096D7B03FE3BDB664ED386"
+    },
+    {
+      "requested_id": 12382,
+      "client_id": 11505,
+      "server_ids": [
+        12382
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        41019,
+        41020
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\decorative-passable-12372-12387-after-20261009\\server-12382_client-11505.png",
+      "size": 1271,
+      "sha256": "5C566FBDB820689369650A77CEF2BE924AB97CA626BA5CAE95E2431AE35F3AD4"
+    },
+    {
+      "requested_id": 12383,
+      "client_id": 11506,
+      "server_ids": [
+        12383
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        41021,
+        0
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\decorative-passable-12372-12387-after-20261009\\server-12383_client-11506.png",
+      "size": 756,
+      "sha256": "B9367C9C13064E36D599FE7E4BC0542BFF89C52CC6624CA2D8208F86185F4DFE"
+    },
+    {
+      "requested_id": 12384,
+      "client_id": 11507,
+      "server_ids": [
+        12384
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        41022,
+        41023,
+        0,
+        0
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\decorative-passable-12372-12387-after-20261009\\server-12384_client-11507.png",
+      "size": 1089,
+      "sha256": "8DF5C046919DEB0BBEEACA97D6072050074DF1128B4E5DD7C8EFEF493DEB82D6"
+    },
+    {
+      "requested_id": 12385,
+      "client_id": 11508,
+      "server_ids": [
+        12385
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        41024,
+        41025
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\decorative-passable-12372-12387-after-20261009\\server-12385_client-11508.png",
+      "size": 1353,
+      "sha256": "4BE330588A30ADB4C992E1378006F587BFEF0134E1D0F50ED4464E9B9D717F96"
+    },
+    {
+      "requested_id": 12386,
+      "client_id": 11509,
+      "server_ids": [
+        12386
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        41026,
+        0
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\decorative-passable-12372-12387-after-20261009\\server-12386_client-11509.png",
+      "size": 1183,
+      "sha256": "B3EDAF3B7566A216EDF9D0F618A649D0820DDB2AD7C2AF4F6A2C7CE6E7523582"
+    },
+    {
+      "requested_id": 12387,
+      "client_id": 11510,
+      "server_ids": [
+        12387
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        41027,
+        41028,
+        0,
+        0
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\decorative-passable-12372-12387-after-20261009\\server-12387_client-11510.png",
+      "size": 1313,
+      "sha256": "D15F8EF59E4951C54492E3257574C491507BD4CD810ADC98DCBD3CF342C8E017"
+    }
+  ],
+  "sources": {
+    "dat": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.dat",
+      "sha256": "536665C41A34DCDAD1B5D0BB5D225D922FC858164627B5AD3D0CBDB10283C1BE"
+    },
+    "spr": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.spr",
+      "sha256": "D44F151E92EAF8A5456A8E7ED877F02566BF3DCE00C067A3D7A800277401747C"
+    }
+  },
+  "passed": true
+}

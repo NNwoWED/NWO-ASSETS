@@ -1,0 +1,123 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "profile": {
+    "key": "tibia-860-v2-custom-extended",
+    "client_version": 860,
+    "label": "Tibia 8.60 v2 customizado com features OTFI",
+    "dat_signature": "0x4C2C7993",
+    "spr_signature": "0x4C220594",
+    "metadata_reader": 5,
+    "otb_version_hint": "8.60"
+  },
+  "category": "items",
+  "id_kind": "server",
+  "requested_ids": [
+    7411,
+    7426,
+    7429,
+    7458
+  ],
+  "output_dir": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items",
+  "exported_count": 4,
+  "exported": [
+    {
+      "requested_id": 7411,
+      "client_id": 7411,
+      "server_ids": [
+        7411
+      ],
+      "name": "Ornamented axe",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        266179
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-7411_client-7411_ornamented-axe.png",
+      "size": 540,
+      "sha256": "74D42B1D47A5B5FF9F7AE5DCD5F3093E0FFA612074A610FE401CA96DEEDF6076"
+    },
+    {
+      "requested_id": 7426,
+      "client_id": 7426,
+      "server_ids": [
+        7426
+      ],
+      "name": "Amber staff",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        266180
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-7426_client-7426_amber-staff.png",
+      "size": 463,
+      "sha256": "10537CA4F9AD5FA07C28BA15BC0C21C151315A19095119A09ACD48E3E7BC6CEB"
+    },
+    {
+      "requested_id": 7429,
+      "client_id": 7429,
+      "server_ids": [
+        7429
+      ],
+      "name": "Nidaime Boots",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        266181
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-7429_client-7429_nidaime-boots.png",
+      "size": 299,
+      "sha256": "237B264B7C06CF0721B064BF2693CCFA9063B4F1D12A7AFA3CFD5D80EFFE417E"
+    },
+    {
+      "requested_id": 7458,
+      "client_id": 7458,
+      "server_ids": [
+        7458
+      ],
+      "name": "Fur cap",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        266182
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-7458_client-7458_fur-cap.png",
+      "size": 586,
+      "sha256": "32C39DFDAFD3EA924DFB81BFFDB264DADE6DE17F8A33424D805F70F6A6EFF909"
+    }
+  ],
+  "sources": {
+    "dat": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.dat",
+      "sha256": "65E5DD4A480A4771227B78593F96FDAE40DF97511ACEFE113D99EB830D3FC045"
+    },
+    "spr": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.spr",
+      "sha256": "0DE36A4285C282A6DF7B0CB2DC24F9A93CC54CDC1F8418C19C19560DBF5D6953"
+    }
+  },
+  "passed": true
+}

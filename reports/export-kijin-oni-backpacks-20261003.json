@@ -1,0 +1,88 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "profile": {
+    "key": "tibia-860-v2-custom-extended",
+    "client_version": 860,
+    "label": "Tibia 8.60 v2 customizado com features OTFI",
+    "dat_signature": "0x4C2C7993",
+    "spr_signature": "0x4C220594",
+    "metadata_reader": 5,
+    "otb_version_hint": "8.60"
+  },
+  "category": "items",
+  "id_kind": "server",
+  "requested_ids": [
+    14638,
+    14640
+  ],
+  "output_dir": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\kijin-oni-backpacks-20261003",
+  "exported_count": 2,
+  "exported": [
+    {
+      "requested_id": 14638,
+      "client_id": 13759,
+      "server_ids": [
+        14638
+      ],
+      "name": "Kijin Backpack",
+      "group_index": 0,
+      "width": 32,
+      "height": 384,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 12,
+      "sprite_ids": [
+        272350,
+        272351,
+        272352,
+        272353,
+        272354,
+        272355,
+        272356,
+        272357,
+        272358,
+        272359,
+        272360,
+        272361
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\kijin-oni-backpacks-20261003\\server-14638_client-13759_kijin-backpack.png",
+      "size": 4523,
+      "sha256": "4CC1EFAF884AC394A08CA46975EB9E9CDBF980C8C29C09FF813C8D02E558730C"
+    },
+    {
+      "requested_id": 14640,
+      "client_id": 13761,
+      "server_ids": [
+        14640
+      ],
+      "name": "Oni Backpack",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        272349
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\kijin-oni-backpacks-20261003\\server-14640_client-13761_oni-backpack.png",
+      "size": 777,
+      "sha256": "9F3B4230405D0A24463D6870ABD1DBD4FE64A7D0C0B699E068078202DC35547E"
+    }
+  ],
+  "sources": {
+    "dat": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.dat",
+      "sha256": "322673B546A98C4AB475BE917C5A56BEEC04734DDB365A09756D4433F55C0CE1"
+    },
+    "spr": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.spr",
+      "sha256": "5CBB761BB4D1631ED962459255B60751CD7994D4F9AC30C19C3FAFC22AA028F6"
+    }
+  },
+  "passed": true
+}

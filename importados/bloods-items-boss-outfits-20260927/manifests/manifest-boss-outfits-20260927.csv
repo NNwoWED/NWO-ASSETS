@@ -1,0 +1,11 @@
+sequence,operation,outfit_id,reference_outfit_id,source_path
+1,reserved,38,15,../sprites/adorador shukaku boss-Sheet.png
+2,reserved,39,15,../sprites/alma afogada boss.png
+3,reserved,40,15,../sprites/assassin boss-Sheet.png
+4,reserved,41,15,../sprites/duna boss-Sheet.png
+5,reserved,42,15,../sprites/marionete boss-Sheet.png
+6,reserved,43,15,../sprites/nomade perdido boss-Sheet.png
+7,reserved,44,15,../sprites/predador da nevoa profunda boss.png
+8,reserved,45,631,../sprites/sand disaster boss-Sheet.png
+9,reserved,46,15,../sprites/scorpion boss-Sheet.png
+10,reserved,47,15,../sprites/shukaku fragment boss-Sheet.png

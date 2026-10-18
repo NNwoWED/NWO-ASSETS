@@ -1,0 +1,4 @@
+sequence,operation,outfit_id,reference_outfit_id,source_path,frames_per_group,frame_durations_per_group,dat_add_flags
+1,replace,1026,1026,karasu-1026-idle6-walk6.png,6|6,75|75,animate_always
+2,replace,1028,1028,kuroari-1028-idle8-walk8.png,8|8,100|100,
+3,replace,1529,1529,sanshou-e3-idle8-walk8.png,8|8,100|300,

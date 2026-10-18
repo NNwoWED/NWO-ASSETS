@@ -1,0 +1,100 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "profile": {
+    "key": "tibia-860-v2-custom-extended",
+    "client_version": 860,
+    "label": "Tibia 8.60 v2 customizado com features OTFI",
+    "dat_signature": "0x4C2C7993",
+    "spr_signature": "0x4C220594",
+    "metadata_reader": 5,
+    "otb_version_hint": "8.60"
+  },
+  "category": "items",
+  "id_kind": "server",
+  "requested_ids": [
+    24320,
+    24321,
+    24322
+  ],
+  "output_dir": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items",
+  "exported_count": 3,
+  "exported": [
+    {
+      "requested_id": 24320,
+      "client_id": 23435,
+      "server_ids": [
+        24320
+      ],
+      "name": "Fang hood",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        213978
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-24320_client-23435_fang-hood.png",
+      "size": 646,
+      "sha256": "99D8071D38D176483226E789BCC25801E74CC0D3F866EE056C5F58465AF211F6"
+    },
+    {
+      "requested_id": 24321,
+      "client_id": 23436,
+      "server_ids": [
+        24321
+      ],
+      "name": "Fang vest",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        213036
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-24321_client-23436_fang-vest.png",
+      "size": 524,
+      "sha256": "6910A718C3E32631F40C67BAE853411AD73794E51B5582AA3149A7C743C20CB4"
+    },
+    {
+      "requested_id": 24322,
+      "client_id": 23437,
+      "server_ids": [
+        24322
+      ],
+      "name": "Fang Legs",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        213037
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-24322_client-23437_fang-legs.png",
+      "size": 629,
+      "sha256": "CFB9688971C483DEA1924DCC70F560BC9843D6343F44FF5BA47EF56CC77093F7"
+    }
+  ],
+  "sources": {
+    "dat": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.dat",
+      "sha256": "CAEEC3F46C44023FC5ACCEE8F40B4B21A59B1B05FB26806698FB8B8B73AFCA77"
+    },
+    "spr": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.spr",
+      "sha256": "C0C6874D1C9C584F90697B538354F02B7E1FEB3F54CA31C825D787A0F8B476C8"
+    }
+  },
+  "passed": true
+}

@@ -1,0 +1,2 @@
+sequence,operation,outfit_id,reference_outfit_id,source_path,frames_per_group,frame_durations_per_group
+1,replace,1028,1028,kuroari-1028-idle2-walk2.png,2|2,100|100

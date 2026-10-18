@@ -1,0 +1,4 @@
+sequence,operation,outfit_id,reference_outfit_id,source_path,frames,frame_duration_ms
+1,replace,1524,1524,kid_zabuza_golpe_10_frames_512.png,10,100
+2,replace,1526,1526,adulto_zabuza_golpe_10_frames.png,10,100
+3,replace,1528,1528,zabuza_lua_sangrenta_golpe_10_frames.png,10,100

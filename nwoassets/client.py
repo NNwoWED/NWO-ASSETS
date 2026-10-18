@@ -181,6 +181,7 @@ def inspect_dat(
     multi_tile_records = 0
     animated_records = 0
     max_sprites_in_group = 0
+    max_sprites_in_record = 0
     item_section_end = 12
 
     for category, first_id, last_id in category_ranges:
@@ -202,6 +203,7 @@ def inspect_dat(
                     f"{path}: quantidade de frame groups inválida ({group_count}) "
                     f"em {category} {thing_id}, offset {reader.position - 1}"
                 )
+            record_sprite_count = 0
             for _ in range(group_count):
                 if otfi.frame_groups and category == "outfits":
                     reader.u8()  # frame group type
@@ -237,10 +239,12 @@ def inspect_dat(
                 total_sprites = 1
                 for value in dimensions:
                     total_sprites *= value
-                if total_sprites > otfi.sprite_data_size:
+                record_sprite_count += total_sprites
+                if record_sprite_count > otfi.sprite_data_size:
                     raise FormatError(
                         f"{path}: {category} {thing_id} referencia "
-                        f"{total_sprites} sprites; limite {otfi.sprite_data_size}"
+                        f"{record_sprite_count} sprites entre todos os frame groups; "
+                        f"limite {otfi.sprite_data_size}"
                     )
                 max_sprites_in_group = max(max_sprites_in_group, total_sprites)
                 if frames > 1:
@@ -259,6 +263,7 @@ def inspect_dat(
                                 f"{path}: {category} {thing_id} referencia Sprite ID "
                                 f"{sprite_id}, acima do count SPR {sprite_count}"
                             )
+            max_sprites_in_record = max(max_sprites_in_record, record_sprite_count)
             record_counts[category] += 1
         if category == "items":
             item_section_end = reader.position
@@ -284,6 +289,7 @@ def inspect_dat(
             "multi_tile_groups": multi_tile_records,
             "animated_groups": animated_records,
             "max_sprites_in_group": max_sprites_in_group,
+            "max_sprites_in_record": max_sprites_in_record,
             "sprite_reference_count": sprite_reference_count,
             "unique_nonzero_sprite_ids": len(referenced_sprites),
             "zero_sprite_references": zero_sprite_references,

@@ -1,0 +1,55 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "profile": {
+    "key": "tibia-860-v2-custom-extended",
+    "client_version": 860,
+    "label": "Tibia 8.60 v2 customizado com features OTFI",
+    "dat_signature": "0x4C2C7993",
+    "spr_signature": "0x4C220594",
+    "metadata_reader": 5,
+    "otb_version_hint": "8.60"
+  },
+  "category": "items",
+  "id_kind": "server",
+  "requested_ids": [
+    12379
+  ],
+  "output_dir": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\audit-target-block-20261009",
+  "exported_count": 1,
+  "exported": [
+    {
+      "requested_id": 12379,
+      "client_id": 11502,
+      "server_ids": [
+        12379
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        41011,
+        41012
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\audit-target-block-20261009\\server-12379_client-11502.png",
+      "size": 1529,
+      "sha256": "7989560D3FE3C8E29F190C6F54D5C10A2EAE28E2127398F528C385628F754135"
+    }
+  ],
+  "sources": {
+    "dat": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.dat",
+      "sha256": "8EDEC51C3AF73012868FBF29341587A3C611D5C6FD872C51EDD797A79E390102"
+    },
+    "spr": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.spr",
+      "sha256": "D44F151E92EAF8A5456A8E7ED877F02566BF3DCE00C067A3D7A800277401747C"
+    }
+  },
+  "passed": true
+}

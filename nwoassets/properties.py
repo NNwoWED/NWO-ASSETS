@@ -47,7 +47,12 @@ OTB_FLAG_NAMES = {
     27: "walkable_water",
 }
 OTB_FLAG_VALUES = {name: 1 << bit for bit, name in OTB_FLAG_NAMES.items()}
-DAT_FLAG_VALUES = {name: value for value, name in FLAG_NAMES_860.items() if value in _NO_PAYLOAD}
+DAT_ADD_FLAG_VALUES = {
+    name: value for value, name in FLAG_NAMES_860.items() if value in _NO_PAYLOAD
+}
+# A known payload property can be removed as one complete parsed chunk. Adding
+# one remains forbidden because that would require inventing its payload value.
+DAT_REMOVE_FLAG_VALUES = {name: value for value, name in FLAG_NAMES_860.items()}
 
 
 @dataclass(frozen=True)
@@ -86,8 +91,18 @@ def read_property_manifest(path: Path) -> list[PropertyEdit]:
                 client_id = int(raw_client) if raw_client else None
             except (TypeError, ValueError) as exc:
                 raise FormatError(f"linha {row_number}: IDs ou sequência inválidos") from exc
-            dat_add = _parse_names(row.get("dat_add_flags") or "", DAT_FLAG_VALUES, "dat_add_flags", row_number)
-            dat_remove = _parse_names(row.get("dat_remove_flags") or "", DAT_FLAG_VALUES, "dat_remove_flags", row_number)
+            dat_add = _parse_names(
+                row.get("dat_add_flags") or "",
+                DAT_ADD_FLAG_VALUES,
+                "dat_add_flags",
+                row_number,
+            )
+            dat_remove = _parse_names(
+                row.get("dat_remove_flags") or "",
+                DAT_REMOVE_FLAG_VALUES,
+                "dat_remove_flags",
+                row_number,
+            )
             otb_add_values = _parse_names(row.get("otb_add_flags") or "", OTB_FLAG_VALUES, "otb_add_flags", row_number)
             otb_remove_values = _parse_names(row.get("otb_remove_flags") or "", OTB_FLAG_VALUES, "otb_remove_flags", row_number)
             if dat_add & dat_remove or otb_add_values & otb_remove_values:

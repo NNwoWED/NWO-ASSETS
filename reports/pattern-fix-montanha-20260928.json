@@ -1,0 +1,1942 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "manifest": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\montanha-pattern-fix-20260928\\repair-montanha-patterns-20260928.csv",
+  "item_count": 69,
+  "spr_unchanged": true,
+  "items": [
+    {
+      "sequence": 1,
+      "server_id": 25410,
+      "client_id": 24525,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\montanha-pattern-fix-20260928\\item_21669_.png",
+      "source_sha256": "DC79FDDF71BFD140A44ADAC40071F1CABFC606B03B755AC2C8EF4FCA87658591",
+      "old_layout": {
+        "width": 4,
+        "height": 2,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "new_layout": {
+        "width": 2,
+        "height": 2,
+        "layers": 1,
+        "pattern_x": 2,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "sprite_ids_reused": 6,
+      "sprite_hash": "F49DD2A76C950A63D87D07C3332CE996"
+    },
+    {
+      "sequence": 2,
+      "server_id": 25411,
+      "client_id": 24526,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\montanha-pattern-fix-20260928\\item_21670_.png",
+      "source_sha256": "B990A40B6B45973EDC7CCEB338E637B7EAF845710AE274EC21963BAA8228682A",
+      "old_layout": {
+        "width": 4,
+        "height": 2,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "new_layout": {
+        "width": 2,
+        "height": 2,
+        "layers": 1,
+        "pattern_x": 2,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "sprite_ids_reused": 8,
+      "sprite_hash": "91BE61069D0A412D2DE097E67FBFA9A3"
+    },
+    {
+      "sequence": 3,
+      "server_id": 25412,
+      "client_id": 24527,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\montanha-pattern-fix-20260928\\item_21671_.png",
+      "source_sha256": "2AD77103F7980CF95525B71E43E87D49B0E7D5A7BBD1762F3E3A8632B8F5AD73",
+      "old_layout": {
+        "width": 2,
+        "height": 4,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "new_layout": {
+        "width": 2,
+        "height": 2,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 2,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "sprite_ids_reused": 5,
+      "sprite_hash": "536DC52AB6EEF8FAC682130C6A54D452"
+    },
+    {
+      "sequence": 4,
+      "server_id": 25413,
+      "client_id": 24528,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\montanha-pattern-fix-20260928\\item_21672_.png",
+      "source_sha256": "C4162DE1B4475BBABCC7EDE9D976009945FC2D3DB86D7C7D47D39B7D8BA7E28A",
+      "old_layout": {
+        "width": 1,
+        "height": 4,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "new_layout": {
+        "width": 1,
+        "height": 2,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 2,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "sprite_ids_reused": 3,
+      "sprite_hash": "12FCFE623CB6D4F880582F5F6B53F629"
+    },
+    {
+      "sequence": 5,
+      "server_id": 25414,
+      "client_id": 24529,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\montanha-pattern-fix-20260928\\item_21673_.png",
+      "source_sha256": "7993E9AC663F5D666390451E5816CB521B7D78195C94485C05EEB20DDAE8FAC8",
+      "old_layout": {
+        "width": 4,
+        "height": 2,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "new_layout": {
+        "width": 2,
+        "height": 2,
+        "layers": 1,
+        "pattern_x": 2,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "sprite_ids_reused": 5,
+      "sprite_hash": "1A44E9E949DFDCF1B135F9D41FD53D8C"
+    },
+    {
+      "sequence": 6,
+      "server_id": 25415,
+      "client_id": 24530,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\montanha-pattern-fix-20260928\\item_21674_.png",
+      "source_sha256": "929B8867F85C02831C829FA552D8EE5990E96766D15F1485CC860D0D54D40B8B",
+      "old_layout": {
+        "width": 4,
+        "height": 1,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "new_layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "pattern_x": 4,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "sprite_ids_reused": 3,
+      "sprite_hash": "0078C8C6B608009EBA88E6D36EE0D26E"
+    },
+    {
+      "sequence": 7,
+      "server_id": 25416,
+      "client_id": 24531,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\montanha-pattern-fix-20260928\\item_21675_.png",
+      "source_sha256": "320B71002A4CF22EF82B326F1C25EEE1401969BD6E0791E25B08B0316FBB55B6",
+      "old_layout": {
+        "width": 2,
+        "height": 4,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "new_layout": {
+        "width": 2,
+        "height": 2,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 2,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "sprite_ids_reused": 6,
+      "sprite_hash": "23E88E73018099B1BD98C754F656FE3E"
+    },
+    {
+      "sequence": 8,
+      "server_id": 25417,
+      "client_id": 24532,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\montanha-pattern-fix-20260928\\item_21676_.png",
+      "source_sha256": "7706037590B7609C6CAC415AB40ACB7EE298B41208BCE051A0A85FF71D2828FE",
+      "old_layout": {
+        "width": 2,
+        "height": 4,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "new_layout": {
+        "width": 2,
+        "height": 2,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 2,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "sprite_ids_reused": 6,
+      "sprite_hash": "C409C6E150AF2BD8A5083CADD8759D04"
+    },
+    {
+      "sequence": 9,
+      "server_id": 25472,
+      "client_id": 24587,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\montanha-pattern-fix-20260928\\item_22132_.png",
+      "source_sha256": "B91D7ACA3566663FA232C57431E3154FE0AAA958C8F0C46E1CCD584EF9B51110",
+      "old_layout": {
+        "width": 2,
+        "height": 2,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 36
+      },
+      "new_layout": {
+        "width": 2,
+        "height": 2,
+        "layers": 1,
+        "pattern_x": 6,
+        "pattern_y": 6,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "sprite_ids_reused": 24,
+      "sprite_hash": "68CE3367F20A871138A05B2ABA96F2C5"
+    },
+    {
+      "sequence": 10,
+      "server_id": 25473,
+      "client_id": 24588,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\montanha-pattern-fix-20260928\\item_22133_.png",
+      "source_sha256": "8161F054082835335351886E1775553937107B42C2FB3EEBB401573A593A8129",
+      "old_layout": {
+        "width": 2,
+        "height": 2,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 36
+      },
+      "new_layout": {
+        "width": 2,
+        "height": 2,
+        "layers": 1,
+        "pattern_x": 6,
+        "pattern_y": 6,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "sprite_ids_reused": 24,
+      "sprite_hash": "033C2BD98DBA9448FFFE7C915CC4345E"
+    },
+    {
+      "sequence": 11,
+      "server_id": 25474,
+      "client_id": 24589,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\montanha-pattern-fix-20260928\\item_22134_.png",
+      "source_sha256": "32EAE7981CDD4C2222BD1D7B2233A1AF8F828A1547C554106F97EE05B6AE0B47",
+      "old_layout": {
+        "width": 2,
+        "height": 2,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 8
+      },
+      "new_layout": {
+        "width": 2,
+        "height": 2,
+        "layers": 1,
+        "pattern_x": 8,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "sprite_ids_reused": 18,
+      "sprite_hash": "54FF1BB1601E7D79DC3AC4D13924EE1B"
+    },
+    {
+      "sequence": 12,
+      "server_id": 25475,
+      "client_id": 24590,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\montanha-pattern-fix-20260928\\item_22135_.png",
+      "source_sha256": "3FCB7F12B907C9C626930F3F6179F1EDAC9CD87F8CFC2B21B15DC0BBC8AF1F98",
+      "old_layout": {
+        "width": 2,
+        "height": 2,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 8
+      },
+      "new_layout": {
+        "width": 2,
+        "height": 2,
+        "layers": 1,
+        "pattern_x": 2,
+        "pattern_y": 4,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "sprite_ids_reused": 18,
+      "sprite_hash": "A608E545B2DCC82003D448DAE8FE9DF0"
+    },
+    {
+      "sequence": 13,
+      "server_id": 25477,
+      "client_id": 24592,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\montanha-pattern-fix-20260928\\item_22137_.png",
+      "source_sha256": "B3F021609B8B9ADD50A9C3330B683DB8CF0B06BF0EE01B596CB55710D54156F5",
+      "old_layout": {
+        "width": 2,
+        "height": 2,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 12
+      },
+      "new_layout": {
+        "width": 2,
+        "height": 2,
+        "layers": 1,
+        "pattern_x": 12,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "sprite_ids_reused": 30,
+      "sprite_hash": "DBAFF458DFF82E5849E8FE562E866FB6"
+    },
+    {
+      "sequence": 14,
+      "server_id": 25478,
+      "client_id": 24593,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\montanha-pattern-fix-20260928\\item_22138_.png",
+      "source_sha256": "9B095591A7ACAC195A02759EB378958683FA1F736FCB0D261863A1637E89A04B",
+      "old_layout": {
+        "width": 2,
+        "height": 2,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 12
+      },
+      "new_layout": {
+        "width": 2,
+        "height": 2,
+        "layers": 1,
+        "pattern_x": 12,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "sprite_ids_reused": 24,
+      "sprite_hash": "6E461F84D8B3999D49CF018C002E18B4"
+    },
+    {
+      "sequence": 15,
+      "server_id": 25479,
+      "client_id": 24594,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\montanha-pattern-fix-20260928\\item_22139_.png",
+      "source_sha256": "9B160C639015CDCF162AFED3BAFDA64AC97D8050B0D0A49246F70960ADCD1DE0",
+      "old_layout": {
+        "width": 2,
+        "height": 2,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 12
+      },
+      "new_layout": {
+        "width": 2,
+        "height": 2,
+        "layers": 1,
+        "pattern_x": 12,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "sprite_ids_reused": 21,
+      "sprite_hash": "3E9E827A76ECD7E7ABA1240CF110CC4F"
+    },
+    {
+      "sequence": 16,
+      "server_id": 25480,
+      "client_id": 24595,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\montanha-pattern-fix-20260928\\item_22140_.png",
+      "source_sha256": "19E2D26ED845D62010DE2F8D20728618AA823AAB73027782E83A2EADF06D270C",
+      "old_layout": {
+        "width": 24,
+        "height": 4,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "new_layout": {
+        "width": 2,
+        "height": 2,
+        "layers": 1,
+        "pattern_x": 12,
+        "pattern_y": 2,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "sprite_ids_reused": 30,
+      "sprite_hash": "1253A82E36D328E55BBD2DBFEB25727F"
+    },
+    {
+      "sequence": 17,
+      "server_id": 25481,
+      "client_id": 24596,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\montanha-pattern-fix-20260928\\item_22141_.png",
+      "source_sha256": "495EEFBC9429908A4B93AC0283EBBB719BB76C8CE7125D06F11FD4249A9923F1",
+      "old_layout": {
+        "width": 4,
+        "height": 8,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "new_layout": {
+        "width": 2,
+        "height": 2,
+        "layers": 1,
+        "pattern_x": 2,
+        "pattern_y": 4,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "sprite_ids_reused": 20,
+      "sprite_hash": "79016667B3C716422934DE343A8C7C32"
+    },
+    {
+      "sequence": 18,
+      "server_id": 25482,
+      "client_id": 24597,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\montanha-pattern-fix-20260928\\item_22142_.png",
+      "source_sha256": "33AC43167D4B4528B9D64A38A9364F49EB5C81638DC5104BAF6F9FDD21D005A3",
+      "old_layout": {
+        "width": 24,
+        "height": 4,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "new_layout": {
+        "width": 2,
+        "height": 2,
+        "layers": 1,
+        "pattern_x": 12,
+        "pattern_y": 2,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "sprite_ids_reused": 58,
+      "sprite_hash": "1ED1F2DBF58844C73BC2337285EED7DD"
+    },
+    {
+      "sequence": 19,
+      "server_id": 25483,
+      "client_id": 24598,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\montanha-pattern-fix-20260928\\item_22143_.png",
+      "source_sha256": "D316AC44037B3F5938394D9B31AD8CEBB0F0949E1A890A185D183C9BC52CD6B4",
+      "old_layout": {
+        "width": 8,
+        "height": 12,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "new_layout": {
+        "width": 2,
+        "height": 2,
+        "layers": 1,
+        "pattern_x": 4,
+        "pattern_y": 6,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "sprite_ids_reused": 54,
+      "sprite_hash": "79CE86503E429E87CEF126D2D7D1706D"
+    },
+    {
+      "sequence": 20,
+      "server_id": 25484,
+      "client_id": 24599,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\montanha-pattern-fix-20260928\\item_22144_.png",
+      "source_sha256": "B5627E292DAA9F85C1EAF61E8819A527CE91F01C964E0C55C17D8CE5437F90B0",
+      "old_layout": {
+        "width": 10,
+        "height": 10,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "new_layout": {
+        "width": 2,
+        "height": 2,
+        "layers": 1,
+        "pattern_x": 5,
+        "pattern_y": 5,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "sprite_ids_reused": 6,
+      "sprite_hash": "AC8E98D5FD4DCE1C258FDC39F730616E"
+    },
+    {
+      "sequence": 21,
+      "server_id": 25485,
+      "client_id": 24600,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\montanha-pattern-fix-20260928\\item_22145_.png",
+      "source_sha256": "DD981EF9FFACB92847FE8416193106EBB4239E898ABCBF46E46BF06065A30BDD",
+      "old_layout": {
+        "width": 4,
+        "height": 12,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "new_layout": {
+        "width": 2,
+        "height": 2,
+        "layers": 1,
+        "pattern_x": 2,
+        "pattern_y": 6,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "sprite_ids_reused": 21,
+      "sprite_hash": "99CF1D24BBFE2DB5AAABB5AD9A5EACD2"
+    },
+    {
+      "sequence": 22,
+      "server_id": 25486,
+      "client_id": 24601,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\montanha-pattern-fix-20260928\\item_22146_.png",
+      "source_sha256": "6C58EB9128CBC577A8B6882B1CC1EC542135A8364D626724C48D9C9D421B0C07",
+      "old_layout": {
+        "width": 8,
+        "height": 8,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "new_layout": {
+        "width": 2,
+        "height": 2,
+        "layers": 1,
+        "pattern_x": 4,
+        "pattern_y": 4,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "sprite_ids_reused": 16,
+      "sprite_hash": "378436DD8A42BEEC7756EE1B8183687A"
+    },
+    {
+      "sequence": 23,
+      "server_id": 25487,
+      "client_id": 24602,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\montanha-pattern-fix-20260928\\item_22147_.png",
+      "source_sha256": "7FFB107FB9DF5D5640C22565FF83C97C5C702B703D2A172B9AFE970FD974992F",
+      "old_layout": {
+        "width": 12,
+        "height": 12,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "new_layout": {
+        "width": 2,
+        "height": 2,
+        "layers": 1,
+        "pattern_x": 6,
+        "pattern_y": 6,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "sprite_ids_reused": 24,
+      "sprite_hash": "7FA3A58C2FB623E6A54CCFE5A89F9A95"
+    },
+    {
+      "sequence": 24,
+      "server_id": 25496,
+      "client_id": 24611,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\montanha-pattern-fix-20260928\\item_22156_.png",
+      "source_sha256": "1E88BDF235CCA29FFED6523BC61BE915E6AEC5DE4B9FA6109D65862920AF8218",
+      "old_layout": {
+        "width": 14,
+        "height": 2,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "new_layout": {
+        "width": 2,
+        "height": 2,
+        "layers": 1,
+        "pattern_x": 7,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "sprite_ids_reused": 19,
+      "sprite_hash": "C30C39A7FA3CEDC4C81629FE72C49234"
+    },
+    {
+      "sequence": 25,
+      "server_id": 25497,
+      "client_id": 24612,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\montanha-pattern-fix-20260928\\item_22157_.png",
+      "source_sha256": "743201BA9BBDA06DE9B63F2BEEC389854871F55BE6C4257823C25132037D5139",
+      "old_layout": {
+        "width": 14,
+        "height": 2,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "new_layout": {
+        "width": 2,
+        "height": 2,
+        "layers": 1,
+        "pattern_x": 7,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "sprite_ids_reused": 18,
+      "sprite_hash": "818C3ECE8C399EA13E5CFD9723FA358F"
+    },
+    {
+      "sequence": 26,
+      "server_id": 25498,
+      "client_id": 24613,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\montanha-pattern-fix-20260928\\item_22158_.png",
+      "source_sha256": "B298F489B6DA65BA917C377F18A1D9DB3277BCD192BC96C30D395F3B2ADF493F",
+      "old_layout": {
+        "width": 14,
+        "height": 2,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "new_layout": {
+        "width": 2,
+        "height": 2,
+        "layers": 1,
+        "pattern_x": 7,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "sprite_ids_reused": 19,
+      "sprite_hash": "596845A5A22C2EE0BB7059225AEC425A"
+    },
+    {
+      "sequence": 27,
+      "server_id": 25499,
+      "client_id": 24614,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\montanha-pattern-fix-20260928\\item_22159_.png",
+      "source_sha256": "A598C6662A426B3AA1B6820BF2B4BE9A1AA3BD553DBA9B03FD93754C8C1564DB",
+      "old_layout": {
+        "width": 14,
+        "height": 2,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "new_layout": {
+        "width": 2,
+        "height": 2,
+        "layers": 1,
+        "pattern_x": 7,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "sprite_ids_reused": 19,
+      "sprite_hash": "29CF51639546C30B30CA975C5540AE09"
+    },
+    {
+      "sequence": 28,
+      "server_id": 25500,
+      "client_id": 24615,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\montanha-pattern-fix-20260928\\item_22160_.png",
+      "source_sha256": "6443A945B3F02746F60CAAEBD69856C484166FD9932BAA3D029DE2286B30A14E",
+      "old_layout": {
+        "width": 14,
+        "height": 2,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "new_layout": {
+        "width": 2,
+        "height": 2,
+        "layers": 1,
+        "pattern_x": 7,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "sprite_ids_reused": 18,
+      "sprite_hash": "57CAAEEDF45ED63460A3B25E55E31539"
+    },
+    {
+      "sequence": 29,
+      "server_id": 25501,
+      "client_id": 24616,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\montanha-pattern-fix-20260928\\item_22161_.png",
+      "source_sha256": "EA0E940BEB7FC3798A9DB46115775E7B78AFE49B38D65A02864D7BEA8898A05B",
+      "old_layout": {
+        "width": 14,
+        "height": 2,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "new_layout": {
+        "width": 2,
+        "height": 2,
+        "layers": 1,
+        "pattern_x": 7,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "sprite_ids_reused": 19,
+      "sprite_hash": "7B7E87835E5DE37040F6A0163AB9BFB1"
+    },
+    {
+      "sequence": 30,
+      "server_id": 25502,
+      "client_id": 24617,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\montanha-pattern-fix-20260928\\item_22162_.png",
+      "source_sha256": "8254DC9000CCB9B05B1A23D8C7AF79E8A7752211846A17BCBD3D03583CF76328",
+      "old_layout": {
+        "width": 12,
+        "height": 12,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "new_layout": {
+        "width": 2,
+        "height": 2,
+        "layers": 1,
+        "pattern_x": 6,
+        "pattern_y": 6,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "sprite_ids_reused": 24,
+      "sprite_hash": "7B1978BB69C786DF0DAA70BFBFB082BE"
+    },
+    {
+      "sequence": 31,
+      "server_id": 25503,
+      "client_id": 24618,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\montanha-pattern-fix-20260928\\item_22163_.png",
+      "source_sha256": "B046442F0A3C395DFE57C2CEBFB7E96F34F0D09026D78F946C5253CE74EED663",
+      "old_layout": {
+        "width": 2,
+        "height": 14,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "new_layout": {
+        "width": 2,
+        "height": 2,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 7,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "sprite_ids_reused": 19,
+      "sprite_hash": "6EAD057124D454AB2A881323A3997108"
+    },
+    {
+      "sequence": 32,
+      "server_id": 25504,
+      "client_id": 24619,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\montanha-pattern-fix-20260928\\item_22164_.png",
+      "source_sha256": "F50737E346090F262251D4D6311BD88E5F8EFC65BF73D55B13FA794C079E45C8",
+      "old_layout": {
+        "width": 2,
+        "height": 14,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "new_layout": {
+        "width": 2,
+        "height": 2,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 7,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "sprite_ids_reused": 18,
+      "sprite_hash": "E23E2C81CA4201F71CD1F3821C32FAD8"
+    },
+    {
+      "sequence": 33,
+      "server_id": 25505,
+      "client_id": 24620,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\montanha-pattern-fix-20260928\\item_22165_.png",
+      "source_sha256": "9972045D481FF5DF2068BC84834B2022142AD933D4D5457E2FE5D4E3B314EC37",
+      "old_layout": {
+        "width": 2,
+        "height": 14,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "new_layout": {
+        "width": 2,
+        "height": 2,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 7,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "sprite_ids_reused": 19,
+      "sprite_hash": "A81CF2CAA5FD421840D8E5D6A0BFBF60"
+    },
+    {
+      "sequence": 34,
+      "server_id": 25506,
+      "client_id": 24621,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\montanha-pattern-fix-20260928\\item_22166_.png",
+      "source_sha256": "89D9CF131FB83D47BCEA5C1905A6D4B823E38AD927CDD175CE533B83ED5FBA4B",
+      "old_layout": {
+        "width": 2,
+        "height": 14,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "new_layout": {
+        "width": 2,
+        "height": 2,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 7,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "sprite_ids_reused": 19,
+      "sprite_hash": "24979F871BFB03C1F6553F599BB5AB5B"
+    },
+    {
+      "sequence": 35,
+      "server_id": 25507,
+      "client_id": 24622,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\montanha-pattern-fix-20260928\\item_22167_.png",
+      "source_sha256": "D96FA412B3C1B2B1AC72B1D1CBB6F1FD66FB34CBB98689F5F9A8E782D36250CC",
+      "old_layout": {
+        "width": 2,
+        "height": 14,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "new_layout": {
+        "width": 2,
+        "height": 2,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 7,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "sprite_ids_reused": 18,
+      "sprite_hash": "EB5C524E15B64719BBC41B0D8F380868"
+    },
+    {
+      "sequence": 36,
+      "server_id": 25508,
+      "client_id": 24623,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\montanha-pattern-fix-20260928\\item_22168_.png",
+      "source_sha256": "EADF160E223B2ED122D628FE87E34AB3BC668C995DE456FA73D541ED1612B01F",
+      "old_layout": {
+        "width": 2,
+        "height": 14,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "new_layout": {
+        "width": 2,
+        "height": 2,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 7,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "sprite_ids_reused": 19,
+      "sprite_hash": "D355C099E87DB03059EEB4E3A7947512"
+    },
+    {
+      "sequence": 37,
+      "server_id": 25509,
+      "client_id": 24624,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\montanha-pattern-fix-20260928\\item_22169_.png",
+      "source_sha256": "6D09D500DFAAD9B8A2D23171D1A27697E95CC45B3641E932291DA03AB2E682C8",
+      "old_layout": {
+        "width": 12,
+        "height": 12,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "new_layout": {
+        "width": 2,
+        "height": 2,
+        "layers": 1,
+        "pattern_x": 6,
+        "pattern_y": 6,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "sprite_ids_reused": 53,
+      "sprite_hash": "4D8EB649695DB316CAC7BA059E8F579C"
+    },
+    {
+      "sequence": 38,
+      "server_id": 25511,
+      "client_id": 24626,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\montanha-pattern-fix-20260928\\item_22171_.png",
+      "source_sha256": "DC8AD7775E27320957750A5D5C57EBA9BF99789856EC6FDAF0598CF4B93FDFC6",
+      "old_layout": {
+        "width": 7,
+        "height": 2,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "new_layout": {
+        "width": 1,
+        "height": 2,
+        "layers": 1,
+        "pattern_x": 7,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "sprite_ids_reused": 14,
+      "sprite_hash": "2B7FDC1C37616D29737AF2A74E329570"
+    },
+    {
+      "sequence": 39,
+      "server_id": 25512,
+      "client_id": 24627,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\montanha-pattern-fix-20260928\\item_22172_.png",
+      "source_sha256": "66AEC32A5566B5BCBD3B5583FC03EE7119CA19D42BA52A40695965D0F9C8E7B4",
+      "old_layout": {
+        "width": 2,
+        "height": 7,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "new_layout": {
+        "width": 2,
+        "height": 1,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 7,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "sprite_ids_reused": 14,
+      "sprite_hash": "FA65543E47ED986B46AB41887A86D6B7"
+    },
+    {
+      "sequence": 40,
+      "server_id": 25513,
+      "client_id": 24628,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\montanha-pattern-fix-20260928\\item_22173_.png",
+      "source_sha256": "3F03DB27ABE195AFA4D5030B4E91F19A38F16C6AD0D1975CC66457631D57CBD5",
+      "old_layout": {
+        "width": 4,
+        "height": 4,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "new_layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "pattern_x": 4,
+        "pattern_y": 4,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "sprite_ids_reused": 16,
+      "sprite_hash": "A90B8000964499CA739ECA94D3DBCC09"
+    },
+    {
+      "sequence": 41,
+      "server_id": 25514,
+      "client_id": 24629,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\montanha-pattern-fix-20260928\\item_22174_.png",
+      "source_sha256": "37864ED050BCC4AEEE56116841BC7974CABD3D78FC93A6720E719E142B00842A",
+      "old_layout": {
+        "width": 3,
+        "height": 1,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "new_layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "pattern_x": 3,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "sprite_ids_reused": 3,
+      "sprite_hash": "5A5D413C53591E9B87789502486DE447"
+    },
+    {
+      "sequence": 42,
+      "server_id": 25515,
+      "client_id": 24630,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\montanha-pattern-fix-20260928\\item_22175_.png",
+      "source_sha256": "08F7FC43E27691954086226C16F6A36727D0B1807E9AD682F579908FDF08B7B0",
+      "old_layout": {
+        "width": 1,
+        "height": 3,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "new_layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 3,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "sprite_ids_reused": 3,
+      "sprite_hash": "B449562F007EC24B81CAFAE64C64E283"
+    },
+    {
+      "sequence": 43,
+      "server_id": 25516,
+      "client_id": 24631,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\montanha-pattern-fix-20260928\\item_22176_.png",
+      "source_sha256": "B8155ED5BA283C9A3F00E00D16C27945C4232DCC0FFAEF505BC742DDB10CB476",
+      "old_layout": {
+        "width": 3,
+        "height": 1,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "new_layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "pattern_x": 3,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "sprite_ids_reused": 3,
+      "sprite_hash": "F365FEB3B4F925A33C1B9C130450AD4C"
+    },
+    {
+      "sequence": 44,
+      "server_id": 25517,
+      "client_id": 24632,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\montanha-pattern-fix-20260928\\item_22177_.png",
+      "source_sha256": "CB1E138BC63D1A3EEE10A52F1B20C758954050D4DD6E547F2153E4D0870686BC",
+      "old_layout": {
+        "width": 1,
+        "height": 3,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "new_layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 3,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "sprite_ids_reused": 3,
+      "sprite_hash": "760E021A16FFADB170D4B64D8AD80CDE"
+    },
+    {
+      "sequence": 45,
+      "server_id": 25518,
+      "client_id": 24633,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\montanha-pattern-fix-20260928\\item_22178_.png",
+      "source_sha256": "E389755024DED692F3A8D2AAA796CA7689C707BA32A775B0A760D93164237A8D",
+      "old_layout": {
+        "width": 1,
+        "height": 4,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "new_layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 4,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "sprite_ids_reused": 4,
+      "sprite_hash": "BA7D56221982B751680371DE2F51FAE2"
+    },
+    {
+      "sequence": 46,
+      "server_id": 25519,
+      "client_id": 24634,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\montanha-pattern-fix-20260928\\item_22179_.png",
+      "source_sha256": "A987ACDD305F011DE10FE69233A3641FD74AF4C418084ECEEA376DAEC7B2BF37",
+      "old_layout": {
+        "width": 1,
+        "height": 4,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "new_layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 4,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "sprite_ids_reused": 4,
+      "sprite_hash": "8C078E467B45CED9FB6826C705E8B424"
+    },
+    {
+      "sequence": 47,
+      "server_id": 25520,
+      "client_id": 24635,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\montanha-pattern-fix-20260928\\item_22180_.png",
+      "source_sha256": "EDFD21D37A1ECC5E97A862B95C43A55EF2832ACD945C64AD08CEB31C31DD378F",
+      "old_layout": {
+        "width": 1,
+        "height": 4,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "new_layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 4,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "sprite_ids_reused": 4,
+      "sprite_hash": "8311CC912029034A3E22828FF85B27D7"
+    },
+    {
+      "sequence": 48,
+      "server_id": 25521,
+      "client_id": 24636,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\montanha-pattern-fix-20260928\\item_22181_.png",
+      "source_sha256": "678EF4A4CDE45ECE10999CFDC95786D0F079FFD2FDBB319367B70AD36B6549F1",
+      "old_layout": {
+        "width": 1,
+        "height": 4,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "new_layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 4,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "sprite_ids_reused": 4,
+      "sprite_hash": "B964C094554FBB5503FF1900177F8F83"
+    },
+    {
+      "sequence": 49,
+      "server_id": 25522,
+      "client_id": 24637,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\montanha-pattern-fix-20260928\\item_22182_.png",
+      "source_sha256": "430529A12ACEBAB9BAEFABBE0FCF0654342FFD84CD608661080C0F87A2203764",
+      "old_layout": {
+        "width": 1,
+        "height": 4,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "new_layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 4,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "sprite_ids_reused": 4,
+      "sprite_hash": "AC571E01FD5E14EFFAA7C3036FC5BD87"
+    },
+    {
+      "sequence": 50,
+      "server_id": 25523,
+      "client_id": 24638,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\montanha-pattern-fix-20260928\\item_22183_.png",
+      "source_sha256": "F330571759B643922C4E55F49D14BC21A8D95E1AD414A571F8CAAA798D518C7B",
+      "old_layout": {
+        "width": 1,
+        "height": 4,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "new_layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 4,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "sprite_ids_reused": 4,
+      "sprite_hash": "1FF1C8458DD62B8695B87263C83C0272"
+    },
+    {
+      "sequence": 51,
+      "server_id": 25524,
+      "client_id": 24639,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\montanha-pattern-fix-20260928\\item_22184_.png",
+      "source_sha256": "1D39063C99FD9D69369DBC7A5F7649E5637756CE7085A4B48C57C4BF667AF20D",
+      "old_layout": {
+        "width": 1,
+        "height": 4,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "new_layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 4,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "sprite_ids_reused": 4,
+      "sprite_hash": "87D58A1ABBCB89110C295546DF04A8EF"
+    },
+    {
+      "sequence": 52,
+      "server_id": 25525,
+      "client_id": 24640,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\montanha-pattern-fix-20260928\\item_22185_.png",
+      "source_sha256": "D82BB9B2961FACF69AAA45804BA28AC4EF79D9A2B6B29570D0119E385C39F8AF",
+      "old_layout": {
+        "width": 1,
+        "height": 4,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "new_layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 4,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "sprite_ids_reused": 4,
+      "sprite_hash": "8C966D71BA1189BCB639DD2FF39B91F8"
+    },
+    {
+      "sequence": 53,
+      "server_id": 25526,
+      "client_id": 24641,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\montanha-pattern-fix-20260928\\item_22186_.png",
+      "source_sha256": "276357BD23DEF5EE42C5202235DDB58C867753C0C784202EE513383F379F72E9",
+      "old_layout": {
+        "width": 4,
+        "height": 4,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "new_layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "pattern_x": 4,
+        "pattern_y": 4,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "sprite_ids_reused": 16,
+      "sprite_hash": "8EA37C1DB4D889208C1BFF5DC5D0BAA8"
+    },
+    {
+      "sequence": 54,
+      "server_id": 25527,
+      "client_id": 24642,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\montanha-pattern-fix-20260928\\item_22187_.png",
+      "source_sha256": "85FC7A60E078CF066157727A9F1FFC1F6841D1A8BA25DF946FB13232270ACF62",
+      "old_layout": {
+        "width": 4,
+        "height": 4,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "new_layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "pattern_x": 4,
+        "pattern_y": 4,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "sprite_ids_reused": 16,
+      "sprite_hash": "222296939512F070B72C4481B6F4C0C3"
+    },
+    {
+      "sequence": 55,
+      "server_id": 25528,
+      "client_id": 24643,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\montanha-pattern-fix-20260928\\item_22188_.png",
+      "source_sha256": "EA07C4775C10449E65157C2A28CFCF4AB06F892A214E614B8519D95A421FD82E",
+      "old_layout": {
+        "width": 4,
+        "height": 4,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "new_layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "pattern_x": 4,
+        "pattern_y": 4,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "sprite_ids_reused": 16,
+      "sprite_hash": "B3292B2BA927E7C78D0D78F3DA2EEB35"
+    },
+    {
+      "sequence": 56,
+      "server_id": 25529,
+      "client_id": 24644,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\montanha-pattern-fix-20260928\\item_22189_.png",
+      "source_sha256": "1CF53D1A2798EC5D348725DEEBE3C0DBE0783521A50CD10668E652C0E7E436D8",
+      "old_layout": {
+        "width": 4,
+        "height": 4,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "new_layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "pattern_x": 4,
+        "pattern_y": 4,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "sprite_ids_reused": 16,
+      "sprite_hash": "41420B52BA6CC550FBF67368CDB0E10D"
+    },
+    {
+      "sequence": 57,
+      "server_id": 25530,
+      "client_id": 24645,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\montanha-pattern-fix-20260928\\item_22190_.png",
+      "source_sha256": "988F221BA25341E6764DCEC5491551FC66841433F8FBC8ED1D7679B1EEA84FCE",
+      "old_layout": {
+        "width": 4,
+        "height": 4,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "new_layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "pattern_x": 4,
+        "pattern_y": 4,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "sprite_ids_reused": 16,
+      "sprite_hash": "538792AD807DC96B184C9F3376D86B51"
+    },
+    {
+      "sequence": 58,
+      "server_id": 25531,
+      "client_id": 24646,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\montanha-pattern-fix-20260928\\item_22191_.png",
+      "source_sha256": "CEB89B9BED22EB77000EE6F18113B07730A5FF203FDE4617570A9F281846246B",
+      "old_layout": {
+        "width": 4,
+        "height": 4,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "new_layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "pattern_x": 4,
+        "pattern_y": 4,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "sprite_ids_reused": 16,
+      "sprite_hash": "D6F2E339F177120B424CA518263744C6"
+    },
+    {
+      "sequence": 59,
+      "server_id": 25532,
+      "client_id": 24647,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\montanha-pattern-fix-20260928\\item_22192_.png",
+      "source_sha256": "EEEA9A8F070BBDA3A04C4CA1593F4D4E6D7D7E18C83E94772FA1FF0A3C80218E",
+      "old_layout": {
+        "width": 4,
+        "height": 4,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "new_layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "pattern_x": 4,
+        "pattern_y": 4,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "sprite_ids_reused": 16,
+      "sprite_hash": "98921BAC0620650EC12499020E970D39"
+    },
+    {
+      "sequence": 60,
+      "server_id": 25533,
+      "client_id": 24648,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\montanha-pattern-fix-20260928\\item_22193_.png",
+      "source_sha256": "68BE13B698070166C88C89E68CE35B38CF11E1C8DFD2A4109B3E8548FC12FB38",
+      "old_layout": {
+        "width": 4,
+        "height": 4,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "new_layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "pattern_x": 4,
+        "pattern_y": 4,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "sprite_ids_reused": 16,
+      "sprite_hash": "3CB7B8DEE6C9C44D6EC9C69CEAFBC420"
+    },
+    {
+      "sequence": 61,
+      "server_id": 25534,
+      "client_id": 24649,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\montanha-pattern-fix-20260928\\item_22194_.png",
+      "source_sha256": "DD4C6174F6F5202B103CCC5533A90AE60D53A57E1A3C73FDF844A5C34A3FF365",
+      "old_layout": {
+        "width": 4,
+        "height": 4,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "new_layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "pattern_x": 4,
+        "pattern_y": 4,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "sprite_ids_reused": 16,
+      "sprite_hash": "DE2B3BBAC4E82BD2C0E5FB71F463C817"
+    },
+    {
+      "sequence": 62,
+      "server_id": 25535,
+      "client_id": 24650,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\montanha-pattern-fix-20260928\\item_22195_.png",
+      "source_sha256": "A395AFD8BBDC6AC52673420718515D9C70373185D2824731A21D37540681E6F9",
+      "old_layout": {
+        "width": 4,
+        "height": 4,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "new_layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "pattern_x": 4,
+        "pattern_y": 4,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "sprite_ids_reused": 16,
+      "sprite_hash": "ED9E45497029F636363AA32322FE3087"
+    },
+    {
+      "sequence": 63,
+      "server_id": 25536,
+      "client_id": 24651,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\montanha-pattern-fix-20260928\\item_22196_.png",
+      "source_sha256": "03AB809BC84CC0025A91FA8B28D9E7A9C5446B336D15C0A6B5067B436B30F7A0",
+      "old_layout": {
+        "width": 4,
+        "height": 4,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "new_layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "pattern_x": 4,
+        "pattern_y": 4,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "sprite_ids_reused": 16,
+      "sprite_hash": "0756D4CCD33C9B33C543D10D74ACB246"
+    },
+    {
+      "sequence": 64,
+      "server_id": 25537,
+      "client_id": 24652,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\montanha-pattern-fix-20260928\\item_22197_.png",
+      "source_sha256": "42839F9019D58CD996570C2201ADE3F4766F027ECBE50506873DB1A5C95E6DBC",
+      "old_layout": {
+        "width": 4,
+        "height": 4,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "new_layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "pattern_x": 4,
+        "pattern_y": 4,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "sprite_ids_reused": 16,
+      "sprite_hash": "649F451D2A4C12D0CEA60D6C781B1685"
+    },
+    {
+      "sequence": 65,
+      "server_id": 25538,
+      "client_id": 24653,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\montanha-pattern-fix-20260928\\item_22198_.png",
+      "source_sha256": "C591984188C28D9128D5B6AA7F1405164CD3B46CB722DB64286BBB52754E0C9F",
+      "old_layout": {
+        "width": 4,
+        "height": 4,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "new_layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "pattern_x": 4,
+        "pattern_y": 4,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "sprite_ids_reused": 16,
+      "sprite_hash": "479E1847D19B16784ACDEBE214A7B535"
+    },
+    {
+      "sequence": 66,
+      "server_id": 25539,
+      "client_id": 24654,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\montanha-pattern-fix-20260928\\item_22727_.png",
+      "source_sha256": "29AC98DDC84C782ACEF0750B52FE0699F9B803F2A9291FF70FECB2A8C6D5E77C",
+      "old_layout": {
+        "width": 4,
+        "height": 4,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "new_layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "pattern_x": 4,
+        "pattern_y": 4,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "sprite_ids_reused": 11,
+      "sprite_hash": "903F83D269525B0A323EBBD7FAE8573A"
+    },
+    {
+      "sequence": 67,
+      "server_id": 25551,
+      "client_id": 24666,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\montanha-pattern-fix-20260928\\item_22739_.png",
+      "source_sha256": "AB5D64E59B39A294774D09A9E8E057BEEE4BFA2359A01DB0CE938CC9B20B2E19",
+      "old_layout": {
+        "width": 3,
+        "height": 3,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "new_layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "pattern_x": 3,
+        "pattern_y": 3,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "sprite_ids_reused": 8,
+      "sprite_hash": "6CA17BF4A1B98536D3B6FA4F23A0BF4A"
+    },
+    {
+      "sequence": 68,
+      "server_id": 25557,
+      "client_id": 24672,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\montanha-pattern-fix-20260928\\item_22745_.png",
+      "source_sha256": "B0B8AFD0AD4CFF063AA2CF3A1D8DDA504C0AF8FD87584DE8BE0B4A9955DC1E26",
+      "old_layout": {
+        "width": 2,
+        "height": 2,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "new_layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "pattern_x": 2,
+        "pattern_y": 2,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "sprite_ids_reused": 3,
+      "sprite_hash": "4B1B1C88FF2FAF290EBC392B116D101C"
+    },
+    {
+      "sequence": 69,
+      "server_id": 25561,
+      "client_id": 24676,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\montanha-pattern-fix-20260928\\item_22750_.png",
+      "source_sha256": "3FD548A3CAC101E3CFD0B805E7D147D10EA6F06E3558D18F2CCF0CF320486EC4",
+      "old_layout": {
+        "width": 8,
+        "height": 8,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "new_layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "pattern_x": 8,
+        "pattern_y": 8,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "sprite_ids_reused": 37,
+      "sprite_hash": "0F5EDB414717705A057A966FEB9AE69C"
+    }
+  ],
+  "version_backup": {
+    "tool_version": "0.8.2",
+    "version_id": "20260928-221744-907496",
+    "created_at": "2026-09-28T22:17:57.578096-03:00",
+    "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20260928-221744-907496",
+    "rar_executable": "C:\\Program Files\\WinRAR\\Rar.exe",
+    "sources": [
+      {
+        "path": "assets/860/.gitattributes",
+        "size": 43,
+        "sha256": "D5636A3257287440945C5E017581545E5B0A3E2FDDDAE7C5EF8D90FF4DF3D32A"
+      },
+      {
+        "path": "assets/860/Tibia.dat",
+        "size": 4460644,
+        "sha256": "4DBEAF1B6E5FC199C1EA664A7995996FFA2A832B2D7BA762AE8D5633AD53E77C"
+      },
+      {
+        "path": "assets/860/Tibia.otfi",
+        "size": 185,
+        "sha256": "7743548835944BC799CB871A4E5DEF84F7AF76815031871B9CE74B5EC0E8ADD3"
+      },
+      {
+        "path": "assets/860/Tibia.spr",
+        "size": 455786881,
+        "sha256": "BA5D57A1215C9B1311283D65ADD3AA73C78F87199CBDE40875107F234476E340"
+      },
+      {
+        "path": "assets/items/force use.txt",
+        "size": 419,
+        "sha256": "BCB478FDF3F45ECA8D172AFD7A17D3F8CD520924EE0894752452B8FDC8F71959"
+      },
+      {
+        "path": "assets/items/items.otb",
+        "size": 1009981,
+        "sha256": "2E527B76939DC09F4BFED074EE5D3A4FBF6E14F5A37D3D092DB7AA703EDFBAE4"
+      },
+      {
+        "path": "assets/world/mapanovo.otbm",
+        "size": 80105770,
+        "sha256": "8CDFDDF9DC2A9E53053E4F3FAF7F6825FD89B6B63EE06272ECD234B387202821"
+      }
+    ],
+    "archives": {
+      "860": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20260928-221744-907496\\860.rar",
+        "size": 85005608,
+        "sha256": "F18C169C662B3C84C2F50E49908468AE8F0B8740454F1E972750D2C9339631AB"
+      },
+      "items": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20260928-221744-907496\\items.rar",
+        "size": 481355,
+        "sha256": "BB4CF8A0A8D4F664B5208A497CEB9E48EBCAB50EED9572136C0ABF3AB76A27C0"
+      },
+      "world": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20260928-221744-907496\\world.zip",
+        "size": 19337359,
+        "sha256": "170CD29639D001F9273247C874479344E8207ECB971919AE0E8CAE14295E4A31"
+      }
+    },
+    "items_xml_excluded": true,
+    "world_entries": [
+      "mapanovo.otbm"
+    ],
+    "passed": true
+  },
+  "transaction_committed": true,
+  "final_validation_passed": true,
+  "warnings": [],
+  "errors": [],
+  "passed": true
+}

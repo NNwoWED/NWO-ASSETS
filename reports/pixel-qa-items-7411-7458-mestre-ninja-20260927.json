@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "server_id": 7411,
+      "equal": true
+    },
+    {
+      "server_id": 7426,
+      "equal": true
+    },
+    {
+      "server_id": 7429,
+      "equal": true
+    },
+    {
+      "server_id": 7458,
+      "equal": true
+    }
+  ],
+  "outfit_1021": {
+    "equal": true
+  },
+  "passed": true
+}

@@ -1,0 +1,107 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "profile": {
+    "key": "tibia-860-v2-custom-extended",
+    "client_version": 860,
+    "label": "Tibia 8.60 v2 customizado com features OTFI",
+    "dat_signature": "0x4C2C7993",
+    "spr_signature": "0x4C220594",
+    "metadata_reader": 5,
+    "otb_version_hint": "8.60"
+  },
+  "category": "items",
+  "id_kind": "server",
+  "requested_ids": [
+    25577,
+    25598
+  ],
+  "output_dir": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\split-patternx4-20261008",
+  "exported_count": 2,
+  "exported": [
+    {
+      "requested_id": 25577,
+      "client_id": 24692,
+      "server_ids": [
+        25577
+      ],
+      "name": "Rocky Terrain Wall",
+      "group_index": 0,
+      "width": 256,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 4,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        275146,
+        275147,
+        275148,
+        275149,
+        275150,
+        275151,
+        275152,
+        275153,
+        275154,
+        275155,
+        275156,
+        275157,
+        275158,
+        275159,
+        275160,
+        275161
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\split-patternx4-20261008\\server-25577_client-24692_rocky-terrain-wall.png",
+      "size": 3751,
+      "sha256": "B616E22578910D27EBFA1C4470CED70104EFE98F77AC5DCB77821BE493FDE269"
+    },
+    {
+      "requested_id": 25598,
+      "client_id": 24713,
+      "server_ids": [
+        25598
+      ],
+      "name": "Rocky Terrain Wall 2",
+      "group_index": 0,
+      "width": 256,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 4,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        275463,
+        275464,
+        275465,
+        275466,
+        275467,
+        275468,
+        275469,
+        275470,
+        275471,
+        275472,
+        275473,
+        275474,
+        275475,
+        275476,
+        275477,
+        275478
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\split-patternx4-20261008\\server-25598_client-24713_rocky-terrain-wall-2.png",
+      "size": 4171,
+      "sha256": "C85E386316AFE34EFA0BE7E143E1255C5926A89FBAF80D57DC806D904D433502"
+    }
+  ],
+  "sources": {
+    "dat": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.dat",
+      "sha256": "E727A6F8C80F5034CBBBB6C519118A62B978BDD6FF0C1E3489A39ACA067D6E0F"
+    },
+    "spr": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.spr",
+      "sha256": "FE22EC97D8DD248395A146FB68552D630BF18CB847FD5BDB80B894F6D0E2C50F"
+    }
+  },
+  "passed": true
+}

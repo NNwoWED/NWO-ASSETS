@@ -1,0 +1,463 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "manifest": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\reports\\manifest-items-bloods-etc-20260927.csv",
+  "profile": "tibia-860-v2-custom-extended",
+  "version_backup": {
+    "tool_version": "0.8.2",
+    "version_id": "20260927-151553-809808",
+    "created_at": "2026-09-27T15:16:03.655008-03:00",
+    "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20260927-151553-809808",
+    "rar_executable": "C:\\Program Files\\WinRAR\\Rar.exe",
+    "sources": [
+      {
+        "path": "assets/860/.gitattributes",
+        "size": 43,
+        "sha256": "D5636A3257287440945C5E017581545E5B0A3E2FDDDAE7C5EF8D90FF4DF3D32A"
+      },
+      {
+        "path": "assets/860/Tibia.dat",
+        "size": 4399680,
+        "sha256": "44E96CEA20DECD665DEED5C090B0481943C9868B65AD4FD8B4D757FAC1F8A6FF"
+      },
+      {
+        "path": "assets/860/Tibia.otfi",
+        "size": 185,
+        "sha256": "7743548835944BC799CB871A4E5DEF84F7AF76815031871B9CE74B5EC0E8ADD3"
+      },
+      {
+        "path": "assets/860/Tibia.spr",
+        "size": 440611983,
+        "sha256": "0DD2307D813BC6C5EEEB5209FC4828CBC562594FFA84897B702CF5569842743D"
+      },
+      {
+        "path": "assets/items/force use.txt",
+        "size": 419,
+        "sha256": "BCB478FDF3F45ECA8D172AFD7A17D3F8CD520924EE0894752452B8FDC8F71959"
+      },
+      {
+        "path": "assets/items/items.otb",
+        "size": 1003939,
+        "sha256": "682B175ACDD68DFC0A14E1A4EEEA60DA962343BE0A5851EA418DEE76CE85736A"
+      },
+      {
+        "path": "assets/world/mapanovo.otbm",
+        "size": 80105770,
+        "sha256": "8CDFDDF9DC2A9E53053E4F3FAF7F6825FD89B6B63EE06272ECD234B387202821"
+      }
+    ],
+    "archives": {
+      "860": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20260927-151553-809808\\860.rar",
+        "size": 83912483,
+        "sha256": "00F20D1C9B42975E040700EF3F1B5B51FEDD201DAB20BACBAE428B3DD9EE2952"
+      },
+      "items": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20260927-151553-809808\\items.rar",
+        "size": 477491,
+        "sha256": "27E5099C065804F965A16A581865D58EA902E3697B9BD31EDE74118177A7FD88"
+      },
+      "world": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20260927-151553-809808\\world.zip",
+        "size": 19337359,
+        "sha256": "170CD29639D001F9273247C874479344E8207ECB971919AE0E8CAE14295E4A31"
+      }
+    },
+    "items_xml_excluded": true,
+    "world_entries": [
+      "mapanovo.otbm"
+    ],
+    "passed": true
+  },
+  "sprite_hash_gate": {
+    "sample_count": 64,
+    "mismatch_count": 0,
+    "mismatches": [],
+    "passed": true
+  },
+  "item_count": 19,
+  "new_sprite_count": 19,
+  "sprite_id_range": [
+    260656,
+    260674
+  ],
+  "items": [
+    {
+      "sequence": 1,
+      "client_id": 13728,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\blood-iwagakure.png",
+      "file_sha256": "103C340B4ED9BB7F514B53ADDF4E0705257749A73E1B67856BBABFC00D5321A8",
+      "pixels_sha256": "AD88224307F9B7E0B8770F772DAE595DE35AEBB3D36AE42D2C3B6801D02117B2",
+      "image_width": 32,
+      "image_height": 32,
+      "width_tiles": 1,
+      "height_tiles": 1,
+      "frames": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_ids": [
+        260656
+      ],
+      "sprite_hash": "A60101013DF4A4FCABC9C479B6C00B2B"
+    },
+    {
+      "sequence": 2,
+      "client_id": 13729,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\blood-kirigakure.png",
+      "file_sha256": "00D8B0D6E21B20876BCC4ECF1156882F99E5E54AAD7F6494CF3F461C14CBE222",
+      "pixels_sha256": "94E0690607F402926587E7BCBCF6C1D13F04F1349F8B264B9A6C3C31C0FC909B",
+      "image_width": 32,
+      "image_height": 32,
+      "width_tiles": 1,
+      "height_tiles": 1,
+      "frames": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_ids": [
+        260657
+      ],
+      "sprite_hash": "8BCE148B45145C9FB8B4AD9ADFB87DE2"
+    },
+    {
+      "sequence": 3,
+      "client_id": 13730,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\blood-konoha.png",
+      "file_sha256": "72DD7F8AB6D75BE940984407AB86864DEE389F5E2D33B0E3F53C968B4EFD56EB",
+      "pixels_sha256": "3B24CA817274F554831AC6D863C88BBC2E7D289985A2DFA34FEB9065613CF65C",
+      "image_width": 32,
+      "image_height": 32,
+      "width_tiles": 1,
+      "height_tiles": 1,
+      "frames": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_ids": [
+        260658
+      ],
+      "sprite_hash": "98BF2F3D34041E88DFB3D79D964E8FD6"
+    },
+    {
+      "sequence": 4,
+      "client_id": 13731,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\blood-kumo.png",
+      "file_sha256": "5AD3E05FA211D224D143E813B81AFD0A13B07B48EAA780AA780A9C2D6ABE1CE2",
+      "pixels_sha256": "977ED0D4F51CB3AC870D569CCCD7B3114BE4CB91183801D9A98CB5605D5676AB",
+      "image_width": 32,
+      "image_height": 32,
+      "width_tiles": 1,
+      "height_tiles": 1,
+      "frames": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_ids": [
+        260659
+      ],
+      "sprite_hash": "856DC474C5FAF0E2B18B176B40317CA3"
+    },
+    {
+      "sequence": 5,
+      "client_id": 13732,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\blood-suna.png",
+      "file_sha256": "327E1C0B135005DD33C6B4522175075C09F5D46DB897C3ED4B7A90D6682F3C9F",
+      "pixels_sha256": "FEC2118A94D9E71E06E5E98F674D36E39998D0431E8FBE70960EFB55239307BB",
+      "image_width": 32,
+      "image_height": 32,
+      "width_tiles": 1,
+      "height_tiles": 1,
+      "frames": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_ids": [
+        260660
+      ],
+      "sprite_hash": "1CCC0D320B20FADE45A40875C4C0CCBD"
+    },
+    {
+      "sequence": 6,
+      "client_id": 13733,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\Item_Bola_de_cristal_do_Kage-zzzzz.png",
+      "file_sha256": "7E7969D43A312A741BF6478C85C658D682F2B0191B5F1F17E8CFED818D5A8648",
+      "pixels_sha256": "B2CF46BFDAAC3AD68B45FC44CBE537672160E8A28A49782A8F81441821783DF1",
+      "image_width": 32,
+      "image_height": 32,
+      "width_tiles": 1,
+      "height_tiles": 1,
+      "frames": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_ids": [
+        260661
+      ],
+      "sprite_hash": "978EABA22B54EDEDD8C5735506FC290C"
+    },
+    {
+      "sequence": 7,
+      "client_id": 13734,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\crakra-pouch.png",
+      "file_sha256": "28EAC5FD43B25E5A57759759119D8DA71B87AAE708D604B0F9C34E92ECAE0F27",
+      "pixels_sha256": "2DE41DBBDDD7AE4C43532B84AA37097A39DB61D13BEF0282BC62B8C724ADC989",
+      "image_width": 32,
+      "image_height": 32,
+      "width_tiles": 1,
+      "height_tiles": 1,
+      "frames": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_ids": [
+        260662
+      ],
+      "sprite_hash": "84C2ADAF93E96EBCBE8D34D1ECEB439F"
+    },
+    {
+      "sequence": 8,
+      "client_id": 13735,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\BP_Twitch.png",
+      "file_sha256": "B47C0FA1B9EC6736CDD7B1840BEC8F7DB7EA540EAD5C4B1C4DFD255B254DABCC",
+      "pixels_sha256": "FDC83C02E6B2556D0DE7ABAEB9D4650981C83A288124B506C01F1DBCD59179BA",
+      "image_width": 32,
+      "image_height": 32,
+      "width_tiles": 1,
+      "height_tiles": 1,
+      "frames": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_ids": [
+        260663
+      ],
+      "sprite_hash": "46D6C88611812136E5A8ADC5E0F0AAB6"
+    },
+    {
+      "sequence": 9,
+      "client_id": 13736,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\Sardinha.png",
+      "file_sha256": "05F17BA4F11CF7205C87ED4FD504747823342D6D744657A36AA98424E4DFC888",
+      "pixels_sha256": "A67F2EA4375A08276B72835FD7495929898F07663E9C00E8CE3A4B5DEFA9A6A0",
+      "image_width": 32,
+      "image_height": 32,
+      "width_tiles": 1,
+      "height_tiles": 1,
+      "frames": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_ids": [
+        260664
+      ],
+      "sprite_hash": "C0ACDDADC35BD3941E7B4786B6949FCE"
+    },
+    {
+      "sequence": 10,
+      "client_id": 13737,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\tp-home.png",
+      "file_sha256": "FBB2E8D703D5B5549A4C71D1AF55F9DD014FD04F684E623F01929702F5E917D5",
+      "pixels_sha256": "F037295BE4BA0FF9EAF51E08E8118AC98B75EF8782478F4417D86265D29149B1",
+      "image_width": 32,
+      "image_height": 32,
+      "width_tiles": 1,
+      "height_tiles": 1,
+      "frames": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_ids": [
+        260665
+      ],
+      "sprite_hash": "95936D3EE4E6FEE5013A50290A10DB7E"
+    },
+    {
+      "sequence": 11,
+      "client_id": 13738,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\tp-iwa.png",
+      "file_sha256": "9922262919CE8225A8FCD9AEF3E9D8EECD4B8D8432CD70538E45E2B562F22E4A",
+      "pixels_sha256": "DBDE99B97E4901F5F4510498F6CD7C370FD45D38BCFFF8BB35F841A570444B2E",
+      "image_width": 32,
+      "image_height": 32,
+      "width_tiles": 1,
+      "height_tiles": 1,
+      "frames": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_ids": [
+        260666
+      ],
+      "sprite_hash": "FBFAE1454F0FDCC86FD20874FB98F9C7"
+    },
+    {
+      "sequence": 12,
+      "client_id": 13739,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\tp-kiri.png",
+      "file_sha256": "5A3204A713138305446AD3487993036F10201ADF1507DCF15A3B3EAD891D9828",
+      "pixels_sha256": "9AB309AC743597AAF09D3A6E9ABCBC25620C57419D33933ED2B39A57655CA159",
+      "image_width": 32,
+      "image_height": 32,
+      "width_tiles": 1,
+      "height_tiles": 1,
+      "frames": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_ids": [
+        260667
+      ],
+      "sprite_hash": "2CEA5651022E46FB78E2348DF1B9609F"
+    },
+    {
+      "sequence": 13,
+      "client_id": 13740,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\tp-konoha.png",
+      "file_sha256": "5FED8CB94C1399997061FA857B24106CCA712890ABF77ABC4A4E34754B86F3C7",
+      "pixels_sha256": "A93AD5616BD53EFE6A43F340826897F1543656DE26692CDAB7183107DD335E50",
+      "image_width": 32,
+      "image_height": 32,
+      "width_tiles": 1,
+      "height_tiles": 1,
+      "frames": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_ids": [
+        260668
+      ],
+      "sprite_hash": "B6FCE9C4A5BD073118EF8F8A972EBDBD"
+    },
+    {
+      "sequence": 14,
+      "client_id": 13741,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\tp-kumo.png",
+      "file_sha256": "599F749DE01FDEF900122EA641BC83286810E72F77E1BCDB2D782E619C301542",
+      "pixels_sha256": "2857858F87279CD756AAF39524B96B599B8DD410FE0860A82FAF13103963D99E",
+      "image_width": 32,
+      "image_height": 32,
+      "width_tiles": 1,
+      "height_tiles": 1,
+      "frames": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_ids": [
+        260669
+      ],
+      "sprite_hash": "F59F25364A05CBBC89393A67C463DDF0"
+    },
+    {
+      "sequence": 15,
+      "client_id": 13742,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\tp-suna.png",
+      "file_sha256": "DCFB2AAD659417DF5876B36306A347F18AAC2863EA461C3B99B4874E4E6BE272",
+      "pixels_sha256": "D7C64D2280A47D85CC7053C6BDA0679E9399BA75567C0A5D4D7477C545A76795",
+      "image_width": 32,
+      "image_height": 32,
+      "width_tiles": 1,
+      "height_tiles": 1,
+      "frames": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_ids": [
+        260670
+      ],
+      "sprite_hash": "56F66BACC91CDB0ACCEB9AB7EEDDB672"
+    },
+    {
+      "sequence": 16,
+      "client_id": 13743,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\Peixe-Gato.png",
+      "file_sha256": "0100026DEB6D5D4D35FD55859D6903EAA71A0A6C52FA1DB8713630B7788A4FB3",
+      "pixels_sha256": "BD81CA4B4E21036C320EC14D518CD09F2C4FC06920367A02FCE526FE13A7FB7B",
+      "image_width": 32,
+      "image_height": 32,
+      "width_tiles": 1,
+      "height_tiles": 1,
+      "frames": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_ids": [
+        260671
+      ],
+      "sprite_hash": "C9966CB490596B34EE0124A36CDE05E2"
+    },
+    {
+      "sequence": 17,
+      "client_id": 13744,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\prata.png",
+      "file_sha256": "99AEE99294920994BADFCED4D97495FF56FD840D11F152F7A7A9A95552A43E1B",
+      "pixels_sha256": "735D6C71AA53953C32F204FA58668FA6AC63AF18915FA6D5F8898341AC4C1045",
+      "image_width": 32,
+      "image_height": 32,
+      "width_tiles": 1,
+      "height_tiles": 1,
+      "frames": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_ids": [
+        260672
+      ],
+      "sprite_hash": "7F7248AB00E84060EFE80A3C618F781C"
+    },
+    {
+      "sequence": 18,
+      "client_id": 13745,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\cobre.png",
+      "file_sha256": "2E0BDE6D2C7B241F9944393AC01BEA2C48910F2762F073D2384036598469D78E",
+      "pixels_sha256": "DF300ADED0A343659DAFAD370EF2D7F4D8C065EF4E5F8AD9696F2711B523FBDE",
+      "image_width": 32,
+      "image_height": 32,
+      "width_tiles": 1,
+      "height_tiles": 1,
+      "frames": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_ids": [
+        260673
+      ],
+      "sprite_hash": "5C0DC1C031D14CE8F852052EECE533E0"
+    },
+    {
+      "sequence": 19,
+      "client_id": 13746,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\dg-stamina-potion.png",
+      "file_sha256": "B738361E178315551B9627A380727B9C3DA6C7ABC39266AE234A1E6A905FF69C",
+      "pixels_sha256": "D35EA7DE167B592A33CA1E56E02D9CC13901A6891A2A16D6EFD08B376A7BBCBA",
+      "image_width": 32,
+      "image_height": 32,
+      "width_tiles": 1,
+      "height_tiles": 1,
+      "frames": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_ids": [
+        260674
+      ],
+      "sprite_hash": "9DA0E2FF8561015BE66E92FC2135CE0A"
+    }
+  ],
+  "otb_nodes_updated": {
+    "13728": 1,
+    "13729": 1,
+    "13730": 1,
+    "13731": 1,
+    "13732": 1,
+    "13733": 1,
+    "13734": 1,
+    "13735": 1,
+    "13736": 1,
+    "13737": 1,
+    "13738": 1,
+    "13739": 1,
+    "13740": 1,
+    "13741": 1,
+    "13742": 1,
+    "13743": 1,
+    "13744": 1,
+    "13745": 1,
+    "13746": 1
+  },
+  "transaction_committed": true,
+  "output_hashes": {
+    "dat": "031795CEB4E090D7CB508B1335CED12D6F7FA64C1095AB9E68A110BF6B3045BD",
+    "spr": "603443F71F6CDEB75078DDCEE2AB1F543BE14ADD15E94945089B3E8BA978B19A",
+    "otb": "C499B355CB6B501F9440EAF1F75816DFECF17CC6078F7983ED364C4B76EBBFEC"
+  },
+  "dat_non_targets_preserved": true,
+  "old_sprite_payload_preserved": true,
+  "new_sprite_pixels_verified": true,
+  "untouched_files_preserved": true,
+  "map_byte_equal": true,
+  "final_validation_passed": true,
+  "warnings": [],
+  "errors": [],
+  "passed": true
+}

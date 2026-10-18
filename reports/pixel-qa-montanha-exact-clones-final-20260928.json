@@ -1,0 +1,9 @@
+{
+  "source_layout": "object-builder-pattern-z-horizontal",
+  "target_layout": "canonical-dat-order-matched-to-reference-alpha-groups",
+  "compared": 154,
+  "reference_pattern_order_reconstructed": 5,
+  "reordered_source_client_ids": [22135, 22141, 22142, 22143, 22145],
+  "pixel_mismatches": [],
+  "passed": true
+}

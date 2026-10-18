@@ -45,6 +45,25 @@ class DatPropertyTests(unittest.TestCase):
         self.assertIn(b"\x00\x96\x00", rewritten)
         self.assertTrue(rewritten.endswith(outfit + plain + plain))
 
+    def test_removes_known_payload_property_without_touching_appearance(self) -> None:
+        appearance = _appearance()
+        item = b"\x04\x1C\x34\x12\xFF" + appearance
+        plain = b"\xFF" + appearance
+        outfit = b"\xFF\x01\x00" + appearance
+        original = struct.pack("<IHHHH", 1, 100, 1, 1, 1) + item + outfit + plain + plain
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory)
+            source = root / "source.dat"
+            output = root / "output.dat"
+            source.write_bytes(original)
+            changes = write_dat_item_flags(source, output, OTFI, {100: (set(), {0x1C})})
+            flags = dat_item_flags(output.read_bytes(), OTFI, str(output))
+            rewritten = output.read_bytes()
+        self.assertEqual(changes[100]["before"], (0x04, 0x1C))
+        self.assertEqual(flags[100], (0x04,))
+        self.assertNotIn(b"\x1C\x34\x12", rewritten)
+        self.assertTrue(rewritten.endswith(appearance + outfit + plain + plain))
+
 
 class OtbPropertyTests(unittest.TestCase):
     def test_edits_server_node_flags_without_changing_mapping(self) -> None:

@@ -1,0 +1,123 @@
+{
+  "items": [
+    {
+      "server_id": 14607,
+      "equal": true
+    },
+    {
+      "server_id": 14608,
+      "equal": true
+    },
+    {
+      "server_id": 14609,
+      "equal": true
+    },
+    {
+      "server_id": 14610,
+      "equal": true
+    },
+    {
+      "server_id": 14611,
+      "equal": true
+    },
+    {
+      "server_id": 14612,
+      "equal": true
+    },
+    {
+      "server_id": 14613,
+      "equal": true
+    },
+    {
+      "server_id": 14614,
+      "equal": true
+    },
+    {
+      "server_id": 14615,
+      "equal": true
+    },
+    {
+      "server_id": 14616,
+      "equal": true
+    },
+    {
+      "server_id": 14617,
+      "equal": true
+    },
+    {
+      "server_id": 14618,
+      "equal": true
+    },
+    {
+      "server_id": 14619,
+      "equal": true
+    },
+    {
+      "server_id": 14620,
+      "equal": true
+    },
+    {
+      "server_id": 14621,
+      "equal": true
+    },
+    {
+      "server_id": 14622,
+      "equal": true
+    },
+    {
+      "server_id": 14623,
+      "equal": true
+    },
+    {
+      "server_id": 14624,
+      "equal": true
+    },
+    {
+      "server_id": 14625,
+      "equal": true
+    }
+  ],
+  "bosses": [
+    {
+      "outfit_id": 1011,
+      "equal": true
+    },
+    {
+      "outfit_id": 1012,
+      "equal": true
+    },
+    {
+      "outfit_id": 1013,
+      "equal": true
+    },
+    {
+      "outfit_id": 1014,
+      "equal": true
+    },
+    {
+      "outfit_id": 1015,
+      "equal": true
+    },
+    {
+      "outfit_id": 1016,
+      "equal": true
+    },
+    {
+      "outfit_id": 1017,
+      "equal": true
+    },
+    {
+      "outfit_id": 1018,
+      "equal": true
+    },
+    {
+      "outfit_id": 1019,
+      "equal": true
+    },
+    {
+      "outfit_id": 1020,
+      "equal": true
+    }
+  ],
+  "passed": true
+}

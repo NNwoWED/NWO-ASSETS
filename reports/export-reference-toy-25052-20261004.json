@@ -1,0 +1,54 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "profile": {
+    "key": "tibia-860-v2-custom-extended",
+    "client_version": 860,
+    "label": "Tibia 8.60 v2 customizado com features OTFI",
+    "dat_signature": "0x4C2C7993",
+    "spr_signature": "0x4C220594",
+    "metadata_reader": 5,
+    "otb_version_hint": "8.60"
+  },
+  "category": "items",
+  "id_kind": "server",
+  "requested_ids": [
+    25052
+  ],
+  "output_dir": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\reference-toy-25052-20261004",
+  "exported_count": 1,
+  "exported": [
+    {
+      "requested_id": 25052,
+      "client_id": 24167,
+      "server_ids": [
+        25052
+      ],
+      "name": "Easter Toy",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        220624
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\reference-toy-25052-20261004\\server-25052_client-24167_easter-toy.png",
+      "size": 532,
+      "sha256": "9C83BFD1C0BC763161413462FE281F222BCDA33A6FC94E05A9068A13B5BCFC3B"
+    }
+  ],
+  "sources": {
+    "dat": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.dat",
+      "sha256": "4379C5AAA0450B994AD7BBF2BCCF10922BF908F8D13AB7743A5DCDDA81DC0A49"
+    },
+    "spr": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.spr",
+      "sha256": "42B71E3E74EC243AB4E3EAC843B47DE373E2BCD70B503BDB12F452ADD8924F9C"
+    }
+  },
+  "passed": true
+}

@@ -1,0 +1,145 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "profile": {
+    "key": "tibia-860-v2-custom-extended",
+    "client_version": 860,
+    "label": "Tibia 8.60 v2 customizado com features OTFI",
+    "dat_signature": "0x4C2C7993",
+    "spr_signature": "0x4C220594",
+    "metadata_reader": 5,
+    "otb_version_hint": "8.60"
+  },
+  "category": "items",
+  "id_kind": "server",
+  "requested_ids": [
+    6109,
+    6110,
+    12314,
+    25052
+  ],
+  "output_dir": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\references-new-assets-20261008",
+  "exported_count": 4,
+  "exported": [
+    {
+      "requested_id": 6109,
+      "client_id": 6109,
+      "server_ids": [
+        6109
+      ],
+      "name": "Weapon rack",
+      "group_index": 0,
+      "width": 192,
+      "height": 64,
+      "layers": 3,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        2255,
+        2256,
+        2258,
+        2257,
+        2263,
+        2264,
+        2276,
+        2265,
+        2277,
+        0,
+        0,
+        2275
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\references-new-assets-20261008\\server-6109_client-6109_weapon-rack.png",
+      "size": 5668,
+      "sha256": "B46CEE638A7825FF8BCCD697A9F4CEF2E0A3BE3E4CC3AC1FAC9D3E216CFE0DBE"
+    },
+    {
+      "requested_id": 6110,
+      "client_id": 6110,
+      "server_ids": [
+        6110
+      ],
+      "name": "Weapon rack",
+      "group_index": 0,
+      "width": 192,
+      "height": 64,
+      "layers": 3,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        2259,
+        2260,
+        2262,
+        2261,
+        2267,
+        2279,
+        2266,
+        2268,
+        2278,
+        0,
+        0,
+        2280
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\references-new-assets-20261008\\server-6110_client-6110_weapon-rack.png",
+      "size": 5534,
+      "sha256": "74FE629A22208A500E210F5C31FDA73E434B05D14AEAE26D2E15AE24FDA83C5B"
+    },
+    {
+      "requested_id": 12314,
+      "client_id": 11437,
+      "server_ids": [
+        12314
+      ],
+      "name": "Golden Chest",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        40074
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\references-new-assets-20261008\\server-12314_client-11437_golden-chest.png",
+      "size": 638,
+      "sha256": "48B270B4BAF1D3F58E80A8D7FDBAECA38AFDCD5A6F904663EB810B28766DB66F"
+    },
+    {
+      "requested_id": 25052,
+      "client_id": 24167,
+      "server_ids": [
+        25052
+      ],
+      "name": "Easter Toy",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        220624
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\references-new-assets-20261008\\server-25052_client-24167_easter-toy.png",
+      "size": 532,
+      "sha256": "9C83BFD1C0BC763161413462FE281F222BCDA33A6FC94E05A9068A13B5BCFC3B"
+    }
+  ],
+  "sources": {
+    "dat": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.dat",
+      "sha256": "C28AE7608C740E5A100D95CE50AF0832BD96CB866FC514BA6B211121FBD61BF0"
+    },
+    "spr": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.spr",
+      "sha256": "8E79B674C4A75138FDD94ACBAB9194E199B7A033C006F4F2D9DD7D00DB892094"
+    }
+  },
+  "passed": true
+}

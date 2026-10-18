@@ -21,6 +21,7 @@ from .png import PngImage, normalize_rgba, read_png_rgba
 from .roundtrip import (
     DatAppearance,
     append_spr_blocks,
+    dat_properties_with_added_flags,
     scan_dat_record_spans,
     write_dat_appearances,
 )
@@ -35,6 +36,11 @@ class OutfitManifestEntry:
     outfit_id: int
     reference_outfit_id: int
     source_path: Path
+    frames: int | None
+    frames_per_group: tuple[int, ...] | None
+    frame_duration_ms: int | None
+    frame_durations_per_group: tuple[int, ...] | None
+    dat_add_flags: tuple[int, ...]
 
 
 @dataclass(frozen=True)
@@ -50,7 +56,13 @@ class PreparedOutfit:
     image_height: int
     frame_groups: int
     frames_per_group: tuple[int, ...]
+    frame_duration_ms: int | None
+    frame_durations_per_group: tuple[int, ...] | None
+    dat_add_flags: tuple[int, ...]
     sprite_ids: tuple[tuple[int, ...], ...]
+
+
+OUTFIT_DAT_ADD_FLAGS = {"animate_always": 0x1B}
 
 
 def read_outfit_manifest(path: Path) -> list[OutfitManifestEntry]:
@@ -82,6 +94,114 @@ def read_outfit_manifest(path: Path) -> list[OutfitManifestEntry]:
             raise FormatError(
                 f"{path}:{row_number}: operation deve ser reserved ou replace"
             )
+        raw_frames = (row.get("frames") or "").strip()
+        raw_frames_per_group = (row.get("frames_per_group") or "").strip()
+        raw_frame_duration = (row.get("frame_duration_ms") or "").strip()
+        raw_group_durations = (
+            row.get("frame_durations_per_group") or ""
+        ).strip()
+        raw_dat_add_flags = (row.get("dat_add_flags") or "").strip()
+        if raw_frames and raw_frames_per_group:
+            raise FormatError(
+                f"{path}:{row_number}: use frames ou frames_per_group, nao ambos"
+            )
+        if raw_frame_duration and raw_group_durations:
+            raise FormatError(
+                f"{path}:{row_number}: use frame_duration_ms ou "
+                "frame_durations_per_group, nao ambos"
+            )
+        if raw_frames and not raw_frame_duration:
+            raise FormatError(
+                f"{path}:{row_number}: alteracao de frames exige frame_duration_ms"
+            )
+        if raw_frames_per_group and not (raw_frame_duration or raw_group_durations):
+            raise FormatError(
+                f"{path}:{row_number}: alteracao de frame groups exige duracao"
+            )
+        if raw_group_durations and not raw_frames_per_group:
+            raise FormatError(
+                f"{path}:{row_number}: frame_durations_per_group exige "
+                "frames_per_group"
+            )
+        frames = None
+        frames_per_group = None
+        frame_duration_ms = None
+        frame_durations_per_group = None
+        dat_add_flags: tuple[int, ...] = ()
+        if raw_frames:
+            try:
+                frames = int(raw_frames)
+            except ValueError as exc:
+                raise FormatError(
+                    f"{path}:{row_number}: frames invalido"
+                ) from exc
+            if not 1 <= frames <= 255:
+                raise FormatError(
+                    f"{path}:{row_number}: frames fora da faixa"
+                )
+        if raw_frames_per_group:
+            try:
+                frames_per_group = tuple(
+                    int(value.strip()) for value in raw_frames_per_group.split("|")
+                )
+            except ValueError as exc:
+                raise FormatError(
+                    f"{path}:{row_number}: frames_per_group invalido"
+                ) from exc
+            if not 1 <= len(frames_per_group) <= 2:
+                raise FormatError(
+                    f"{path}:{row_number}: frames_per_group deve ter 1 ou 2 grupos"
+                )
+            if any(value < 1 or value > 255 for value in frames_per_group):
+                raise FormatError(
+                    f"{path}:{row_number}: frames_per_group fora da faixa"
+                )
+        if raw_frame_duration:
+            try:
+                frame_duration_ms = int(raw_frame_duration)
+            except ValueError as exc:
+                raise FormatError(
+                    f"{path}:{row_number}: frame_duration_ms invalido"
+                ) from exc
+            if not 1 <= frame_duration_ms <= 0xFFFFFFFF:
+                raise FormatError(
+                    f"{path}:{row_number}: frame_duration_ms fora da faixa"
+                )
+        if raw_group_durations:
+            try:
+                frame_durations_per_group = tuple(
+                    int(value.strip()) for value in raw_group_durations.split("|")
+                )
+            except ValueError as exc:
+                raise FormatError(
+                    f"{path}:{row_number}: frame_durations_per_group invalido"
+                ) from exc
+            if any(
+                value < 1 or value > 0xFFFFFFFF
+                for value in frame_durations_per_group
+            ):
+                raise FormatError(
+                    f"{path}:{row_number}: frame_durations_per_group fora da faixa"
+                )
+            if len(frame_durations_per_group) != len(frames_per_group or ()):
+                raise FormatError(
+                    f"{path}:{row_number}: duracoes por grupo divergem dos grupos"
+                )
+        if raw_dat_add_flags:
+            names = tuple(
+                value.strip().casefold()
+                for value in raw_dat_add_flags.replace(",", "|").split("|")
+                if value.strip()
+            )
+            unknown = sorted(set(names) - set(OUTFIT_DAT_ADD_FLAGS))
+            if unknown:
+                raise FormatError(
+                    f"{path}:{row_number}: flags DAT de outfit nao suportadas: "
+                    + ", ".join(unknown)
+                )
+            dat_add_flags = tuple(
+                sorted({OUTFIT_DAT_ADD_FLAGS[name] for name in names})
+            )
         if outfit_id == reference_outfit_id and operation != "replace":
             raise FormatError(
                 f"{path}:{row_number}: alvo e referencia iguais exigem operation=replace"
@@ -97,7 +217,16 @@ def read_outfit_manifest(path: Path) -> list[OutfitManifestEntry]:
             raise FormatError(f"{path}:{row_number}: PNG nao encontrado: {source}")
         entries.append(
             OutfitManifestEntry(
-                sequence, operation, outfit_id, reference_outfit_id, source
+                sequence,
+                operation,
+                outfit_id,
+                reference_outfit_id,
+                source,
+                frames,
+                frames_per_group,
+                frame_duration_ms,
+                frame_durations_per_group,
+                dat_add_flags,
             )
         )
 
@@ -247,6 +376,285 @@ def replace_outfit_sprite_ids(
     return bytes(output)
 
 
+def replace_outfit_sprite_ids_and_duration(
+    template: bytes,
+    appearances: tuple[DatAppearance, ...],
+    sprite_ids: tuple[tuple[int, ...], ...],
+    frame_duration_ms: int,
+    otfi: OtfiConfig,
+) -> bytes:
+    """Replace Sprite IDs and set a fixed duration on every animated group."""
+
+    if not otfi.frame_durations:
+        raise FormatError("alteracao de duracao exige frame durations no OTFI")
+    output = bytearray(
+        replace_outfit_sprite_ids(template, appearances, sprite_ids, otfi)
+    )
+    position = 0
+    group_count = output[position] if otfi.frame_groups else 1
+    if otfi.frame_groups:
+        position += 1
+    if group_count != len(appearances):
+        raise FormatError("frame groups do template divergem da referencia")
+
+    sprite_size_bytes = 4 if otfi.extended else 2
+    for appearance in appearances:
+        if otfi.frame_groups:
+            position += 1
+        width, height = struct.unpack_from("<BB", output, position)
+        position += 2
+        if width > 1 or height > 1:
+            position += 1
+        dimensions = struct.unpack_from("<BBBBB", output, position)
+        position += 5
+        frames = dimensions[-1]
+        if frames > 1:
+            position += 6
+            for _ in range(frames):
+                struct.pack_into(
+                    "<II", output, position, frame_duration_ms, frame_duration_ms
+                )
+                position += 8
+        sprite_count = width * height
+        for value in dimensions:
+            sprite_count *= value
+        position += sprite_count * sprite_size_bytes
+        if (
+            width != appearance.width
+            or height != appearance.height
+            or dimensions
+            != (
+                appearance.layers,
+                appearance.pattern_x,
+                appearance.pattern_y,
+                appearance.pattern_z,
+                appearance.frames,
+            )
+        ):
+            raise FormatError("estrutura do template diverge da referencia")
+    if position != len(output):
+        raise FormatError("template de outfit possui bytes residuais")
+    return bytes(output)
+
+
+def replace_outfit_sprite_ids_and_frames(
+    template: bytes,
+    original: DatAppearance,
+    updated: DatAppearance,
+    sprite_ids: tuple[int, ...],
+    frame_duration_ms: int,
+    otfi: OtfiConfig,
+) -> bytes:
+    """Rebuild one outfit frame group while preserving its visual structure."""
+
+    if not otfi.frame_groups:
+        raise FormatError("alteracao de frames de outfit exige frame groups no OTFI")
+    if (
+        original.width,
+        original.height,
+        original.exact_size,
+        original.layers,
+        original.pattern_x,
+        original.pattern_y,
+        original.pattern_z,
+    ) != (
+        updated.width,
+        updated.height,
+        updated.exact_size,
+        updated.layers,
+        updated.pattern_x,
+        updated.pattern_y,
+        updated.pattern_z,
+    ):
+        raise FormatError("alteracao de frames nao pode mudar a estrutura da outfit")
+
+    position = 0
+    group_count = template[position]
+    position += 1
+    if group_count != 1:
+        raise FormatError("alteracao de frames suporta somente uma frame group")
+    group_type = template[position]
+    position += 1
+    width, height = struct.unpack_from("<BB", template, position)
+    position += 2
+    exact_size = None
+    if width > 1 or height > 1:
+        exact_size = template[position]
+        position += 1
+    dimensions = struct.unpack_from("<BBBBB", template, position)
+    position += 5
+    old_frames = dimensions[-1]
+    animation_async = False
+    loop_count = 0
+    start_frame = 0
+    if old_frames > 1 and otfi.frame_durations:
+        animation_async, loop_count, start_frame = struct.unpack_from(
+            "<BiB", template, position
+        )
+        position += 6 + old_frames * 8
+    old_sprite_count = width * height
+    for value in dimensions:
+        old_sprite_count *= value
+    position += old_sprite_count * (4 if otfi.extended else 2)
+    if position != len(template):
+        raise FormatError("template de outfit possui bytes residuais")
+    if (
+        width != original.width
+        or height != original.height
+        or exact_size != original.exact_size
+        or dimensions
+        != (
+            original.layers,
+            original.pattern_x,
+            original.pattern_y,
+            original.pattern_z,
+            original.frames,
+        )
+    ):
+        raise FormatError("estrutura do template diverge da outfit original")
+
+    expected_count = (
+        updated.width
+        * updated.height
+        * updated.layers
+        * updated.pattern_x
+        * updated.pattern_y
+        * updated.pattern_z
+        * updated.frames
+    )
+    if len(sprite_ids) != expected_count:
+        raise FormatError("quantidade de Sprite IDs diverge da nova estrutura")
+
+    output = bytearray((1, group_type, updated.width, updated.height))
+    if updated.width > 1 or updated.height > 1:
+        output.append(updated.exact_size or max(updated.width, updated.height) * otfi.sprite_size)
+    output.extend(
+        (
+            updated.layers,
+            updated.pattern_x,
+            updated.pattern_y,
+            updated.pattern_z,
+            updated.frames,
+        )
+    )
+    if updated.frames > 1:
+        output.extend(
+            struct.pack(
+                "<BiB",
+                int(animation_async),
+                loop_count,
+                min(start_frame, updated.frames - 1),
+            )
+        )
+        for _ in range(updated.frames):
+            output.extend(struct.pack("<II", frame_duration_ms, frame_duration_ms))
+    sprite_format = "<I" if otfi.extended else "<H"
+    maximum = 0xFFFFFFFF if otfi.extended else 0xFFFF
+    for sprite_id in sprite_ids:
+        if sprite_id < 0 or sprite_id > maximum:
+            raise FormatError(f"Sprite ID {sprite_id} excede o perfil")
+        output.extend(struct.pack(sprite_format, sprite_id))
+    return bytes(output)
+
+
+def replace_outfit_sprite_ids_and_frame_groups(
+    template: bytes,
+    original: tuple[DatAppearance, ...],
+    updated: tuple[DatAppearance, ...],
+    sprite_ids: tuple[tuple[int, ...], ...],
+    frame_durations_ms: tuple[int, ...],
+    otfi: OtfiConfig,
+) -> bytes:
+    """Rebuild idle/walk frame groups while preserving the outfit geometry."""
+
+    if not otfi.frame_groups or not otfi.frame_durations:
+        raise FormatError(
+            "alteracao de frame groups exige frame groups e durations no OTFI"
+        )
+    if (
+        not 1 <= len(updated) <= 2
+        or len(updated) != len(sprite_ids)
+        or len(updated) != len(frame_durations_ms)
+    ):
+        raise FormatError("quantidade de frame groups invalida")
+    if len(original) not in {1, len(updated)}:
+        raise FormatError("frame groups da referencia incompativeis com a alteracao")
+
+    # Validate the original record before rebuilding it with a different group layout.
+    replace_outfit_sprite_ids(
+        template,
+        original,
+        tuple(appearance.sprite_ids for appearance in original),
+        otfi,
+    )
+    for index, appearance in enumerate(updated):
+        reference = original[0] if len(original) == 1 else original[index]
+        if (
+            reference.width,
+            reference.height,
+            reference.exact_size,
+            reference.layers,
+            reference.pattern_x,
+            reference.pattern_y,
+            reference.pattern_z,
+        ) != (
+            appearance.width,
+            appearance.height,
+            appearance.exact_size,
+            appearance.layers,
+            appearance.pattern_x,
+            appearance.pattern_y,
+            appearance.pattern_z,
+        ):
+            raise FormatError(
+                "alteracao de frame groups nao pode mudar a estrutura da outfit"
+            )
+
+    output = bytearray((len(updated),))
+    sprite_format = "<I" if otfi.extended else "<H"
+    maximum = 0xFFFFFFFF if otfi.extended else 0xFFFF
+    for group_type, (appearance, group_sprite_ids, frame_duration_ms) in enumerate(
+        zip(updated, sprite_ids, frame_durations_ms)
+    ):
+        expected_count = (
+            appearance.width
+            * appearance.height
+            * appearance.layers
+            * appearance.pattern_x
+            * appearance.pattern_y
+            * appearance.pattern_z
+            * appearance.frames
+        )
+        if len(group_sprite_ids) != expected_count:
+            raise FormatError("quantidade de Sprite IDs diverge da nova estrutura")
+        output.extend((group_type, appearance.width, appearance.height))
+        if appearance.width > 1 or appearance.height > 1:
+            output.append(
+                appearance.exact_size
+                or min(255, max(appearance.width, appearance.height) * otfi.sprite_size)
+            )
+        output.extend(
+            (
+                appearance.layers,
+                appearance.pattern_x,
+                appearance.pattern_y,
+                appearance.pattern_z,
+                appearance.frames,
+            )
+        )
+        if appearance.frames > 1:
+            output.extend(struct.pack("<BiB", 0, 0, 0))
+            for _ in range(appearance.frames):
+                output.extend(
+                    struct.pack("<II", frame_duration_ms, frame_duration_ms)
+                )
+        for sprite_id in group_sprite_ids:
+            if sprite_id < 0 or sprite_id > maximum:
+                raise FormatError(f"Sprite ID {sprite_id} excede o perfil")
+            output.extend(struct.pack(sprite_format, sprite_id))
+    return bytes(output)
+
+
 def _import_outfits_impl(
     root: Path,
     manifest_path: Path,
@@ -309,6 +717,18 @@ def _import_outfits_impl(
             raise FormatError(f"Outfit ID para replace {entry.outfit_id} esta vazio")
         if not any(any(appearance.sprite_ids) for appearance in reference.appearances):
             raise FormatError(f"Outfit de referencia {entry.reference_outfit_id} esta vazio")
+        if entry.frames is not None:
+            if len(reference.appearances) != 1:
+                raise FormatError(
+                    "alteracao de frames exige referencia com uma frame group"
+                )
+        if entry.frames_per_group is not None and len(reference.appearances) not in {
+            1,
+            len(entry.frames_per_group),
+        }:
+            raise FormatError(
+                "alteracao de frame groups exige referencia compativel"
+            )
 
     old_sprite_count = int(source_report["spr"]["sprite_count"])
     next_sprite_id = old_sprite_count + 1
@@ -320,9 +740,22 @@ def _import_outfits_impl(
 
     for entry in entries:
         reference = source_outfits[entry.reference_outfit_id]
+        appearances = reference.appearances
+        if entry.frames is not None:
+            appearances = (replace(appearances[0], frames=entry.frames),)
+        elif entry.frames_per_group is not None:
+            appearances = tuple(
+                replace(
+                    reference.appearances[
+                        0 if len(reference.appearances) == 1 else index
+                    ],
+                    frames=frames,
+                )
+                for index, frames in enumerate(entry.frames_per_group)
+            )
         sizes = [
             _appearance_sheet_size(appearance, otfi.sprite_size)
-            for appearance in reference.appearances
+            for appearance in appearances
         ]
         expected_width = sizes[0][0]
         expected_height = sum(height for _width, height in sizes)
@@ -333,7 +766,7 @@ def _import_outfits_impl(
                 max_height=expected_height,
             )
         )
-        tile_groups = split_outfit_sheet(image, reference.appearances, otfi.sprite_size)
+        tile_groups = split_outfit_sheet(image, appearances, otfi.sprite_size)
         id_groups: list[tuple[int, ...]] = []
         for tiles in tile_groups:
             group_ids: list[int] = []
@@ -348,12 +781,44 @@ def _import_outfits_impl(
                 expected_tiles[sprite_id] = tile
             id_groups.append(tuple(group_ids))
         template = source_data[reference.properties_end : reference.end]
-        replacements[entry.outfit_id] = replace_outfit_sprite_ids(
-            template,
-            reference.appearances,
-            tuple(id_groups),
-            otfi,
-        )
+        if entry.frames_per_group is not None:
+            group_durations = entry.frame_durations_per_group or (
+                (entry.frame_duration_ms,) * len(appearances)
+            )
+            replacements[entry.outfit_id] = (
+                replace_outfit_sprite_ids_and_frame_groups(
+                    template,
+                    reference.appearances,
+                    appearances,
+                    tuple(id_groups),
+                    group_durations,
+                    otfi,
+                )
+            )
+        elif entry.frames is None and entry.frame_duration_ms is None:
+            replacements[entry.outfit_id] = replace_outfit_sprite_ids(
+                template,
+                reference.appearances,
+                tuple(id_groups),
+                otfi,
+            )
+        elif entry.frames is None:
+            replacements[entry.outfit_id] = replace_outfit_sprite_ids_and_duration(
+                template,
+                reference.appearances,
+                tuple(id_groups),
+                entry.frame_duration_ms,
+                otfi,
+            )
+        else:
+            replacements[entry.outfit_id] = replace_outfit_sprite_ids_and_frames(
+                template,
+                reference.appearances[0],
+                appearances[0],
+                id_groups[0],
+                entry.frame_duration_ms,
+                otfi,
+            )
         prepared.append(
             PreparedOutfit(
                 sequence=entry.sequence,
@@ -365,10 +830,13 @@ def _import_outfits_impl(
                 pixels_sha256=hashlib.sha256(image.rgba).hexdigest().upper(),
                 image_width=image.width,
                 image_height=image.height,
-                frame_groups=len(reference.appearances),
+                frame_groups=len(appearances),
                 frames_per_group=tuple(
-                    appearance.frames for appearance in reference.appearances
+                    appearance.frames for appearance in appearances
                 ),
+                frame_duration_ms=entry.frame_duration_ms,
+                frame_durations_per_group=entry.frame_durations_per_group,
+                dat_add_flags=entry.dat_add_flags,
                 sprite_ids=tuple(id_groups),
             )
         )
@@ -388,7 +856,16 @@ def _import_outfits_impl(
     try:
         append_spr_blocks(paths["spr"], targets["spr"], otfi, blocks)
         write_dat_appearances(
-            paths["dat"], targets["dat"], otfi, "outfits", replacements
+            paths["dat"],
+            targets["dat"],
+            otfi,
+            "outfits",
+            replacements,
+            {
+                outfit.outfit_id: set(outfit.dat_add_flags)
+                for outfit in prepared
+                if outfit.dat_add_flags
+            },
         )
         pending_spr = inspect_spr(targets["spr"], otfi, deep=deep_spr)
         pending_dat = inspect_dat(
@@ -424,7 +901,23 @@ def _import_outfits_impl(
         identity = (source_span.category, source_span.thing_id)
         if identity != (staged_span.category, staged_span.thing_id):
             abort_pending("ordem de registros DAT mudou durante a importacao")
-        if source_data[source_span.start : source_span.properties_end] != staged_data[
+        additions = next(
+            (
+                set(outfit.dat_add_flags)
+                for outfit in prepared
+                if outfit.outfit_id == source_span.thing_id
+                and source_span.category == "outfits"
+            ),
+            set(),
+        )
+        expected_properties = (
+            dat_properties_with_added_flags(
+                source_data, source_span, str(paths["dat"]), additions
+            )
+            if additions
+            else source_data[source_span.start : source_span.properties_end]
+        )
+        if expected_properties != staged_data[
             staged_span.start : staged_span.properties_end
         ]:
             abort_pending(f"propriedades DAT mudaram em {identity}")
@@ -437,17 +930,29 @@ def _import_outfits_impl(
         span.thing_id: span for span in staged_spans if span.category == "outfits"
     }
     for outfit in prepared:
-        staged_appearances = staged_outfits[outfit.outfit_id].appearances
+        staged_outfit = staged_outfits[outfit.outfit_id]
+        staged_appearances = staged_outfit.appearances
         reference_appearances = source_outfits[outfit.reference_outfit_id].appearances
-        if len(staged_appearances) != len(reference_appearances):
+        if len(staged_appearances) != outfit.frame_groups:
             abort_pending(f"frame groups divergentes no Outfit ID {outfit.outfit_id}")
-        for staged, reference, expected_ids in zip(
-            staged_appearances, reference_appearances, outfit.sprite_ids
+        for index, (staged, expected_frames, expected_ids) in enumerate(
+            zip(
+                staged_appearances,
+                outfit.frames_per_group,
+                outfit.sprite_ids,
+            )
         ):
-            if replace(staged, sprite_ids=reference.sprite_ids) != reference:
+            reference = reference_appearances[
+                0 if len(reference_appearances) == 1 else index
+            ]
+            expected = replace(reference, frames=expected_frames)
+            if replace(staged, sprite_ids=expected.sprite_ids) != expected:
                 abort_pending(f"estrutura divergente no Outfit ID {outfit.outfit_id}")
             if staged.sprite_ids != expected_ids:
                 abort_pending(f"Sprite IDs DAT divergentes no Outfit ID {outfit.outfit_id}")
+        staged_visual = staged_data[staged_outfit.properties_end : staged_outfit.end]
+        if staged_visual != replacements[outfit.outfit_id]:
+            abort_pending(f"metadados visuais divergentes no Outfit ID {outfit.outfit_id}")
 
     written_blocks = read_spr_blocks(targets["spr"], set(expected_tiles), otfi)
     for sprite_id, expected_tile in expected_tiles.items():

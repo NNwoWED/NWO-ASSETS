@@ -1,0 +1,37 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "manifest": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\split-patternx4-20261008\\repair-patternx4.csv",
+  "item_count": 1,
+  "spr_unchanged": true,
+  "items": [
+    {
+      "sequence": 1,
+      "server_id": 25577,
+      "client_id": 24692,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\split-patternx4-20261008\\patternX4_item_1038_.png",
+      "source_sha256": "127D2C85955329CF647CF7CBA00D51820CA1AEEBBADDE57F46E300B0F9B14349",
+      "old_layout": {
+        "width": 2,
+        "height": 2,
+        "layers": 1,
+        "pattern_x": 4,
+        "pattern_y": 1,
+        "pattern_z": 2,
+        "frames": 1
+      },
+      "new_layout": {
+        "width": 2,
+        "height": 2,
+        "layers": 1,
+        "pattern_x": 4,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "sprite_ids_reused": 16,
+      "sprite_hash": "A35F39F68960D46FA2ED18C712A2673A"
+    }
+  ],
+  "dry_run": true,
+  "passed": true
+}

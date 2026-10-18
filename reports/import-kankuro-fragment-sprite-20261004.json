@@ -1,0 +1,121 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "manifest": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\kankuro-fragment-e3-statues-20261004\\import-kankuro-fragment.csv",
+  "profile": "tibia-860-v2-custom-extended",
+  "version_backup": {
+    "tool_version": "0.8.2",
+    "version_id": "20261004-021249-661261",
+    "created_at": "2026-10-04T02:13:04.633813-03:00",
+    "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261004-021249-661261",
+    "rar_executable": "C:\\Program Files\\WinRAR\\Rar.exe",
+    "sources": [
+      {
+        "path": "assets/860/.gitattributes",
+        "size": 43,
+        "sha256": "D5636A3257287440945C5E017581545E5B0A3E2FDDDAE7C5EF8D90FF4DF3D32A"
+      },
+      {
+        "path": "assets/860/Tibia.dat",
+        "size": 4499567,
+        "sha256": "6F70F860BC3E74F560DB04DFBE8F3DFC5BF7F48CD104F49C182D7E127709045D"
+      },
+      {
+        "path": "assets/860/Tibia.otfi",
+        "size": 185,
+        "sha256": "7743548835944BC799CB871A4E5DEF84F7AF76815031871B9CE74B5EC0E8ADD3"
+      },
+      {
+        "path": "assets/860/Tibia.spr",
+        "size": 458514749,
+        "sha256": "5CBB761BB4D1631ED962459255B60751CD7994D4F9AC30C19C3FAFC22AA028F6"
+      },
+      {
+        "path": "assets/items/force use.txt",
+        "size": 419,
+        "sha256": "BCB478FDF3F45ECA8D172AFD7A17D3F8CD520924EE0894752452B8FDC8F71959"
+      },
+      {
+        "path": "assets/items/items.otb",
+        "size": 1010720,
+        "sha256": "2F1A9602616C5C96CCB957F3C49450C4CA83E79696BBBEC4DFEB6E8852008AA6"
+      },
+      {
+        "path": "assets/world/mapanovo.otbm",
+        "size": 80105770,
+        "sha256": "8CDFDDF9DC2A9E53053E4F3FAF7F6825FD89B6B63EE06272ECD234B387202821"
+      }
+    ],
+    "archives": {
+      "860": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261004-021249-661261\\860.rar",
+        "size": 85227326,
+        "sha256": "4F3CFDE248856B6016AC09165F5A89D442B12C5B6FB4B43E37FAC971DC480FBC"
+      },
+      "items": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261004-021249-661261\\items.rar",
+        "size": 481642,
+        "sha256": "F3DF679F92EE82D04219AA1FAA2E8AC64A8D53EEF9BCF32458EA0046CC0FEB98"
+      },
+      "world": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261004-021249-661261\\world.zip",
+        "size": 19337359,
+        "sha256": "170CD29639D001F9273247C874479344E8207ECB971919AE0E8CAE14295E4A31"
+      }
+    },
+    "items_xml_excluded": true,
+    "world_entries": [
+      "mapanovo.otbm"
+    ],
+    "passed": true
+  },
+  "sprite_hash_gate": {
+    "sample_count": 64,
+    "mismatch_count": 0,
+    "mismatches": [],
+    "passed": true
+  },
+  "item_count": 1,
+  "new_sprite_count": 1,
+  "sprite_id_range": [
+    272362,
+    272362
+  ],
+  "items": [
+    {
+      "sequence": 1,
+      "client_id": 16375,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\kankuro-fragment-e3-statues-20261004\\KANKURO.png",
+      "file_sha256": "35228FA7540208A9F679B61C56E4E0958AFC66AE2F848F7381521F87C0240071",
+      "pixels_sha256": "D41208E1ED82A38D2A46E2468ACE3369F65C27CFA27D741B8B17876650E80583",
+      "image_width": 32,
+      "image_height": 32,
+      "width_tiles": 1,
+      "height_tiles": 1,
+      "frames": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_ids": [
+        272362
+      ],
+      "sprite_hash": "5560CA6BA32A9A42440A9A75826BD9A7"
+    }
+  ],
+  "otb_nodes_updated": {
+    "16375": 1
+  },
+  "transaction_committed": true,
+  "output_hashes": {
+    "dat": "8072AA9120C860A1CE93A33925D9545ACB3F5BCDFE7F31643A924941E2F74EB9",
+    "spr": "74FC39E76F6901DE80B8E96E64F0F14B477023830556E8C61DB52094B209F7C4",
+    "otb": "5A6652FDE8463B9FB473A522EFD0209A67B15C94F5A7E1EF46989DC88631CAB0"
+  },
+  "dat_non_targets_preserved": true,
+  "old_sprite_payload_preserved": true,
+  "new_sprite_pixels_verified": true,
+  "untouched_files_preserved": true,
+  "map_byte_equal": true,
+  "final_validation_passed": true,
+  "warnings": [],
+  "errors": [],
+  "passed": true
+}

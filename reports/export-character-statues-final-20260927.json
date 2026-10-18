@@ -1,0 +1,447 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "profile": {
+    "key": "tibia-860-v2-custom-extended",
+    "client_version": 860,
+    "label": "Tibia 8.60 v2 customizado com features OTFI",
+    "dat_signature": "0x4C2C7993",
+    "spr_signature": "0x4C220594",
+    "metadata_reader": 5,
+    "otb_version_hint": "8.60"
+  },
+  "category": "items",
+  "id_kind": "server",
+  "requested_ids": [
+    7404,
+    7409,
+    7430,
+    7434,
+    7435,
+    7439,
+    7440,
+    7443,
+    7450,
+    7457,
+    7459,
+    7460,
+    7461,
+    7462,
+    14811,
+    14812
+  ],
+  "output_dir": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items",
+  "exported_count": 16,
+  "exported": [
+    {
+      "requested_id": 7404,
+      "client_id": 7404,
+      "server_ids": [
+        7404
+      ],
+      "name": "Hinata Statue",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        266447,
+        266448,
+        266449,
+        266450
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-7404_client-7404_hinata-statue.png",
+      "size": 1483,
+      "sha256": "700E800B7EAE2EA6B80DCAED88A6AFB34DE306287AC1D63A09011FBEB076A8C0"
+    },
+    {
+      "requested_id": 7409,
+      "client_id": 7409,
+      "server_ids": [
+        7409
+      ],
+      "name": "Hinata Statue",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        266451,
+        266452,
+        266453,
+        266454
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-7409_client-7409_hinata-statue.png",
+      "size": 1559,
+      "sha256": "0DC937873A277E61711910544EFFEF2E0DDA7BB5526B2A3B23A5B0BD4991A975"
+    },
+    {
+      "requested_id": 7430,
+      "client_id": 7430,
+      "server_ids": [
+        7430
+      ],
+      "name": "Kabuto Statue",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        266455,
+        266456,
+        266457,
+        266458
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-7430_client-7430_kabuto-statue.png",
+      "size": 1432,
+      "sha256": "9A96D5365533BD64A2A9A04C0EE662C108526FF9D8666E58CBE787E6DF9F83BD"
+    },
+    {
+      "requested_id": 7434,
+      "client_id": 7434,
+      "server_ids": [
+        7434
+      ],
+      "name": "Kabuto Statue",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        266459,
+        266460,
+        266461,
+        266462
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-7434_client-7434_kabuto-statue.png",
+      "size": 1484,
+      "sha256": "BA9E3AA773451D0ABF8040E4D037CF212D0F7A15CDA469D6857F38A9A16F5FCE"
+    },
+    {
+      "requested_id": 7435,
+      "client_id": 7435,
+      "server_ids": [
+        7435
+      ],
+      "name": "Kakashi Statue",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        266463,
+        266464,
+        266465,
+        266466
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-7435_client-7435_kakashi-statue.png",
+      "size": 1494,
+      "sha256": "3C96060FAB084C919BE2226AC83A7E7A7EB65B214277D5118C55AC4445D2FAE1"
+    },
+    {
+      "requested_id": 7439,
+      "client_id": 7439,
+      "server_ids": [
+        7439
+      ],
+      "name": "Kakashi Statue",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        266467,
+        266468,
+        266469,
+        266470
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-7439_client-7439_kakashi-statue.png",
+      "size": 1536,
+      "sha256": "E7D9AC0C8484CEECD3A7C11438F8410124E4AF56AB68408B3DA3779A5A3EB4BA"
+    },
+    {
+      "requested_id": 7440,
+      "client_id": 7440,
+      "server_ids": [
+        7440
+      ],
+      "name": "Kiba Statue",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        266471,
+        266472,
+        266473,
+        266474
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-7440_client-7440_kiba-statue.png",
+      "size": 1408,
+      "sha256": "63E4F8DB91A3A82789B5A56709AD531C65967EEF4576ABA38E699E18F6EFBFE8"
+    },
+    {
+      "requested_id": 7443,
+      "client_id": 7443,
+      "server_ids": [
+        7443
+      ],
+      "name": "Kiba Statue",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        266475,
+        266476,
+        266477,
+        266478
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-7443_client-7443_kiba-statue.png",
+      "size": 1461,
+      "sha256": "7C1AAC258F6E4865A2DD0B6AA51F390567F435123CFF46685EFCC540DD2FB162"
+    },
+    {
+      "requested_id": 7450,
+      "client_id": 7450,
+      "server_ids": [
+        7450
+      ],
+      "name": "Kimimaro Statue",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        266479,
+        266480,
+        266481,
+        266482
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-7450_client-7450_kimimaro-statue.png",
+      "size": 1560,
+      "sha256": "A477ABBEFAA3881AFD2F475EB755A621888AC2C7BAF7B9B72CC910452B97F54E"
+    },
+    {
+      "requested_id": 7457,
+      "client_id": 7457,
+      "server_ids": [
+        7457
+      ],
+      "name": "Kimimaro Statue",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        266483,
+        266484,
+        266485,
+        266486
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-7457_client-7457_kimimaro-statue.png",
+      "size": 1617,
+      "sha256": "E965EA129771DEC01B1FB80350B595407F4321F2A4C55664808BD0F619BBF7BB"
+    },
+    {
+      "requested_id": 7459,
+      "client_id": 7459,
+      "server_ids": [
+        7459
+      ],
+      "name": "Shino Statue",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        266487,
+        266488,
+        266489,
+        266490
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-7459_client-7459_shino-statue.png",
+      "size": 1315,
+      "sha256": "D702EC8ECAC47EA22351C557D5F633ECA970EC0C7C88433D6AB25346D8E3C5F6"
+    },
+    {
+      "requested_id": 7460,
+      "client_id": 7460,
+      "server_ids": [
+        7460
+      ],
+      "name": "Shino Statue",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        266491,
+        266492,
+        266493,
+        266494
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-7460_client-7460_shino-statue.png",
+      "size": 1382,
+      "sha256": "2AD57DDBFE2C2B6379E3C3D9D1DD7943570B772E03BCAC8B6FFF1A86A2F349CC"
+    },
+    {
+      "requested_id": 7461,
+      "client_id": 7461,
+      "server_ids": [
+        7461
+      ],
+      "name": "Zabuza Statue",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        266495,
+        266496,
+        266497,
+        266498
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-7461_client-7461_zabuza-statue.png",
+      "size": 1536,
+      "sha256": "46A59BF815402D04E0FF52951F2901ADE63F03635E7C4785A75098363938FE5A"
+    },
+    {
+      "requested_id": 7462,
+      "client_id": 7462,
+      "server_ids": [
+        7462
+      ],
+      "name": "Zabuza Statue",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        266499,
+        266500,
+        266501,
+        266502
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-7462_client-7462_zabuza-statue.png",
+      "size": 1605,
+      "sha256": "A44D87590AB366B32AC92F7763C4A3B10E43294947DC3B0F62D018350C60E4E4"
+    },
+    {
+      "requested_id": 14811,
+      "client_id": 13929,
+      "server_ids": [
+        14811
+      ],
+      "name": "Neji Statue",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        266439,
+        266440,
+        266441,
+        266442
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-14811_client-13929_neji-statue.png",
+      "size": 1316,
+      "sha256": "7D19153F2C507AB5D62B83209EAC04066246D1773FEA295EDEC2AA3CD883ED76"
+    },
+    {
+      "requested_id": 14812,
+      "client_id": 13930,
+      "server_ids": [
+        14812
+      ],
+      "name": "Neji Statue",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        266443,
+        266444,
+        266445,
+        266446
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-14812_client-13930_neji-statue.png",
+      "size": 1374,
+      "sha256": "31F1924D9FD462106F5BDFF6AF527203A022FE73DDBE8709485C40E277F6A33C"
+    }
+  ],
+  "sources": {
+    "dat": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.dat",
+      "sha256": "031717B8C5BFD87B32694013ABBE4BEFDA7AFC879F34DE4888C3FC147395D2AD"
+    },
+    "spr": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.spr",
+      "sha256": "7AC8CD2A006B25BD671FEA641173DCF27A8F2667286063A81B66061554CF9222"
+    }
+  },
+  "passed": true
+}

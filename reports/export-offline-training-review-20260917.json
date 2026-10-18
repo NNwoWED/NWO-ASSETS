@@ -1,0 +1,149 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "profile": {
+    "key": "tibia-860-v2-custom-extended",
+    "client_version": 860,
+    "label": "Tibia 8.60 v2 customizado com features OTFI",
+    "dat_signature": "0x4C2C7993",
+    "spr_signature": "0x4C220594",
+    "metadata_reader": 5,
+    "otb_version_hint": "8.60"
+  },
+  "category": "items",
+  "id_kind": "client",
+  "requested_ids": [
+    24228,
+    24229,
+    24230,
+    24231,
+    24097
+  ],
+  "output_dir": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\offline-training-review-20260917",
+  "exported_count": 5,
+  "exported": [
+    {
+      "requested_id": 24228,
+      "client_id": 24228,
+      "server_ids": [
+        25113
+      ],
+      "name": "Ninjutsu (1800 cargas)",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        213143
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\offline-training-review-20260917\\client-24228_server-25113_ninjutsu-1800-cargas.png",
+      "size": 449,
+      "sha256": "4E9B01FE498B72445EE1DD94375541D599D398F2AE2A7494695429A5960D598C"
+    },
+    {
+      "requested_id": 24229,
+      "client_id": 24229,
+      "server_ids": [
+        25114
+      ],
+      "name": "Taijutsu (1800 cargas)",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        13380
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\offline-training-review-20260917\\client-24229_server-25114_taijutsu-1800-cargas.png",
+      "size": 362,
+      "sha256": "314FE0F357E7E6219652783449BB904A9DB208DBF1D6DDAE62DAF5BE531C06EA"
+    },
+    {
+      "requested_id": 24230,
+      "client_id": 24230,
+      "server_ids": [
+        25115
+      ],
+      "name": "Medicine (1800 cargas)",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        213144
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\offline-training-review-20260917\\client-24230_server-25115_medicine-1800-cargas.png",
+      "size": 427,
+      "sha256": "AAB12320816A7B0193557007F865C1893522B94962FEF7DBBB53BCAD096C63F4"
+    },
+    {
+      "requested_id": 24231,
+      "client_id": 24231,
+      "server_ids": [
+        25116
+      ],
+      "name": "Genjutsu (1800 cargas)",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        213145
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\offline-training-review-20260917\\client-24231_server-25116_genjutsu-1800-cargas.png",
+      "size": 443,
+      "sha256": "DF4A1B2BF2058E33FE2075F3FC017F861058807005FD62D3E5313A11A6186942"
+    },
+    {
+      "requested_id": 24097,
+      "client_id": 24097,
+      "server_ids": [
+        24982
+      ],
+      "name": "Training dummy",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        215718,
+        215719,
+        215720,
+        215721
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\offline-training-review-20260917\\client-24097_server-24982_training-dummy.png",
+      "size": 854,
+      "sha256": "C1F83CB7FA2602F305A83053C473C9104A11344BA089D87B8DFE13B2D7EC089C"
+    }
+  ],
+  "sources": {
+    "dat": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.dat",
+      "sha256": "BEA50DBB7F08D9E8A6726252BB2A52B466986CE8B4F2C06DCC9729070ABDD614"
+    },
+    "spr": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.spr",
+      "sha256": "2CDE7E238A06FCA302CA970335DC61EF639E2750AC355AF4D81DB2D80800D7E0"
+    }
+  },
+  "passed": true
+}

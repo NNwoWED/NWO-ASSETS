@@ -1,0 +1,468 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "profile": {
+    "key": "tibia-860-v2-custom-extended",
+    "client_version": 860,
+    "label": "Tibia 8.60 v2 customizado com features OTFI",
+    "dat_signature": "0x4C2C7993",
+    "spr_signature": "0x4C220594",
+    "metadata_reader": 5,
+    "otb_version_hint": "8.60"
+  },
+  "category": "items",
+  "id_kind": "server",
+  "requested_ids": [
+    14607,
+    14608,
+    14609,
+    14610,
+    14611,
+    14612,
+    14613,
+    14614,
+    14615,
+    14616,
+    14617,
+    14618,
+    14619,
+    14620,
+    14621,
+    14622,
+    14623,
+    14624,
+    14625
+  ],
+  "output_dir": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items",
+  "exported_count": 19,
+  "exported": [
+    {
+      "requested_id": 14607,
+      "client_id": 13728,
+      "server_ids": [
+        14607
+      ],
+      "name": "Blood Iwagakure",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        260656
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-14607_client-13728_blood-iwagakure.png",
+      "size": 442,
+      "sha256": "43D53090DDD314AC11B996002F49EC8C75164915346E02E6E53CED85A2108402"
+    },
+    {
+      "requested_id": 14608,
+      "client_id": 13729,
+      "server_ids": [
+        14608
+      ],
+      "name": "Blood Kirigakure",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        260657
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-14608_client-13729_blood-kirigakure.png",
+      "size": 413,
+      "sha256": "351B8736F481407B35A46AA3456899F5ECF5F56108BEF85F420384C07E6DF055"
+    },
+    {
+      "requested_id": 14609,
+      "client_id": 13730,
+      "server_ids": [
+        14609
+      ],
+      "name": "Blood Konoha",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        260658
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-14609_client-13730_blood-konoha.png",
+      "size": 440,
+      "sha256": "30E4412CFF569919F032FB2D6E71FEFC999EFF14033CCFBD4804CD26E8C955A0"
+    },
+    {
+      "requested_id": 14610,
+      "client_id": 13731,
+      "server_ids": [
+        14610
+      ],
+      "name": "Blood Kumo",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        260659
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-14610_client-13731_blood-kumo.png",
+      "size": 441,
+      "sha256": "14753E8CDF1EB1ED6AE2108C49B2F796294D8746E55E3F2E27DA67FE62BBAF71"
+    },
+    {
+      "requested_id": 14611,
+      "client_id": 13732,
+      "server_ids": [
+        14611
+      ],
+      "name": "Blood Suna",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        260660
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-14611_client-13732_blood-suna.png",
+      "size": 442,
+      "sha256": "A04E471026C226AAD8B6B1A42039AB6E0F44381C17ACCD8B27F7BFBAA59499C6"
+    },
+    {
+      "requested_id": 14612,
+      "client_id": 13733,
+      "server_ids": [
+        14612
+      ],
+      "name": "Bola de Cristal do Kage",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        260661
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-14612_client-13733_bola-de-cristal-do-kage.png",
+      "size": 553,
+      "sha256": "E6556B090B30B56AEFE95D495D4754B1A5A72E0E9D9CF6F33E24FE8017F42801"
+    },
+    {
+      "requested_id": 14613,
+      "client_id": 13734,
+      "server_ids": [
+        14613
+      ],
+      "name": "Chakra Pouch",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        260662
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-14613_client-13734_chakra-pouch.png",
+      "size": 635,
+      "sha256": "CF8BF4FE2CD1CEC6A85072DBF323F18367120236A386EDDD8BD4DF16D3C76BE1"
+    },
+    {
+      "requested_id": 14614,
+      "client_id": 13735,
+      "server_ids": [
+        14614
+      ],
+      "name": "BP Twitch",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        260663
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-14614_client-13735_bp-twitch.png",
+      "size": 738,
+      "sha256": "B5FF46E69AB3E0D95BAA14594102BE82F6E1ABF116D5DD111639E7183F3DCEBF"
+    },
+    {
+      "requested_id": 14615,
+      "client_id": 13736,
+      "server_ids": [
+        14615
+      ],
+      "name": "Sardinha",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        260664
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-14615_client-13736_sardinha.png",
+      "size": 350,
+      "sha256": "D5A1B73F6580F729D4E339FE22CF92B8A7E0B1F6FA37BC89E22FD976EEB813F2"
+    },
+    {
+      "requested_id": 14616,
+      "client_id": 13737,
+      "server_ids": [
+        14616
+      ],
+      "name": "TP Home",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        260665
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-14616_client-13737_tp-home.png",
+      "size": 440,
+      "sha256": "E1B691D93469832F6424E4C9F173E565C1999EB7ABC0B682EDAE3E6E9FE6A03A"
+    },
+    {
+      "requested_id": 14617,
+      "client_id": 13738,
+      "server_ids": [
+        14617
+      ],
+      "name": "TP Iwa",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        260666
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-14617_client-13738_tp-iwa.png",
+      "size": 455,
+      "sha256": "B638CEDC57E68BDDFB6E312045A997F0095930715473A33F4B6B45DC40030511"
+    },
+    {
+      "requested_id": 14618,
+      "client_id": 13739,
+      "server_ids": [
+        14618
+      ],
+      "name": "TP Kiri",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        260667
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-14618_client-13739_tp-kiri.png",
+      "size": 440,
+      "sha256": "9E8155EE05ACAB17539BBD8525BE814E124BA3CB1F2DB9D5A333EDD74CBEF6B5"
+    },
+    {
+      "requested_id": 14619,
+      "client_id": 13740,
+      "server_ids": [
+        14619
+      ],
+      "name": "TP Konoha",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        260668
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-14619_client-13740_tp-konoha.png",
+      "size": 454,
+      "sha256": "BA779D401F80F4F0C7F2C5263A7CD25C535CED0F9C9136C0363CBAD63AAF2B6C"
+    },
+    {
+      "requested_id": 14620,
+      "client_id": 13741,
+      "server_ids": [
+        14620
+      ],
+      "name": "TP Kumo",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        260669
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-14620_client-13741_tp-kumo.png",
+      "size": 451,
+      "sha256": "AAF66A9A1F1350D4E2927700D9889F6BC52426D25ABA78253C61F23C5259B236"
+    },
+    {
+      "requested_id": 14621,
+      "client_id": 13742,
+      "server_ids": [
+        14621
+      ],
+      "name": "TP Suna",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        260670
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-14621_client-13742_tp-suna.png",
+      "size": 446,
+      "sha256": "B8E01ACB4D7B383FEA5585DC0F2638AAFE56C409F8F831B9F14F5D5B110E2A04"
+    },
+    {
+      "requested_id": 14622,
+      "client_id": 13743,
+      "server_ids": [
+        14622
+      ],
+      "name": "Peixe-Gato",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        260671
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-14622_client-13743_peixe-gato.png",
+      "size": 472,
+      "sha256": "CDE5ACE987E2F9E27E3E28AA1E5A994131D05EF35EC15B556992884DCB6C2EE9"
+    },
+    {
+      "requested_id": 14623,
+      "client_id": 13744,
+      "server_ids": [
+        14623
+      ],
+      "name": "Prata",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        260672
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-14623_client-13744_prata.png",
+      "size": 301,
+      "sha256": "BAC48C021A5274ED8056349D62CCD1A479F0D75B8D05DFA68CCFA8968C402291"
+    },
+    {
+      "requested_id": 14624,
+      "client_id": 13745,
+      "server_ids": [
+        14624
+      ],
+      "name": "Cobre",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        260673
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-14624_client-13745_cobre.png",
+      "size": 303,
+      "sha256": "363F04E19E737C368473EACD957609807B2E925D6711F1D02C82C1DE1B44895E"
+    },
+    {
+      "requested_id": 14625,
+      "client_id": 13746,
+      "server_ids": [
+        14625
+      ],
+      "name": "DG Stamina Potion",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        260674
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-14625_client-13746_dg-stamina-potion.png",
+      "size": 520,
+      "sha256": "888917B63D1622E3D5B344AA611426F5ED726CC6036143EACC695253D3793D29"
+    }
+  ],
+  "sources": {
+    "dat": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.dat",
+      "sha256": "2ED1C16815641FA3E9E7706ED5ABA41389E7D689411899F4D88328225A53A01E"
+    },
+    "spr": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.spr",
+      "sha256": "C30E91D8FF87ED8420F47445D715A19A0E95F07EE5DA5776EC959F67BB24C6C6"
+    }
+  },
+  "passed": true
+}

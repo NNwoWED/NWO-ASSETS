@@ -1,0 +1,17 @@
+sequence,server_id,client_id,dat_add_flags,dat_remove_flags,otb_add_flags,otb_remove_flags
+1,12372,11495,,block_missile|block_pathfind,,block_projectile|block_pathfind
+2,12373,11496,,block_missile|block_pathfind,,block_projectile|block_pathfind
+3,12374,11497,,block_missile|block_pathfind,,block_projectile|block_pathfind
+4,12375,11498,,block_missile|block_pathfind,,block_projectile|block_pathfind
+5,12376,11499,,block_missile|block_pathfind,,block_projectile|block_pathfind
+6,12377,11500,,block_missile|block_pathfind,,block_projectile|block_pathfind
+7,12378,11501,,block_missile|block_pathfind,,block_projectile|block_pathfind
+8,12379,11502,,block_missile|block_pathfind,,block_projectile|block_pathfind
+9,12380,11503,,block_missile|block_pathfind,,block_projectile|block_pathfind
+10,12381,11504,,block_missile|block_pathfind,,block_projectile|block_pathfind
+11,12382,11505,,block_missile|block_pathfind,,block_projectile|block_pathfind
+12,12383,11506,,block_missile|block_pathfind,,block_projectile|block_pathfind
+13,12384,11507,,block_missile|block_pathfind,,block_projectile|block_pathfind
+14,12385,11508,,block_missile|block_pathfind,,block_projectile|block_pathfind
+15,12386,11509,,block_missile|block_pathfind,,block_projectile|block_pathfind
+16,12387,11510,,block_missile|block_pathfind,,block_projectile|block_pathfind

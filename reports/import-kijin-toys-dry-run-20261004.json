@@ -1,0 +1,126 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "manifest": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\kijin-toys-20261004\\import-kijin-toys.csv",
+  "item_count": 3,
+  "target_server_id_range": [
+    25572,
+    25574
+  ],
+  "target_client_id_range": [
+    24687,
+    24689
+  ],
+  "new_sprite_count": 3,
+  "sprite_id_range": [
+    273391,
+    273393
+  ],
+  "items": [
+    {
+      "sequence": 1,
+      "source_server_id": 25052,
+      "source_client_id": 24167,
+      "target_server_id": 25572,
+      "target_client_id": 24687,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\kijin-toys-20261004\\dolls_kurenai_kinjin.png",
+      "source_sha256": "B2B615CECA605CE6EAD6C0C13B3E0E78C951F984EF65A5B8FFAB812D9601F31D",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        273391,
+        273391
+      ],
+      "sprite_hash": "F5816F96F8E471B8A12B909D108C1E97"
+    },
+    {
+      "sequence": 2,
+      "source_server_id": 25052,
+      "source_client_id": 24167,
+      "target_server_id": 25573,
+      "target_client_id": 24688,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\kijin-toys-20261004\\dolls_shino_kinjin.png",
+      "source_sha256": "822AD9DE0FA2CCC18D0DF3B666C3D4DC2B65F2811C1D4BCFCB1B349EBBB52CE1",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        273392,
+        273392
+      ],
+      "sprite_hash": "DF42776DA59826DB00ED291FD22ED3B5"
+    },
+    {
+      "sequence": 3,
+      "source_server_id": 25052,
+      "source_client_id": 24167,
+      "target_server_id": 25574,
+      "target_client_id": 24689,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\kijin-toys-20261004\\dolls_kimimaro_kinjin.png",
+      "source_sha256": "02D7DCA07BFB84210B3633553C90327DB36FD959F6764A17953B1AEEDDB6A06B",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        273393,
+        273393
+      ],
+      "sprite_hash": "C9DD30F0A6728B1EC7E646F04419C311"
+    }
+  ],
+  "xml": {
+    "source_definitions": 1,
+    "target_definitions_written": 3,
+    "target_definitions_already_exact": 0,
+    "target_ids": [
+      25572,
+      25573,
+      25574
+    ]
+  },
+  "map_scan": {
+    "tiles_scanned": 7824286,
+    "item_nodes_scanned": 2105106
+  },
+  "dry_run": true,
+  "passed": true
+}

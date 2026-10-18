@@ -1,0 +1,106 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "profile": {
+    "key": "tibia-860-v2-custom-extended",
+    "client_version": 860,
+    "label": "Tibia 8.60 v2 customizado com features OTFI",
+    "dat_signature": "0x4C2C7993",
+    "spr_signature": "0x4C220594",
+    "metadata_reader": 5,
+    "otb_version_hint": "8.60"
+  },
+  "category": "items",
+  "id_kind": "server",
+  "requested_ids": [
+    17260,
+    25570,
+    25571
+  ],
+  "output_dir": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\kankuro-fragment-statues-20261004",
+  "exported_count": 3,
+  "exported": [
+    {
+      "requested_id": 17260,
+      "client_id": 16375,
+      "server_ids": [
+        17260
+      ],
+      "name": "Kankuro Fragment",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        272362
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\kankuro-fragment-statues-20261004\\server-17260_client-16375_kankuro-fragment.png",
+      "size": 1592,
+      "sha256": "0C632EEE58E5B9F2EC60481C6AC439B775A66E2468677A9A607C8A950E4A1D3B"
+    },
+    {
+      "requested_id": 25570,
+      "client_id": 24685,
+      "server_ids": [
+        25570
+      ],
+      "name": "Kankuro Statue",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        272363,
+        272364,
+        272365,
+        272366
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\kankuro-fragment-statues-20261004\\server-25570_client-24685_kankuro-statue.png",
+      "size": 1462,
+      "sha256": "831A115F61C62B02DA4AC9F16A74EA32CA2990364BAEA768BBD581C6F250E9AE"
+    },
+    {
+      "requested_id": 25571,
+      "client_id": 24686,
+      "server_ids": [
+        25571
+      ],
+      "name": "Kankuro Statue",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        272367,
+        272368,
+        272369,
+        272370
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\kankuro-fragment-statues-20261004\\server-25571_client-24686_kankuro-statue.png",
+      "size": 1533,
+      "sha256": "9D4F52A557B83060682632100528A0E2C7DE2392FAF7CD5065680534D583D156"
+    }
+  ],
+  "sources": {
+    "dat": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.dat",
+      "sha256": "508AF191411A843240D902E05CEB2FC89E20D5F2F44907006BB94CB4C2086F5C"
+    },
+    "spr": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.spr",
+      "sha256": "0064F637338DBDA973A808F36B81D97713B23EAAD7FC0EE458758A79A166EC20"
+    }
+  },
+  "passed": true
+}

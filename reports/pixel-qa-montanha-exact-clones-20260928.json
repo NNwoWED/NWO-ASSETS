@@ -1,0 +1,8 @@
+{
+  "source_layout": "object-builder-pattern-z-horizontal",
+  "target_layout": "canonical-dat-order",
+  "compared": 154,
+  "pixel_mismatches": [],
+  "passed": true,
+  "superseded_by": "reports/pixel-qa-montanha-exact-clones-final-20260928.json"
+}

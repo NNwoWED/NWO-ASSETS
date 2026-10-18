@@ -1,0 +1,83 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "profile": {
+    "key": "tibia-860-v2-custom-extended",
+    "client_version": 860,
+    "label": "Tibia 8.60 v2 customizado com features OTFI",
+    "dat_signature": "0x4C2C7993",
+    "spr_signature": "0x4C220594",
+    "metadata_reader": 5,
+    "otb_version_hint": "8.60"
+  },
+  "category": "items",
+  "id_kind": "server",
+  "requested_ids": [
+    25599,
+    25600
+  ],
+  "output_dir": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\importados\\new-sand-gravel-toco-20261009\\reexportados",
+  "exported_count": 2,
+  "exported": [
+    {
+      "requested_id": 25599,
+      "client_id": 24714,
+      "server_ids": [
+        25599
+      ],
+      "name": "Sand Gravel",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 2,
+      "pattern_y": 2,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        276719,
+        276720,
+        276721,
+        276722
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\importados\\new-sand-gravel-toco-20261009\\reexportados\\server-25599_client-24714_sand-gravel.png",
+      "size": 5025,
+      "sha256": "EE968DEC6E6D08816559F66D86E8C4606A10F8DB7E1B2E0F8F9A689137DFDDBA"
+    },
+    {
+      "requested_id": 25600,
+      "client_id": 24715,
+      "server_ids": [
+        25600
+      ],
+      "name": "Log Wall",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        276723,
+        276724,
+        276725,
+        276726
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\importados\\new-sand-gravel-toco-20261009\\reexportados\\server-25600_client-24715_log-wall.png",
+      "size": 559,
+      "sha256": "5D96BC79AA37295CA577B191E81E6309A5D8416BF88C1CD0F7B2303B7AA1CD07"
+    }
+  ],
+  "sources": {
+    "dat": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.dat",
+      "sha256": "629EB604EB0194BF77872F47061D1FCB4EF9F6C0785A26FBE24AA4C9811ABD71"
+    },
+    "spr": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.spr",
+      "sha256": "232D4B0E19995307FFAB96875EF4DD97C3394E7A01E45599AF3BFDDF75588F7B"
+    }
+  },
+  "passed": true
+}

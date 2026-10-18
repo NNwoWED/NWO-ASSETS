@@ -1,0 +1,6 @@
+sequence,effect_id,source_path,frames,frame_duration_ms,animation_async,preserve_as
+1,62,water_pulse_2-Sheet.png,8,75,0,
+2,1438,ideia_skill_zabuza_north.png,12,75,0,
+3,1439,ideia_skill_zabuza_direita.png,12,75,0,
+4,1440,ideia_skill_zabuza_south_-Sheet.png,12,75,0,
+5,1441,ideia_skill_zabuza_esquerda.png,12,75,0,

@@ -1,0 +1,546 @@
+﻿[
+    {
+        "name":  "banner-base-1-1.png",
+        "crop":  [
+                     22,
+                     0,
+                     200,
+                     200
+                 ],
+        "bounds":  [
+                       55,
+                       23,
+                       194,
+                       197
+                   ],
+        "size":  18,
+        "sha256":  "DA66428CA98E3993B4D1CBD2EE83C2DBBA45A7DA7F1D6ED1FBDF5D6FDE78EFDD"
+    },
+    {
+        "name":  "banner-base-1-2.png",
+        "crop":  [
+                     222,
+                     0,
+                     200,
+                     200
+                 ],
+        "bounds":  [
+                       256,
+                       23,
+                       395,
+                       198
+                   ],
+        "size":  18,
+        "sha256":  "869921D6ADBE6C306B258C988098D1A074250D757059BD06E70810D39ABB3A02"
+    },
+    {
+        "name":  "banner-base-1-3.png",
+        "crop":  [
+                     422,
+                     0,
+                     200,
+                     200
+                 ],
+        "bounds":  [
+                       457,
+                       23,
+                       595,
+                       197
+                   ],
+        "size":  18,
+        "sha256":  "A858427400A4CC62DD5321A054351946CAA3E7F3694ADC5761A6A5E3601FFC5C"
+    },
+    {
+        "name":  "banner-base-1-4.png",
+        "crop":  [
+                     622,
+                     0,
+                     200,
+                     200
+                 ],
+        "bounds":  [
+                       657,
+                       23,
+                       796,
+                       198
+                   ],
+        "size":  18,
+        "sha256":  "BAC49002B564EDAE0B63A08BA613A351E841B3B85505425160D1299258681A45"
+    },
+    {
+        "name":  "banner-base-1-5.png",
+        "crop":  [
+                     822,
+                     0,
+                     200,
+                     200
+                 ],
+        "bounds":  [
+                       858,
+                       23,
+                       995,
+                       197
+                   ],
+        "size":  18,
+        "sha256":  "854CCBAA8FC7095C782D0511F4E60B7D03320AF3044E161E99373CC63C6FA1CD"
+    },
+    {
+        "name":  "banner-base-1-6.png",
+        "crop":  [
+                     1022,
+                     0,
+                     200,
+                     200
+                 ],
+        "bounds":  [
+                       1058,
+                       23,
+                       1195,
+                       198
+                   ],
+        "size":  18,
+        "sha256":  "FB0009752BB34B574299E28FE93B74D8454150F3386A40487C715D4CD66D8099"
+    },
+    {
+        "name":  "banner-base-2-1.png",
+        "crop":  [
+                     22,
+                     200,
+                     200,
+                     200
+                 ],
+        "bounds":  [
+                       33,
+                       215,
+                       214,
+                       397
+                   ],
+        "size":  18,
+        "sha256":  "E330CBED31BFEBF5A43AFA19FD32EF09418AE638E706EA92AEAC758402065EE3"
+    },
+    {
+        "name":  "banner-base-2-2.png",
+        "crop":  [
+                     222,
+                     200,
+                     200,
+                     200
+                 ],
+        "bounds":  [
+                       234,
+                       215,
+                       415,
+                       397
+                   ],
+        "size":  18,
+        "sha256":  "168A382BDD79A61F18FEBEC8EE218ED4152CE64922A805EC3A9BA23383E151B3"
+    },
+    {
+        "name":  "banner-base-2-3.png",
+        "crop":  [
+                     422,
+                     200,
+                     200,
+                     200
+                 ],
+        "bounds":  [
+                       434,
+                       215,
+                       615,
+                       397
+                   ],
+        "size":  18,
+        "sha256":  "5A2EF4EBD464C5FC9E1497D8AFE106F16FE2FD943A755E4D7DA2BCFBB356C87F"
+    },
+    {
+        "name":  "banner-base-2-4.png",
+        "crop":  [
+                     622,
+                     200,
+                     200,
+                     200
+                 ],
+        "bounds":  [
+                       634,
+                       215,
+                       816,
+                       397
+                   ],
+        "size":  18,
+        "sha256":  "5D6E46390FCD879A8203932E0987F7AFCB74D524A68E6E4106C35ACE04685C17"
+    },
+    {
+        "name":  "banner-base-2-5.png",
+        "crop":  [
+                     822,
+                     200,
+                     200,
+                     200
+                 ],
+        "bounds":  [
+                       835,
+                       215,
+                       1017,
+                       397
+                   ],
+        "size":  18,
+        "sha256":  "932EB1055ABDE6FE8D27D310B69AE0B1403DBF70BAF1EB0908A55E6D1A2E6F3A"
+    },
+    {
+        "name":  "banner-base-2-6.png",
+        "crop":  [
+                     1022,
+                     200,
+                     200,
+                     200
+                 ],
+        "bounds":  [
+                       1036,
+                       215,
+                       1217,
+                       397
+                   ],
+        "size":  18,
+        "sha256":  "91A741777461E7BCFD0ABB7692182C3434FF8706C91B18DB877872048F825100"
+    },
+    {
+        "name":  "banner-base-3-1.png",
+        "crop":  [
+                     22,
+                     400,
+                     200,
+                     200
+                 ],
+        "bounds":  [
+                       48,
+                       414,
+                       198,
+                       586
+                   ],
+        "size":  18,
+        "sha256":  "557FCDDA68B14D1556C6ADFCFBB9805761414ED949DFD892AEE59A04558B7337"
+    },
+    {
+        "name":  "banner-base-3-2.png",
+        "crop":  [
+                     222,
+                     400,
+                     200,
+                     200
+                 ],
+        "bounds":  [
+                       249,
+                       414,
+                       399,
+                       586
+                   ],
+        "size":  18,
+        "sha256":  "597C31820C802BF0575DBBD816C9B81FC2EC4EDCA8D9F0095AFFFA5C4BFFD606"
+    },
+    {
+        "name":  "banner-base-3-3.png",
+        "crop":  [
+                     422,
+                     400,
+                     200,
+                     200
+                 ],
+        "bounds":  [
+                       449,
+                       414,
+                       599,
+                       586
+                   ],
+        "size":  18,
+        "sha256":  "512A4B4A03642C15F886B0508E96AEA500B5AAC11D8F6E861714E66D885DE26E"
+    },
+    {
+        "name":  "banner-base-3-4.png",
+        "crop":  [
+                     622,
+                     400,
+                     200,
+                     200
+                 ],
+        "bounds":  [
+                       650,
+                       414,
+                       800,
+                       586
+                   ],
+        "size":  18,
+        "sha256":  "E6D788F8C0C0C2E8598FA62EBCF91B424E67B2C341FFB4AF3764025CDD152576"
+    },
+    {
+        "name":  "banner-base-3-5.png",
+        "crop":  [
+                     822,
+                     400,
+                     200,
+                     200
+                 ],
+        "bounds":  [
+                       850,
+                       414,
+                       1000,
+                       586
+                   ],
+        "size":  18,
+        "sha256":  "B2B65A01E10C4A18CC291730EDF99ABBA8E0C268DEAC12E09328C74B2131F3C0"
+    },
+    {
+        "name":  "banner-base-3-6.png",
+        "crop":  [
+                     1022,
+                     400,
+                     200,
+                     200
+                 ],
+        "bounds":  [
+                       1051,
+                       414,
+                       1201,
+                       586
+                   ],
+        "size":  18,
+        "sha256":  "3DC756375142D120BF53EE1EE03216557F639B37C1D325DC267E67C0596C9603"
+    },
+    {
+        "name":  "banner-base-4-1.png",
+        "crop":  [
+                     22,
+                     600,
+                     200,
+                     200
+                 ],
+        "bounds":  [
+                       43,
+                       610,
+                       204,
+                       775
+                   ],
+        "size":  18,
+        "sha256":  "EC6AEC909BF1D37444977B891DCE242BACA933D61A121961B60E33DAA8C86130"
+    },
+    {
+        "name":  "banner-base-4-2.png",
+        "crop":  [
+                     222,
+                     600,
+                     200,
+                     200
+                 ],
+        "bounds":  [
+                       242,
+                       610,
+                       405,
+                       775
+                   ],
+        "size":  18,
+        "sha256":  "582B341EF8DA1FD812B436F6E27FD907A8D37097C3A220030EB9FCC204322BF2"
+    },
+    {
+        "name":  "banner-base-4-3.png",
+        "crop":  [
+                     422,
+                     600,
+                     200,
+                     200
+                 ],
+        "bounds":  [
+                       443,
+                       610,
+                       605,
+                       775
+                   ],
+        "size":  18,
+        "sha256":  "C9B334C7F558BEFA25256066B093920BCF9A1A4A358DFE7110A39F4C43E95866"
+    },
+    {
+        "name":  "banner-base-4-4.png",
+        "crop":  [
+                     622,
+                     600,
+                     200,
+                     200
+                 ],
+        "bounds":  [
+                       643,
+                       610,
+                       806,
+                       775
+                   ],
+        "size":  18,
+        "sha256":  "A5E71D49F9653FCBA32C49314672EF38DD27A589629E7D121C3D382A6FB1B550"
+    },
+    {
+        "name":  "banner-base-4-5.png",
+        "crop":  [
+                     822,
+                     600,
+                     200,
+                     200
+                 ],
+        "bounds":  [
+                       844,
+                       610,
+                       1006,
+                       775
+                   ],
+        "size":  18,
+        "sha256":  "D9992D56F2A38B47EF0EB529B390062BA87B5562AB8C461C73F67810E6375204"
+    },
+    {
+        "name":  "banner-base-4-6.png",
+        "crop":  [
+                     1022,
+                     600,
+                     200,
+                     200
+                 ],
+        "bounds":  [
+                       1044,
+                       610,
+                       1207,
+                       775
+                   ],
+        "size":  18,
+        "sha256":  "C39655C97D66D353B7289BD6A4887751F3B35B674788E18EF9E96D11F2BCE258"
+    },
+    {
+        "name":  "banner-logo-1.png",
+        "crop":  [
+                     0,
+                     800,
+                     198,
+                     192
+                 ],
+        "bounds":  [
+                       48,
+                       823,
+                       197,
+                       943
+                   ],
+        "size":  18,
+        "sha256":  "E4FC0CA4DBA4831504CF33E0479BD0B38E7EF57453CB0FF2EF7C0C1744CD0087"
+    },
+    {
+        "name":  "banner-logo-2.png",
+        "crop":  [
+                     198,
+                     800,
+                     198,
+                     192
+                 ],
+        "bounds":  [
+                       198,
+                       810,
+                       380,
+                       947
+                   ],
+        "size":  18,
+        "sha256":  "40EE31A2E52D11C58AA7571225AA08E59EBF4A1B0FF52550EE102E9B25A863A4"
+    },
+    {
+        "name":  "banner-logo-3.png",
+        "crop":  [
+                     396,
+                     800,
+                     198,
+                     192
+                 ],
+        "bounds":  [
+                       434,
+                       820,
+                       587,
+                       947
+                   ],
+        "size":  18,
+        "sha256":  "24C34DFA53891FFA83BEE69D8C33EE8761D273F18C43F899298EBE560ED28CCB"
+    },
+    {
+        "name":  "banner-logo-4.png",
+        "crop":  [
+                     594,
+                     800,
+                     199,
+                     192
+                 ],
+        "bounds":  [
+                       630,
+                       808,
+                       775,
+                       952
+                   ],
+        "size":  18,
+        "sha256":  "34EE812B65472C5C71F173B074D0E2AA386C32886573CDC7D86AC53C35AAD93E"
+    },
+    {
+        "name":  "banner-logo-5.png",
+        "crop":  [
+                     793,
+                     800,
+                     198,
+                     192
+                 ],
+        "bounds":  [
+                       812,
+                       817,
+                       968,
+                       941
+                   ],
+        "size":  18,
+        "sha256":  "1D97EF511B79A5CBB300100226007CA3D26B65342F2E44EA35288470E25C7862"
+    },
+    {
+        "name":  "banner-logo-6.png",
+        "crop":  [
+                     991,
+                     800,
+                     198,
+                     192
+                 ],
+        "bounds":  [
+                       1027,
+                       810,
+                       1142,
+                       958
+                   ],
+        "size":  18,
+        "sha256":  "43A3824B4DE5E53EF4392284C0801FF99646AECD75E3CB1E10991103BC0D61CE"
+    },
+    {
+        "name":  "banner-logo-7.png",
+        "crop":  [
+                     1189,
+                     800,
+                     198,
+                     192
+                 ],
+        "bounds":  [
+                       1208,
+                       838,
+                       1366,
+                       924
+                   ],
+        "size":  18,
+        "sha256":  "03D0011A8667E96F9C37A1338AAB63B4E904CFEB6B0AD317DF7D4A371CF2FE40"
+    },
+    {
+        "name":  "banner-logo-8.png",
+        "crop":  [
+                     1387,
+                     800,
+                     199,
+                     192
+                 ],
+        "bounds":  [
+                       1403,
+                       814,
+                       1538,
+                       947
+                   ],
+        "size":  18,
+        "sha256":  "7852DED0E6D9E1C029EB7198A4221717C05F99B543251319AD230DF2D709C67F"
+    }
+]

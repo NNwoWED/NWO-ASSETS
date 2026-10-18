@@ -1,0 +1,83 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "profile": {
+    "key": "tibia-860-v2-custom-extended",
+    "client_version": 860,
+    "label": "Tibia 8.60 v2 customizado com features OTFI",
+    "dat_signature": "0x4C2C7993",
+    "spr_signature": "0x4C220594",
+    "metadata_reader": 5,
+    "otb_version_hint": "8.60"
+  },
+  "category": "items",
+  "id_kind": "server",
+  "requested_ids": [
+    5138,
+    5139
+  ],
+  "output_dir": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items-sid5138-5139-20261009",
+  "exported_count": 2,
+  "exported": [
+    {
+      "requested_id": 5138,
+      "client_id": 5137,
+      "server_ids": [
+        5138
+      ],
+      "name": "Closed door",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        71922,
+        71923,
+        69106,
+        71924
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items-sid5138-5139-20261009\\server-5138_client-5137_closed-door.png",
+      "size": 1062,
+      "sha256": "F00E60431BADB322C49C111A10E2A6D55CAD5AD935D08F1FF585E56510A5F33F"
+    },
+    {
+      "requested_id": 5139,
+      "client_id": 5138,
+      "server_ids": [
+        5139
+      ],
+      "name": "Open door",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        72336,
+        72337,
+        72338,
+        72339
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items-sid5138-5139-20261009\\server-5139_client-5138_open-door.png",
+      "size": 1312,
+      "sha256": "C11714B3FA545B1C05B88D4216429060DA9895E6E81B6FF85770157DE032A026"
+    }
+  ],
+  "sources": {
+    "dat": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.dat",
+      "sha256": "629EB604EB0194BF77872F47061D1FCB4EF9F6C0785A26FBE24AA4C9811ABD71"
+    },
+    "spr": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.spr",
+      "sha256": "232D4B0E19995307FFAB96875EF4DD97C3394E7A01E45599AF3BFDDF75588F7B"
+    }
+  },
+  "passed": true
+}

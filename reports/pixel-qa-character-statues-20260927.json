@@ -1,0 +1,150 @@
+﻿{
+    "passed":  true,
+    "checked":  16,
+    "comparisons":  [
+                        {
+                            "client_id":  13929,
+                            "source":  "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\estatuas-base\\server-14811_client-13929_neji-statue.png",
+                            "exported":  "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-14811_client-13929_neji-statue.png",
+                            "width":  64,
+                            "height":  64,
+                            "identical_pixels":  true,
+                            "different_pixels":  0
+                        },
+                        {
+                            "client_id":  13930,
+                            "source":  "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\estatuas-base\\server-14812_client-13930_neji-statue.png",
+                            "exported":  "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-14812_client-13930_neji-statue.png",
+                            "width":  64,
+                            "height":  64,
+                            "identical_pixels":  true,
+                            "different_pixels":  0
+                        },
+                        {
+                            "client_id":  7404,
+                            "source":  "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\estatuas-base\\server-_client-_hinata-statue-export 1.png",
+                            "exported":  "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-7404_client-7404_hinata-statue.png",
+                            "width":  64,
+                            "height":  64,
+                            "identical_pixels":  true,
+                            "different_pixels":  0
+                        },
+                        {
+                            "client_id":  7409,
+                            "source":  "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\estatuas-base\\server-_client-_hinata-statue-export 2.png",
+                            "exported":  "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-7409_client-7409_hinata-statue.png",
+                            "width":  64,
+                            "height":  64,
+                            "identical_pixels":  true,
+                            "different_pixels":  0
+                        },
+                        {
+                            "client_id":  7430,
+                            "source":  "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\estatuas-base\\server-_client-_kabuto-statue-export 1.png",
+                            "exported":  "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-7430_client-7430_kabuto-statue.png",
+                            "width":  64,
+                            "height":  64,
+                            "identical_pixels":  true,
+                            "different_pixels":  0
+                        },
+                        {
+                            "client_id":  7434,
+                            "source":  "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\estatuas-base\\server-_client-_kabuto-statue-export 2.png",
+                            "exported":  "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-7434_client-7434_kabuto-statue.png",
+                            "width":  64,
+                            "height":  64,
+                            "identical_pixels":  true,
+                            "different_pixels":  0
+                        },
+                        {
+                            "client_id":  7435,
+                            "source":  "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\estatuas-base\\server-_client-_kakashi-statue-export 1.png",
+                            "exported":  "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-7435_client-7435_kakashi-statue.png",
+                            "width":  64,
+                            "height":  64,
+                            "identical_pixels":  true,
+                            "different_pixels":  0
+                        },
+                        {
+                            "client_id":  7439,
+                            "source":  "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\estatuas-base\\server-_client-_kakashi-statue-export 2.png",
+                            "exported":  "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-7439_client-7439_kakashi-statue.png",
+                            "width":  64,
+                            "height":  64,
+                            "identical_pixels":  true,
+                            "different_pixels":  0
+                        },
+                        {
+                            "client_id":  7440,
+                            "source":  "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\estatuas-base\\server-_client-_kiba-statue-export 1.png",
+                            "exported":  "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-7440_client-7440_kiba-statue.png",
+                            "width":  64,
+                            "height":  64,
+                            "identical_pixels":  true,
+                            "different_pixels":  0
+                        },
+                        {
+                            "client_id":  7443,
+                            "source":  "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\estatuas-base\\server-_client-_kiba-statue-export 2.png",
+                            "exported":  "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-7443_client-7443_kiba-statue.png",
+                            "width":  64,
+                            "height":  64,
+                            "identical_pixels":  true,
+                            "different_pixels":  0
+                        },
+                        {
+                            "client_id":  7450,
+                            "source":  "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\estatuas-base\\server-_client-_kimimaru-statue-export 1.png",
+                            "exported":  "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-7450_client-7450_kimimaro-statue.png",
+                            "width":  64,
+                            "height":  64,
+                            "identical_pixels":  true,
+                            "different_pixels":  0
+                        },
+                        {
+                            "client_id":  7457,
+                            "source":  "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\estatuas-base\\server-_client-_kimimaru-statue-export 2.png",
+                            "exported":  "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-7457_client-7457_kimimaro-statue.png",
+                            "width":  64,
+                            "height":  64,
+                            "identical_pixels":  true,
+                            "different_pixels":  0
+                        },
+                        {
+                            "client_id":  7459,
+                            "source":  "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\estatuas-base\\server-_client-_shino-statue-export 1.png",
+                            "exported":  "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-7459_client-7459_shino-statue.png",
+                            "width":  64,
+                            "height":  64,
+                            "identical_pixels":  true,
+                            "different_pixels":  0
+                        },
+                        {
+                            "client_id":  7460,
+                            "source":  "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\estatuas-base\\server-_client-_shino-statue-export 2.png",
+                            "exported":  "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-7460_client-7460_shino-statue.png",
+                            "width":  64,
+                            "height":  64,
+                            "identical_pixels":  true,
+                            "different_pixels":  0
+                        },
+                        {
+                            "client_id":  7461,
+                            "source":  "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\estatuas-base\\server-_client-_zabuza-statue-export 1.png",
+                            "exported":  "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-7461_client-7461_zabuza-statue.png",
+                            "width":  64,
+                            "height":  64,
+                            "identical_pixels":  true,
+                            "different_pixels":  0
+                        },
+                        {
+                            "client_id":  7462,
+                            "source":  "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\estatuas-base\\server-_client-_zabuza-statue-export 2.png",
+                            "exported":  "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-7462_client-7462_zabuza-statue.png",
+                            "width":  64,
+                            "height":  64,
+                            "identical_pixels":  true,
+                            "different_pixels":  0
+                        }
+                    ]
+}

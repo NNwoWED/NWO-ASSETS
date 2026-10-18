@@ -1,0 +1,109 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "manifest": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\kijin-oni-backpacks-20261003\\properties-oni-backpack-sid14640.csv",
+  "version_backup": {
+    "tool_version": "0.8.2",
+    "version_id": "20261003-192818-987499",
+    "created_at": "2026-10-03T19:28:31.125129-03:00",
+    "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261003-192818-987499",
+    "rar_executable": "C:\\Program Files\\WinRAR\\Rar.exe",
+    "sources": [
+      {
+        "path": "assets/860/.gitattributes",
+        "size": 43,
+        "sha256": "D5636A3257287440945C5E017581545E5B0A3E2FDDDAE7C5EF8D90FF4DF3D32A"
+      },
+      {
+        "path": "assets/860/Tibia.dat",
+        "size": 4499422,
+        "sha256": "05DF3F01F9E177850A76C4207E5CFAA612652441FC55D9AA7CB3B5F24246FF2B"
+      },
+      {
+        "path": "assets/860/Tibia.otfi",
+        "size": 185,
+        "sha256": "7743548835944BC799CB871A4E5DEF84F7AF76815031871B9CE74B5EC0E8ADD3"
+      },
+      {
+        "path": "assets/860/Tibia.spr",
+        "size": 458473941,
+        "sha256": "C7553997E7410E369335F7DBB5AA0EC1674D037301409DC17EAF6C5778DA709B"
+      },
+      {
+        "path": "assets/items/force use.txt",
+        "size": 419,
+        "sha256": "BCB478FDF3F45ECA8D172AFD7A17D3F8CD520924EE0894752452B8FDC8F71959"
+      },
+      {
+        "path": "assets/items/items.otb",
+        "size": 1010720,
+        "sha256": "F259710FB375863BE5C9B5A7DCBF990CC3C9FC58DC4440D8324D666B96D14405"
+      },
+      {
+        "path": "assets/world/mapanovo.otbm",
+        "size": 80105770,
+        "sha256": "8CDFDDF9DC2A9E53053E4F3FAF7F6825FD89B6B63EE06272ECD234B387202821"
+      }
+    ],
+    "archives": {
+      "860": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261003-192818-987499\\860.rar",
+        "size": 85316519,
+        "sha256": "7D07EBB5C185857A41F8D1AD3FB8795B114906D0AD2E268666CD656F4B5C9B25"
+      },
+      "items": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261003-192818-987499\\items.rar",
+        "size": 481636,
+        "sha256": "7B1B55E9420B92601698C2A07DE703F82FBC1377CA61990646AEA53DBB4BFB63"
+      },
+      "world": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261003-192818-987499\\world.zip",
+        "size": 19337359,
+        "sha256": "170CD29639D001F9273247C874479344E8207ECB971919AE0E8CAE14295E4A31"
+      }
+    },
+    "items_xml_excluded": true,
+    "world_entries": [
+      "mapanovo.otbm"
+    ],
+    "passed": true
+  },
+  "item_count": 1,
+  "items": [
+    {
+      "sequence": 1,
+      "server_id": 14640,
+      "client_id": 13761,
+      "dat": {
+        "before": [
+          "stackable",
+          "multi_use",
+          "pickupable"
+        ],
+        "after": [
+          "pickupable",
+          "container"
+        ]
+      },
+      "otb": {
+        "before_mask": "0x000000F0",
+        "after_mask": "0x00000060",
+        "before": [
+          "usable",
+          "pickupable",
+          "movable",
+          "stackable"
+        ],
+        "after": [
+          "pickupable",
+          "movable"
+        ]
+      }
+    }
+  ],
+  "transaction_committed": true,
+  "untouched_assets_preserved": true,
+  "final_validation_passed": true,
+  "warnings": [],
+  "errors": [],
+  "passed": true
+}

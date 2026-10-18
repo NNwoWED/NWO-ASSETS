@@ -1,0 +1,2 @@
+sequence,operation,missile_id,reference_missile_id,source_path,frames,frame_duration_ms,animation_async
+1,reserved,121,217,missilen_217-sheet.png,2,100,0

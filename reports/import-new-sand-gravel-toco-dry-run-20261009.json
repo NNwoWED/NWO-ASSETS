@@ -1,0 +1,95 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "manifest": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\import-new-sand-gravel-toco-20261009.csv",
+  "item_count": 2,
+  "target_server_id_range": [
+    25599,
+    25600
+  ],
+  "target_client_id_range": [
+    24714,
+    24715
+  ],
+  "new_sprite_count": 8,
+  "sprite_id_range": [
+    276719,
+    276726
+  ],
+  "items": [
+    {
+      "sequence": 1,
+      "source_server_id": 17349,
+      "source_client_id": 16464,
+      "target_server_id": 25599,
+      "target_client_id": 24714,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\server-17349_client-16464.png",
+      "source_sha256": "1E33B6DDB492A8062546952EF112C04EC6172FCE402D6836B67071B783289751",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 2,
+      "pattern_y": 2,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        276719,
+        276722
+      ],
+      "sprite_hash": "B55C291B17833B2404681235A5C872A1"
+    },
+    {
+      "sequence": 2,
+      "source_server_id": 25598,
+      "source_client_id": 24713,
+      "target_server_id": 25600,
+      "target_client_id": 24715,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\toco_1036_.png",
+      "source_sha256": "5D96BC79AA37295CA577B191E81E6309A5D8416BF88C1CD0F7B2303B7AA1CD07",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        276723,
+        276726
+      ],
+      "sprite_hash": "816C5F6A16AE44FFDA315EFB3B0089D2"
+    }
+  ],
+  "xml": {
+    "source_definitions": 2,
+    "target_definitions_written": 2,
+    "target_definitions_already_exact": 0,
+    "target_ids": [
+      25599,
+      25600
+    ]
+  },
+  "map_scan": {
+    "tiles_scanned": 7824286,
+    "item_nodes_scanned": 2105106
+  },
+  "dry_run": true,
+  "passed": true
+}

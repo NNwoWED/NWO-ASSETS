@@ -1,0 +1,145 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "profile": {
+    "key": "tibia-860-v2-custom-extended",
+    "client_version": 860,
+    "label": "Tibia 8.60 v2 customizado com features OTFI",
+    "dat_signature": "0x4C2C7993",
+    "spr_signature": "0x4C220594",
+    "metadata_reader": 5,
+    "otb_version_hint": "8.60"
+  },
+  "category": "items",
+  "id_kind": "server",
+  "requested_ids": [
+    14416,
+    14417,
+    14418
+  ],
+  "output_dir": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items",
+  "exported_count": 3,
+  "exported": [
+    {
+      "requested_id": 14416,
+      "client_id": 13539,
+      "server_ids": [
+        14416
+      ],
+      "name": "Selo 1",
+      "group_index": 0,
+      "width": 32,
+      "height": 512,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 16,
+      "sprite_ids": [
+        235747,
+        235748,
+        235749,
+        235750,
+        235751,
+        235752,
+        235753,
+        235754,
+        235755,
+        235756,
+        235757,
+        235758,
+        235759,
+        235760,
+        235761,
+        235762
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-14416_client-13539_selo-1.png",
+      "size": 19782,
+      "sha256": "34C24C8D63DDA1457D59B8FFCC6FA6DD6DBC8F4471C3CD9B2564B41F0E06B44C"
+    },
+    {
+      "requested_id": 14417,
+      "client_id": 13540,
+      "server_ids": [
+        14417
+      ],
+      "name": "Selo 2",
+      "group_index": 0,
+      "width": 32,
+      "height": 512,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 16,
+      "sprite_ids": [
+        235763,
+        235764,
+        235765,
+        235766,
+        235767,
+        235768,
+        235769,
+        235770,
+        235771,
+        235772,
+        235773,
+        235774,
+        235775,
+        235776,
+        235777,
+        235778
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-14417_client-13540_selo-2.png",
+      "size": 11973,
+      "sha256": "0B8E9E9782EAFFDBEB4787F158C3630AF10D1FD6BA416D848886A7B20EDC4162"
+    },
+    {
+      "requested_id": 14418,
+      "client_id": 13541,
+      "server_ids": [
+        14418
+      ],
+      "name": "Selo 3",
+      "group_index": 0,
+      "width": 32,
+      "height": 512,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 16,
+      "sprite_ids": [
+        235779,
+        235780,
+        235781,
+        235782,
+        235783,
+        235784,
+        235785,
+        235786,
+        235785,
+        235784,
+        235787,
+        235788,
+        235787,
+        235784,
+        235785,
+        235785
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-14418_client-13541_selo-3.png",
+      "size": 9363,
+      "sha256": "7ACCF2CF8363EDE66A0A1FCE4166959E6BBB352C97EB4DB20F449F98833BF276"
+    }
+  ],
+  "sources": {
+    "dat": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.dat",
+      "sha256": "F359292FBBC250AA22B7854A5D6AF8EAEEABA502B9CD26BE5BAE698249F01F45"
+    },
+    "spr": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.spr",
+      "sha256": "D349A20C9138527D846EB7FEC28206B32727018417209B8C6373C683FCB3AFC6"
+    }
+  },
+  "passed": true
+}

@@ -1,0 +1,483 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "manifest": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\reports\\manifest-character-statue-properties-20260927.csv",
+  "version_backup": {
+    "tool_version": "0.8.2",
+    "version_id": "20260927-154739-780946",
+    "created_at": "2026-09-27T15:47:50.683870-03:00",
+    "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20260927-154739-780946",
+    "rar_executable": "C:\\Program Files\\WinRAR\\Rar.exe",
+    "sources": [
+      {
+        "path": "assets/860/.gitattributes",
+        "size": 43,
+        "sha256": "D5636A3257287440945C5E017581545E5B0A3E2FDDDAE7C5EF8D90FF4DF3D32A"
+      },
+      {
+        "path": "assets/860/Tibia.dat",
+        "size": 4424956,
+        "sha256": "AE53411E2544E0AFE53F8E6BB996C9C1B6E8BAD64654BD35A6409B67DEB512E7"
+      },
+      {
+        "path": "assets/860/Tibia.otfi",
+        "size": 185,
+        "sha256": "7743548835944BC799CB871A4E5DEF84F7AF76815031871B9CE74B5EC0E8ADD3"
+      },
+      {
+        "path": "assets/860/Tibia.spr",
+        "size": 447089966,
+        "sha256": "7AC8CD2A006B25BD671FEA641173DCF27A8F2667286063A81B66061554CF9222"
+      },
+      {
+        "path": "assets/items/force use.txt",
+        "size": 419,
+        "sha256": "BCB478FDF3F45ECA8D172AFD7A17D3F8CD520924EE0894752452B8FDC8F71959"
+      },
+      {
+        "path": "assets/items/items.otb",
+        "size": 1003936,
+        "sha256": "4C78224A42907F10FEDD273C36720199EB348407AF8CA0DCFFC1B955ED6ACA45"
+      },
+      {
+        "path": "assets/world/mapanovo.otbm",
+        "size": 80105770,
+        "sha256": "8CDFDDF9DC2A9E53053E4F3FAF7F6825FD89B6B63EE06272ECD234B387202821"
+      }
+    ],
+    "archives": {
+      "860": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20260927-154739-780946\\860.rar",
+        "size": 84053461,
+        "sha256": "9671F688B2B9BBF65EE2794AAD48ACD0D59258F46406AEC60A84679F3E8B9E3E"
+      },
+      "items": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20260927-154739-780946\\items.rar",
+        "size": 477955,
+        "sha256": "1D7D25356AE4FE0172D53C44C715494E847394141A3EA97C66A792B9571BB985"
+      },
+      "world": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20260927-154739-780946\\world.zip",
+        "size": 19337359,
+        "sha256": "170CD29639D001F9273247C874479344E8207ECB971919AE0E8CAE14295E4A31"
+      }
+    },
+    "items_xml_excluded": true,
+    "world_entries": [
+      "mapanovo.otbm"
+    ],
+    "passed": true
+  },
+  "item_count": 14,
+  "items": [
+    {
+      "sequence": 1,
+      "server_id": 7404,
+      "client_id": 7404,
+      "dat": {
+        "before": [],
+        "after": [
+          "unmoveable",
+          "ignore_look"
+        ]
+      },
+      "otb": {
+        "before_mask": "0x00000040",
+        "after_mask": "0x00008065",
+        "before": [
+          "movable"
+        ],
+        "after": [
+          "block_solid",
+          "block_pathfind",
+          "pickupable",
+          "movable",
+          "rotatable"
+        ]
+      }
+    },
+    {
+      "sequence": 2,
+      "server_id": 7409,
+      "client_id": 7409,
+      "dat": {
+        "before": [
+          "multi_use",
+          "pickupable"
+        ],
+        "after": [
+          "unmoveable"
+        ]
+      },
+      "otb": {
+        "before_mask": "0x00000070",
+        "after_mask": "0x00008065",
+        "before": [
+          "usable",
+          "pickupable",
+          "movable"
+        ],
+        "after": [
+          "block_solid",
+          "block_pathfind",
+          "pickupable",
+          "movable",
+          "rotatable"
+        ]
+      }
+    },
+    {
+      "sequence": 3,
+      "server_id": 7430,
+      "client_id": 7430,
+      "dat": {
+        "before": [],
+        "after": [
+          "unmoveable",
+          "ignore_look"
+        ]
+      },
+      "otb": {
+        "before_mask": "0x00000040",
+        "after_mask": "0x00008065",
+        "before": [
+          "movable"
+        ],
+        "after": [
+          "block_solid",
+          "block_pathfind",
+          "pickupable",
+          "movable",
+          "rotatable"
+        ]
+      }
+    },
+    {
+      "sequence": 4,
+      "server_id": 7434,
+      "client_id": 7434,
+      "dat": {
+        "before": [],
+        "after": [
+          "unmoveable"
+        ]
+      },
+      "otb": {
+        "before_mask": "0x00000040",
+        "after_mask": "0x00008065",
+        "before": [
+          "movable"
+        ],
+        "after": [
+          "block_solid",
+          "block_pathfind",
+          "pickupable",
+          "movable",
+          "rotatable"
+        ]
+      }
+    },
+    {
+      "sequence": 5,
+      "server_id": 7435,
+      "client_id": 7435,
+      "dat": {
+        "before": [],
+        "after": [
+          "unmoveable",
+          "ignore_look"
+        ]
+      },
+      "otb": {
+        "before_mask": "0x00000040",
+        "after_mask": "0x00008065",
+        "before": [
+          "movable"
+        ],
+        "after": [
+          "block_solid",
+          "block_pathfind",
+          "pickupable",
+          "movable",
+          "rotatable"
+        ]
+      }
+    },
+    {
+      "sequence": 6,
+      "server_id": 7439,
+      "client_id": 7439,
+      "dat": {
+        "before": [
+          "stackable",
+          "multi_use",
+          "pickupable"
+        ],
+        "after": [
+          "unmoveable"
+        ]
+      },
+      "otb": {
+        "before_mask": "0x000000F0",
+        "after_mask": "0x00008065",
+        "before": [
+          "usable",
+          "pickupable",
+          "movable",
+          "stackable"
+        ],
+        "after": [
+          "block_solid",
+          "block_pathfind",
+          "pickupable",
+          "movable",
+          "rotatable"
+        ]
+      }
+    },
+    {
+      "sequence": 7,
+      "server_id": 7440,
+      "client_id": 7440,
+      "dat": {
+        "before": [
+          "stackable",
+          "multi_use",
+          "pickupable"
+        ],
+        "after": [
+          "unmoveable",
+          "ignore_look"
+        ]
+      },
+      "otb": {
+        "before_mask": "0x000000F0",
+        "after_mask": "0x00008065",
+        "before": [
+          "usable",
+          "pickupable",
+          "movable",
+          "stackable"
+        ],
+        "after": [
+          "block_solid",
+          "block_pathfind",
+          "pickupable",
+          "movable",
+          "rotatable"
+        ]
+      }
+    },
+    {
+      "sequence": 8,
+      "server_id": 7443,
+      "client_id": 7443,
+      "dat": {
+        "before": [
+          "stackable",
+          "multi_use",
+          "pickupable"
+        ],
+        "after": [
+          "unmoveable"
+        ]
+      },
+      "otb": {
+        "before_mask": "0x000000F0",
+        "after_mask": "0x00008065",
+        "before": [
+          "usable",
+          "pickupable",
+          "movable",
+          "stackable"
+        ],
+        "after": [
+          "block_solid",
+          "block_pathfind",
+          "pickupable",
+          "movable",
+          "rotatable"
+        ]
+      }
+    },
+    {
+      "sequence": 9,
+      "server_id": 7450,
+      "client_id": 7450,
+      "dat": {
+        "before": [],
+        "after": [
+          "unmoveable",
+          "ignore_look"
+        ]
+      },
+      "otb": {
+        "before_mask": "0x00000040",
+        "after_mask": "0x00008065",
+        "before": [
+          "movable"
+        ],
+        "after": [
+          "block_solid",
+          "block_pathfind",
+          "pickupable",
+          "movable",
+          "rotatable"
+        ]
+      }
+    },
+    {
+      "sequence": 10,
+      "server_id": 7457,
+      "client_id": 7457,
+      "dat": {
+        "before": [
+          "pickupable"
+        ],
+        "after": [
+          "unmoveable"
+        ]
+      },
+      "otb": {
+        "before_mask": "0x00000060",
+        "after_mask": "0x00008065",
+        "before": [
+          "pickupable",
+          "movable"
+        ],
+        "after": [
+          "block_solid",
+          "block_pathfind",
+          "pickupable",
+          "movable",
+          "rotatable"
+        ]
+      }
+    },
+    {
+      "sequence": 11,
+      "server_id": 7459,
+      "client_id": 7459,
+      "dat": {
+        "before": [
+          "pickupable"
+        ],
+        "after": [
+          "unmoveable",
+          "ignore_look"
+        ]
+      },
+      "otb": {
+        "before_mask": "0x00000060",
+        "after_mask": "0x00008065",
+        "before": [
+          "pickupable",
+          "movable"
+        ],
+        "after": [
+          "block_solid",
+          "block_pathfind",
+          "pickupable",
+          "movable",
+          "rotatable"
+        ]
+      }
+    },
+    {
+      "sequence": 12,
+      "server_id": 7460,
+      "client_id": 7460,
+      "dat": {
+        "before": [
+          "pickupable"
+        ],
+        "after": [
+          "unmoveable"
+        ]
+      },
+      "otb": {
+        "before_mask": "0x00000060",
+        "after_mask": "0x00008065",
+        "before": [
+          "pickupable",
+          "movable"
+        ],
+        "after": [
+          "block_solid",
+          "block_pathfind",
+          "pickupable",
+          "movable",
+          "rotatable"
+        ]
+      }
+    },
+    {
+      "sequence": 13,
+      "server_id": 7461,
+      "client_id": 7461,
+      "dat": {
+        "before": [
+          "force_use",
+          "pickupable"
+        ],
+        "after": [
+          "force_use",
+          "unmoveable",
+          "ignore_look"
+        ]
+      },
+      "otb": {
+        "before_mask": "0x04000060",
+        "after_mask": "0x04008065",
+        "before": [
+          "pickupable",
+          "movable",
+          "force_use"
+        ],
+        "after": [
+          "block_solid",
+          "block_pathfind",
+          "pickupable",
+          "movable",
+          "rotatable",
+          "force_use"
+        ]
+      }
+    },
+    {
+      "sequence": 14,
+      "server_id": 7462,
+      "client_id": 7462,
+      "dat": {
+        "before": [
+          "multi_use",
+          "pickupable"
+        ],
+        "after": [
+          "unmoveable"
+        ]
+      },
+      "otb": {
+        "before_mask": "0x00000070",
+        "after_mask": "0x00008065",
+        "before": [
+          "usable",
+          "pickupable",
+          "movable"
+        ],
+        "after": [
+          "block_solid",
+          "block_pathfind",
+          "pickupable",
+          "movable",
+          "rotatable"
+        ]
+      }
+    }
+  ],
+  "transaction_committed": true,
+  "untouched_assets_preserved": true,
+  "final_validation_passed": true,
+  "warnings": [],
+  "errors": [],
+  "passed": true
+}

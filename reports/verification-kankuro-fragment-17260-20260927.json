@@ -1,0 +1,58 @@
+﻿{
+    "passed":  true,
+    "checks":  {
+                   "canonical_name":  true,
+                   "server_name":  true,
+                   "market":  true,
+                   "action_registered":  true,
+                   "vocation_storage":  true,
+                   "all_fragments":  true,
+                   "fragment_list":  true,
+                   "shooter_chest":  true,
+                   "unlock_item":  true,
+                   "catalog_by_client":  true,
+                   "catalog_by_server":  true
+               },
+    "runtime_hashes":  [
+                           {
+                               "source":  "NWO-ASSETS/assets/items/items.otb",
+                               "destination":  "Server-Data-Nwo/data/items/items.otb",
+                               "match":  true
+                           },
+                           {
+                               "source":  "NWO-ASSETS/assets/items/items.xml",
+                               "destination":  "Server-Data-Nwo/data/items/items.xml",
+                               "match":  true
+                           },
+                           {
+                               "source":  "NWO-ASSETS/assets/items/items.otb",
+                               "destination":  "RME 5.0/Editor/data/860/items.otb",
+                               "match":  true
+                           },
+                           {
+                               "source":  "NWO-ASSETS/assets/items/items.xml",
+                               "destination":  "RME 5.0/Editor/data/860/items.xml",
+                               "match":  true
+                           },
+                           {
+                               "source":  "NWO-ASSETS/assets/860/Tibia.dat",
+                               "destination":  "nwo-otclient-mehah-4.0/data/things/860/Tibia.dat",
+                               "match":  true
+                           },
+                           {
+                               "source":  "NWO-ASSETS/assets/860/Tibia.spr",
+                               "destination":  "nwo-otclient-mehah-4.0/data/things/860/Tibia.spr",
+                               "match":  true
+                           },
+                           {
+                               "source":  "NWO-ASSETS/assets/860/Tibia.dat",
+                               "destination":  "nwo-mobile/client/data/things/860/Tibia.dat",
+                               "match":  true
+                           },
+                           {
+                               "source":  "NWO-ASSETS/assets/860/Tibia.spr",
+                               "destination":  "nwo-mobile/client/data/things/860/Tibia.spr",
+                               "match":  true
+                           }
+                       ]
+}

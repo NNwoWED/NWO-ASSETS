@@ -1,0 +1,83 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "profile": {
+    "key": "tibia-860-v2-custom-extended",
+    "client_version": 860,
+    "label": "Tibia 8.60 v2 customizado com features OTFI",
+    "dat_signature": "0x4C2C7993",
+    "spr_signature": "0x4C220594",
+    "metadata_reader": 5,
+    "otb_version_hint": "8.60"
+  },
+  "category": "items",
+  "id_kind": "server",
+  "requested_ids": [
+    14811,
+    14812
+  ],
+  "output_dir": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\kankuro-statue-reference-audit-20261004",
+  "exported_count": 2,
+  "exported": [
+    {
+      "requested_id": 14811,
+      "client_id": 13929,
+      "server_ids": [
+        14811
+      ],
+      "name": "Neji Statue",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        266439,
+        266440,
+        266441,
+        266442
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\kankuro-statue-reference-audit-20261004\\server-14811_client-13929_neji-statue.png",
+      "size": 1316,
+      "sha256": "7D19153F2C507AB5D62B83209EAC04066246D1773FEA295EDEC2AA3CD883ED76"
+    },
+    {
+      "requested_id": 14812,
+      "client_id": 13930,
+      "server_ids": [
+        14812
+      ],
+      "name": "Neji Statue",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        266443,
+        266444,
+        266445,
+        266446
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\kankuro-statue-reference-audit-20261004\\server-14812_client-13930_neji-statue.png",
+      "size": 1374,
+      "sha256": "31F1924D9FD462106F5BDFF6AF527203A022FE73DDBE8709485C40E277F6A33C"
+    }
+  ],
+  "sources": {
+    "dat": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.dat",
+      "sha256": "6F70F860BC3E74F560DB04DFBE8F3DFC5BF7F48CD104F49C182D7E127709045D"
+    },
+    "spr": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.spr",
+      "sha256": "5CBB761BB4D1631ED962459255B60751CD7994D4F9AC30C19C3FAFC22AA028F6"
+    }
+  },
+  "passed": true
+}

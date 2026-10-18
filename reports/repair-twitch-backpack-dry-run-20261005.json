@@ -1,0 +1,58 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "manifest": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\reports\\manifest-twitch-backpack-20261005.csv",
+  "item_count": 1,
+  "reference_kind": "client_id_from_png_filename",
+  "before": {
+    "dat_properties_exact": 0,
+    "dat_layout_exact": 1,
+    "otb_nodes_exact": 0
+  },
+  "visual_order": {
+    "alpha_group_sets_exact": 0,
+    "single_group_art_variants": 1,
+    "items_reordered_to_reference": 0
+  },
+  "xml": {
+    "source_definitions": 1,
+    "target_definitions_written": 0,
+    "target_definitions_already_exact": 1,
+    "target_ids": [
+      14614
+    ]
+  },
+  "map_scan": {
+    "tiles_scanned": 7824286,
+    "item_nodes_scanned": 2105106
+  },
+  "spr_unchanged": true,
+  "items": [
+    {
+      "sequence": 1,
+      "source_server_id": 1988,
+      "source_client_id": 2854,
+      "target_server_id": 14614,
+      "target_client_id": 13735,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\Twitch_Backpack.png",
+      "source_sha256": "B47C0FA1B9EC6736CDD7B1840BEC8F7DB7EA540EAD5C4B1C4DFD255B254DABCC",
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "sprite_id_range_reused": [
+        260663,
+        260663
+      ],
+      "alpha_group_set_exact": false,
+      "groups_reordered_to_reference": false,
+      "sprite_hash": "46D6C88611812136E5A8ADC5E0F0AAB6"
+    }
+  ],
+  "dry_run": true,
+  "passed": true
+}

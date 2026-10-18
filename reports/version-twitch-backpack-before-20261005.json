@@ -1,0 +1,66 @@
+{
+  "tool_version": "0.8.2",
+  "version_id": "20261005-215157-398979",
+  "created_at": "2026-10-05T21:52:08.310972-03:00",
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261005-215157-398979",
+  "rar_executable": "C:\\Program Files\\WinRAR\\Rar.exe",
+  "sources": [
+    {
+      "path": "assets/860/.gitattributes",
+      "size": 43,
+      "sha256": "D5636A3257287440945C5E017581545E5B0A3E2FDDDAE7C5EF8D90FF4DF3D32A"
+    },
+    {
+      "path": "assets/860/Tibia.dat",
+      "size": 4506555,
+      "sha256": "BD002F9D01DD4666D49157428813481D8AA39FF04D985C12645379AE58707703"
+    },
+    {
+      "path": "assets/860/Tibia.otfi",
+      "size": 185,
+      "sha256": "7743548835944BC799CB871A4E5DEF84F7AF76815031871B9CE74B5EC0E8ADD3"
+    },
+    {
+      "path": "assets/860/Tibia.spr",
+      "size": 462703473,
+      "sha256": "8E79B674C4A75138FDD94ACBAB9194E199B7A033C006F4F2D9DD7D00DB892094"
+    },
+    {
+      "path": "assets/items/force use.txt",
+      "size": 419,
+      "sha256": "BCB478FDF3F45ECA8D172AFD7A17D3F8CD520924EE0894752452B8FDC8F71959"
+    },
+    {
+      "path": "assets/items/items.otb",
+      "size": 1010922,
+      "sha256": "FC16FB7D77E36C856F7A19722C61B4DABE4B029F03C2A6F50CBAD9C18E362FBB"
+    },
+    {
+      "path": "assets/world/mapanovo.otbm",
+      "size": 80105770,
+      "sha256": "8CDFDDF9DC2A9E53053E4F3FAF7F6825FD89B6B63EE06272ECD234B387202821"
+    }
+  ],
+  "archives": {
+    "860": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261005-215157-398979\\860.rar",
+      "size": 85281979,
+      "sha256": "523CE935E3699BFAE53C4178CE17658072CD1F4FCB61BF06C2983CA5110BE938"
+    },
+    "items": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261005-215157-398979\\items.rar",
+      "size": 481776,
+      "sha256": "EC27F4AC18FE555194329559BE67333790F944A5139184514C3CA0F2ED429994"
+    },
+    "world": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261005-215157-398979\\world.zip",
+      "size": 19337359,
+      "sha256": "170CD29639D001F9273247C874479344E8207ECB971919AE0E8CAE14295E4A31"
+    }
+  },
+  "items_xml_excluded": true,
+  "world_entries": [
+    "mapanovo.otbm"
+  ],
+  "passed": true
+}

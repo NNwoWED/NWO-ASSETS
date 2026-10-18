@@ -213,15 +213,25 @@ def encode_item_appearance(
     animation_async: bool = False,
     exact_size: int | None = None,
     allow_zero_sprite_ids: bool = False,
+    layers: int = 1,
+    pattern_x: int = 1,
+    pattern_y: int = 1,
+    pattern_z: int = 1,
 ) -> bytes:
     if width < 1 or height < 1 or width > 255 or height > 255:
         raise FormatError(f"dimensões DAT inválidas: {width}x{height}")
     if frames < 1 or frames > 255:
         raise FormatError(f"quantidade de frames DAT inválida: {frames}")
-    if len(sprite_ids) != width * height * frames:
+    dimensions = (layers, pattern_x, pattern_y, pattern_z)
+    if any(value < 1 or value > 255 for value in dimensions):
+        raise FormatError("layers e patterns DAT devem estar entre 1 e 255")
+    expected_sprites = (
+        width * height * layers * pattern_x * pattern_y * pattern_z * frames
+    )
+    if len(sprite_ids) != expected_sprites:
         raise FormatError(
             f"aparência {width}x{height} com {frames} frames exige "
-            f"{width * height * frames} sprites, "
+            f"{expected_sprites} sprites, "
             f"recebeu {len(sprite_ids)}"
         )
     if any(sprite_id < 0 for sprite_id in sprite_ids):
@@ -245,7 +255,7 @@ def encode_item_appearance(
         output.append(encoded_exact_size)
     elif exact_size is not None:
         raise FormatError("exact_size somente e valido para aparencias multitile")
-    output.extend((1, 1, 1, 1, frames))
+    output.extend((layers, pattern_x, pattern_y, pattern_z, frames))
     if frames > 1:
         output.extend(struct.pack("<BiB", int(animation_async), 0, 0))
         for _ in range(frames):
@@ -289,8 +299,9 @@ def write_dat_appearances(
     otfi: OtfiConfig,
     category: str,
     replacements: dict[int, bytes],
+    property_additions: dict[int, set[int]] | None = None,
 ) -> dict[int, DatRecordSpan]:
-    """Replace appearances in one DAT category while preserving properties verbatim."""
+    """Replace appearances and optionally add safe no-payload properties."""
 
     _require_new_destination(source, destination)
     data = source.read_bytes()
@@ -301,11 +312,26 @@ def write_dat_appearances(
     missing = sorted(set(replacements) - set(records))
     if missing:
         raise FormatError(f"IDs DAT inexistentes em {category}: {missing}")
+    property_additions = property_additions or {}
+    missing_property_targets = sorted(set(property_additions) - set(replacements))
+    if missing_property_targets:
+        raise FormatError(
+            "propriedades DAT informadas para IDs sem troca visual: "
+            f"{missing_property_targets}"
+        )
     with atomic_binary_output(destination) as output:
         output.write(data[:12])
         for span in spans:
             if span.category == category and span.thing_id in replacements:
-                output.write(data[span.start : span.properties_end])
+                additions = property_additions.get(span.thing_id)
+                if additions:
+                    output.write(
+                        dat_properties_with_added_flags(
+                            data, span, str(source), additions
+                        )
+                    )
+                else:
+                    output.write(data[span.start : span.properties_end])
                 output.write(replacements[span.thing_id])
             else:
                 output.write(data[span.start : span.end])
@@ -319,8 +345,6 @@ def read_dat_animation_timings(
     thing_ids: set[int],
     source: str,
 ) -> dict[int, DatAnimationTiming]:
-    if category == "outfits":
-        raise FormatError("edicao de duracao para outfits ainda nao e suportada")
     spans = {
         span.thing_id: span
         for span in scan_dat_record_spans(data, otfi, source)
@@ -333,36 +357,64 @@ def read_dat_animation_timings(
     timings: dict[int, DatAnimationTiming] = {}
     for thing_id, span in spans.items():
         position = span.properties_end
-        width, height = struct.unpack_from("<BB", data, position)
-        position += 2
-        if width > 1 or height > 1:
+        group_count = (
+            data[position]
+            if otfi.frame_groups and category == "outfits"
+            else 1
+        )
+        if otfi.frame_groups and category == "outfits":
             position += 1
-        _layers, _pattern_x, _pattern_y, _pattern_z, frames = struct.unpack_from(
-            "<BBBBB", data, position
-        )
-        position += 5
-        if frames <= 1:
-            raise FormatError(f"{category} {thing_id} nao possui animacao")
-        animation_async, loop_count, start_frame = struct.unpack_from(
-            "<BiB", data, position
-        )
-        position += 6
-        offsets: list[int] = []
-        durations: list[tuple[int, int]] = []
-        for _ in range(frames):
-            offsets.append(position)
-            durations.append(struct.unpack_from("<II", data, position))
-            position += 8
-        timings[thing_id] = DatAnimationTiming(
-            category=category,
-            thing_id=thing_id,
-            frames=frames,
-            animation_async=bool(animation_async),
-            loop_count=loop_count,
-            start_frame=start_frame,
-            duration_offsets=tuple(offsets),
-            durations=tuple(durations),
-        )
+        animated_groups: list[DatAnimationTiming] = []
+        for _ in range(group_count):
+            if otfi.frame_groups and category == "outfits":
+                position += 1
+            width, height = struct.unpack_from("<BB", data, position)
+            position += 2
+            if width > 1 or height > 1:
+                position += 1
+            layers, pattern_x, pattern_y, pattern_z, frames = struct.unpack_from(
+                "<BBBBB", data, position
+            )
+            position += 5
+            if frames > 1:
+                animation_async, loop_count, start_frame = struct.unpack_from(
+                    "<BiB", data, position
+                )
+                position += 6
+                offsets: list[int] = []
+                durations: list[tuple[int, int]] = []
+                for _ in range(frames):
+                    offsets.append(position)
+                    durations.append(struct.unpack_from("<II", data, position))
+                    position += 8
+                animated_groups.append(
+                    DatAnimationTiming(
+                        category=category,
+                        thing_id=thing_id,
+                        frames=frames,
+                        animation_async=bool(animation_async),
+                        loop_count=loop_count,
+                        start_frame=start_frame,
+                        duration_offsets=tuple(offsets),
+                        durations=tuple(durations),
+                    )
+                )
+            sprite_count = (
+                width
+                * height
+                * layers
+                * pattern_x
+                * pattern_y
+                * pattern_z
+                * frames
+            )
+            position += sprite_count * (4 if otfi.extended else 2)
+        if len(animated_groups) != 1:
+            raise FormatError(
+                f"{category} {thing_id}: esperado um grupo animado, "
+                f"encontrado {len(animated_groups)}"
+            )
+        timings[thing_id] = animated_groups[0]
     return timings
 
 
@@ -438,6 +490,27 @@ def _dat_property_chunks(
         chunks.append((flag, data[span.start + start : span.start + reader.position]))
 
 
+def dat_properties_with_added_flags(
+    data: bytes,
+    span: DatRecordSpan,
+    source: str,
+    additions: set[int],
+) -> bytes:
+    """Return encoded properties after adding boolean DAT flags."""
+
+    invalid = sorted(additions - _NO_PAYLOAD)
+    if invalid:
+        names = [FLAG_NAMES_860.get(value, f"0x{value:02X}") for value in invalid]
+        raise FormatError(
+            "so e permitido adicionar flags DAT sem payload; invalidas: "
+            + ", ".join(names)
+        )
+    chunks = _dat_property_chunks(data, span, source)
+    existing = {flag for flag, _chunk in chunks}
+    newly_added = sorted(additions - existing)
+    return b"".join(chunk for _flag, chunk in chunks) + bytes(newly_added) + b"\xFF"
+
+
 def dat_item_flags(
     data: bytes, otfi: OtfiConfig, source: str
 ) -> dict[int, tuple[int, ...]]:
@@ -456,7 +529,7 @@ def write_dat_item_flags(
     otfi: OtfiConfig,
     edits: dict[int, tuple[set[int], set[int]]],
 ) -> dict[int, dict[str, tuple[int, ...]]]:
-    """Edit only boolean DAT flags and preserve all payload properties verbatim."""
+    """Edit boolean flags or remove known properties, preserving retained payloads."""
 
     _require_new_destination(source, destination)
     data = source.read_bytes()
@@ -469,12 +542,21 @@ def write_dat_item_flags(
     changes: dict[int, dict[str, tuple[int, ...]]] = {}
     replacements: dict[int, bytes] = {}
     for thing_id, (add, remove) in edits.items():
-        invalid = sorted((add | remove) - _NO_PAYLOAD)
-        if invalid:
-            names = [FLAG_NAMES_860.get(value, f"0x{value:02X}") for value in invalid]
+        invalid_add = sorted(add - _NO_PAYLOAD)
+        if invalid_add:
+            names = [
+                FLAG_NAMES_860.get(value, f"0x{value:02X}")
+                for value in invalid_add
+            ]
             raise FormatError(
-                "o editor DAT aceita somente flags sem payload; inválidas: "
+                "o editor DAT aceita adicionar somente flags sem payload; inválidas: "
                 + ", ".join(names)
+            )
+        invalid_remove = sorted(remove - set(FLAG_NAMES_860))
+        if invalid_remove:
+            raise FormatError(
+                "o editor DAT recebeu flags desconhecidas para remoção: "
+                + ", ".join(f"0x{value:02X}" for value in invalid_remove)
             )
         conflict = add & remove
         if conflict:

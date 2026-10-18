@@ -1,0 +1,62 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "manifest": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\volcao-p-20260930\\import-volcao-p.csv",
+  "item_count": 1,
+  "target_server_id_range": [
+    25569,
+    25569
+  ],
+  "target_client_id_range": [
+    24684,
+    24684
+  ],
+  "new_sprite_count": 40,
+  "sprite_id_range": [
+    271297,
+    271336
+  ],
+  "items": [
+    {
+      "sequence": 1,
+      "source_server_id": 25457,
+      "source_client_id": 24572,
+      "target_server_id": 25569,
+      "target_client_id": 24684,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\volcao-p-20260930\\Volcao_-_P.png",
+      "source_sha256": "45204DA3F3137E0C86F2467020BB9032FFF7403DFFB71DC3DB9F91C9655CE459",
+      "image_size": [
+        64,
+        640
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 10,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": 100,
+      "animation_async": false,
+      "sprite_id_count": 40,
+      "sprite_id_range": [
+        271297,
+        271336
+      ],
+      "sprite_hash": "5BDB6F83CBA968FECEAB812D5C6CB38C"
+    }
+  ],
+  "xml": {
+    "source_definitions": 0,
+    "target_definitions_written": 0,
+    "target_definitions_already_exact": 0,
+    "target_ids": []
+  },
+  "map_scan": {
+    "tiles_scanned": 7824286,
+    "item_nodes_scanned": 2105106
+  },
+  "dry_run": true,
+  "passed": true
+}

@@ -1,0 +1,261 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "profile": {
+    "key": "tibia-860-v2-custom-extended",
+    "client_version": 860,
+    "label": "Tibia 8.60 v2 customizado com features OTFI",
+    "dat_signature": "0x4C2C7993",
+    "spr_signature": "0x4C220594",
+    "metadata_reader": 5,
+    "otb_version_hint": "8.60"
+  },
+  "category": "items",
+  "id_kind": "server",
+  "requested_ids": [
+    16143,
+    16145,
+    16138,
+    16170,
+    16157,
+    16137,
+    16144,
+    16139,
+    16129
+  ],
+  "output_dir": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items-server-ids-16129-16170-20261005",
+  "exported_count": 9,
+  "exported": [
+    {
+      "requested_id": 16143,
+      "client_id": 15258,
+      "server_ids": [
+        16143
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        91814,
+        91815
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items-server-ids-16129-16170-20261005\\server-16143_client-15258.png",
+      "size": 1012,
+      "sha256": "926002E6BB132F473A44F19A98F873BAF9DC78BAEA224A617C5B4FD6963EFADA"
+    },
+    {
+      "requested_id": 16145,
+      "client_id": 15260,
+      "server_ids": [
+        16145
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        91818,
+        91819,
+        91820,
+        91528
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items-server-ids-16129-16170-20261005\\server-16145_client-15260.png",
+      "size": 1575,
+      "sha256": "22A38B8A7C309C4595F3EA28D22040EA9CC4586D96E5A281242453783F62726C"
+    },
+    {
+      "requested_id": 16138,
+      "client_id": 15253,
+      "server_ids": [
+        16138
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        91806,
+        91509,
+        91807,
+        91511
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items-server-ids-16129-16170-20261005\\server-16138_client-15253.png",
+      "size": 1020,
+      "sha256": "1D813079CC9613DE01C4D4F573F47CF2F1C41AD31605279325C60061F96DEE77"
+    },
+    {
+      "requested_id": 16170,
+      "client_id": 15285,
+      "server_ids": [
+        16170
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        91888,
+        91889,
+        91890,
+        91602
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items-server-ids-16129-16170-20261005\\server-16170_client-15285.png",
+      "size": 1611,
+      "sha256": "253690A09E867F481D5959BB8CAF2DD8F6F677F93F3C401A0A4D9EA27F3A764A"
+    },
+    {
+      "requested_id": 16157,
+      "client_id": 15272,
+      "server_ids": [
+        16157
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        91862,
+        91863
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items-server-ids-16129-16170-20261005\\server-16157_client-15272.png",
+      "size": 1137,
+      "sha256": "7B7BB2B42DF380603D2E8F33E98245557416AD8ADA583CFCD45D1788E1F9DC2B"
+    },
+    {
+      "requested_id": 16137,
+      "client_id": 15252,
+      "server_ids": [
+        16137
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        91803,
+        91804,
+        91805,
+        91507
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items-server-ids-16129-16170-20261005\\server-16137_client-15252.png",
+      "size": 1718,
+      "sha256": "FF5CC752CC297C4943265DC4C25EFDD8CAA5292876ACFD2403A69235A38F920D"
+    },
+    {
+      "requested_id": 16144,
+      "client_id": 15259,
+      "server_ids": [
+        16144
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        91816,
+        91817,
+        91523,
+        91524
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items-server-ids-16129-16170-20261005\\server-16144_client-15259.png",
+      "size": 1093,
+      "sha256": "38AE8CBF33854F4FD58130B18D78027E60D6F294A188C26151B833E7FAA45763"
+    },
+    {
+      "requested_id": 16139,
+      "client_id": 15254,
+      "server_ids": [
+        16139
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        91808,
+        91809,
+        91810,
+        91515
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items-server-ids-16129-16170-20261005\\server-16139_client-15254.png",
+      "size": 1718,
+      "sha256": "547B3401D0B01BA93F643EEC0275A5DD48704031571BEEEC841828BB2C4AD18B"
+    },
+    {
+      "requested_id": 16129,
+      "client_id": 15244,
+      "server_ids": [
+        16129
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        91787,
+        91788,
+        91789,
+        91790
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items-server-ids-16129-16170-20261005\\server-16129_client-15244.png",
+      "size": 1146,
+      "sha256": "7AB6AB8996A3BAA36D520CA80E73953B59D070D619AC014A00A260EA0BC86841"
+    }
+  ],
+  "sources": {
+    "dat": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.dat",
+      "sha256": "BD002F9D01DD4666D49157428813481D8AA39FF04D985C12645379AE58707703"
+    },
+    "spr": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.spr",
+      "sha256": "8E79B674C4A75138FDD94ACBAB9194E199B7A033C006F4F2D9DD7D00DB892094"
+    }
+  },
+  "passed": true
+}

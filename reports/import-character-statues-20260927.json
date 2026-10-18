@@ -1,0 +1,454 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "manifest": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\reports\\manifest-character-statues-20260927.csv",
+  "profile": "tibia-860-v2-custom-extended",
+  "version_backup": {
+    "tool_version": "0.8.2",
+    "version_id": "20260927-154650-774883",
+    "created_at": "2026-09-27T15:47:02.433566-03:00",
+    "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20260927-154650-774883",
+    "rar_executable": "C:\\Program Files\\WinRAR\\Rar.exe",
+    "sources": [
+      {
+        "path": "assets/860/.gitattributes",
+        "size": 43,
+        "sha256": "D5636A3257287440945C5E017581545E5B0A3E2FDDDAE7C5EF8D90FF4DF3D32A"
+      },
+      {
+        "path": "assets/860/Tibia.dat",
+        "size": 4424774,
+        "sha256": "65E5DD4A480A4771227B78593F96FDAE40DF97511ACEFE113D99EB830D3FC045"
+      },
+      {
+        "path": "assets/860/Tibia.otfi",
+        "size": 185,
+        "sha256": "7743548835944BC799CB871A4E5DEF84F7AF76815031871B9CE74B5EC0E8ADD3"
+      },
+      {
+        "path": "assets/860/Tibia.spr",
+        "size": 446988334,
+        "sha256": "0DE36A4285C282A6DF7B0CB2DC24F9A93CC54CDC1F8418C19C19560DBF5D6953"
+      },
+      {
+        "path": "assets/items/force use.txt",
+        "size": 419,
+        "sha256": "BCB478FDF3F45ECA8D172AFD7A17D3F8CD520924EE0894752452B8FDC8F71959"
+      },
+      {
+        "path": "assets/items/items.otb",
+        "size": 1003942,
+        "sha256": "B97EA35F9C940BCA802219E5873F492BDE0EB7A771EFDE5A6B0463490BD7B589"
+      },
+      {
+        "path": "assets/world/mapanovo.otbm",
+        "size": 80105770,
+        "sha256": "8CDFDDF9DC2A9E53053E4F3FAF7F6825FD89B6B63EE06272ECD234B387202821"
+      }
+    ],
+    "archives": {
+      "860": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20260927-154650-774883\\860.rar",
+        "size": 84080813,
+        "sha256": "9C22CB6BA95557A6C9DED60FBF54BAC22A5311F62F70D44C3CAB8C3FB4B00C85"
+      },
+      "items": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20260927-154650-774883\\items.rar",
+        "size": 477822,
+        "sha256": "59B26DCFAE510D921EB99E1AEE878CEB6A0B912FB5844607C57F025159337CB3"
+      },
+      "world": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20260927-154650-774883\\world.zip",
+        "size": 19337359,
+        "sha256": "170CD29639D001F9273247C874479344E8207ECB971919AE0E8CAE14295E4A31"
+      }
+    },
+    "items_xml_excluded": true,
+    "world_entries": [
+      "mapanovo.otbm"
+    ],
+    "passed": true
+  },
+  "sprite_hash_gate": {
+    "sample_count": 64,
+    "mismatch_count": 0,
+    "mismatches": [],
+    "passed": true
+  },
+  "item_count": 16,
+  "new_sprite_count": 64,
+  "sprite_id_range": [
+    266439,
+    266502
+  ],
+  "items": [
+    {
+      "sequence": 1,
+      "client_id": 13929,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\estatuas-base\\server-14811_client-13929_neji-statue.png",
+      "file_sha256": "7D19153F2C507AB5D62B83209EAC04066246D1773FEA295EDEC2AA3CD883ED76",
+      "pixels_sha256": "A9396607D7EB07C08CDD127F179A7A65F579E878B1A72214FE8E314431704AE8",
+      "image_width": 64,
+      "image_height": 64,
+      "width_tiles": 2,
+      "height_tiles": 2,
+      "frames": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_ids": [
+        266439,
+        266440,
+        266441,
+        266442
+      ],
+      "sprite_hash": "04A8E44A0681747ACE346253DC0EF272"
+    },
+    {
+      "sequence": 2,
+      "client_id": 13930,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\estatuas-base\\server-14812_client-13930_neji-statue.png",
+      "file_sha256": "31F1924D9FD462106F5BDFF6AF527203A022FE73DDBE8709485C40E277F6A33C",
+      "pixels_sha256": "7B4EBC462BC766397025002E2A5F4870359C2D4D0F1D9D76948B174E210162CA",
+      "image_width": 64,
+      "image_height": 64,
+      "width_tiles": 2,
+      "height_tiles": 2,
+      "frames": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_ids": [
+        266443,
+        266444,
+        266445,
+        266446
+      ],
+      "sprite_hash": "563776FAA3FF77AB7692372FCE64CB3A"
+    },
+    {
+      "sequence": 3,
+      "client_id": 7404,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\estatuas-base\\server-_client-_hinata-statue-export 1.png",
+      "file_sha256": "150D9306A1F6204A9C1EBABDA7A30DA65EFA57F759836EB4C0561F1B490D9A5C",
+      "pixels_sha256": "05D111D4A93A32F2B30BD4B905732353F06222D6B976D398652B9C609DED0C6B",
+      "image_width": 64,
+      "image_height": 64,
+      "width_tiles": 2,
+      "height_tiles": 2,
+      "frames": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_ids": [
+        266447,
+        266448,
+        266449,
+        266450
+      ],
+      "sprite_hash": "F19B6B345CA44001630FD7F2DB6BA4DC"
+    },
+    {
+      "sequence": 4,
+      "client_id": 7409,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\estatuas-base\\server-_client-_hinata-statue-export 2.png",
+      "file_sha256": "E3570CD0FEF060B0015BFEF73BD0DDC22B912EF66B1FD45BA5136D60B9478CAE",
+      "pixels_sha256": "EA0B183DD5ABC5224874204F467F60BEC59B7BB10A5561208353FA77A6DB6939",
+      "image_width": 64,
+      "image_height": 64,
+      "width_tiles": 2,
+      "height_tiles": 2,
+      "frames": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_ids": [
+        266451,
+        266452,
+        266453,
+        266454
+      ],
+      "sprite_hash": "8C7F7DA78ABF80BBD120B02E2AB448AB"
+    },
+    {
+      "sequence": 5,
+      "client_id": 7430,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\estatuas-base\\server-_client-_kabuto-statue-export 1.png",
+      "file_sha256": "BACBDB442D261FB46139C4B4BD8E5606CE21207C6E8DE116AF32C9A4816EB79C",
+      "pixels_sha256": "1E64A5DF861B7BD5FB7E1319006F435B756A916A6D40A69839084DF445C5DAA9",
+      "image_width": 64,
+      "image_height": 64,
+      "width_tiles": 2,
+      "height_tiles": 2,
+      "frames": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_ids": [
+        266455,
+        266456,
+        266457,
+        266458
+      ],
+      "sprite_hash": "5B45D369B1751ABCC2F1F0AE00EF2B8F"
+    },
+    {
+      "sequence": 6,
+      "client_id": 7434,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\estatuas-base\\server-_client-_kabuto-statue-export 2.png",
+      "file_sha256": "34F01B5FFA09674647A4F473A71F53C8938080545E0D0F722B82FF5CC0DCDD3B",
+      "pixels_sha256": "B695E5887C59692482AB7730E3D3C9FED51C9CF7FF80AE44542A770C2107734D",
+      "image_width": 64,
+      "image_height": 64,
+      "width_tiles": 2,
+      "height_tiles": 2,
+      "frames": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_ids": [
+        266459,
+        266460,
+        266461,
+        266462
+      ],
+      "sprite_hash": "EC0295AD22A819345D56C8BEBC97EAB8"
+    },
+    {
+      "sequence": 7,
+      "client_id": 7435,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\estatuas-base\\server-_client-_kakashi-statue-export 1.png",
+      "file_sha256": "4E7B8D86347A8EC526AFC252F94D6AFB9FADFAFCD284D7874483287533CAE59E",
+      "pixels_sha256": "0E72A72037CB81CB3AEE16D910E842519E280EE46E2693FEBAABAAE0EE88AD9F",
+      "image_width": 64,
+      "image_height": 64,
+      "width_tiles": 2,
+      "height_tiles": 2,
+      "frames": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_ids": [
+        266463,
+        266464,
+        266465,
+        266466
+      ],
+      "sprite_hash": "425271F8A5EA4CCE0B63A2820F3FD8B8"
+    },
+    {
+      "sequence": 8,
+      "client_id": 7439,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\estatuas-base\\server-_client-_kakashi-statue-export 2.png",
+      "file_sha256": "14319587D1C2EE4EC9AB5FBE5748CF149BD18F8047C4594CD6741B4C05301387",
+      "pixels_sha256": "04D279AE93026ADC1E511C14389D5D7C5224B922B263E62696DBA7917708D020",
+      "image_width": 64,
+      "image_height": 64,
+      "width_tiles": 2,
+      "height_tiles": 2,
+      "frames": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_ids": [
+        266467,
+        266468,
+        266469,
+        266470
+      ],
+      "sprite_hash": "FC1092F436579FAB17DAECB1D8A0B921"
+    },
+    {
+      "sequence": 9,
+      "client_id": 7440,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\estatuas-base\\server-_client-_kiba-statue-export 1.png",
+      "file_sha256": "10945F2030032438A063E863178F00BFBC9F243EA16DF8671099A9C53A9A5A16",
+      "pixels_sha256": "2F90A3A0D36C798FD1A09D50C759A6DAA9B92A81F8D604A1D8F96AB93DCED654",
+      "image_width": 64,
+      "image_height": 64,
+      "width_tiles": 2,
+      "height_tiles": 2,
+      "frames": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_ids": [
+        266471,
+        266472,
+        266473,
+        266474
+      ],
+      "sprite_hash": "990D62519E26322415EEF49832BD7954"
+    },
+    {
+      "sequence": 10,
+      "client_id": 7443,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\estatuas-base\\server-_client-_kiba-statue-export 2.png",
+      "file_sha256": "165A5C55402E28EC2C8AEBF4D338E4F32D16E093D3E783BCEA0CE254AC2852AD",
+      "pixels_sha256": "66A8D09E2CA64A7F39C703F7B1C05576C17E989D19595F31621C167D1CFF73A1",
+      "image_width": 64,
+      "image_height": 64,
+      "width_tiles": 2,
+      "height_tiles": 2,
+      "frames": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_ids": [
+        266475,
+        266476,
+        266477,
+        266478
+      ],
+      "sprite_hash": "172024757FD74D7744E1580D762A6D52"
+    },
+    {
+      "sequence": 11,
+      "client_id": 7450,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\estatuas-base\\server-_client-_kimimaru-statue-export 1.png",
+      "file_sha256": "26259AB760EC8FCCC2CF1B0279ED4FBF8AB0CC5EF5D9ECA0C0A1F522C479D43D",
+      "pixels_sha256": "DBE9C8C06FF4E593228EE5D39E04E859D8C270A5F8A8E8622B82E215006310AA",
+      "image_width": 64,
+      "image_height": 64,
+      "width_tiles": 2,
+      "height_tiles": 2,
+      "frames": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_ids": [
+        266479,
+        266480,
+        266481,
+        266482
+      ],
+      "sprite_hash": "E21B0339903539311D77BC7B8F3983E7"
+    },
+    {
+      "sequence": 12,
+      "client_id": 7457,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\estatuas-base\\server-_client-_kimimaru-statue-export 2.png",
+      "file_sha256": "31E9AB11893CD8EF36DC8BFE766C3D41E205921A35AACB156B5028011BF7AC10",
+      "pixels_sha256": "3DC80B77BAE15DCDFD31FE4653EAB474B8D2402DCB6B20836B220B71DDE11686",
+      "image_width": 64,
+      "image_height": 64,
+      "width_tiles": 2,
+      "height_tiles": 2,
+      "frames": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_ids": [
+        266483,
+        266484,
+        266485,
+        266486
+      ],
+      "sprite_hash": "07CC967B9D68AD9048CC7DFC3901F62A"
+    },
+    {
+      "sequence": 13,
+      "client_id": 7459,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\estatuas-base\\server-_client-_shino-statue-export 1.png",
+      "file_sha256": "84569278FD5E70DFC82BE0928D68287C8030A8E9517672151CC43AEFEDF851D0",
+      "pixels_sha256": "1867706A34ECB4815CE5086A18F27BC5F193C5F10D432E5B912AE4CE58240C74",
+      "image_width": 64,
+      "image_height": 64,
+      "width_tiles": 2,
+      "height_tiles": 2,
+      "frames": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_ids": [
+        266487,
+        266488,
+        266489,
+        266490
+      ],
+      "sprite_hash": "EB8F3A3428B6E05BC465B47B7C55EE62"
+    },
+    {
+      "sequence": 14,
+      "client_id": 7460,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\estatuas-base\\server-_client-_shino-statue-export 2.png",
+      "file_sha256": "E47D2BBFDECBF28A6BF2B71EADF762CB7DDCE9BE0673430DFB7FD2C76A0CC836",
+      "pixels_sha256": "D8466EF447B2186736647E08497F10E3565E8D0EC46305EE2F996B0DC5B7EC7E",
+      "image_width": 64,
+      "image_height": 64,
+      "width_tiles": 2,
+      "height_tiles": 2,
+      "frames": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_ids": [
+        266491,
+        266492,
+        266493,
+        266494
+      ],
+      "sprite_hash": "1A1689792C880CF571A07845C812C0B6"
+    },
+    {
+      "sequence": 15,
+      "client_id": 7461,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\estatuas-base\\server-_client-_zabuza-statue-export 1.png",
+      "file_sha256": "DF0647B09D2AC1396D2C846DEBBDECFAF45AF845EE8A4E1C51D0CA7F50D0CDCB",
+      "pixels_sha256": "B333D4C97D8C5119FC0912053D6ABE60F5E41CD4D3F9299FA0AEFEDFA7E25C80",
+      "image_width": 64,
+      "image_height": 64,
+      "width_tiles": 2,
+      "height_tiles": 2,
+      "frames": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_ids": [
+        266495,
+        266496,
+        266497,
+        266498
+      ],
+      "sprite_hash": "6FD040832EB8224E6AE865344CDF36D4"
+    },
+    {
+      "sequence": 16,
+      "client_id": 7462,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\estatuas-base\\server-_client-_zabuza-statue-export 2.png",
+      "file_sha256": "61F85293B767DAAB779F4DC4092B0C38F921F6F05CB3DE8FF640B292121BA13A",
+      "pixels_sha256": "35ED6A7E1BEEC6A65F47D13324A92D5C03E09E714D6823AC3DD7528E1D49D4FE",
+      "image_width": 64,
+      "image_height": 64,
+      "width_tiles": 2,
+      "height_tiles": 2,
+      "frames": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_ids": [
+        266499,
+        266500,
+        266501,
+        266502
+      ],
+      "sprite_hash": "D6366447EB10DAF15C285FB42485F549"
+    }
+  ],
+  "otb_nodes_updated": {
+    "13929": 1,
+    "13930": 1,
+    "7404": 1,
+    "7409": 1,
+    "7430": 1,
+    "7434": 1,
+    "7435": 1,
+    "7439": 1,
+    "7440": 1,
+    "7443": 1,
+    "7450": 1,
+    "7457": 1,
+    "7459": 1,
+    "7460": 1,
+    "7461": 1,
+    "7462": 1
+  },
+  "transaction_committed": true,
+  "output_hashes": {
+    "dat": "AE53411E2544E0AFE53F8E6BB996C9C1B6E8BAD64654BD35A6409B67DEB512E7",
+    "spr": "7AC8CD2A006B25BD671FEA641173DCF27A8F2667286063A81B66061554CF9222",
+    "otb": "4C78224A42907F10FEDD273C36720199EB348407AF8CA0DCFFC1B955ED6ACA45"
+  },
+  "dat_non_targets_preserved": true,
+  "old_sprite_payload_preserved": true,
+  "new_sprite_pixels_verified": true,
+  "untouched_files_preserved": true,
+  "map_byte_equal": true,
+  "final_validation_passed": true,
+  "warnings": [],
+  "errors": [],
+  "passed": true
+}

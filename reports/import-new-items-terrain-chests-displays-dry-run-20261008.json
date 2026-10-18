@@ -1,0 +1,746 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "manifest": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\terrain-chests-displays-alma-20261008\\import-new-items.csv",
+  "item_count": 23,
+  "target_server_id_range": [
+    25575,
+    25597
+  ],
+  "target_client_id_range": [
+    24690,
+    24712
+  ],
+  "new_sprite_count": 89,
+  "sprite_id_range": [
+    275118,
+    275206
+  ],
+  "items": [
+    {
+      "sequence": 1,
+      "source_server_id": 103,
+      "source_client_id": 103,
+      "target_server_id": 25575,
+      "target_client_id": 24690,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\terrain-chests-displays-alma-20261008\\patternX4Y3_item_103_.png",
+      "source_sha256": "5FB1C350E42EDF010B5A1D8426176C872357D98CC7888F2763833841EA19864E",
+      "image_size": [
+        128,
+        96
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 4,
+      "pattern_y": 3,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 12,
+      "sprite_id_range": [
+        275118,
+        275129
+      ],
+      "sprite_hash": "F5F51F3333C4EDA9367A3E04F0AA4052"
+    },
+    {
+      "sequence": 2,
+      "source_server_id": 355,
+      "source_client_id": 355,
+      "target_server_id": 25576,
+      "target_client_id": 24691,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\terrain-chests-displays-alma-20261008\\patternX4Y4_item_355_.png",
+      "source_sha256": "AA613783A018981877311E23CCD03E72170DCA30C528D559C86BEAD32C59CC32",
+      "image_size": [
+        128,
+        128
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 4,
+      "pattern_y": 4,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 16,
+      "sprite_id_range": [
+        275130,
+        275145
+      ],
+      "sprite_hash": "8F8F06B44B8F637A4ECB19D41D967046"
+    },
+    {
+      "sequence": 3,
+      "source_server_id": 8000,
+      "source_client_id": 1038,
+      "target_server_id": 25577,
+      "target_client_id": 24692,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\terrain-chests-displays-alma-20261008\\patternX4Z2_item_1038_combined.png",
+      "source_sha256": "015C83C8FF65CE67E9DB18EB4064B30F835891BF04DE53141497ADC65A064131",
+      "image_size": [
+        256,
+        128
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 4,
+      "pattern_y": 1,
+      "pattern_z": 2,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 32,
+      "sprite_id_range": [
+        275146,
+        275177
+      ],
+      "sprite_hash": "A35F39F68960D46FA2ED18C712A2673A"
+    },
+    {
+      "sequence": 4,
+      "source_server_id": 8002,
+      "source_client_id": 1040,
+      "target_server_id": 25578,
+      "target_client_id": 24693,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\terrain-chests-displays-alma-20261008\\patternX2_item_1040_.png",
+      "source_sha256": "5A3B9AED4C1FC48C8131FE41D3DD7264B8A698BFE265B62616FDE2DF28A40010",
+      "image_size": [
+        128,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 2,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 8,
+      "sprite_id_range": [
+        275178,
+        275185
+      ],
+      "sprite_hash": "1F203541BABC04B3ADCB275D0CA5637F"
+    },
+    {
+      "sequence": 5,
+      "source_server_id": 7666,
+      "source_client_id": 317,
+      "target_server_id": 25579,
+      "target_client_id": 24694,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\terrain-chests-displays-alma-20261008\\item_317_.png",
+      "source_sha256": "5B3DB076C2832B2CB366B3CEA0B7C9B4AB89E521DFD363D90F1DE0495BD0C2EB",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        275186,
+        275186
+      ],
+      "sprite_hash": "D9F5501D4B52EDFFE1308C5EA56F450C"
+    },
+    {
+      "sequence": 6,
+      "source_server_id": 7666,
+      "source_client_id": 317,
+      "target_server_id": 25580,
+      "target_client_id": 24695,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\terrain-chests-displays-alma-20261008\\item_317_2.png",
+      "source_sha256": "62CCF7874F71DC819889C54042D6099DFE96C4F06C8F0DFA91EDF02A4303B453",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        275187,
+        275187
+      ],
+      "sprite_hash": "3DB03FFB201090CB59AC1F634380DF5A"
+    },
+    {
+      "sequence": 7,
+      "source_server_id": 7667,
+      "source_client_id": 318,
+      "target_server_id": 25581,
+      "target_client_id": 24696,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\terrain-chests-displays-alma-20261008\\item_318_.png",
+      "source_sha256": "6EEE874E725D8BA5F7E87B48A0B38CE89D4B391864768217118EEBF0EE08A730",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        275188,
+        275188
+      ],
+      "sprite_hash": "859000A269144FA0D2B55578B82606C1"
+    },
+    {
+      "sequence": 8,
+      "source_server_id": 7668,
+      "source_client_id": 319,
+      "target_server_id": 25582,
+      "target_client_id": 24697,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\terrain-chests-displays-alma-20261008\\item_319_.png",
+      "source_sha256": "D6A716F74F5CC044E1A362B5F723C3E6E0FADFE2F0050A716B45A1CCB05D4357",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        275189,
+        275189
+      ],
+      "sprite_hash": "F61F9FF97ECA5D3D1366C529555E406C"
+    },
+    {
+      "sequence": 9,
+      "source_server_id": 7669,
+      "source_client_id": 320,
+      "target_server_id": 25583,
+      "target_client_id": 24698,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\terrain-chests-displays-alma-20261008\\item_320_.png",
+      "source_sha256": "5675A489931643B7E7E9024B4E24C5F6AD83A3E533ECBB287E9200F276AA153A",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        275190,
+        275190
+      ],
+      "sprite_hash": "B54576FB6D150930AD86A8E162227922"
+    },
+    {
+      "sequence": 10,
+      "source_server_id": 7671,
+      "source_client_id": 322,
+      "target_server_id": 25584,
+      "target_client_id": 24699,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\terrain-chests-displays-alma-20261008\\item_322_.png",
+      "source_sha256": "76E786438C723B7A9286A62347EEAEB519657E54C585C96B3A2386CB243B17AE",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        275191,
+        275191
+      ],
+      "sprite_hash": "55C864B49ED2C436AD1EC5D9D824CE59"
+    },
+    {
+      "sequence": 11,
+      "source_server_id": 7672,
+      "source_client_id": 323,
+      "target_server_id": 25585,
+      "target_client_id": 24700,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\terrain-chests-displays-alma-20261008\\item_323_.png",
+      "source_sha256": "F441FD84D72A1974A639AFF3CE479694EA61A783CCDB50B806EA6FBDD59858C8",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        275192,
+        275192
+      ],
+      "sprite_hash": "0F089351F60F44CF285906F43C56E5D0"
+    },
+    {
+      "sequence": 12,
+      "source_server_id": 7833,
+      "source_client_id": 756,
+      "target_server_id": 25586,
+      "target_client_id": 24701,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\terrain-chests-displays-alma-20261008\\item_756_.png",
+      "source_sha256": "A1D10B0A061A1679DB52C7A5692812554569DAC97BE58BA36739FCB94B844E66",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        275193,
+        275193
+      ],
+      "sprite_hash": "8DEF00C286563B5CA2EA4E012478B5C7"
+    },
+    {
+      "sequence": 13,
+      "source_server_id": 7834,
+      "source_client_id": 757,
+      "target_server_id": 25587,
+      "target_client_id": 24702,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\terrain-chests-displays-alma-20261008\\item_757_.png",
+      "source_sha256": "3473F3C9FFA84F08799C664F68DF1C428A854B10EF0698166358633C117FBF22",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        275194,
+        275194
+      ],
+      "sprite_hash": "BD85F6DFD7261A2ECFB80A4BCB535848"
+    },
+    {
+      "sequence": 14,
+      "source_server_id": 7835,
+      "source_client_id": 758,
+      "target_server_id": 25588,
+      "target_client_id": 24703,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\terrain-chests-displays-alma-20261008\\item_758_.png",
+      "source_sha256": "ACDF32855883FFB4A5B227B5929F79EFE9BC9989205CB06C9B6E008CB130FD5B",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        275195,
+        275195
+      ],
+      "sprite_hash": "F944127C8AA3FEC6CF13690F38AF057A"
+    },
+    {
+      "sequence": 15,
+      "source_server_id": 7836,
+      "source_client_id": 759,
+      "target_server_id": 25589,
+      "target_client_id": 24704,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\terrain-chests-displays-alma-20261008\\item_759_.png",
+      "source_sha256": "940525409818BE002564652398E709D7A61DF4B639F27C9765C5A212C10CF131",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        275196,
+        275196
+      ],
+      "sprite_hash": "72B68D1AA9E0FD702D7D19A471EA5D3A"
+    },
+    {
+      "sequence": 16,
+      "source_server_id": 7837,
+      "source_client_id": 760,
+      "target_server_id": 25590,
+      "target_client_id": 24705,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\terrain-chests-displays-alma-20261008\\item_760_.png",
+      "source_sha256": "A415FC9E56D18A9BC8DCF845AA06EDD8CFE1FAC5E44CB25F8E77C70712C44BE4",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        275197,
+        275197
+      ],
+      "sprite_hash": "05BDE36B0C11B9112BBDCDA15A5F02F8"
+    },
+    {
+      "sequence": 17,
+      "source_server_id": 14637,
+      "source_client_id": 13758,
+      "target_server_id": 25591,
+      "target_client_id": 24706,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\terrain-chests-displays-alma-20261008\\BauAuraWater.png",
+      "source_sha256": "C65644A171604F1900B958D5353E9CEF36EE5026FEA4245A567A783B98B4F253",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        275198,
+        275198
+      ],
+      "sprite_hash": "871277EBA6275B7DE84C95B791AEA5EB"
+    },
+    {
+      "sequence": 18,
+      "source_server_id": 14637,
+      "source_client_id": 13758,
+      "target_server_id": 25592,
+      "target_client_id": 24707,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\terrain-chests-displays-alma-20261008\\bauKijinAura.png",
+      "source_sha256": "1BF703ABED800268532E652A683E39E7EA50679A76151ACE55F58892E6B9DDB3",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        275199,
+        275199
+      ],
+      "sprite_hash": "CD50A65687AC5A174FABDCE962852429"
+    },
+    {
+      "sequence": 19,
+      "source_server_id": 14637,
+      "source_client_id": 13758,
+      "target_server_id": 25593,
+      "target_client_id": 24708,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\terrain-chests-displays-alma-20261008\\bauKijinKurenai.png",
+      "source_sha256": "CD4E2B724A86D485BE7C55440B1799956658095DF34E73D33F27FCB268EEDE01",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        275200,
+        275200
+      ],
+      "sprite_hash": "6DD8A0881CA6D6266DE85A66E45B49C0"
+    },
+    {
+      "sequence": 20,
+      "source_server_id": 14637,
+      "source_client_id": 13758,
+      "target_server_id": 25594,
+      "target_client_id": 24709,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\terrain-chests-displays-alma-20261008\\bauKijinShino.png",
+      "source_sha256": "6BCEB58AB6C82EAB24E02C8A29B4E83B6E3A96941F0AA8CBD2BC8ED4C6A792D9",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        275201,
+        275201
+      ],
+      "sprite_hash": "3A1681A6B05001D8F101DE583059FF1B"
+    },
+    {
+      "sequence": 21,
+      "source_server_id": 14637,
+      "source_client_id": 13758,
+      "target_server_id": 25595,
+      "target_client_id": 24710,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\terrain-chests-displays-alma-20261008\\bauKijinKimimaro.png",
+      "source_sha256": "4BB41FC07A156CAA6036FC8698CBD83B5590915FC0402F748DD0B022350C16EC",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        275202,
+        275202
+      ],
+      "sprite_hash": "69046F378B321BA275D20556CAE76111"
+    },
+    {
+      "sequence": 22,
+      "source_server_id": 6109,
+      "source_client_id": 6109,
+      "target_server_id": 25596,
+      "target_client_id": 24711,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\terrain-chests-displays-alma-20261008\\Expositor_de_pergaminhos_menor_-_H.png",
+      "source_sha256": "C4CB28AFB4CE80C276EF7925B9FA7A73F419C5441043B34DB21166AC18708AE9",
+      "image_size": [
+        64,
+        32
+      ],
+      "frame_size": [
+        64,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 2,
+      "sprite_id_range": [
+        275203,
+        275204
+      ],
+      "sprite_hash": "AD42217136F089FF1FE681DB3C5E01B6"
+    },
+    {
+      "sequence": 23,
+      "source_server_id": 6110,
+      "source_client_id": 6110,
+      "target_server_id": 25597,
+      "target_client_id": 24712,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\terrain-chests-displays-alma-20261008\\Expositor_de_pergaminhos_menor_-_V.png",
+      "source_sha256": "5425C4E6548510D60C9E2C0000CE6454F5549DA73454FBD506E1CA77D1E43105",
+      "image_size": [
+        32,
+        64
+      ],
+      "frame_size": [
+        32,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 2,
+      "sprite_id_range": [
+        275205,
+        275206
+      ],
+      "sprite_hash": "34797CDEAB3AC09D29CB7DE8CA28F72A"
+    }
+  ],
+  "xml": {
+    "source_definitions": 18,
+    "target_definitions_written": 23,
+    "target_definitions_already_exact": 0,
+    "target_ids": [
+      25575,
+      25576,
+      25577,
+      25578,
+      25579,
+      25580,
+      25581,
+      25582,
+      25583,
+      25584,
+      25585,
+      25586,
+      25587,
+      25588,
+      25589,
+      25590,
+      25591,
+      25592,
+      25593,
+      25594,
+      25595,
+      25596,
+      25597
+    ]
+  },
+  "map_scan": {
+    "tiles_scanned": 7824286,
+    "item_nodes_scanned": 2105106
+  },
+  "dry_run": true,
+  "passed": true
+}

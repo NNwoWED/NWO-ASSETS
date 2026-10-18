@@ -1,0 +1,353 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "profile": {
+    "key": "tibia-860-v2-custom-extended",
+    "client_version": 860,
+    "label": "Tibia 8.60 v2 customizado com features OTFI",
+    "dat_signature": "0x4C2C7993",
+    "spr_signature": "0x4C220594",
+    "metadata_reader": 5,
+    "otb_version_hint": "8.60"
+  },
+  "category": "items",
+  "id_kind": "server",
+  "requested_ids": [
+    7404,
+    7409,
+    7430,
+    7434,
+    7435,
+    7439,
+    7440,
+    7443,
+    7450,
+    7457,
+    7459,
+    7460,
+    7461,
+    7462
+  ],
+  "output_dir": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items",
+  "exported_count": 14,
+  "exported": [
+    {
+      "requested_id": 7404,
+      "client_id": 7404,
+      "server_ids": [
+        7404
+      ],
+      "name": "Sasuke fake coat",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        0
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-7404_client-7404_sasuke-fake-coat.png",
+      "size": 83,
+      "sha256": "BA04F531DF0C7A12124750D521ADD77C55B16A6432D653C5559C16680DBD9F50"
+    },
+    {
+      "requested_id": 7409,
+      "client_id": 7409,
+      "server_ids": [
+        7409
+      ],
+      "name": "Imaginary staff",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        13078
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-7409_client-7409_imaginary-staff.png",
+      "size": 1035,
+      "sha256": "3E9E19EDBEDE53100DE5910FB45BE6966B56BA6AACDD58F4AFC5AE8E782B182C"
+    },
+    {
+      "requested_id": 7430,
+      "client_id": 7430,
+      "server_ids": [
+        7430
+      ],
+      "name": "Sakura coat",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        0
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-7430_client-7430_sakura-coat.png",
+      "size": 83,
+      "sha256": "BA04F531DF0C7A12124750D521ADD77C55B16A6432D653C5559C16680DBD9F50"
+    },
+    {
+      "requested_id": 7434,
+      "client_id": 7434,
+      "server_ids": [
+        7434
+      ],
+      "name": "Kazekage tunic",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        0
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-7434_client-7434_kazekage-tunic.png",
+      "size": 83,
+      "sha256": "BA04F531DF0C7A12124750D521ADD77C55B16A6432D653C5559C16680DBD9F50"
+    },
+    {
+      "requested_id": 7435,
+      "client_id": 7435,
+      "server_ids": [
+        7435
+      ],
+      "name": "Kazekage coat",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        0
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-7435_client-7435_kazekage-coat.png",
+      "size": 83,
+      "sha256": "BA04F531DF0C7A12124750D521ADD77C55B16A6432D653C5559C16680DBD9F50"
+    },
+    {
+      "requested_id": 7439,
+      "client_id": 7439,
+      "server_ids": [
+        7439
+      ],
+      "name": "Berserk potion",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        4565
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-7439_client-7439_berserk-potion.png",
+      "size": 334,
+      "sha256": "3F7C993CC30E7099F3A8A2628279A88B198AA3BDF293A7537351F9FECF8240B5"
+    },
+    {
+      "requested_id": 7440,
+      "client_id": 7440,
+      "server_ids": [
+        7440
+      ],
+      "name": "Old chakra potion",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        4566
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-7440_client-7440_old-chakra-potion.png",
+      "size": 292,
+      "sha256": "93CD8F08F95969A0DC3465D586258A7E5BF5F2798F23753262B3EF5E13ABF390"
+    },
+    {
+      "requested_id": 7443,
+      "client_id": 7443,
+      "server_ids": [
+        7443
+      ],
+      "name": "Heal potion",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        4569
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-7443_client-7443_heal-potion.png",
+      "size": 319,
+      "sha256": "4FDCAA6F7565F4D78E1CB2DAEF49C364C3BD26B895E49522906B98481CC39B0F"
+    },
+    {
+      "requested_id": 7450,
+      "client_id": 7450,
+      "server_ids": [
+        7450
+      ],
+      "name": "Hammer of prophecy",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        0
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-7450_client-7450_hammer-of-prophecy.png",
+      "size": 83,
+      "sha256": "BA04F531DF0C7A12124750D521ADD77C55B16A6432D653C5559C16680DBD9F50"
+    },
+    {
+      "requested_id": 7457,
+      "client_id": 7457,
+      "server_ids": [
+        7457
+      ],
+      "name": "Gaara legs",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        13099
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-7457_client-7457_gaara-legs.png",
+      "size": 1061,
+      "sha256": "34E082B64DCC9E2E8B5DF019555E7D9757909162DD5F670D337767003A8CEF0E"
+    },
+    {
+      "requested_id": 7459,
+      "client_id": 7459,
+      "server_ids": [
+        7459
+      ],
+      "name": "Earmuffs",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        13101
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-7459_client-7459_earmuffs.png",
+      "size": 947,
+      "sha256": "6D13124E269610718EF5BC110A81F5D93552E697F64558DE5F9CC0B45267733B"
+    },
+    {
+      "requested_id": 7460,
+      "client_id": 7460,
+      "server_ids": [
+        7460
+      ],
+      "name": "Norse shield",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        13102
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-7460_client-7460_norse-shield.png",
+      "size": 1495,
+      "sha256": "023E65674E1B0065E868A209EBD6873247C96B1B1D37496D3413110D09FE2D8C"
+    },
+    {
+      "requested_id": 7461,
+      "client_id": 7461,
+      "server_ids": [
+        7461
+      ],
+      "name": "Nidaime Legs",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        21180
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-7461_client-7461_nidaime-legs.png",
+      "size": 1471,
+      "sha256": "255E615FD2045E8D0FEC121F71E711F99380ADC92CFBA7877DAF43F98CD8E3FF"
+    },
+    {
+      "requested_id": 7462,
+      "client_id": 7462,
+      "server_ids": [
+        7462
+      ],
+      "name": "Nidaime Helmet",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        13091
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-7462_client-7462_nidaime-helmet.png",
+      "size": 792,
+      "sha256": "769EA2DDE3971CAF007CD6A23408DC98E256AA858176FD62160AF1DF52A204DA"
+    }
+  ],
+  "sources": {
+    "dat": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.dat",
+      "sha256": "65E5DD4A480A4771227B78593F96FDAE40DF97511ACEFE113D99EB830D3FC045"
+    },
+    "spr": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.spr",
+      "sha256": "0DE36A4285C282A6DF7B0CB2DC24F9A93CC54CDC1F8418C19C19560DBF5D6953"
+    }
+  },
+  "passed": true
+}

@@ -1,0 +1,4 @@
+sequence,operation,outfit_id,reference_outfit_id,source_path,frames,frame_duration_ms
+1,reserved,1027,2115,Kuroari_E2-parte1_import.png,9,100
+2,reserved,1028,2115,Kuroari_E2-parte2_import.png,2,100
+3,reserved,1029,2115,Kuroari_E2-parte3_import.png,8,100

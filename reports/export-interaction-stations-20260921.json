@@ -1,0 +1,215 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "profile": {
+    "key": "tibia-860-v2-custom-extended",
+    "client_version": 860,
+    "label": "Tibia 8.60 v2 customizado com features OTFI",
+    "dat_signature": "0x4C2C7993",
+    "spr_signature": "0x4C220594",
+    "metadata_reader": 5,
+    "otb_version_hint": "8.60"
+  },
+  "category": "items",
+  "id_kind": "server",
+  "requested_ids": [
+    12870,
+    20952,
+    25404,
+    25405,
+    25406,
+    25407
+  ],
+  "output_dir": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\interaction-stations",
+  "exported_count": 6,
+  "exported": [
+    {
+      "requested_id": 12870,
+      "client_id": 11993,
+      "server_ids": [
+        12870
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        50306,
+        50307,
+        50308,
+        50309
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\interaction-stations\\server-12870_client-11993.png",
+      "size": 951,
+      "sha256": "C3EBAFA66C52A7FD28BFBFE7638FFE3A03E5075E30BEB511780FD9FA3BD2C8D6"
+    },
+    {
+      "requested_id": 20952,
+      "client_id": 20067,
+      "server_ids": [
+        20952
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 512,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 8,
+      "sprite_ids": [
+        134168,
+        134169,
+        134170,
+        134171,
+        134172,
+        134173,
+        134174,
+        134171,
+        134175,
+        134176,
+        134177,
+        134171,
+        134178,
+        134179,
+        134180,
+        134171,
+        134181,
+        134176,
+        134182,
+        134171,
+        134183,
+        134184,
+        134185,
+        134171,
+        134186,
+        134179,
+        134187,
+        134171,
+        134188,
+        134176,
+        134189,
+        134171
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\interaction-stations\\server-20952_client-20067.png",
+      "size": 5297,
+      "sha256": "0A1E0CAE605E5FA5092858D5A780BCE66C52BD73AABB3571D5A4BBDA3CA4616F"
+    },
+    {
+      "requested_id": 25404,
+      "client_id": 24519,
+      "server_ids": [
+        25404
+      ],
+      "name": "Bancada de Guerra",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        249648,
+        0,
+        249649,
+        0
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\interaction-stations\\server-25404_client-24519_bancada-de-guerra.png",
+      "size": 945,
+      "sha256": "6FC4531D993674CBF272EF9F4C1C571DE7DA8814E43BC1C7973521F30DBAFC5C"
+    },
+    {
+      "requested_id": 25405,
+      "client_id": 24520,
+      "server_ids": [
+        25405
+      ],
+      "name": "Bancada de Guerra",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        249650,
+        249651,
+        249652,
+        0
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\interaction-stations\\server-25405_client-24520_bancada-de-guerra.png",
+      "size": 982,
+      "sha256": "DAA8FA94A0D8B1411ED9050F4609267227EF2909FA1B7828773E019360F111C4"
+    },
+    {
+      "requested_id": 25406,
+      "client_id": 24521,
+      "server_ids": [
+        25406
+      ],
+      "name": "Bancada de Guerra",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        249653,
+        249654,
+        0,
+        0
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\interaction-stations\\server-25406_client-24521_bancada-de-guerra.png",
+      "size": 938,
+      "sha256": "0C311AC9A6597AA5156F1FF30E88764A39E684180776A3819112A118C0581E52"
+    },
+    {
+      "requested_id": 25407,
+      "client_id": 24522,
+      "server_ids": [
+        25407
+      ],
+      "name": "Bancada de Guerra",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        249655,
+        249656,
+        249657,
+        0
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\interaction-stations\\server-25407_client-24522_bancada-de-guerra.png",
+      "size": 996,
+      "sha256": "054F7D5DE5B33496A34F917F410B4AD68C0C848C8BA8B8BF16D74A9A76FD4A14"
+    }
+  ],
+  "sources": {
+    "dat": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.dat",
+      "sha256": "89100981620004DA67E648DD5CE851088ACAFDF3B52D0AA3C35E2D4C5C2484B6"
+    },
+    "spr": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.spr",
+      "sha256": "D1E2348ADCB17EC5CDA8681B1F2E0D08D9B5EDF3B09B0A04F1FF004FCCF46BBF"
+    }
+  },
+  "passed": true
+}

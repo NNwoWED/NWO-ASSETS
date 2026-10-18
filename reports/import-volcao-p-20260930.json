@@ -1,0 +1,135 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "manifest": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\volcao-p-20260930\\import-volcao-p.csv",
+  "item_count": 1,
+  "target_server_id_range": [
+    25569,
+    25569
+  ],
+  "target_client_id_range": [
+    24684,
+    24684
+  ],
+  "new_sprite_count": 40,
+  "sprite_id_range": [
+    271297,
+    271336
+  ],
+  "items": [
+    {
+      "sequence": 1,
+      "source_server_id": 25457,
+      "source_client_id": 24572,
+      "target_server_id": 25569,
+      "target_client_id": 24684,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\volcao-p-20260930\\Volcao_-_P.png",
+      "source_sha256": "45204DA3F3137E0C86F2467020BB9032FFF7403DFFB71DC3DB9F91C9655CE459",
+      "image_size": [
+        64,
+        640
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 10,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": 100,
+      "animation_async": false,
+      "sprite_id_count": 40,
+      "sprite_id_range": [
+        271297,
+        271336
+      ],
+      "sprite_hash": "5BDB6F83CBA968FECEAB812D5C6CB38C"
+    }
+  ],
+  "xml": {
+    "source_definitions": 0,
+    "target_definitions_written": 0,
+    "target_definitions_already_exact": 0,
+    "target_ids": []
+  },
+  "map_scan": {
+    "tiles_scanned": 7824286,
+    "item_nodes_scanned": 2105106
+  },
+  "version_backup": {
+    "tool_version": "0.8.2",
+    "version_id": "20260930-174253-702548",
+    "created_at": "2026-09-30T17:43:06.309529-03:00",
+    "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20260930-174253-702548",
+    "rar_executable": "C:\\Program Files\\WinRAR\\Rar.exe",
+    "sources": [
+      {
+        "path": "assets/860/.gitattributes",
+        "size": 43,
+        "sha256": "D5636A3257287440945C5E017581545E5B0A3E2FDDDAE7C5EF8D90FF4DF3D32A"
+      },
+      {
+        "path": "assets/860/Tibia.dat",
+        "size": 4466997,
+        "sha256": "6233556E588F5EBFE799CF56189F1A67567EAD1B2549A356ACCBD3F9F366D231"
+      },
+      {
+        "path": "assets/860/Tibia.otfi",
+        "size": 185,
+        "sha256": "7743548835944BC799CB871A4E5DEF84F7AF76815031871B9CE74B5EC0E8ADD3"
+      },
+      {
+        "path": "assets/860/Tibia.spr",
+        "size": 457302384,
+        "sha256": "C6DB8EF3081D5CC0992230CE2C216D3C1D011B33F70A348001D1311A221C2DA4"
+      },
+      {
+        "path": "assets/items/force use.txt",
+        "size": 419,
+        "sha256": "BCB478FDF3F45ECA8D172AFD7A17D3F8CD520924EE0894752452B8FDC8F71959"
+      },
+      {
+        "path": "assets/items/items.otb",
+        "size": 1010674,
+        "sha256": "A3800380A002918748155D17AE762712223E78FAF5F4CCFE03407D4F98A5F7F1"
+      },
+      {
+        "path": "assets/world/mapanovo.otbm",
+        "size": 80105770,
+        "sha256": "8CDFDDF9DC2A9E53053E4F3FAF7F6825FD89B6B63EE06272ECD234B387202821"
+      }
+    ],
+    "archives": {
+      "860": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20260930-174253-702548\\860.rar",
+        "size": 85174029,
+        "sha256": "69FB6050A64123E1FCBAD4E6D731E9360C391D49DBEFBFF33062860ACBC5910A"
+      },
+      "items": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20260930-174253-702548\\items.rar",
+        "size": 481590,
+        "sha256": "5C3A95A8D486E8A8B4B472E58AA5FC89E97C46A40CF6D614A572B398F4B4B8E0"
+      },
+      "world": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20260930-174253-702548\\world.zip",
+        "size": 19337359,
+        "sha256": "170CD29639D001F9273247C874479344E8207ECB971919AE0E8CAE14295E4A31"
+      }
+    },
+    "items_xml_excluded": true,
+    "world_entries": [
+      "mapanovo.otbm"
+    ],
+    "passed": true
+  },
+  "transaction_committed": true,
+  "old_dat_records_preserved": true,
+  "old_otb_nodes_preserved": true,
+  "old_sprite_payload_preserved": true,
+  "new_sprite_pixels_verified": true,
+  "final_validation_passed": true,
+  "warnings": [],
+  "errors": [],
+  "passed": true
+}

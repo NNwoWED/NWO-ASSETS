@@ -1,0 +1,8 @@
+sequence,source_server_id,target_server_id,target_client_id,source_path,frame_width,frame_height,frames,frame_duration_ms,animation_async
+1,13667,25562,24677,Parede Iwagakure H.png,64,64,1,,0
+2,13668,25563,24678,Parede Iwagakure V.png,64,64,1,,0
+3,13669,25564,24679,Parede Iwagakure quina superior].png,64,64,1,,0
+4,13670,25565,24680,Parede Iwagakure quina.png,64,64,1,,0
+5,13671,25566,24681,Parede Iwagakure quina low.png,64,64,1,,0
+6,13672,25567,24682,Parede Iwagakure H low.png,64,64,1,,0
+7,13673,25568,24683,Parede Iwagakure V low.png,64,64,1,,0

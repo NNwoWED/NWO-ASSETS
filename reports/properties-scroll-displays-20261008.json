@@ -1,0 +1,143 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "manifest": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\terrain-chests-displays-alma-20261008\\properties-scroll-displays.csv",
+  "version_backup": {
+    "tool_version": "0.8.2",
+    "version_id": "20261008-203645-415962",
+    "created_at": "2026-10-08T20:36:57.656248-03:00",
+    "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261008-203645-415962",
+    "rar_executable": "C:\\Program Files\\WinRAR\\Rar.exe",
+    "sources": [
+      {
+        "path": "assets/860/.gitattributes",
+        "size": 43,
+        "sha256": "D5636A3257287440945C5E017581545E5B0A3E2FDDDAE7C5EF8D90FF4DF3D32A"
+      },
+      {
+        "path": "assets/860/Tibia.dat",
+        "size": 4507168,
+        "sha256": "F92B3D6484E4ADBEDD13F1E9FB0A73B8A4474804A3A70426F1C8502076672A49"
+      },
+      {
+        "path": "assets/860/Tibia.otfi",
+        "size": 185,
+        "sha256": "7743548835944BC799CB871A4E5DEF84F7AF76815031871B9CE74B5EC0E8ADD3"
+      },
+      {
+        "path": "assets/860/Tibia.spr",
+        "size": 462942522,
+        "sha256": "317F79731ECCDF3CB94A4264BC7F53B7B665888569C385400E44C1AF0AAC4E93"
+      },
+      {
+        "path": "assets/items/force use.txt",
+        "size": 419,
+        "sha256": "BCB478FDF3F45ECA8D172AFD7A17D3F8CD520924EE0894752452B8FDC8F71959"
+      },
+      {
+        "path": "assets/items/items.otb",
+        "size": 1011842,
+        "sha256": "1113D12090DD54BBF20E6E616B80F727A68947DAD9F92FCC2175FDD5EEC7EA56"
+      },
+      {
+        "path": "assets/world/mapanovo.otbm",
+        "size": 80105770,
+        "sha256": "8CDFDDF9DC2A9E53053E4F3FAF7F6825FD89B6B63EE06272ECD234B387202821"
+      }
+    ],
+    "archives": {
+      "860": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261008-203645-415962\\860.rar",
+        "size": 85284694,
+        "sha256": "A6127E796314CE6829859A8ED07016115F8EAD9BD312450C97DFEBFF819784AB"
+      },
+      "items": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261008-203645-415962\\items.rar",
+        "size": 482314,
+        "sha256": "D754A2CC3A942CBC14C47184CC9F3473E6C8A986F3CECF6FB9C4919FC38ABE06"
+      },
+      "world": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261008-203645-415962\\world.zip",
+        "size": 19337359,
+        "sha256": "170CD29639D001F9273247C874479344E8207ECB971919AE0E8CAE14295E4A31"
+      }
+    },
+    "items_xml_excluded": true,
+    "world_entries": [
+      "mapanovo.otbm"
+    ],
+    "passed": true
+  },
+  "item_count": 2,
+  "items": [
+    {
+      "sequence": 1,
+      "server_id": 25596,
+      "client_id": 24711,
+      "dat": {
+        "before": [
+          "container",
+          "unpassable",
+          "rotatable"
+        ],
+        "after": [
+          "unpassable",
+          "rotatable",
+          "pickupable"
+        ]
+      },
+      "otb": {
+        "before_mask": "0x00008041",
+        "after_mask": "0x00008061",
+        "before": [
+          "block_solid",
+          "movable",
+          "rotatable"
+        ],
+        "after": [
+          "block_solid",
+          "pickupable",
+          "movable",
+          "rotatable"
+        ]
+      }
+    },
+    {
+      "sequence": 2,
+      "server_id": 25597,
+      "client_id": 24712,
+      "dat": {
+        "before": [
+          "container",
+          "unpassable",
+          "rotatable"
+        ],
+        "after": [
+          "unpassable",
+          "rotatable",
+          "pickupable"
+        ]
+      },
+      "otb": {
+        "before_mask": "0x00008041",
+        "after_mask": "0x00008061",
+        "before": [
+          "block_solid",
+          "movable",
+          "rotatable"
+        ],
+        "after": [
+          "block_solid",
+          "pickupable",
+          "movable",
+          "rotatable"
+        ]
+      }
+    }
+  ],
+  "transaction_committed": true,
+  "untouched_assets_preserved": true,
+  "final_validation_passed": true,
+  "warnings": [],
+  "errors": [],
+  "passed": true
+}

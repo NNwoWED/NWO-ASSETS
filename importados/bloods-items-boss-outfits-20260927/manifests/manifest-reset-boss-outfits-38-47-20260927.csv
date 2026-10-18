@@ -1,0 +1,11 @@
+sequence,operation,outfit_id,reference_outfit_id,source_path
+1,replace,38,15,../sprites/reset-outfits-38-47-transparent.png
+2,replace,39,15,../sprites/reset-outfits-38-47-transparent.png
+3,replace,40,15,../sprites/reset-outfits-38-47-transparent.png
+4,replace,41,15,../sprites/reset-outfits-38-47-transparent.png
+5,replace,42,15,../sprites/reset-outfits-38-47-transparent.png
+6,replace,43,15,../sprites/reset-outfits-38-47-transparent.png
+7,replace,44,15,../sprites/reset-outfits-38-47-transparent.png
+8,replace,45,15,../sprites/reset-outfits-38-47-transparent.png
+9,replace,46,15,../sprites/reset-outfits-38-47-transparent.png
+10,replace,47,15,../sprites/reset-outfits-38-47-transparent.png

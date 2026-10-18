@@ -1,0 +1,2 @@
+sequence,source_server_id,target_server_id,target_client_id,source_path,frame_width,frame_height,frames,frame_duration_ms,animation_async,layers,pattern_x,pattern_y,pattern_z
+1,25577,25598,24713,patternX4_2.png,64,64,1,,0,1,4,1,1

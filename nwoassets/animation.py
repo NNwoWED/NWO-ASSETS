@@ -50,7 +50,7 @@ def read_animation_manifest(
         except (TypeError, ValueError) as exc:
             raise FormatError(f"{path}:{row_number}: valor numerico invalido") from exc
         category = (row["category"] or "").strip().casefold()
-        if category not in {"items", "effects", "missiles"}:
+        if category not in {"items", "outfits", "effects", "missiles"}:
             raise FormatError(f"{path}:{row_number}: categoria invalida: {category}")
         if not durations:
             raise FormatError(f"{path}:{row_number}: frame_durations_ms vazio")

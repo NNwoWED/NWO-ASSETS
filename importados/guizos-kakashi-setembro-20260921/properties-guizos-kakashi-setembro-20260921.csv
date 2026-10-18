@@ -1,0 +1,3 @@
+sequence,server_id,client_id,dat_add_flags,dat_remove_flags,otb_add_flags,otb_remove_flags
+1,24131,23246,stackable|pickupable,,pickupable|stackable,
+2,24132,23247,stackable|pickupable,,pickupable|stackable,

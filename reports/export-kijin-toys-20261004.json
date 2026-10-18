@@ -1,0 +1,100 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "profile": {
+    "key": "tibia-860-v2-custom-extended",
+    "client_version": 860,
+    "label": "Tibia 8.60 v2 customizado com features OTFI",
+    "dat_signature": "0x4C2C7993",
+    "spr_signature": "0x4C220594",
+    "metadata_reader": 5,
+    "otb_version_hint": "8.60"
+  },
+  "category": "items",
+  "id_kind": "server",
+  "requested_ids": [
+    25572,
+    25573,
+    25574
+  ],
+  "output_dir": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\kijin-toys-20261004",
+  "exported_count": 3,
+  "exported": [
+    {
+      "requested_id": 25572,
+      "client_id": 24687,
+      "server_ids": [
+        25572
+      ],
+      "name": "Kurenai Kijin Toy",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        273391
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\kijin-toys-20261004\\server-25572_client-24687_kurenai-kijin-toy.png",
+      "size": 503,
+      "sha256": "14607664E3978A0217B7FEDD2121C60D2A73142E35658A1AC4865C88E9DEFA1E"
+    },
+    {
+      "requested_id": 25573,
+      "client_id": 24688,
+      "server_ids": [
+        25573
+      ],
+      "name": "Shino Kijin Toy",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        273392
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\kijin-toys-20261004\\server-25573_client-24688_shino-kijin-toy.png",
+      "size": 356,
+      "sha256": "D9AC667D986346885B3C4DBB47B37900A79280038E2639F59FB4CB83AE933DEB"
+    },
+    {
+      "requested_id": 25574,
+      "client_id": 24689,
+      "server_ids": [
+        25574
+      ],
+      "name": "Kimimaro Kijin Toy",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        273393
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\kijin-toys-20261004\\server-25574_client-24689_kimimaro-kijin-toy.png",
+      "size": 550,
+      "sha256": "1DCA490745C3020A48AAC49C03B88926F10C1187D4C0F55CFC497115D9C60211"
+    }
+  ],
+  "sources": {
+    "dat": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.dat",
+      "sha256": "DB1CB62B3857BDB747263E23984378A6F76B8FA07451B8DA10CA0576FD4FB7FD"
+    },
+    "spr": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.spr",
+      "sha256": "0A129C6E8B66853F761D6A236CA6032F7CB316600C39E1FFDA02FC916AC9DB74"
+    }
+  },
+  "passed": true
+}

@@ -67,7 +67,9 @@ creatures: // outfits
     name-displacement: -44 -26
   34 // kiba classico
     name-displacement: -44 -26
-  35 // kankuro classico
+  35 // kakashi classico
+    name-displacement: -44 -26
+  37 // kankuro classico
     name-displacement: -44 -26
   96
     hidecreatureinfo
@@ -180,6 +182,8 @@ creatures: // outfits
   334
     name-displacement: -44 -26
   335
+    name-displacement: -44 -26
+  337 // kankuro adulto
     name-displacement: -44 -26
   382
     name-displacement: -44 -26
@@ -641,6 +645,44 @@ creatures: // outfits
     async-outfit
     name-displacement: -36 -19
     hidecreatureinfo
+  1011 // adorador shukaku boss
+    name-displacement: -44 -26
+  1012 // alma afogada boss
+    name-displacement: -44 -26
+  1013 // assassin boss
+    name-displacement: -44 -26
+  1014 // duna boss
+    name-displacement: -44 -26
+  1015 // marionete boss
+    name-displacement: -44 -26
+  1016 // nomade perdido boss
+    name-displacement: -44 -26
+  1017 // predador da nevoa profunda boss
+    name-displacement: -44 -26
+  1018 // sand disaster boss
+    name-displacement: -44 -26
+    outfit-displacement: 14 14
+  1019 // scorpion boss
+    name-displacement: -44 -26
+  1020 // shukaku fragment boss
+    name-displacement: -44 -26
+  1021 // mestre ninja boss
+    name-displacement: -44 -26
+  1023 // kankuro kuroari
+    name-displacement: -44 -40
+  1024 // kankuro sanshou
+    name-displacement: -36 -19
+    outfit-displacement: 32 32
+  1026 // kankuro karasu e1 recast
+    name-displacement: -44 -54
+  1027 // kuroari e2 capture
+    async-outfit
+    outfit-displacement: 144 144
+  1028 // kuroari e2 hold
+    outfit-displacement: 144 144
+  1029 // kuroari e2 finisher
+    async-outfit
+    outfit-displacement: 144 144
 
   // npcs //
   1101
@@ -1568,10 +1610,54 @@ creatures: // outfits
     async-outfit
     name-displacement: -44 -26
     outfit-displacement: 32 32
+  1514 // artesao
+    name-displacement: -44 -26
+  1515 // cientista
+    name-displacement: -44 -26
+  1516 // cozinheira
+    name-displacement: -44 -26
+  1517 // engenheiro
+    name-displacement: -44 -26
+  1518 // ferreiro
+    name-displacement: -44 -26
+  1519 // marceneiro
+    name-displacement: -44 -26
   1520 // kurenai kijin
     name-displacement: -44 -26
   1521 // shino kijin
     name-displacement: -44 -26
+  1522 // kimimaro kijin
+    name-displacement: -44 -26
+  1523 // kid zabuza desaparecendo
+    async-outfit
+    name-displacement: -44 -26
+  1524 // kid zabuza golpe
+    async-outfit
+    hidecreatureinfo
+    name-displacement: -44 -26
+    outfit-displacement: 0 64
+  1525 // zabuza normal desaparecendo
+    async-outfit
+    name-displacement: -44 -26
+  1526 // zabuza normal golpe
+    async-outfit
+    hidecreatureinfo
+    name-displacement: -44 -26
+    outfit-displacement: 0 64
+  1527 // zabuza lua sangrenta desaparecendo
+    async-outfit
+    name-displacement: -44 -26
+  1528 // zabuza lua sangrenta golpe
+    async-outfit
+    hidecreatureinfo
+    name-displacement: -44 -26
+    outfit-displacement: 0 64
+  1529 // kankuro sanshou e3
+    name-displacement: -36 -19
+    outfit-displacement: 32 32
+  1530 // kankuro sanshou e3 kid
+    name-displacement: -36 -19
+    outfit-displacement: 32 32
   1551 // naruto js
     async-outfit
     hidecreatureinfo
@@ -1961,3 +2047,11 @@ creatures: // outfits
   2284
     name-displacement: -64 -64
     outfit-displacement: 64 64
+  2286 // kabuto das sombras
+    name-displacement: -44 -26
+  2287 // kakashi das sombras
+    name-displacement: -44 -26
+  2288 // hinata celestial
+    name-displacement: -44 -26
+  2289 // kiba celestial
+    name-displacement: -44 -26

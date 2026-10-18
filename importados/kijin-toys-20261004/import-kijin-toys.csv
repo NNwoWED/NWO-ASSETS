@@ -1,0 +1,4 @@
+sequence,source_server_id,target_server_id,target_client_id,source_path,frame_width,frame_height,frames,frame_duration_ms,animation_async
+1,25052,25572,24687,dolls_kurenai_kinjin.png,32,32,1,,0
+2,25052,25573,24688,dolls_shino_kinjin.png,32,32,1,,0
+3,25052,25574,24689,dolls_kimimaro_kinjin.png,32,32,1,,0

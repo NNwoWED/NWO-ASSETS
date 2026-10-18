@@ -1,0 +1,15 @@
+sequence,server_id,client_id,dat_add_flags,dat_remove_flags,otb_add_flags,otb_remove_flags
+1,7404,7404,unmoveable|ignore_look,stackable|multi_use|pickupable,block_solid|block_pathfind|pickupable|movable|rotatable,usable|stackable|has_height
+2,7409,7409,unmoveable,ignore_look|stackable|multi_use|pickupable,block_solid|block_pathfind|pickupable|movable|rotatable,usable|stackable|has_height
+3,7430,7430,unmoveable|ignore_look,stackable|multi_use|pickupable,block_solid|block_pathfind|pickupable|movable|rotatable,usable|stackable|has_height
+4,7434,7434,unmoveable,ignore_look|stackable|multi_use|pickupable,block_solid|block_pathfind|pickupable|movable|rotatable,usable|stackable|has_height
+5,7435,7435,unmoveable|ignore_look,stackable|multi_use|pickupable,block_solid|block_pathfind|pickupable|movable|rotatable,usable|stackable|has_height
+6,7439,7439,unmoveable,ignore_look|stackable|multi_use|pickupable,block_solid|block_pathfind|pickupable|movable|rotatable,usable|stackable|has_height
+7,7440,7440,unmoveable|ignore_look,stackable|multi_use|pickupable,block_solid|block_pathfind|pickupable|movable|rotatable,usable|stackable|has_height
+8,7443,7443,unmoveable,ignore_look|stackable|multi_use|pickupable,block_solid|block_pathfind|pickupable|movable|rotatable,usable|stackable|has_height
+9,7450,7450,unmoveable|ignore_look,stackable|multi_use|pickupable,block_solid|block_pathfind|pickupable|movable|rotatable,usable|stackable|has_height
+10,7457,7457,unmoveable,ignore_look|stackable|multi_use|pickupable,block_solid|block_pathfind|pickupable|movable|rotatable,usable|stackable|has_height
+11,7459,7459,unmoveable|ignore_look,stackable|multi_use|pickupable,block_solid|block_pathfind|pickupable|movable|rotatable,usable|stackable|has_height
+12,7460,7460,unmoveable,ignore_look|stackable|multi_use|pickupable,block_solid|block_pathfind|pickupable|movable|rotatable,usable|stackable|has_height
+13,7461,7461,unmoveable|ignore_look,stackable|multi_use|pickupable,block_solid|block_pathfind|pickupable|movable|rotatable,usable|stackable|has_height
+14,7462,7462,unmoveable,ignore_look|stackable|multi_use|pickupable,block_solid|block_pathfind|pickupable|movable|rotatable,usable|stackable|has_height

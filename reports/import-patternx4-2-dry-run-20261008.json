@@ -1,0 +1,64 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "manifest": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\split-patternx4-20261008\\import-patternx4-2.csv",
+  "item_count": 1,
+  "target_server_id_range": [
+    25598,
+    25598
+  ],
+  "target_client_id_range": [
+    24713,
+    24713
+  ],
+  "new_sprite_count": 16,
+  "sprite_id_range": [
+    275463,
+    275478
+  ],
+  "items": [
+    {
+      "sequence": 1,
+      "source_server_id": 25577,
+      "source_client_id": 24692,
+      "target_server_id": 25598,
+      "target_client_id": 24713,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\split-patternx4-20261008\\patternX4_2.png",
+      "source_sha256": "F913E149330D75242AEEF96C556F2BB1F71ACAC4C488CB2B7D11D4BEA214A1FB",
+      "image_size": [
+        256,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 4,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 16,
+      "sprite_id_range": [
+        275463,
+        275478
+      ],
+      "sprite_hash": "E3E9BDCA2D47B96AF8658F4BA4471D82"
+    }
+  ],
+  "xml": {
+    "source_definitions": 1,
+    "target_definitions_written": 1,
+    "target_definitions_already_exact": 0,
+    "target_ids": [
+      25598
+    ]
+  },
+  "map_scan": {
+    "tiles_scanned": 7824286,
+    "item_nodes_scanned": 2105106
+  },
+  "dry_run": true,
+  "passed": true
+}

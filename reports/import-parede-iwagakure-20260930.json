@@ -1,0 +1,323 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "manifest": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede-iwagakure-20260930\\import-parede-iwagakure.csv",
+  "item_count": 7,
+  "target_server_id_range": [
+    25562,
+    25568
+  ],
+  "target_client_id_range": [
+    24677,
+    24683
+  ],
+  "new_sprite_count": 23,
+  "sprite_id_range": [
+    271274,
+    271296
+  ],
+  "items": [
+    {
+      "sequence": 1,
+      "source_server_id": 13667,
+      "source_client_id": 12790,
+      "target_server_id": 25562,
+      "target_client_id": 24677,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede-iwagakure-20260930\\Parede Iwagakure H.png",
+      "source_sha256": "783BBE149C3FFECE326D69601A6C224442674D774B5ADD2C933698AC021DF8E7",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        271274,
+        271277
+      ],
+      "sprite_hash": "479CE5D9B2108CBFD3EA8234BF0F013B"
+    },
+    {
+      "sequence": 2,
+      "source_server_id": 13668,
+      "source_client_id": 12791,
+      "target_server_id": 25563,
+      "target_client_id": 24678,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede-iwagakure-20260930\\Parede Iwagakure V.png",
+      "source_sha256": "1DBC84245AC802EE59E20FDD6FFC4E3E1D94E2A671F098443E0DEFC4DDAB1BCE",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        271278,
+        271281
+      ],
+      "sprite_hash": "34189C38ADFE3DF4AE6403DF7945ED07"
+    },
+    {
+      "sequence": 3,
+      "source_server_id": 13669,
+      "source_client_id": 12792,
+      "target_server_id": 25564,
+      "target_client_id": 24679,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede-iwagakure-20260930\\Parede Iwagakure quina superior].png",
+      "source_sha256": "252705B45C22E3AFD58A7AAADBF5C7EB8D749D26AEC29C7DB14136B433B80D55",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        271282,
+        271285
+      ],
+      "sprite_hash": "7CD19BA17C2867C5BBAD38CAB243158F"
+    },
+    {
+      "sequence": 4,
+      "source_server_id": 13670,
+      "source_client_id": 12793,
+      "target_server_id": 25565,
+      "target_client_id": 24680,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede-iwagakure-20260930\\Parede Iwagakure quina.png",
+      "source_sha256": "60539AF943B9D6D3E557963DB7C48CD81B8E528BF0BCFB88F0258875B2AB4A8B",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        271286,
+        271289
+      ],
+      "sprite_hash": "E7002322BF4D53F948B0E4C543FE04A5"
+    },
+    {
+      "sequence": 5,
+      "source_server_id": 13671,
+      "source_client_id": 12794,
+      "target_server_id": 25566,
+      "target_client_id": 24681,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede-iwagakure-20260930\\Parede Iwagakure quina low.png",
+      "source_sha256": "57F3142B146FC1B5E64387FB1A6D94B669D310FAF5B842D7D7CF3B2D8E20CC54",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 3,
+      "sprite_id_range": [
+        271290,
+        271292
+      ],
+      "sprite_hash": "B48D5EFE02E24C7C26FF1C696E404CD5"
+    },
+    {
+      "sequence": 6,
+      "source_server_id": 13672,
+      "source_client_id": 12795,
+      "target_server_id": 25567,
+      "target_client_id": 24682,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede-iwagakure-20260930\\Parede Iwagakure H low.png",
+      "source_sha256": "73C577C86983313BFDDCEBF9E35298BBFD5821592626CC78D174C1800AFC15AA",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 2,
+      "sprite_id_range": [
+        271293,
+        271294
+      ],
+      "sprite_hash": "2623107699F962EA72504C34EE1F3E45"
+    },
+    {
+      "sequence": 7,
+      "source_server_id": 13673,
+      "source_client_id": 12796,
+      "target_server_id": 25568,
+      "target_client_id": 24683,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede-iwagakure-20260930\\Parede Iwagakure V low.png",
+      "source_sha256": "0A898120BA0ABE920A3796E436ECCCD04CD4BE971CCAFA10A75F701948F5B39B",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 2,
+      "sprite_id_range": [
+        271295,
+        271296
+      ],
+      "sprite_hash": "E374018CE341A0105528AFC7DEF8996B"
+    }
+  ],
+  "xml": {
+    "source_definitions": 7,
+    "target_definitions_written": 7,
+    "target_definitions_already_exact": 0,
+    "target_ids": [
+      25562,
+      25563,
+      25564,
+      25565,
+      25566,
+      25567,
+      25568
+    ]
+  },
+  "map_scan": {
+    "tiles_scanned": 7824286,
+    "item_nodes_scanned": 2105106
+  },
+  "version_backup": {
+    "tool_version": "0.8.2",
+    "version_id": "20260930-151724-667892",
+    "created_at": "2026-09-30T15:17:40.794438-03:00",
+    "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20260930-151724-667892",
+    "rar_executable": "C:\\Program Files\\WinRAR\\Rar.exe",
+    "sources": [
+      {
+        "path": "assets/860/.gitattributes",
+        "size": 43,
+        "sha256": "D5636A3257287440945C5E017581545E5B0A3E2FDDDAE7C5EF8D90FF4DF3D32A"
+      },
+      {
+        "path": "assets/860/Tibia.dat",
+        "size": 4466769,
+        "sha256": "A47F250AD62E0F53EC2D5ACA3BB480B914FD2996A366A9937D5BFEF0D50AFA41"
+      },
+      {
+        "path": "assets/860/Tibia.otfi",
+        "size": 185,
+        "sha256": "7743548835944BC799CB871A4E5DEF84F7AF76815031871B9CE74B5EC0E8ADD3"
+      },
+      {
+        "path": "assets/860/Tibia.spr",
+        "size": 457262913,
+        "sha256": "4404E8E4A8FC2F77BCF792EF7236C606C4B741BD3781E6221E84938AA8042C70"
+      },
+      {
+        "path": "assets/items/force use.txt",
+        "size": 419,
+        "sha256": "BCB478FDF3F45ECA8D172AFD7A17D3F8CD520924EE0894752452B8FDC8F71959"
+      },
+      {
+        "path": "assets/items/items.otb",
+        "size": 1010355,
+        "sha256": "98121BA12A3C5B2B42881DC2FB09348A71FEBFDD55F71404B909F64741612AAB"
+      },
+      {
+        "path": "assets/world/mapanovo.otbm",
+        "size": 80105770,
+        "sha256": "8CDFDDF9DC2A9E53053E4F3FAF7F6825FD89B6B63EE06272ECD234B387202821"
+      }
+    ],
+    "archives": {
+      "860": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20260930-151724-667892\\860.rar",
+        "size": 85175653,
+        "sha256": "50BCC96D58E13132E30F25008849A767257937AE4B331EA2D9E94974B69F59A6"
+      },
+      "items": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20260930-151724-667892\\items.rar",
+        "size": 481434,
+        "sha256": "9C80AC6DC536FE45FC4E046687073B6C32B4BE35AA81595586E8A73F364C3128"
+      },
+      "world": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20260930-151724-667892\\world.zip",
+        "size": 19337359,
+        "sha256": "170CD29639D001F9273247C874479344E8207ECB971919AE0E8CAE14295E4A31"
+      }
+    },
+    "items_xml_excluded": true,
+    "world_entries": [
+      "mapanovo.otbm"
+    ],
+    "passed": true
+  },
+  "transaction_committed": true,
+  "old_dat_records_preserved": true,
+  "old_otb_nodes_preserved": true,
+  "old_sprite_payload_preserved": true,
+  "new_sprite_pixels_verified": true,
+  "final_validation_passed": true,
+  "warnings": [],
+  "errors": [],
+  "passed": true
+}

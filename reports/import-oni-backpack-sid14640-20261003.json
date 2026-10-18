@@ -1,0 +1,121 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "manifest": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\kijin-oni-backpacks-20261003\\import-oni-backpack-sid14640.csv",
+  "profile": "tibia-860-v2-custom-extended",
+  "version_backup": {
+    "tool_version": "0.8.2",
+    "version_id": "20261003-192735-679593",
+    "created_at": "2026-10-03T19:27:47.445532-03:00",
+    "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261003-192735-679593",
+    "rar_executable": "C:\\Program Files\\WinRAR\\Rar.exe",
+    "sources": [
+      {
+        "path": "assets/860/.gitattributes",
+        "size": 43,
+        "sha256": "D5636A3257287440945C5E017581545E5B0A3E2FDDDAE7C5EF8D90FF4DF3D32A"
+      },
+      {
+        "path": "assets/860/Tibia.dat",
+        "size": 4499422,
+        "sha256": "8505A0034342D796DFA0F88A8F454F5A701EB1370E9CA8279A01E565FBC3B507"
+      },
+      {
+        "path": "assets/860/Tibia.otfi",
+        "size": 185,
+        "sha256": "7743548835944BC799CB871A4E5DEF84F7AF76815031871B9CE74B5EC0E8ADD3"
+      },
+      {
+        "path": "assets/860/Tibia.spr",
+        "size": 458470608,
+        "sha256": "19F1AD0CFCCE2398023DF4726F392D056E44BEFF413EFCBE9BB33F90CB5A49A5"
+      },
+      {
+        "path": "assets/items/force use.txt",
+        "size": 419,
+        "sha256": "BCB478FDF3F45ECA8D172AFD7A17D3F8CD520924EE0894752452B8FDC8F71959"
+      },
+      {
+        "path": "assets/items/items.otb",
+        "size": 1010720,
+        "sha256": "EC363B21468C2FBD4FF4830DAF61FC80DEEA91B628C1BEA5C57FD5E4A71BDEBD"
+      },
+      {
+        "path": "assets/world/mapanovo.otbm",
+        "size": 80105770,
+        "sha256": "8CDFDDF9DC2A9E53053E4F3FAF7F6825FD89B6B63EE06272ECD234B387202821"
+      }
+    ],
+    "archives": {
+      "860": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261003-192735-679593\\860.rar",
+        "size": 85277533,
+        "sha256": "EB49926F967D6006E11A421B5F2A2EFBD99FD0D1FE804E4EE1C4F4635E1F9F97"
+      },
+      "items": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261003-192735-679593\\items.rar",
+        "size": 481621,
+        "sha256": "CD2A5D786F0C2DE349A70B11AFA79F5E030D79ADC2C785FEB3982987666708DE"
+      },
+      "world": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261003-192735-679593\\world.zip",
+        "size": 19337359,
+        "sha256": "170CD29639D001F9273247C874479344E8207ECB971919AE0E8CAE14295E4A31"
+      }
+    },
+    "items_xml_excluded": true,
+    "world_entries": [
+      "mapanovo.otbm"
+    ],
+    "passed": true
+  },
+  "sprite_hash_gate": {
+    "sample_count": 64,
+    "mismatch_count": 0,
+    "mismatches": [],
+    "passed": true
+  },
+  "item_count": 1,
+  "new_sprite_count": 1,
+  "sprite_id_range": [
+    272349,
+    272349
+  ],
+  "items": [
+    {
+      "sequence": 1,
+      "client_id": 13761,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\kijin-oni-backpacks-20261003\\bag_kinjin1.png",
+      "file_sha256": "DEAB91A7971953AED7A0C8D45ED7168A60EAE74B35044D5B985D5111ABAAB3C8",
+      "pixels_sha256": "5E7510262653EC8CF0AFA2E3F760D8A3506982147C19F3160E408DEB0C2B4A0F",
+      "image_width": 32,
+      "image_height": 32,
+      "width_tiles": 1,
+      "height_tiles": 1,
+      "frames": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_ids": [
+        272349
+      ],
+      "sprite_hash": "12C075A0301250D7CBEB8E3ECC59D5A5"
+    }
+  ],
+  "otb_nodes_updated": {
+    "13761": 1
+  },
+  "transaction_committed": true,
+  "output_hashes": {
+    "dat": "05DF3F01F9E177850A76C4207E5CFAA612652441FC55D9AA7CB3B5F24246FF2B",
+    "spr": "C7553997E7410E369335F7DBB5AA0EC1674D037301409DC17EAF6C5778DA709B",
+    "otb": "F259710FB375863BE5C9B5A7DCBF990CC3C9FC58DC4440D8324D666B96D14405"
+  },
+  "dat_non_targets_preserved": true,
+  "old_sprite_payload_preserved": true,
+  "new_sprite_pixels_verified": true,
+  "untouched_files_preserved": true,
+  "map_byte_equal": true,
+  "final_validation_passed": true,
+  "warnings": [],
+  "errors": [],
+  "passed": true
+}

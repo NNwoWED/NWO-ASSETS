@@ -1,0 +1,3221 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "profile": {
+    "key": "tibia-860-v2-custom-extended",
+    "client_version": 860,
+    "label": "Tibia 8.60 v2 customizado com features OTFI",
+    "dat_signature": "0x4C2C7993",
+    "spr_signature": "0x4C220594",
+    "metadata_reader": 5,
+    "otb_version_hint": "8.60"
+  },
+  "category": "items",
+  "id_kind": "server",
+  "requested_ids": [
+    22305,
+    22306,
+    22307,
+    22308,
+    22309,
+    22310,
+    22311,
+    22312,
+    22313,
+    22314,
+    22315,
+    22316,
+    22317,
+    22318,
+    22319,
+    22320,
+    22321,
+    22322,
+    22323,
+    22324,
+    22325,
+    22326,
+    22327,
+    22328,
+    22329,
+    22330,
+    22331,
+    22332,
+    22333,
+    22334,
+    22335,
+    22336,
+    22337,
+    22338,
+    22339,
+    22340,
+    22341,
+    22342,
+    22343,
+    22344,
+    22345,
+    22346,
+    22347,
+    22348,
+    22349,
+    22350,
+    22351,
+    22352,
+    22353,
+    22354,
+    22355,
+    22356,
+    22357,
+    22358,
+    22359,
+    22360,
+    22361,
+    22362,
+    22363,
+    22364,
+    22365,
+    22366,
+    22367,
+    22368,
+    22369,
+    22370,
+    22371,
+    22372,
+    22373,
+    22374,
+    22375,
+    22376,
+    22377,
+    22378,
+    22379,
+    22380,
+    22381,
+    22382,
+    22383,
+    22384,
+    22385,
+    22386,
+    22387,
+    22388,
+    22389,
+    22390,
+    22391,
+    22392,
+    22393,
+    22394,
+    22395,
+    22396,
+    22397,
+    22398,
+    22399,
+    22400,
+    22401,
+    22402,
+    22403,
+    22404,
+    22405,
+    22406,
+    22407,
+    22408,
+    22409,
+    22410,
+    22411,
+    22412,
+    22413,
+    22414,
+    22415,
+    22416,
+    22417,
+    22418,
+    22419,
+    22420,
+    22421,
+    22422,
+    22423,
+    22424,
+    22425,
+    22426,
+    22427,
+    22428,
+    22429,
+    22430
+  ],
+  "output_dir": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-konoha-sid22305-22430-20261009",
+  "exported_count": 126,
+  "exported": [
+    {
+      "requested_id": 22305,
+      "client_id": 21420,
+      "server_ids": [
+        22305
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        142056
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-konoha-sid22305-22430-20261009\\server-22305_client-21420.png",
+      "size": 1489,
+      "sha256": "45E353D40610CE3AF52CE880156C6D0C30D31B359373B25497CFAE4A9EB33A5E"
+    },
+    {
+      "requested_id": 22306,
+      "client_id": 21421,
+      "server_ids": [
+        22306
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        142057
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-konoha-sid22305-22430-20261009\\server-22306_client-21421.png",
+      "size": 1170,
+      "sha256": "F38B20E9F37B9D848C95DB8343533B14F1A426684779B9DD7FD95F52B25C7CE5"
+    },
+    {
+      "requested_id": 22307,
+      "client_id": 21422,
+      "server_ids": [
+        22307
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        142058
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-konoha-sid22305-22430-20261009\\server-22307_client-21422.png",
+      "size": 327,
+      "sha256": "611228344A69F739792FACAB63B8FE218DD473E2EBA665B70DA7F2610D4DC947"
+    },
+    {
+      "requested_id": 22308,
+      "client_id": 21423,
+      "server_ids": [
+        22308
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        142059
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-konoha-sid22305-22430-20261009\\server-22308_client-21423.png",
+      "size": 1768,
+      "sha256": "E8B17D8710DCE747CDDE3FD913E1628779B407E72CC6F34C2189CDC87E8E4FD5"
+    },
+    {
+      "requested_id": 22309,
+      "client_id": 21424,
+      "server_ids": [
+        22309
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        142060
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-konoha-sid22305-22430-20261009\\server-22309_client-21424.png",
+      "size": 1551,
+      "sha256": "A70DE6CF898E76F4A89E3473E5FCA40419A4A010714373DB5D1A2CAA8C9D4276"
+    },
+    {
+      "requested_id": 22310,
+      "client_id": 21425,
+      "server_ids": [
+        22310
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        142061
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-konoha-sid22305-22430-20261009\\server-22310_client-21425.png",
+      "size": 1561,
+      "sha256": "CD3C63EB22ED7E267ED834E112855495DFABBAC7038B17B1E3DEEC35A9E70B85"
+    },
+    {
+      "requested_id": 22311,
+      "client_id": 21426,
+      "server_ids": [
+        22311
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        142062
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-konoha-sid22305-22430-20261009\\server-22311_client-21426.png",
+      "size": 378,
+      "sha256": "5F0392F3D4E99FD922466BB7FB9CB3D9ACE0F645848075B699ABBFCEEBAFF799"
+    },
+    {
+      "requested_id": 22312,
+      "client_id": 21427,
+      "server_ids": [
+        22312
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        142063
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-konoha-sid22305-22430-20261009\\server-22312_client-21427.png",
+      "size": 1721,
+      "sha256": "D9FC713088E76EF7068ECE1B62E2C1CE2728D41321C0D2578CF4EA2117EF5D15"
+    },
+    {
+      "requested_id": 22313,
+      "client_id": 21428,
+      "server_ids": [
+        22313
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        142064
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-konoha-sid22305-22430-20261009\\server-22313_client-21428.png",
+      "size": 1776,
+      "sha256": "CBEDDDED33F6E82E661519EFD92946CA23F62BA5D9396CD2A98D6EBD34E50AFE"
+    },
+    {
+      "requested_id": 22314,
+      "client_id": 21429,
+      "server_ids": [
+        22314
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        142065
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-konoha-sid22305-22430-20261009\\server-22314_client-21429.png",
+      "size": 1603,
+      "sha256": "7CD5E987E87B6B2DD2C429A826C68EEB540E89C3236BBFE28B52E094645E2995"
+    },
+    {
+      "requested_id": 22315,
+      "client_id": 21430,
+      "server_ids": [
+        22315
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        142066
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-konoha-sid22305-22430-20261009\\server-22315_client-21430.png",
+      "size": 1444,
+      "sha256": "5E62AF4584704136FB3C404DD563327560CDB63920B137038D834796608AB802"
+    },
+    {
+      "requested_id": 22316,
+      "client_id": 21431,
+      "server_ids": [
+        22316
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        142067
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-konoha-sid22305-22430-20261009\\server-22316_client-21431.png",
+      "size": 99,
+      "sha256": "7F15CFEE0F98CC3FE0EEDB5B40B5FFB1B02BD6D5117DA8A088DE319304E4F87D"
+    },
+    {
+      "requested_id": 22317,
+      "client_id": 21432,
+      "server_ids": [
+        22317
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        142068
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-konoha-sid22305-22430-20261009\\server-22317_client-21432.png",
+      "size": 1685,
+      "sha256": "603CBC92C0F08A0B32092F3A2CB34B7EDE4080C52D4C265CD2C483A27CB50FD3"
+    },
+    {
+      "requested_id": 22318,
+      "client_id": 21433,
+      "server_ids": [
+        22318
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        142069
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-konoha-sid22305-22430-20261009\\server-22318_client-21433.png",
+      "size": 1721,
+      "sha256": "95982C787CD070F060315C56449634D7E4644D41A68D38A3AFC2E49F6670D58A"
+    },
+    {
+      "requested_id": 22319,
+      "client_id": 21434,
+      "server_ids": [
+        22319
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        142070
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-konoha-sid22305-22430-20261009\\server-22319_client-21434.png",
+      "size": 1619,
+      "sha256": "7002BBAA69B31720CB350A033B4CA2BB990F8959B8D248873E1BD2E3B50F0A48"
+    },
+    {
+      "requested_id": 22320,
+      "client_id": 21435,
+      "server_ids": [
+        22320
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        142071
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-konoha-sid22305-22430-20261009\\server-22320_client-21435.png",
+      "size": 703,
+      "sha256": "36D505F5B89B70BE8F001836B95C9A2D52DD7CB15E5D54EBBBB92D8A7B67C78C"
+    },
+    {
+      "requested_id": 22321,
+      "client_id": 21436,
+      "server_ids": [
+        22321
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        142072
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-konoha-sid22305-22430-20261009\\server-22321_client-21436.png",
+      "size": 1515,
+      "sha256": "5D6A6D9511152139EDF14A98D954288086387804873F623831FE18E94DA6B285"
+    },
+    {
+      "requested_id": 22322,
+      "client_id": 21437,
+      "server_ids": [
+        22322
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        142073
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-konoha-sid22305-22430-20261009\\server-22322_client-21437.png",
+      "size": 1581,
+      "sha256": "389F77C761A7F170A80E51849500AA85626D4C2B2650EA76A04BCA02214A3214"
+    },
+    {
+      "requested_id": 22323,
+      "client_id": 21438,
+      "server_ids": [
+        22323
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        142074
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-konoha-sid22305-22430-20261009\\server-22323_client-21438.png",
+      "size": 1611,
+      "sha256": "240AB438BF39400C9992CF451871B7C345570711734A34D7D749984DCB1A0AA0"
+    },
+    {
+      "requested_id": 22324,
+      "client_id": 21439,
+      "server_ids": [
+        22324
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        142075
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-konoha-sid22305-22430-20261009\\server-22324_client-21439.png",
+      "size": 1482,
+      "sha256": "707C5E0DDBF3AF419AB9E5C7FE6FD7FF5F5636A59CF142A06EF331966082E513"
+    },
+    {
+      "requested_id": 22325,
+      "client_id": 21440,
+      "server_ids": [
+        22325
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        142076
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-konoha-sid22305-22430-20261009\\server-22325_client-21440.png",
+      "size": 1276,
+      "sha256": "DA06CFC71DC8C155E5B4F47E80C35065F2D3AA57BC0AD9F8F5D0061646A142D2"
+    },
+    {
+      "requested_id": 22326,
+      "client_id": 21441,
+      "server_ids": [
+        22326
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        142077
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-konoha-sid22305-22430-20261009\\server-22326_client-21441.png",
+      "size": 1470,
+      "sha256": "584F199627C525A40DCA5AC7F3218F736155B57EBCE9B03FAA593856BDE56710"
+    },
+    {
+      "requested_id": 22327,
+      "client_id": 21442,
+      "server_ids": [
+        22327
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        142078
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-konoha-sid22305-22430-20261009\\server-22327_client-21442.png",
+      "size": 1659,
+      "sha256": "11EDFAD498903326D50C244A03AFC41DF5A554E2375BBCCCCD36AF5E86395926"
+    },
+    {
+      "requested_id": 22328,
+      "client_id": 21443,
+      "server_ids": [
+        22328
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        142079
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-konoha-sid22305-22430-20261009\\server-22328_client-21443.png",
+      "size": 1688,
+      "sha256": "143D77BCF07FEF37AF717C3B93616A54C940DB1748E09C92F70C8EBE6F0EFBAF"
+    },
+    {
+      "requested_id": 22329,
+      "client_id": 21444,
+      "server_ids": [
+        22329
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        142080
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-konoha-sid22305-22430-20261009\\server-22329_client-21444.png",
+      "size": 1461,
+      "sha256": "82A6AB37E45EE43DC477ED5FEE2EA5305DC375E9B6A32EB71B6AB2AE4210249A"
+    },
+    {
+      "requested_id": 22330,
+      "client_id": 21445,
+      "server_ids": [
+        22330
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        142081
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-konoha-sid22305-22430-20261009\\server-22330_client-21445.png",
+      "size": 1584,
+      "sha256": "2BB6476FAE4255F2569410BEECC0ECDC8A9C00F1BA86337A1D11181C9CF1BFCF"
+    },
+    {
+      "requested_id": 22331,
+      "client_id": 21446,
+      "server_ids": [
+        22331
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        142082
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-konoha-sid22305-22430-20261009\\server-22331_client-21446.png",
+      "size": 1477,
+      "sha256": "AD1B70E8BA953852C327CFF8B28BA2E18521CD1286C213146D328CCD77AB9784"
+    },
+    {
+      "requested_id": 22332,
+      "client_id": 21447,
+      "server_ids": [
+        22332
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        142083
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-konoha-sid22305-22430-20261009\\server-22332_client-21447.png",
+      "size": 1693,
+      "sha256": "FCC222AC4E555F452223EAF637D4465C30F939AF87A43AE1DA87F502227055AA"
+    },
+    {
+      "requested_id": 22333,
+      "client_id": 21448,
+      "server_ids": [
+        22333
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        142084
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-konoha-sid22305-22430-20261009\\server-22333_client-21448.png",
+      "size": 1624,
+      "sha256": "3E31397F2457C4BB9DBACEE1BBA1AF6B6D9FA06DAD9B3BEE4A443CC79F4E449B"
+    },
+    {
+      "requested_id": 22334,
+      "client_id": 21449,
+      "server_ids": [
+        22334
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        142085
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-konoha-sid22305-22430-20261009\\server-22334_client-21449.png",
+      "size": 1552,
+      "sha256": "9B1B8443B093712FF63FF61FF7EE2A048547208CCDE0C04FE58CF50EBD5EE6D4"
+    },
+    {
+      "requested_id": 22335,
+      "client_id": 21450,
+      "server_ids": [
+        22335
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        142086
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-konoha-sid22305-22430-20261009\\server-22335_client-21450.png",
+      "size": 1694,
+      "sha256": "CD28BB954A94A78AE5712065091B1D7688086FC5941D7073C565036AC477ECF2"
+    },
+    {
+      "requested_id": 22336,
+      "client_id": 21451,
+      "server_ids": [
+        22336
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        142087
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-konoha-sid22305-22430-20261009\\server-22336_client-21451.png",
+      "size": 1422,
+      "sha256": "FBAE343E43F94CD80C8498C1874CE4A6566FD02FCC738950002F3F0B79A0A7DA"
+    },
+    {
+      "requested_id": 22337,
+      "client_id": 21452,
+      "server_ids": [
+        22337
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        142088
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-konoha-sid22305-22430-20261009\\server-22337_client-21452.png",
+      "size": 1652,
+      "sha256": "B139BDA578910FD90EE234DE3B2C8F3B1FB329A09F3B9B845CAD5982CC9BFAB5"
+    },
+    {
+      "requested_id": 22338,
+      "client_id": 21453,
+      "server_ids": [
+        22338
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        142089
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-konoha-sid22305-22430-20261009\\server-22338_client-21453.png",
+      "size": 1630,
+      "sha256": "A6C1ACF78D01D23B7E07CF899451D9D27287FFFDD37E05DD803D3C54F6787B91"
+    },
+    {
+      "requested_id": 22339,
+      "client_id": 21454,
+      "server_ids": [
+        22339
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        142090
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-konoha-sid22305-22430-20261009\\server-22339_client-21454.png",
+      "size": 1549,
+      "sha256": "B2669E79B187F03FFDAB72EC4095C3875D4EC24962A6E29C633700A01F36CC1C"
+    },
+    {
+      "requested_id": 22340,
+      "client_id": 21455,
+      "server_ids": [
+        22340
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        142091
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-konoha-sid22305-22430-20261009\\server-22340_client-21455.png",
+      "size": 1488,
+      "sha256": "A745122EE8B8E424139E049BCA83D17370621FBF34217EDBCC33109994D02A7F"
+    },
+    {
+      "requested_id": 22341,
+      "client_id": 21456,
+      "server_ids": [
+        22341
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        142092
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-konoha-sid22305-22430-20261009\\server-22341_client-21456.png",
+      "size": 1474,
+      "sha256": "AB8DD2B9F2E72504325DA07B8B53A492D46FD583A5333C52A97845E007A3E853"
+    },
+    {
+      "requested_id": 22342,
+      "client_id": 21457,
+      "server_ids": [
+        22342
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        142093
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-konoha-sid22305-22430-20261009\\server-22342_client-21457.png",
+      "size": 1609,
+      "sha256": "25B7491023447C49576BC97B6A409C2E7192B20C0673F511EB1B9270D717D456"
+    },
+    {
+      "requested_id": 22343,
+      "client_id": 21458,
+      "server_ids": [
+        22343
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        142094
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-konoha-sid22305-22430-20261009\\server-22343_client-21458.png",
+      "size": 1758,
+      "sha256": "53A65DEE73BAE5A8CFB729B340018331D9C37A3600FD419430005731E18D132A"
+    },
+    {
+      "requested_id": 22344,
+      "client_id": 21459,
+      "server_ids": [
+        22344
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        142095
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-konoha-sid22305-22430-20261009\\server-22344_client-21459.png",
+      "size": 1482,
+      "sha256": "0A83FFFD6AE5160B5D9483ECD0818813B694233D455DC6E09E512045CEB30B4E"
+    },
+    {
+      "requested_id": 22345,
+      "client_id": 21460,
+      "server_ids": [
+        22345
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        142096
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-konoha-sid22305-22430-20261009\\server-22345_client-21460.png",
+      "size": 1608,
+      "sha256": "61665301371AF0FA9114DA1C2F19E2ACDB696A035467B9BD25312C2179CCD24E"
+    },
+    {
+      "requested_id": 22346,
+      "client_id": 21461,
+      "server_ids": [
+        22346
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        142097
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-konoha-sid22305-22430-20261009\\server-22346_client-21461.png",
+      "size": 1522,
+      "sha256": "CA13986C094C396CFBA9A79C90DF129C11DC264E6D8C80759168B0DE719EB6C7"
+    },
+    {
+      "requested_id": 22347,
+      "client_id": 21462,
+      "server_ids": [
+        22347
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        142098
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-konoha-sid22305-22430-20261009\\server-22347_client-21462.png",
+      "size": 1669,
+      "sha256": "620EA2EEC41559B7F65F6A7D802B4A5515B8397B453A51DDD2A04898F60A7CB7"
+    },
+    {
+      "requested_id": 22348,
+      "client_id": 21463,
+      "server_ids": [
+        22348
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        142099
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-konoha-sid22305-22430-20261009\\server-22348_client-21463.png",
+      "size": 1621,
+      "sha256": "A5095116E922FEBC570D724C4851F67B8B9C9CD58A3A6F0E08F1CA0AF9272E4A"
+    },
+    {
+      "requested_id": 22349,
+      "client_id": 21464,
+      "server_ids": [
+        22349
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        142100
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-konoha-sid22305-22430-20261009\\server-22349_client-21464.png",
+      "size": 1508,
+      "sha256": "E5E716A7D694B206F103E3B8CDFB47D842C11437841A561F28DA7EECC88EDFC9"
+    },
+    {
+      "requested_id": 22350,
+      "client_id": 21465,
+      "server_ids": [
+        22350
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        142101
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-konoha-sid22305-22430-20261009\\server-22350_client-21465.png",
+      "size": 1677,
+      "sha256": "0CA40FE0E5E34A2AF4B86482C2BB085EFD1D022083D6D7FE67FE587367C4AC91"
+    },
+    {
+      "requested_id": 22351,
+      "client_id": 21466,
+      "server_ids": [
+        22351
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        142102
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-konoha-sid22305-22430-20261009\\server-22351_client-21466.png",
+      "size": 1555,
+      "sha256": "23CBC79C6912E6D238BE897DAAB52900152CB3F1B8C3A0CEB3F8B240B1BFB68B"
+    },
+    {
+      "requested_id": 22352,
+      "client_id": 21467,
+      "server_ids": [
+        22352
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        142103
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-konoha-sid22305-22430-20261009\\server-22352_client-21467.png",
+      "size": 1659,
+      "sha256": "D35B386E6533B4372DCD9DAED573F8818BEA51AB4CE46E5009CFCD8FA7CBFB92"
+    },
+    {
+      "requested_id": 22353,
+      "client_id": 21468,
+      "server_ids": [
+        22353
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        142104
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-konoha-sid22305-22430-20261009\\server-22353_client-21468.png",
+      "size": 1591,
+      "sha256": "2A51F8881B016923C3440FDBC0ABC3685D6024BAA483163999C4E3C6C0F43FF8"
+    },
+    {
+      "requested_id": 22354,
+      "client_id": 21469,
+      "server_ids": [
+        22354
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        142105
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-konoha-sid22305-22430-20261009\\server-22354_client-21469.png",
+      "size": 1489,
+      "sha256": "FEFB7B58DBB6A1218656AB2FFC5414420DF0F7D17822329EF03F78D077CF030C"
+    },
+    {
+      "requested_id": 22355,
+      "client_id": 21470,
+      "server_ids": [
+        22355
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        142106
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-konoha-sid22305-22430-20261009\\server-22355_client-21470.png",
+      "size": 1312,
+      "sha256": "02C88B6C8077BA99203F55B31F88778A0D2FC9BA3B0987A768AD609047C4B5C5"
+    },
+    {
+      "requested_id": 22356,
+      "client_id": 21471,
+      "server_ids": [
+        22356
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        142107
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-konoha-sid22305-22430-20261009\\server-22356_client-21471.png",
+      "size": 1715,
+      "sha256": "FEAB8EB539EA3BA805792084CA2FA720ADFABD86E7BAC75F53F7D1A666B16B49"
+    },
+    {
+      "requested_id": 22357,
+      "client_id": 21472,
+      "server_ids": [
+        22357
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        142108
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-konoha-sid22305-22430-20261009\\server-22357_client-21472.png",
+      "size": 1565,
+      "sha256": "360820B58482704E448C4DECDE7325CB0078524E80722EE89F6CF9C1DA5F3DFB"
+    },
+    {
+      "requested_id": 22358,
+      "client_id": 21473,
+      "server_ids": [
+        22358
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        142109
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-konoha-sid22305-22430-20261009\\server-22358_client-21473.png",
+      "size": 1639,
+      "sha256": "ABD39E6482F4505A974AF91361A9C519FB7A728DE5AD9DC26BF2A920F0F8A167"
+    },
+    {
+      "requested_id": 22359,
+      "client_id": 21474,
+      "server_ids": [
+        22359
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        142110
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-konoha-sid22305-22430-20261009\\server-22359_client-21474.png",
+      "size": 1460,
+      "sha256": "6C40ECD6F6F127D70BD0ADB7872F40A0510439F1F9C9FCF68A4B02650120317C"
+    },
+    {
+      "requested_id": 22360,
+      "client_id": 21475,
+      "server_ids": [
+        22360
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        142111
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-konoha-sid22305-22430-20261009\\server-22360_client-21475.png",
+      "size": 845,
+      "sha256": "CFCC375EDD07814115E3724E92E0F619A9C190E88841427DCB23F6E066076AAD"
+    },
+    {
+      "requested_id": 22361,
+      "client_id": 21476,
+      "server_ids": [
+        22361
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        142112
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-konoha-sid22305-22430-20261009\\server-22361_client-21476.png",
+      "size": 1669,
+      "sha256": "D1436E9EFEC381A4B4D539B9125B19B3A997490E683AA1B1B6D86312914C6C3F"
+    },
+    {
+      "requested_id": 22362,
+      "client_id": 21477,
+      "server_ids": [
+        22362
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        142113
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-konoha-sid22305-22430-20261009\\server-22362_client-21477.png",
+      "size": 1662,
+      "sha256": "E91444B98A045E2F1789C764C78270D0C9180754B226D01DD68E0534A5F945FA"
+    },
+    {
+      "requested_id": 22363,
+      "client_id": 21478,
+      "server_ids": [
+        22363
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        142114
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-konoha-sid22305-22430-20261009\\server-22363_client-21478.png",
+      "size": 1558,
+      "sha256": "227E4B3859DBF7FA77854708C043EB1E79E694FCB340364605A22838EB7F450C"
+    },
+    {
+      "requested_id": 22364,
+      "client_id": 21479,
+      "server_ids": [
+        22364
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        142115
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-konoha-sid22305-22430-20261009\\server-22364_client-21479.png",
+      "size": 1605,
+      "sha256": "0E84ABD5AD13CEDB010278FF6138AB4B37D38ECE160341F99A09B9C07038509C"
+    },
+    {
+      "requested_id": 22365,
+      "client_id": 21480,
+      "server_ids": [
+        22365
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        142116
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-konoha-sid22305-22430-20261009\\server-22365_client-21480.png",
+      "size": 133,
+      "sha256": "4C822DF92C64795C45B750F2A83C6D3ABC21DA4EEA52B6079910C0B9C20C8B77"
+    },
+    {
+      "requested_id": 22366,
+      "client_id": 21481,
+      "server_ids": [
+        22366
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        142117
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-konoha-sid22305-22430-20261009\\server-22366_client-21481.png",
+      "size": 1575,
+      "sha256": "D808358A2DC550A2024942B3EA346FCC403127394222DF50046DDC473D34F213"
+    },
+    {
+      "requested_id": 22367,
+      "client_id": 21482,
+      "server_ids": [
+        22367
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        142118
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-konoha-sid22305-22430-20261009\\server-22367_client-21482.png",
+      "size": 1464,
+      "sha256": "03A10B11254C3CD7687D4A9D936BD260C4E04E5A6361C747620AEFBCD68C7C86"
+    },
+    {
+      "requested_id": 22368,
+      "client_id": 21483,
+      "server_ids": [
+        22368
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        142119
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-konoha-sid22305-22430-20261009\\server-22368_client-21483.png",
+      "size": 1706,
+      "sha256": "602C38C41C268FFDB00EDB03931DA827583A7E4179580E0F78C005EB6217CDE9"
+    },
+    {
+      "requested_id": 22369,
+      "client_id": 21484,
+      "server_ids": [
+        22369
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        142120
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-konoha-sid22305-22430-20261009\\server-22369_client-21484.png",
+      "size": 555,
+      "sha256": "E9B0E6B5151812E5BDEE50450AF1E06EF0A9FD521713BD279114D82881B0DBB8"
+    },
+    {
+      "requested_id": 22370,
+      "client_id": 21485,
+      "server_ids": [
+        22370
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        142121
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-konoha-sid22305-22430-20261009\\server-22370_client-21485.png",
+      "size": 1716,
+      "sha256": "386C633A0209CCFA56D89DB559F08856171AF9CF3B2E8F944EF2688695836D26"
+    },
+    {
+      "requested_id": 22371,
+      "client_id": 21486,
+      "server_ids": [
+        22371
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        142122
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-konoha-sid22305-22430-20261009\\server-22371_client-21486.png",
+      "size": 1339,
+      "sha256": "CAF60CE31C99D6B998FAB84F0856371C4671EDF462812894DA5A657BEB71A2DD"
+    },
+    {
+      "requested_id": 22372,
+      "client_id": 21487,
+      "server_ids": [
+        22372
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        142123
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-konoha-sid22305-22430-20261009\\server-22372_client-21487.png",
+      "size": 444,
+      "sha256": "132C567CBF76088FBDC1D83F56CBA9DB2C309EF8BFB5470990CA29CEEC5A1130"
+    },
+    {
+      "requested_id": 22373,
+      "client_id": 21488,
+      "server_ids": [
+        22373
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        142124
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-konoha-sid22305-22430-20261009\\server-22373_client-21488.png",
+      "size": 1557,
+      "sha256": "76FDDC10CA8F8068F6CFD5D7A936FD15E284F92DC77B3628EFE401D94053EBE1"
+    },
+    {
+      "requested_id": 22374,
+      "client_id": 21489,
+      "server_ids": [
+        22374
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        142125
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-konoha-sid22305-22430-20261009\\server-22374_client-21489.png",
+      "size": 1345,
+      "sha256": "6250C8C07BD08B03AF72D58DDED34A94303C5F9A62BFF54F3EBCDB99F1ABEBF9"
+    },
+    {
+      "requested_id": 22375,
+      "client_id": 21490,
+      "server_ids": [
+        22375
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        142126
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-konoha-sid22305-22430-20261009\\server-22375_client-21490.png",
+      "size": 1312,
+      "sha256": "AD259A7DEC3CD7DF7C4B10514C34368E3B9F9E74E6151B71D9A269BBD5589A4A"
+    },
+    {
+      "requested_id": 22376,
+      "client_id": 21491,
+      "server_ids": [
+        22376
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 96,
+      "height": 96,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        142127,
+        142128,
+        142129,
+        142130,
+        142131,
+        142132,
+        0,
+        142133,
+        142134
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-konoha-sid22305-22430-20261009\\server-22376_client-21491.png",
+      "size": 7920,
+      "sha256": "FD5BD360BBF651F0D684C664BF2479FCB55469B7D24A3212518276BDFD55F01D"
+    },
+    {
+      "requested_id": 22377,
+      "client_id": 21492,
+      "server_ids": [
+        22377
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        142135
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-konoha-sid22305-22430-20261009\\server-22377_client-21492.png",
+      "size": 445,
+      "sha256": "A6065A36595B4CFA1BC9E2C54F2FA1C798B925AE5C899D780D30DEFDCE86FDAB"
+    },
+    {
+      "requested_id": 22378,
+      "client_id": 21493,
+      "server_ids": [
+        22378
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 96,
+      "height": 128,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        142136,
+        142137,
+        142138,
+        142139,
+        142140,
+        142141,
+        142142,
+        142143,
+        142144,
+        142145,
+        0,
+        0
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-konoha-sid22305-22430-20261009\\server-22378_client-21493.png",
+      "size": 12945,
+      "sha256": "F5A04CABEDA377C2A790C7BB06D8DB0EEF02B766A51E3BF7B720583EA5243CE6"
+    },
+    {
+      "requested_id": 22379,
+      "client_id": 21494,
+      "server_ids": [
+        22379
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        142146,
+        142147
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-konoha-sid22305-22430-20261009\\server-22379_client-21494.png",
+      "size": 1592,
+      "sha256": "FE204C594BF74200CAB36E32CE15C15C9E8194A47BDB9FC9FFEA14A48DF1DAFB"
+    },
+    {
+      "requested_id": 22380,
+      "client_id": 21495,
+      "server_ids": [
+        22380
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 96,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        142148,
+        0,
+        142149,
+        142150,
+        142151,
+        142152
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-konoha-sid22305-22430-20261009\\server-22380_client-21495.png",
+      "size": 2677,
+      "sha256": "122A1A1303AB6130C08E9A7BA345338790704EF77D975310560097B33C230436"
+    },
+    {
+      "requested_id": 22381,
+      "client_id": 21496,
+      "server_ids": [
+        22381
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 96,
+      "height": 96,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        142153,
+        142154,
+        142155,
+        142156,
+        142157,
+        142158,
+        0,
+        142159,
+        142160
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-konoha-sid22305-22430-20261009\\server-22381_client-21496.png",
+      "size": 6564,
+      "sha256": "BB6D2F759555DF31EFEB559144E508953366CE988F2BCF27836557F05130A7F8"
+    },
+    {
+      "requested_id": 22382,
+      "client_id": 21497,
+      "server_ids": [
+        22382
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 96,
+      "height": 96,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        142161,
+        142162,
+        142163,
+        142164,
+        142165,
+        142166,
+        142167,
+        142168,
+        0
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-konoha-sid22305-22430-20261009\\server-22382_client-21497.png",
+      "size": 10942,
+      "sha256": "3CE8AA71A50EB844128B4E29F2264E55142D08284C12E0BE04606CDDE43E5F1C"
+    },
+    {
+      "requested_id": 22383,
+      "client_id": 21498,
+      "server_ids": [
+        22383
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 96,
+      "height": 96,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        142169,
+        142170,
+        0,
+        142163,
+        142171,
+        142172,
+        142166,
+        142173,
+        0
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-konoha-sid22305-22430-20261009\\server-22383_client-21498.png",
+      "size": 6026,
+      "sha256": "8F70A449722B7ED8E10C0043BB3B2A2BE869501DF4159CCACFF3550F0BDAC61B"
+    },
+    {
+      "requested_id": 22384,
+      "client_id": 21499,
+      "server_ids": [
+        22384
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 96,
+      "height": 96,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        142174,
+        142175,
+        142176,
+        142177,
+        142178,
+        142179,
+        0,
+        142180,
+        142181
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-konoha-sid22305-22430-20261009\\server-22384_client-21499.png",
+      "size": 7298,
+      "sha256": "0A748BF31AB7836859017A2B4B06577AB4990AEFA11923D46CA9493F66B6672E"
+    },
+    {
+      "requested_id": 22385,
+      "client_id": 21500,
+      "server_ids": [
+        22385
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 96,
+      "height": 128,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        142182,
+        142183,
+        142184,
+        142185,
+        142186,
+        142187,
+        142188,
+        142189,
+        142190,
+        142191,
+        0,
+        0
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-konoha-sid22305-22430-20261009\\server-22385_client-21500.png",
+      "size": 14921,
+      "sha256": "A2BD7CD3D7425C20D73F31DD7AEB76080F2C89C4655D744912FB2281BDA0670B"
+    },
+    {
+      "requested_id": 22386,
+      "client_id": 21501,
+      "server_ids": [
+        22386
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        142192,
+        142193
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-konoha-sid22305-22430-20261009\\server-22386_client-21501.png",
+      "size": 763,
+      "sha256": "629B98FDEFA828C39AF1A2BC69A527B00C8588F56A21C56649B33CDF9F96EC5D"
+    },
+    {
+      "requested_id": 22387,
+      "client_id": 21502,
+      "server_ids": [
+        22387
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 96,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        142194,
+        0,
+        142195,
+        142196,
+        142197,
+        142198
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-konoha-sid22305-22430-20261009\\server-22387_client-21502.png",
+      "size": 4274,
+      "sha256": "9D91CE0D3470D4AB3758CFE3D610A7C09454F0B3CB45E394BDED492D25E97031"
+    },
+    {
+      "requested_id": 22388,
+      "client_id": 21503,
+      "server_ids": [
+        22388
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 96,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        142176,
+        142185,
+        142179,
+        142188,
+        142199,
+        142191
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-konoha-sid22305-22430-20261009\\server-22388_client-21503.png",
+      "size": 9692,
+      "sha256": "5490FDDA6B94A27C60C7DBF88BF159CC1590B0DCAE616473B0F0B475A3BDA8E9"
+    },
+    {
+      "requested_id": 22389,
+      "client_id": 21504,
+      "server_ids": [
+        22389
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 96,
+      "height": 96,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        142200,
+        142201,
+        142202,
+        142203,
+        142204,
+        142205,
+        0,
+        142206,
+        0
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-konoha-sid22305-22430-20261009\\server-22389_client-21504.png",
+      "size": 3470,
+      "sha256": "6B6E55ED9BCE12B02CA7CE2B479A92D599F1B7E5EA993BB0DF8E69C68D59F26C"
+    },
+    {
+      "requested_id": 22390,
+      "client_id": 21505,
+      "server_ids": [
+        22390
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 96,
+      "height": 96,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        0,
+        142207,
+        142208,
+        142209,
+        142210,
+        142211,
+        142212,
+        0,
+        0
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-konoha-sid22305-22430-20261009\\server-22390_client-21505.png",
+      "size": 5537,
+      "sha256": "B0464F143C953A29498D19D6830876570C664D9F2B1C6EFAD44608DC16227555"
+    },
+    {
+      "requested_id": 22391,
+      "client_id": 21506,
+      "server_ids": [
+        22391
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        142213,
+        0,
+        142214,
+        0
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-konoha-sid22305-22430-20261009\\server-22391_client-21506.png",
+      "size": 1086,
+      "sha256": "998CD36DBDB22780AC168B8DEFBD687EA778A8C56D6552C2F3F5997FFD28AF06"
+    },
+    {
+      "requested_id": 22392,
+      "client_id": 21507,
+      "server_ids": [
+        22392
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 96,
+      "height": 96,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        142215,
+        142216,
+        0,
+        142217,
+        142218,
+        142219,
+        0,
+        142220,
+        142221
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-konoha-sid22305-22430-20261009\\server-22392_client-21507.png",
+      "size": 7085,
+      "sha256": "4B40AD8084CDF8E764EF8874D7F08935B11ECC8676D7B1DEBFFA3AFED25AA613"
+    },
+    {
+      "requested_id": 22393,
+      "client_id": 21508,
+      "server_ids": [
+        22393
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 96,
+      "height": 96,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        142222,
+        142223,
+        142224,
+        142225,
+        142226,
+        142227,
+        142228,
+        142229,
+        142230
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-konoha-sid22305-22430-20261009\\server-22393_client-21508.png",
+      "size": 8280,
+      "sha256": "FC0E07A43C1073D048560905A5CC66D7AA68C608290622873C3B43EE643A7086"
+    },
+    {
+      "requested_id": 22394,
+      "client_id": 21509,
+      "server_ids": [
+        22394
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        142231,
+        142232
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-konoha-sid22305-22430-20261009\\server-22394_client-21509.png",
+      "size": 652,
+      "sha256": "47F8489156A34777CF8F1D83ADB5754EB4C822AB8D013CE8A568AB4488EEFCD8"
+    },
+    {
+      "requested_id": 22395,
+      "client_id": 21510,
+      "server_ids": [
+        22395
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 96,
+      "height": 96,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        142233,
+        0,
+        0,
+        142234,
+        142235,
+        0,
+        142236,
+        142237,
+        142238
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-konoha-sid22305-22430-20261009\\server-22395_client-21510.png",
+      "size": 4055,
+      "sha256": "F97874322E0061A4D12D82DE25CCD4DA829BF136EFBA773EEEE984A8EBA28A81"
+    },
+    {
+      "requested_id": 22396,
+      "client_id": 21511,
+      "server_ids": [
+        22396
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 96,
+      "height": 96,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        142239,
+        0,
+        0,
+        142240,
+        142241,
+        142242,
+        142243,
+        142244,
+        142245
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-konoha-sid22305-22430-20261009\\server-22396_client-21511.png",
+      "size": 8003,
+      "sha256": "E28EE92379E696DE8144E35EF9BA6D568A0DFC02B927E274B75DEA9ED5EE7514"
+    },
+    {
+      "requested_id": 22397,
+      "client_id": 21512,
+      "server_ids": [
+        22397
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 96,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        0,
+        142246,
+        142247,
+        142248,
+        0,
+        142249
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-konoha-sid22305-22430-20261009\\server-22397_client-21512.png",
+      "size": 2038,
+      "sha256": "543748B9405D741F909F8515EC8A032CDB2D0728D787678BE5544F4DF2028022"
+    },
+    {
+      "requested_id": 22398,
+      "client_id": 21513,
+      "server_ids": [
+        22398
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 96,
+      "height": 128,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        142250,
+        0,
+        0,
+        142251,
+        142252,
+        0,
+        142253,
+        142254,
+        142255,
+        0,
+        142256,
+        142257
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-konoha-sid22305-22430-20261009\\server-22398_client-21513.png",
+      "size": 5343,
+      "sha256": "1F4817B936453B6B886ABEA6828CFAFA0287BE7A8654247B082264BF53FE3B2B"
+    },
+    {
+      "requested_id": 22399,
+      "client_id": 21514,
+      "server_ids": [
+        22399
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 128,
+      "height": 96,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        142258,
+        142259,
+        142260,
+        0,
+        142261,
+        142262,
+        142263,
+        0,
+        0,
+        0,
+        142264,
+        142253
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-konoha-sid22305-22430-20261009\\server-22399_client-21514.png",
+      "size": 10333,
+      "sha256": "1623D0D201540183108464120CCCDD2E36310544CA41067909DD4826E60897C6"
+    },
+    {
+      "requested_id": 22400,
+      "client_id": 21515,
+      "server_ids": [
+        22400
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 96,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        142265,
+        142266,
+        142267
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-konoha-sid22305-22430-20261009\\server-22400_client-21515.png",
+      "size": 1555,
+      "sha256": "1FC6CCAEFB68D4465FB957B9138A5F792C6506C6F14D47CDF24E4071787F293E"
+    },
+    {
+      "requested_id": 22401,
+      "client_id": 21516,
+      "server_ids": [
+        22401
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 96,
+      "height": 96,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        142268,
+        142269,
+        0,
+        142270,
+        142271,
+        142272,
+        0,
+        142273,
+        142274
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-konoha-sid22305-22430-20261009\\server-22401_client-21516.png",
+      "size": 4595,
+      "sha256": "D537AFE1224450FC3784BC35A0301F138FC61BA22272AC4A0A2245114112E524"
+    },
+    {
+      "requested_id": 22402,
+      "client_id": 21517,
+      "server_ids": [
+        22402
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 96,
+      "height": 96,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        0,
+        0,
+        0,
+        142275,
+        142276,
+        142277,
+        0,
+        142278,
+        142279
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-konoha-sid22305-22430-20261009\\server-22402_client-21517.png",
+      "size": 3941,
+      "sha256": "8AE1B94BBD3E9AD50CAACACB115FAD508ADE99F2B879A78470761D6503701C84"
+    },
+    {
+      "requested_id": 22403,
+      "client_id": 21518,
+      "server_ids": [
+        22403
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        142280,
+        142281,
+        142282,
+        142283
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-konoha-sid22305-22430-20261009\\server-22403_client-21518.png",
+      "size": 2903,
+      "sha256": "3DFC88A30E3ADAD235DA4AFCADA52A2A10E3E6E7E46D3F5505CB498DE6A6AA05"
+    },
+    {
+      "requested_id": 22404,
+      "client_id": 21519,
+      "server_ids": [
+        22404
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        142284,
+        142285,
+        142286,
+        142287
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-konoha-sid22305-22430-20261009\\server-22404_client-21519.png",
+      "size": 2819,
+      "sha256": "C94B9F5F841A33DC8DA9A9C0F4DF62EFF31D572DA0B98FFDB2C192DEBB701A18"
+    },
+    {
+      "requested_id": 22405,
+      "client_id": 21520,
+      "server_ids": [
+        22405
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        142288,
+        142289,
+        142290,
+        142291
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-konoha-sid22305-22430-20261009\\server-22405_client-21520.png",
+      "size": 2941,
+      "sha256": "6733229824A92DD3E6FC7C9548FFE26BA814E360AD0C0FA415E8EE8732353AC7"
+    },
+    {
+      "requested_id": 22406,
+      "client_id": 21521,
+      "server_ids": [
+        22406
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        142292,
+        142293,
+        142282,
+        142283
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-konoha-sid22305-22430-20261009\\server-22406_client-21521.png",
+      "size": 2782,
+      "sha256": "AF5C87468159A071CDBFC7A813D2913875696FC613030B8187E97E849075F5EB"
+    },
+    {
+      "requested_id": 22407,
+      "client_id": 21522,
+      "server_ids": [
+        22407
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        142294,
+        142295,
+        142296,
+        142297
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-konoha-sid22305-22430-20261009\\server-22407_client-21522.png",
+      "size": 2763,
+      "sha256": "664071B0A14877D07D12D74665586FDD0663A22CAD514C8FE67B5D002DE8EC0B"
+    },
+    {
+      "requested_id": 22408,
+      "client_id": 21523,
+      "server_ids": [
+        22408
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        142298,
+        142299,
+        142300,
+        142301
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-konoha-sid22305-22430-20261009\\server-22408_client-21523.png",
+      "size": 2887,
+      "sha256": "FB3FAAE4C621E07781A87379BAA3E02EF9474868CA52A7016F8FB36FFBCCD35C"
+    },
+    {
+      "requested_id": 22409,
+      "client_id": 21524,
+      "server_ids": [
+        22409
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        142302,
+        142303,
+        142304,
+        142305
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-konoha-sid22305-22430-20261009\\server-22409_client-21524.png",
+      "size": 2759,
+      "sha256": "D4ED3BBE3A2E8E43EAE4211E4BD85E44D0B273C6D6ACFB1D9B2F1DA1F248B1FF"
+    },
+    {
+      "requested_id": 22410,
+      "client_id": 21525,
+      "server_ids": [
+        22410
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        142306,
+        142307,
+        142308,
+        142309
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-konoha-sid22305-22430-20261009\\server-22410_client-21525.png",
+      "size": 2866,
+      "sha256": "952EE704B9EA57CAA8F8B031FDDBD51BE63AA8889FA38927A94A7350237DF14E"
+    },
+    {
+      "requested_id": 22411,
+      "client_id": 21526,
+      "server_ids": [
+        22411
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        142310,
+        142311,
+        142282,
+        142312
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-konoha-sid22305-22430-20261009\\server-22411_client-21526.png",
+      "size": 2809,
+      "sha256": "33309C22EB9B5C64D04BB38A3CB4B872FCAA3ABB1D217EC6D9F4AFC6077CFC6B"
+    },
+    {
+      "requested_id": 22412,
+      "client_id": 21527,
+      "server_ids": [
+        22412
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        142313,
+        142314,
+        142315,
+        142316
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-konoha-sid22305-22430-20261009\\server-22412_client-21527.png",
+      "size": 2906,
+      "sha256": "EE329734E13C2A2AD6BB6171D1F5A960B17C60E0D010A319D876A242F83F0981"
+    },
+    {
+      "requested_id": 22413,
+      "client_id": 21528,
+      "server_ids": [
+        22413
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        142317,
+        142318,
+        142319,
+        142305
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-konoha-sid22305-22430-20261009\\server-22413_client-21528.png",
+      "size": 2852,
+      "sha256": "D845D601101F7745907324F711033ADA0FB692F62FEC36BC9F3963EE09987919"
+    },
+    {
+      "requested_id": 22414,
+      "client_id": 21529,
+      "server_ids": [
+        22414
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        142320,
+        142321,
+        142322,
+        142283
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-konoha-sid22305-22430-20261009\\server-22414_client-21529.png",
+      "size": 2881,
+      "sha256": "919E390B4D2A2FC614FDEC38F799EF3FE36605325D8C0CD4FB8CC64196AC7AAF"
+    },
+    {
+      "requested_id": 22415,
+      "client_id": 21530,
+      "server_ids": [
+        22415
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 96,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        0,
+        0,
+        142323,
+        142324,
+        142325,
+        142326
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-konoha-sid22305-22430-20261009\\server-22415_client-21530.png",
+      "size": 3134,
+      "sha256": "3BD9F1089F57BAA239A400C8B409E3F829D1FC193E2660F0D8AA5900E602DD12"
+    },
+    {
+      "requested_id": 22416,
+      "client_id": 21531,
+      "server_ids": [
+        22416
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 96,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        0,
+        0,
+        142327,
+        142328,
+        142329,
+        0
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-konoha-sid22305-22430-20261009\\server-22416_client-21531.png",
+      "size": 3488,
+      "sha256": "D4DE213969E8A8447C113D731072E511E04F4A8862355E8EDD9907FED749C87E"
+    },
+    {
+      "requested_id": 22417,
+      "client_id": 21532,
+      "server_ids": [
+        22417
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 96,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        0,
+        0,
+        142330,
+        142331,
+        0,
+        142332
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-konoha-sid22305-22430-20261009\\server-22417_client-21532.png",
+      "size": 3778,
+      "sha256": "F302EB675EB46DC695275C2D9C76AC855DE856D5BE7E2A550A5615AF3A110E26"
+    },
+    {
+      "requested_id": 22418,
+      "client_id": 21533,
+      "server_ids": [
+        22418
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 96,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        0,
+        0,
+        142333,
+        142334,
+        142335,
+        142336
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-konoha-sid22305-22430-20261009\\server-22418_client-21533.png",
+      "size": 4165,
+      "sha256": "E883CB50F3CCA6DA1A16EC4A3BDEDEC34803E521DCBE250303C3319543C05792"
+    },
+    {
+      "requested_id": 22419,
+      "client_id": 21534,
+      "server_ids": [
+        22419
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 96,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        0,
+        0,
+        142337,
+        142338,
+        142339,
+        142340
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-konoha-sid22305-22430-20261009\\server-22419_client-21534.png",
+      "size": 4024,
+      "sha256": "4951C2DB8237210999E6283CFCF98FD226C4C5A8F66F8BC24A7F74111DAEDB81"
+    },
+    {
+      "requested_id": 22420,
+      "client_id": 21535,
+      "server_ids": [
+        22420
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 96,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        0,
+        0,
+        142341,
+        142342,
+        0,
+        0
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-konoha-sid22305-22430-20261009\\server-22420_client-21535.png",
+      "size": 3481,
+      "sha256": "89BB6A410799CC51BDA7D25B46B6C4B6CC1C17C8F547C96F60BFADAD438445E5"
+    },
+    {
+      "requested_id": 22421,
+      "client_id": 21536,
+      "server_ids": [
+        22421
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 96,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        0,
+        0,
+        142343,
+        142344,
+        142345,
+        142346
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-konoha-sid22305-22430-20261009\\server-22421_client-21536.png",
+      "size": 3685,
+      "sha256": "EFAD0A1AE1B2881E15C331A0974A5D72A8F96AE28359AB8F77FAA18010D96723"
+    },
+    {
+      "requested_id": 22422,
+      "client_id": 21537,
+      "server_ids": [
+        22422
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 96,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        0,
+        0,
+        142347,
+        0,
+        142348,
+        0
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-konoha-sid22305-22430-20261009\\server-22422_client-21537.png",
+      "size": 756,
+      "sha256": "78FAB84D29CDCC9DEED4253E7DF6374B8E3B43D03BCEDBCCBA501102F4A2D99F"
+    },
+    {
+      "requested_id": 22423,
+      "client_id": 21538,
+      "server_ids": [
+        22423
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 96,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        0,
+        0,
+        0,
+        142324,
+        0,
+        142326
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-konoha-sid22305-22430-20261009\\server-22423_client-21538.png",
+      "size": 1963,
+      "sha256": "C80914E18DE8B8B7162BB9DC878957929F25EB45D568EB770465EDB83CA2E6FC"
+    },
+    {
+      "requested_id": 22424,
+      "client_id": 21539,
+      "server_ids": [
+        22424
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 96,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        0,
+        0,
+        0,
+        142327,
+        0,
+        142329
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-konoha-sid22305-22430-20261009\\server-22424_client-21539.png",
+      "size": 2025,
+      "sha256": "AE2950C540762437BF303272B0774ED03EC7E37B9AB9EAD42FFA4B0AFEEF8D59"
+    },
+    {
+      "requested_id": 22425,
+      "client_id": 21540,
+      "server_ids": [
+        22425
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 96,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        0,
+        0,
+        0,
+        142330,
+        0,
+        0
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-konoha-sid22305-22430-20261009\\server-22425_client-21540.png",
+      "size": 2102,
+      "sha256": "C2CAB37D84749BB1A8788CB231534E97F52C5B6B51E6F9E466A16F12FACF9237"
+    },
+    {
+      "requested_id": 22426,
+      "client_id": 21541,
+      "server_ids": [
+        22426
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 96,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        0,
+        0,
+        0,
+        142333,
+        0,
+        142335
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-konoha-sid22305-22430-20261009\\server-22426_client-21541.png",
+      "size": 2462,
+      "sha256": "0BFEA7CE6F128EBAF41CF1CAAEF280F28F970327C1CD341C35DE84B3F394C78D"
+    },
+    {
+      "requested_id": 22427,
+      "client_id": 21542,
+      "server_ids": [
+        22427
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 96,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        0,
+        0,
+        0,
+        142337,
+        0,
+        142339
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-konoha-sid22305-22430-20261009\\server-22427_client-21542.png",
+      "size": 2466,
+      "sha256": "DBD8C4F119659D615B9AB8E0B6DB32A371B47A94EE512422F6DF60B4B21CBF44"
+    },
+    {
+      "requested_id": 22428,
+      "client_id": 21543,
+      "server_ids": [
+        22428
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 96,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        0,
+        0,
+        0,
+        142341,
+        0,
+        0
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-konoha-sid22305-22430-20261009\\server-22428_client-21543.png",
+      "size": 1787,
+      "sha256": "F3B3855EB03A77421C352C9B5CF2D11B080B659DC5FE5952A8E89838BA2EC0AB"
+    },
+    {
+      "requested_id": 22429,
+      "client_id": 21544,
+      "server_ids": [
+        22429
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 96,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        0,
+        0,
+        0,
+        142343,
+        0,
+        142345
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-konoha-sid22305-22430-20261009\\server-22429_client-21544.png",
+      "size": 2309,
+      "sha256": "12DB9F15EB2CB719C906CCE53AEF00C9DDE78A977F00A35057A965910C0E2847"
+    },
+    {
+      "requested_id": 22430,
+      "client_id": 21545,
+      "server_ids": [
+        22430
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 96,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        0,
+        0,
+        0,
+        142347,
+        0,
+        142348
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-konoha-sid22305-22430-20261009\\server-22430_client-21545.png",
+      "size": 759,
+      "sha256": "D3F6E1F2A5479186D4CE71291C29BDC90F703D34F949BA0129B037BAB239E96E"
+    }
+  ],
+  "sources": {
+    "dat": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.dat",
+      "sha256": "8EDEC51C3AF73012868FBF29341587A3C611D5C6FD872C51EDD797A79E390102"
+    },
+    "spr": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.spr",
+      "sha256": "D44F151E92EAF8A5456A8E7ED877F02566BF3DCE00C067A3D7A800277401747C"
+    }
+  },
+  "passed": true
+}

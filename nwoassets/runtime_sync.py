@@ -33,7 +33,17 @@ def _require_directory(path: Path, description: str) -> Path:
     return path
 
 
-def _runtime_paths(root: Path) -> tuple[dict[str, Path], dict[str, Path], Path, Path, Path]:
+def _runtime_paths(
+    root: Path,
+) -> tuple[
+    dict[str, Path],
+    dict[str, Path],
+    Path,
+    Path,
+    Path,
+    Path,
+    Path,
+]:
     root = root.resolve()
     layout = require_asset_layout(root)
     workspace = root.parent.resolve()
@@ -57,6 +67,29 @@ def _runtime_paths(root: Path) -> tuple[dict[str, Path], dict[str, Path], Path, 
     mobile_860 = (mobile_things / "860").resolve()
     if mobile_860.exists() and not mobile_860.is_dir():
         raise FormatError(f"destino 860 do client mobile nao e diretorio: {mobile_860}")
+    studio_assets = _require_directory(
+        workspace / "NWO-STUDIO" / "assets",
+        "diretorio de assets do NWO-STUDIO",
+    )
+    studio_items = _require_directory(
+        studio_assets / "items",
+        "diretorio de items do NWO-STUDIO",
+    )
+    studio_things = _require_directory(
+        studio_assets / "things" / "1098",
+        "diretorio things/1098 do NWO-STUDIO",
+    )
+    studio_world = _require_directory(
+        studio_assets / "world",
+        "diretorio world do NWO-STUDIO",
+    )
+    metadata_names = (
+        "items.otml",
+        "creatures.otml",
+        "effects.otml",
+        "missiles.otml",
+        "things.otml",
+    )
     sources = {
         "items.otb": layout["items"] / "items.otb",
         "items.xml": layout["items"] / "items.xml",
@@ -65,8 +98,19 @@ def _runtime_paths(root: Path) -> tuple[dict[str, Path], dict[str, Path], Path, 
         "Tibia.dat": layout["860"] / "Tibia.dat",
         "Tibia.spr": layout["860"] / "Tibia.spr",
         "mobile/Tibia.dat": layout["860"] / "Tibia.dat",
+        "mobile/Tibia.spr": layout["860"] / "Tibia.spr",
         "mobile/Tibia.otfi": layout["860"] / "Tibia.otfi",
+        "studio/items.otb": layout["items"] / "items.otb",
+        "studio/items.xml": layout["items"] / "items.xml",
+        "studio/Tibia.dat": layout["860"] / "Tibia.dat",
+        "studio/Tibia.spr": layout["860"] / "Tibia.spr",
+        "studio/Tibia.otfi": layout["860"] / "Tibia.otfi",
+        "studio/mapanovo.otbm": layout["world"] / "mapanovo.otbm",
     }
+    for name in metadata_names:
+        sources[f"metadata/{name}"] = root / name
+        sources[f"mobile/metadata/{name}"] = root / name
+        sources[f"studio/metadata/{name}"] = root / name
     missing = [str(path) for path in sources.values() if not path.is_file()]
     if missing:
         raise FormatError("arquivos canônicos ausentes: " + ", ".join(missing))
@@ -78,9 +122,28 @@ def _runtime_paths(root: Path) -> tuple[dict[str, Path], dict[str, Path], Path, 
         "Tibia.dat": client_860 / "Tibia.dat",
         "Tibia.spr": client_860 / "Tibia.spr",
         "mobile/Tibia.dat": mobile_860 / "Tibia.dat",
+        "mobile/Tibia.spr": mobile_860 / "Tibia.spr",
         "mobile/Tibia.otfi": mobile_860 / "Tibia.otfi",
+        "studio/items.otb": studio_items / "items.otb",
+        "studio/items.xml": studio_items / "items.xml",
+        "studio/Tibia.dat": studio_things / "Tibia.dat",
+        "studio/Tibia.spr": studio_things / "Tibia.spr",
+        "studio/Tibia.otfi": studio_things / "Tibia.otfi",
+        "studio/mapanovo.otbm": studio_world / "mapanovo.otbm",
     }
-    return sources, targets, client_860, client_things / "860.rar", mobile_860
+    for name in metadata_names:
+        targets[f"metadata/{name}"] = client_things / name
+        targets[f"mobile/metadata/{name}"] = mobile_things / name
+        targets[f"studio/metadata/{name}"] = studio_assets / "things" / name
+    return (
+        sources,
+        targets,
+        client_860,
+        client_things / "860.rar",
+        mobile_860,
+        studio_assets / "things" / "1098.rar",
+        studio_world / "mapanovo.rar",
+    )
 
 
 def _expected_rar_entries(client_860: Path) -> set[str]:
@@ -108,6 +171,22 @@ def _inspect_rar(rar: Path, archive: Path, client_860: Path) -> list[str]:
     return sorted(actual)
 
 
+def _inspect_single_file_rar(rar: Path, archive: Path, filename: str) -> list[str]:
+    _run_rar(rar, ["t", "-idq", str(archive)])
+    listed = _run_rar(rar, ["lb", str(archive)]).decode("utf-8", errors="replace")
+    actual = [
+        line.strip().replace("/", "\\")
+        for line in listed.splitlines()
+        if line.strip()
+    ]
+    if [entry.casefold() for entry in actual] != [filename.casefold()]:
+        raise FormatError(
+            f"conteudo inesperado em {archive.name}: "
+            f"esperado={[filename]}, encontrado={actual}"
+        )
+    return actual
+
+
 def _prepare_copy(source: Path, target: Path, client_860: Path) -> Path:
     pending = _runtime_transaction_path(target, "pending", client_860)
     if pending.exists():
@@ -129,7 +208,15 @@ def _rollback(published: list[Path], backups: dict[Path, Path]) -> None:
 
 def sync_runtime_assets(root: Path, *, dry_run: bool = False) -> dict[str, object]:
     root = root.resolve()
-    sources, targets, client_860, archive, mobile_860 = _runtime_paths(root)
+    (
+        sources,
+        targets,
+        client_860,
+        archive,
+        mobile_860,
+        studio_things_archive,
+        studio_map_archive,
+    ) = _runtime_paths(root)
     validation = validate_root(root, deep_spr=True)
     if not validation.get("passed", False):
         raise FormatError(f"baseline canônica reprovou: {validation.get('errors', [])}")
@@ -160,6 +247,10 @@ def sync_runtime_assets(root: Path, *, dry_run: bool = False) -> dict[str, objec
         },
         "copies": copies,
         "archive": {"path": str(archive)},
+        "studio_archives": {
+            "things": {"path": str(studio_things_archive)},
+            "world": {"path": str(studio_map_archive)},
+        },
         "passed": True,
     }
     if dry_run:
@@ -173,7 +264,14 @@ def sync_runtime_assets(root: Path, *, dry_run: bool = False) -> dict[str, objec
     mobile_directory_created = False
     rar = find_rar()
     archive_pending = _transaction_path(archive, "pending")
-    all_targets = [*targets.values(), archive]
+    studio_things_archive_pending = _transaction_path(studio_things_archive, "pending")
+    studio_map_archive_pending = _transaction_path(studio_map_archive, "pending")
+    all_targets = [
+        *targets.values(),
+        archive,
+        studio_things_archive,
+        studio_map_archive,
+    ]
     reserved = [
         path
         for target in all_targets
@@ -212,23 +310,63 @@ def sync_runtime_assets(root: Path, *, dry_run: bool = False) -> dict[str, objec
             cwd=client_860.parent,
         )
         _inspect_rar(rar, archive_pending, client_860)
-        archive_backup = _runtime_transaction_path(archive, "backup", client_860)
-        if archive.exists():
-            os.replace(archive, archive_backup)
-            backups[archive] = archive_backup
-        os.replace(archive_pending, archive)
-        published.append(archive)
+        shutil.copy2(archive_pending, studio_things_archive_pending)
+        if sha256_file(studio_things_archive_pending) != sha256_file(archive_pending):
+            raise FormatError("hash do 1098.rar preparado para o NWO-STUDIO diverge")
+        _inspect_rar(rar, studio_things_archive_pending, client_860)
+
+        studio_map_source = sources["studio/mapanovo.otbm"]
+        _run_rar(
+            rar,
+            ["a", "-ma5", "-m3", "-idq", str(studio_map_archive_pending), studio_map_source.name],
+            cwd=studio_map_source.parent,
+        )
+        _inspect_single_file_rar(rar, studio_map_archive_pending, studio_map_source.name)
+
+        for final_archive, pending_archive in (
+            (archive, archive_pending),
+            (studio_things_archive, studio_things_archive_pending),
+            (studio_map_archive, studio_map_archive_pending),
+        ):
+            archive_backup = _runtime_transaction_path(final_archive, "backup", client_860)
+            if final_archive.exists():
+                os.replace(final_archive, archive_backup)
+                backups[final_archive] = archive_backup
+            os.replace(pending_archive, final_archive)
+            published.append(final_archive)
 
         for name, target in targets.items():
             if sha256_file(target) != sha256_file(sources[name]):
                 raise FormatError(f"hash publicado diverge da baseline: {target}")
         entries = _inspect_rar(rar, archive, client_860)
+        studio_things_entries = _inspect_rar(rar, studio_things_archive, client_860)
+        studio_map_entries = _inspect_single_file_rar(
+            rar,
+            studio_map_archive,
+            sources["studio/mapanovo.otbm"].name,
+        )
         report["archive"] = {
             "path": str(archive),
             "size": archive.stat().st_size,
             "sha256": sha256_file(archive),
             "entries": entries,
             "rar_executable": str(rar),
+        }
+        report["studio_archives"] = {
+            "things": {
+                "path": str(studio_things_archive),
+                "size": studio_things_archive.stat().st_size,
+                "sha256": sha256_file(studio_things_archive),
+                "entries": studio_things_entries,
+                "rar_executable": str(rar),
+            },
+            "world": {
+                "path": str(studio_map_archive),
+                "size": studio_map_archive.stat().st_size,
+                "sha256": sha256_file(studio_map_archive),
+                "entries": studio_map_entries,
+                "rar_executable": str(rar),
+            },
         }
         report["changed"] = True
         for backup in backups.values():
@@ -241,5 +379,7 @@ def sync_runtime_assets(root: Path, *, dry_run: bool = False) -> dict[str, objec
         for path in pending.values():
             path.unlink(missing_ok=True)
         archive_pending.unlink(missing_ok=True)
+        studio_things_archive_pending.unlink(missing_ok=True)
+        studio_map_archive_pending.unlink(missing_ok=True)
         if mobile_directory_created and mobile_860.exists() and not any(mobile_860.iterdir()):
             mobile_860.rmdir()

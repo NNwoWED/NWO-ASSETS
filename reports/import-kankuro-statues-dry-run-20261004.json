@@ -1,0 +1,95 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "manifest": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\kankuro-fragment-e3-statues-20261004\\import-kankuro-statues.csv",
+  "item_count": 2,
+  "target_server_id_range": [
+    25570,
+    25571
+  ],
+  "target_client_id_range": [
+    24685,
+    24686
+  ],
+  "new_sprite_count": 8,
+  "sprite_id_range": [
+    272362,
+    272369
+  ],
+  "items": [
+    {
+      "sequence": 1,
+      "source_server_id": 14811,
+      "source_client_id": 13929,
+      "target_server_id": 25570,
+      "target_client_id": 24685,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\kankuro-fragment-e3-statues-20261004\\server-_client-_kankuro-statue-export 1.png",
+      "source_sha256": "4797691726D51584E088D24D7AD3EF9E8A1061037D20DF77A83A3781FE0E89D4",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        272362,
+        272365
+      ],
+      "sprite_hash": "5FA0BF1074652CD60AB97C494C961AFD"
+    },
+    {
+      "sequence": 2,
+      "source_server_id": 14812,
+      "source_client_id": 13930,
+      "target_server_id": 25571,
+      "target_client_id": 24686,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\kankuro-fragment-e3-statues-20261004\\server-_client-_kankuro-statue-export 2.png",
+      "source_sha256": "BD8FA4D781929BA2A328AE640A5F2A071F531047C0722F9D8BCA1335AF4E9D8B",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        272366,
+        272369
+      ],
+      "sprite_hash": "A32BAEB32B08D5245704D899D19D9329"
+    }
+  ],
+  "xml": {
+    "source_definitions": 2,
+    "target_definitions_written": 2,
+    "target_definitions_already_exact": 0,
+    "target_ids": [
+      25570,
+      25571
+    ]
+  },
+  "map_scan": {
+    "tiles_scanned": 7824286,
+    "item_nodes_scanned": 2105106
+  },
+  "dry_run": true,
+  "passed": true
+}

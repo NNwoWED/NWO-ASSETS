@@ -1,0 +1,84 @@
+﻿{
+    "passed":  true,
+    "action_registration":  "7404;7409;7430;7434-7435;7439-7440;7443;7450;7457;7459-7462;14807-14850;12555-12570;17231-17259;17262-17264",
+    "action_registration_expected":  "7404;7409;7430;7434-7435;7439-7440;7443;7450;7457;7459-7462;14807-14850;12555-12570;17231-17259;17262-17264",
+    "characters":  [
+                       {
+                           "character":  "Hinata",
+                           "first_id":  7404,
+                           "second_id":  7409,
+                           "fragment_id":  17263,
+                           "rotate_first_to":  7409,
+                           "rotate_second_to":  7404,
+                           "lua_mapping":  true,
+                           "catalog":  true,
+                           "passed":  true
+                       },
+                       {
+                           "character":  "Kabuto",
+                           "first_id":  7430,
+                           "second_id":  7434,
+                           "fragment_id":  17241,
+                           "rotate_first_to":  7434,
+                           "rotate_second_to":  7430,
+                           "lua_mapping":  true,
+                           "catalog":  true,
+                           "passed":  true
+                       },
+                       {
+                           "character":  "Kakashi",
+                           "first_id":  7435,
+                           "second_id":  7439,
+                           "fragment_id":  17242,
+                           "rotate_first_to":  7439,
+                           "rotate_second_to":  7435,
+                           "lua_mapping":  true,
+                           "catalog":  true,
+                           "passed":  true
+                       },
+                       {
+                           "character":  "Kiba",
+                           "first_id":  7440,
+                           "second_id":  7443,
+                           "fragment_id":  17264,
+                           "rotate_first_to":  7443,
+                           "rotate_second_to":  7440,
+                           "lua_mapping":  true,
+                           "catalog":  true,
+                           "passed":  true
+                       },
+                       {
+                           "character":  "Kimimaro",
+                           "first_id":  7450,
+                           "second_id":  7457,
+                           "fragment_id":  17246,
+                           "rotate_first_to":  7457,
+                           "rotate_second_to":  7450,
+                           "lua_mapping":  true,
+                           "catalog":  true,
+                           "passed":  true
+                       },
+                       {
+                           "character":  "Shino",
+                           "first_id":  7459,
+                           "second_id":  7460,
+                           "fragment_id":  17262,
+                           "rotate_first_to":  7460,
+                           "rotate_second_to":  7459,
+                           "lua_mapping":  true,
+                           "catalog":  true,
+                           "passed":  true
+                       },
+                       {
+                           "character":  "Zabuza",
+                           "first_id":  7461,
+                           "second_id":  7462,
+                           "fragment_id":  17258,
+                           "rotate_first_to":  7462,
+                           "rotate_second_to":  7461,
+                           "lua_mapping":  true,
+                           "catalog":  true,
+                           "passed":  true
+                       }
+                   ]
+}

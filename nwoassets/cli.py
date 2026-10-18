@@ -11,12 +11,17 @@ from typing import Callable
 from . import __version__
 from .animation import edit_animation_durations
 from .content import inspect_world, scan_directory
+from .clone_item_importer import import_cloned_items
 from .errors import NwoAssetsError
 from .effect_importer import import_effects
+from .elevation import edit_item_elevations
+from .exact_clone_repair import repair_exact_item_clones
 from .exporter import EXPORT_CATEGORIES, export_pngs
 from .groundspeed import edit_ground_speeds
 from .importer import import_items
+from .missile_importer import import_missiles
 from .outfit_importer import import_outfits
+from .pattern_repair import repair_item_patterns
 from .otbm import inspect_map_position
 from .pipeline import inspect_client, inspect_text_configs, validate_root
 from .properties import edit_item_properties
@@ -108,6 +113,33 @@ def build_parser() -> argparse.ArgumentParser:
     obd_importer.add_argument("-o", "--output", help="grava relatório JSON")
     obd_importer.add_argument("--deep-spr", action="store_true")
     obd_importer.add_argument("--dry-run", action="store_true", help="prepara e relata sem alterar assets")
+    clone_importer = subparsers.add_parser(
+        "import-cloned-items",
+        help="cria novos Client/Server IDs clonando propriedades e importando PNGs",
+    )
+    clone_importer.add_argument("root", nargs="?", default=".", type=_root)
+    clone_importer.add_argument("manifest", type=Path)
+    clone_importer.add_argument("-o", "--output", help="grava relatorio JSON")
+    clone_importer.add_argument("--deep-spr", action="store_true")
+    clone_importer.add_argument("--dry-run", action="store_true")
+    pattern_repair = subparsers.add_parser(
+        "repair-item-patterns",
+        help="versiona e corrige layout/patterns reutilizando os sprites atuais",
+    )
+    pattern_repair.add_argument("root", nargs="?", default=".", type=_root)
+    pattern_repair.add_argument("manifest", type=Path)
+    pattern_repair.add_argument("-o", "--output", help="grava relatorio JSON")
+    pattern_repair.add_argument("--deep-spr", action="store_true")
+    pattern_repair.add_argument("--dry-run", action="store_true")
+    exact_clone_repair = subparsers.add_parser(
+        "repair-exact-item-clones",
+        help="copia DAT/OTB/XML da referencia Client ID preservando os novos pixels",
+    )
+    exact_clone_repair.add_argument("root", nargs="?", default=".", type=_root)
+    exact_clone_repair.add_argument("manifest", type=Path)
+    exact_clone_repair.add_argument("-o", "--output", help="grava relatorio JSON")
+    exact_clone_repair.add_argument("--deep-spr", action="store_true")
+    exact_clone_repair.add_argument("--dry-run", action="store_true")
     effect_importer = subparsers.add_parser(
         "import-effects",
         help=(
@@ -123,6 +155,17 @@ def build_parser() -> argparse.ArgumentParser:
         action="store_true",
         help="valida todos os blocos RLE antes e depois da importação",
     )
+    missile_importer = subparsers.add_parser(
+        "import-missiles",
+        help=(
+            "versiona e importa folhas direcionais animadas em Missile IDs "
+            "existentes na pasta assets"
+        ),
+    )
+    missile_importer.add_argument("root", nargs="?", default=".", type=_root)
+    missile_importer.add_argument("manifest", type=Path)
+    missile_importer.add_argument("-o", "--output", help="grava o relatorio JSON")
+    missile_importer.add_argument("--deep-spr", action="store_true")
     outfit_importer = subparsers.add_parser(
         "import-outfits",
         help=(
@@ -167,6 +210,14 @@ def build_parser() -> argparse.ArgumentParser:
     ground_speed.add_argument("manifest", type=Path)
     ground_speed.add_argument("-o", "--output", help="grava o relatorio JSON neste caminho")
     ground_speed.add_argument("--deep-spr", action="store_true", help="valida todos os blocos RLE")
+    elevation = subparsers.add_parser(
+        "edit-item-elevations",
+        help="versiona e edita o valor numerico de elevacao de itens no DAT",
+    )
+    elevation.add_argument("root", nargs="?", default=".", type=_root)
+    elevation.add_argument("manifest", type=Path)
+    elevation.add_argument("-o", "--output", help="grava o relatorio JSON neste caminho")
+    elevation.add_argument("--deep-spr", action="store_true", help="valida todos os blocos RLE")
     position = subparsers.add_parser(
         "inspect-map-position",
         help="inspeciona a pilha de itens em uma coordenada OTBM",
@@ -202,7 +253,7 @@ def build_parser() -> argparse.ArgumentParser:
     exporter.add_argument("-o", "--output", help="grava o relatório JSON neste caminho")
     runtime_sync = common(
         "sync-runtime",
-        "valida e sincroniza OTB/XML com servidor e RME e DAT/SPR/860.rar com o client",
+        "valida e sincroniza assets com servidor, RME, clients e NWO-STUDIO",
     )
     runtime_sync.add_argument(
         "--dry-run",
@@ -251,7 +302,21 @@ def main(argv: list[str] | None = None) -> int:
         "import-obd-remakes": lambda: import_obd_remakes(
             args.root, args.manifest, deep_spr=True, dry_run=args.dry_run
         ),
+        "import-cloned-items": lambda: import_cloned_items(
+            args.root, args.manifest, deep_spr=True, dry_run=args.dry_run
+        ),
+        "repair-item-patterns": lambda: repair_item_patterns(
+            args.root, args.manifest, deep_spr=True, dry_run=args.dry_run
+        ),
+        "repair-exact-item-clones": lambda: repair_exact_item_clones(
+            args.root, args.manifest, deep_spr=True, dry_run=args.dry_run
+        ),
         "import-effects": lambda: import_effects(
+            args.root,
+            args.manifest,
+            deep_spr=args.deep_spr,
+        ),
+        "import-missiles": lambda: import_missiles(
             args.root,
             args.manifest,
             deep_spr=args.deep_spr,
@@ -271,6 +336,9 @@ def main(argv: list[str] | None = None) -> int:
             args.root, args.manifest, deep_spr=args.deep_spr
         ),
         "edit-ground-speeds": lambda: edit_ground_speeds(
+            args.root, args.manifest, deep_spr=args.deep_spr
+        ),
+        "edit-item-elevations": lambda: edit_item_elevations(
             args.root, args.manifest, deep_spr=args.deep_spr
         ),
         "inspect-map-position": lambda: inspect_map_position(
@@ -298,8 +366,8 @@ def main(argv: list[str] | None = None) -> int:
         report = actions[args.command]()
         _write_report(report, args.output)
         if args.command in {
-            "validate", "import-items", "import-obd-remakes", "import-effects", "import-outfits", "edit-animation-durations",
-            "create-version", "edit-item-properties", "edit-ground-speeds",
+            "validate", "import-items", "import-obd-remakes", "import-cloned-items", "repair-item-patterns", "repair-exact-item-clones", "import-effects", "import-missiles", "import-outfits", "edit-animation-durations",
+            "create-version", "edit-item-properties", "edit-ground-speeds", "edit-item-elevations",
             "inspect-map-position", "export-png",
             "sync-runtime", "adopt-runtime",
         } and not report.get("passed", False):

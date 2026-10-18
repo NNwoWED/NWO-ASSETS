@@ -1,0 +1,698 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "profile": {
+    "key": "tibia-860-v2-custom-extended",
+    "client_version": 860,
+    "label": "Tibia 8.60 v2 customizado com features OTFI",
+    "dat_signature": "0x4C2C7993",
+    "spr_signature": "0x4C220594",
+    "metadata_reader": 5,
+    "otb_version_hint": "8.60"
+  },
+  "category": "items",
+  "id_kind": "server",
+  "requested_ids": [
+    7397,
+    7398,
+    7399,
+    7400,
+    7401,
+    7403,
+    7404,
+    7405,
+    7410,
+    7412,
+    7413,
+    7418,
+    7419,
+    7423,
+    7428,
+    7430,
+    7433,
+    7434,
+    7435,
+    7441,
+    7442,
+    7444,
+    7445,
+    7446,
+    7447,
+    7448,
+    7450,
+    7451,
+    7460
+  ],
+  "output_dir": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items",
+  "exported_count": 29,
+  "exported": [
+    {
+      "requested_id": 7397,
+      "client_id": 7397,
+      "server_ids": [
+        7397
+      ],
+      "name": "Deer trophy",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        15093
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-7397_client-7397_deer-trophy.png",
+      "size": 270,
+      "sha256": "5F9E89F07582984C476065FCD4EC114AA1B292C36F52B49F767682484CCD37B8"
+    },
+    {
+      "requested_id": 7398,
+      "client_id": 7398,
+      "server_ids": [
+        7398
+      ],
+      "name": "Cyclops trophy",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        15093
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-7398_client-7398_cyclops-trophy.png",
+      "size": 270,
+      "sha256": "5F9E89F07582984C476065FCD4EC114AA1B292C36F52B49F767682484CCD37B8"
+    },
+    {
+      "requested_id": 7399,
+      "client_id": 7399,
+      "server_ids": [
+        7399
+      ],
+      "name": "Dragon lord trophy",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        15090
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-7399_client-7399_dragon-lord-trophy.png",
+      "size": 1287,
+      "sha256": "87DCDDFD2D3FF4537FDC673F65DA76A32E13DAB3F6A2FB9E7AE481533AE5770B"
+    },
+    {
+      "requested_id": 7400,
+      "client_id": 7400,
+      "server_ids": [
+        7400
+      ],
+      "name": "Lion trophy",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        15091
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-7400_client-7400_lion-trophy.png",
+      "size": 250,
+      "sha256": "D95AED3DBA78E7195EBD9B949179228049A7BB861122A41F57F13B9C7DA63947"
+    },
+    {
+      "requested_id": 7401,
+      "client_id": 7401,
+      "server_ids": [
+        7401
+      ],
+      "name": "Minotaur trophy",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        15092
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-7401_client-7401_minotaur-trophy.png",
+      "size": 269,
+      "sha256": "16EB61E66FFD12963E76B97BD78ACE6F2B99C6A2456D4F088D1E347628D5987E"
+    },
+    {
+      "requested_id": 7403,
+      "client_id": 7403,
+      "server_ids": [
+        7403
+      ],
+      "name": "Berserker",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        0
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-7403_client-7403_berserker.png",
+      "size": 83,
+      "sha256": "BA04F531DF0C7A12124750D521ADD77C55B16A6432D653C5559C16680DBD9F50"
+    },
+    {
+      "requested_id": 7404,
+      "client_id": 7404,
+      "server_ids": [
+        7404
+      ],
+      "name": "Sasuke fake coat",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        0
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-7404_client-7404_sasuke-fake-coat.png",
+      "size": 83,
+      "sha256": "BA04F531DF0C7A12124750D521ADD77C55B16A6432D653C5559C16680DBD9F50"
+    },
+    {
+      "requested_id": 7405,
+      "client_id": 7405,
+      "server_ids": [
+        7405
+      ],
+      "name": "Havoc blade",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        0
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-7405_client-7405_havoc-blade.png",
+      "size": 83,
+      "sha256": "BA04F531DF0C7A12124750D521ADD77C55B16A6432D653C5559C16680DBD9F50"
+    },
+    {
+      "requested_id": 7410,
+      "client_id": 7410,
+      "server_ids": [
+        7410
+      ],
+      "name": "Queen's sceptre",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        0
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-7410_client-7410_queen-s-sceptre.png",
+      "size": 83,
+      "sha256": "BA04F531DF0C7A12124750D521ADD77C55B16A6432D653C5559C16680DBD9F50"
+    },
+    {
+      "requested_id": 7412,
+      "client_id": 7412,
+      "server_ids": [
+        7412
+      ],
+      "name": "Butcher's axe",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        0
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-7412_client-7412_butcher-s-axe.png",
+      "size": 83,
+      "sha256": "BA04F531DF0C7A12124750D521ADD77C55B16A6432D653C5559C16680DBD9F50"
+    },
+    {
+      "requested_id": 7413,
+      "client_id": 7413,
+      "server_ids": [
+        7413
+      ],
+      "name": "Titan axe",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        0
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-7413_client-7413_titan-axe.png",
+      "size": 83,
+      "sha256": "BA04F531DF0C7A12124750D521ADD77C55B16A6432D653C5559C16680DBD9F50"
+    },
+    {
+      "requested_id": 7418,
+      "client_id": 7418,
+      "server_ids": [
+        7418
+      ],
+      "name": "Nightmare blade",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        0
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-7418_client-7418_nightmare-blade.png",
+      "size": 83,
+      "sha256": "BA04F531DF0C7A12124750D521ADD77C55B16A6432D653C5559C16680DBD9F50"
+    },
+    {
+      "requested_id": 7419,
+      "client_id": 7419,
+      "server_ids": [
+        7419
+      ],
+      "name": "Dreaded cleaver",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        0
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-7419_client-7419_dreaded-cleaver.png",
+      "size": 83,
+      "sha256": "BA04F531DF0C7A12124750D521ADD77C55B16A6432D653C5559C16680DBD9F50"
+    },
+    {
+      "requested_id": 7423,
+      "client_id": 7423,
+      "server_ids": [
+        7423
+      ],
+      "name": "Skullcrusher",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        0
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-7423_client-7423_skullcrusher.png",
+      "size": 83,
+      "sha256": "BA04F531DF0C7A12124750D521ADD77C55B16A6432D653C5559C16680DBD9F50"
+    },
+    {
+      "requested_id": 7428,
+      "client_id": 7428,
+      "server_ids": [
+        7428
+      ],
+      "name": "Bonebreaker",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        0
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-7428_client-7428_bonebreaker.png",
+      "size": 83,
+      "sha256": "BA04F531DF0C7A12124750D521ADD77C55B16A6432D653C5559C16680DBD9F50"
+    },
+    {
+      "requested_id": 7430,
+      "client_id": 7430,
+      "server_ids": [
+        7430
+      ],
+      "name": "Sakura coat",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        0
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-7430_client-7430_sakura-coat.png",
+      "size": 83,
+      "sha256": "BA04F531DF0C7A12124750D521ADD77C55B16A6432D653C5559C16680DBD9F50"
+    },
+    {
+      "requested_id": 7433,
+      "client_id": 7433,
+      "server_ids": [
+        7433
+      ],
+      "name": "Ravenwing",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        0
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-7433_client-7433_ravenwing.png",
+      "size": 83,
+      "sha256": "BA04F531DF0C7A12124750D521ADD77C55B16A6432D653C5559C16680DBD9F50"
+    },
+    {
+      "requested_id": 7434,
+      "client_id": 7434,
+      "server_ids": [
+        7434
+      ],
+      "name": "Kazekage tunic",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        0
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-7434_client-7434_kazekage-tunic.png",
+      "size": 83,
+      "sha256": "BA04F531DF0C7A12124750D521ADD77C55B16A6432D653C5559C16680DBD9F50"
+    },
+    {
+      "requested_id": 7435,
+      "client_id": 7435,
+      "server_ids": [
+        7435
+      ],
+      "name": "Kazekage coat",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        0
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-7435_client-7435_kazekage-coat.png",
+      "size": 83,
+      "sha256": "BA04F531DF0C7A12124750D521ADD77C55B16A6432D653C5559C16680DBD9F50"
+    },
+    {
+      "requested_id": 7441,
+      "client_id": 7441,
+      "server_ids": [
+        7441
+      ],
+      "name": "Ice cube",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        4567
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-7441_client-7441_ice-cube.png",
+      "size": 2858,
+      "sha256": "7040517085498113EB8DF487CDD79F4383250FA14455D3621AAE2E9E82E325C1"
+    },
+    {
+      "requested_id": 7442,
+      "client_id": 7442,
+      "server_ids": [
+        7442
+      ],
+      "name": "Ice cube",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        4568
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-7442_client-7442_ice-cube.png",
+      "size": 2852,
+      "sha256": "41F1E03915EDEE4B70D31088D16A4C19FB90B1487760512742A595584C2F52AF"
+    },
+    {
+      "requested_id": 7444,
+      "client_id": 7444,
+      "server_ids": [
+        7444
+      ],
+      "name": "Ice cube",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        4570
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-7444_client-7444_ice-cube.png",
+      "size": 2796,
+      "sha256": "F19A5010E14AB35A13C5411344FCDEDDC7A28133E0C35899DC709339471A735A"
+    },
+    {
+      "requested_id": 7445,
+      "client_id": 7445,
+      "server_ids": [
+        7445
+      ],
+      "name": "Ice cube",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        4571
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-7445_client-7445_ice-cube.png",
+      "size": 2716,
+      "sha256": "DE371BDB513D0AC5316C565986BDD3280075107EE73B58BA29C0CBCC4C3EAF45"
+    },
+    {
+      "requested_id": 7446,
+      "client_id": 7446,
+      "server_ids": [
+        7446
+      ],
+      "name": "Ice mammoth",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        4572
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-7446_client-7446_ice-mammoth.png",
+      "size": 2199,
+      "sha256": "C80D91A8E937C5063498FA786912BE99D822B53E8F5714729305A09F1EC748D0"
+    },
+    {
+      "requested_id": 7447,
+      "client_id": 7447,
+      "server_ids": [
+        7447
+      ],
+      "name": "Ice statue",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        4590
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-7447_client-7447_ice-statue.png",
+      "size": 1497,
+      "sha256": "A560B93EE525A86013ABE87128B7B48A92AF09F8E301A647CDD72276DC0CB45B"
+    },
+    {
+      "requested_id": 7448,
+      "client_id": 7448,
+      "server_ids": [
+        7448
+      ],
+      "name": "Ice statue",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        4591
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-7448_client-7448_ice-statue.png",
+      "size": 1255,
+      "sha256": "B5D046F957DA06E2E6DFACFBEFAFD345DF720CDDFEC5100AEBADDB16F5761166"
+    },
+    {
+      "requested_id": 7450,
+      "client_id": 7450,
+      "server_ids": [
+        7450
+      ],
+      "name": "Hammer of prophecy",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        0
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-7450_client-7450_hammer-of-prophecy.png",
+      "size": 83,
+      "sha256": "BA04F531DF0C7A12124750D521ADD77C55B16A6432D653C5559C16680DBD9F50"
+    },
+    {
+      "requested_id": 7451,
+      "client_id": 7451,
+      "server_ids": [
+        7451
+      ],
+      "name": "Shadow sceptre",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        0
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-7451_client-7451_shadow-sceptre.png",
+      "size": 83,
+      "sha256": "BA04F531DF0C7A12124750D521ADD77C55B16A6432D653C5559C16680DBD9F50"
+    },
+    {
+      "requested_id": 7460,
+      "client_id": 7460,
+      "server_ids": [
+        7460
+      ],
+      "name": "Norse shield",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        13102
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-7460_client-7460_norse-shield.png",
+      "size": 1495,
+      "sha256": "023E65674E1B0065E868A209EBD6873247C96B1B1D37496D3413110D09FE2D8C"
+    }
+  ],
+  "sources": {
+    "dat": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.dat",
+      "sha256": "65E5DD4A480A4771227B78593F96FDAE40DF97511ACEFE113D99EB830D3FC045"
+    },
+    "spr": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.spr",
+      "sha256": "0DE36A4285C282A6DF7B0CB2DC24F9A93CC54CDC1F8418C19C19560DBF5D6953"
+    }
+  },
+  "passed": true
+}

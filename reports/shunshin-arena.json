@@ -1,0 +1,15 @@
+{
+  "map": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\world\\mapanovo.otbm",
+  "position": {
+    "x": 2565,
+    "y": 510,
+    "z": 7
+  },
+  "found": false,
+  "items": [],
+  "tile_areas_examined": 321740,
+  "matching_tile_areas": 1339,
+  "tiles_examined": 22754,
+  "passed": true,
+  "errors": []
+}

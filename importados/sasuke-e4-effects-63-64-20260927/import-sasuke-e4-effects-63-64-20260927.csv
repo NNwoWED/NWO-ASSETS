@@ -1,0 +1,3 @@
+sequence,effect_id,source_path,frames,frame_duration_ms,animation_async,preserve_as
+1,63,effect_120_.png,32,100,0,
+2,64,effect_121_.png,32,100,0,

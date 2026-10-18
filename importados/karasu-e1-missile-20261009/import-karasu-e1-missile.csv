@@ -1,0 +1,2 @@
+sequence,operation,missile_id,reference_missile_id,source_path,frames,frame_duration_ms,animation_async
+1,reserved,118,214,skill_karasu-Sheet.png,3,100,0

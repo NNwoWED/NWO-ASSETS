@@ -1,0 +1,132 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "manifest": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\kijin-oni-backpacks-20261003\\replace-kijin-backpack-animated.csv",
+  "profile": "tibia-860-v2-custom-extended",
+  "version_backup": {
+    "tool_version": "0.8.2",
+    "version_id": "20261003-192904-672340",
+    "created_at": "2026-10-03T19:29:17.448263-03:00",
+    "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261003-192904-672340",
+    "rar_executable": "C:\\Program Files\\WinRAR\\Rar.exe",
+    "sources": [
+      {
+        "path": "assets/860/.gitattributes",
+        "size": 43,
+        "sha256": "D5636A3257287440945C5E017581545E5B0A3E2FDDDAE7C5EF8D90FF4DF3D32A"
+      },
+      {
+        "path": "assets/860/Tibia.dat",
+        "size": 4499421,
+        "sha256": "269BFBA004358A915462B97EA73E1108332EC3C7DCC26FED985BF1955CADD69D"
+      },
+      {
+        "path": "assets/860/Tibia.otfi",
+        "size": 185,
+        "sha256": "7743548835944BC799CB871A4E5DEF84F7AF76815031871B9CE74B5EC0E8ADD3"
+      },
+      {
+        "path": "assets/860/Tibia.spr",
+        "size": 458473941,
+        "sha256": "C7553997E7410E369335F7DBB5AA0EC1674D037301409DC17EAF6C5778DA709B"
+      },
+      {
+        "path": "assets/items/force use.txt",
+        "size": 419,
+        "sha256": "BCB478FDF3F45ECA8D172AFD7A17D3F8CD520924EE0894752452B8FDC8F71959"
+      },
+      {
+        "path": "assets/items/items.otb",
+        "size": 1010720,
+        "sha256": "0FF1720720612DFDF3A53B7632DAEBC613F36F545DF960D14282C1BD2F378EF6"
+      },
+      {
+        "path": "assets/world/mapanovo.otbm",
+        "size": 80105770,
+        "sha256": "8CDFDDF9DC2A9E53053E4F3FAF7F6825FD89B6B63EE06272ECD234B387202821"
+      }
+    ],
+    "archives": {
+      "860": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261003-192904-672340\\860.rar",
+        "size": 85315870,
+        "sha256": "9DC689E6DC0957B8BB4E765C9419D14387CB28E806CAFBC1343EFB17EAD7B86B"
+      },
+      "items": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261003-192904-672340\\items.rar",
+        "size": 481636,
+        "sha256": "15A81E7AAD79B8EA1173B08FF4A8786B6D38F9042E19DC4E10248AA638D1BA4B"
+      },
+      "world": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261003-192904-672340\\world.zip",
+        "size": 19337359,
+        "sha256": "170CD29639D001F9273247C874479344E8207ECB971919AE0E8CAE14295E4A31"
+      }
+    },
+    "items_xml_excluded": true,
+    "world_entries": [
+      "mapanovo.otbm"
+    ],
+    "passed": true
+  },
+  "sprite_hash_gate": {
+    "sample_count": 64,
+    "mismatch_count": 0,
+    "mismatches": [],
+    "passed": true
+  },
+  "item_count": 1,
+  "new_sprite_count": 12,
+  "sprite_id_range": [
+    272350,
+    272361
+  ],
+  "items": [
+    {
+      "sequence": 1,
+      "client_id": 13759,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\kijin-oni-backpacks-20261003\\bag_kinjin2_animado.png",
+      "file_sha256": "5533F9C57EF7E15C2DD287C127C6CAE34294E270C6C894368EF4BC337D62A799",
+      "pixels_sha256": "94BBAE357F35AED653E24ABF48B09BE9DF8823F9C1832E2CB7353A0529DEAC2F",
+      "image_width": 32,
+      "image_height": 384,
+      "width_tiles": 1,
+      "height_tiles": 1,
+      "frames": 12,
+      "frame_duration_ms": 100,
+      "animation_async": false,
+      "sprite_ids": [
+        272350,
+        272351,
+        272352,
+        272353,
+        272354,
+        272355,
+        272356,
+        272357,
+        272358,
+        272359,
+        272360,
+        272361
+      ],
+      "sprite_hash": "CF7F554FD3F904BB74E51574B7B02F4C"
+    }
+  ],
+  "otb_nodes_updated": {
+    "13759": 1
+  },
+  "transaction_committed": true,
+  "output_hashes": {
+    "dat": "322673B546A98C4AB475BE917C5A56BEEC04734DDB365A09756D4433F55C0CE1",
+    "spr": "5CBB761BB4D1631ED962459255B60751CD7994D4F9AC30C19C3FAFC22AA028F6",
+    "otb": "2F1A9602616C5C96CCB957F3C49450C4CA83E79696BBBEC4DFEB6E8852008AA6"
+  },
+  "dat_non_targets_preserved": true,
+  "old_sprite_payload_preserved": true,
+  "new_sprite_pixels_verified": true,
+  "untouched_files_preserved": true,
+  "map_byte_equal": true,
+  "final_validation_passed": true,
+  "warnings": [],
+  "errors": [],
+  "passed": true
+}

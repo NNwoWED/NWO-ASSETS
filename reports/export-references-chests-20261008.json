@@ -1,0 +1,123 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "profile": {
+    "key": "tibia-860-v2-custom-extended",
+    "client_version": 860,
+    "label": "Tibia 8.60 v2 customizado com features OTFI",
+    "dat_signature": "0x4C2C7993",
+    "spr_signature": "0x4C220594",
+    "metadata_reader": 5,
+    "otb_version_hint": "8.60"
+  },
+  "category": "items",
+  "id_kind": "server",
+  "requested_ids": [
+    1740,
+    1746,
+    1747,
+    24978
+  ],
+  "output_dir": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\references-chests-20261008",
+  "exported_count": 4,
+  "exported": [
+    {
+      "requested_id": 1740,
+      "client_id": 2472,
+      "server_ids": [
+        1740
+      ],
+      "name": "Chest",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        20
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\references-chests-20261008\\server-1740_client-2472_chest.png",
+      "size": 1603,
+      "sha256": "4BA2F4738D4E4C1579AD30339E7D0D375F69286E0642B09539BE47DA1AC9539C"
+    },
+    {
+      "requested_id": 1746,
+      "client_id": 2478,
+      "server_ids": [
+        1746
+      ],
+      "name": "Treasure chest",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        1514
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\references-chests-20261008\\server-1746_client-2478_treasure-chest.png",
+      "size": 1594,
+      "sha256": "788FAFB1A46B4F5EF578F1A45D41E4DCFBA74BDED4FAF8F0EAAED9859C24A116"
+    },
+    {
+      "requested_id": 1747,
+      "client_id": 2480,
+      "server_ids": [
+        1747
+      ],
+      "name": "Chest",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        0
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\references-chests-20261008\\server-1747_client-2480_chest.png",
+      "size": 83,
+      "sha256": "BA04F531DF0C7A12124750D521ADD77C55B16A6432D653C5559C16680DBD9F50"
+    },
+    {
+      "requested_id": 24978,
+      "client_id": 24093,
+      "server_ids": [
+        24978
+      ],
+      "name": "Character Random Box",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        213093
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\references-chests-20261008\\server-24978_client-24093_character-random-box.png",
+      "size": 803,
+      "sha256": "3352E94CBFB381B4E7FAE1239482DC0968ABB1094142BDB92265360A30DCCD94"
+    }
+  ],
+  "sources": {
+    "dat": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.dat",
+      "sha256": "C28AE7608C740E5A100D95CE50AF0832BD96CB866FC514BA6B211121FBD61BF0"
+    },
+    "spr": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.spr",
+      "sha256": "8E79B674C4A75138FDD94ACBAB9194E199B7A033C006F4F2D9DD7D00DB892094"
+    }
+  },
+  "passed": true
+}

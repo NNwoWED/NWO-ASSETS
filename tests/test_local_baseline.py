@@ -12,10 +12,10 @@ from nwoassets.otfi import parse_otfi
 ROOT = Path(__file__).resolve().parents[1]
 
 BASELINE_SHA256 = {
-    "assets/860/Tibia.dat": "18ED6B4618654551F9BE99F45294387C0DE2107B843834E4F965DD843C9D0954",
-    "assets/860/Tibia.spr": "2CDE7E238A06FCA302CA970335DC61EF639E2750AC355AF4D81DB2D80800D7E0",
+    "assets/860/Tibia.dat": "629EB604EB0194BF77872F47061D1FCB4EF9F6C0785A26FBE24AA4C9811ABD71",
+    "assets/860/Tibia.spr": "232D4B0E19995307FFAB96875EF4DD97C3394E7A01E45599AF3BFDDF75588F7B",
     "assets/860/Tibia.otfi": "7743548835944BC799CB871A4E5DEF84F7AF76815031871B9CE74B5EC0E8ADD3",
-    "assets/items/items.otb": "0E1A1A4AD6D6BC85225C320E18EB6ACE2949A86D66F6966667A797C2B268CE02",
+    "assets/items/items.otb": "5AA04C31E388F3B995DFACE5BAC7AB4BA0C007FC96B6953DB2D4F5AB140457E3",
     "assets/world/mapanovo.otbm": "8CDFDDF9DC2A9E53053E4F3FAF7F6825FD89B6B63EE06272ECD234B387202821",
 }
 
@@ -30,9 +30,9 @@ class LocalBaselineTests(unittest.TestCase):
         dat = read_dat_header(ROOT / "assets" / "860" / "Tibia.dat")
         spr = inspect_spr(ROOT / "assets" / "860" / "Tibia.spr", self.otfi)
         self.assertEqual(dat["signature"], "0x4C2C7993")
-        self.assertEqual(dat["max_item_id"], 24522)
+        self.assertEqual(dat["max_item_id"], 24715)
         self.assertEqual(spr["signature"], "0x4C220594")
-        self.assertEqual(spr["sprite_count"], 256544)
+        self.assertEqual(spr["sprite_count"], 276726)
         self.assertEqual(spr["zero_offsets"], 0)
 
     def test_dat_parses_to_eof(self) -> None:
@@ -40,18 +40,18 @@ class LocalBaselineTests(unittest.TestCase):
             ROOT / "assets" / "860" / "Tibia.dat",
             self.otfi,
             expected_metadata_reader=5,
-            sprite_count=256544,
+            sprite_count=276726,
         )
-        self.assertEqual(report["parsed_end_offset"], 4_387_673)
-        self.assertEqual(report["total_records"], 30_294)
+        self.assertEqual(report["parsed_end_offset"], 4_510_591)
+        self.assertEqual(report["total_records"], 30_487)
         self.assertEqual(report["flag_counts"]["custom_flag_22"], 4)
 
     def test_otb_version_and_range(self) -> None:
         report = inspect_otb(ROOT / "assets" / "items" / "items.otb")
         self.assertEqual(report["version"]["csd"], "OTB 3.20.20-8.60")
-        self.assertEqual(report["item_nodes"], 25_308)
+        self.assertEqual(report["item_nodes"], 25_501)
         self.assertEqual(report["server_ids"]["min"], 100)
-        self.assertEqual(report["server_ids"]["max"], 25_407)
+        self.assertEqual(report["server_ids"]["max"], 25_600)
         self.assertEqual(report["server_ids"]["gap_count"], 0)
 
     def test_official_baseline_hashes(self) -> None:
