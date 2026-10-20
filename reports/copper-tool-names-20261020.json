@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "server_id": 2512,
+      "client_id": 3412,
+      "name": "Machado de Cobre",
+      "operation": "substituir nomenclatura",
+      "purpose": "Gathering tools / inventory / craft recipes",
+      "png": null,
+      "layout": "unchanged",
+      "dat_otb_policy": "unchanged"
+    },
+    {
+      "server_id": 2556,
+      "client_id": 3459,
+      "name": "Vara de Pesca de Cobre",
+      "operation": "substituir nomenclatura",
+      "purpose": "Gathering tools / inventory / craft recipes",
+      "png": null,
+      "layout": "unchanged",
+      "dat_otb_policy": "unchanged"
+    },
+    {
+      "server_id": 2569,
+      "client_id": 3472,
+      "name": "Foice de Cobre",
+      "operation": "substituir nomenclatura",
+      "purpose": "Gathering tools / inventory / craft recipes",
+      "png": null,
+      "layout": "unchanged",
+      "dat_otb_policy": "unchanged"
+    },
+    {
+      "server_id": 14233,
+      "client_id": 13356,
+      "name": "Picareta de Cobre",
+      "operation": "substituir nomenclatura",
+      "purpose": "Gathering tools / inventory / craft recipes",
+      "png": null,
+      "layout": "unchanged",
+      "dat_otb_policy": "unchanged"
+    }
+  ],
+  "binary_before": {
+    "assets/860/Tibia.dat": "19c713d6620051995e00ca2be826f68e8a6387eab2bd3ee516648cc7e07af846",
+    "assets/860/Tibia.spr": "2a44164ee33aa93b54f7188557003e9fc6776719387f193da6bbf4d391390de6",
+    "assets/items/items.otb": "508628640064c3388bd2ee2467acf885a7b7b61b117e6c1342c25ed9448bea7e",
+    "assets/world/mapanovo.otbm": "8cdfddf9dc2a9e53053e4f3faf7f6825fd89b6b63ee06272ecd234b387202821"
+  },
+  "status": "validated_and_synchronized",
+  "committed": true,
+  "validation_report": "reports/validation-copper-tool-names-after-20261020.json",
+  "sync_report": "reports/sync-runtime-copper-tool-names-20261020.json"
+}

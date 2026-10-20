@@ -1895,6 +1895,7 @@ creatures: // outfits
   2183
     name-displacement: -44 -26
     outfit-displacement: -7 -8
+    aura-displacement: -7 -8
   2184
     name-displacement: -44 -26
   2185

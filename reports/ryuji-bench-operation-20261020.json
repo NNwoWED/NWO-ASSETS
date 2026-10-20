@@ -1,0 +1,44 @@
+{
+  "card": "https://trello.com/c/3WURTDBh",
+  "kind": "map_existing_item_placement",
+  "canonical_map": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\world\\mapanovo.otbm",
+  "position": [
+    1223,
+    766,
+    6
+  ],
+  "before_server_ids": [
+    14931
+  ],
+  "after_server_ids": [
+    14931,
+    20952
+  ],
+  "tile_flags_before": 1,
+  "tile_flags_after": 1,
+  "existing_tile_bytes_preserved": true,
+  "declared_item_additions": [
+    20952
+  ],
+  "item": {
+    "name": "Disassembly station (existing Ninja forge appearance)",
+    "server_id": 20952,
+    "client_id": 20067,
+    "otb_flags": [
+      "block_solid",
+      "block_projectile",
+      "block_pathfind",
+      "always_on_top",
+      "animation"
+    ],
+    "exported_png": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-review-20261020\\server-20952_client-20067.png",
+    "layout": "Existing64x64 appearance,8 frames; properties and timing unchanged"
+  },
+  "location_basis": "Startup Ryuji at1225,763,6 in121-npcs_on_startup.lua, invoked by customInit; canonical forge interior and clear tile verified.",
+  "expected_result": "Existing action20952 opens disassembly/tier menu; room entrance and NPC counter remain reachable.",
+  "client_change": false,
+  "server_code_change": false,
+  "database_access": false,
+  "sprite_or_properties_change": false,
+  "source_hash": "8cdfddf9dc2a9e53053e4f3faf7f6825fd89b6b63ee06272ecd234b387202821"
+}

@@ -105,8 +105,27 @@ Cada PNG deve ser RGBA 8-bit, não entrelaçado, ter dimensões múltiplas de 32
 medir no máximo 224×224 por frame. Animações usam uma folha vertical, de cima
 para baixo, com `frames` e `frame_duration_ms` obrigatórios; `animation_async`
 aceita `0` ou `1`. Alpha zero e magenta opaco (`#FF00FF`) tornam-se transparentes.
-Nesta fase, o Client ID deve existir entre `100..24522`; a aparência continua com
-uma camada e sem patterns adicionais.
+O Client ID deve existir na baseline. No modo padrão, a aparência usa uma camada
+e nenhum pattern adicional.
+
+Para trocar somente os pixels de um item com layout existente, inclusive água
+animada com patterns, usar a coluna opcional `preserve_layout=1`:
+
+```csv
+sequence,client_id,source_path,preserve_layout
+1,20227,agua-recolorida.png,1
+```
+
+Nesse modo, o PNG deve seguir exatamente a folha produzida por `export-png`:
+layers e pattern X na horizontal; pattern Y, frames e pattern Z na vertical.
+O limite de largura permanece 224 pixels e o de altura 224 pixels por frame.
+O importador deriva o layout do DAT, sem achatar patterns ou mudar dimensões.
+Deixar `frames`, `frame_duration_ms` e `animation_async` vazios ou ausentes:
+os metadados existentes são preservados byte a byte, incluindo exactSize,
+tempos variáveis, modo assíncrono, loop e frame inicial. As flags OTB também
+permanecem intactas; somente os SpriteHash relacionados são atualizados.
+Todos os pixels importados são reabertos e conferidos antes do commit, com
+o mesmo versionamento obrigatório e rollback do fluxo padrão.
 
 Depois do backup, a ferramenta prepara arquivos temporários ao lado dos oficiais,
 reabre e valida tudo e faz a troca no próprio `assets/`. Se a validação final

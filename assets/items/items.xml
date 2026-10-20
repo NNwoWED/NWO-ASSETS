@@ -3244,7 +3244,7 @@
 		<attribute key="slotType" value="ring" />
 		<attribute key="showattributes" value="1" />
 	</item>
-	<item id="2512" article="a" name="Machado de Bronze">
+	<item id="2512" article="a" name="Machado de Cobre">
 		<attribute key="weight" value="5" />
 		<attribute key="charges" value="1000" />
 		<attribute key="showcharges" value="1" />
@@ -3531,7 +3531,7 @@
 		<attribute key="weight" value="3500" />
 	</item>
 	<item id="2555" article="an" name="Anvil" />
-	<item id="2556" article="a" name="Vara de Pesca de Bronze">
+	<item id="2556" article="a" name="Vara de Pesca de Cobre">
 		<attribute key="weight" value="5" />
 		<attribute key="charges" value="1000" />
 		<attribute key="showcharges" value="1" />
@@ -3579,7 +3579,7 @@
 		<attribute key="showcharges" value="1" />
 		<attribute key="market" value="1" />
 	</item>
-	<item id="2569" article="a" name="Foice de Bronze">
+	<item id="2569" article="a" name="Foice de Cobre">
 		<attribute key="weight" value="5" />
 		<attribute key="charges" value="1000" />
 		<attribute key="showcharges" value="1" />
@@ -14218,7 +14218,7 @@
 		<attribute key="duration" value="1" />
 	</item>
 	<item id="24967" article="a" name="Kubikiribouchou Box">
-		<attribute key="description" value="Use para liberar o personagem Zabuza Momochi." />
+		<attribute key="description" value="Item cosmético de decoração para sua house." />
 		<attribute key="marketInfo" value="Character" />
 	</item>
 	<item id="12555" article="a" name="Rock Lee Fragment">
@@ -17069,7 +17069,7 @@
 	<item id="14573" article="a" name="Árvore de carvalho">
 		<attribute key="clientid" value="13696" />
 		<attribute key="description" value="Uma arvore que fornece carvalho da Folha." />
-		<attribute key="blocking" value="0" />
+		<attribute key="blocking" value="1" />
 		<attribute key="pickupable" value="0" />
 		<attribute key="movable" value="0" />
 		<attribute key="forceSerialize" value="1" />
@@ -17077,7 +17077,7 @@
 	<item id="14574" article="a" name="Carvalho da Névoa">
 		<attribute key="clientid" value="13697" />
 		<attribute key="description" value="Uma arvore que fornece carvalho nobre." />
-		<attribute key="blocking" value="0" />
+		<attribute key="blocking" value="1" />
 		<attribute key="pickupable" value="0" />
 		<attribute key="movable" value="0" />
 		<attribute key="forceSerialize" value="1" />
@@ -17228,7 +17228,7 @@
 	</item>
 	<item fromid="25215" toid="25218" article="a" name="Bancada da Forja">
 		<attribute key="description" value="Uma bancada para receitas de forja." />
-		<attribute key="blocking" value="0" />
+		<attribute key="blocking" value="1" />
 		<attribute key="pickupable" value="0" />
 		<attribute key="movable" value="0" />
 		<attribute key="forceSerialize" value="1" />

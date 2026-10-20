@@ -45,6 +45,7 @@ class RuntimeSyncTests(unittest.TestCase):
         for name in ("860", "items", "world"):
             (root / "assets" / name).mkdir(parents=True, exist_ok=True)
         server = workspace / "Server-Data-Nwo" / "data" / "items"
+        server_world = workspace / "Server-Data-Nwo" / "data" / "world"
         rme = workspace / "RME 5.0" / "Editor" / "data" / "860"
         client = workspace / "nwo-otclient-mehah-4.0" / "data" / "things" / "860"
         mobile_things = workspace / "nwo-mobile" / "client" / "data" / "things"
@@ -54,6 +55,7 @@ class RuntimeSyncTests(unittest.TestCase):
         studio_things = studio_things_root / "1098"
         studio_world = workspace / "NWO-STUDIO" / "assets" / "world"
         server.mkdir(parents=True)
+        server_world.mkdir(parents=True)
         rme.mkdir(parents=True)
         client.mkdir(parents=True)
         mobile.mkdir(parents=True)
@@ -75,6 +77,7 @@ class RuntimeSyncTests(unittest.TestCase):
         (root / "assets" / "860" / "Tibia.otfi").write_bytes(canonical["Tibia.otfi"])
         (root / "assets" / "world" / "mapanovo.otbm").write_bytes(canonical["mapanovo.otbm"])
         (studio_world / "mapanovo.otbm").write_bytes(previous["mapanovo.otbm"])
+        (server_world / "mapanovo.otbm").write_bytes(previous["mapanovo.otbm"])
         for name in (
             "items.otml",
             "creatures.otml",
@@ -175,6 +178,10 @@ class RuntimeSyncTests(unittest.TestCase):
                 (workspace / "NWO-STUDIO/assets/world/mapanovo.otbm").read_bytes(),
                 canonical["mapanovo.otbm"],
             )
+            self.assertEqual(
+                (workspace / "Server-Data-Nwo/data/world/mapanovo.otbm").read_bytes(),
+                canonical["mapanovo.otbm"],
+            )
             for name in (
                 "items.otml",
                 "creatures.otml",
@@ -262,6 +269,10 @@ class RuntimeSyncTests(unittest.TestCase):
             )
             self.assertEqual(
                 (workspace / "NWO-STUDIO/assets/world/mapanovo.otbm").read_bytes(),
+                previous["mapanovo.otbm"],
+            )
+            self.assertEqual(
+                (workspace / "Server-Data-Nwo/data/world/mapanovo.otbm").read_bytes(),
                 previous["mapanovo.otbm"],
             )
             self.assertEqual(

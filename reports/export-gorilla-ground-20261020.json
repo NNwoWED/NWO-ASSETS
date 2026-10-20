@@ -1,0 +1,57 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "profile": {
+    "key": "tibia-860-v2-custom-extended",
+    "client_version": 860,
+    "label": "Tibia 8.60 v2 customizado com features OTFI",
+    "dat_signature": "0x4C2C7993",
+    "spr_signature": "0x4C220594",
+    "metadata_reader": 5,
+    "otb_version_hint": "8.60"
+  },
+  "category": "items",
+  "id_kind": "server",
+  "requested_ids": [
+    15037
+  ],
+  "output_dir": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items",
+  "exported_count": 1,
+  "exported": [
+    {
+      "requested_id": 15037,
+      "client_id": 14152,
+      "server_ids": [
+        15037
+      ],
+      "name": "floor",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 2,
+      "pattern_y": 2,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        86604,
+        86605,
+        86604,
+        86606
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-15037_client-14152_floor.png",
+      "size": 999,
+      "sha256": "BD4EAD60805BC911663DF33FB7DA2BA6BD4446CE94941D670A93DEB05B09777E"
+    }
+  ],
+  "sources": {
+    "dat": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.dat",
+      "sha256": "19C713D6620051995E00CA2BE826F68E8A6387EAB2BD3EE516648CC7E07AF846"
+    },
+    "spr": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.spr",
+      "sha256": "2A44164EE33AA93B54F7188557003E9FC6776719387F193DA6BBF4D391390DE6"
+    }
+  },
+  "passed": true
+}

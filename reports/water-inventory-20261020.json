@@ -1,0 +1,8233 @@
+{
+  "operation": "read_only_water_inventory",
+  "canonical_hashes": {
+    "dat": "19c713d6620051995e00ca2be826f68e8a6387eab2bd3ee516648cc7e07af846",
+    "spr": "2a44164ee33aa93b54f7188557003e9fc6776719387f193da6bbf4d391390de6",
+    "otb": "508628640064c3388bd2ee2467acf885a7b7b61b117e6c1342c25ed9448bea7e",
+    "xml": "44a82614920be7e6bd34e09bee58584c21383692ae17d241df0823d3749f9db2",
+    "map": "8cdfddf9dc2a9e53053e4f3faf7f6825fd89b6b63ee06272ecd234b387202821"
+  },
+  "canonical_unchanged": true,
+  "tiles_scanned": 7824286,
+  "movement_ids": [
+    4608,
+    4823,
+    4825,
+    13170,
+    16433,
+    21112
+  ],
+  "candidates": [
+    {
+      "server_id": 4608,
+      "client_id": 4597,
+      "name": "Shallow water",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": true,
+      "otb_flags": [
+        "block_solid",
+        "animation",
+        "walk_stack"
+      ],
+      "water_sprite_references": 15,
+      "discovered_by_shared_sprites_only": false,
+      "dat_flags": [
+        "ground",
+        "unpassable",
+        "unmoveable",
+        "mini_map",
+        "full_ground"
+      ],
+      "block_solid": true,
+      "client_unpassable": true,
+      "server_ids_sharing_client": [
+        4608
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          1,
+          1,
+          1
+        ],
+        "frames": 15,
+        "sprites": 15
+      },
+      "map_occurrences": 2870372,
+      "samples": [
+        {
+          "x": 22,
+          "y": 22,
+          "z": 7,
+          "stack": [
+            4608
+          ],
+          "protected": false
+        },
+        {
+          "x": 22,
+          "y": 23,
+          "z": 7,
+          "stack": [
+            4608
+          ],
+          "protected": false
+        },
+        {
+          "x": 23,
+          "y": 20,
+          "z": 7,
+          "stack": [
+            4608
+          ],
+          "protected": false
+        }
+      ]
+    },
+    {
+      "server_id": 20870,
+      "client_id": 19985,
+      "name": "Underwater ground",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "walk_stack"
+      ],
+      "water_sprite_references": 0,
+      "discovered_by_shared_sprites_only": false,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "mini_map",
+        "full_ground"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        20870
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          4,
+          4,
+          1
+        ],
+        "frames": 1,
+        "sprites": 16
+      },
+      "map_occurrences": 173866,
+      "samples": [
+        {
+          "x": 1330,
+          "y": 713,
+          "z": 8,
+          "stack": [
+            20870,
+            15099
+          ],
+          "protected": false
+        },
+        {
+          "x": 1330,
+          "y": 714,
+          "z": 8,
+          "stack": [
+            20870,
+            15096
+          ],
+          "protected": false
+        },
+        {
+          "x": 1330,
+          "y": 715,
+          "z": 8,
+          "stack": [
+            20870,
+            15096
+          ],
+          "protected": false
+        }
+      ]
+    },
+    {
+      "server_id": 21112,
+      "client_id": 20227,
+      "name": "Water",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": true,
+      "otb_flags": [
+        "animation",
+        "walk_stack",
+        "walkable_water"
+      ],
+      "water_sprite_references": 56,
+      "discovered_by_shared_sprites_only": false,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "dont_hide",
+        "translucent",
+        "mini_map",
+        "full_ground",
+        "custom_flag_22"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        21112
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          2,
+          2,
+          1
+        ],
+        "frames": 14,
+        "sprites": 56
+      },
+      "map_occurrences": 85813,
+      "samples": [
+        {
+          "x": 1331,
+          "y": 714,
+          "z": 7,
+          "stack": [
+            21112,
+            23287
+          ],
+          "protected": false
+        },
+        {
+          "x": 1331,
+          "y": 715,
+          "z": 7,
+          "stack": [
+            21112,
+            23287
+          ],
+          "protected": false
+        },
+        {
+          "x": 1332,
+          "y": 714,
+          "z": 7,
+          "stack": [
+            21112
+          ],
+          "protected": false
+        }
+      ]
+    },
+    {
+      "server_id": 4825,
+      "client_id": 4814,
+      "name": "Shallow water",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": true,
+      "otb_flags": [
+        "animation",
+        "walk_stack",
+        "walkable_water"
+      ],
+      "water_sprite_references": 15,
+      "discovered_by_shared_sprites_only": false,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "mini_map",
+        "full_ground",
+        "custom_flag_22"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        4825
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          1,
+          1,
+          1
+        ],
+        "frames": 15,
+        "sprites": 15
+      },
+      "map_occurrences": 35255,
+      "samples": [
+        {
+          "x": 402,
+          "y": 271,
+          "z": 7,
+          "stack": [
+            4825
+          ],
+          "protected": false
+        },
+        {
+          "x": 403,
+          "y": 269,
+          "z": 7,
+          "stack": [
+            4825
+          ],
+          "protected": false
+        },
+        {
+          "x": 403,
+          "y": 270,
+          "z": 7,
+          "stack": [
+            4825
+          ],
+          "protected": false
+        }
+      ]
+    },
+    {
+      "server_id": 13170,
+      "client_id": 12293,
+      "name": "Water",
+      "dat_ground": false,
+      "otb_group": 0,
+      "movement_script": true,
+      "otb_flags": [
+        "always_on_top",
+        "look_through",
+        "animation"
+      ],
+      "water_sprite_references": 14,
+      "discovered_by_shared_sprites_only": false,
+      "dat_flags": [
+        "ground_border",
+        "unmoveable",
+        "translucent",
+        "ignore_look"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        13170
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          1,
+          1,
+          1
+        ],
+        "frames": 14,
+        "sprites": 14
+      },
+      "map_occurrences": 1724,
+      "samples": [
+        {
+          "x": 155,
+          "y": 827,
+          "z": 4,
+          "stack": [
+            12032,
+            13170
+          ],
+          "protected": false
+        },
+        {
+          "x": 154,
+          "y": 828,
+          "z": 4,
+          "stack": [
+            12032,
+            13170
+          ],
+          "protected": false
+        },
+        {
+          "x": 155,
+          "y": 828,
+          "z": 4,
+          "stack": [
+            12030,
+            13170
+          ],
+          "protected": false
+        }
+      ]
+    },
+    {
+      "server_id": 21114,
+      "client_id": 20229,
+      "name": "Water",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "animation"
+      ],
+      "water_sprite_references": 168,
+      "discovered_by_shared_sprites_only": false,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "dont_hide",
+        "translucent",
+        "mini_map"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        21114
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          6,
+          2,
+          1
+        ],
+        "frames": 14,
+        "sprites": 168
+      },
+      "map_occurrences": 1140,
+      "samples": [
+        {
+          "x": 416,
+          "y": 2442,
+          "z": 6,
+          "stack": [
+            21114,
+            23027
+          ],
+          "protected": true
+        },
+        {
+          "x": 424,
+          "y": 2442,
+          "z": 6,
+          "stack": [
+            21114,
+            23017
+          ],
+          "protected": true
+        },
+        {
+          "x": 418,
+          "y": 2444,
+          "z": 6,
+          "stack": [
+            21114,
+            23017
+          ],
+          "protected": true
+        }
+      ]
+    },
+    {
+      "server_id": 21115,
+      "client_id": 20230,
+      "name": "Water",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "animation"
+      ],
+      "water_sprite_references": 168,
+      "discovered_by_shared_sprites_only": false,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "dont_hide",
+        "translucent",
+        "mini_map"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        21115
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          2,
+          6,
+          1
+        ],
+        "frames": 14,
+        "sprites": 168
+      },
+      "map_occurrences": 918,
+      "samples": [
+        {
+          "x": 2187,
+          "y": 675,
+          "z": 5,
+          "stack": [
+            21115
+          ],
+          "protected": false
+        },
+        {
+          "x": 2187,
+          "y": 676,
+          "z": 5,
+          "stack": [
+            21115
+          ],
+          "protected": false
+        },
+        {
+          "x": 2187,
+          "y": 677,
+          "z": 5,
+          "stack": [
+            21115
+          ],
+          "protected": false
+        }
+      ]
+    },
+    {
+      "server_id": 25162,
+      "client_id": 24277,
+      "name": "Water",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "block_solid",
+        "animation"
+      ],
+      "water_sprite_references": 14,
+      "discovered_by_shared_sprites_only": false,
+      "dat_flags": [
+        "ground",
+        "unpassable",
+        "unmoveable",
+        "translucent",
+        "mini_map"
+      ],
+      "block_solid": true,
+      "client_unpassable": true,
+      "server_ids_sharing_client": [
+        25162
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          1,
+          1,
+          1
+        ],
+        "frames": 14,
+        "sprites": 14
+      },
+      "map_occurrences": 815,
+      "samples": [
+        {
+          "x": 1790,
+          "y": 899,
+          "z": 7,
+          "stack": [
+            25162
+          ],
+          "protected": false
+        },
+        {
+          "x": 1791,
+          "y": 899,
+          "z": 7,
+          "stack": [
+            25162
+          ],
+          "protected": false
+        },
+        {
+          "x": 1788,
+          "y": 901,
+          "z": 7,
+          "stack": [
+            25162
+          ],
+          "protected": false
+        }
+      ]
+    },
+    {
+      "server_id": 20869,
+      "client_id": 19984,
+      "name": "Underwater ground",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "walk_stack"
+      ],
+      "water_sprite_references": 0,
+      "discovered_by_shared_sprites_only": false,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "mini_map",
+        "full_ground"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        20869
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          4,
+          4,
+          1
+        ],
+        "frames": 1,
+        "sprites": 16
+      },
+      "map_occurrences": 729,
+      "samples": [
+        {
+          "x": 1948,
+          "y": 1190,
+          "z": 8,
+          "stack": [
+            20869,
+            4476
+          ],
+          "protected": false
+        },
+        {
+          "x": 1948,
+          "y": 1191,
+          "z": 8,
+          "stack": [
+            20869,
+            4472
+          ],
+          "protected": false
+        },
+        {
+          "x": 1949,
+          "y": 1189,
+          "z": 8,
+          "stack": [
+            20869,
+            4476
+          ],
+          "protected": false
+        }
+      ]
+    },
+    {
+      "server_id": 21119,
+      "client_id": 20234,
+      "name": "Water",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "animation"
+      ],
+      "water_sprite_references": 56,
+      "discovered_by_shared_sprites_only": false,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "dont_hide",
+        "translucent",
+        "mini_map"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        21119
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          2,
+          2,
+          1
+        ],
+        "frames": 14,
+        "sprites": 56
+      },
+      "map_occurrences": 686,
+      "samples": [
+        {
+          "x": 2189,
+          "y": 675,
+          "z": 5,
+          "stack": [
+            21119
+          ],
+          "protected": false
+        },
+        {
+          "x": 2190,
+          "y": 676,
+          "z": 5,
+          "stack": [
+            21119
+          ],
+          "protected": false
+        },
+        {
+          "x": 415,
+          "y": 2442,
+          "z": 6,
+          "stack": [
+            21119,
+            23024
+          ],
+          "protected": true
+        }
+      ]
+    },
+    {
+      "server_id": 21120,
+      "client_id": 20235,
+      "name": "Water",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "animation"
+      ],
+      "water_sprite_references": 56,
+      "discovered_by_shared_sprites_only": false,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "dont_hide",
+        "translucent",
+        "mini_map"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        21120
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          2,
+          2,
+          1
+        ],
+        "frames": 14,
+        "sprites": 56
+      },
+      "map_occurrences": 686,
+      "samples": [
+        {
+          "x": 2186,
+          "y": 679,
+          "z": 5,
+          "stack": [
+            21120,
+            11752
+          ],
+          "protected": false
+        },
+        {
+          "x": 2187,
+          "y": 678,
+          "z": 5,
+          "stack": [
+            21120
+          ],
+          "protected": false
+        },
+        {
+          "x": 425,
+          "y": 2442,
+          "z": 6,
+          "stack": [
+            21120,
+            23023
+          ],
+          "protected": true
+        }
+      ]
+    },
+    {
+      "server_id": 20840,
+      "client_id": 19955,
+      "name": "Water",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "animation"
+      ],
+      "water_sprite_references": 14,
+      "discovered_by_shared_sprites_only": false,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "translucent",
+        "mini_map"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        20840
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          1,
+          1,
+          1
+        ],
+        "frames": 14,
+        "sprites": 14
+      },
+      "map_occurrences": 564,
+      "samples": [
+        {
+          "x": 1343,
+          "y": 791,
+          "z": 6,
+          "stack": [
+            20840
+          ],
+          "protected": true
+        },
+        {
+          "x": 1339,
+          "y": 795,
+          "z": 6,
+          "stack": [
+            20840
+          ],
+          "protected": true
+        },
+        {
+          "x": 1340,
+          "y": 794,
+          "z": 6,
+          "stack": [
+            20840
+          ],
+          "protected": true
+        }
+      ]
+    },
+    {
+      "server_id": 21118,
+      "client_id": 20233,
+      "name": "Water",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "animation"
+      ],
+      "water_sprite_references": 56,
+      "discovered_by_shared_sprites_only": false,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "dont_hide",
+        "translucent",
+        "mini_map"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        21118
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          2,
+          2,
+          1
+        ],
+        "frames": 14,
+        "sprites": 56
+      },
+      "map_occurrences": 458,
+      "samples": [
+        {
+          "x": 2186,
+          "y": 685,
+          "z": 5,
+          "stack": [
+            21118
+          ],
+          "protected": false
+        },
+        {
+          "x": 2187,
+          "y": 686,
+          "z": 5,
+          "stack": [
+            21118
+          ],
+          "protected": false
+        },
+        {
+          "x": 423,
+          "y": 2436,
+          "z": 6,
+          "stack": [
+            21118,
+            23030
+          ],
+          "protected": true
+        }
+      ]
+    },
+    {
+      "server_id": 21124,
+      "client_id": 20239,
+      "name": "Water",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "animation"
+      ],
+      "water_sprite_references": 56,
+      "discovered_by_shared_sprites_only": false,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "dont_hide",
+        "translucent",
+        "mini_map"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        21124
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          2,
+          2,
+          1
+        ],
+        "frames": 14,
+        "sprites": 56
+      },
+      "map_occurrences": 457,
+      "samples": [
+        {
+          "x": 2186,
+          "y": 678,
+          "z": 5,
+          "stack": [
+            21124
+          ],
+          "protected": false
+        },
+        {
+          "x": 423,
+          "y": 2442,
+          "z": 6,
+          "stack": [
+            21124,
+            23025
+          ],
+          "protected": true
+        },
+        {
+          "x": 422,
+          "y": 2444,
+          "z": 6,
+          "stack": [
+            21124,
+            23025
+          ],
+          "protected": true
+        }
+      ]
+    },
+    {
+      "server_id": 21122,
+      "client_id": 20237,
+      "name": "Water",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "animation"
+      ],
+      "water_sprite_references": 56,
+      "discovered_by_shared_sprites_only": false,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "dont_hide",
+        "translucent",
+        "mini_map"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        21122
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          2,
+          2,
+          1
+        ],
+        "frames": 14,
+        "sprites": 56
+      },
+      "map_occurrences": 230,
+      "samples": [
+        {
+          "x": 2185,
+          "y": 685,
+          "z": 5,
+          "stack": [
+            21122,
+            4463
+          ],
+          "protected": false
+        },
+        {
+          "x": 2186,
+          "y": 686,
+          "z": 5,
+          "stack": [
+            21122,
+            4463,
+            4473
+          ],
+          "protected": false
+        },
+        {
+          "x": 424,
+          "y": 2439,
+          "z": 6,
+          "stack": [
+            21122,
+            23028
+          ],
+          "protected": true
+        }
+      ]
+    },
+    {
+      "server_id": 21123,
+      "client_id": 20238,
+      "name": "Water",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "animation"
+      ],
+      "water_sprite_references": 56,
+      "discovered_by_shared_sprites_only": false,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "dont_hide",
+        "translucent",
+        "mini_map"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        21123
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          2,
+          2,
+          1
+        ],
+        "frames": 14,
+        "sprites": 56
+      },
+      "map_occurrences": 230,
+      "samples": [
+        {
+          "x": 2190,
+          "y": 675,
+          "z": 5,
+          "stack": [
+            21123,
+            16408,
+            18730
+          ],
+          "protected": false
+        },
+        {
+          "x": 2191,
+          "y": 676,
+          "z": 5,
+          "stack": [
+            21123,
+            16408
+          ],
+          "protected": false
+        },
+        {
+          "x": 419,
+          "y": 2444,
+          "z": 6,
+          "stack": [
+            21123,
+            23027
+          ],
+          "protected": true
+        }
+      ]
+    },
+    {
+      "server_id": 4611,
+      "client_id": 4600,
+      "name": "Shallow water",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "block_solid",
+        "animation",
+        "walk_stack"
+      ],
+      "water_sprite_references": 29,
+      "discovered_by_shared_sprites_only": false,
+      "dat_flags": [
+        "ground",
+        "unpassable",
+        "unmoveable",
+        "mini_map",
+        "full_ground"
+      ],
+      "block_solid": true,
+      "client_unpassable": true,
+      "server_ids_sharing_client": [
+        4611
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          4,
+          2,
+          1
+        ],
+        "frames": 14,
+        "sprites": 112
+      },
+      "map_occurrences": 105,
+      "samples": [
+        {
+          "x": 511,
+          "y": 2381,
+          "z": 7,
+          "stack": [
+            4611
+          ],
+          "protected": false
+        },
+        {
+          "x": 471,
+          "y": 2399,
+          "z": 7,
+          "stack": [
+            4611
+          ],
+          "protected": true
+        },
+        {
+          "x": 493,
+          "y": 2394,
+          "z": 7,
+          "stack": [
+            4611
+          ],
+          "protected": false
+        }
+      ]
+    },
+    {
+      "server_id": 4614,
+      "client_id": 4609,
+      "name": "Shallow water",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "block_solid",
+        "animation",
+        "walk_stack"
+      ],
+      "water_sprite_references": 14,
+      "discovered_by_shared_sprites_only": false,
+      "dat_flags": [
+        "ground",
+        "unpassable",
+        "unmoveable",
+        "mini_map",
+        "full_ground"
+      ],
+      "block_solid": true,
+      "client_unpassable": true,
+      "server_ids_sharing_client": [
+        4614
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          1,
+          1,
+          1
+        ],
+        "frames": 14,
+        "sprites": 14
+      },
+      "map_occurrences": 102,
+      "samples": [
+        {
+          "x": 503,
+          "y": 2382,
+          "z": 7,
+          "stack": [
+            4614
+          ],
+          "protected": false
+        },
+        {
+          "x": 507,
+          "y": 2381,
+          "z": 7,
+          "stack": [
+            4614
+          ],
+          "protected": false
+        },
+        {
+          "x": 474,
+          "y": 2397,
+          "z": 7,
+          "stack": [
+            4614,
+            4456
+          ],
+          "protected": true
+        }
+      ]
+    },
+    {
+      "server_id": 4615,
+      "client_id": 4610,
+      "name": "Shallow water",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "block_solid",
+        "animation",
+        "walk_stack"
+      ],
+      "water_sprite_references": 14,
+      "discovered_by_shared_sprites_only": false,
+      "dat_flags": [
+        "ground",
+        "unpassable",
+        "unmoveable",
+        "mini_map",
+        "full_ground"
+      ],
+      "block_solid": true,
+      "client_unpassable": true,
+      "server_ids_sharing_client": [
+        4615
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          1,
+          1,
+          1
+        ],
+        "frames": 14,
+        "sprites": 14
+      },
+      "map_occurrences": 97,
+      "samples": [
+        {
+          "x": 509,
+          "y": 2383,
+          "z": 7,
+          "stack": [
+            4615
+          ],
+          "protected": false
+        },
+        {
+          "x": 510,
+          "y": 2381,
+          "z": 7,
+          "stack": [
+            4615
+          ],
+          "protected": false
+        },
+        {
+          "x": 477,
+          "y": 2399,
+          "z": 7,
+          "stack": [
+            4615
+          ],
+          "protected": true
+        }
+      ]
+    },
+    {
+      "server_id": 15483,
+      "client_id": 14598,
+      "name": "Boiling water",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "animation"
+      ],
+      "water_sprite_references": 0,
+      "discovered_by_shared_sprites_only": false,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "translucent",
+        "mini_map"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        15483
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          1,
+          1,
+          1
+        ],
+        "frames": 14,
+        "sprites": 14
+      },
+      "map_occurrences": 93,
+      "samples": [
+        {
+          "x": 2377,
+          "y": 993,
+          "z": 7,
+          "stack": [
+            15483,
+            4476,
+            15096
+          ],
+          "protected": false
+        },
+        {
+          "x": 2377,
+          "y": 994,
+          "z": 7,
+          "stack": [
+            15483,
+            15096
+          ],
+          "protected": false
+        },
+        {
+          "x": 2377,
+          "y": 995,
+          "z": 7,
+          "stack": [
+            15483,
+            15096
+          ],
+          "protected": false
+        }
+      ]
+    },
+    {
+      "server_id": 25154,
+      "client_id": 24269,
+      "name": "",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "animation"
+      ],
+      "water_sprite_references": 14,
+      "discovered_by_shared_sprites_only": true,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "translucent",
+        "mini_map"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        25154
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          1,
+          1,
+          1
+        ],
+        "frames": 14,
+        "sprites": 14
+      },
+      "map_occurrences": 86,
+      "samples": [
+        {
+          "x": 2251,
+          "y": 923,
+          "z": 6,
+          "stack": [
+            25154
+          ],
+          "protected": true
+        },
+        {
+          "x": 2253,
+          "y": 925,
+          "z": 6,
+          "stack": [
+            25154
+          ],
+          "protected": true
+        },
+        {
+          "x": 2247,
+          "y": 931,
+          "z": 6,
+          "stack": [
+            25154,
+            20997
+          ],
+          "protected": true
+        }
+      ]
+    },
+    {
+      "server_id": 4609,
+      "client_id": 4598,
+      "name": "Shallow water",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "block_solid",
+        "animation",
+        "walk_stack"
+      ],
+      "water_sprite_references": 14,
+      "discovered_by_shared_sprites_only": false,
+      "dat_flags": [
+        "ground",
+        "unpassable",
+        "unmoveable",
+        "mini_map",
+        "full_ground"
+      ],
+      "block_solid": true,
+      "client_unpassable": true,
+      "server_ids_sharing_client": [
+        4609
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          1,
+          1,
+          1
+        ],
+        "frames": 14,
+        "sprites": 14
+      },
+      "map_occurrences": 85,
+      "samples": [
+        {
+          "x": 501,
+          "y": 2383,
+          "z": 7,
+          "stack": [
+            4609,
+            4459
+          ],
+          "protected": false
+        },
+        {
+          "x": 509,
+          "y": 2381,
+          "z": 7,
+          "stack": [
+            4609
+          ],
+          "protected": false
+        },
+        {
+          "x": 476,
+          "y": 2399,
+          "z": 7,
+          "stack": [
+            4609
+          ],
+          "protected": true
+        }
+      ]
+    },
+    {
+      "server_id": 4617,
+      "client_id": 4612,
+      "name": "Shallow water",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "block_solid",
+        "animation",
+        "walk_stack"
+      ],
+      "water_sprite_references": 14,
+      "discovered_by_shared_sprites_only": false,
+      "dat_flags": [
+        "ground",
+        "unpassable",
+        "unmoveable",
+        "mini_map",
+        "full_ground"
+      ],
+      "block_solid": true,
+      "client_unpassable": true,
+      "server_ids_sharing_client": [
+        4617
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          1,
+          1,
+          1
+        ],
+        "frames": 14,
+        "sprites": 14
+      },
+      "map_occurrences": 85,
+      "samples": [
+        {
+          "x": 22,
+          "y": 20,
+          "z": 7,
+          "stack": [
+            4617
+          ],
+          "protected": false
+        },
+        {
+          "x": 473,
+          "y": 2399,
+          "z": 7,
+          "stack": [
+            4617
+          ],
+          "protected": true
+        },
+        {
+          "x": 484,
+          "y": 2398,
+          "z": 7,
+          "stack": [
+            4617
+          ],
+          "protected": true
+        }
+      ]
+    },
+    {
+      "server_id": 4619,
+      "client_id": 4614,
+      "name": "Shallow water",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "block_solid",
+        "animation",
+        "walk_stack"
+      ],
+      "water_sprite_references": 12,
+      "discovered_by_shared_sprites_only": false,
+      "dat_flags": [
+        "ground",
+        "unpassable",
+        "unmoveable",
+        "mini_map",
+        "full_ground"
+      ],
+      "block_solid": true,
+      "client_unpassable": true,
+      "server_ids_sharing_client": [
+        4619
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          1,
+          1,
+          1
+        ],
+        "frames": 14,
+        "sprites": 14
+      },
+      "map_occurrences": 85,
+      "samples": [
+        {
+          "x": 502,
+          "y": 2381,
+          "z": 7,
+          "stack": [
+            4619,
+            4460
+          ],
+          "protected": false
+        },
+        {
+          "x": 471,
+          "y": 2396,
+          "z": 7,
+          "stack": [
+            4619,
+            4461,
+            4474
+          ],
+          "protected": true
+        },
+        {
+          "x": 472,
+          "y": 2397,
+          "z": 7,
+          "stack": [
+            4619
+          ],
+          "protected": true
+        }
+      ]
+    },
+    {
+      "server_id": 4613,
+      "client_id": 4602,
+      "name": "Shallow water",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "block_solid",
+        "animation",
+        "walk_stack"
+      ],
+      "water_sprite_references": 14,
+      "discovered_by_shared_sprites_only": false,
+      "dat_flags": [
+        "ground",
+        "unpassable",
+        "unmoveable",
+        "mini_map",
+        "full_ground"
+      ],
+      "block_solid": true,
+      "client_unpassable": true,
+      "server_ids_sharing_client": [
+        4613
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          1,
+          1,
+          1
+        ],
+        "frames": 14,
+        "sprites": 14
+      },
+      "map_occurrences": 84,
+      "samples": [
+        {
+          "x": 508,
+          "y": 2383,
+          "z": 7,
+          "stack": [
+            4613
+          ],
+          "protected": false
+        },
+        {
+          "x": 509,
+          "y": 2382,
+          "z": 7,
+          "stack": [
+            4613
+          ],
+          "protected": false
+        },
+        {
+          "x": 510,
+          "y": 2383,
+          "z": 7,
+          "stack": [
+            4613
+          ],
+          "protected": false
+        }
+      ]
+    },
+    {
+      "server_id": 4610,
+      "client_id": 4599,
+      "name": "Shallow water",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "block_solid",
+        "animation",
+        "walk_stack"
+      ],
+      "water_sprite_references": 14,
+      "discovered_by_shared_sprites_only": false,
+      "dat_flags": [
+        "ground",
+        "unpassable",
+        "unmoveable",
+        "mini_map",
+        "full_ground"
+      ],
+      "block_solid": true,
+      "client_unpassable": true,
+      "server_ids_sharing_client": [
+        4610
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          1,
+          1,
+          1
+        ],
+        "frames": 14,
+        "sprites": 14
+      },
+      "map_occurrences": 79,
+      "samples": [
+        {
+          "x": 506,
+          "y": 2382,
+          "z": 7,
+          "stack": [
+            4610
+          ],
+          "protected": false
+        },
+        {
+          "x": 507,
+          "y": 2382,
+          "z": 7,
+          "stack": [
+            4610
+          ],
+          "protected": false
+        },
+        {
+          "x": 508,
+          "y": 2382,
+          "z": 7,
+          "stack": [
+            4610
+          ],
+          "protected": false
+        }
+      ]
+    },
+    {
+      "server_id": 4618,
+      "client_id": 4613,
+      "name": "Shallow water",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "block_solid",
+        "animation",
+        "walk_stack"
+      ],
+      "water_sprite_references": 14,
+      "discovered_by_shared_sprites_only": false,
+      "dat_flags": [
+        "ground",
+        "unpassable",
+        "unmoveable",
+        "mini_map",
+        "full_ground"
+      ],
+      "block_solid": true,
+      "client_unpassable": true,
+      "server_ids_sharing_client": [
+        4618
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          1,
+          1,
+          1
+        ],
+        "frames": 14,
+        "sprites": 14
+      },
+      "map_occurrences": 79,
+      "samples": [
+        {
+          "x": 505,
+          "y": 2382,
+          "z": 7,
+          "stack": [
+            4618
+          ],
+          "protected": false
+        },
+        {
+          "x": 472,
+          "y": 2398,
+          "z": 7,
+          "stack": [
+            4618
+          ],
+          "protected": true
+        },
+        {
+          "x": 489,
+          "y": 2395,
+          "z": 7,
+          "stack": [
+            4618,
+            4456
+          ],
+          "protected": false
+        }
+      ]
+    },
+    {
+      "server_id": 4612,
+      "client_id": 4601,
+      "name": "Shallow water",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "block_solid",
+        "animation",
+        "walk_stack"
+      ],
+      "water_sprite_references": 22,
+      "discovered_by_shared_sprites_only": false,
+      "dat_flags": [
+        "ground",
+        "unpassable",
+        "unmoveable",
+        "mini_map",
+        "full_ground"
+      ],
+      "block_solid": true,
+      "client_unpassable": true,
+      "server_ids_sharing_client": [
+        4612
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          4,
+          2,
+          1
+        ],
+        "frames": 14,
+        "sprites": 112
+      },
+      "map_occurrences": 77,
+      "samples": [
+        {
+          "x": 471,
+          "y": 2397,
+          "z": 7,
+          "stack": [
+            4612
+          ],
+          "protected": true
+        },
+        {
+          "x": 494,
+          "y": 2394,
+          "z": 7,
+          "stack": [
+            4612
+          ],
+          "protected": false
+        },
+        {
+          "x": 495,
+          "y": 2394,
+          "z": 7,
+          "stack": [
+            4612
+          ],
+          "protected": false
+        }
+      ]
+    },
+    {
+      "server_id": 4616,
+      "client_id": 4611,
+      "name": "Shallow water",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "block_solid",
+        "animation",
+        "walk_stack"
+      ],
+      "water_sprite_references": 14,
+      "discovered_by_shared_sprites_only": false,
+      "dat_flags": [
+        "ground",
+        "unpassable",
+        "unmoveable",
+        "mini_map",
+        "full_ground"
+      ],
+      "block_solid": true,
+      "client_unpassable": true,
+      "server_ids_sharing_client": [
+        4616
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          1,
+          1,
+          1
+        ],
+        "frames": 14,
+        "sprites": 14
+      },
+      "map_occurrences": 77,
+      "samples": [
+        {
+          "x": 502,
+          "y": 2382,
+          "z": 7,
+          "stack": [
+            4616
+          ],
+          "protected": false
+        },
+        {
+          "x": 503,
+          "y": 2383,
+          "z": 7,
+          "stack": [
+            4616
+          ],
+          "protected": false
+        },
+        {
+          "x": 472,
+          "y": 2396,
+          "z": 7,
+          "stack": [
+            4616,
+            4456,
+            4471
+          ],
+          "protected": true
+        }
+      ]
+    },
+    {
+      "server_id": 4665,
+      "client_id": 4654,
+      "name": "Shallow water",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "block_solid",
+        "animation",
+        "walk_stack"
+      ],
+      "water_sprite_references": 14,
+      "discovered_by_shared_sprites_only": false,
+      "dat_flags": [
+        "ground",
+        "unpassable",
+        "unmoveable",
+        "mini_map",
+        "full_ground"
+      ],
+      "block_solid": true,
+      "client_unpassable": true,
+      "server_ids_sharing_client": [
+        4665
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          1,
+          1,
+          1
+        ],
+        "frames": 14,
+        "sprites": 14
+      },
+      "map_occurrences": 77,
+      "samples": [
+        {
+          "x": 22,
+          "y": 21,
+          "z": 7,
+          "stack": [
+            4665
+          ],
+          "protected": false
+        },
+        {
+          "x": 504,
+          "y": 2382,
+          "z": 7,
+          "stack": [
+            4665
+          ],
+          "protected": false
+        },
+        {
+          "x": 504,
+          "y": 2383,
+          "z": 7,
+          "stack": [
+            4665
+          ],
+          "protected": false
+        }
+      ]
+    },
+    {
+      "server_id": 4664,
+      "client_id": 4653,
+      "name": "Shallow water",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "block_solid",
+        "animation",
+        "walk_stack"
+      ],
+      "water_sprite_references": 14,
+      "discovered_by_shared_sprites_only": false,
+      "dat_flags": [
+        "ground",
+        "unpassable",
+        "unmoveable",
+        "mini_map",
+        "full_ground"
+      ],
+      "block_solid": true,
+      "client_unpassable": true,
+      "server_ids_sharing_client": [
+        4664
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          1,
+          1,
+          1
+        ],
+        "frames": 14,
+        "sprites": 14
+      },
+      "map_occurrences": 76,
+      "samples": [
+        {
+          "x": 502,
+          "y": 2383,
+          "z": 7,
+          "stack": [
+            4664
+          ],
+          "protected": false
+        },
+        {
+          "x": 504,
+          "y": 2381,
+          "z": 7,
+          "stack": [
+            4664
+          ],
+          "protected": false
+        },
+        {
+          "x": 510,
+          "y": 2382,
+          "z": 7,
+          "stack": [
+            4664
+          ],
+          "protected": false
+        }
+      ]
+    },
+    {
+      "server_id": 25157,
+      "client_id": 24272,
+      "name": "",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "animation"
+      ],
+      "water_sprite_references": 14,
+      "discovered_by_shared_sprites_only": true,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "translucent",
+        "mini_map"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        25157
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          1,
+          1,
+          1
+        ],
+        "frames": 14,
+        "sprites": 14
+      },
+      "map_occurrences": 75,
+      "samples": [
+        {
+          "x": 2248,
+          "y": 922,
+          "z": 6,
+          "stack": [
+            25157,
+            22223
+          ],
+          "protected": true
+        },
+        {
+          "x": 2252,
+          "y": 924,
+          "z": 6,
+          "stack": [
+            25157,
+            4475
+          ],
+          "protected": true
+        },
+        {
+          "x": 2244,
+          "y": 932,
+          "z": 6,
+          "stack": [
+            25157
+          ],
+          "protected": true
+        }
+      ]
+    },
+    {
+      "server_id": 4666,
+      "client_id": 4655,
+      "name": "Shallow water",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "block_solid",
+        "animation",
+        "walk_stack"
+      ],
+      "water_sprite_references": 14,
+      "discovered_by_shared_sprites_only": false,
+      "dat_flags": [
+        "ground",
+        "unpassable",
+        "unmoveable",
+        "mini_map",
+        "full_ground"
+      ],
+      "block_solid": true,
+      "client_unpassable": true,
+      "server_ids_sharing_client": [
+        4666
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          1,
+          1,
+          1
+        ],
+        "frames": 14,
+        "sprites": 14
+      },
+      "map_occurrences": 68,
+      "samples": [
+        {
+          "x": 506,
+          "y": 2381,
+          "z": 7,
+          "stack": [
+            4666
+          ],
+          "protected": false
+        },
+        {
+          "x": 507,
+          "y": 2383,
+          "z": 7,
+          "stack": [
+            4666
+          ],
+          "protected": false
+        },
+        {
+          "x": 472,
+          "y": 2399,
+          "z": 7,
+          "stack": [
+            4666
+          ],
+          "protected": true
+        }
+      ]
+    },
+    {
+      "server_id": 25158,
+      "client_id": 24273,
+      "name": "",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "animation"
+      ],
+      "water_sprite_references": 14,
+      "discovered_by_shared_sprites_only": true,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "translucent",
+        "mini_map"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        25158
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          1,
+          1,
+          1
+        ],
+        "frames": 14,
+        "sprites": 14
+      },
+      "map_occurrences": 68,
+      "samples": [
+        {
+          "x": 2253,
+          "y": 927,
+          "z": 6,
+          "stack": [
+            25158,
+            15498
+          ],
+          "protected": true
+        },
+        {
+          "x": 2254,
+          "y": 925,
+          "z": 6,
+          "stack": [
+            25158,
+            16587
+          ],
+          "protected": true
+        },
+        {
+          "x": 2267,
+          "y": 922,
+          "z": 5,
+          "stack": [
+            25158,
+            15499,
+            15498
+          ],
+          "protected": true
+        }
+      ]
+    },
+    {
+      "server_id": 25170,
+      "client_id": 24285,
+      "name": "",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "animation"
+      ],
+      "water_sprite_references": 14,
+      "discovered_by_shared_sprites_only": true,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "translucent",
+        "mini_map"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        25170
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          1,
+          1,
+          1
+        ],
+        "frames": 14,
+        "sprites": 14
+      },
+      "map_occurrences": 67,
+      "samples": [
+        {
+          "x": 1789,
+          "y": 899,
+          "z": 7,
+          "stack": [
+            25170,
+            11642,
+            11642
+          ],
+          "protected": false
+        },
+        {
+          "x": 1790,
+          "y": 898,
+          "z": 7,
+          "stack": [
+            25170,
+            11642
+          ],
+          "protected": false
+        },
+        {
+          "x": 1787,
+          "y": 903,
+          "z": 7,
+          "stack": [
+            25170,
+            11642
+          ],
+          "protected": false
+        }
+      ]
+    },
+    {
+      "server_id": 25155,
+      "client_id": 24270,
+      "name": "",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "animation"
+      ],
+      "water_sprite_references": 14,
+      "discovered_by_shared_sprites_only": true,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "translucent",
+        "mini_map"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        25155
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          1,
+          1,
+          1
+        ],
+        "frames": 14,
+        "sprites": 14
+      },
+      "map_occurrences": 66,
+      "samples": [
+        {
+          "x": 2248,
+          "y": 923,
+          "z": 6,
+          "stack": [
+            25155
+          ],
+          "protected": true
+        },
+        {
+          "x": 2252,
+          "y": 923,
+          "z": 6,
+          "stack": [
+            25155
+          ],
+          "protected": true
+        },
+        {
+          "x": 2249,
+          "y": 924,
+          "z": 6,
+          "stack": [
+            25155
+          ],
+          "protected": true
+        }
+      ]
+    },
+    {
+      "server_id": 25156,
+      "client_id": 24271,
+      "name": "",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "animation"
+      ],
+      "water_sprite_references": 14,
+      "discovered_by_shared_sprites_only": true,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "translucent",
+        "mini_map"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        25156
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          1,
+          1,
+          1
+        ],
+        "frames": 14,
+        "sprites": 14
+      },
+      "map_occurrences": 66,
+      "samples": [
+        {
+          "x": 2251,
+          "y": 924,
+          "z": 6,
+          "stack": [
+            25156,
+            15506
+          ],
+          "protected": true
+        },
+        {
+          "x": 2253,
+          "y": 924,
+          "z": 6,
+          "stack": [
+            25156
+          ],
+          "protected": true
+        },
+        {
+          "x": 2233,
+          "y": 966,
+          "z": 6,
+          "stack": [
+            25156,
+            15521
+          ],
+          "protected": true
+        }
+      ]
+    },
+    {
+      "server_id": 25174,
+      "client_id": 24289,
+      "name": "",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "animation"
+      ],
+      "water_sprite_references": 14,
+      "discovered_by_shared_sprites_only": true,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "translucent",
+        "mini_map"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        25174
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          1,
+          1,
+          1
+        ],
+        "frames": 14,
+        "sprites": 14
+      },
+      "map_occurrences": 63,
+      "samples": [
+        {
+          "x": 1788,
+          "y": 899,
+          "z": 7,
+          "stack": [
+            25174,
+            11647
+          ],
+          "protected": false
+        },
+        {
+          "x": 1789,
+          "y": 898,
+          "z": 7,
+          "stack": [
+            25174,
+            11647
+          ],
+          "protected": false
+        },
+        {
+          "x": 1790,
+          "y": 897,
+          "z": 7,
+          "stack": [
+            25174,
+            11647
+          ],
+          "protected": false
+        }
+      ]
+    },
+    {
+      "server_id": 25161,
+      "client_id": 24276,
+      "name": "",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "animation"
+      ],
+      "water_sprite_references": 14,
+      "discovered_by_shared_sprites_only": true,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "translucent",
+        "mini_map"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        25161
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          1,
+          1,
+          1
+        ],
+        "frames": 14,
+        "sprites": 14
+      },
+      "map_occurrences": 50,
+      "samples": [
+        {
+          "x": 2270,
+          "y": 931,
+          "z": 5,
+          "stack": [
+            25161,
+            15499
+          ],
+          "protected": true
+        },
+        {
+          "x": 2267,
+          "y": 932,
+          "z": 5,
+          "stack": [
+            25161
+          ],
+          "protected": true
+        },
+        {
+          "x": 2250,
+          "y": 947,
+          "z": 5,
+          "stack": [
+            25161
+          ],
+          "protected": true
+        }
+      ]
+    },
+    {
+      "server_id": 25159,
+      "client_id": 24274,
+      "name": "",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "animation"
+      ],
+      "water_sprite_references": 14,
+      "discovered_by_shared_sprites_only": true,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "translucent",
+        "mini_map"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        25159
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          1,
+          1,
+          1
+        ],
+        "frames": 14,
+        "sprites": 14
+      },
+      "map_occurrences": 46,
+      "samples": [
+        {
+          "x": 2247,
+          "y": 923,
+          "z": 6,
+          "stack": [
+            25159
+          ],
+          "protected": true
+        },
+        {
+          "x": 2248,
+          "y": 924,
+          "z": 6,
+          "stack": [
+            25159,
+            15498
+          ],
+          "protected": true
+        },
+        {
+          "x": 2249,
+          "y": 925,
+          "z": 6,
+          "stack": [
+            25159
+          ],
+          "protected": true
+        }
+      ]
+    },
+    {
+      "server_id": 25169,
+      "client_id": 24284,
+      "name": "",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "animation"
+      ],
+      "water_sprite_references": 14,
+      "discovered_by_shared_sprites_only": true,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "translucent",
+        "mini_map"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        25169
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          1,
+          1,
+          1
+        ],
+        "frames": 14,
+        "sprites": 14
+      },
+      "map_occurrences": 46,
+      "samples": [
+        {
+          "x": 1791,
+          "y": 898,
+          "z": 7,
+          "stack": [
+            25169,
+            11643
+          ],
+          "protected": false
+        },
+        {
+          "x": 1737,
+          "y": 920,
+          "z": 6,
+          "stack": [
+            25169,
+            4547
+          ],
+          "protected": false
+        },
+        {
+          "x": 1738,
+          "y": 921,
+          "z": 6,
+          "stack": [
+            25169,
+            4547
+          ],
+          "protected": false
+        }
+      ]
+    },
+    {
+      "server_id": 25160,
+      "client_id": 24275,
+      "name": "",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "animation"
+      ],
+      "water_sprite_references": 14,
+      "discovered_by_shared_sprites_only": true,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "translucent",
+        "mini_map"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        25160
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          1,
+          1,
+          1
+        ],
+        "frames": 14,
+        "sprites": 14
+      },
+      "map_occurrences": 44,
+      "samples": [
+        {
+          "x": 2254,
+          "y": 924,
+          "z": 6,
+          "stack": [
+            25160
+          ],
+          "protected": true
+        },
+        {
+          "x": 2248,
+          "y": 930,
+          "z": 6,
+          "stack": [
+            25160,
+            15499
+          ],
+          "protected": true
+        },
+        {
+          "x": 2233,
+          "y": 965,
+          "z": 6,
+          "stack": [
+            25160,
+            15499
+          ],
+          "protected": true
+        }
+      ]
+    },
+    {
+      "server_id": 25166,
+      "client_id": 24281,
+      "name": "",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "animation"
+      ],
+      "water_sprite_references": 42,
+      "discovered_by_shared_sprites_only": true,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "translucent",
+        "mini_map"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        25166
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          1,
+          3,
+          1
+        ],
+        "frames": 14,
+        "sprites": 42
+      },
+      "map_occurrences": 43,
+      "samples": [
+        {
+          "x": 1731,
+          "y": 928,
+          "z": 6,
+          "stack": [
+            25166,
+            4543
+          ],
+          "protected": false
+        },
+        {
+          "x": 1743,
+          "y": 935,
+          "z": 6,
+          "stack": [
+            25166
+          ],
+          "protected": false
+        },
+        {
+          "x": 1734,
+          "y": 938,
+          "z": 6,
+          "stack": [
+            25166
+          ],
+          "protected": false
+        }
+      ]
+    },
+    {
+      "server_id": 25173,
+      "client_id": 24288,
+      "name": "",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "animation"
+      ],
+      "water_sprite_references": 14,
+      "discovered_by_shared_sprites_only": true,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "translucent",
+        "mini_map"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        25173
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          1,
+          1,
+          1
+        ],
+        "frames": 14,
+        "sprites": 14
+      },
+      "map_occurrences": 42,
+      "samples": [
+        {
+          "x": 1791,
+          "y": 897,
+          "z": 7,
+          "stack": [
+            25173,
+            11648
+          ],
+          "protected": false
+        },
+        {
+          "x": 1737,
+          "y": 919,
+          "z": 6,
+          "stack": [
+            25173,
+            4551
+          ],
+          "protected": false
+        },
+        {
+          "x": 1738,
+          "y": 920,
+          "z": 6,
+          "stack": [
+            25173,
+            4551
+          ],
+          "protected": false
+        }
+      ]
+    },
+    {
+      "server_id": 25168,
+      "client_id": 24283,
+      "name": "",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "animation"
+      ],
+      "water_sprite_references": 14,
+      "discovered_by_shared_sprites_only": true,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "translucent",
+        "mini_map"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        25168
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          1,
+          1,
+          1
+        ],
+        "frames": 14,
+        "sprites": 14
+      },
+      "map_occurrences": 35,
+      "samples": [
+        {
+          "x": 1737,
+          "y": 921,
+          "z": 6,
+          "stack": [
+            25168,
+            4548
+          ],
+          "protected": false
+        },
+        {
+          "x": 1779,
+          "y": 986,
+          "z": 6,
+          "stack": [
+            25168,
+            4471,
+            17459
+          ],
+          "protected": false
+        },
+        {
+          "x": 1780,
+          "y": 988,
+          "z": 6,
+          "stack": [
+            25168
+          ],
+          "protected": false
+        }
+      ]
+    },
+    {
+      "server_id": 25172,
+      "client_id": 24287,
+      "name": "",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "animation"
+      ],
+      "water_sprite_references": 14,
+      "discovered_by_shared_sprites_only": true,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "translucent",
+        "mini_map"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        25172
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          1,
+          1,
+          1
+        ],
+        "frames": 14,
+        "sprites": 14
+      },
+      "map_occurrences": 32,
+      "samples": [
+        {
+          "x": 1736,
+          "y": 921,
+          "z": 6,
+          "stack": [
+            25172,
+            4552
+          ],
+          "protected": false
+        },
+        {
+          "x": 1737,
+          "y": 922,
+          "z": 6,
+          "stack": [
+            25172,
+            4552
+          ],
+          "protected": false
+        },
+        {
+          "x": 1744,
+          "y": 925,
+          "z": 6,
+          "stack": [
+            25172
+          ],
+          "protected": false
+        }
+      ]
+    },
+    {
+      "server_id": 20852,
+      "client_id": 19967,
+      "name": "Water",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "animation"
+      ],
+      "water_sprite_references": 14,
+      "discovered_by_shared_sprites_only": false,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "translucent",
+        "mini_map"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        20852
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          1,
+          1,
+          1
+        ],
+        "frames": 14,
+        "sprites": 14
+      },
+      "map_occurrences": 27,
+      "samples": [
+        {
+          "x": 1340,
+          "y": 791,
+          "z": 6,
+          "stack": [
+            20852,
+            20833,
+            20816
+          ],
+          "protected": true
+        },
+        {
+          "x": 1342,
+          "y": 790,
+          "z": 6,
+          "stack": [
+            20852,
+            20833
+          ],
+          "protected": true
+        },
+        {
+          "x": 1337,
+          "y": 795,
+          "z": 6,
+          "stack": [
+            20852,
+            20833
+          ],
+          "protected": true
+        }
+      ]
+    },
+    {
+      "server_id": 25167,
+      "client_id": 24282,
+      "name": "",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "animation"
+      ],
+      "water_sprite_references": 14,
+      "discovered_by_shared_sprites_only": true,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "translucent",
+        "mini_map"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        25167
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          1,
+          1,
+          1
+        ],
+        "frames": 14,
+        "sprites": 14
+      },
+      "map_occurrences": 26,
+      "samples": [
+        {
+          "x": 1730,
+          "y": 929,
+          "z": 6,
+          "stack": [
+            25167,
+            4549
+          ],
+          "protected": false
+        },
+        {
+          "x": 1774,
+          "y": 995,
+          "z": 6,
+          "stack": [
+            25167
+          ],
+          "protected": false
+        },
+        {
+          "x": 1770,
+          "y": 997,
+          "z": 6,
+          "stack": [
+            25167
+          ],
+          "protected": false
+        }
+      ]
+    },
+    {
+      "server_id": 20848,
+      "client_id": 19963,
+      "name": "Water",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "animation"
+      ],
+      "water_sprite_references": 14,
+      "discovered_by_shared_sprites_only": false,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "translucent",
+        "mini_map"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        20848
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          1,
+          1,
+          1
+        ],
+        "frames": 14,
+        "sprites": 14
+      },
+      "map_occurrences": 25,
+      "samples": [
+        {
+          "x": 1342,
+          "y": 791,
+          "z": 6,
+          "stack": [
+            20848,
+            20829
+          ],
+          "protected": true
+        },
+        {
+          "x": 1338,
+          "y": 795,
+          "z": 6,
+          "stack": [
+            20848,
+            20829,
+            20998
+          ],
+          "protected": true
+        },
+        {
+          "x": 1339,
+          "y": 794,
+          "z": 6,
+          "stack": [
+            20848,
+            20829,
+            23124
+          ],
+          "protected": true
+        }
+      ]
+    },
+    {
+      "server_id": 25164,
+      "client_id": 24279,
+      "name": "",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "animation"
+      ],
+      "water_sprite_references": 42,
+      "discovered_by_shared_sprites_only": true,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "translucent",
+        "mini_map"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        25164
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          3,
+          1,
+          1
+        ],
+        "frames": 14,
+        "sprites": 42
+      },
+      "map_occurrences": 25,
+      "samples": [
+        {
+          "x": 1784,
+          "y": 906,
+          "z": 7,
+          "stack": [
+            25164,
+            11638
+          ],
+          "protected": false
+        },
+        {
+          "x": 1785,
+          "y": 986,
+          "z": 6,
+          "stack": [
+            25164
+          ],
+          "protected": false
+        },
+        {
+          "x": 1786,
+          "y": 986,
+          "z": 6,
+          "stack": [
+            25164
+          ],
+          "protected": false
+        }
+      ]
+    },
+    {
+      "server_id": 25171,
+      "client_id": 24286,
+      "name": "",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "animation"
+      ],
+      "water_sprite_references": 14,
+      "discovered_by_shared_sprites_only": true,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "translucent",
+        "mini_map"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        25171
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          1,
+          1,
+          1
+        ],
+        "frames": 14,
+        "sprites": 14
+      },
+      "map_occurrences": 25,
+      "samples": [
+        {
+          "x": 1739,
+          "y": 922,
+          "z": 6,
+          "stack": [
+            25171,
+            4553
+          ],
+          "protected": false
+        },
+        {
+          "x": 1730,
+          "y": 930,
+          "z": 6,
+          "stack": [
+            25171,
+            4553
+          ],
+          "protected": false
+        },
+        {
+          "x": 1731,
+          "y": 929,
+          "z": 6,
+          "stack": [
+            25171,
+            4553
+          ],
+          "protected": false
+        }
+      ]
+    },
+    {
+      "server_id": 25165,
+      "client_id": 24280,
+      "name": "",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "animation"
+      ],
+      "water_sprite_references": 42,
+      "discovered_by_shared_sprites_only": true,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "translucent",
+        "mini_map"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        25165
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          1,
+          3,
+          1
+        ],
+        "frames": 14,
+        "sprites": 42
+      },
+      "map_occurrences": 24,
+      "samples": [
+        {
+          "x": 1787,
+          "y": 901,
+          "z": 7,
+          "stack": [
+            25165,
+            11641
+          ],
+          "protected": false
+        },
+        {
+          "x": 1787,
+          "y": 902,
+          "z": 7,
+          "stack": [
+            25165,
+            11641
+          ],
+          "protected": false
+        },
+        {
+          "x": 1783,
+          "y": 907,
+          "z": 7,
+          "stack": [
+            25165
+          ],
+          "protected": false
+        }
+      ]
+    },
+    {
+      "server_id": 20843,
+      "client_id": 19958,
+      "name": "Water",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "animation"
+      ],
+      "water_sprite_references": 42,
+      "discovered_by_shared_sprites_only": false,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "translucent",
+        "mini_map"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        20843
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          1,
+          3,
+          1
+        ],
+        "frames": 14,
+        "sprites": 42
+      },
+      "map_occurrences": 23,
+      "samples": [
+        {
+          "x": 1340,
+          "y": 792,
+          "z": 6,
+          "stack": [
+            20843,
+            20822,
+            23115,
+            20991
+          ],
+          "protected": true
+        },
+        {
+          "x": 1337,
+          "y": 796,
+          "z": 6,
+          "stack": [
+            20843,
+            20829,
+            20991
+          ],
+          "protected": true
+        },
+        {
+          "x": 1337,
+          "y": 797,
+          "z": 6,
+          "stack": [
+            20843,
+            20828,
+            20991
+          ],
+          "protected": true
+        }
+      ]
+    },
+    {
+      "server_id": 25151,
+      "client_id": 24266,
+      "name": "",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "animation"
+      ],
+      "water_sprite_references": 42,
+      "discovered_by_shared_sprites_only": true,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "translucent",
+        "mini_map"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        25151
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          3,
+          1,
+          1
+        ],
+        "frames": 14,
+        "sprites": 42
+      },
+      "map_occurrences": 22,
+      "samples": [
+        {
+          "x": 2244,
+          "y": 930,
+          "z": 6,
+          "stack": [
+            25151,
+            15499,
+            21526
+          ],
+          "protected": true
+        },
+        {
+          "x": 2245,
+          "y": 930,
+          "z": 6,
+          "stack": [
+            25151,
+            15498
+          ],
+          "protected": true
+        },
+        {
+          "x": 2246,
+          "y": 930,
+          "z": 6,
+          "stack": [
+            25151,
+            15499
+          ],
+          "protected": true
+        }
+      ]
+    },
+    {
+      "server_id": 25153,
+      "client_id": 24268,
+      "name": "",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "animation"
+      ],
+      "water_sprite_references": 42,
+      "discovered_by_shared_sprites_only": true,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "translucent",
+        "mini_map"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        25153
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          1,
+          3,
+          1
+        ],
+        "frames": 14,
+        "sprites": 42
+      },
+      "map_occurrences": 21,
+      "samples": [
+        {
+          "x": 2253,
+          "y": 922,
+          "z": 6,
+          "stack": [
+            25153,
+            4471
+          ],
+          "protected": true
+        },
+        {
+          "x": 2253,
+          "y": 923,
+          "z": 6,
+          "stack": [
+            25153,
+            15506,
+            15499
+          ],
+          "protected": true
+        },
+        {
+          "x": 2253,
+          "y": 926,
+          "z": 6,
+          "stack": [
+            25153
+          ],
+          "protected": true
+        }
+      ]
+    },
+    {
+      "server_id": 25152,
+      "client_id": 24267,
+      "name": "",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "animation"
+      ],
+      "water_sprite_references": 42,
+      "discovered_by_shared_sprites_only": true,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "translucent",
+        "mini_map"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        25152
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          1,
+          3,
+          1
+        ],
+        "frames": 14,
+        "sprites": 42
+      },
+      "map_occurrences": 18,
+      "samples": [
+        {
+          "x": 2247,
+          "y": 922,
+          "z": 6,
+          "stack": [
+            25152,
+            15498,
+            21525
+          ],
+          "protected": true
+        },
+        {
+          "x": 2250,
+          "y": 948,
+          "z": 5,
+          "stack": [
+            25152
+          ],
+          "protected": true
+        },
+        {
+          "x": 2250,
+          "y": 949,
+          "z": 5,
+          "stack": [
+            25152
+          ],
+          "protected": true
+        }
+      ]
+    },
+    {
+      "server_id": 4824,
+      "client_id": 4813,
+      "name": "Shallow water",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "animation",
+        "walk_stack"
+      ],
+      "water_sprite_references": 9,
+      "discovered_by_shared_sprites_only": false,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "mini_map",
+        "full_ground"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        4824
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          1,
+          1,
+          1
+        ],
+        "frames": 9,
+        "sprites": 9
+      },
+      "map_occurrences": 15,
+      "samples": [
+        {
+          "x": 1954,
+          "y": 828,
+          "z": 7,
+          "stack": [
+            4824,
+            437,
+            18736
+          ],
+          "protected": false
+        },
+        {
+          "x": 1954,
+          "y": 829,
+          "z": 7,
+          "stack": [
+            4824,
+            437,
+            18737
+          ],
+          "protected": false
+        },
+        {
+          "x": 1954,
+          "y": 830,
+          "z": 7,
+          "stack": [
+            4824,
+            437,
+            18738
+          ],
+          "protected": false
+        }
+      ]
+    },
+    {
+      "server_id": 20842,
+      "client_id": 19957,
+      "name": "Water",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "animation"
+      ],
+      "water_sprite_references": 42,
+      "discovered_by_shared_sprites_only": false,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "translucent",
+        "mini_map"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        20842
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          3,
+          1,
+          1
+        ],
+        "frames": 14,
+        "sprites": 42
+      },
+      "map_occurrences": 15,
+      "samples": [
+        {
+          "x": 1341,
+          "y": 791,
+          "z": 6,
+          "stack": [
+            20842,
+            20825,
+            20810,
+            20997,
+            20990
+          ],
+          "protected": true
+        },
+        {
+          "x": 1343,
+          "y": 790,
+          "z": 6,
+          "stack": [
+            20842,
+            20825,
+            20990
+          ],
+          "protected": true
+        },
+        {
+          "x": 1321,
+          "y": 806,
+          "z": 6,
+          "stack": [
+            20842,
+            20810,
+            20990
+          ],
+          "protected": true
+        }
+      ]
+    },
+    {
+      "server_id": 20847,
+      "client_id": 19962,
+      "name": "Water",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "animation"
+      ],
+      "water_sprite_references": 14,
+      "discovered_by_shared_sprites_only": false,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "translucent",
+        "mini_map"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        20847
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          1,
+          1,
+          1
+        ],
+        "frames": 14,
+        "sprites": 14
+      },
+      "map_occurrences": 14,
+      "samples": [
+        {
+          "x": 1326,
+          "y": 806,
+          "z": 6,
+          "stack": [
+            20847
+          ],
+          "protected": true
+        },
+        {
+          "x": 1327,
+          "y": 807,
+          "z": 6,
+          "stack": [
+            20847,
+            23123
+          ],
+          "protected": true
+        },
+        {
+          "x": 1327,
+          "y": 814,
+          "z": 6,
+          "stack": [
+            20847,
+            20827
+          ],
+          "protected": true
+        }
+      ]
+    },
+    {
+      "server_id": 25150,
+      "client_id": 24265,
+      "name": "",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "animation"
+      ],
+      "water_sprite_references": 42,
+      "discovered_by_shared_sprites_only": true,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "translucent",
+        "mini_map"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        25150
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          3,
+          1,
+          1
+        ],
+        "frames": 14,
+        "sprites": 42
+      },
+      "map_occurrences": 14,
+      "samples": [
+        {
+          "x": 2250,
+          "y": 925,
+          "z": 6,
+          "stack": [
+            25150,
+            15100
+          ],
+          "protected": true
+        },
+        {
+          "x": 2251,
+          "y": 949,
+          "z": 5,
+          "stack": [
+            25150,
+            4470
+          ],
+          "protected": true
+        },
+        {
+          "x": 2229,
+          "y": 1029,
+          "z": 5,
+          "stack": [
+            25150,
+            15932,
+            15087
+          ],
+          "protected": true
+        }
+      ]
+    },
+    {
+      "server_id": 20850,
+      "client_id": 19965,
+      "name": "Water",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "animation"
+      ],
+      "water_sprite_references": 14,
+      "discovered_by_shared_sprites_only": false,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "translucent",
+        "mini_map"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        20850
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          1,
+          1,
+          1
+        ],
+        "frames": 14,
+        "sprites": 14
+      },
+      "map_occurrences": 13,
+      "samples": [
+        {
+          "x": 1337,
+          "y": 798,
+          "z": 6,
+          "stack": [
+            20850,
+            20832
+          ],
+          "protected": true
+        },
+        {
+          "x": 1338,
+          "y": 799,
+          "z": 6,
+          "stack": [
+            20850,
+            20822,
+            23119
+          ],
+          "protected": true
+        },
+        {
+          "x": 1319,
+          "y": 811,
+          "z": 6,
+          "stack": [
+            20850,
+            23115
+          ],
+          "protected": true
+        }
+      ]
+    },
+    {
+      "server_id": 20851,
+      "client_id": 19966,
+      "name": "Water",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "animation"
+      ],
+      "water_sprite_references": 14,
+      "discovered_by_shared_sprites_only": false,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "translucent",
+        "mini_map"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        20851
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          1,
+          1,
+          1
+        ],
+        "frames": 14,
+        "sprites": 14
+      },
+      "map_occurrences": 13,
+      "samples": [
+        {
+          "x": 1326,
+          "y": 805,
+          "z": 6,
+          "stack": [
+            20851,
+            23124
+          ],
+          "protected": true
+        },
+        {
+          "x": 1327,
+          "y": 806,
+          "z": 6,
+          "stack": [
+            20851,
+            23122
+          ],
+          "protected": true
+        },
+        {
+          "x": 1328,
+          "y": 807,
+          "z": 6,
+          "stack": [
+            20851,
+            23114
+          ],
+          "protected": true
+        }
+      ]
+    },
+    {
+      "server_id": 25163,
+      "client_id": 24278,
+      "name": "",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "animation"
+      ],
+      "water_sprite_references": 42,
+      "discovered_by_shared_sprites_only": true,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "translucent",
+        "mini_map"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        25163
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          3,
+          1,
+          1
+        ],
+        "frames": 14,
+        "sprites": 42
+      },
+      "map_occurrences": 13,
+      "samples": [
+        {
+          "x": 1738,
+          "y": 922,
+          "z": 6,
+          "stack": [
+            25163,
+            4544
+          ],
+          "protected": false
+        },
+        {
+          "x": 1729,
+          "y": 930,
+          "z": 6,
+          "stack": [
+            25163,
+            4544
+          ],
+          "protected": false
+        },
+        {
+          "x": 1775,
+          "y": 995,
+          "z": 6,
+          "stack": [
+            25163
+          ],
+          "protected": false
+        }
+      ]
+    },
+    {
+      "server_id": 20846,
+      "client_id": 19961,
+      "name": "Water",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "animation"
+      ],
+      "water_sprite_references": 14,
+      "discovered_by_shared_sprites_only": false,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "translucent",
+        "mini_map"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        20846
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          1,
+          1,
+          1
+        ],
+        "frames": 14,
+        "sprites": 14
+      },
+      "map_occurrences": 12,
+      "samples": [
+        {
+          "x": 1338,
+          "y": 798,
+          "z": 6,
+          "stack": [
+            20846,
+            20828
+          ],
+          "protected": true
+        },
+        {
+          "x": 1339,
+          "y": 799,
+          "z": 6,
+          "stack": [
+            20846
+          ],
+          "protected": true
+        },
+        {
+          "x": 1320,
+          "y": 811,
+          "z": 6,
+          "stack": [
+            20846
+          ],
+          "protected": true
+        }
+      ]
+    },
+    {
+      "server_id": 20844,
+      "client_id": 19959,
+      "name": "Water",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "animation"
+      ],
+      "water_sprite_references": 42,
+      "discovered_by_shared_sprites_only": false,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "translucent",
+        "mini_map"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        20844
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          1,
+          3,
+          1
+        ],
+        "frames": 14,
+        "sprites": 42
+      },
+      "map_occurrences": 11,
+      "samples": [
+        {
+          "x": 1327,
+          "y": 812,
+          "z": 6,
+          "stack": [
+            20844,
+            20991,
+            20998
+          ],
+          "protected": true
+        },
+        {
+          "x": 1327,
+          "y": 813,
+          "z": 6,
+          "stack": [
+            20844,
+            20991
+          ],
+          "protected": true
+        },
+        {
+          "x": 1328,
+          "y": 808,
+          "z": 6,
+          "stack": [
+            20844
+          ],
+          "protected": true
+        }
+      ]
+    },
+    {
+      "server_id": 20731,
+      "client_id": 19846,
+      "name": "Caixa Dagua",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "has_height",
+        "walk_stack"
+      ],
+      "water_sprite_references": 0,
+      "discovered_by_shared_sprites_only": false,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "has_elevation",
+        "mini_map",
+        "full_ground"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        20731
+      ],
+      "layout": {
+        "width": 2,
+        "height": 2,
+        "layers": 1,
+        "patterns": [
+          1,
+          1,
+          1
+        ],
+        "frames": 1,
+        "sprites": 4
+      },
+      "map_occurrences": 9,
+      "samples": [
+        {
+          "x": 1263,
+          "y": 735,
+          "z": 4,
+          "stack": [
+            20731
+          ],
+          "protected": false
+        },
+        {
+          "x": 1264,
+          "y": 749,
+          "z": 4,
+          "stack": [
+            20731
+          ],
+          "protected": false
+        },
+        {
+          "x": 1222,
+          "y": 764,
+          "z": 4,
+          "stack": [
+            20731
+          ],
+          "protected": false
+        }
+      ]
+    },
+    {
+      "server_id": 20841,
+      "client_id": 19956,
+      "name": "Water",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "animation"
+      ],
+      "water_sprite_references": 42,
+      "discovered_by_shared_sprites_only": false,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "translucent",
+        "mini_map"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        20841
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          3,
+          1,
+          1
+        ],
+        "frames": 14,
+        "sprites": 42
+      },
+      "map_occurrences": 9,
+      "samples": [
+        {
+          "x": 1341,
+          "y": 814,
+          "z": 6,
+          "stack": [
+            20841,
+            20990
+          ],
+          "protected": true
+        },
+        {
+          "x": 1342,
+          "y": 814,
+          "z": 6,
+          "stack": [
+            20841,
+            20997,
+            20990
+          ],
+          "protected": true
+        },
+        {
+          "x": 1343,
+          "y": 814,
+          "z": 6,
+          "stack": [
+            20841,
+            20990
+          ],
+          "protected": true
+        }
+      ]
+    },
+    {
+      "server_id": 21116,
+      "client_id": 20231,
+      "name": "Water",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "animation"
+      ],
+      "water_sprite_references": 168,
+      "discovered_by_shared_sprites_only": false,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "dont_hide",
+        "translucent",
+        "mini_map"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        21116
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          2,
+          6,
+          1
+        ],
+        "frames": 14,
+        "sprites": 168
+      },
+      "map_occurrences": 6,
+      "samples": [
+        {
+          "x": 2191,
+          "y": 677,
+          "z": 5,
+          "stack": [
+            21116,
+            16408
+          ],
+          "protected": false
+        },
+        {
+          "x": 2191,
+          "y": 678,
+          "z": 5,
+          "stack": [
+            21116,
+            16408
+          ],
+          "protected": false
+        },
+        {
+          "x": 2191,
+          "y": 679,
+          "z": 5,
+          "stack": [
+            21116,
+            15901,
+            16408,
+            11754
+          ],
+          "protected": false
+        }
+      ]
+    },
+    {
+      "server_id": 20845,
+      "client_id": 19960,
+      "name": "Water",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "animation"
+      ],
+      "water_sprite_references": 14,
+      "discovered_by_shared_sprites_only": false,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "translucent",
+        "mini_map"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        20845
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          1,
+          1,
+          1
+        ],
+        "frames": 14,
+        "sprites": 14
+      },
+      "map_occurrences": 5,
+      "samples": [
+        {
+          "x": 1327,
+          "y": 811,
+          "z": 6,
+          "stack": [
+            20845
+          ],
+          "protected": true
+        },
+        {
+          "x": 1326,
+          "y": 829,
+          "z": 6,
+          "stack": [
+            20845
+          ],
+          "protected": true
+        },
+        {
+          "x": 1327,
+          "y": 828,
+          "z": 6,
+          "stack": [
+            20845
+          ],
+          "protected": true
+        }
+      ]
+    },
+    {
+      "server_id": 20849,
+      "client_id": 19964,
+      "name": "Water",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "animation"
+      ],
+      "water_sprite_references": 14,
+      "discovered_by_shared_sprites_only": false,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "translucent",
+        "mini_map"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        20849
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          1,
+          1,
+          1
+        ],
+        "frames": 14,
+        "sprites": 14
+      },
+      "map_occurrences": 5,
+      "samples": [
+        {
+          "x": 1328,
+          "y": 811,
+          "z": 6,
+          "stack": [
+            20849,
+            23123,
+            23119
+          ],
+          "protected": true
+        },
+        {
+          "x": 1326,
+          "y": 831,
+          "z": 6,
+          "stack": [
+            20849
+          ],
+          "protected": true
+        },
+        {
+          "x": 1327,
+          "y": 829,
+          "z": 6,
+          "stack": [
+            20849
+          ],
+          "protected": true
+        }
+      ]
+    },
+    {
+      "server_id": 16433,
+      "client_id": 15548,
+      "name": "",
+      "dat_ground": false,
+      "otb_group": 0,
+      "movement_script": true,
+      "otb_flags": [
+        "always_on_top",
+        "animation"
+      ],
+      "water_sprite_references": 15,
+      "discovered_by_shared_sprites_only": false,
+      "dat_flags": [
+        "ground_border",
+        "unmoveable",
+        "translucent",
+        "mini_map"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        16433
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          1,
+          1,
+          1
+        ],
+        "frames": 15,
+        "sprites": 15
+      },
+      "map_occurrences": 3,
+      "samples": [
+        {
+          "x": 274,
+          "y": 835,
+          "z": 7,
+          "stack": [
+            12033,
+            16433
+          ],
+          "protected": false
+        },
+        {
+          "x": 274,
+          "y": 836,
+          "z": 7,
+          "stack": [
+            12032,
+            16433,
+            16477
+          ],
+          "protected": false
+        },
+        {
+          "x": 274,
+          "y": 837,
+          "z": 7,
+          "stack": [
+            12032,
+            16433
+          ],
+          "protected": false
+        }
+      ]
+    },
+    {
+      "server_id": 100,
+      "client_id": 100,
+      "name": "Void",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "block_solid",
+        "block_projectile",
+        "walk_stack",
+        "walkable_water"
+      ],
+      "water_sprite_references": 16,
+      "discovered_by_shared_sprites_only": false,
+      "dat_flags": [
+        "ground",
+        "unpassable",
+        "unmoveable",
+        "block_missile",
+        "has_light",
+        "full_ground",
+        "custom_flag_22"
+      ],
+      "block_solid": true,
+      "client_unpassable": true,
+      "server_ids_sharing_client": [
+        100,
+        8275
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          4,
+          4,
+          1
+        ],
+        "frames": 1,
+        "sprites": 16
+      },
+      "map_occurrences": 0,
+      "samples": []
+    },
+    {
+      "server_id": 4620,
+      "client_id": 629,
+      "name": "Shallow water",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "animation",
+        "walk_stack"
+      ],
+      "water_sprite_references": 6,
+      "discovered_by_shared_sprites_only": false,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "mini_map",
+        "full_ground"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        4620
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          1,
+          1,
+          1
+        ],
+        "frames": 6,
+        "sprites": 6
+      },
+      "map_occurrences": 0,
+      "samples": []
+    },
+    {
+      "server_id": 4621,
+      "client_id": 630,
+      "name": "Shallow water",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "animation",
+        "walk_stack"
+      ],
+      "water_sprite_references": 6,
+      "discovered_by_shared_sprites_only": false,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "mini_map",
+        "full_ground"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        4621
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          1,
+          1,
+          1
+        ],
+        "frames": 6,
+        "sprites": 6
+      },
+      "map_occurrences": 0,
+      "samples": []
+    },
+    {
+      "server_id": 4622,
+      "client_id": 631,
+      "name": "Shallow water",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "animation",
+        "walk_stack"
+      ],
+      "water_sprite_references": 6,
+      "discovered_by_shared_sprites_only": false,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "mini_map",
+        "full_ground"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        4622
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          1,
+          1,
+          1
+        ],
+        "frames": 6,
+        "sprites": 6
+      },
+      "map_occurrences": 0,
+      "samples": []
+    },
+    {
+      "server_id": 4623,
+      "client_id": 632,
+      "name": "Shallow water",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "animation",
+        "walk_stack"
+      ],
+      "water_sprite_references": 6,
+      "discovered_by_shared_sprites_only": false,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "mini_map",
+        "full_ground"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        4623
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          1,
+          1,
+          1
+        ],
+        "frames": 6,
+        "sprites": 6
+      },
+      "map_occurrences": 0,
+      "samples": []
+    },
+    {
+      "server_id": 4624,
+      "client_id": 633,
+      "name": "Shallow water",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "animation",
+        "walk_stack"
+      ],
+      "water_sprite_references": 6,
+      "discovered_by_shared_sprites_only": false,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "mini_map",
+        "full_ground"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        4624
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          1,
+          1,
+          1
+        ],
+        "frames": 6,
+        "sprites": 6
+      },
+      "map_occurrences": 0,
+      "samples": []
+    },
+    {
+      "server_id": 4625,
+      "client_id": 634,
+      "name": "Shallow water",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "animation",
+        "walk_stack"
+      ],
+      "water_sprite_references": 6,
+      "discovered_by_shared_sprites_only": false,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "mini_map",
+        "full_ground"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        4625
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          1,
+          1,
+          1
+        ],
+        "frames": 6,
+        "sprites": 6
+      },
+      "map_occurrences": 0,
+      "samples": []
+    },
+    {
+      "server_id": 4632,
+      "client_id": 4621,
+      "name": "Shallow water",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "animation"
+      ],
+      "water_sprite_references": 14,
+      "discovered_by_shared_sprites_only": false,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "mini_map"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        4632
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          1,
+          1,
+          1
+        ],
+        "frames": 14,
+        "sprites": 14
+      },
+      "map_occurrences": 0,
+      "samples": []
+    },
+    {
+      "server_id": 4633,
+      "client_id": 4622,
+      "name": "Shallow water",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "animation"
+      ],
+      "water_sprite_references": 14,
+      "discovered_by_shared_sprites_only": false,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "mini_map"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        4633
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          1,
+          1,
+          1
+        ],
+        "frames": 14,
+        "sprites": 14
+      },
+      "map_occurrences": 0,
+      "samples": []
+    },
+    {
+      "server_id": 4634,
+      "client_id": 4623,
+      "name": "Shallow water",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "animation"
+      ],
+      "water_sprite_references": 14,
+      "discovered_by_shared_sprites_only": false,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "mini_map"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        4634
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          1,
+          1,
+          1
+        ],
+        "frames": 14,
+        "sprites": 14
+      },
+      "map_occurrences": 0,
+      "samples": []
+    },
+    {
+      "server_id": 4635,
+      "client_id": 4624,
+      "name": "Shallow water",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "animation"
+      ],
+      "water_sprite_references": 14,
+      "discovered_by_shared_sprites_only": false,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "mini_map"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        4635
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          1,
+          1,
+          1
+        ],
+        "frames": 14,
+        "sprites": 14
+      },
+      "map_occurrences": 0,
+      "samples": []
+    },
+    {
+      "server_id": 4636,
+      "client_id": 4625,
+      "name": "Shallow water",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "animation"
+      ],
+      "water_sprite_references": 14,
+      "discovered_by_shared_sprites_only": false,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "mini_map"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        4636
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          1,
+          1,
+          1
+        ],
+        "frames": 14,
+        "sprites": 14
+      },
+      "map_occurrences": 0,
+      "samples": []
+    },
+    {
+      "server_id": 4637,
+      "client_id": 4626,
+      "name": "Shallow water",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "animation"
+      ],
+      "water_sprite_references": 14,
+      "discovered_by_shared_sprites_only": false,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "mini_map"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        4637
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          1,
+          1,
+          1
+        ],
+        "frames": 14,
+        "sprites": 14
+      },
+      "map_occurrences": 0,
+      "samples": []
+    },
+    {
+      "server_id": 4638,
+      "client_id": 4627,
+      "name": "Shallow water",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "animation"
+      ],
+      "water_sprite_references": 14,
+      "discovered_by_shared_sprites_only": false,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "mini_map"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        4638
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          1,
+          1,
+          1
+        ],
+        "frames": 14,
+        "sprites": 14
+      },
+      "map_occurrences": 0,
+      "samples": []
+    },
+    {
+      "server_id": 4639,
+      "client_id": 4628,
+      "name": "Shallow water",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "animation"
+      ],
+      "water_sprite_references": 14,
+      "discovered_by_shared_sprites_only": false,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "mini_map"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        4639
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          1,
+          1,
+          1
+        ],
+        "frames": 14,
+        "sprites": 14
+      },
+      "map_occurrences": 0,
+      "samples": []
+    },
+    {
+      "server_id": 4640,
+      "client_id": 4629,
+      "name": "Shallow water",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "animation"
+      ],
+      "water_sprite_references": 14,
+      "discovered_by_shared_sprites_only": false,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "mini_map"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        4640
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          1,
+          1,
+          1
+        ],
+        "frames": 14,
+        "sprites": 14
+      },
+      "map_occurrences": 0,
+      "samples": []
+    },
+    {
+      "server_id": 4641,
+      "client_id": 4630,
+      "name": "Shallow water",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "animation"
+      ],
+      "water_sprite_references": 14,
+      "discovered_by_shared_sprites_only": false,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "mini_map"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        4641
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          1,
+          1,
+          1
+        ],
+        "frames": 14,
+        "sprites": 14
+      },
+      "map_occurrences": 0,
+      "samples": []
+    },
+    {
+      "server_id": 4642,
+      "client_id": 4631,
+      "name": "Shallow water",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "animation"
+      ],
+      "water_sprite_references": 14,
+      "discovered_by_shared_sprites_only": false,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "mini_map"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        4642
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          1,
+          1,
+          1
+        ],
+        "frames": 14,
+        "sprites": 14
+      },
+      "map_occurrences": 0,
+      "samples": []
+    },
+    {
+      "server_id": 4643,
+      "client_id": 4632,
+      "name": "Shallow water",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "animation"
+      ],
+      "water_sprite_references": 14,
+      "discovered_by_shared_sprites_only": false,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "mini_map"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        4643
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          1,
+          1,
+          1
+        ],
+        "frames": 14,
+        "sprites": 14
+      },
+      "map_occurrences": 0,
+      "samples": []
+    },
+    {
+      "server_id": 4820,
+      "client_id": 4809,
+      "name": "Shallow water",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "animation",
+        "walk_stack"
+      ],
+      "water_sprite_references": 12,
+      "discovered_by_shared_sprites_only": false,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "mini_map",
+        "full_ground"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        4820
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          1,
+          1,
+          1
+        ],
+        "frames": 12,
+        "sprites": 12
+      },
+      "map_occurrences": 0,
+      "samples": []
+    },
+    {
+      "server_id": 4821,
+      "client_id": 4810,
+      "name": "Shallow water",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "animation",
+        "walk_stack"
+      ],
+      "water_sprite_references": 9,
+      "discovered_by_shared_sprites_only": false,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "mini_map",
+        "full_ground"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        4821
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          1,
+          1,
+          1
+        ],
+        "frames": 9,
+        "sprites": 9
+      },
+      "map_occurrences": 0,
+      "samples": []
+    },
+    {
+      "server_id": 4822,
+      "client_id": 4811,
+      "name": "Shallow water",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "animation",
+        "walk_stack"
+      ],
+      "water_sprite_references": 9,
+      "discovered_by_shared_sprites_only": false,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "mini_map",
+        "full_ground"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        4822
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          1,
+          1,
+          1
+        ],
+        "frames": 9,
+        "sprites": 9
+      },
+      "map_occurrences": 0,
+      "samples": []
+    },
+    {
+      "server_id": 4823,
+      "client_id": 4812,
+      "name": "Shallow water",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": true,
+      "otb_flags": [
+        "animation",
+        "walk_stack",
+        "walkable_water"
+      ],
+      "water_sprite_references": 14,
+      "discovered_by_shared_sprites_only": false,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "mini_map",
+        "full_ground",
+        "custom_flag_22"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        4823
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          1,
+          1,
+          1
+        ],
+        "frames": 14,
+        "sprites": 14
+      },
+      "map_occurrences": 0,
+      "samples": []
+    },
+    {
+      "server_id": 5406,
+      "client_id": 5405,
+      "name": "Shallow water",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "animation",
+        "walk_stack"
+      ],
+      "water_sprite_references": 3,
+      "discovered_by_shared_sprites_only": false,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "has_light",
+        "mini_map",
+        "full_ground"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        5406
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          1,
+          1,
+          1
+        ],
+        "frames": 3,
+        "sprites": 3
+      },
+      "map_occurrences": 0,
+      "samples": []
+    },
+    {
+      "server_id": 5407,
+      "client_id": 5406,
+      "name": "Shallow water",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "animation",
+        "walk_stack"
+      ],
+      "water_sprite_references": 3,
+      "discovered_by_shared_sprites_only": false,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "has_light",
+        "mini_map",
+        "full_ground"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        5407
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          1,
+          1,
+          1
+        ],
+        "frames": 3,
+        "sprites": 3
+      },
+      "map_occurrences": 0,
+      "samples": []
+    },
+    {
+      "server_id": 5408,
+      "client_id": 5407,
+      "name": "Shallow water",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "animation",
+        "walk_stack"
+      ],
+      "water_sprite_references": 3,
+      "discovered_by_shared_sprites_only": false,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "has_light",
+        "mini_map",
+        "full_ground"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        5408
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          1,
+          1,
+          1
+        ],
+        "frames": 3,
+        "sprites": 3
+      },
+      "map_occurrences": 0,
+      "samples": []
+    },
+    {
+      "server_id": 5409,
+      "client_id": 5408,
+      "name": "Shallow water",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "animation",
+        "walk_stack"
+      ],
+      "water_sprite_references": 3,
+      "discovered_by_shared_sprites_only": false,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "has_light",
+        "mini_map",
+        "full_ground"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        5409
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          1,
+          1,
+          1
+        ],
+        "frames": 3,
+        "sprites": 3
+      },
+      "map_occurrences": 0,
+      "samples": []
+    },
+    {
+      "server_id": 5410,
+      "client_id": 5409,
+      "name": "Shallow water",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "animation",
+        "walk_stack"
+      ],
+      "water_sprite_references": 3,
+      "discovered_by_shared_sprites_only": false,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "has_light",
+        "mini_map",
+        "full_ground"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        5410
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          1,
+          1,
+          1
+        ],
+        "frames": 3,
+        "sprites": 3
+      },
+      "map_occurrences": 0,
+      "samples": []
+    },
+    {
+      "server_id": 7943,
+      "client_id": 880,
+      "name": "Shallow water",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "block_pathfind",
+        "animation",
+        "walk_stack"
+      ],
+      "water_sprite_references": 8,
+      "discovered_by_shared_sprites_only": false,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "block_pathfind",
+        "mini_map",
+        "full_ground"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        7943
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          1,
+          1,
+          1
+        ],
+        "frames": 8,
+        "sprites": 8
+      },
+      "map_occurrences": 0,
+      "samples": []
+    },
+    {
+      "server_id": 7944,
+      "client_id": 881,
+      "name": "Shallow water",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "block_pathfind",
+        "animation",
+        "walk_stack"
+      ],
+      "water_sprite_references": 8,
+      "discovered_by_shared_sprites_only": false,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "block_pathfind",
+        "mini_map",
+        "full_ground"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        7944
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          1,
+          1,
+          1
+        ],
+        "frames": 8,
+        "sprites": 8
+      },
+      "map_occurrences": 0,
+      "samples": []
+    },
+    {
+      "server_id": 7945,
+      "client_id": 882,
+      "name": "Shallow water",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "block_pathfind",
+        "animation",
+        "walk_stack"
+      ],
+      "water_sprite_references": 8,
+      "discovered_by_shared_sprites_only": false,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "block_pathfind",
+        "mini_map",
+        "full_ground"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        7945
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          1,
+          1,
+          1
+        ],
+        "frames": 8,
+        "sprites": 8
+      },
+      "map_occurrences": 0,
+      "samples": []
+    },
+    {
+      "server_id": 7946,
+      "client_id": 883,
+      "name": "Shallow water",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "block_pathfind",
+        "animation",
+        "walk_stack"
+      ],
+      "water_sprite_references": 8,
+      "discovered_by_shared_sprites_only": false,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "block_pathfind",
+        "mini_map",
+        "full_ground"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        7946
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          1,
+          1,
+          1
+        ],
+        "frames": 8,
+        "sprites": 8
+      },
+      "map_occurrences": 0,
+      "samples": []
+    },
+    {
+      "server_id": 7947,
+      "client_id": 884,
+      "name": "Shallow water",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "block_pathfind",
+        "animation",
+        "walk_stack"
+      ],
+      "water_sprite_references": 8,
+      "discovered_by_shared_sprites_only": false,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "block_pathfind",
+        "mini_map",
+        "full_ground"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        7947
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          1,
+          1,
+          1
+        ],
+        "frames": 8,
+        "sprites": 8
+      },
+      "map_occurrences": 0,
+      "samples": []
+    },
+    {
+      "server_id": 7948,
+      "client_id": 885,
+      "name": "Shallow water",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "block_pathfind",
+        "animation",
+        "walk_stack"
+      ],
+      "water_sprite_references": 8,
+      "discovered_by_shared_sprites_only": false,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "block_pathfind",
+        "mini_map",
+        "full_ground"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        7948
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          1,
+          1,
+          1
+        ],
+        "frames": 8,
+        "sprites": 8
+      },
+      "map_occurrences": 0,
+      "samples": []
+    },
+    {
+      "server_id": 7949,
+      "client_id": 886,
+      "name": "Shallow water",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "block_pathfind",
+        "animation",
+        "walk_stack"
+      ],
+      "water_sprite_references": 8,
+      "discovered_by_shared_sprites_only": false,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "block_pathfind",
+        "mini_map",
+        "full_ground"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        7949
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          1,
+          1,
+          1
+        ],
+        "frames": 8,
+        "sprites": 8
+      },
+      "map_occurrences": 0,
+      "samples": []
+    },
+    {
+      "server_id": 7950,
+      "client_id": 887,
+      "name": "Shallow water",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "block_pathfind",
+        "animation",
+        "walk_stack"
+      ],
+      "water_sprite_references": 8,
+      "discovered_by_shared_sprites_only": false,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "block_pathfind",
+        "mini_map",
+        "full_ground"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        7950
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          1,
+          1,
+          1
+        ],
+        "frames": 8,
+        "sprites": 8
+      },
+      "map_occurrences": 0,
+      "samples": []
+    },
+    {
+      "server_id": 7951,
+      "client_id": 888,
+      "name": "Shallow water",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "block_pathfind",
+        "animation",
+        "walk_stack"
+      ],
+      "water_sprite_references": 8,
+      "discovered_by_shared_sprites_only": false,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "block_pathfind",
+        "mini_map",
+        "full_ground"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        7951
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          1,
+          1,
+          1
+        ],
+        "frames": 8,
+        "sprites": 8
+      },
+      "map_occurrences": 0,
+      "samples": []
+    },
+    {
+      "server_id": 7952,
+      "client_id": 889,
+      "name": "Shallow water",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "block_pathfind",
+        "animation",
+        "walk_stack"
+      ],
+      "water_sprite_references": 8,
+      "discovered_by_shared_sprites_only": false,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "block_pathfind",
+        "mini_map",
+        "full_ground"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        7952
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          1,
+          1,
+          1
+        ],
+        "frames": 8,
+        "sprites": 8
+      },
+      "map_occurrences": 0,
+      "samples": []
+    },
+    {
+      "server_id": 7953,
+      "client_id": 890,
+      "name": "Shallow water",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "block_pathfind",
+        "animation",
+        "walk_stack"
+      ],
+      "water_sprite_references": 8,
+      "discovered_by_shared_sprites_only": false,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "block_pathfind",
+        "mini_map",
+        "full_ground"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        7953
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          1,
+          1,
+          1
+        ],
+        "frames": 8,
+        "sprites": 8
+      },
+      "map_occurrences": 0,
+      "samples": []
+    },
+    {
+      "server_id": 7954,
+      "client_id": 891,
+      "name": "Shallow water",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "block_pathfind",
+        "animation",
+        "walk_stack"
+      ],
+      "water_sprite_references": 8,
+      "discovered_by_shared_sprites_only": false,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "block_pathfind",
+        "mini_map",
+        "full_ground"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        7954
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          1,
+          1,
+          1
+        ],
+        "frames": 8,
+        "sprites": 8
+      },
+      "map_occurrences": 0,
+      "samples": []
+    },
+    {
+      "server_id": 8275,
+      "client_id": 100,
+      "name": "Void",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "block_solid",
+        "block_projectile",
+        "walk_stack",
+        "walkable_water"
+      ],
+      "water_sprite_references": 16,
+      "discovered_by_shared_sprites_only": false,
+      "dat_flags": [
+        "ground",
+        "unpassable",
+        "unmoveable",
+        "block_missile",
+        "has_light",
+        "full_ground",
+        "custom_flag_22"
+      ],
+      "block_solid": true,
+      "client_unpassable": true,
+      "server_ids_sharing_client": [
+        100,
+        8275
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          4,
+          4,
+          1
+        ],
+        "frames": 1,
+        "sprites": 16
+      },
+      "map_occurrences": 0,
+      "samples": []
+    },
+    {
+      "server_id": 8577,
+      "client_id": 7747,
+      "name": "",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "walk_stack"
+      ],
+      "water_sprite_references": 16,
+      "discovered_by_shared_sprites_only": true,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "full_ground"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        8577
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          4,
+          4,
+          1
+        ],
+        "frames": 1,
+        "sprites": 16
+      },
+      "map_occurrences": 0,
+      "samples": []
+    },
+    {
+      "server_id": 12924,
+      "client_id": 12047,
+      "name": "Water",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "animation"
+      ],
+      "water_sprite_references": 42,
+      "discovered_by_shared_sprites_only": false,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "translucent",
+        "mini_map"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        12924
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          3,
+          1,
+          1
+        ],
+        "frames": 14,
+        "sprites": 42
+      },
+      "map_occurrences": 0,
+      "samples": []
+    },
+    {
+      "server_id": 12925,
+      "client_id": 12048,
+      "name": "Water",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "animation"
+      ],
+      "water_sprite_references": 42,
+      "discovered_by_shared_sprites_only": false,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "translucent",
+        "mini_map"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        12925
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          3,
+          1,
+          1
+        ],
+        "frames": 14,
+        "sprites": 42
+      },
+      "map_occurrences": 0,
+      "samples": []
+    },
+    {
+      "server_id": 12926,
+      "client_id": 12049,
+      "name": "Water",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "animation"
+      ],
+      "water_sprite_references": 42,
+      "discovered_by_shared_sprites_only": false,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "translucent",
+        "mini_map"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        12926
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          1,
+          3,
+          1
+        ],
+        "frames": 14,
+        "sprites": 42
+      },
+      "map_occurrences": 0,
+      "samples": []
+    },
+    {
+      "server_id": 12927,
+      "client_id": 12050,
+      "name": "Water",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "animation"
+      ],
+      "water_sprite_references": 42,
+      "discovered_by_shared_sprites_only": false,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "translucent",
+        "mini_map"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        12927
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          1,
+          3,
+          1
+        ],
+        "frames": 14,
+        "sprites": 42
+      },
+      "map_occurrences": 0,
+      "samples": []
+    },
+    {
+      "server_id": 12928,
+      "client_id": 12051,
+      "name": "Water",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "animation"
+      ],
+      "water_sprite_references": 14,
+      "discovered_by_shared_sprites_only": false,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "translucent",
+        "mini_map"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        12928
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          1,
+          1,
+          1
+        ],
+        "frames": 14,
+        "sprites": 14
+      },
+      "map_occurrences": 0,
+      "samples": []
+    },
+    {
+      "server_id": 12929,
+      "client_id": 12052,
+      "name": "Water",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "animation"
+      ],
+      "water_sprite_references": 14,
+      "discovered_by_shared_sprites_only": false,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "translucent",
+        "mini_map"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        12929
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          1,
+          1,
+          1
+        ],
+        "frames": 14,
+        "sprites": 14
+      },
+      "map_occurrences": 0,
+      "samples": []
+    },
+    {
+      "server_id": 12930,
+      "client_id": 12053,
+      "name": "Water",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "animation"
+      ],
+      "water_sprite_references": 14,
+      "discovered_by_shared_sprites_only": false,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "translucent",
+        "mini_map"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        12930
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          1,
+          1,
+          1
+        ],
+        "frames": 14,
+        "sprites": 14
+      },
+      "map_occurrences": 0,
+      "samples": []
+    },
+    {
+      "server_id": 12931,
+      "client_id": 12054,
+      "name": "Water",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "animation"
+      ],
+      "water_sprite_references": 14,
+      "discovered_by_shared_sprites_only": false,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "translucent",
+        "mini_map"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        12931
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          1,
+          1,
+          1
+        ],
+        "frames": 14,
+        "sprites": 14
+      },
+      "map_occurrences": 0,
+      "samples": []
+    },
+    {
+      "server_id": 12932,
+      "client_id": 12055,
+      "name": "Water",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "animation"
+      ],
+      "water_sprite_references": 14,
+      "discovered_by_shared_sprites_only": false,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "translucent",
+        "mini_map"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        12932
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          1,
+          1,
+          1
+        ],
+        "frames": 14,
+        "sprites": 14
+      },
+      "map_occurrences": 0,
+      "samples": []
+    },
+    {
+      "server_id": 12933,
+      "client_id": 12056,
+      "name": "Water",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "animation"
+      ],
+      "water_sprite_references": 14,
+      "discovered_by_shared_sprites_only": false,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "translucent",
+        "mini_map"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        12933
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          1,
+          1,
+          1
+        ],
+        "frames": 14,
+        "sprites": 14
+      },
+      "map_occurrences": 0,
+      "samples": []
+    },
+    {
+      "server_id": 12934,
+      "client_id": 12057,
+      "name": "Water",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "animation"
+      ],
+      "water_sprite_references": 14,
+      "discovered_by_shared_sprites_only": false,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "translucent",
+        "mini_map"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        12934
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          1,
+          1,
+          1
+        ],
+        "frames": 14,
+        "sprites": 14
+      },
+      "map_occurrences": 0,
+      "samples": []
+    },
+    {
+      "server_id": 12935,
+      "client_id": 12058,
+      "name": "Water",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "animation"
+      ],
+      "water_sprite_references": 14,
+      "discovered_by_shared_sprites_only": false,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "translucent",
+        "mini_map"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        12935
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          1,
+          1,
+          1
+        ],
+        "frames": 14,
+        "sprites": 14
+      },
+      "map_occurrences": 0,
+      "samples": []
+    },
+    {
+      "server_id": 12936,
+      "client_id": 12059,
+      "name": "Water",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "animation"
+      ],
+      "water_sprite_references": 14,
+      "discovered_by_shared_sprites_only": false,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "translucent",
+        "mini_map"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        12936
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          1,
+          1,
+          1
+        ],
+        "frames": 14,
+        "sprites": 14
+      },
+      "map_occurrences": 0,
+      "samples": []
+    },
+    {
+      "server_id": 12937,
+      "client_id": 12060,
+      "name": "Water",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "animation"
+      ],
+      "water_sprite_references": 14,
+      "discovered_by_shared_sprites_only": false,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "translucent",
+        "mini_map"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        12937
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          1,
+          1,
+          1
+        ],
+        "frames": 14,
+        "sprites": 14
+      },
+      "map_occurrences": 0,
+      "samples": []
+    },
+    {
+      "server_id": 12938,
+      "client_id": 12061,
+      "name": "Water",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "animation"
+      ],
+      "water_sprite_references": 42,
+      "discovered_by_shared_sprites_only": false,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "translucent",
+        "mini_map"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        12938
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          3,
+          1,
+          1
+        ],
+        "frames": 14,
+        "sprites": 42
+      },
+      "map_occurrences": 0,
+      "samples": []
+    },
+    {
+      "server_id": 12939,
+      "client_id": 12062,
+      "name": "Water",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "animation"
+      ],
+      "water_sprite_references": 42,
+      "discovered_by_shared_sprites_only": false,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "translucent",
+        "mini_map"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        12939
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          3,
+          1,
+          1
+        ],
+        "frames": 14,
+        "sprites": 42
+      },
+      "map_occurrences": 0,
+      "samples": []
+    },
+    {
+      "server_id": 12940,
+      "client_id": 12063,
+      "name": "Water",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "animation"
+      ],
+      "water_sprite_references": 42,
+      "discovered_by_shared_sprites_only": false,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "translucent",
+        "mini_map"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        12940
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          1,
+          3,
+          1
+        ],
+        "frames": 14,
+        "sprites": 42
+      },
+      "map_occurrences": 0,
+      "samples": []
+    },
+    {
+      "server_id": 12941,
+      "client_id": 12064,
+      "name": "Water",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "animation"
+      ],
+      "water_sprite_references": 42,
+      "discovered_by_shared_sprites_only": false,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "translucent",
+        "mini_map"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        12941
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          1,
+          3,
+          1
+        ],
+        "frames": 14,
+        "sprites": 42
+      },
+      "map_occurrences": 0,
+      "samples": []
+    },
+    {
+      "server_id": 12942,
+      "client_id": 12065,
+      "name": "Water",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "animation"
+      ],
+      "water_sprite_references": 14,
+      "discovered_by_shared_sprites_only": false,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "translucent",
+        "mini_map"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        12942
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          1,
+          1,
+          1
+        ],
+        "frames": 14,
+        "sprites": 14
+      },
+      "map_occurrences": 0,
+      "samples": []
+    },
+    {
+      "server_id": 12943,
+      "client_id": 12066,
+      "name": "Water",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "animation"
+      ],
+      "water_sprite_references": 14,
+      "discovered_by_shared_sprites_only": false,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "translucent",
+        "mini_map"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        12943
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          1,
+          1,
+          1
+        ],
+        "frames": 14,
+        "sprites": 14
+      },
+      "map_occurrences": 0,
+      "samples": []
+    },
+    {
+      "server_id": 12944,
+      "client_id": 12067,
+      "name": "Water",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "animation"
+      ],
+      "water_sprite_references": 14,
+      "discovered_by_shared_sprites_only": false,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "translucent",
+        "mini_map"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        12944
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          1,
+          1,
+          1
+        ],
+        "frames": 14,
+        "sprites": 14
+      },
+      "map_occurrences": 0,
+      "samples": []
+    },
+    {
+      "server_id": 12945,
+      "client_id": 12068,
+      "name": "Water",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "animation"
+      ],
+      "water_sprite_references": 14,
+      "discovered_by_shared_sprites_only": false,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "translucent",
+        "mini_map"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        12945
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          1,
+          1,
+          1
+        ],
+        "frames": 14,
+        "sprites": 14
+      },
+      "map_occurrences": 0,
+      "samples": []
+    },
+    {
+      "server_id": 12946,
+      "client_id": 12069,
+      "name": "Water",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "animation"
+      ],
+      "water_sprite_references": 14,
+      "discovered_by_shared_sprites_only": false,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "translucent",
+        "mini_map"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        12946
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          1,
+          1,
+          1
+        ],
+        "frames": 14,
+        "sprites": 14
+      },
+      "map_occurrences": 0,
+      "samples": []
+    },
+    {
+      "server_id": 12947,
+      "client_id": 12070,
+      "name": "Water",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "animation"
+      ],
+      "water_sprite_references": 14,
+      "discovered_by_shared_sprites_only": false,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "translucent",
+        "mini_map"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        12947
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          1,
+          1,
+          1
+        ],
+        "frames": 14,
+        "sprites": 14
+      },
+      "map_occurrences": 0,
+      "samples": []
+    },
+    {
+      "server_id": 12948,
+      "client_id": 12071,
+      "name": "Water",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "animation"
+      ],
+      "water_sprite_references": 14,
+      "discovered_by_shared_sprites_only": false,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "translucent",
+        "mini_map"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        12948
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          1,
+          1,
+          1
+        ],
+        "frames": 14,
+        "sprites": 14
+      },
+      "map_occurrences": 0,
+      "samples": []
+    },
+    {
+      "server_id": 12949,
+      "client_id": 12072,
+      "name": "Water",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "animation"
+      ],
+      "water_sprite_references": 14,
+      "discovered_by_shared_sprites_only": false,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "translucent",
+        "mini_map"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        12949
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          1,
+          1,
+          1
+        ],
+        "frames": 14,
+        "sprites": 14
+      },
+      "map_occurrences": 0,
+      "samples": []
+    },
+    {
+      "server_id": 15484,
+      "client_id": 14599,
+      "name": "Boiling water",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "animation"
+      ],
+      "water_sprite_references": 42,
+      "discovered_by_shared_sprites_only": false,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "translucent",
+        "mini_map"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        15484
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          3,
+          1,
+          1
+        ],
+        "frames": 14,
+        "sprites": 42
+      },
+      "map_occurrences": 0,
+      "samples": []
+    },
+    {
+      "server_id": 15485,
+      "client_id": 14600,
+      "name": "Boiling water",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "animation"
+      ],
+      "water_sprite_references": 42,
+      "discovered_by_shared_sprites_only": false,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "translucent",
+        "mini_map"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        15485
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          3,
+          1,
+          1
+        ],
+        "frames": 14,
+        "sprites": 42
+      },
+      "map_occurrences": 0,
+      "samples": []
+    },
+    {
+      "server_id": 15486,
+      "client_id": 14601,
+      "name": "Boiling water",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "animation"
+      ],
+      "water_sprite_references": 42,
+      "discovered_by_shared_sprites_only": false,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "translucent",
+        "mini_map"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        15486
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          1,
+          3,
+          1
+        ],
+        "frames": 14,
+        "sprites": 42
+      },
+      "map_occurrences": 0,
+      "samples": []
+    },
+    {
+      "server_id": 15487,
+      "client_id": 14602,
+      "name": "Boiling water",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "animation"
+      ],
+      "water_sprite_references": 42,
+      "discovered_by_shared_sprites_only": false,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "translucent",
+        "mini_map"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        15487
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          1,
+          3,
+          1
+        ],
+        "frames": 14,
+        "sprites": 42
+      },
+      "map_occurrences": 0,
+      "samples": []
+    },
+    {
+      "server_id": 15488,
+      "client_id": 14603,
+      "name": "Boiling water",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "animation"
+      ],
+      "water_sprite_references": 14,
+      "discovered_by_shared_sprites_only": false,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "translucent",
+        "mini_map"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        15488
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          1,
+          1,
+          1
+        ],
+        "frames": 14,
+        "sprites": 14
+      },
+      "map_occurrences": 0,
+      "samples": []
+    },
+    {
+      "server_id": 15489,
+      "client_id": 14604,
+      "name": "Boiling water",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "animation"
+      ],
+      "water_sprite_references": 14,
+      "discovered_by_shared_sprites_only": false,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "translucent",
+        "mini_map"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        15489
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          1,
+          1,
+          1
+        ],
+        "frames": 14,
+        "sprites": 14
+      },
+      "map_occurrences": 0,
+      "samples": []
+    },
+    {
+      "server_id": 15490,
+      "client_id": 14605,
+      "name": "Boiling water",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "animation"
+      ],
+      "water_sprite_references": 14,
+      "discovered_by_shared_sprites_only": false,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "translucent",
+        "mini_map"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        15490
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          1,
+          1,
+          1
+        ],
+        "frames": 14,
+        "sprites": 14
+      },
+      "map_occurrences": 0,
+      "samples": []
+    },
+    {
+      "server_id": 15491,
+      "client_id": 14606,
+      "name": "Boiling water",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "animation"
+      ],
+      "water_sprite_references": 14,
+      "discovered_by_shared_sprites_only": false,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "translucent",
+        "mini_map"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        15491
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          1,
+          1,
+          1
+        ],
+        "frames": 14,
+        "sprites": 14
+      },
+      "map_occurrences": 0,
+      "samples": []
+    },
+    {
+      "server_id": 15492,
+      "client_id": 14607,
+      "name": "Boiling water",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "animation"
+      ],
+      "water_sprite_references": 14,
+      "discovered_by_shared_sprites_only": false,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "translucent",
+        "mini_map"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        15492
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          1,
+          1,
+          1
+        ],
+        "frames": 14,
+        "sprites": 14
+      },
+      "map_occurrences": 0,
+      "samples": []
+    },
+    {
+      "server_id": 15493,
+      "client_id": 14608,
+      "name": "Boiling water",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "animation"
+      ],
+      "water_sprite_references": 14,
+      "discovered_by_shared_sprites_only": false,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "translucent",
+        "mini_map"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        15493
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          1,
+          1,
+          1
+        ],
+        "frames": 14,
+        "sprites": 14
+      },
+      "map_occurrences": 0,
+      "samples": []
+    },
+    {
+      "server_id": 15494,
+      "client_id": 14609,
+      "name": "Boiling water",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "animation"
+      ],
+      "water_sprite_references": 14,
+      "discovered_by_shared_sprites_only": false,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "translucent",
+        "mini_map"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        15494
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          1,
+          1,
+          1
+        ],
+        "frames": 14,
+        "sprites": 14
+      },
+      "map_occurrences": 0,
+      "samples": []
+    },
+    {
+      "server_id": 15495,
+      "client_id": 14610,
+      "name": "Boiling water",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "animation"
+      ],
+      "water_sprite_references": 14,
+      "discovered_by_shared_sprites_only": false,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "translucent",
+        "mini_map"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        15495
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          1,
+          1,
+          1
+        ],
+        "frames": 14,
+        "sprites": 14
+      },
+      "map_occurrences": 0,
+      "samples": []
+    },
+    {
+      "server_id": 20723,
+      "client_id": 19838,
+      "name": "Caixa Dagua",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "has_height",
+        "walk_stack"
+      ],
+      "water_sprite_references": 4,
+      "discovered_by_shared_sprites_only": false,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "has_elevation",
+        "mini_map",
+        "full_ground"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        20723
+      ],
+      "layout": {
+        "width": 2,
+        "height": 2,
+        "layers": 1,
+        "patterns": [
+          1,
+          1,
+          1
+        ],
+        "frames": 1,
+        "sprites": 4
+      },
+      "map_occurrences": 0,
+      "samples": []
+    },
+    {
+      "server_id": 20726,
+      "client_id": 19841,
+      "name": "Caixa Dagua",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "has_height",
+        "walk_stack"
+      ],
+      "water_sprite_references": 4,
+      "discovered_by_shared_sprites_only": false,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "has_elevation",
+        "mini_map",
+        "full_ground"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        20726
+      ],
+      "layout": {
+        "width": 2,
+        "height": 2,
+        "layers": 1,
+        "patterns": [
+          1,
+          1,
+          1
+        ],
+        "frames": 1,
+        "sprites": 4
+      },
+      "map_occurrences": 0,
+      "samples": []
+    },
+    {
+      "server_id": 21113,
+      "client_id": 20228,
+      "name": "Water",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "animation"
+      ],
+      "water_sprite_references": 84,
+      "discovered_by_shared_sprites_only": false,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "dont_hide",
+        "translucent",
+        "mini_map"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        21113
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          6,
+          2,
+          1
+        ],
+        "frames": 14,
+        "sprites": 168
+      },
+      "map_occurrences": 0,
+      "samples": []
+    },
+    {
+      "server_id": 21117,
+      "client_id": 20232,
+      "name": "Water",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "animation"
+      ],
+      "water_sprite_references": 56,
+      "discovered_by_shared_sprites_only": false,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "dont_hide",
+        "translucent",
+        "mini_map"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        21117
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          2,
+          2,
+          1
+        ],
+        "frames": 14,
+        "sprites": 56
+      },
+      "map_occurrences": 0,
+      "samples": []
+    },
+    {
+      "server_id": 21121,
+      "client_id": 20236,
+      "name": "Water",
+      "dat_ground": true,
+      "otb_group": 1,
+      "movement_script": false,
+      "otb_flags": [
+        "animation"
+      ],
+      "water_sprite_references": 56,
+      "discovered_by_shared_sprites_only": false,
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "dont_hide",
+        "translucent",
+        "mini_map"
+      ],
+      "block_solid": false,
+      "client_unpassable": false,
+      "server_ids_sharing_client": [
+        21121
+      ],
+      "layout": {
+        "width": 1,
+        "height": 1,
+        "layers": 1,
+        "patterns": [
+          2,
+          2,
+          1
+        ],
+        "frames": 14,
+        "sprites": 56
+      },
+      "map_occurrences": 0,
+      "samples": []
+    }
+  ],
+  "active_candidates": 71,
+  "notes": [
+    "Item names, ground flags, custom water flag and registered movement IDs define candidates.",
+    "No classification is inferred from sprite color alone.",
+    "Shared Client IDs must be checked before appearance replacement.",
+    "No DAT/SPR/OTB/OTBM/XML modification or runtime synchronization occurred."
+  ]
+}

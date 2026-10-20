@@ -1,0 +1,3619 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "profile": {
+    "key": "tibia-860-v2-custom-extended",
+    "client_version": 860,
+    "label": "Tibia 8.60 v2 customizado com features OTFI",
+    "dat_signature": "0x4C2C7993",
+    "spr_signature": "0x4C220594",
+    "metadata_reader": 5,
+    "otb_version_hint": "8.60"
+  },
+  "category": "items",
+  "id_kind": "server",
+  "requested_ids": [
+    1515,
+    1547,
+    1777,
+    4526,
+    4530,
+    4531,
+    4535,
+    4538,
+    4543,
+    4545,
+    4546,
+    4547,
+    4548,
+    4550,
+    4551,
+    6297,
+    6298,
+    6299,
+    10403,
+    10404,
+    10416,
+    10418,
+    12261,
+    12417,
+    14213,
+    14930,
+    14931,
+    14941,
+    14946,
+    14947,
+    14948,
+    14949,
+    14951,
+    14956,
+    14957,
+    17349,
+    17350,
+    17351,
+    17353,
+    17354,
+    17355,
+    17356,
+    17357,
+    17358,
+    17359,
+    17360,
+    17361,
+    17391,
+    17396,
+    17400,
+    17418,
+    17437,
+    17441,
+    17444,
+    17960,
+    17962,
+    17972,
+    17973,
+    17975,
+    17977,
+    17978,
+    18006,
+    18007,
+    18008,
+    18009,
+    18010,
+    18015,
+    18016,
+    18017,
+    18018,
+    18048,
+    18181,
+    18235,
+    19425,
+    19428,
+    19429,
+    19431,
+    19432,
+    19434,
+    19435,
+    19437,
+    19438,
+    19439,
+    19440,
+    19456,
+    19458,
+    19460,
+    19462,
+    19505,
+    19529,
+    20359,
+    20360,
+    20361,
+    20362,
+    20363,
+    20365,
+    20366,
+    20480,
+    20582,
+    20588,
+    20589,
+    20952,
+    21337,
+    21338,
+    21339,
+    21415,
+    21520,
+    21521,
+    21523,
+    21524,
+    21533,
+    21534,
+    21538,
+    21636,
+    21681,
+    21698,
+    21702,
+    21706,
+    21709,
+    21710,
+    21716,
+    21719,
+    22246,
+    22248,
+    22250,
+    22251,
+    23297,
+    23527,
+    23528,
+    25215,
+    25216
+  ],
+  "output_dir": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-layout-20261020",
+  "exported_count": 131,
+  "exported": [
+    {
+      "requested_id": 1515,
+      "client_id": 2153,
+      "server_ids": [
+        1515
+      ],
+      "name": "Marble pillar",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        0
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-layout-20261020\\server-1515_client-2153_marble-pillar.png",
+      "size": 83,
+      "sha256": "BA04F531DF0C7A12124750D521ADD77C55B16A6432D653C5559C16680DBD9F50"
+    },
+    {
+      "requested_id": 1547,
+      "client_id": 2185,
+      "server_ids": [
+        1547
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        31513,
+        31514,
+        0,
+        31515
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-layout-20261020\\server-1547_client-2185.png",
+      "size": 586,
+      "sha256": "2FC5CE7BCD34E6350E538D7B25E6669A572C7D271E55F0E08CE50CCF73DD4EC9"
+    },
+    {
+      "requested_id": 1777,
+      "client_id": 2526,
+      "server_ids": [
+        1777
+      ],
+      "name": "Dustbin",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        135554
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-layout-20261020\\server-1777_client-2526_dustbin.png",
+      "size": 457,
+      "sha256": "D22439152C5CF38DDBE337EE86F32706990DF1A3D861289D2B1F4EE9A4964D39"
+    },
+    {
+      "requested_id": 4526,
+      "client_id": 4515,
+      "server_ids": [
+        4526
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 256,
+      "height": 192,
+      "layers": 1,
+      "pattern_x": 8,
+      "pattern_y": 6,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        150483,
+        150484,
+        150485,
+        150486,
+        150487,
+        150488,
+        150489,
+        150490,
+        150491,
+        150492,
+        150493,
+        150494,
+        150495,
+        150496,
+        150497,
+        150498,
+        150499,
+        150500,
+        150501,
+        150502,
+        150503,
+        150504,
+        150505,
+        150506,
+        150507,
+        150508,
+        150509,
+        150510,
+        150511,
+        150512,
+        150513,
+        150514,
+        150515,
+        150516,
+        150517,
+        150518,
+        150519,
+        150520,
+        150521,
+        150522,
+        150523,
+        150524,
+        150525,
+        150526,
+        150527,
+        150528,
+        150529,
+        150530
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-layout-20261020\\server-4526_client-4515.png",
+      "size": 55362,
+      "sha256": "7A25C68BF0EF6C656CE70E536BCFC79916AD2D55F00F3CDDEA967D6E09D2B162"
+    },
+    {
+      "requested_id": 4530,
+      "client_id": 4519,
+      "server_ids": [
+        4530
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 256,
+      "height": 192,
+      "layers": 1,
+      "pattern_x": 8,
+      "pattern_y": 6,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        150483,
+        150484,
+        150485,
+        150486,
+        150487,
+        150488,
+        150489,
+        150490,
+        150491,
+        150492,
+        150493,
+        150494,
+        150495,
+        150496,
+        150497,
+        150498,
+        150499,
+        150500,
+        150501,
+        150502,
+        150503,
+        150504,
+        150505,
+        150506,
+        150507,
+        150508,
+        150509,
+        150510,
+        150511,
+        150512,
+        150513,
+        150514,
+        150515,
+        150516,
+        150517,
+        150518,
+        150519,
+        150520,
+        150521,
+        150522,
+        150523,
+        150524,
+        150525,
+        150526,
+        150527,
+        150528,
+        150529,
+        150530
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-layout-20261020\\server-4530_client-4519.png",
+      "size": 55362,
+      "sha256": "7A25C68BF0EF6C656CE70E536BCFC79916AD2D55F00F3CDDEA967D6E09D2B162"
+    },
+    {
+      "requested_id": 4531,
+      "client_id": 4520,
+      "server_ids": [
+        4531
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 256,
+      "height": 192,
+      "layers": 1,
+      "pattern_x": 8,
+      "pattern_y": 6,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        150483,
+        150484,
+        150485,
+        150486,
+        150487,
+        150488,
+        150489,
+        150490,
+        150491,
+        150492,
+        150493,
+        150494,
+        150495,
+        150496,
+        150497,
+        150498,
+        150499,
+        150500,
+        150501,
+        150502,
+        150503,
+        150504,
+        150505,
+        150506,
+        150507,
+        150508,
+        150509,
+        150510,
+        150511,
+        150512,
+        150513,
+        150514,
+        150515,
+        150516,
+        150517,
+        150518,
+        150519,
+        150520,
+        150521,
+        150522,
+        150523,
+        150524,
+        150525,
+        150526,
+        150527,
+        150528,
+        150529,
+        150530
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-layout-20261020\\server-4531_client-4520.png",
+      "size": 55362,
+      "sha256": "7A25C68BF0EF6C656CE70E536BCFC79916AD2D55F00F3CDDEA967D6E09D2B162"
+    },
+    {
+      "requested_id": 4535,
+      "client_id": 4524,
+      "server_ids": [
+        4535
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 256,
+      "height": 192,
+      "layers": 1,
+      "pattern_x": 8,
+      "pattern_y": 6,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        150483,
+        150484,
+        150485,
+        150486,
+        150487,
+        150488,
+        150489,
+        150490,
+        150491,
+        150492,
+        150493,
+        150494,
+        150495,
+        150496,
+        150497,
+        150498,
+        150499,
+        150500,
+        150501,
+        150502,
+        150503,
+        150504,
+        150505,
+        150506,
+        150507,
+        150508,
+        150509,
+        150510,
+        150511,
+        150512,
+        150513,
+        150514,
+        150515,
+        150516,
+        150517,
+        150518,
+        150519,
+        150520,
+        150521,
+        150522,
+        150523,
+        150524,
+        150525,
+        150526,
+        150527,
+        150528,
+        150529,
+        150530
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-layout-20261020\\server-4535_client-4524.png",
+      "size": 55362,
+      "sha256": "7A25C68BF0EF6C656CE70E536BCFC79916AD2D55F00F3CDDEA967D6E09D2B162"
+    },
+    {
+      "requested_id": 4538,
+      "client_id": 4527,
+      "server_ids": [
+        4538
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 256,
+      "height": 192,
+      "layers": 1,
+      "pattern_x": 8,
+      "pattern_y": 6,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        150483,
+        150484,
+        150485,
+        150486,
+        150487,
+        150488,
+        150489,
+        150490,
+        150491,
+        150492,
+        150493,
+        150494,
+        150495,
+        150496,
+        150497,
+        150498,
+        150499,
+        150500,
+        150501,
+        150502,
+        150503,
+        150504,
+        150505,
+        150506,
+        150507,
+        150508,
+        150509,
+        150510,
+        150511,
+        150512,
+        150513,
+        150514,
+        150515,
+        150516,
+        150517,
+        150518,
+        150519,
+        150520,
+        150521,
+        150522,
+        150523,
+        150524,
+        150525,
+        150526,
+        150527,
+        150528,
+        150529,
+        150530
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-layout-20261020\\server-4538_client-4527.png",
+      "size": 55362,
+      "sha256": "7A25C68BF0EF6C656CE70E536BCFC79916AD2D55F00F3CDDEA967D6E09D2B162"
+    },
+    {
+      "requested_id": 4543,
+      "client_id": 4532,
+      "server_ids": [
+        4543
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 96,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 3,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        152409,
+        152410,
+        152411
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-layout-20261020\\server-4543_client-4532.png",
+      "size": 4659,
+      "sha256": "78FA79276C7878E6BCE0B78656C16CE8FBC60F0CC6C9844CC076B2A9616D6FC5"
+    },
+    {
+      "requested_id": 4545,
+      "client_id": 4534,
+      "server_ids": [
+        4545
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 96,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 3,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        152403,
+        152404,
+        152405
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-layout-20261020\\server-4545_client-4534.png",
+      "size": 2889,
+      "sha256": "97FA152AA5873E3B0DB1C91FD43483E4E3E31B3D8D9544BC0019B72499A41139"
+    },
+    {
+      "requested_id": 4546,
+      "client_id": 4535,
+      "server_ids": [
+        4546
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        152402
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-layout-20261020\\server-4546_client-4535.png",
+      "size": 588,
+      "sha256": "483D96F9B766E3B2EFE1960DA71A3BD865A121B8BD94D89DA2A2FE46625E34B0"
+    },
+    {
+      "requested_id": 4547,
+      "client_id": 4536,
+      "server_ids": [
+        4547
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        152401
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-layout-20261020\\server-4547_client-4536.png",
+      "size": 558,
+      "sha256": "3144FBC196D46D6B766A16FE57525627CCB763A0EE4F6C7BF5C9F246804A78B6"
+    },
+    {
+      "requested_id": 4548,
+      "client_id": 4537,
+      "server_ids": [
+        4548
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        152400
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-layout-20261020\\server-4548_client-4537.png",
+      "size": 644,
+      "sha256": "7176B74BC26689A5AEE371F3AF689B622E919F5752CFCFDDEE6338184607E29E"
+    },
+    {
+      "requested_id": 4550,
+      "client_id": 4539,
+      "server_ids": [
+        4550
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 96,
+      "height": 96,
+      "layers": 1,
+      "pattern_x": 3,
+      "pattern_y": 3,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        152390,
+        152391,
+        152392,
+        152393,
+        152394,
+        152395,
+        152396,
+        152397,
+        152398
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-layout-20261020\\server-4550_client-4539.png",
+      "size": 10532,
+      "sha256": "8402D1CD9E7894A0FC713B7467D900E93970E467847368BF459840207E4F0100"
+    },
+    {
+      "requested_id": 4551,
+      "client_id": 4540,
+      "server_ids": [
+        4551
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 96,
+      "height": 96,
+      "layers": 1,
+      "pattern_x": 3,
+      "pattern_y": 3,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        152381,
+        152382,
+        152383,
+        152384,
+        152385,
+        152386,
+        152387,
+        152388,
+        152389
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-layout-20261020\\server-4551_client-4540.png",
+      "size": 8256,
+      "sha256": "D88889AF3DD08255FFE5A03D50F34A09EFDF8363DB259678F500F4AEAB528C33"
+    },
+    {
+      "requested_id": 6297,
+      "client_id": 6296,
+      "server_ids": [
+        6297
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        5539
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-layout-20261020\\server-6297_client-6296.png",
+      "size": 173,
+      "sha256": "F16FD57CD7A7ECDFB5DD811B03FBDAA55305AA1D1DF4924C600B9309B1A80D6D"
+    },
+    {
+      "requested_id": 6298,
+      "client_id": 6297,
+      "server_ids": [
+        6298
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        5540
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-layout-20261020\\server-6298_client-6297.png",
+      "size": 238,
+      "sha256": "0C1339C8491E05E29B75AD5E9235F0817D3E614A9901745318BDC9FC9FD9DBE0"
+    },
+    {
+      "requested_id": 6299,
+      "client_id": 6298,
+      "server_ids": [
+        6299
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 2,
+      "pattern_y": 2,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        5541,
+        5542,
+        5542,
+        5541
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-layout-20261020\\server-6299_client-6298.png",
+      "size": 1448,
+      "sha256": "2BA9EBEACB599367B03F15A488E6A6CC2F27A9610A7F668EBDC34E6C2646515D"
+    },
+    {
+      "requested_id": 10403,
+      "client_id": 9486,
+      "server_ids": [
+        10403
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        142578
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-layout-20261020\\server-10403_client-9486.png",
+      "size": 819,
+      "sha256": "B9366743A4C57C441B9A2111E4A1EA8C2AE6DF1CD3AFA4E37B0288B790EA9E69"
+    },
+    {
+      "requested_id": 10404,
+      "client_id": 9487,
+      "server_ids": [
+        10404
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        142577
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-layout-20261020\\server-10404_client-9487.png",
+      "size": 253,
+      "sha256": "750D93A8F3528B6EF941A6083BF652A6E8B337AB4B477FFACC757384F3D8BAE6"
+    },
+    {
+      "requested_id": 10416,
+      "client_id": 9499,
+      "server_ids": [
+        10416
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        142565
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-layout-20261020\\server-10416_client-9499.png",
+      "size": 115,
+      "sha256": "6A352935D1C05B38C8D7FEC7177C68A2727858E4DA85E019A1BC75405532291D"
+    },
+    {
+      "requested_id": 10418,
+      "client_id": 9501,
+      "server_ids": [
+        10418
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        142682
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-layout-20261020\\server-10418_client-9501.png",
+      "size": 114,
+      "sha256": "D9E9F438545C39EF80423D614B619ABF354B7E4A03BEE0A49EE73435D2F45B36"
+    },
+    {
+      "requested_id": 12261,
+      "client_id": 11384,
+      "server_ids": [
+        12261
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        39546,
+        39547
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-layout-20261020\\server-12261_client-11384.png",
+      "size": 976,
+      "sha256": "ABA554FFF7D9EBAF5EB481712ADDF12739A80C070D8A7CCC6F5E68AAEB148157"
+    },
+    {
+      "requested_id": 12417,
+      "client_id": 11540,
+      "server_ids": [
+        12417
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        41125
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-layout-20261020\\server-12417_client-11540.png",
+      "size": 730,
+      "sha256": "CB7DA41F914598669EB96D6E14F06D39ABCBA01643F743D416EB0D852A14BC95"
+    },
+    {
+      "requested_id": 14213,
+      "client_id": 13336,
+      "server_ids": [
+        14213
+      ],
+      "name": "Wall",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        0,
+        0,
+        0,
+        70063
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-layout-20261020\\server-14213_client-13336_wall.png",
+      "size": 596,
+      "sha256": "C8E84023ABA6722D10A03395D1BF460860C02A0D4EF4C1BA096EDBFA61E6D06A"
+    },
+    {
+      "requested_id": 14930,
+      "client_id": 14045,
+      "server_ids": [
+        14930
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 2,
+      "pattern_y": 2,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        86263,
+        86264,
+        86265,
+        86266
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-layout-20261020\\server-14930_client-14045.png",
+      "size": 5705,
+      "sha256": "A9329D03A27DB061DE585D6E3BF64EF866CBD509A656AF13500F8C3C39A6E1DB"
+    },
+    {
+      "requested_id": 14931,
+      "client_id": 14046,
+      "server_ids": [
+        14931
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 128,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 4,
+      "pattern_y": 2,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        86267,
+        86268,
+        86269,
+        86270,
+        86271,
+        86272,
+        86273,
+        86274
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-layout-20261020\\server-14931_client-14046.png",
+      "size": 10088,
+      "sha256": "719F6C84F962AB5D226EDE2CA5CFF40D765421239EE5E1389F6C8584D5837EFD"
+    },
+    {
+      "requested_id": 14941,
+      "client_id": 14056,
+      "server_ids": [
+        14941
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        86298
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-layout-20261020\\server-14941_client-14056.png",
+      "size": 260,
+      "sha256": "231059EAE260BFEA9275BCA9815720B1D303671DCCD8DF5B5C2DA2807DF0A801"
+    },
+    {
+      "requested_id": 14946,
+      "client_id": 14061,
+      "server_ids": [
+        14946
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        86303
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-layout-20261020\\server-14946_client-14061.png",
+      "size": 669,
+      "sha256": "C7F14BC49E5DB8451FB758519E3A19F1DA4F93E1C82C3BDA55C26B97D5209EB1"
+    },
+    {
+      "requested_id": 14947,
+      "client_id": 14062,
+      "server_ids": [
+        14947
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        86304
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-layout-20261020\\server-14947_client-14062.png",
+      "size": 738,
+      "sha256": "8A9D168310AF8D286AE52CA818586F47233B6B31FFA90B467169FF038F95B1F0"
+    },
+    {
+      "requested_id": 14948,
+      "client_id": 14063,
+      "server_ids": [
+        14948
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        86305
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-layout-20261020\\server-14948_client-14063.png",
+      "size": 616,
+      "sha256": "F0188D7483C064B1C774536BA5CE9A5A8F127F0BDB0749CE64FA57A933613AB6"
+    },
+    {
+      "requested_id": 14949,
+      "client_id": 14064,
+      "server_ids": [
+        14949
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        86306
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-layout-20261020\\server-14949_client-14064.png",
+      "size": 673,
+      "sha256": "46877288D797E681F90DD8772BD49A88D57F6E148F535EE3B92D470273A6D445"
+    },
+    {
+      "requested_id": 14951,
+      "client_id": 14066,
+      "server_ids": [
+        14951
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        86308
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-layout-20261020\\server-14951_client-14066.png",
+      "size": 966,
+      "sha256": "077A0BD239AD3A1A0FB3C1A95E379635923FBF448E338F38B3D8808D07A5A37E"
+    },
+    {
+      "requested_id": 14956,
+      "client_id": 14071,
+      "server_ids": [
+        14956
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        86313
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-layout-20261020\\server-14956_client-14071.png",
+      "size": 255,
+      "sha256": "813A9DE9FCCF4E8EB942E005627F02E47E08547D357F82736D512AB101CF7540"
+    },
+    {
+      "requested_id": 14957,
+      "client_id": 14072,
+      "server_ids": [
+        14957
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        86314
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-layout-20261020\\server-14957_client-14072.png",
+      "size": 275,
+      "sha256": "E5785E5E20C847766FFC6F63E019D31F67F809048E2761A5371E59584A699096"
+    },
+    {
+      "requested_id": 17349,
+      "client_id": 16464,
+      "server_ids": [
+        17349
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 2,
+      "pattern_y": 2,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        127406,
+        127407,
+        127408,
+        127409
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-layout-20261020\\server-17349_client-16464.png",
+      "size": 6469,
+      "sha256": "FAF5D04696335D8A507B44780CEDDFFA020E80274E869A44853BC5484CF1C71E"
+    },
+    {
+      "requested_id": 17350,
+      "client_id": 16465,
+      "server_ids": [
+        17350
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 2,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        127404,
+        127405
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-layout-20261020\\server-17350_client-16465.png",
+      "size": 877,
+      "sha256": "B3A071D4D99CC0C079C497BD144D204C0C244B8890049D9809E1AAE076FAD1FF"
+    },
+    {
+      "requested_id": 17351,
+      "client_id": 16466,
+      "server_ids": [
+        17351
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 2,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        127402,
+        127403
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-layout-20261020\\server-17351_client-16466.png",
+      "size": 944,
+      "sha256": "1E47AAB7B2C0F8C3346DA8E959FB4331F4BF1990DB3FF0DD9A83CD258ACFB609"
+    },
+    {
+      "requested_id": 17353,
+      "client_id": 16468,
+      "server_ids": [
+        17353
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 2,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        127398,
+        127399
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-layout-20261020\\server-17353_client-16468.png",
+      "size": 965,
+      "sha256": "86F13B7E87BBE596E4C1F813D25220F9C0B00737BE4E8871A2370AC192B0D79D"
+    },
+    {
+      "requested_id": 17354,
+      "client_id": 16469,
+      "server_ids": [
+        17354
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        127397
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-layout-20261020\\server-17354_client-16469.png",
+      "size": 201,
+      "sha256": "A5F90EB4C8B50AB823D46C1AB15ACD75CDA06E4125C39AB45C0B1D768D2F7A96"
+    },
+    {
+      "requested_id": 17355,
+      "client_id": 16470,
+      "server_ids": [
+        17355
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        127396
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-layout-20261020\\server-17355_client-16470.png",
+      "size": 173,
+      "sha256": "1BC88652552106E416B1E119F30B82C20EFA9FECDD382C0BF9FC556767EB86A6"
+    },
+    {
+      "requested_id": 17356,
+      "client_id": 16471,
+      "server_ids": [
+        17356
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        127395
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-layout-20261020\\server-17356_client-16471.png",
+      "size": 147,
+      "sha256": "7B218A737DB3750D3E9A39849879D9B3B4D01203F3BF3D4D14996AFF4BEF8E40"
+    },
+    {
+      "requested_id": 17357,
+      "client_id": 16472,
+      "server_ids": [
+        17357
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        127394
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-layout-20261020\\server-17357_client-16472.png",
+      "size": 197,
+      "sha256": "78D05C96EA1925D368AFF16E112D34D272CA1472AEEA754472585F18770C294E"
+    },
+    {
+      "requested_id": 17358,
+      "client_id": 16473,
+      "server_ids": [
+        17358
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        127393
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-layout-20261020\\server-17358_client-16473.png",
+      "size": 1138,
+      "sha256": "EF99B0AFE32BE82D0BFC7940E06D9AF6E7F60C7476EDA776CB390239EC901CD7"
+    },
+    {
+      "requested_id": 17359,
+      "client_id": 16474,
+      "server_ids": [
+        17359
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        127392
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-layout-20261020\\server-17359_client-16474.png",
+      "size": 1034,
+      "sha256": "D4B0936F40863C003605591BB52E902CB0251A971031114FC23808F29BA53D94"
+    },
+    {
+      "requested_id": 17360,
+      "client_id": 16475,
+      "server_ids": [
+        17360
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        127391
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-layout-20261020\\server-17360_client-16475.png",
+      "size": 1240,
+      "sha256": "81195D4F2B4D3EF4F149EB78CD938450255E6BB7FDD93B31DF02CA52951DD3D9"
+    },
+    {
+      "requested_id": 17361,
+      "client_id": 16476,
+      "server_ids": [
+        17361
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        127390
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-layout-20261020\\server-17361_client-16476.png",
+      "size": 1018,
+      "sha256": "024DB933711A76B4921659DDEDF292D3BD898908B378215097C803A8396CC99A"
+    },
+    {
+      "requested_id": 17391,
+      "client_id": 16506,
+      "server_ids": [
+        17391
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        145816
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-layout-20261020\\server-17391_client-16506.png",
+      "size": 214,
+      "sha256": "B9440B50B13F47D48849E0D295EFBB95D50171C46A9DFA8A28EFB06E512D9C8C"
+    },
+    {
+      "requested_id": 17396,
+      "client_id": 16511,
+      "server_ids": [
+        17396
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        145819
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-layout-20261020\\server-17396_client-16511.png",
+      "size": 164,
+      "sha256": "3951C62220AD8E2FFEBAFF533E956CEC46F88F115070908723C9F662A356381C"
+    },
+    {
+      "requested_id": 17400,
+      "client_id": 16515,
+      "server_ids": [
+        17400
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        115105,
+        115106,
+        115107,
+        115108
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-layout-20261020\\server-17400_client-16515.png",
+      "size": 1254,
+      "sha256": "0E7B605C679AFE7A19B94B5761E583CFFBD9EADB924536002FE213154875D534"
+    },
+    {
+      "requested_id": 17418,
+      "client_id": 16533,
+      "server_ids": [
+        17418
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        152477
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-layout-20261020\\server-17418_client-16533.png",
+      "size": 505,
+      "sha256": "DB6F287BB5B4D86AE04F7111BCECEDA68F725F9FDDAA25BD2630C79D3402D062"
+    },
+    {
+      "requested_id": 17437,
+      "client_id": 16552,
+      "server_ids": [
+        17437
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 2,
+      "pattern_y": 2,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        115185,
+        115186,
+        115187,
+        115188
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-layout-20261020\\server-17437_client-16552.png",
+      "size": 547,
+      "sha256": "4D136A4996BBD5B419D76D5152BBD5B3DC7F4FB4E5265C27986A632EE069B6B0"
+    },
+    {
+      "requested_id": 17441,
+      "client_id": 16556,
+      "server_ids": [
+        17441
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        115199,
+        0,
+        0,
+        0
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-layout-20261020\\server-17441_client-16556.png",
+      "size": 220,
+      "sha256": "882F1FB0C0B1CA737BAAAE1CC1216BFA81570450666B29D625BDC2E1BE2FB612"
+    },
+    {
+      "requested_id": 17444,
+      "client_id": 16559,
+      "server_ids": [
+        17444
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        115204,
+        115205,
+        0,
+        0
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-layout-20261020\\server-17444_client-16559.png",
+      "size": 224,
+      "sha256": "CA43DBD7B5CB1A6706F9A9F3D35E2ECDF8CEFEE0C51C6B2C5A5CD26C95D8F0B8"
+    },
+    {
+      "requested_id": 17960,
+      "client_id": 17075,
+      "server_ids": [
+        17960
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        171179,
+        171180,
+        171181,
+        0
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-layout-20261020\\server-17960_client-17075.png",
+      "size": 836,
+      "sha256": "A2A4C6AB68756B24D023EB66E3A8E2762FDBE8063C5B02B3AD70AC19EF885702"
+    },
+    {
+      "requested_id": 17962,
+      "client_id": 17077,
+      "server_ids": [
+        17962
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        171177,
+        0,
+        0,
+        0
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-layout-20261020\\server-17962_client-17077.png",
+      "size": 839,
+      "sha256": "4EB0514CCEF54B6F2EF2A3A71E55E5243E08085D472664BD204F77235E6D8771"
+    },
+    {
+      "requested_id": 17972,
+      "client_id": 17087,
+      "server_ids": [
+        17972
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        117064,
+        117065,
+        117066,
+        0
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-layout-20261020\\server-17972_client-17087.png",
+      "size": 3041,
+      "sha256": "C9B87B0BC927F62834A68FA454E403CA9BF47C1366B6F64EE775BC68577DBC69"
+    },
+    {
+      "requested_id": 17973,
+      "client_id": 17088,
+      "server_ids": [
+        17973
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        117067,
+        0,
+        117068,
+        0
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-layout-20261020\\server-17973_client-17088.png",
+      "size": 2363,
+      "sha256": "088F6F2910086F21D4B5637C97566475DB09410EDCAABEC7D56BBD6438D239EC"
+    },
+    {
+      "requested_id": 17975,
+      "client_id": 17090,
+      "server_ids": [
+        17975
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        117073,
+        117074,
+        0,
+        0
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-layout-20261020\\server-17975_client-17090.png",
+      "size": 2148,
+      "sha256": "3D827700DA9AA34E46BD40A2FF1163193B9D14E5C5CF710BF88A2AFF993815C8"
+    },
+    {
+      "requested_id": 17977,
+      "client_id": 17092,
+      "server_ids": [
+        17977
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        117079,
+        117080,
+        117081,
+        117082
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-layout-20261020\\server-17977_client-17092.png",
+      "size": 2529,
+      "sha256": "D74F54229DACA1EB7691E4D2086091D509E8985ECC76518BF7A3ABB7943CEA5F"
+    },
+    {
+      "requested_id": 17978,
+      "client_id": 17093,
+      "server_ids": [
+        17978
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        117083,
+        117084,
+        117085,
+        117086
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-layout-20261020\\server-17978_client-17093.png",
+      "size": 2119,
+      "sha256": "1C53B20404FB697AF8D26269521175C7B4A5CDC9E6A6B2E76E5F2DE745AFC2EA"
+    },
+    {
+      "requested_id": 18006,
+      "client_id": 17121,
+      "server_ids": [
+        18006
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        116493
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-layout-20261020\\server-18006_client-17121.png",
+      "size": 225,
+      "sha256": "2A7B1CCD72D85C308F45D8A2E9F4B6FC9AB0EA7DB02D428FCE702B7714D1A468"
+    },
+    {
+      "requested_id": 18007,
+      "client_id": 17122,
+      "server_ids": [
+        18007
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        116494
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-layout-20261020\\server-18007_client-17122.png",
+      "size": 240,
+      "sha256": "CF01A404BF2959BCC00818608738B7D068FFC86FC6AB4E5AC1E046FA94631BAC"
+    },
+    {
+      "requested_id": 18008,
+      "client_id": 17123,
+      "server_ids": [
+        18008
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        116495
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-layout-20261020\\server-18008_client-17123.png",
+      "size": 354,
+      "sha256": "3D450B6D2515605E8D28A4B3E094A6DDDD9BF0F9D598CC15770EE02AB344B728"
+    },
+    {
+      "requested_id": 18009,
+      "client_id": 17124,
+      "server_ids": [
+        18009
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        116496
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-layout-20261020\\server-18009_client-17124.png",
+      "size": 224,
+      "sha256": "A9A7A471E5A969F53A3347A5381BD23AF5ED471068719D35B764303FE65144B7"
+    },
+    {
+      "requested_id": 18010,
+      "client_id": 17125,
+      "server_ids": [
+        18010
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        71917
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-layout-20261020\\server-18010_client-17125.png",
+      "size": 997,
+      "sha256": "E9B628434D64C74D9C85E00C4E71380D43F4548E34526EC1AE1E82E0A8C2BC57"
+    },
+    {
+      "requested_id": 18015,
+      "client_id": 17130,
+      "server_ids": [
+        18015
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        116501
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-layout-20261020\\server-18015_client-17130.png",
+      "size": 162,
+      "sha256": "200EEAFB9EF2B4767FCC46518418BED3D9DC8966DAA37437141C15FB257BF48E"
+    },
+    {
+      "requested_id": 18016,
+      "client_id": 17131,
+      "server_ids": [
+        18016
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        116502
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-layout-20261020\\server-18016_client-17131.png",
+      "size": 175,
+      "sha256": "7BB0A6FC75AC77C959E5B25A0B92A8615F9A0FF182FBF32069C75AF6120F6B77"
+    },
+    {
+      "requested_id": 18017,
+      "client_id": 17132,
+      "server_ids": [
+        18017
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        116503
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-layout-20261020\\server-18017_client-17132.png",
+      "size": 176,
+      "sha256": "C5BEF344F534DD553E0AC80182D5C132F9D8BC447D06D00B1D85EDB55572C9A7"
+    },
+    {
+      "requested_id": 18018,
+      "client_id": 17133,
+      "server_ids": [
+        18018
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        116504
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-layout-20261020\\server-18018_client-17133.png",
+      "size": 166,
+      "sha256": "04B57F765F7B59186F9B7AFEBDE7C4BCFAA13149A159FEA24D6F1CF18D634B30"
+    },
+    {
+      "requested_id": 18048,
+      "client_id": 17163,
+      "server_ids": [
+        18048
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        0
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-layout-20261020\\server-18048_client-17163.png",
+      "size": 83,
+      "sha256": "BA04F531DF0C7A12124750D521ADD77C55B16A6432D653C5559C16680DBD9F50"
+    },
+    {
+      "requested_id": 18181,
+      "client_id": 17296,
+      "server_ids": [
+        18181
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        117055
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-layout-20261020\\server-18181_client-17296.png",
+      "size": 895,
+      "sha256": "2CD4AF58E877A921F2A004AE6AB406F2D5639F76059B07C780109A895E31E87C"
+    },
+    {
+      "requested_id": 18235,
+      "client_id": 17350,
+      "server_ids": [
+        18235
+      ],
+      "name": "Sand",
+      "group_index": 0,
+      "width": 192,
+      "height": 192,
+      "layers": 1,
+      "pattern_x": 6,
+      "pattern_y": 6,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        117434,
+        117435,
+        117436,
+        117437,
+        117438,
+        117439,
+        117440,
+        117441,
+        117442,
+        117443,
+        117444,
+        117445,
+        117446,
+        117447,
+        117448,
+        117449,
+        117450,
+        117451,
+        117452,
+        117453,
+        117454,
+        117455,
+        117456,
+        117457,
+        117458,
+        117459,
+        117460,
+        117461,
+        117462,
+        117463,
+        117464,
+        117465,
+        117466,
+        117467,
+        117468,
+        117469
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-layout-20261020\\server-18235_client-17350_sand.png",
+      "size": 80321,
+      "sha256": "49E0328D6CE9D01632C48660744E17BEF22B1D6724BACCBCAC7C81BF184E369F"
+    },
+    {
+      "requested_id": 19425,
+      "client_id": 18540,
+      "server_ids": [
+        19425
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        131781,
+        131782,
+        131783,
+        125959
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-layout-20261020\\server-19425_client-18540.png",
+      "size": 409,
+      "sha256": "EC4F17C023ADA6066DA3F34047A2626CBA2DF76BA5955C6DE4ED1371815669DE"
+    },
+    {
+      "requested_id": 19428,
+      "client_id": 18543,
+      "server_ids": [
+        19428
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        131772,
+        131768,
+        131773,
+        131774
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-layout-20261020\\server-19428_client-18543.png",
+      "size": 948,
+      "sha256": "6ABE32A90BACA25B90A2C107EE8091C73BF8C347B35F5889A2AE6EF57A71A3D2"
+    },
+    {
+      "requested_id": 19429,
+      "client_id": 18544,
+      "server_ids": [
+        19429
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        131771,
+        125962,
+        131769,
+        125963
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-layout-20261020\\server-19429_client-18544.png",
+      "size": 1063,
+      "sha256": "EEA88F46DD6A9686DB1C30C1AFE5F697C29F7B2FA044102218D3F4961E872136"
+    },
+    {
+      "requested_id": 19431,
+      "client_id": 18546,
+      "server_ids": [
+        19431
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        131765,
+        131760,
+        128864,
+        131766
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-layout-20261020\\server-19431_client-18546.png",
+      "size": 960,
+      "sha256": "5041AEC45DDAB73E52277021087EB46430F30DEB643C769FAEC873C02DBB9BC4"
+    },
+    {
+      "requested_id": 19432,
+      "client_id": 18547,
+      "server_ids": [
+        19432
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        131763,
+        125964,
+        131761,
+        131764
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-layout-20261020\\server-19432_client-18547.png",
+      "size": 1092,
+      "sha256": "5C10CF6E6E223C0D023C957D7F0112F5D4EE8ADD305FB44A7DFBF94E7D18A948"
+    },
+    {
+      "requested_id": 19434,
+      "client_id": 18549,
+      "server_ids": [
+        19434
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        131757,
+        131752,
+        128863,
+        131758
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-layout-20261020\\server-19434_client-18549.png",
+      "size": 958,
+      "sha256": "4686294721F0A3DAAFE94580AA6A39E424B64975C84E171771D7B61179EE23DB"
+    },
+    {
+      "requested_id": 19435,
+      "client_id": 18550,
+      "server_ids": [
+        19435
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        131755,
+        125965,
+        131753,
+        131756
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-layout-20261020\\server-19435_client-18550.png",
+      "size": 1081,
+      "sha256": "4D2F79FA6B0C7E93100762D71BA90E405CE34B636013967137938FA34CB98D3D"
+    },
+    {
+      "requested_id": 19437,
+      "client_id": 18552,
+      "server_ids": [
+        19437
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        125966
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-layout-20261020\\server-19437_client-18552.png",
+      "size": 281,
+      "sha256": "AA8E72A1F48C55D695DFC4257202A8C284D6E8622FF1E0D822F56BDB3651EEE9"
+    },
+    {
+      "requested_id": 19438,
+      "client_id": 18553,
+      "server_ids": [
+        19438
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        125967
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-layout-20261020\\server-19438_client-18553.png",
+      "size": 291,
+      "sha256": "670D39E893CFD2160F701C37606C87E7AC10F98967AFE7B7287E1684F915D180"
+    },
+    {
+      "requested_id": 19439,
+      "client_id": 18554,
+      "server_ids": [
+        19439
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        125968,
+        125969
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-layout-20261020\\server-19439_client-18554.png",
+      "size": 659,
+      "sha256": "10AFD2D5BA721541912C378065C693C901E13F510675CF1615CE07831ECD3AB1"
+    },
+    {
+      "requested_id": 19440,
+      "client_id": 18555,
+      "server_ids": [
+        19440
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        125970,
+        125969
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-layout-20261020\\server-19440_client-18555.png",
+      "size": 710,
+      "sha256": "714DAC7222452CB85F2324FA764D1F02B959A5E38FAA5CA88397A816633DDDDC"
+    },
+    {
+      "requested_id": 19456,
+      "client_id": 18571,
+      "server_ids": [
+        19456
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        139008,
+        126001,
+        128916,
+        126000
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-layout-20261020\\server-19456_client-18571.png",
+      "size": 618,
+      "sha256": "03FB581E6CE1EA2587AC04733E33E59910C29ED141103149AFB432BC5F226A1A"
+    },
+    {
+      "requested_id": 19458,
+      "client_id": 18573,
+      "server_ids": [
+        19458
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        139006,
+        126004,
+        128916,
+        126003
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-layout-20261020\\server-19458_client-18573.png",
+      "size": 1016,
+      "sha256": "E734417B528CDB26F17D648ED7A134444B9576201C53EF994E6AA1BAF31773D4"
+    },
+    {
+      "requested_id": 19460,
+      "client_id": 18575,
+      "server_ids": [
+        19460
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        128914,
+        126001,
+        128912,
+        126005
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-layout-20261020\\server-19460_client-18575.png",
+      "size": 1115,
+      "sha256": "FC4EC65D5C05EC080991A3DB2178309401802452FB10AD14A6B70C2CC0A47531"
+    },
+    {
+      "requested_id": 19462,
+      "client_id": 18577,
+      "server_ids": [
+        19462
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        139004,
+        126004,
+        128912,
+        126006
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-layout-20261020\\server-19462_client-18577.png",
+      "size": 1471,
+      "sha256": "B827C96B51492EE70D3B8F297F8AF41D7AB51C3B11F7B009D38C01AD4CA6143B"
+    },
+    {
+      "requested_id": 19505,
+      "client_id": 18620,
+      "server_ids": [
+        19505
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 128,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 2,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        128928,
+        126093,
+        128931,
+        126003,
+        128927,
+        126094,
+        128925,
+        126003
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-layout-20261020\\server-19505_client-18620.png",
+      "size": 634,
+      "sha256": "6E50BD76B373107138E71A0A120DBC2918C448C08E1C73D70A3E7D881F674C50"
+    },
+    {
+      "requested_id": 19529,
+      "client_id": 18644,
+      "server_ids": [
+        19529
+      ],
+      "name": "Day Window",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        139048,
+        139049,
+        139045,
+        126003
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-layout-20261020\\server-19529_client-18644_day-window.png",
+      "size": 1170,
+      "sha256": "BCC91907CD029BB1AD5F4111995195C5CE3503B39C9291C75AD299C42D5CF701"
+    },
+    {
+      "requested_id": 20359,
+      "client_id": 19474,
+      "server_ids": [
+        20359
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 2,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        128022,
+        128023
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-layout-20261020\\server-20359_client-19474.png",
+      "size": 520,
+      "sha256": "6F898ADD2902254FF13989A5D12963BA1E2CF7186EE0B8D0D6D58C6E1B6C7553"
+    },
+    {
+      "requested_id": 20360,
+      "client_id": 19475,
+      "server_ids": [
+        20360
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 2,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        128024,
+        128025
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-layout-20261020\\server-20360_client-19475.png",
+      "size": 640,
+      "sha256": "35E98DF3423706F8FF6DDB4E68225A6C59D84D96B6B2A863A4D5F9B68D1B4059"
+    },
+    {
+      "requested_id": 20361,
+      "client_id": 19476,
+      "server_ids": [
+        20361
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        128026
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-layout-20261020\\server-20361_client-19476.png",
+      "size": 248,
+      "sha256": "853ECE0DC9725B4B8CFBDF42976C861F50E559D23B57CC80F293CFAD947916C1"
+    },
+    {
+      "requested_id": 20362,
+      "client_id": 19477,
+      "server_ids": [
+        20362
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        128027
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-layout-20261020\\server-20362_client-19477.png",
+      "size": 241,
+      "sha256": "89EF73A76934C71C7B9C08D880664D544B58D9757F315A1DBD40DE5E8B28AA4C"
+    },
+    {
+      "requested_id": 20363,
+      "client_id": 19478,
+      "server_ids": [
+        20363
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        128028
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-layout-20261020\\server-20363_client-19478.png",
+      "size": 260,
+      "sha256": "006F919527785CEF0223543B1180D370308B775537062DB79643B5167BA9C6E8"
+    },
+    {
+      "requested_id": 20365,
+      "client_id": 19480,
+      "server_ids": [
+        20365
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        128030
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-layout-20261020\\server-20365_client-19480.png",
+      "size": 226,
+      "sha256": "5EDA05E0A2EB43460BC7BD4A3070E376CE80575228978D41903CDD9097FD2C24"
+    },
+    {
+      "requested_id": 20366,
+      "client_id": 19481,
+      "server_ids": [
+        20366
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        128031
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-layout-20261020\\server-20366_client-19481.png",
+      "size": 179,
+      "sha256": "929FDBCFE9E1160E9190BBCFB82EC375AAD77542E8818B5CE5DF64A908CB97B5"
+    },
+    {
+      "requested_id": 20480,
+      "client_id": 19595,
+      "server_ids": [
+        20480
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        128338,
+        128339,
+        128340,
+        128341
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-layout-20261020\\server-20480_client-19595.png",
+      "size": 872,
+      "sha256": "2B4DC1E3C8C4E61773A9BFF59CD9C12005C34DB0A4C231C6C00CCD81A74CC361"
+    },
+    {
+      "requested_id": 20582,
+      "client_id": 19697,
+      "server_ids": [
+        20582
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 96,
+      "height": 96,
+      "layers": 1,
+      "pattern_x": 3,
+      "pattern_y": 3,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        128585,
+        128586,
+        128587,
+        128585,
+        128586,
+        128587,
+        128585,
+        128586,
+        128587
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-layout-20261020\\server-20582_client-19697.png",
+      "size": 1408,
+      "sha256": "3A08542210FCCC8A6E73FB3E96955B9C41E9AB39ECB6E8618EDC27B8E9400162"
+    },
+    {
+      "requested_id": 20588,
+      "client_id": 19703,
+      "server_ids": [
+        20588
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 2,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        128733,
+        128734
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-layout-20261020\\server-20588_client-19703.png",
+      "size": 184,
+      "sha256": "0EF1B36CE7DF0059926834B6097BEDC03D02FB31A7C134E1DA0D443F0134355A"
+    },
+    {
+      "requested_id": 20589,
+      "client_id": 19704,
+      "server_ids": [
+        20589
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 2,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        128735,
+        128736
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-layout-20261020\\server-20589_client-19704.png",
+      "size": 182,
+      "sha256": "3521AB7773A414DD38C867A8B443EB046A42657F454555BD6B10E579A439A6FB"
+    },
+    {
+      "requested_id": 20952,
+      "client_id": 20067,
+      "server_ids": [
+        20952
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 512,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 8,
+      "sprite_ids": [
+        134168,
+        134169,
+        134170,
+        134171,
+        134172,
+        134173,
+        134174,
+        134171,
+        134175,
+        134176,
+        134177,
+        134171,
+        134178,
+        134179,
+        134180,
+        134171,
+        134181,
+        134176,
+        134182,
+        134171,
+        134183,
+        134184,
+        134185,
+        134171,
+        134186,
+        134179,
+        134187,
+        134171,
+        134188,
+        134176,
+        134189,
+        134171
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-layout-20261020\\server-20952_client-20067.png",
+      "size": 5297,
+      "sha256": "0A1E0CAE605E5FA5092858D5A780BCE66C52BD73AABB3571D5A4BBDA3CA4616F"
+    },
+    {
+      "requested_id": 21337,
+      "client_id": 20452,
+      "server_ids": [
+        21337
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        149292,
+        0,
+        0,
+        0
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-layout-20261020\\server-21337_client-20452.png",
+      "size": 446,
+      "sha256": "4E3203450B67EADE5085D5D0F3D4B08320B02EBC81D316D1AE5EAA106557FB40"
+    },
+    {
+      "requested_id": 21338,
+      "client_id": 20453,
+      "server_ids": [
+        21338
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        149290,
+        149291,
+        0,
+        0
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-layout-20261020\\server-21338_client-20453.png",
+      "size": 348,
+      "sha256": "AA2003AC243CBDC295E8321D3364A41ABE8D4C49E5C2535BAB25401767C7883B"
+    },
+    {
+      "requested_id": 21339,
+      "client_id": 20454,
+      "server_ids": [
+        21339
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        137615,
+        0,
+        137616,
+        0
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-layout-20261020\\server-21339_client-20454.png",
+      "size": 316,
+      "sha256": "CEAAE704C7567E28CE2BE27646F9BAFDC99E56EBF363665066CBCDD487A98FCC"
+    },
+    {
+      "requested_id": 21415,
+      "client_id": 20530,
+      "server_ids": [
+        21415
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 2,
+      "pattern_y": 2,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        137801,
+        137802,
+        137803,
+        137804
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-layout-20261020\\server-21415_client-20530.png",
+      "size": 7262,
+      "sha256": "974D3FAC61740928A32CD73DA2E4BBD2C41E4603E93B6CA691561F827A515FCD"
+    },
+    {
+      "requested_id": 21520,
+      "client_id": 20635,
+      "server_ids": [
+        21520
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        138255,
+        138256,
+        0,
+        0
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-layout-20261020\\server-21520_client-20635.png",
+      "size": 1863,
+      "sha256": "6059958893C1289384B8FBB2F3F9AA2D97691DECA172B450D032B33901896964"
+    },
+    {
+      "requested_id": 21521,
+      "client_id": 20636,
+      "server_ids": [
+        21521
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        138257,
+        0,
+        138258,
+        0
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-layout-20261020\\server-21521_client-20636.png",
+      "size": 1970,
+      "sha256": "DBD957A98A12D8AF5DE532704307E2B1ECAFF7F9FB1C7165B01EB5EBEF6E5934"
+    },
+    {
+      "requested_id": 21523,
+      "client_id": 20638,
+      "server_ids": [
+        21523
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        138262,
+        138263,
+        0,
+        0
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-layout-20261020\\server-21523_client-20638.png",
+      "size": 701,
+      "sha256": "D21A13952E214F0F1A84FAF9313500320CCBEF2195C5775E76E856896740EC12"
+    },
+    {
+      "requested_id": 21524,
+      "client_id": 20639,
+      "server_ids": [
+        21524
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        138264,
+        0,
+        138265,
+        0
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-layout-20261020\\server-21524_client-20639.png",
+      "size": 693,
+      "sha256": "B87269905ECA9A9B059A6AFF40A6B1EADA6FF8692C7FBC944B6C1AB94D2B5524"
+    },
+    {
+      "requested_id": 21533,
+      "client_id": 20648,
+      "server_ids": [
+        21533
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        138283
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-layout-20261020\\server-21533_client-20648.png",
+      "size": 568,
+      "sha256": "4336BE5B919DB49F66DB33643BC2EE86534A3935C0817959AF004974488AA792"
+    },
+    {
+      "requested_id": 21534,
+      "client_id": 20649,
+      "server_ids": [
+        21534
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        138284
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-layout-20261020\\server-21534_client-20649.png",
+      "size": 598,
+      "sha256": "95FB4A9A3D0FFF610EE76BC1E0CA7B8D5BE6F522B655A738A2295BA097FFFFD8"
+    },
+    {
+      "requested_id": 21538,
+      "client_id": 20653,
+      "server_ids": [
+        21538
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        138289,
+        0,
+        138290,
+        0
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-layout-20261020\\server-21538_client-20653.png",
+      "size": 357,
+      "sha256": "3B090F5317B9F343230C974796542437CCBF304981A460A2E808C8BC57F6797F"
+    },
+    {
+      "requested_id": 21636,
+      "client_id": 20751,
+      "server_ids": [
+        21636
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        138469,
+        138470,
+        138471,
+        138472
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-layout-20261020\\server-21636_client-20751.png",
+      "size": 966,
+      "sha256": "96C17F2C6CC70F8D729BDC0E996B32E493F51426F2ECE94E4297BE0225383F3C"
+    },
+    {
+      "requested_id": 21681,
+      "client_id": 20796,
+      "server_ids": [
+        21681
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 96,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        138594,
+        138595,
+        138596,
+        0,
+        0,
+        0
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-layout-20261020\\server-21681_client-20796.png",
+      "size": 2978,
+      "sha256": "7D95406E15CAF9BA13FD55A68548FDBD1FAAFE87579C654798B133A23365D9E2"
+    },
+    {
+      "requested_id": 21698,
+      "client_id": 20813,
+      "server_ids": [
+        21698
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 320,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 5,
+      "sprite_ids": [
+        138643,
+        138644,
+        138645,
+        138636,
+        138646,
+        138647,
+        138648,
+        138636,
+        138649,
+        138650,
+        138651,
+        138636,
+        138652,
+        138653,
+        138654,
+        138636,
+        138655,
+        138656,
+        138657,
+        138636
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-layout-20261020\\server-21698_client-20813.png",
+      "size": 3952,
+      "sha256": "9A15225A113C2B9B69F12149E0070EB44A2684F70D3CAB3E150EC4E02FA545F4"
+    },
+    {
+      "requested_id": 21702,
+      "client_id": 20817,
+      "server_ids": [
+        21702
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 256,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 4,
+      "sprite_ids": [
+        138673,
+        138674,
+        138677,
+        138674,
+        138678,
+        138674,
+        138679,
+        138674
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-layout-20261020\\server-21702_client-20817.png",
+      "size": 890,
+      "sha256": "1E5578E7E053C219EAA2805B286AEE58E8BFDEB4AF6744FEC24D0B5848D7818E"
+    },
+    {
+      "requested_id": 21706,
+      "client_id": 20821,
+      "server_ids": [
+        21706
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        138691,
+        138692,
+        138685,
+        138686
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-layout-20261020\\server-21706_client-20821.png",
+      "size": 967,
+      "sha256": "C6E19777544126D9DF8F772DACC10A41E2799D39DE45B14D4BAA32D4244F8366"
+    },
+    {
+      "requested_id": 21709,
+      "client_id": 20824,
+      "server_ids": [
+        21709
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        138699,
+        138700,
+        138701,
+        138702
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-layout-20261020\\server-21709_client-20824.png",
+      "size": 1215,
+      "sha256": "ED40D82462DD40AF7BA54A6D9A55E350345B26AA712EC5175DEA9FECE9C79C2D"
+    },
+    {
+      "requested_id": 21710,
+      "client_id": 20825,
+      "server_ids": [
+        21710
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        138703,
+        138704,
+        138705,
+        138706
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-layout-20261020\\server-21710_client-20825.png",
+      "size": 550,
+      "sha256": "C756203F0479330289080F974D22F031B4013C2B1BE980BEF818C692B3CFAADC"
+    },
+    {
+      "requested_id": 21716,
+      "client_id": 20831,
+      "server_ids": [
+        21716
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 512,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 8,
+      "sprite_ids": [
+        138723,
+        138716,
+        138717,
+        138718,
+        138724,
+        138725,
+        138717,
+        138726,
+        138727,
+        138728,
+        138717,
+        138729,
+        138730,
+        138731,
+        138717,
+        138732,
+        138733,
+        138734,
+        138717,
+        138726,
+        138735,
+        138736,
+        138717,
+        138718,
+        138737,
+        138738,
+        138717,
+        138739,
+        138740,
+        138741,
+        138717,
+        138742
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-layout-20261020\\server-21716_client-20831.png",
+      "size": 2260,
+      "sha256": "E8598A246EBB46CD35F9960074B50A4670AD0FDC94CFB084AA81B52151494A22"
+    },
+    {
+      "requested_id": 21719,
+      "client_id": 20834,
+      "server_ids": [
+        21719
+      ],
+      "name": "Stairs",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        138769,
+        138770,
+        138771,
+        138772
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-layout-20261020\\server-21719_client-20834_stairs.png",
+      "size": 1166,
+      "sha256": "E86DF8D2813FCDDC27B6D793F22ACD6AF3D9BF1FD39399B20FA11DCE88457AC6"
+    },
+    {
+      "requested_id": 22246,
+      "client_id": 21361,
+      "server_ids": [
+        22246
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        141928,
+        141919
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-layout-20261020\\server-22246_client-21361.png",
+      "size": 694,
+      "sha256": "88D775AA6E859AF0BECE9A852270E72A52FDBFB4200B7BBBAD302B0E95ED80C2"
+    },
+    {
+      "requested_id": 22248,
+      "client_id": 21363,
+      "server_ids": [
+        22248
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        141930,
+        141931,
+        141932,
+        0
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-layout-20261020\\server-22248_client-21363.png",
+      "size": 724,
+      "sha256": "841438F3EA3565F4761BC08643E037C4BBB748AE36A950D0948C3EB73F8DD0F0"
+    },
+    {
+      "requested_id": 22250,
+      "client_id": 21365,
+      "server_ids": [
+        22250
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        141935,
+        141936
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-layout-20261020\\server-22250_client-21365.png",
+      "size": 293,
+      "sha256": "1C442F397B614B301A39BE3BDD00BBD43E5DC362A0A936D8043F94CFF12B6C87"
+    },
+    {
+      "requested_id": 22251,
+      "client_id": 21366,
+      "server_ids": [
+        22251
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        141937,
+        141938
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-layout-20261020\\server-22251_client-21366.png",
+      "size": 415,
+      "sha256": "D5519D173DA7E82D7B9A7F4EA56FBC87753F72EB4B56A74C688DDACDFF66B627"
+    },
+    {
+      "requested_id": 23297,
+      "client_id": 22412,
+      "server_ids": [
+        23297
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        149775,
+        0,
+        149776,
+        149777
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-layout-20261020\\server-23297_client-22412.png",
+      "size": 359,
+      "sha256": "A8D20C83B2C28D8B41839942B521D0FFD3DED732292477A7CF1A6E9343826AF3"
+    },
+    {
+      "requested_id": 23527,
+      "client_id": 22642,
+      "server_ids": [
+        23527
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 96,
+      "height": 96,
+      "layers": 1,
+      "pattern_x": 3,
+      "pattern_y": 3,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        150214,
+        150215,
+        150216,
+        150217,
+        150218,
+        150219,
+        150220,
+        150221,
+        150222
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-layout-20261020\\server-23527_client-22642.png",
+      "size": 5269,
+      "sha256": "AB55E0E691DE3F28DD686E7EEE22F080C5A17259A279FBA144EBECEED704BD58"
+    },
+    {
+      "requested_id": 23528,
+      "client_id": 22643,
+      "server_ids": [
+        23528
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 96,
+      "height": 96,
+      "layers": 1,
+      "pattern_x": 3,
+      "pattern_y": 3,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        150223,
+        150224,
+        150225,
+        150226,
+        150227,
+        150228,
+        150229,
+        150230,
+        150231
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-layout-20261020\\server-23528_client-22643.png",
+      "size": 5274,
+      "sha256": "F36E3938394046187FA0503397093FCF84727BB34CD9961C1788C97EF762371F"
+    },
+    {
+      "requested_id": 25215,
+      "client_id": 24330,
+      "server_ids": [
+        25215
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        236432,
+        0,
+        236433,
+        0
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-layout-20261020\\server-25215_client-24330.png",
+      "size": 864,
+      "sha256": "CFEA6A11CF9FD91BE587CABDDEE6941F4ED1BD60C4357FD034CCA5BC499C6E35"
+    },
+    {
+      "requested_id": 25216,
+      "client_id": 24331,
+      "server_ids": [
+        25216
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        236434,
+        236435,
+        236436,
+        236437
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-layout-20261020\\server-25216_client-24331.png",
+      "size": 1120,
+      "sha256": "308D8BD061ED32F040F869092961763762B63A081BA2F5B3503FD2942AA3C43E"
+    }
+  ],
+  "sources": {
+    "dat": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.dat",
+      "sha256": "19C713D6620051995E00CA2BE826F68E8A6387EAB2BD3EE516648CC7E07AF846"
+    },
+    "spr": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.spr",
+      "sha256": "2A44164EE33AA93B54F7188557003E9FC6776719387F193DA6BBF4D391390DE6"
+    }
+  },
+  "passed": true
+}

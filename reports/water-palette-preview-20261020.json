@@ -1,0 +1,52 @@
+{
+  "operation": "review_only",
+  "approved": false,
+  "canonical_changed": false,
+  "output": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\water-review-20261020\\palette-proposal.png",
+  "records": [
+    {
+      "server_id": 4608,
+      "classification": "blocked",
+      "source": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\water-review-20261020\\server-4608_client-4597.png",
+      "source_sha256": "2fd5f3b9af6efcde352adef88f2d79d3c9f316bba71f3a4798a0501aa2fa3952",
+      "preview_frame": 0,
+      "alpha_preserved": true
+    },
+    {
+      "server_id": 4825,
+      "classification": "walkable",
+      "source": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\water-review-20261020\\server-4825_client-4814.png",
+      "source_sha256": "2fd5f3b9af6efcde352adef88f2d79d3c9f316bba71f3a4798a0501aa2fa3952",
+      "preview_frame": 0,
+      "alpha_preserved": true
+    },
+    {
+      "server_id": 21112,
+      "classification": "walkable",
+      "source": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\water-review-20261020\\server-21112_client-20227_water.png",
+      "source_sha256": "341d78949aee600cfd9910c0343f2b1258597334afe958cd7e937526f7cc3b0f",
+      "preview_frame": 0,
+      "alpha_preserved": true
+    },
+    {
+      "server_id": 25162,
+      "classification": "blocked",
+      "source": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\water-review-20261020\\server-25162_client-24277_water.png",
+      "source_sha256": "8dfba7fd6892bb0fc16b2ceef7f97a6de217cf429b8cd49c9eecec064efc4357",
+      "preview_frame": 0,
+      "alpha_preserved": true
+    }
+  ],
+  "method": "HSV water-color mapping; neutral foam and alpha unchanged; nearest-neighbor display only",
+  "excluded_from_surface_proposal": [
+    20869,
+    20870,
+    15483,
+    20731
+  ],
+  "notes": [
+    "First-frame representative proposal, not an import-ready sheet.",
+    "All variants, patterns, frames and shoreline colors need review before import.",
+    "Existing import-items does not support multiple patterns; tooling must be extended and tested first."
+  ]
+}

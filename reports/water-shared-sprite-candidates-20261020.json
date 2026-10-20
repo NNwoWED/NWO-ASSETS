@@ -1,0 +1,78 @@
+{
+  "water_sprites": 1307,
+  "extra_ground_candidates": [
+    {
+      "server_id": 25163,
+      "client_id": 24278,
+      "shared_sprites": 42,
+      "total_unique_sprites": 42
+    },
+    {
+      "server_id": 25164,
+      "client_id": 24279,
+      "shared_sprites": 42,
+      "total_unique_sprites": 42
+    },
+    {
+      "server_id": 25165,
+      "client_id": 24280,
+      "shared_sprites": 42,
+      "total_unique_sprites": 42
+    },
+    {
+      "server_id": 25166,
+      "client_id": 24281,
+      "shared_sprites": 42,
+      "total_unique_sprites": 42
+    },
+    {
+      "server_id": 25167,
+      "client_id": 24282,
+      "shared_sprites": 14,
+      "total_unique_sprites": 14
+    },
+    {
+      "server_id": 25168,
+      "client_id": 24283,
+      "shared_sprites": 14,
+      "total_unique_sprites": 14
+    },
+    {
+      "server_id": 25169,
+      "client_id": 24284,
+      "shared_sprites": 14,
+      "total_unique_sprites": 14
+    },
+    {
+      "server_id": 25170,
+      "client_id": 24285,
+      "shared_sprites": 14,
+      "total_unique_sprites": 14
+    },
+    {
+      "server_id": 25171,
+      "client_id": 24286,
+      "shared_sprites": 14,
+      "total_unique_sprites": 14
+    },
+    {
+      "server_id": 25172,
+      "client_id": 24287,
+      "shared_sprites": 14,
+      "total_unique_sprites": 14
+    },
+    {
+      "server_id": 25173,
+      "client_id": 24288,
+      "shared_sprites": 14,
+      "total_unique_sprites": 14
+    },
+    {
+      "server_id": 25174,
+      "client_id": 24289,
+      "shared_sprites": 14,
+      "total_unique_sprites": 14
+    }
+  ],
+  "canonical_changed": false
+}

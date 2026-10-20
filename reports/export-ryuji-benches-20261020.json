@@ -1,0 +1,139 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "profile": {
+    "key": "tibia-860-v2-custom-extended",
+    "client_version": 860,
+    "label": "Tibia 8.60 v2 customizado com features OTFI",
+    "dat_signature": "0x4C2C7993",
+    "spr_signature": "0x4C220594",
+    "metadata_reader": 5,
+    "otb_version_hint": "8.60"
+  },
+  "category": "items",
+  "id_kind": "server",
+  "requested_ids": [
+    20951,
+    20952
+  ],
+  "output_dir": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-review-20261020",
+  "exported_count": 2,
+  "exported": [
+    {
+      "requested_id": 20951,
+      "client_id": 20066,
+      "server_ids": [
+        20951
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 512,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 8,
+      "sprite_ids": [
+        0,
+        134152,
+        0,
+        134153,
+        0,
+        0,
+        0,
+        134154,
+        0,
+        134155,
+        0,
+        134156,
+        0,
+        134157,
+        0,
+        134158,
+        0,
+        134159,
+        134160,
+        134161,
+        0,
+        134162,
+        134163,
+        134164,
+        0,
+        0,
+        134165,
+        134166,
+        0,
+        0,
+        0,
+        134167
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-review-20261020\\server-20951_client-20066.png",
+      "size": 830,
+      "sha256": "98915C589B096B5EAEEF9E13CE534110B4059E9B0A1A9900241A692EC405D4BA"
+    },
+    {
+      "requested_id": 20952,
+      "client_id": 20067,
+      "server_ids": [
+        20952
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 512,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 8,
+      "sprite_ids": [
+        134168,
+        134169,
+        134170,
+        134171,
+        134172,
+        134173,
+        134174,
+        134171,
+        134175,
+        134176,
+        134177,
+        134171,
+        134178,
+        134179,
+        134180,
+        134171,
+        134181,
+        134176,
+        134182,
+        134171,
+        134183,
+        134184,
+        134185,
+        134171,
+        134186,
+        134179,
+        134187,
+        134171,
+        134188,
+        134176,
+        134189,
+        134171
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-review-20261020\\server-20952_client-20067.png",
+      "size": 5297,
+      "sha256": "0A1E0CAE605E5FA5092858D5A780BCE66C52BD73AABB3571D5A4BBDA3CA4616F"
+    }
+  ],
+  "sources": {
+    "dat": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.dat",
+      "sha256": "19C713D6620051995E00CA2BE826F68E8A6387EAB2BD3EE516648CC7E07AF846"
+    },
+    "spr": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.spr",
+      "sha256": "2A44164EE33AA93B54F7188557003E9FC6776719387F193DA6BBF4D391390DE6"
+    }
+  },
+  "passed": true
+}

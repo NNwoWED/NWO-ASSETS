@@ -51,6 +51,10 @@ def _runtime_paths(
         workspace / "Server-Data-Nwo" / "data" / "items",
         "diretório de items do servidor",
     )
+    server_world = _require_directory(
+        workspace / "Server-Data-Nwo" / "data" / "world",
+        "diretorio world do servidor",
+    )
     rme_items = _require_directory(
         workspace / "RME 5.0" / "Editor" / "data" / "860",
         "diretório de items do RME",
@@ -93,6 +97,7 @@ def _runtime_paths(
     sources = {
         "items.otb": layout["items"] / "items.otb",
         "items.xml": layout["items"] / "items.xml",
+        "server/mapanovo.otbm": layout["world"] / "mapanovo.otbm",
         "rme/items.otb": layout["items"] / "items.otb",
         "rme/items.xml": layout["items"] / "items.xml",
         "Tibia.dat": layout["860"] / "Tibia.dat",
@@ -117,6 +122,7 @@ def _runtime_paths(
     targets = {
         "items.otb": server_items / "items.otb",
         "items.xml": server_items / "items.xml",
+        "server/mapanovo.otbm": server_world / "mapanovo.otbm",
         "rme/items.otb": rme_items / "items.otb",
         "rme/items.xml": rme_items / "items.xml",
         "Tibia.dat": client_860 / "Tibia.dat",

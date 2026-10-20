@@ -16,7 +16,7 @@ import shutil
 import uuid
 import zipfile
 
-from .map_edit import (rewrite_map, inspect_map, iter_tile_records, rebase_tile, tile_record,
+from .map_edit import (rewrite_map, inspect_map, iter_tile_records, rebase_tile, tile_record, append_tile_items,
                        _mapped, _scan, _changes_hash)
 from .pipeline import validate_root
 from .versioning import create_version
@@ -92,7 +92,7 @@ def _write_journal(path,value):
         temporary.unlink(missing_ok=True)
 
 
-def _audit_changes(source,staged,changes,audit,*,cancel=None,progress=None):
+def _audit_changes(source,staged,changes,audit,*,cancel=None,progress=None,item_additions=None):
     """Stream exact before/after records, retaining offsets instead of tile data.
 
     Each old coordinate uses one packed integer key and one offset. No whole-map
@@ -100,6 +100,8 @@ def _audit_changes(source,staged,changes,audit,*,cancel=None,progress=None):
     Metadata hashing shares the same two scans instead of two additional passes.
     """
     old_offsets={}
+    item_additions={} if item_additions is None else item_additions
+    verified_additions=set()
     expected_non_null=sum(raw is not None for raw in changes.values())
     checked=0
     def tick(value,message):
@@ -110,12 +112,19 @@ def _audit_changes(source,staged,changes,audit,*,cancel=None,progress=None):
             if pos not in changes:return
             raw=changes[pos]
             before=tile_record(original,begin)
-            if before['protected'] and (raw is None or rebase_tile(before['raw'],*pos)!=rebase_tile(raw,*pos)):
+            if pos in item_additions:
+                expected=append_tile_items(rebase_tile(before['raw'],*pos),item_additions[pos])
+                if raw is None or rebase_tile(raw,*pos)!=expected:
+                    raise ValueError(f'Item append changed existing tile data: {pos}.')
+                verified_additions.add(pos)
+            elif before['protected'] and (raw is None or rebase_tile(before['raw'],*pos)!=rebase_tile(raw,*pos)):
                 raise ValueError(f'Tile protegido não pode ser sobrescrito: {pos}.')
             old_offsets[pos[0]|pos[1]<<16|pos[2]<<32]=begin
         source_report=_scan(original,cancel=cancel,on_tile=remember,collect_areas=False,
                             progress=lambda f,*_:tick(f*.45,'Auditando offsets e proteções da origem'))
         source_metadata=source_report['metadataHash']
+        if verified_additions!=set(item_additions):
+            raise ValueError('Item append requires existing source tiles for every declared position.')
         indexed=len(old_offsets)
         del source_report  # Release its potentially large TILE_AREA inventory now.
         with gzip.open(audit,'wt',encoding='utf-8') as output:
@@ -161,7 +170,8 @@ def _audit_changes(source,staged,changes,audit,*,cancel=None,progress=None):
 
 
 def publish_map(root,source,changes,*,expected_hash,source_hash,cancel=None,progress=None,before_replace=None,
-                journal_path=None,journal_context=None,history_source_hash=None,history_baseline_file=None):
+                journal_path=None,journal_context=None,history_source_hash=None,history_baseline_file=None,
+                item_additions=None):
     """Publish with an optional durable application recovery receipt.
 
     Journal schema 1 is prepared before the atomic map swap. ``context`` is an
@@ -176,7 +186,20 @@ def publish_map(root,source,changes,*,expected_hash,source_hash,cancel=None,prog
     ``sourceHash`` then identifies the batch input; ``historySourceHash`` and
     ``baselineFile`` identify the original timeline. Omitting both preserves the
     legacy full-draft/source-cache contract.
+
+    ``item_additions`` declares exact appended Server IDs for existing ordinary
+    or protection-zone tiles. The audit requires every old byte to survive;
+    other protected content and undeclared tile edits remain rejected.
     """
+    # Explicit additive edits preserve the entire old encoded subtree. They do
+    # not grant a general overwrite permission for protected tiles.
+    additions={}
+    if item_additions is not None:
+        for pos,ids in item_additions.items():
+            if pos not in changes or changes[pos] is None:
+                raise ValueError('Item append must name a non-null changed tile.')
+            additions[pos]=tuple(ids)
+            append_tile_items(changes[pos],additions[pos])  # Validate IDs/layout without writing.
     source_argument=Path(source)
     root=Path(root).resolve();canonical=root/'assets/world/mapanovo.otbm';source=source_argument.resolve()
     if canonical.is_symlink() or source_argument.is_symlink():raise ValueError('Mapas simbólicos não são permitidos.')
@@ -207,6 +230,8 @@ def publish_map(root,source,changes,*,expected_hash,source_hash,cancel=None,prog
     report={'passed':False,'committed':False,'runId':run_id,'sourceHash':source_hash,
             'expectedCanonicalHash':expected_hash,'changes':len(changes),'positions':[],
             'startedAt':datetime.now().astimezone().isoformat()}
+    if additions:
+        report['itemAdditions']=[{'position':list(pos),'serverIds':list(ids)} for pos,ids in additions.items()]
     if checkpoint_mode:report['historySourceHash']=history_source_hash
     version=None;replaced=False;written_hash=None;journal=None;journal_prepared=False
     def tick(value,message):
@@ -265,7 +290,7 @@ def publish_map(root,source,changes,*,expected_hash,source_hash,cancel=None,prog
         written_hash=output['sha256']
         audit=reports/('map-positions-'+run_id+'.jsonl.gz')
         audit_stats=_audit_changes(source,staged,changes,audit,cancel=cancel,
-                                 progress=lambda f,message:tick(.56+.10*f,message))
+                                 progress=lambda f,message:tick(.56+.10*f,message),item_additions=additions)
         report['positionReport']=str(audit)
         report['audit']=audit_stats
         # Metadata (towns, spawns filenames, unknown nodes) cannot be modified.
@@ -276,7 +301,9 @@ def publish_map(root,source,changes,*,expected_hash,source_hash,cancel=None,prog
         if _hash(source)!=source_hash:raise ValueError('A baseline de histórico mudou durante a preparação.')
         if _hash(cache)!=history_source_hash:raise ValueError('A baseline original mudou durante a preparação.')
         if _changes_hash(changes,cancel)!=changes_hash:raise ValueError('O rascunho mudou durante a publicação; nada foi aplicado.')
-        expected_assets={r['path']:r['sha256'] for r in version['sources'] if r['path']!='assets/world/mapanovo.otbm'}
+        # Version inventories use uppercase hex; local hashes use lowercase.
+        # Normalize representation while still comparing the complete digest.
+        expected_assets={r['path']:r['sha256'].lower() for r in version['sources'] if r['path']!='assets/world/mapanovo.otbm'}
         expected_assets['assets/items/items.xml']=xml_hash
         for name,checksum in expected_assets.items():
             if _hash(root/name)!=checksum:raise ValueError('Os assets mudaram durante a preparação.')
@@ -321,6 +348,7 @@ def publish_map(root,source,changes,*,expected_hash,source_hash,cancel=None,prog
                       completedAt=datetime.now().astimezone().isoformat())
         _report(reports/('map-publish-'+run_id+'.json'),report)
         result={k:report[k] for k in ('passed','committed','sha256','baselineFile','versionId','positionReport')}
+        if additions:result['itemAdditions']=report['itemAdditions']
         if checkpoint_mode:result.update(sourceHash=source_hash,historySourceHash=history_source_hash)
         if journal_path is not None:
             result['journalPath']=str(journal_path)

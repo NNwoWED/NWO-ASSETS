@@ -97,3 +97,25 @@
 - 2026-10-09: Importada a outfit reservada 1530 para a montaria Sanshou do Kankuro classico, usando a outfit Shippuden 1529 como referencia estrutural. A folha RGBA 384x1536 preserva layout 3x3, quatro direcoes e dois frame groups com 8 frames idle e 8 walk; foram acrescentados 512 sprites (276207-276718), e os dois grupos reexportados coincidiram pixel a pixel com a fonte. O E3 usa 1530 somente quando a outfit anterior e 37 e mantem 1529 para a versao Shippuden. A configuracao `async-outfit` residual da 1529 foi removida do catalogo canonico, alinhando-o aos clients. Fonte, manifesto e reexportacoes em `importados/sanshou-e3-kid-1530-20261009/`. Backup imutavel: `versions/20261009-003821-864113/`. Relatorios: `reports/import-sanshou-e3-kid-1530-20261009.json`, `reports/export-sanshou-e3-kid-1530-20261009.json`, `reports/validation-final-sanshou-e3-kid-1530-20261009.json` e `reports/sync-runtime-sanshou-e3-kid-1530-20261009.json`.
 
 - 2026-10-09: Configurados os baus intermediarios do Passe de Batalha SID 25591-25595 / CID 24706-24710 para Water Aura, Kijin Aura e skins Kijin de Kurenai, Shino e Kimimaro. As descricoes informam desbloqueio permanente, confirmacao antes do consumo e livre negociacao; aparencias e propriedades DAT/OTB foram preservadas. O catalogo do passe continua exibindo as previas originais das auras/skins, mas entrega o respectivo bau. Validacao profunda e sincronizacao com servidor, RME, PC e mobile aprovadas em `reports/validation-final-battlepass-unlock-chests-20261009.json` e `reports/sync-runtime-battlepass-unlock-chests-20261009.json`.
+
+- 2026-10-20: Corrigido o alinhamento das auras da outfit Zabuza Classico (ID 2183). Adicionado somente `aura-displacement: -7 -8` em `creatures.otml`, compensando o deslocamento cosmetico da skin e mantendo a ancora da aura no SQM. DAT, SPR, OTB e mapa permanecem byte a byte inalterados. Conferencia nativa com tres skins e tres auras; validacao profunda sem erros. Sincronizacao oficial com PC, mobile e NWO-STUDIO, hashes e tres RARs testados em `reports/sync-runtime-zabuza-aura-alignment-20261020.json`; metadados conferidos tambem no worktree `trello-resolve`. Relatorio: `reports/validation-zabuza-aura-alignment-20261020.json`.
+
+- 2026-10-20: Corrigida a descricao da Kubikiribouchou Box (SID 24967 / CID 24082) para informar sua finalidade cosmetica de decoracao de house. Atualizados somente o texto no XML canonico, os tres indices correspondentes de data/generated/items.lua e a descricao da recompensa premium de nivel 23 no catalogo Kijin. Removida a referencia obsoleta a desbloqueio da vocacao Zabuza. DAT, SPR, OTB, mapa, precos e propriedades preservados. Testes do catalogo e do passe aprovados; validacao profunda e sincronizacao oficial com hashes e RARs testados em reports/validation-battlepass-cosmetic-box-20261020.json e reports/sync-runtime-battlepass-cosmetic-box-20261020.json.
+
+- 2026-10-20: nomenclatura dos utensilios 2512/3412, 2556/3459 e 2569/3472 corrigida de Bronze para Cobre; receitas e clients PC/mobile alinhados, propriedades e binarios preservados. Validacao profunda e sincronizacao runtime aprovadas.
+
+## 2026-10-20 - Colisao dos carvalhos (card kAYVbUBV)
+- Itens 14573/13696 e 14574/13697: XML blocking=1 para impedir passagem. DAT/SPR/OTB/mapa preservados.
+- Validacoes deep-spr antes/depois aprovadas; sync-runtime-oak-blocking-20261020.json aprovado, com hashes e arquivos compactados testados.
+
+## 2026-10-20 - Colisao da bancada da forja (card 58AP68sF)
+- Componentes 25215..25218 / 24330..24333: XML blocking=1, coerente com DAT/OTB. Demais atributos e binarios preservados.
+- Deep-spr antes/depois aprovado; sync-runtime-forge-blocking-20261020.json aprovado, 30 destinos e compactados testados.
+
+
+## 20/10/2026 - Preparacao da troca visual das aguas (card iypxbXLe)
+
+- Importador do NWO-ASSETS ganhou preserve_layout=1: troca apenas referencias de pixels, preservando patterns, camadas, exactSize, tempos variaveis, loop, frame inicial e propriedades. Versionamento, verificacao de hashes/pixels e rollback permanecem obrigatorios.
+- 28 testes aprovados, incluindo importacao completa em assets sinteticos com versao RAR testada e restauracao por falha simulada;67 folhas originais de agua preparadas em modo somente leitura. Inventario atualizado:71 candidatos ativos,67 superficies e24 variantes adicionais localizadas por referencias de sprites.
+- DAT/SPR/OTB/XML/mapa oficiais permanecem intactos em relacao ao inicio desta analise. Validacao profunda sem erros ou avisos. Correcao visual ainda nao aplicada: aguarda aprovacao da paleta e conferencias finais antes da importacao/sincronizacao. Card permanece Em correcao; nenhum novo card movido para Validacao nesta etapa.
+- Relatorio: trello-resolve/water_import_tooling_report.json; NWO-ASSETS/reports/validation-water-import-tooling-20261020.json. Sem alteracao de runtime PC/mobile; APK dispensado pelo usuario.

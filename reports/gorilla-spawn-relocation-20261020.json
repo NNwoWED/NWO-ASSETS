@@ -1,0 +1,52 @@
+{
+  "operation": "relocate_single_gorilla_spawn",
+  "passed": true,
+  "committed": true,
+  "old_position": [
+    1226,
+    1202,
+    6
+  ],
+  "new_position": [
+    1228,
+    1202,
+    6
+  ],
+  "reason": "Forced spawn accepted an existing tile with no ground; destination is an empty walkable wooden floor.",
+  "ground_server_id": 15037,
+  "ground_client_id": 14152,
+  "files": [
+    {
+      "kind": "canonical",
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\world\\mapanovo-spawn.xml",
+      "before_sha256": "7182cb1786f2a6a94166c3fbd3887a770ceb08bca09d0bf4e1651d67160bd313",
+      "after_sha256": "ddb17e3baa7bd41a20d0126fb80ca4059fd7c968e666e5df551b499d8ffec6ec",
+      "spawn_count": 9296,
+      "only_centerx_changed": true,
+      "backup": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\reports\\gorilla-spawn-before-20261020-canonical.xml"
+    },
+    {
+      "kind": "runtime",
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\Server-Data-Nwo\\data\\world\\mapanovo-spawn.xml",
+      "before_sha256": "1e4b0787e0040181817e505f78c27393932316a225845590ccbc40b2c5640aa9",
+      "after_sha256": "a9c66849bdc8e5c9c4bd7234c07909bc7a8e5db3c4f9e2eb7e019a37625de010",
+      "spawn_count": 10784,
+      "only_centerx_changed": true,
+      "backup": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\reports\\gorilla-spawn-before-20261020-runtime.xml"
+    }
+  ],
+  "canonical_map_hash": "ac32c669bed3512d69ae054cafc8564a236c9894b22bbc9a0e9d7acaefad5512",
+  "otbm_dat_spr_otb_unchanged": true,
+  "monster_attributes_respawn_radius_count_unchanged": true,
+  "database_access": false,
+  "canonical_binary_and_item_xml_hashes": {
+    "map": "ac32c669bed3512d69ae054cafc8564a236c9894b22bbc9a0e9d7acaefad5512",
+    "dat": "19c713d6620051995e00ca2be826f68e8a6387eab2bd3ee516648cc7e07af846",
+    "spr": "2a44164ee33aa93b54f7188557003e9fc6776719387f193da6bbf4d391390de6",
+    "otb": "508628640064c3388bd2ee2467acf885a7b7b61b117e6c1342c25ed9448bea7e",
+    "xml": "44a82614920be7e6bd34e09bee58584c21383692ae17d241df0823d3749f9db2"
+  },
+  "canonical_files_unchanged": true,
+  "runtime_sync_required": false,
+  "runtime_sync_reason": "Only spawn XML coordinates changed; both canonical and runtime XML edited transactionally. None of the five files requiring sync-runtime changed."
+}

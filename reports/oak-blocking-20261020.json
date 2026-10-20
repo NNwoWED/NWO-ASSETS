@@ -1,0 +1,38 @@
+{
+  "items": [
+    {
+      "operation": "substituir propriedade XML blocking",
+      "server_id": 14573,
+      "client_id": 13696,
+      "purpose": "Solid oak gathering node; blocks monster/player movement",
+      "png": null,
+      "layout": "unchanged",
+      "dat_otb_policy": "unchanged; XML override only",
+      "before": 0,
+      "after": 1
+    },
+    {
+      "operation": "substituir propriedade XML blocking",
+      "server_id": 14574,
+      "client_id": 13697,
+      "purpose": "Solid oak gathering node; blocks monster/player movement",
+      "png": null,
+      "layout": "unchanged",
+      "dat_otb_policy": "unchanged; XML override only",
+      "before": 0,
+      "after": 1
+    }
+  ],
+  "xmlBeforeSha256": "35df418f18e9eb39f7c4cdce9cf48345ada74055062bbe49bc345bc563b88ce6",
+  "xmlAfterSha256": "e91459b8716def3a276b6c20e383b028d8c4bfc7e0903690d68bcae2ae3f98c4",
+  "binaryBeforeSha256": {
+    "assets\\860\\Tibia.dat": "19c713d6620051995e00ca2be826f68e8a6387eab2bd3ee516648cc7e07af846",
+    "assets\\860\\Tibia.spr": "2a44164ee33aa93b54f7188557003e9fc6776719387f193da6bbf4d391390de6",
+    "assets\\items\\items.otb": "508628640064c3388bd2ee2467acf885a7b7b61b117e6c1342c25ed9448bea7e",
+    "assets\\world\\mapanovo.otbm": "8cdfddf9dc2a9e53053e4f3faf7f6825fd89b6b63ee06272ecd234b387202821"
+  },
+  "committed": true,
+  "status": "validated_and_synchronized",
+  "validation": "reports/validation-oak-blocking-after-20261020.json",
+  "sync": "reports/sync-runtime-oak-blocking-20261020.json"
+}

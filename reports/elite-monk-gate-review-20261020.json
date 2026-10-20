@@ -1,0 +1,730 @@
+{
+  "operation": "read_only_elite_monk_gate_triage",
+  "canonical_map": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\world\\mapanovo.otbm",
+  "canonical_unchanged": true,
+  "canonical_hashes": {
+    "dat": "19c713d6620051995e00ca2be826f68e8a6387eab2bd3ee516648cc7e07af846",
+    "spr": "2a44164ee33aa93b54f7188557003e9fc6776719387f193da6bbf4d391390de6",
+    "otb": "508628640064c3388bd2ee2467acf885a7b7b61b117e6c1342c25ed9448bea7e",
+    "xml": "44a82614920be7e6bd34e09bee58584c21383692ae17d241df0823d3749f9db2",
+    "map": "8cdfddf9dc2a9e53053e4f3faf7f6825fd89b6b63ee06272ecd234b387202821"
+  },
+  "tiles_scanned": 7824286,
+  "records": [
+    {
+      "x": 1283,
+      "y": 1023,
+      "z": 3,
+      "stack": [
+        18710,
+        5773,
+        21993
+      ],
+      "objects": [
+        {
+          "server_id": 21993,
+          "client_id": 21108,
+          "name": "Closed door",
+          "otb_flags": [
+            "block_solid",
+            "block_pathfind",
+            "always_on_top",
+            "force_use"
+          ],
+          "attributes": {}
+        }
+      ]
+    },
+    {
+      "x": 1278,
+      "y": 1025,
+      "z": 2,
+      "stack": [
+        4333,
+        4375,
+        4378,
+        5771,
+        21989
+      ],
+      "objects": [
+        {
+          "server_id": 21989,
+          "client_id": 21104,
+          "name": "Closed door",
+          "otb_flags": [
+            "block_solid",
+            "always_on_top",
+            "force_use"
+          ],
+          "attributes": {}
+        }
+      ]
+    },
+    {
+      "x": 1279,
+      "y": 1025,
+      "z": 2,
+      "stack": [
+        4333,
+        4378,
+        5771,
+        21988
+      ],
+      "objects": [
+        {
+          "server_id": 21988,
+          "client_id": 21103,
+          "name": "Closed door",
+          "otb_flags": [
+            "block_solid",
+            "always_on_top",
+            "force_use"
+          ],
+          "attributes": {}
+        }
+      ]
+    },
+    {
+      "x": 1280,
+      "y": 1026,
+      "z": 3,
+      "stack": [
+        18710,
+        5771,
+        21989
+      ],
+      "objects": [
+        {
+          "server_id": 21989,
+          "client_id": 21104,
+          "name": "Closed door",
+          "otb_flags": [
+            "block_solid",
+            "always_on_top",
+            "force_use"
+          ],
+          "attributes": {}
+        }
+      ]
+    },
+    {
+      "x": 1281,
+      "y": 1026,
+      "z": 3,
+      "stack": [
+        18710,
+        5771,
+        21988
+      ],
+      "objects": [
+        {
+          "server_id": 21988,
+          "client_id": 21103,
+          "name": "Closed door",
+          "otb_flags": [
+            "block_solid",
+            "always_on_top",
+            "force_use"
+          ],
+          "attributes": {}
+        }
+      ]
+    },
+    {
+      "x": 1283,
+      "y": 1024,
+      "z": 3,
+      "stack": [
+        18710,
+        5773,
+        21992
+      ],
+      "objects": [
+        {
+          "server_id": 21992,
+          "client_id": 21107,
+          "name": "Closed door",
+          "otb_flags": [
+            "block_solid",
+            "block_pathfind",
+            "always_on_top",
+            "force_use"
+          ],
+          "attributes": {}
+        }
+      ]
+    },
+    {
+      "x": 1286,
+      "y": 1025,
+      "z": 2,
+      "stack": [
+        4333,
+        4375,
+        4378,
+        5771,
+        21989
+      ],
+      "objects": [
+        {
+          "server_id": 21989,
+          "client_id": 21104,
+          "name": "Closed door",
+          "otb_flags": [
+            "block_solid",
+            "always_on_top",
+            "force_use"
+          ],
+          "attributes": {}
+        }
+      ]
+    },
+    {
+      "x": 1287,
+      "y": 1025,
+      "z": 2,
+      "stack": [
+        4333,
+        4378,
+        5771,
+        21988
+      ],
+      "objects": [
+        {
+          "server_id": 21988,
+          "client_id": 21103,
+          "name": "Closed door",
+          "otb_flags": [
+            "block_solid",
+            "always_on_top",
+            "force_use"
+          ],
+          "attributes": {}
+        }
+      ]
+    },
+    {
+      "x": 1294,
+      "y": 1025,
+      "z": 2,
+      "stack": [
+        4333,
+        4375,
+        4378,
+        5771,
+        21989
+      ],
+      "objects": [
+        {
+          "server_id": 21989,
+          "client_id": 21104,
+          "name": "Closed door",
+          "otb_flags": [
+            "block_solid",
+            "always_on_top",
+            "force_use"
+          ],
+          "attributes": {}
+        }
+      ]
+    },
+    {
+      "x": 1295,
+      "y": 1025,
+      "z": 2,
+      "stack": [
+        4333,
+        4378,
+        5771,
+        21988
+      ],
+      "objects": [
+        {
+          "server_id": 21988,
+          "client_id": 21103,
+          "name": "Closed door",
+          "otb_flags": [
+            "block_solid",
+            "always_on_top",
+            "force_use"
+          ],
+          "attributes": {}
+        }
+      ]
+    },
+    {
+      "x": 1293,
+      "y": 1026,
+      "z": 3,
+      "stack": [
+        18671,
+        5771,
+        21989
+      ],
+      "objects": [
+        {
+          "server_id": 21989,
+          "client_id": 21104,
+          "name": "Closed door",
+          "otb_flags": [
+            "block_solid",
+            "always_on_top",
+            "force_use"
+          ],
+          "attributes": {}
+        }
+      ]
+    },
+    {
+      "x": 1294,
+      "y": 1026,
+      "z": 3,
+      "stack": [
+        18672,
+        5771,
+        21988
+      ],
+      "objects": [
+        {
+          "server_id": 21988,
+          "client_id": 21103,
+          "name": "Closed door",
+          "otb_flags": [
+            "block_solid",
+            "always_on_top",
+            "force_use"
+          ],
+          "attributes": {}
+        }
+      ]
+    },
+    {
+      "x": 1294,
+      "y": 1024,
+      "z": 4,
+      "stack": [
+        18672,
+        5773,
+        21993
+      ],
+      "objects": [
+        {
+          "server_id": 21993,
+          "client_id": 21108,
+          "name": "Closed door",
+          "otb_flags": [
+            "block_solid",
+            "block_pathfind",
+            "always_on_top",
+            "force_use"
+          ],
+          "attributes": {}
+        }
+      ]
+    },
+    {
+      "x": 1294,
+      "y": 1025,
+      "z": 4,
+      "stack": [
+        18672,
+        5773,
+        21992
+      ],
+      "objects": [
+        {
+          "server_id": 21992,
+          "client_id": 21107,
+          "name": "Closed door",
+          "otb_flags": [
+            "block_solid",
+            "block_pathfind",
+            "always_on_top",
+            "force_use"
+          ],
+          "attributes": {}
+        }
+      ]
+    },
+    {
+      "x": 1280,
+      "y": 1029,
+      "z": 2,
+      "stack": [
+        18711,
+        5771,
+        5771,
+        21989
+      ],
+      "objects": [
+        {
+          "server_id": 21989,
+          "client_id": 21104,
+          "name": "Closed door",
+          "otb_flags": [
+            "block_solid",
+            "always_on_top",
+            "force_use"
+          ],
+          "attributes": {}
+        }
+      ]
+    },
+    {
+      "x": 1281,
+      "y": 1029,
+      "z": 2,
+      "stack": [
+        18712,
+        5771,
+        5771,
+        21988
+      ],
+      "objects": [
+        {
+          "server_id": 21988,
+          "client_id": 21103,
+          "name": "Closed door",
+          "otb_flags": [
+            "block_solid",
+            "always_on_top",
+            "force_use"
+          ],
+          "attributes": {}
+        }
+      ]
+    },
+    {
+      "x": 1281,
+      "y": 1029,
+      "z": 4,
+      "stack": [
+        18710,
+        5771,
+        21989
+      ],
+      "objects": [
+        {
+          "server_id": 21989,
+          "client_id": 21104,
+          "name": "Closed door",
+          "otb_flags": [
+            "block_solid",
+            "always_on_top",
+            "force_use"
+          ],
+          "attributes": {}
+        }
+      ]
+    },
+    {
+      "x": 1282,
+      "y": 1029,
+      "z": 4,
+      "stack": [
+        18710,
+        5771,
+        21988
+      ],
+      "objects": [
+        {
+          "server_id": 21988,
+          "client_id": 21103,
+          "name": "Closed door",
+          "otb_flags": [
+            "block_solid",
+            "always_on_top",
+            "force_use"
+          ],
+          "attributes": {}
+        }
+      ]
+    },
+    {
+      "x": 1283,
+      "y": 1033,
+      "z": 3,
+      "stack": [
+        11711,
+        21993
+      ],
+      "objects": [
+        {
+          "server_id": 21993,
+          "client_id": 21108,
+          "name": "Closed door",
+          "otb_flags": [
+            "block_solid",
+            "block_pathfind",
+            "always_on_top",
+            "force_use"
+          ],
+          "attributes": {}
+        }
+      ]
+    },
+    {
+      "x": 1283,
+      "y": 1034,
+      "z": 3,
+      "stack": [
+        11711,
+        21992
+      ],
+      "objects": [
+        {
+          "server_id": 21992,
+          "client_id": 21107,
+          "name": "Closed door",
+          "otb_flags": [
+            "block_solid",
+            "block_pathfind",
+            "always_on_top",
+            "force_use"
+          ],
+          "attributes": {}
+        }
+      ]
+    },
+    {
+      "x": 1287,
+      "y": 1033,
+      "z": 2,
+      "stack": [
+        18671,
+        5773,
+        21993
+      ],
+      "objects": [
+        {
+          "server_id": 21993,
+          "client_id": 21108,
+          "name": "Closed door",
+          "otb_flags": [
+            "block_solid",
+            "block_pathfind",
+            "always_on_top",
+            "force_use"
+          ],
+          "attributes": {}
+        }
+      ]
+    },
+    {
+      "x": 1287,
+      "y": 1034,
+      "z": 2,
+      "stack": [
+        18671,
+        5773,
+        21992
+      ],
+      "objects": [
+        {
+          "server_id": 21992,
+          "client_id": 21107,
+          "name": "Closed door",
+          "otb_flags": [
+            "block_solid",
+            "block_pathfind",
+            "always_on_top",
+            "force_use"
+          ],
+          "attributes": {}
+        }
+      ]
+    },
+    {
+      "x": 1290,
+      "y": 1035,
+      "z": 1,
+      "stack": [
+        12741,
+        4378,
+        5771,
+        21989
+      ],
+      "objects": [
+        {
+          "server_id": 21989,
+          "client_id": 21104,
+          "name": "Closed door",
+          "otb_flags": [
+            "block_solid",
+            "always_on_top",
+            "force_use"
+          ],
+          "attributes": {}
+        }
+      ]
+    },
+    {
+      "x": 1291,
+      "y": 1035,
+      "z": 1,
+      "stack": [
+        12741,
+        4374,
+        5771,
+        21988
+      ],
+      "objects": [
+        {
+          "server_id": 21988,
+          "client_id": 21103,
+          "name": "Closed door",
+          "otb_flags": [
+            "block_solid",
+            "always_on_top",
+            "force_use"
+          ],
+          "attributes": {}
+        }
+      ]
+    },
+    {
+      "x": 1294,
+      "y": 1033,
+      "z": 2,
+      "stack": [
+        18713,
+        5773,
+        21993
+      ],
+      "objects": [
+        {
+          "server_id": 21993,
+          "client_id": 21108,
+          "name": "Closed door",
+          "otb_flags": [
+            "block_solid",
+            "block_pathfind",
+            "always_on_top",
+            "force_use"
+          ],
+          "attributes": {}
+        }
+      ]
+    },
+    {
+      "x": 1294,
+      "y": 1034,
+      "z": 2,
+      "stack": [
+        18711,
+        5773,
+        21992
+      ],
+      "objects": [
+        {
+          "server_id": 21992,
+          "client_id": 21107,
+          "name": "Closed door",
+          "otb_flags": [
+            "block_solid",
+            "block_pathfind",
+            "always_on_top",
+            "force_use"
+          ],
+          "attributes": {}
+        }
+      ]
+    },
+    {
+      "x": 1294,
+      "y": 1034,
+      "z": 4,
+      "stack": [
+        18672,
+        5773,
+        21993
+      ],
+      "objects": [
+        {
+          "server_id": 21993,
+          "client_id": 21108,
+          "name": "Closed door",
+          "otb_flags": [
+            "block_solid",
+            "block_pathfind",
+            "always_on_top",
+            "force_use"
+          ],
+          "attributes": {}
+        }
+      ]
+    },
+    {
+      "x": 1294,
+      "y": 1035,
+      "z": 4,
+      "stack": [
+        18672,
+        5773,
+        21992
+      ],
+      "objects": [
+        {
+          "server_id": 21992,
+          "client_id": 21107,
+          "name": "Closed door",
+          "otb_flags": [
+            "block_solid",
+            "block_pathfind",
+            "always_on_top",
+            "force_use"
+          ],
+          "attributes": {}
+        }
+      ]
+    },
+    {
+      "x": 1302,
+      "y": 1025,
+      "z": 2,
+      "stack": [
+        18710,
+        5771,
+        21989
+      ],
+      "objects": [
+        {
+          "server_id": 21989,
+          "client_id": 21104,
+          "name": "Closed door",
+          "otb_flags": [
+            "block_solid",
+            "always_on_top",
+            "force_use"
+          ],
+          "attributes": {}
+        }
+      ]
+    },
+    {
+      "x": 1303,
+      "y": 1025,
+      "z": 2,
+      "stack": [
+        18710,
+        5771,
+        21988
+      ],
+      "objects": [
+        {
+          "server_id": 21988,
+          "client_id": 21103,
+          "name": "Closed door",
+          "otb_flags": [
+            "block_solid",
+            "always_on_top",
+            "force_use"
+          ],
+          "attributes": {}
+        }
+      ]
+    }
+  ],
+  "source_region": "Elite Monk/Kenjin Monk/Monk Boss runtime spawn coordinates; expanded tower bounds",
+  "official_map_changed": false
+}

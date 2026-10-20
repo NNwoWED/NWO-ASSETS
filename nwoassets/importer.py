@@ -7,6 +7,7 @@ import hashlib
 import os
 import struct
 
+from .appearance_sheet import split_appearance_sheet
 from .client import inspect_dat, inspect_spr
 from .content import sha256_file
 from .errors import FormatError
@@ -15,13 +16,16 @@ from .otfi import OtfiConfig, parse_otfi
 from .pipeline import inspect_client, validate_root
 from .png import (
     MAX_ITEM_DIMENSION,
+    PngImage,
     normalize_rgba,
     read_png_rgba,
     split_vertical_animation_sheet,
 )
 from .roundtrip import (
+    DatRecordSpan,
     append_spr_blocks,
     encode_item_appearance,
+    read_dat_animation_timings,
     scan_dat_record_spans,
     write_dat_item_appearances,
     write_otb_document,
@@ -45,6 +49,7 @@ class ManifestEntry:
     frames: int
     frame_duration_ms: int | None
     animation_async: bool
+    preserve_layout: bool = False
 
 
 @dataclass(frozen=True)
@@ -63,6 +68,11 @@ class PreparedItem:
     animation_async: bool
     sprite_ids: tuple[int, ...]
     sprite_hash: str
+    layout_preserved: bool = False
+    layers: int = 1
+    pattern_x: int = 1
+    pattern_y: int = 1
+    pattern_z: int = 1
 
 
 def read_manifest(path: Path) -> list[ManifestEntry]:
@@ -83,6 +93,18 @@ def read_manifest(path: Path) -> list[ManifestEntry]:
 
     entries: list[ManifestEntry] = []
     for row_number, row in enumerate(rows, start=2):
+        raw_preserve = (row.get("preserve_layout") or "0").strip()
+        if raw_preserve not in {"0", "1"}:
+            raise FormatError(f"{path}:{row_number}: preserve_layout deve ser 0 ou 1")
+        preserve_layout = raw_preserve == "1"
+        if preserve_layout and any(
+            (row.get(field) or "").strip()
+            for field in ("frames", "frame_duration_ms", "animation_async")
+        ):
+            raise FormatError(
+                f"{path}:{row_number}: preserve_layout exige frames/duracao/async vazios; "
+                "os valores existentes do DAT serao preservados"
+            )
         try:
             sequence = int(row["sequence"])
             client_id = int(row["client_id"])
@@ -131,6 +153,7 @@ def read_manifest(path: Path) -> list[ManifestEntry]:
                 frames,
                 frame_duration_ms,
                 animation_async,
+                preserve_layout,
             )
         )
 
@@ -148,6 +171,51 @@ def read_manifest(path: Path) -> list[ManifestEntry]:
     if len(set(sources)) != len(sources):
         raise FormatError(f"{path}: caminhos PNG duplicados")
     return entries
+
+
+def prepare_preserved_appearance(
+    entry: ManifestEntry,
+    source_data: bytes,
+    source_span: DatRecordSpan,
+    otfi: OtfiConfig,
+    first_sprite_id: int,
+) -> tuple[PngImage, tuple[bytes, ...], tuple[int, ...], bytes]:
+    """Read the export layout and replace only its sprite-ID array.
+
+    Item records have exactly one appearance. Copy its metadata byte for byte,
+    including exactSize, all patterns/layers and variable animation timings.
+    """
+    if source_span.category != "items" or len(source_span.appearances) != 1:
+        raise FormatError("preserve_layout exige um item DAT com uma aparencia")
+    if entry.client_id != source_span.thing_id:
+        raise FormatError("preserve_layout: Client ID diverge do registro DAT")
+    appearance = source_span.appearances[0]
+    image = normalize_rgba(read_png_rgba(
+        entry.source_path,
+        max_width=MAX_ITEM_DIMENSION,
+        max_height=MAX_ITEM_DIMENSION * appearance.frames,
+    ))
+    groups = split_appearance_sheet(
+        image, sprite_size=otfi.sprite_size,
+        width=appearance.width, height=appearance.height,
+        layers=appearance.layers, pattern_x=appearance.pattern_x,
+        pattern_y=appearance.pattern_y, pattern_z=appearance.pattern_z,
+        frames=appearance.frames,
+    )
+    tiles = tuple(tile for group in groups for tile in group)
+    if len(tiles) != len(appearance.sprite_ids) or len(tiles) > otfi.sprite_data_size:
+        raise FormatError("preserve_layout: quantidade de sprites diverge da baseline")
+    sprite_ids = tuple(range(first_sprite_id, first_sprite_id + len(tiles)))
+    maximum = 0xFFFFFFFF if otfi.extended else 0xFFFF
+    if first_sprite_id < 1 or sprite_ids[-1] > maximum:
+        raise FormatError("preserve_layout: Sprite IDs excedem o perfil DAT")
+    code = "I" if otfi.extended else "H"
+    old_ids = struct.pack("<" + code * len(tiles), *appearance.sprite_ids)
+    original = source_data[source_span.properties_end:source_span.end]
+    if not original.endswith(old_ids):
+        raise FormatError("preserve_layout: array de sprites DAT inconsistente")
+    replacement = original[:-len(old_ids)] + struct.pack("<" + code * len(tiles), *sprite_ids)
+    return image, tiles, sprite_ids, replacement
 
 
 def _parse_otb_attributes(node: OtbNode, source: str) -> tuple[int | None, list[tuple[int, bytes]]]:
@@ -449,36 +517,62 @@ def _import_items_impl(
     appearances: dict[int, bytes] = {}
     hashes: dict[int, bytes] = {}
     prepared: list[PreparedItem] = []
+    source_data = paths["dat"].read_bytes()
+    source_spans = scan_dat_record_spans(source_data, otfi, str(paths["dat"]))
+    source_items = {span.thing_id: span for span in source_spans if span.category == "items"}
+    animated_preserved_ids = {
+        entry.client_id for entry in entries
+        if entry.preserve_layout and source_items[entry.client_id].appearances[0].frames > 1
+    }
+    source_timings = read_dat_animation_timings(
+        source_data, otfi, "items", animated_preserved_ids, str(paths["dat"])
+    ) if animated_preserved_ids else {}
     for entry in entries:
-        image = normalize_rgba(
-            read_png_rgba(
-                entry.source_path,
-                max_width=MAX_ITEM_DIMENSION,
-                max_height=MAX_ITEM_DIMENSION * entry.frames,
+        layers = pattern_x = pattern_y = pattern_z = 1
+        frames = entry.frames
+        animation_async = entry.animation_async
+        if entry.preserve_layout:
+            source_span = source_items[entry.client_id]
+            appearance = source_span.appearances[0]
+            image, tiles, sprite_ids, encoded = prepare_preserved_appearance(
+                entry, source_data, source_span, otfi, next_sprite_id
             )
-        )
-        tiles, width_tiles, height_tiles = split_vertical_animation_sheet(
-            image, entry.frames, otfi.sprite_size
-        )
+            width_tiles, height_tiles = appearance.width, appearance.height
+            layers, frames = appearance.layers, appearance.frames
+            pattern_x, pattern_y, pattern_z = appearance.pattern_x, appearance.pattern_y, appearance.pattern_z
+            timing = source_timings.get(entry.client_id)
+            animation_async = timing.animation_async if timing else False
+        else:
+            image = normalize_rgba(
+                read_png_rgba(
+                    entry.source_path,
+                    max_width=MAX_ITEM_DIMENSION,
+                    max_height=MAX_ITEM_DIMENSION * entry.frames,
+                )
+            )
+            tiles, width_tiles, height_tiles = split_vertical_animation_sheet(
+                image, entry.frames, otfi.sprite_size
+            )
+            sprite_ids = tuple(range(next_sprite_id, next_sprite_id + len(tiles)))
+            encoded = encode_item_appearance(
+                width_tiles,
+                height_tiles,
+                entry.frames,
+                sprite_ids,
+                otfi,
+                frame_duration_ms=entry.frame_duration_ms,
+                animation_async=entry.animation_async,
+            )
         if len(tiles) > otfi.sprite_data_size:
             raise FormatError(
                 f"Client ID {entry.client_id}: aparência usa {len(tiles)} sprites; "
                 f"limite OTFI {otfi.sprite_data_size}"
             )
-        sprite_ids = tuple(range(next_sprite_id, next_sprite_id + len(tiles)))
         next_sprite_id += len(tiles)
         blocks.extend(encode_sprite_rgba(tile) for tile in tiles)
         expected_tiles.update(zip(sprite_ids, tiles))
-        appearances[entry.client_id] = encode_item_appearance(
-            width_tiles,
-            height_tiles,
-            entry.frames,
-            sprite_ids,
-            otfi,
-            frame_duration_ms=entry.frame_duration_ms,
-            animation_async=entry.animation_async,
-        )
-        first_frame_tile_count = width_tiles * height_tiles
+        appearances[entry.client_id] = encoded
+        first_frame_tile_count = width_tiles * height_tiles * layers
         item_hash = sprite_hash(tiles[:first_frame_tile_count])
         hashes[entry.client_id] = item_hash
         prepared.append(
@@ -492,11 +586,16 @@ def _import_items_impl(
                 image_height=image.height,
                 width_tiles=width_tiles,
                 height_tiles=height_tiles,
-                frames=entry.frames,
+                frames=frames,
                 frame_duration_ms=entry.frame_duration_ms,
-                animation_async=entry.animation_async,
+                animation_async=animation_async,
                 sprite_ids=sprite_ids,
                 sprite_hash=item_hash.hex().upper(),
+                layout_preserved=entry.preserve_layout,
+                layers=layers,
+                pattern_x=pattern_x,
+                pattern_y=pattern_y,
+                pattern_z=pattern_z,
             )
         )
 
@@ -520,7 +619,7 @@ def _import_items_impl(
             paths["otb"],
             targets["otb"],
             hashes,
-            animated={item.client_id: item.frames > 1 for item in prepared},
+            animated={item.client_id: item.frames > 1 for item in prepared if not item.layout_preserved},
         )
 
         pending_spr = inspect_spr(targets["spr"], otfi, deep=deep_spr)
@@ -578,9 +677,17 @@ def _import_items_impl(
             if source_data[source_span.start : source_span.end] != staged_data[staged_span.start : staged_span.end]:
                 abort_pending(f"registro DAT não alvo mudou em {identity}")
     for item in prepared:
-        appearance = staged_items[item.client_id].appearances[0]
+        staged_span = staged_items[item.client_id]
+        appearance = staged_span.appearances[0]
         if appearance.sprite_ids != item.sprite_ids:
             abort_pending(f"Sprite IDs DAT divergentes no Client ID {item.client_id}")
+        if item.layout_preserved:
+            original = source_items[item.client_id]
+            id_bytes = len(item.sprite_ids) * (4 if otfi.extended else 2)
+            before = source_data[original.properties_end:original.end - id_bytes]
+            after = staged_data[staged_span.properties_end:staged_span.end - id_bytes]
+            if before != after:
+                abort_pending(f"Metadados visuais DAT mudaram no Client ID {item.client_id}")
 
     written_blocks = read_spr_blocks(targets["spr"], set(expected_tiles), otfi)
     for sprite_id, expected_tile in expected_tiles.items():
@@ -637,6 +744,7 @@ def _import_items_impl(
         "dat_non_targets_preserved": True,
         "old_sprite_payload_preserved": True,
         "new_sprite_pixels_verified": True,
+        "layout_preserved_client_ids": [item.client_id for item in prepared if item.layout_preserved],
         "untouched_files_preserved": True,
         "map_byte_equal": untouched_before["otbm"] == untouched_after["otbm"],
         "final_validation_passed": final_report["passed"],

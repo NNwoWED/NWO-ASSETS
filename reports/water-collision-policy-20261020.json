@@ -1,0 +1,622 @@
+{
+  "canonical_hashes": {
+    "dat": "19c713d6620051995e00ca2be826f68e8a6387eab2bd3ee516648cc7e07af846",
+    "spr": "2a44164ee33aa93b54f7188557003e9fc6776719387f193da6bbf4d391390de6",
+    "otb": "508628640064c3388bd2ee2467acf885a7b7b61b117e6c1342c25ed9448bea7e",
+    "xml": "44a82614920be7e6bd34e09bee58584c21383692ae17d241df0823d3749f9db2",
+    "map": "8cdfddf9dc2a9e53053e4f3faf7f6825fd89b6b63ee06272ecd234b387202821"
+  },
+  "operation": "read_only_collision_classification",
+  "source_xml": "assets/items/items.xml",
+  "engine_override_parser": "Src-Nwo/items.cpp:807",
+  "surface_candidates": 67,
+  "records": [
+    {
+      "server_id": 4608,
+      "client_id": 4597,
+      "otb_block_solid": true,
+      "dat_unpassable": true,
+      "xml_overrides": {},
+      "effective_server_block_solid": true,
+      "mapping_exclusive": true
+    },
+    {
+      "server_id": 21112,
+      "client_id": 20227,
+      "otb_block_solid": false,
+      "dat_unpassable": false,
+      "xml_overrides": {},
+      "effective_server_block_solid": false,
+      "mapping_exclusive": true
+    },
+    {
+      "server_id": 4825,
+      "client_id": 4814,
+      "otb_block_solid": false,
+      "dat_unpassable": false,
+      "xml_overrides": {},
+      "effective_server_block_solid": false,
+      "mapping_exclusive": true
+    },
+    {
+      "server_id": 13170,
+      "client_id": 12293,
+      "otb_block_solid": false,
+      "dat_unpassable": false,
+      "xml_overrides": {},
+      "effective_server_block_solid": false,
+      "mapping_exclusive": true
+    },
+    {
+      "server_id": 21114,
+      "client_id": 20229,
+      "otb_block_solid": false,
+      "dat_unpassable": false,
+      "xml_overrides": {},
+      "effective_server_block_solid": false,
+      "mapping_exclusive": true
+    },
+    {
+      "server_id": 21115,
+      "client_id": 20230,
+      "otb_block_solid": false,
+      "dat_unpassable": false,
+      "xml_overrides": {},
+      "effective_server_block_solid": false,
+      "mapping_exclusive": true
+    },
+    {
+      "server_id": 25162,
+      "client_id": 24277,
+      "otb_block_solid": true,
+      "dat_unpassable": true,
+      "xml_overrides": {},
+      "effective_server_block_solid": true,
+      "mapping_exclusive": true
+    },
+    {
+      "server_id": 21119,
+      "client_id": 20234,
+      "otb_block_solid": false,
+      "dat_unpassable": false,
+      "xml_overrides": {},
+      "effective_server_block_solid": false,
+      "mapping_exclusive": true
+    },
+    {
+      "server_id": 21120,
+      "client_id": 20235,
+      "otb_block_solid": false,
+      "dat_unpassable": false,
+      "xml_overrides": {},
+      "effective_server_block_solid": false,
+      "mapping_exclusive": true
+    },
+    {
+      "server_id": 20840,
+      "client_id": 19955,
+      "otb_block_solid": false,
+      "dat_unpassable": false,
+      "xml_overrides": {},
+      "effective_server_block_solid": false,
+      "mapping_exclusive": true
+    },
+    {
+      "server_id": 21118,
+      "client_id": 20233,
+      "otb_block_solid": false,
+      "dat_unpassable": false,
+      "xml_overrides": {},
+      "effective_server_block_solid": false,
+      "mapping_exclusive": true
+    },
+    {
+      "server_id": 21124,
+      "client_id": 20239,
+      "otb_block_solid": false,
+      "dat_unpassable": false,
+      "xml_overrides": {},
+      "effective_server_block_solid": false,
+      "mapping_exclusive": true
+    },
+    {
+      "server_id": 21122,
+      "client_id": 20237,
+      "otb_block_solid": false,
+      "dat_unpassable": false,
+      "xml_overrides": {},
+      "effective_server_block_solid": false,
+      "mapping_exclusive": true
+    },
+    {
+      "server_id": 21123,
+      "client_id": 20238,
+      "otb_block_solid": false,
+      "dat_unpassable": false,
+      "xml_overrides": {},
+      "effective_server_block_solid": false,
+      "mapping_exclusive": true
+    },
+    {
+      "server_id": 4611,
+      "client_id": 4600,
+      "otb_block_solid": true,
+      "dat_unpassable": true,
+      "xml_overrides": {},
+      "effective_server_block_solid": true,
+      "mapping_exclusive": true
+    },
+    {
+      "server_id": 4614,
+      "client_id": 4609,
+      "otb_block_solid": true,
+      "dat_unpassable": true,
+      "xml_overrides": {},
+      "effective_server_block_solid": true,
+      "mapping_exclusive": true
+    },
+    {
+      "server_id": 4615,
+      "client_id": 4610,
+      "otb_block_solid": true,
+      "dat_unpassable": true,
+      "xml_overrides": {},
+      "effective_server_block_solid": true,
+      "mapping_exclusive": true
+    },
+    {
+      "server_id": 25154,
+      "client_id": 24269,
+      "otb_block_solid": false,
+      "dat_unpassable": false,
+      "xml_overrides": {},
+      "effective_server_block_solid": false,
+      "mapping_exclusive": true
+    },
+    {
+      "server_id": 4609,
+      "client_id": 4598,
+      "otb_block_solid": true,
+      "dat_unpassable": true,
+      "xml_overrides": {},
+      "effective_server_block_solid": true,
+      "mapping_exclusive": true
+    },
+    {
+      "server_id": 4617,
+      "client_id": 4612,
+      "otb_block_solid": true,
+      "dat_unpassable": true,
+      "xml_overrides": {},
+      "effective_server_block_solid": true,
+      "mapping_exclusive": true
+    },
+    {
+      "server_id": 4619,
+      "client_id": 4614,
+      "otb_block_solid": true,
+      "dat_unpassable": true,
+      "xml_overrides": {},
+      "effective_server_block_solid": true,
+      "mapping_exclusive": true
+    },
+    {
+      "server_id": 4613,
+      "client_id": 4602,
+      "otb_block_solid": true,
+      "dat_unpassable": true,
+      "xml_overrides": {},
+      "effective_server_block_solid": true,
+      "mapping_exclusive": true
+    },
+    {
+      "server_id": 4610,
+      "client_id": 4599,
+      "otb_block_solid": true,
+      "dat_unpassable": true,
+      "xml_overrides": {},
+      "effective_server_block_solid": true,
+      "mapping_exclusive": true
+    },
+    {
+      "server_id": 4618,
+      "client_id": 4613,
+      "otb_block_solid": true,
+      "dat_unpassable": true,
+      "xml_overrides": {},
+      "effective_server_block_solid": true,
+      "mapping_exclusive": true
+    },
+    {
+      "server_id": 4612,
+      "client_id": 4601,
+      "otb_block_solid": true,
+      "dat_unpassable": true,
+      "xml_overrides": {},
+      "effective_server_block_solid": true,
+      "mapping_exclusive": true
+    },
+    {
+      "server_id": 4616,
+      "client_id": 4611,
+      "otb_block_solid": true,
+      "dat_unpassable": true,
+      "xml_overrides": {},
+      "effective_server_block_solid": true,
+      "mapping_exclusive": true
+    },
+    {
+      "server_id": 4665,
+      "client_id": 4654,
+      "otb_block_solid": true,
+      "dat_unpassable": true,
+      "xml_overrides": {},
+      "effective_server_block_solid": true,
+      "mapping_exclusive": true
+    },
+    {
+      "server_id": 4664,
+      "client_id": 4653,
+      "otb_block_solid": true,
+      "dat_unpassable": true,
+      "xml_overrides": {},
+      "effective_server_block_solid": true,
+      "mapping_exclusive": true
+    },
+    {
+      "server_id": 25157,
+      "client_id": 24272,
+      "otb_block_solid": false,
+      "dat_unpassable": false,
+      "xml_overrides": {},
+      "effective_server_block_solid": false,
+      "mapping_exclusive": true
+    },
+    {
+      "server_id": 4666,
+      "client_id": 4655,
+      "otb_block_solid": true,
+      "dat_unpassable": true,
+      "xml_overrides": {},
+      "effective_server_block_solid": true,
+      "mapping_exclusive": true
+    },
+    {
+      "server_id": 25158,
+      "client_id": 24273,
+      "otb_block_solid": false,
+      "dat_unpassable": false,
+      "xml_overrides": {},
+      "effective_server_block_solid": false,
+      "mapping_exclusive": true
+    },
+    {
+      "server_id": 25170,
+      "client_id": 24285,
+      "otb_block_solid": false,
+      "dat_unpassable": false,
+      "xml_overrides": {},
+      "effective_server_block_solid": false,
+      "mapping_exclusive": true
+    },
+    {
+      "server_id": 25155,
+      "client_id": 24270,
+      "otb_block_solid": false,
+      "dat_unpassable": false,
+      "xml_overrides": {},
+      "effective_server_block_solid": false,
+      "mapping_exclusive": true
+    },
+    {
+      "server_id": 25156,
+      "client_id": 24271,
+      "otb_block_solid": false,
+      "dat_unpassable": false,
+      "xml_overrides": {},
+      "effective_server_block_solid": false,
+      "mapping_exclusive": true
+    },
+    {
+      "server_id": 25174,
+      "client_id": 24289,
+      "otb_block_solid": false,
+      "dat_unpassable": false,
+      "xml_overrides": {},
+      "effective_server_block_solid": false,
+      "mapping_exclusive": true
+    },
+    {
+      "server_id": 25161,
+      "client_id": 24276,
+      "otb_block_solid": false,
+      "dat_unpassable": false,
+      "xml_overrides": {},
+      "effective_server_block_solid": false,
+      "mapping_exclusive": true
+    },
+    {
+      "server_id": 25159,
+      "client_id": 24274,
+      "otb_block_solid": false,
+      "dat_unpassable": false,
+      "xml_overrides": {},
+      "effective_server_block_solid": false,
+      "mapping_exclusive": true
+    },
+    {
+      "server_id": 25169,
+      "client_id": 24284,
+      "otb_block_solid": false,
+      "dat_unpassable": false,
+      "xml_overrides": {},
+      "effective_server_block_solid": false,
+      "mapping_exclusive": true
+    },
+    {
+      "server_id": 25160,
+      "client_id": 24275,
+      "otb_block_solid": false,
+      "dat_unpassable": false,
+      "xml_overrides": {},
+      "effective_server_block_solid": false,
+      "mapping_exclusive": true
+    },
+    {
+      "server_id": 25166,
+      "client_id": 24281,
+      "otb_block_solid": false,
+      "dat_unpassable": false,
+      "xml_overrides": {},
+      "effective_server_block_solid": false,
+      "mapping_exclusive": true
+    },
+    {
+      "server_id": 25173,
+      "client_id": 24288,
+      "otb_block_solid": false,
+      "dat_unpassable": false,
+      "xml_overrides": {},
+      "effective_server_block_solid": false,
+      "mapping_exclusive": true
+    },
+    {
+      "server_id": 25168,
+      "client_id": 24283,
+      "otb_block_solid": false,
+      "dat_unpassable": false,
+      "xml_overrides": {},
+      "effective_server_block_solid": false,
+      "mapping_exclusive": true
+    },
+    {
+      "server_id": 25172,
+      "client_id": 24287,
+      "otb_block_solid": false,
+      "dat_unpassable": false,
+      "xml_overrides": {},
+      "effective_server_block_solid": false,
+      "mapping_exclusive": true
+    },
+    {
+      "server_id": 20852,
+      "client_id": 19967,
+      "otb_block_solid": false,
+      "dat_unpassable": false,
+      "xml_overrides": {},
+      "effective_server_block_solid": false,
+      "mapping_exclusive": true
+    },
+    {
+      "server_id": 25167,
+      "client_id": 24282,
+      "otb_block_solid": false,
+      "dat_unpassable": false,
+      "xml_overrides": {},
+      "effective_server_block_solid": false,
+      "mapping_exclusive": true
+    },
+    {
+      "server_id": 20848,
+      "client_id": 19963,
+      "otb_block_solid": false,
+      "dat_unpassable": false,
+      "xml_overrides": {},
+      "effective_server_block_solid": false,
+      "mapping_exclusive": true
+    },
+    {
+      "server_id": 25164,
+      "client_id": 24279,
+      "otb_block_solid": false,
+      "dat_unpassable": false,
+      "xml_overrides": {},
+      "effective_server_block_solid": false,
+      "mapping_exclusive": true
+    },
+    {
+      "server_id": 25171,
+      "client_id": 24286,
+      "otb_block_solid": false,
+      "dat_unpassable": false,
+      "xml_overrides": {},
+      "effective_server_block_solid": false,
+      "mapping_exclusive": true
+    },
+    {
+      "server_id": 25165,
+      "client_id": 24280,
+      "otb_block_solid": false,
+      "dat_unpassable": false,
+      "xml_overrides": {},
+      "effective_server_block_solid": false,
+      "mapping_exclusive": true
+    },
+    {
+      "server_id": 20843,
+      "client_id": 19958,
+      "otb_block_solid": false,
+      "dat_unpassable": false,
+      "xml_overrides": {},
+      "effective_server_block_solid": false,
+      "mapping_exclusive": true
+    },
+    {
+      "server_id": 25151,
+      "client_id": 24266,
+      "otb_block_solid": false,
+      "dat_unpassable": false,
+      "xml_overrides": {},
+      "effective_server_block_solid": false,
+      "mapping_exclusive": true
+    },
+    {
+      "server_id": 25153,
+      "client_id": 24268,
+      "otb_block_solid": false,
+      "dat_unpassable": false,
+      "xml_overrides": {},
+      "effective_server_block_solid": false,
+      "mapping_exclusive": true
+    },
+    {
+      "server_id": 25152,
+      "client_id": 24267,
+      "otb_block_solid": false,
+      "dat_unpassable": false,
+      "xml_overrides": {},
+      "effective_server_block_solid": false,
+      "mapping_exclusive": true
+    },
+    {
+      "server_id": 4824,
+      "client_id": 4813,
+      "otb_block_solid": false,
+      "dat_unpassable": false,
+      "xml_overrides": {},
+      "effective_server_block_solid": false,
+      "mapping_exclusive": true
+    },
+    {
+      "server_id": 20842,
+      "client_id": 19957,
+      "otb_block_solid": false,
+      "dat_unpassable": false,
+      "xml_overrides": {},
+      "effective_server_block_solid": false,
+      "mapping_exclusive": true
+    },
+    {
+      "server_id": 20847,
+      "client_id": 19962,
+      "otb_block_solid": false,
+      "dat_unpassable": false,
+      "xml_overrides": {},
+      "effective_server_block_solid": false,
+      "mapping_exclusive": true
+    },
+    {
+      "server_id": 25150,
+      "client_id": 24265,
+      "otb_block_solid": false,
+      "dat_unpassable": false,
+      "xml_overrides": {},
+      "effective_server_block_solid": false,
+      "mapping_exclusive": true
+    },
+    {
+      "server_id": 20850,
+      "client_id": 19965,
+      "otb_block_solid": false,
+      "dat_unpassable": false,
+      "xml_overrides": {},
+      "effective_server_block_solid": false,
+      "mapping_exclusive": true
+    },
+    {
+      "server_id": 20851,
+      "client_id": 19966,
+      "otb_block_solid": false,
+      "dat_unpassable": false,
+      "xml_overrides": {},
+      "effective_server_block_solid": false,
+      "mapping_exclusive": true
+    },
+    {
+      "server_id": 25163,
+      "client_id": 24278,
+      "otb_block_solid": false,
+      "dat_unpassable": false,
+      "xml_overrides": {},
+      "effective_server_block_solid": false,
+      "mapping_exclusive": true
+    },
+    {
+      "server_id": 20846,
+      "client_id": 19961,
+      "otb_block_solid": false,
+      "dat_unpassable": false,
+      "xml_overrides": {},
+      "effective_server_block_solid": false,
+      "mapping_exclusive": true
+    },
+    {
+      "server_id": 20844,
+      "client_id": 19959,
+      "otb_block_solid": false,
+      "dat_unpassable": false,
+      "xml_overrides": {},
+      "effective_server_block_solid": false,
+      "mapping_exclusive": true
+    },
+    {
+      "server_id": 20841,
+      "client_id": 19956,
+      "otb_block_solid": false,
+      "dat_unpassable": false,
+      "xml_overrides": {},
+      "effective_server_block_solid": false,
+      "mapping_exclusive": true
+    },
+    {
+      "server_id": 21116,
+      "client_id": 20231,
+      "otb_block_solid": false,
+      "dat_unpassable": false,
+      "xml_overrides": {},
+      "effective_server_block_solid": false,
+      "mapping_exclusive": true
+    },
+    {
+      "server_id": 20845,
+      "client_id": 19960,
+      "otb_block_solid": false,
+      "dat_unpassable": false,
+      "xml_overrides": {},
+      "effective_server_block_solid": false,
+      "mapping_exclusive": true
+    },
+    {
+      "server_id": 20849,
+      "client_id": 19964,
+      "otb_block_solid": false,
+      "dat_unpassable": false,
+      "xml_overrides": {},
+      "effective_server_block_solid": false,
+      "mapping_exclusive": true
+    },
+    {
+      "server_id": 16433,
+      "client_id": 15548,
+      "otb_block_solid": false,
+      "dat_unpassable": false,
+      "xml_overrides": {},
+      "effective_server_block_solid": false,
+      "mapping_exclusive": true
+    }
+  ],
+  "dat_otb_agree": true,
+  "xml_blocking_overrides": 0,
+  "shared_client_ambiguities": 0,
+  "canonical_changed": false
+}

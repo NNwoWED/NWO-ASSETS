@@ -1,0 +1,84 @@
+{
+  "schema": 1,
+  "kind": "nwo-map-publication",
+  "runId": "20261020-164911-927750-570e5715",
+  "stage": "committed",
+  "canonicalFile": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\world\\mapanovo.otbm",
+  "expectedCanonicalHash": "8cdfddf9dc2a9e53053e4f3faf7f6825fd89b6b63ee06272ecd234b387202821",
+  "outputHash": "ac32c669bed3512d69ae054cafc8564a236c9894b22bbc9a0e9d7acaefad5512",
+  "sourceHash": "8cdfddf9dc2a9e53053e4f3faf7f6825fd89b6b63ee06272ecd234b387202821",
+  "baselineFile": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\drafts\\history\\8cdfddf9dc2a9e53053e4f3faf7f6825fd89b6b63ee06272ecd234b387202821.baseline",
+  "versionId": "20261020-164921-318526",
+  "recoveryArchive": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261020-164921-318526\\world.zip",
+  "positionReport": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\reports\\map-positions-20261020-164911-927750-570e5715.jsonl.gz",
+  "publicationReport": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\reports\\map-publish-20261020-164911-927750-570e5715.json",
+  "beforeReport": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\reports\\map-before-20261020-164911-927750-570e5715.json",
+  "afterReport": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\reports\\map-after-20261020-164911-927750-570e5715.json",
+  "preparedAt": "2026-10-20T16:51:47.668066-03:00",
+  "context": {
+    "card": "https://trello.com/c/3WURTDBh",
+    "kind": "map_existing_item_placement",
+    "canonical_map": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\world\\mapanovo.otbm",
+    "position": [
+      1223,
+      766,
+      6
+    ],
+    "before_server_ids": [
+      14931
+    ],
+    "after_server_ids": [
+      14931,
+      20952
+    ],
+    "tile_flags_before": 1,
+    "tile_flags_after": 1,
+    "existing_tile_bytes_preserved": true,
+    "declared_item_additions": [
+      20952
+    ],
+    "item": {
+      "name": "Disassembly station (existing Ninja forge appearance)",
+      "server_id": 20952,
+      "client_id": 20067,
+      "otb_flags": [
+        "block_solid",
+        "block_projectile",
+        "block_pathfind",
+        "always_on_top",
+        "animation"
+      ],
+      "exported_png": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\ryuji-forge-review-20261020\\server-20952_client-20067.png",
+      "layout": "Existing64x64 appearance,8 frames; properties and timing unchanged"
+    },
+    "location_basis": "Startup Ryuji at1225,763,6 in121-npcs_on_startup.lua, invoked by customInit; canonical forge interior and clear tile verified.",
+    "expected_result": "Existing action20952 opens disassembly/tier menu; room entrance and NPC counter remain reachable.",
+    "client_change": false,
+    "server_code_change": false,
+    "database_access": false,
+    "sprite_or_properties_change": false,
+    "source_hash": "8cdfddf9dc2a9e53053e4f3faf7f6825fd89b6b63ee06272ecd234b387202821"
+  },
+  "committedAt": "2026-10-20T16:51:56.972161-03:00",
+  "result": {
+    "passed": true,
+    "committed": true,
+    "sha256": "ac32c669bed3512d69ae054cafc8564a236c9894b22bbc9a0e9d7acaefad5512",
+    "baselineFile": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\drafts\\history\\8cdfddf9dc2a9e53053e4f3faf7f6825fd89b6b63ee06272ecd234b387202821.baseline",
+    "versionId": "20261020-164921-318526",
+    "positionReport": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\reports\\map-positions-20261020-164911-927750-570e5715.jsonl.gz",
+    "itemAdditions": [
+      {
+        "position": [
+          1223,
+          766,
+          6
+        ],
+        "serverIds": [
+          20952
+        ]
+      }
+    ],
+    "journalPath": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\reports\\ryuji-bench-publication-journal-20261020.json"
+  }
+}

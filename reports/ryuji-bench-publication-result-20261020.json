@@ -1,0 +1,21 @@
+{
+  "passed": true,
+  "committed": true,
+  "sha256": "ac32c669bed3512d69ae054cafc8564a236c9894b22bbc9a0e9d7acaefad5512",
+  "baselineFile": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\drafts\\history\\8cdfddf9dc2a9e53053e4f3faf7f6825fd89b6b63ee06272ecd234b387202821.baseline",
+  "versionId": "20261020-164921-318526",
+  "positionReport": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\reports\\map-positions-20261020-164911-927750-570e5715.jsonl.gz",
+  "itemAdditions": [
+    {
+      "position": [
+        1223,
+        766,
+        6
+      ],
+      "serverIds": [
+        20952
+      ]
+    }
+  ],
+  "journalPath": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\reports\\ryuji-bench-publication-journal-20261020.json"
+}

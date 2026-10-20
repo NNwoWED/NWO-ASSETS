@@ -1,0 +1,24 @@
+{
+  "operation": "substituir texto descritivo de item existente",
+  "item_name": "Kubikiribouchou Box",
+  "purpose": "Battle Pass premium level23 cosmetic house decoration",
+  "server_id": 24967,
+  "client_id": 24082,
+  "otb_mapping_exclusive": true,
+  "png": "not applicable: no appearance edit",
+  "layout": "preserved",
+  "dat_otb_policy": "byte-for-byte preserved; no flags or payload changes",
+  "description": "Item cosmético de decoração para sua house.",
+  "status": "validated_and_synchronized",
+  "binary_sha256_before": {
+    "assets\\860\\Tibia.dat": "19c713d6620051995e00ca2be826f68e8a6387eab2bd3ee516648cc7e07af846",
+    "assets\\860\\Tibia.spr": "2a44164ee33aa93b54f7188557003e9fc6776719387f193da6bbf4d391390de6",
+    "assets\\items\\items.otb": "508628640064c3388bd2ee2467acf885a7b7b61b117e6c1342c25ed9448bea7e",
+    "assets\\world\\mapanovo.otbm": "8cdfddf9dc2a9e53053e4f3faf7f6825fd89b6b63ee06272ecd234b387202821"
+  },
+  "validation": "reports/validation-battlepass-cosmetic-box-20261020.json",
+  "sync": "reports/sync-runtime-battlepass-cosmetic-box-20261020.json",
+  "binary_hashes_unchanged": true,
+  "catalog_indices_checked": 3,
+  "reward_level_checked": 23
+}

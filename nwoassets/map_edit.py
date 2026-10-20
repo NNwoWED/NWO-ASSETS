@@ -237,6 +237,31 @@ def build_tile(x, y, z, items, flags=0):
     return _node(payload, bytes(children))
 
 
+def append_tile_items(raw, items):
+    """Append plain item nodes while preserving every existing encoded byte.
+
+    Only ordinary tiles and protection-zone tiles are supported. Houses,
+    nested containers, item attributes and unknown attributes remain protected.
+    This constructs a draft only; publication still requires a declared append
+    contract, full versioning and the original/target audit.
+    """
+    if not isinstance(raw, bytes) or not isinstance(items, (tuple, list)) or not items:
+        raise MapEditError("Item append requires tile bytes and a nonempty item list.")
+    record = tile_record(raw)
+    if record['end'] != len(raw) or record['house'] is not None:
+        raise MapEditError("Item append requires one complete non-house tile.")
+    if set(record['protectionReasons']) - {'flags'} or record['flags'] & ~1:
+        raise MapEditError("Item append cannot change tiles with other protections or attributes.")
+    children = bytearray()
+    for sid in items:
+        _integer(sid, 1, 65535, "Server ID")
+        children.extend(_node(b"\x06" + struct.pack("<H", sid)))
+    result = raw[:-1] + children + raw[-1:]
+    if len(result) > MAX_TILE:
+        raise MapEditError("Item append exceeds the safe tile size.")
+    return bytes(result)
+
+
 def rebase_tile(raw, x, y, z, area_x=None, area_y=None):
     """Change only dx/dy, retaining the remainder of the encoded subtree."""
     x, y, z = _position((x, y, z))
