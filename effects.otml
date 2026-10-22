@@ -3526,6 +3526,12 @@ effects:
   1467:
     opacity: 1.0
     effect-displacement: 64 64
+  1474: // zabuza e3 desaparecendo kid
+    opacity: 1.0
+  1475: // zabuza e3 desaparecendo shippuden
+    opacity: 1.0
+  1476: // zabuza e3 desaparecendo oni
+    opacity: 1.0
   1839:
     opacity: 0.8
   1840:

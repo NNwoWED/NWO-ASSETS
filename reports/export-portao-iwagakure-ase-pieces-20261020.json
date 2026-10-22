@@ -1,0 +1,381 @@
+{
+  "source": "sprites/portão iwagakure.ase",
+  "source_sha256": "C0170595AF5E6BE957E0F3D5419079722CC5C712B739506D636C5BA9568AD4D4",
+  "ase": {
+    "canvas": [
+      500,
+      500
+    ],
+    "depth": 32,
+    "frames": 1,
+    "layers": 6,
+    "cels": 6
+  },
+  "method": "camadas RGBA achatadas em blend normal; recortes alinhados a 32 px; padding transparente; sem redimensionamento ou suavizacao",
+  "compact_canvas": {
+    "origin_in_ase": [
+      82,
+      114
+    ],
+    "size": [
+      320,
+      224
+    ],
+    "content_bbox": [
+      0,
+      0,
+      302,
+      205
+    ]
+  },
+  "reference": {
+    "name": "Portao de Konohagakure",
+    "server_id_range": [
+      22376,
+      22430
+    ],
+    "item_count": 55
+  },
+  "piece_count": 15,
+  "preview": "drafts/portao-iwagakure-20261020/portao-iwagakure-preview-320x224.png",
+  "verification": {
+    "pieces_reassemble_composite_pixel_exact": true,
+    "pieces_rgba_8bit_non_interlaced": true,
+    "piece_dimensions_multiple_of_32": true,
+    "piece_max_dimension": 96,
+    "resized": false
+  },
+  "outputs": [
+    {
+      "file": "sprites/portao-iwagakure-png/01-portao_x000_y000_96x96.png",
+      "layer": "portão",
+      "rect_in_compact_canvas": [
+        0,
+        0,
+        96,
+        96
+      ],
+      "size": [
+        96,
+        96
+      ],
+      "nonempty_bbox": [
+        0,
+        10,
+        96,
+        96
+      ],
+      "bytes": 3995,
+      "sha256": "151434759D2441CCE0A6E6FA49FB62C8A5C2F0F49E9214B974EE78067A262A75"
+    },
+    {
+      "file": "sprites/portao-iwagakure-png/02-portao_x096_y000_96x96.png",
+      "layer": "portão",
+      "rect_in_compact_canvas": [
+        96,
+        0,
+        192,
+        96
+      ],
+      "size": [
+        96,
+        96
+      ],
+      "nonempty_bbox": [
+        0,
+        34,
+        82,
+        96
+      ],
+      "bytes": 2190,
+      "sha256": "C7DD8713E7612F2B7D2E1DFC42EF2D4A3DB77CDB978BE1C14C3640D61A4E9273"
+    },
+    {
+      "file": "sprites/portao-iwagakure-png/03-portao_x000_y096_96x96.png",
+      "layer": "portão",
+      "rect_in_compact_canvas": [
+        0,
+        96,
+        96,
+        192
+      ],
+      "size": [
+        96,
+        96
+      ],
+      "nonempty_bbox": [
+        9,
+        0,
+        96,
+        57
+      ],
+      "bytes": 1529,
+      "sha256": "A9F01F555FE8C9113DB6DC4CB03084A218E40E7620278865B818FB6B5BEE20C3"
+    },
+    {
+      "file": "sprites/portao-iwagakure-png/04-portao_x096_y096_96x96.png",
+      "layer": "portão",
+      "rect_in_compact_canvas": [
+        96,
+        96,
+        192,
+        192
+      ],
+      "size": [
+        96,
+        96
+      ],
+      "nonempty_bbox": [
+        0,
+        0,
+        96,
+        74
+      ],
+      "bytes": 1550,
+      "sha256": "E66450867F75BDAFDDB31BE2BF184985F7755688F56F504A4BAF7913C725DE84"
+    },
+    {
+      "file": "sprites/portao-iwagakure-png/05-portao_x192_y096_64x96.png",
+      "layer": "portão",
+      "rect_in_compact_canvas": [
+        192,
+        96,
+        256,
+        192
+      ],
+      "size": [
+        64,
+        96
+      ],
+      "nonempty_bbox": [
+        0,
+        18,
+        56,
+        74
+      ],
+      "bytes": 855,
+      "sha256": "F28086F055F591619E987BFBB70831FF1FC2C9822B438987858034E744297F26"
+    },
+    {
+      "file": "sprites/portao-iwagakure-png/06-pilar-baixo_x224_y128_96x96.png",
+      "layer": "pilar baixo",
+      "rect_in_compact_canvas": [
+        224,
+        128,
+        320,
+        224
+      ],
+      "size": [
+        96,
+        96
+      ],
+      "nonempty_bbox": [
+        18,
+        0,
+        78,
+        77
+      ],
+      "bytes": 1809,
+      "sha256": "09A399EFADC730EA4603100AD18791B452C927549B0507AB56F1D36BC0A0087F"
+    },
+    {
+      "file": "sprites/portao-iwagakure-png/07-pilar-meio_x032_y096_96x96.png",
+      "layer": "pilar meio",
+      "rect_in_compact_canvas": [
+        32,
+        96,
+        128,
+        192
+      ],
+      "size": [
+        96,
+        96
+      ],
+      "nonempty_bbox": [
+        21,
+        5,
+        22,
+        6
+      ],
+      "bytes": 125,
+      "sha256": "0604B10AF22994B3B4E0796149FC480E51E5C442DCB5F80E2A6D72B1AE9C7188"
+    },
+    {
+      "file": "sprites/portao-iwagakure-png/08-pilar-meio_x128_y096_96x96.png",
+      "layer": "pilar meio",
+      "rect_in_compact_canvas": [
+        128,
+        96,
+        224,
+        192
+      ],
+      "size": [
+        96,
+        96
+      ],
+      "nonempty_bbox": [
+        82,
+        0,
+        96,
+        51
+      ],
+      "bytes": 289,
+      "sha256": "2509657F8EF7918397F3AA8E3862E47EE8D9A4E3F3F142899AAF0FB58ECA2842"
+    },
+    {
+      "file": "sprites/portao-iwagakure-png/09-pilar-meio_x224_y096_64x96.png",
+      "layer": "pilar meio",
+      "rect_in_compact_canvas": [
+        224,
+        96,
+        288,
+        192
+      ],
+      "size": [
+        64,
+        96
+      ],
+      "nonempty_bbox": [
+        0,
+        0,
+        47,
+        78
+      ],
+      "bytes": 1752,
+      "sha256": "26BE258088885408DF33015DD5A3D425D12E3219EFF7EBEC62C594FB8A0E15D9"
+    },
+    {
+      "file": "sprites/portao-iwagakure-png/10-casinha-pilar_x128_y000_96x96.png",
+      "layer": "casinha pilar",
+      "rect_in_compact_canvas": [
+        128,
+        0,
+        224,
+        96
+      ],
+      "size": [
+        96,
+        96
+      ],
+      "nonempty_bbox": [
+        22,
+        0,
+        96,
+        96
+      ],
+      "bytes": 1086,
+      "sha256": "0C38C0B1044BEC7397EAB8E66B8B0852227B769C05ED6F2B16F2B7EDDD3C83C7"
+    },
+    {
+      "file": "sprites/portao-iwagakure-png/11-casinha-pilar_x224_y000_32x96.png",
+      "layer": "casinha pilar",
+      "rect_in_compact_canvas": [
+        224,
+        0,
+        256,
+        96
+      ],
+      "size": [
+        32,
+        96
+      ],
+      "nonempty_bbox": [
+        0,
+        86,
+        10,
+        96
+      ],
+      "bytes": 194,
+      "sha256": "A1063F7B6E0BBEB98F6A5E98F2F445D190A483987FCB5E053D1BA3D24BBBE72A"
+    },
+    {
+      "file": "sprites/portao-iwagakure-png/12-casinha-pilar_x128_y096_96x64.png",
+      "layer": "casinha pilar",
+      "rect_in_compact_canvas": [
+        128,
+        96,
+        224,
+        160
+      ],
+      "size": [
+        96,
+        64
+      ],
+      "nonempty_bbox": [
+        49,
+        0,
+        96,
+        57
+      ],
+      "bytes": 1810,
+      "sha256": "E271E010D010CCC5788A557B79E9A9D838867852C8EA3813FD294DBA9C9CF354"
+    },
+    {
+      "file": "sprites/portao-iwagakure-png/13-casinha-pilar_x224_y096_32x64.png",
+      "layer": "casinha pilar",
+      "rect_in_compact_canvas": [
+        224,
+        96,
+        256,
+        160
+      ],
+      "size": [
+        32,
+        64
+      ],
+      "nonempty_bbox": [
+        0,
+        0,
+        21,
+        57
+      ],
+      "bytes": 924,
+      "sha256": "FABCC7BEB8160F2C3AA4592B8384F2A902DB4B922AE2BD6EE93CBD9F0AA6E4ED"
+    },
+    {
+      "file": "sprites/portao-iwagakure-png/14-pilar-baixo-telhadinho_x128_y032_96x96.png",
+      "layer": "p baixo telhadinho",
+      "rect_in_compact_canvas": [
+        128,
+        32,
+        224,
+        128
+      ],
+      "size": [
+        96,
+        96
+      ],
+      "nonempty_bbox": [
+        31,
+        16,
+        76,
+        74
+      ],
+      "bytes": 1725,
+      "sha256": "FE37100D7948746E55417EADECC38CE102B0D507735EF1D07FC60F27674EA42F"
+    },
+    {
+      "file": "sprites/portao-iwagakure-png/15-telhadinho_x128_y032_64x64.png",
+      "layer": "telhadinho",
+      "rect_in_compact_canvas": [
+        128,
+        32,
+        192,
+        96
+      ],
+      "size": [
+        64,
+        64
+      ],
+      "nonempty_bbox": [
+        18,
+        10,
+        59,
+        52
+      ],
+      "bytes": 1370,
+      "sha256": "BE84130F52FE04325A638984A0A7AFA87AE9F05D5E4E14568A22FA02AA0B4F3C"
+    }
+  ],
+  "passed": true
+}

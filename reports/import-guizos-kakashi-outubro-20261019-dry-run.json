@@ -1,0 +1,95 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "manifest": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\guizos-kakashi-outubro-2026.csv",
+  "item_count": 2,
+  "target_server_id_range": [
+    25601,
+    25602
+  ],
+  "target_client_id_range": [
+    24716,
+    24717
+  ],
+  "new_sprite_count": 2,
+  "sprite_id_range": [
+    276727,
+    276728
+  ],
+  "items": [
+    {
+      "sequence": 1,
+      "source_server_id": 24131,
+      "source_client_id": 23246,
+      "target_server_id": 25601,
+      "target_client_id": 24716,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\guizo-kakashi-outubro-ativo.png",
+      "source_sha256": "4DD840F823AF2254B1113A6983D713A1B6C7BB495BF553B697756D93BFA16604",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        276727,
+        276727
+      ],
+      "sprite_hash": "788CD320EABE6342E4875CD71375B350"
+    },
+    {
+      "sequence": 2,
+      "source_server_id": 24132,
+      "source_client_id": 23247,
+      "target_server_id": 25602,
+      "target_client_id": 24717,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\guizo-kakashi-outubro-expirado.png",
+      "source_sha256": "1A0E8C9CC47FB1A425C7ACE6C58E548F99DF13D0DCBE8D087811E8C0D4598DAC",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        276728,
+        276728
+      ],
+      "sprite_hash": "9936009B9CFAC8D36769567DAA1CA3E5"
+    }
+  ],
+  "xml": {
+    "source_definitions": 2,
+    "target_definitions_written": 2,
+    "target_definitions_already_exact": 0,
+    "target_ids": [
+      25601,
+      25602
+    ]
+  },
+  "map_scan": {
+    "tiles_scanned": 7824286,
+    "item_nodes_scanned": 2105106
+  },
+  "dry_run": true,
+  "passed": true
+}

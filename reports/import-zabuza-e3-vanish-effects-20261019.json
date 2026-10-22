@@ -1,0 +1,251 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "manifest": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\import-zabuza-e3-vanish-effects-20261019.csv",
+  "profile": "tibia-860-v2-custom-extended",
+  "version_backup": {
+    "tool_version": "0.8.2",
+    "version_id": "20261019-155840-601070",
+    "created_at": "2026-10-19T15:58:54.507502-03:00",
+    "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261019-155840-601070",
+    "rar_executable": "C:\\Program Files\\WinRAR\\Rar.exe",
+    "sources": [
+      {
+        "path": "assets/860/.gitattributes",
+        "size": 43,
+        "sha256": "D5636A3257287440945C5E017581545E5B0A3E2FDDDAE7C5EF8D90FF4DF3D32A"
+      },
+      {
+        "path": "assets/860/Tibia.dat",
+        "size": 4510619,
+        "sha256": "BFDDCBE365B5F9D84DCEC76DC1935FA0342244F0FFBAA6911BD6DF41A2E84E0F"
+      },
+      {
+        "path": "assets/860/Tibia.otfi",
+        "size": 185,
+        "sha256": "7743548835944BC799CB871A4E5DEF84F7AF76815031871B9CE74B5EC0E8ADD3"
+      },
+      {
+        "path": "assets/860/Tibia.spr",
+        "size": 465357124,
+        "sha256": "C4ED7417D4A54FAAC5C6401891920083850B3AF3CC0A14025E2EBED43233B3EA"
+      },
+      {
+        "path": "assets/items/force use.txt",
+        "size": 419,
+        "sha256": "BCB478FDF3F45ECA8D172AFD7A17D3F8CD520924EE0894752452B8FDC8F71959"
+      },
+      {
+        "path": "assets/items/items.otb",
+        "size": 1012047,
+        "sha256": "508628640064C3388BD2EE2467ACF885A7B7B61B117E6C1342C25ED9448BEA7E"
+      },
+      {
+        "path": "assets/world/mapanovo.otbm",
+        "size": 80105770,
+        "sha256": "8CDFDDF9DC2A9E53053E4F3FAF7F6825FD89B6B63EE06272ECD234B387202821"
+      }
+    ],
+    "archives": {
+      "860": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261019-155840-601070\\860.rar",
+        "size": 85414460,
+        "sha256": "30FF7C3BC74A4BEF0C1D899BA657D9A7D715A37691402C19D500460E31AA5C1B"
+      },
+      "items": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261019-155840-601070\\items.rar",
+        "size": 482421,
+        "sha256": "3115E1AA5389084CDA820D418C6A078F78721D83D2F02F2EA0A63F161B0EF31E"
+      },
+      "world": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261019-155840-601070\\world.zip",
+        "size": 19337359,
+        "sha256": "170CD29639D001F9273247C874479344E8207ECB971919AE0E8CAE14295E4A31"
+      }
+    },
+    "items_xml_excluded": true,
+    "world_entries": [
+      "mapanovo.otbm"
+    ],
+    "passed": true
+  },
+  "effect_count": 3,
+  "new_sprite_count": 108,
+  "sprite_id_range": [
+    276729,
+    276836
+  ],
+  "effects": [
+    {
+      "sequence": 1,
+      "effect_id": 1474,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\zabuza-e3-vanish-kid-effect.png",
+      "file_sha256": "89AFA9B75FEA48B461BFC8E5CF17775C596BF0A7D7403436E4F486F8085BDD48",
+      "pixels_sha256": "D4B31B1FBF664BE7281F61AB5A3390EF7F151F5BB94CA22645433570E7FB20B8",
+      "image_width": 64,
+      "image_height": 576,
+      "width_tiles": 2,
+      "height_tiles": 2,
+      "frames": 9,
+      "frame_duration_ms": 100,
+      "animation_async": false,
+      "preserve_as": null,
+      "sprite_ids": [
+        276729,
+        276730,
+        276731,
+        276732,
+        276733,
+        276734,
+        276735,
+        276736,
+        276737,
+        276738,
+        276739,
+        276740,
+        276741,
+        276742,
+        276743,
+        276744,
+        276745,
+        276746,
+        276747,
+        276748,
+        276749,
+        276750,
+        276751,
+        276752,
+        276753,
+        276754,
+        276755,
+        276756,
+        276757,
+        276758,
+        276759,
+        276760,
+        276761,
+        276762,
+        276763,
+        276764
+      ]
+    },
+    {
+      "sequence": 2,
+      "effect_id": 1475,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\zabuza-e3-vanish-shippuden-effect.png",
+      "file_sha256": "14A4FD0BAFCDB4A1063AE7C066FE7BB3487B2E204C8851BA13E425704CC69AD6",
+      "pixels_sha256": "D4B7CAA16B2C93C3C45FE4E4F43C886A380395B9D11C69494FB3B1A76EFE801C",
+      "image_width": 64,
+      "image_height": 576,
+      "width_tiles": 2,
+      "height_tiles": 2,
+      "frames": 9,
+      "frame_duration_ms": 100,
+      "animation_async": false,
+      "preserve_as": null,
+      "sprite_ids": [
+        276765,
+        276766,
+        276767,
+        276768,
+        276769,
+        276770,
+        276771,
+        276772,
+        276773,
+        276774,
+        276775,
+        276776,
+        276777,
+        276778,
+        276779,
+        276780,
+        276781,
+        276782,
+        276783,
+        276784,
+        276785,
+        276786,
+        276787,
+        276788,
+        276789,
+        276790,
+        276791,
+        276792,
+        276793,
+        276794,
+        276795,
+        276796,
+        276797,
+        276798,
+        276799,
+        276800
+      ]
+    },
+    {
+      "sequence": 3,
+      "effect_id": 1476,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\zabuza-e3-vanish-oni-effect.png",
+      "file_sha256": "77427B4725299401E407F6F33B729CEDB2C0DB145B7A3D50E72AE05B222CBE44",
+      "pixels_sha256": "EB0B4B52A40D9F59D486BD35F88F4DC4C4B64121B994263EFF08DEC5EEB82863",
+      "image_width": 64,
+      "image_height": 576,
+      "width_tiles": 2,
+      "height_tiles": 2,
+      "frames": 9,
+      "frame_duration_ms": 100,
+      "animation_async": false,
+      "preserve_as": null,
+      "sprite_ids": [
+        276801,
+        276802,
+        276803,
+        276804,
+        276805,
+        276806,
+        276807,
+        276808,
+        276809,
+        276810,
+        276811,
+        276812,
+        276813,
+        276814,
+        276815,
+        276816,
+        276817,
+        276818,
+        276819,
+        276820,
+        276821,
+        276822,
+        276823,
+        276824,
+        276825,
+        276826,
+        276827,
+        276828,
+        276829,
+        276830,
+        276831,
+        276832,
+        276833,
+        276834,
+        276835,
+        276836
+      ]
+    }
+  ],
+  "transaction_committed": true,
+  "output_hashes": {
+    "dat": "19C713D6620051995E00CA2BE826F68E8A6387EAB2BD3EE516648CC7E07AF846",
+    "spr": "2A44164EE33AA93B54F7188557003E9FC6776719387F193DA6BBF4D391390DE6"
+  },
+  "dat_non_targets_preserved": true,
+  "old_sprite_payload_preserved": true,
+  "new_sprite_pixels_verified": true,
+  "untouched_files_preserved": true,
+  "final_validation_passed": true,
+  "warnings": [],
+  "errors": [],
+  "passed": true
+}

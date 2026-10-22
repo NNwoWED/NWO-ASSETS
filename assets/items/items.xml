@@ -19276,4 +19276,10 @@
 	<item id="25598" name="Rocky Terrain Wall 2" />
 	<item id="25599" name="Sand Gravel" />
 	<item id="25600" name="Log Wall" />
+	<item id="25601" article="a" name="Kakashi's Guizos">
+		<attribute key="description" value="Utilize de 22/10/2026 apos o Server Save ate 24/10/2026 e receba Double XP por 1 hora." />
+	</item>
+	<item id="25602" article="a" name="Kakashi's Guizos">
+		<attribute key="description" value="Uma oportunidade perdida." />
+	</item>
 </items>

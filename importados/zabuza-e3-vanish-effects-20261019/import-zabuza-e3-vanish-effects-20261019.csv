@@ -1,0 +1,4 @@
+sequence,effect_id,source_path,frames,frame_duration_ms,animation_async,preserve_as
+1,1474,zabuza-e3-vanish-kid-effect.png,9,100,0,
+2,1475,zabuza-e3-vanish-shippuden-effect.png,9,100,0,
+3,1476,zabuza-e3-vanish-oni-effect.png,9,100,0,
