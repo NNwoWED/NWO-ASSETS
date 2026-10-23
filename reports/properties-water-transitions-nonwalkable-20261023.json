@@ -1,0 +1,499 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "manifest": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\water-transition-nonwalkable-properties-20261023\\properties.csv",
+  "version_backup": {
+    "tool_version": "0.8.2",
+    "version_id": "20261023-022513-312372",
+    "created_at": "2026-10-23T02:25:24.258139-03:00",
+    "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261023-022513-312372",
+    "rar_executable": "C:\\Program Files\\WinRAR\\Rar.exe",
+    "sources": [
+      {
+        "path": "assets/860/.gitattributes",
+        "size": 43,
+        "sha256": "D5636A3257287440945C5E017581545E5B0A3E2FDDDAE7C5EF8D90FF4DF3D32A"
+      },
+      {
+        "path": "assets/860/Tibia.dat",
+        "size": 4519408,
+        "sha256": "615D9DFBE2E6EFF8827C3DD932B0307B7C3B659BD58C0E9BD6D19BE607FA7EDD"
+      },
+      {
+        "path": "assets/860/Tibia.otfi",
+        "size": 185,
+        "sha256": "7743548835944BC799CB871A4E5DEF84F7AF76815031871B9CE74B5EC0E8ADD3"
+      },
+      {
+        "path": "assets/860/Tibia.spr",
+        "size": 468336570,
+        "sha256": "F1BF1FFA64D70A485B70EA3C6568A77563C93BE9A261B10EDA2656E5A0F40AE1"
+      },
+      {
+        "path": "assets/items/force use.txt",
+        "size": 419,
+        "sha256": "BCB478FDF3F45ECA8D172AFD7A17D3F8CD520924EE0894752452B8FDC8F71959"
+      },
+      {
+        "path": "assets/items/items.otb",
+        "size": 1013643,
+        "sha256": "5A937168E3E8EBB603A40FA4DCEC1E91B1BFDED2352404795C8BCC7818B3C64F"
+      },
+      {
+        "path": "assets/world/mapanovo.otbm",
+        "size": 80105775,
+        "sha256": "AC32C669BED3512D69AE054CAFC8564A236C9894B22BBC9A0E9D7ACAEFAD5512"
+      }
+    ],
+    "archives": {
+      "860": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261023-022513-312372\\860.rar",
+        "size": 85933835,
+        "sha256": "B5461CFF6837601000F199AD452FF67C33B85E80871CCDB0FFD30CBAFE7CD07E"
+      },
+      "items": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261023-022513-312372\\items.rar",
+        "size": 483193,
+        "sha256": "931B7CF3072AED90751F3675345452453B9797738D5E304435B9C2DAB4FD6692"
+      },
+      "world": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261023-022513-312372\\world.zip",
+        "size": 19337404,
+        "sha256": "92E3613FFE42E15A419DD4A8A0F86A4570AEE5F031A4589F7010C4804EED8E7D"
+      }
+    },
+    "items_xml_excluded": true,
+    "world_entries": [
+      "mapanovo.otbm"
+    ],
+    "passed": true
+  },
+  "item_count": 12,
+  "items": [
+    {
+      "sequence": 1,
+      "server_id": 25615,
+      "client_id": 24730,
+      "dat": {
+        "before": [
+          "ground",
+          "unmoveable",
+          "mini_map",
+          "full_ground",
+          "custom_flag_22"
+        ],
+        "after": [
+          "ground",
+          "unmoveable",
+          "mini_map",
+          "full_ground",
+          "unpassable"
+        ]
+      },
+      "otb": {
+        "before_mask": "0x0B000000",
+        "after_mask": "0x03000001",
+        "before": [
+          "animation",
+          "walk_stack",
+          "walkable_water"
+        ],
+        "after": [
+          "block_solid",
+          "animation",
+          "walk_stack"
+        ]
+      }
+    },
+    {
+      "sequence": 2,
+      "server_id": 25616,
+      "client_id": 24731,
+      "dat": {
+        "before": [
+          "ground",
+          "unmoveable",
+          "mini_map",
+          "full_ground",
+          "custom_flag_22"
+        ],
+        "after": [
+          "ground",
+          "unmoveable",
+          "mini_map",
+          "full_ground",
+          "unpassable"
+        ]
+      },
+      "otb": {
+        "before_mask": "0x0B000000",
+        "after_mask": "0x03000001",
+        "before": [
+          "animation",
+          "walk_stack",
+          "walkable_water"
+        ],
+        "after": [
+          "block_solid",
+          "animation",
+          "walk_stack"
+        ]
+      }
+    },
+    {
+      "sequence": 3,
+      "server_id": 25617,
+      "client_id": 24732,
+      "dat": {
+        "before": [
+          "ground",
+          "unmoveable",
+          "mini_map",
+          "full_ground",
+          "custom_flag_22"
+        ],
+        "after": [
+          "ground",
+          "unmoveable",
+          "mini_map",
+          "full_ground",
+          "unpassable"
+        ]
+      },
+      "otb": {
+        "before_mask": "0x0B000000",
+        "after_mask": "0x03000001",
+        "before": [
+          "animation",
+          "walk_stack",
+          "walkable_water"
+        ],
+        "after": [
+          "block_solid",
+          "animation",
+          "walk_stack"
+        ]
+      }
+    },
+    {
+      "sequence": 4,
+      "server_id": 25618,
+      "client_id": 24733,
+      "dat": {
+        "before": [
+          "ground",
+          "unmoveable",
+          "mini_map",
+          "full_ground",
+          "custom_flag_22"
+        ],
+        "after": [
+          "ground",
+          "unmoveable",
+          "mini_map",
+          "full_ground",
+          "unpassable"
+        ]
+      },
+      "otb": {
+        "before_mask": "0x0B000000",
+        "after_mask": "0x03000001",
+        "before": [
+          "animation",
+          "walk_stack",
+          "walkable_water"
+        ],
+        "after": [
+          "block_solid",
+          "animation",
+          "walk_stack"
+        ]
+      }
+    },
+    {
+      "sequence": 5,
+      "server_id": 25619,
+      "client_id": 24734,
+      "dat": {
+        "before": [
+          "ground",
+          "unmoveable",
+          "mini_map",
+          "full_ground",
+          "custom_flag_22"
+        ],
+        "after": [
+          "ground",
+          "unmoveable",
+          "mini_map",
+          "full_ground",
+          "unpassable"
+        ]
+      },
+      "otb": {
+        "before_mask": "0x0B000000",
+        "after_mask": "0x03000001",
+        "before": [
+          "animation",
+          "walk_stack",
+          "walkable_water"
+        ],
+        "after": [
+          "block_solid",
+          "animation",
+          "walk_stack"
+        ]
+      }
+    },
+    {
+      "sequence": 6,
+      "server_id": 25620,
+      "client_id": 24735,
+      "dat": {
+        "before": [
+          "ground",
+          "unmoveable",
+          "mini_map",
+          "full_ground",
+          "custom_flag_22"
+        ],
+        "after": [
+          "ground",
+          "unmoveable",
+          "mini_map",
+          "full_ground",
+          "unpassable"
+        ]
+      },
+      "otb": {
+        "before_mask": "0x0B000000",
+        "after_mask": "0x03000001",
+        "before": [
+          "animation",
+          "walk_stack",
+          "walkable_water"
+        ],
+        "after": [
+          "block_solid",
+          "animation",
+          "walk_stack"
+        ]
+      }
+    },
+    {
+      "sequence": 7,
+      "server_id": 25621,
+      "client_id": 24736,
+      "dat": {
+        "before": [
+          "ground",
+          "unmoveable",
+          "mini_map",
+          "full_ground",
+          "custom_flag_22"
+        ],
+        "after": [
+          "ground",
+          "unmoveable",
+          "mini_map",
+          "full_ground",
+          "unpassable"
+        ]
+      },
+      "otb": {
+        "before_mask": "0x0B000000",
+        "after_mask": "0x03000001",
+        "before": [
+          "animation",
+          "walk_stack",
+          "walkable_water"
+        ],
+        "after": [
+          "block_solid",
+          "animation",
+          "walk_stack"
+        ]
+      }
+    },
+    {
+      "sequence": 8,
+      "server_id": 25622,
+      "client_id": 24737,
+      "dat": {
+        "before": [
+          "ground",
+          "unmoveable",
+          "mini_map",
+          "full_ground",
+          "custom_flag_22"
+        ],
+        "after": [
+          "ground",
+          "unmoveable",
+          "mini_map",
+          "full_ground",
+          "unpassable"
+        ]
+      },
+      "otb": {
+        "before_mask": "0x0B000000",
+        "after_mask": "0x03000001",
+        "before": [
+          "animation",
+          "walk_stack",
+          "walkable_water"
+        ],
+        "after": [
+          "block_solid",
+          "animation",
+          "walk_stack"
+        ]
+      }
+    },
+    {
+      "sequence": 9,
+      "server_id": 25623,
+      "client_id": 24738,
+      "dat": {
+        "before": [
+          "ground",
+          "unmoveable",
+          "mini_map",
+          "full_ground",
+          "custom_flag_22"
+        ],
+        "after": [
+          "ground",
+          "unmoveable",
+          "mini_map",
+          "full_ground",
+          "unpassable"
+        ]
+      },
+      "otb": {
+        "before_mask": "0x0B000000",
+        "after_mask": "0x03000001",
+        "before": [
+          "animation",
+          "walk_stack",
+          "walkable_water"
+        ],
+        "after": [
+          "block_solid",
+          "animation",
+          "walk_stack"
+        ]
+      }
+    },
+    {
+      "sequence": 10,
+      "server_id": 25624,
+      "client_id": 24739,
+      "dat": {
+        "before": [
+          "ground",
+          "unmoveable",
+          "mini_map",
+          "full_ground",
+          "custom_flag_22"
+        ],
+        "after": [
+          "ground",
+          "unmoveable",
+          "mini_map",
+          "full_ground",
+          "unpassable"
+        ]
+      },
+      "otb": {
+        "before_mask": "0x0B000000",
+        "after_mask": "0x03000001",
+        "before": [
+          "animation",
+          "walk_stack",
+          "walkable_water"
+        ],
+        "after": [
+          "block_solid",
+          "animation",
+          "walk_stack"
+        ]
+      }
+    },
+    {
+      "sequence": 11,
+      "server_id": 25625,
+      "client_id": 24740,
+      "dat": {
+        "before": [
+          "ground",
+          "unmoveable",
+          "mini_map",
+          "full_ground",
+          "custom_flag_22"
+        ],
+        "after": [
+          "ground",
+          "unmoveable",
+          "mini_map",
+          "full_ground",
+          "unpassable"
+        ]
+      },
+      "otb": {
+        "before_mask": "0x0B000000",
+        "after_mask": "0x03000001",
+        "before": [
+          "animation",
+          "walk_stack",
+          "walkable_water"
+        ],
+        "after": [
+          "block_solid",
+          "animation",
+          "walk_stack"
+        ]
+      }
+    },
+    {
+      "sequence": 12,
+      "server_id": 25626,
+      "client_id": 24741,
+      "dat": {
+        "before": [
+          "ground",
+          "unmoveable",
+          "mini_map",
+          "full_ground",
+          "custom_flag_22"
+        ],
+        "after": [
+          "ground",
+          "unmoveable",
+          "mini_map",
+          "full_ground",
+          "unpassable"
+        ]
+      },
+      "otb": {
+        "before_mask": "0x0B000000",
+        "after_mask": "0x03000001",
+        "before": [
+          "animation",
+          "walk_stack",
+          "walkable_water"
+        ],
+        "after": [
+          "block_solid",
+          "animation",
+          "walk_stack"
+        ]
+      }
+    }
+  ],
+  "transaction_committed": true,
+  "untouched_assets_preserved": true,
+  "final_validation_passed": true,
+  "warnings": [],
+  "errors": [],
+  "passed": true
+}

@@ -1,0 +1,46 @@
+{
+  "operation": "import-cloned-items",
+  "name": "Deep water and light-to-dark water transitions",
+  "purpose": "Add a complete animated light/dark-water transition family for all existing shoreline directions, plus matching shoreline gradients.",
+  "card": "https://trello.com/c/iypxbXLe",
+  "source_server_to_client": {
+    "4825": 4814,
+    "4644": 4633,
+    "4645": 4634,
+    "4646": 4635,
+    "4647": 4636,
+    "4648": 4637,
+    "4649": 4638,
+    "4650": 4639,
+    "4651": 4640,
+    "4652": 4641,
+    "4653": 4642,
+    "4654": 4643
+  },
+  "target_server_id_range": [
+    25615,
+    25637
+  ],
+  "target_client_id_range": [
+    24730,
+    24752
+  ],
+  "item_count": 23,
+  "source_png_directory": "sprites/water-transitions-gradient-20261023",
+  "manifest": "sprites/water-transitions-gradient-20261023/water-transitions-gradient-20261023.csv",
+  "layout": {
+    "frame_size": [
+      32,
+      32
+    ],
+    "frames": 15,
+    "duration_ms": 100,
+    "animation_async": true,
+    "layers": 1,
+    "patterns": "preserved from the corresponding canonical border mask"
+  },
+  "properties_policy": "Deep/open-water items clone SID 4825; shoreline-gradient items clone SIDs 4644..4654. Preserve DAT/OTB/XML properties and old records; only new contiguous DAT/OTB records and sprites may be appended.",
+  "visual_policy": "Literal deterministic blend of canonical light-water pixels with the approved dark-water palette. Preserve original rock pixels, alpha, geometry, texture, patterns and animation; use only nine intermediate blend levels. No generated-image pixels are used.",
+  "imagegen_concept_role": "reference only; excluded from every import PNG",
+  "preview": "drafts/water-transitions-gradient-20261023/water-transitions-first-frame-preview.png"
+}

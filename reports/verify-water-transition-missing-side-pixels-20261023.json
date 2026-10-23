@@ -1,0 +1,26 @@
+{
+  "passed": true,
+  "method": "RGBA pixel-array comparison",
+  "items": [
+    {
+      "server_id": 25638,
+      "client_id": 24753,
+      "source": "importados/water-transition-missing-side-20261023/01-open-water-transition-mask-4655.png",
+      "export": "export/water-transition-missing-side-20261023/server-25638_client-24753_water-depth-transition.png",
+      "size": [32, 480],
+      "pixels_equal": true
+    },
+    {
+      "server_id": 25639,
+      "client_id": 24754,
+      "source": "importados/water-transition-missing-side-20261023/02-shore-gradient-source-4655.png",
+      "export": "export/water-transition-missing-side-20261023/server-25639_client-24754_water-depth-shoreline-transition.png",
+      "size": [32, 480],
+      "pixels_equal": true
+    }
+  ],
+  "property_checks": {
+    "25638_matches_nonwalkable_water_4608": true,
+    "25639_matches_ground_border_4655": true
+  }
+}

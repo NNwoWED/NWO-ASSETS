@@ -1,0 +1,95 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "manifest": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\water-transition-missing-side-20261023\\water-transition-missing-side-20261023.csv",
+  "item_count": 2,
+  "target_server_id_range": [
+    25638,
+    25639
+  ],
+  "target_client_id_range": [
+    24753,
+    24754
+  ],
+  "new_sprite_count": 30,
+  "sprite_id_range": [
+    277663,
+    277692
+  ],
+  "items": [
+    {
+      "sequence": 1,
+      "source_server_id": 4608,
+      "source_client_id": 4597,
+      "target_server_id": 25638,
+      "target_client_id": 24753,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\water-transition-missing-side-20261023\\01-open-water-transition-mask-4655.png",
+      "source_sha256": "F3FE4431B22E15B9A71AEBC10F1941258AB97394A72431E9E31982ED35891B2F",
+      "image_size": [
+        32,
+        480
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 15,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": 100,
+      "animation_async": true,
+      "sprite_id_count": 15,
+      "sprite_id_range": [
+        277663,
+        277677
+      ],
+      "sprite_hash": "BF345D59CCF168F04F072EE710E7BC02"
+    },
+    {
+      "sequence": 2,
+      "source_server_id": 4655,
+      "source_client_id": 4644,
+      "target_server_id": 25639,
+      "target_client_id": 24754,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\water-transition-missing-side-20261023\\02-shore-gradient-source-4655.png",
+      "source_sha256": "62DF542D4E6C14501134F2AFB30855DCCD9F3F698B6FD1A9999C0453C0B69D3C",
+      "image_size": [
+        32,
+        480
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 15,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": 100,
+      "animation_async": true,
+      "sprite_id_count": 15,
+      "sprite_id_range": [
+        277678,
+        277692
+      ],
+      "sprite_hash": "FDF908FC31E70D9A9AD6BC6DC4C25B03"
+    }
+  ],
+  "xml": {
+    "source_definitions": 2,
+    "target_definitions_written": 2,
+    "target_definitions_already_exact": 0,
+    "target_ids": [
+      25638,
+      25639
+    ]
+  },
+  "map_scan": {
+    "tiles_scanned": 7824286,
+    "item_nodes_scanned": 2105107
+  },
+  "dry_run": true,
+  "passed": true
+}

@@ -1,0 +1,819 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "manifest": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\water-transitions-gradient-20261023\\water-transitions-gradient-20261023.csv",
+  "item_count": 23,
+  "target_server_id_range": [
+    25615,
+    25637
+  ],
+  "target_client_id_range": [
+    24730,
+    24752
+  ],
+  "new_sprite_count": 465,
+  "sprite_id_range": [
+    277198,
+    277662
+  ],
+  "items": [
+    {
+      "sequence": 1,
+      "source_server_id": 4825,
+      "source_client_id": 4814,
+      "target_server_id": 25615,
+      "target_client_id": 24730,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\water-transitions-gradient-20261023\\01-deep-water-source-4825.png",
+      "source_sha256": "F5C443511AFF3FC4AB7274855BFFB4BF71AE0BE2CC9B6C38729BDEC5A921BC35",
+      "image_size": [
+        32,
+        480
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 15,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": 100,
+      "animation_async": true,
+      "sprite_id_count": 15,
+      "sprite_id_range": [
+        277198,
+        277212
+      ],
+      "sprite_hash": "9ED2258F0A4CB599686D2B00A9E48345"
+    },
+    {
+      "sequence": 2,
+      "source_server_id": 4825,
+      "source_client_id": 4814,
+      "target_server_id": 25616,
+      "target_client_id": 24731,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\water-transitions-gradient-20261023\\02-open-water-transition-mask-4644.png",
+      "source_sha256": "D323A5AB5366022C3150F03341002E49FD8A92397376269A6AC840C4DE518D1F",
+      "image_size": [
+        64,
+        480
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 15,
+      "layers": 1,
+      "pattern_x": 2,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": 100,
+      "animation_async": true,
+      "sprite_id_count": 30,
+      "sprite_id_range": [
+        277213,
+        277242
+      ],
+      "sprite_hash": "5AAFCD595C401CD51729F2C81D6DEED9"
+    },
+    {
+      "sequence": 3,
+      "source_server_id": 4825,
+      "source_client_id": 4814,
+      "target_server_id": 25617,
+      "target_client_id": 24732,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\water-transitions-gradient-20261023\\03-open-water-transition-mask-4645.png",
+      "source_sha256": "18F008893E8C02143A93C39F35064B1FD703F1DA81EAB40D5DAFE02C848DB730",
+      "image_size": [
+        32,
+        960
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 15,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 2,
+      "pattern_z": 1,
+      "frame_duration_ms": 100,
+      "animation_async": true,
+      "sprite_id_count": 30,
+      "sprite_id_range": [
+        277243,
+        277272
+      ],
+      "sprite_hash": "7EFCCF99A17723CDC84248706F81029A"
+    },
+    {
+      "sequence": 4,
+      "source_server_id": 4825,
+      "source_client_id": 4814,
+      "target_server_id": 25618,
+      "target_client_id": 24733,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\water-transitions-gradient-20261023\\04-open-water-transition-mask-4646.png",
+      "source_sha256": "5B4477F8CA56B54ABC56DD611A55F55657469E86F3CB22A2705D7F5E8CAEABB6",
+      "image_size": [
+        64,
+        480
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 15,
+      "layers": 1,
+      "pattern_x": 2,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": 100,
+      "animation_async": true,
+      "sprite_id_count": 30,
+      "sprite_id_range": [
+        277273,
+        277302
+      ],
+      "sprite_hash": "864B49DB103376D14B41E24B1B0B8E66"
+    },
+    {
+      "sequence": 5,
+      "source_server_id": 4825,
+      "source_client_id": 4814,
+      "target_server_id": 25619,
+      "target_client_id": 24734,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\water-transitions-gradient-20261023\\05-open-water-transition-mask-4647.png",
+      "source_sha256": "C932642926F413186405EB874741326F4BCF6ED481679D6BBE79C4BB341065BC",
+      "image_size": [
+        32,
+        960
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 15,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 2,
+      "pattern_z": 1,
+      "frame_duration_ms": 100,
+      "animation_async": true,
+      "sprite_id_count": 30,
+      "sprite_id_range": [
+        277303,
+        277332
+      ],
+      "sprite_hash": "F9258480EF7F48F55A3E7709F92A746E"
+    },
+    {
+      "sequence": 6,
+      "source_server_id": 4825,
+      "source_client_id": 4814,
+      "target_server_id": 25620,
+      "target_client_id": 24735,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\water-transitions-gradient-20261023\\06-open-water-transition-mask-4648.png",
+      "source_sha256": "C337415BB538F6DD4C08706B8736B63BE924872FEA8AAD4DB6D8E2850F92F877",
+      "image_size": [
+        32,
+        480
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 15,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": 100,
+      "animation_async": true,
+      "sprite_id_count": 15,
+      "sprite_id_range": [
+        277333,
+        277347
+      ],
+      "sprite_hash": "38FE970050624AFEC65E04362AB9DE84"
+    },
+    {
+      "sequence": 7,
+      "source_server_id": 4825,
+      "source_client_id": 4814,
+      "target_server_id": 25621,
+      "target_client_id": 24736,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\water-transitions-gradient-20261023\\07-open-water-transition-mask-4649.png",
+      "source_sha256": "60149BBC93A369E967D5A1AE71F80A1C8B00DD216D005D7AEAE7B140BE6B9F1A",
+      "image_size": [
+        32,
+        480
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 15,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": 100,
+      "animation_async": true,
+      "sprite_id_count": 15,
+      "sprite_id_range": [
+        277348,
+        277362
+      ],
+      "sprite_hash": "E77FA8F84B0B5A8FB0C147295DC3B025"
+    },
+    {
+      "sequence": 8,
+      "source_server_id": 4825,
+      "source_client_id": 4814,
+      "target_server_id": 25622,
+      "target_client_id": 24737,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\water-transitions-gradient-20261023\\08-open-water-transition-mask-4650.png",
+      "source_sha256": "34D2D27D31962CF2D95D1C1FBEDAE26D1D65D69D7A68B006918D88C891E75498",
+      "image_size": [
+        32,
+        480
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 15,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": 100,
+      "animation_async": true,
+      "sprite_id_count": 15,
+      "sprite_id_range": [
+        277363,
+        277377
+      ],
+      "sprite_hash": "22CA88DC22CBB065A142E0FC56ACBE18"
+    },
+    {
+      "sequence": 9,
+      "source_server_id": 4825,
+      "source_client_id": 4814,
+      "target_server_id": 25623,
+      "target_client_id": 24738,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\water-transitions-gradient-20261023\\09-open-water-transition-mask-4651.png",
+      "source_sha256": "546DE77EEA916B745246BF40DE664B25FC08082950A0A182DD99DBCC889CFB79",
+      "image_size": [
+        32,
+        480
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 15,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": 100,
+      "animation_async": true,
+      "sprite_id_count": 15,
+      "sprite_id_range": [
+        277378,
+        277392
+      ],
+      "sprite_hash": "EF663851074E79DED05E0E847F0DA2EA"
+    },
+    {
+      "sequence": 10,
+      "source_server_id": 4825,
+      "source_client_id": 4814,
+      "target_server_id": 25624,
+      "target_client_id": 24739,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\water-transitions-gradient-20261023\\10-open-water-transition-mask-4652.png",
+      "source_sha256": "17F8F49A55063BEBFFF7902FE24CC7B9EB6A21E1C2CEDF03B4751A4389140AF0",
+      "image_size": [
+        32,
+        480
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 15,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": 100,
+      "animation_async": true,
+      "sprite_id_count": 15,
+      "sprite_id_range": [
+        277393,
+        277407
+      ],
+      "sprite_hash": "298EE6A553FE689C0EBB2CA3F2E8CCD4"
+    },
+    {
+      "sequence": 11,
+      "source_server_id": 4825,
+      "source_client_id": 4814,
+      "target_server_id": 25625,
+      "target_client_id": 24740,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\water-transitions-gradient-20261023\\11-open-water-transition-mask-4653.png",
+      "source_sha256": "68D5DD2C64D808B6D2CCABE5DCB844E12C8EB6AA2E808CB7C9B84CDD2DDDD585",
+      "image_size": [
+        32,
+        480
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 15,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": 100,
+      "animation_async": true,
+      "sprite_id_count": 15,
+      "sprite_id_range": [
+        277408,
+        277422
+      ],
+      "sprite_hash": "13BD844555AB3F6C945E2DDA7C3DB5C0"
+    },
+    {
+      "sequence": 12,
+      "source_server_id": 4825,
+      "source_client_id": 4814,
+      "target_server_id": 25626,
+      "target_client_id": 24741,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\water-transitions-gradient-20261023\\12-open-water-transition-mask-4654.png",
+      "source_sha256": "E8990A6274DB9626652DBABD703D62F257DBF573D9BC5D4DF4348783DA16A744",
+      "image_size": [
+        32,
+        480
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 15,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": 100,
+      "animation_async": true,
+      "sprite_id_count": 15,
+      "sprite_id_range": [
+        277423,
+        277437
+      ],
+      "sprite_hash": "53E580D3D4F0E78429687975077DBCB6"
+    },
+    {
+      "sequence": 13,
+      "source_server_id": 4644,
+      "source_client_id": 4633,
+      "target_server_id": 25627,
+      "target_client_id": 24742,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\water-transitions-gradient-20261023\\13-shore-gradient-source-4644.png",
+      "source_sha256": "E1B53932B0AEE128DBAA0CFEA75287BC4EA0CD898469264CA7CA87B0C7413A9E",
+      "image_size": [
+        64,
+        480
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 15,
+      "layers": 1,
+      "pattern_x": 2,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": 100,
+      "animation_async": true,
+      "sprite_id_count": 30,
+      "sprite_id_range": [
+        277438,
+        277467
+      ],
+      "sprite_hash": "E931D26B3F58DDFEA028ED40E0896121"
+    },
+    {
+      "sequence": 14,
+      "source_server_id": 4645,
+      "source_client_id": 4634,
+      "target_server_id": 25628,
+      "target_client_id": 24743,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\water-transitions-gradient-20261023\\14-shore-gradient-source-4645.png",
+      "source_sha256": "AAE877A8A59637C6E1F109E534D8C7E2DB517AD27CF6C5FC37B18D303EFC034F",
+      "image_size": [
+        32,
+        960
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 15,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 2,
+      "pattern_z": 1,
+      "frame_duration_ms": 100,
+      "animation_async": true,
+      "sprite_id_count": 30,
+      "sprite_id_range": [
+        277468,
+        277497
+      ],
+      "sprite_hash": "9845C63CFEB491AA7DCFC021FB350A13"
+    },
+    {
+      "sequence": 15,
+      "source_server_id": 4646,
+      "source_client_id": 4635,
+      "target_server_id": 25629,
+      "target_client_id": 24744,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\water-transitions-gradient-20261023\\15-shore-gradient-source-4646.png",
+      "source_sha256": "499577C39C00846C1E1BE3773AC9C554FEF2819C8D41D54775E230C5A973DA12",
+      "image_size": [
+        64,
+        480
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 15,
+      "layers": 1,
+      "pattern_x": 2,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": 100,
+      "animation_async": true,
+      "sprite_id_count": 30,
+      "sprite_id_range": [
+        277498,
+        277527
+      ],
+      "sprite_hash": "1B61952C0CFFA338A2B4EB9E652794A1"
+    },
+    {
+      "sequence": 16,
+      "source_server_id": 4647,
+      "source_client_id": 4636,
+      "target_server_id": 25630,
+      "target_client_id": 24745,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\water-transitions-gradient-20261023\\16-shore-gradient-source-4647.png",
+      "source_sha256": "9E110DBDE8BE9B47C59174D3D158F85C97A918D24F8A82F39A76DF555E310240",
+      "image_size": [
+        32,
+        960
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 15,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 2,
+      "pattern_z": 1,
+      "frame_duration_ms": 100,
+      "animation_async": true,
+      "sprite_id_count": 30,
+      "sprite_id_range": [
+        277528,
+        277557
+      ],
+      "sprite_hash": "FDEC6C16DCFB688FE777877426F15DE6"
+    },
+    {
+      "sequence": 17,
+      "source_server_id": 4648,
+      "source_client_id": 4637,
+      "target_server_id": 25631,
+      "target_client_id": 24746,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\water-transitions-gradient-20261023\\17-shore-gradient-source-4648.png",
+      "source_sha256": "1DEAB796A3C93B9CC2897298A1E7EB980B243DB6CEC2141501D77175DA80D56C",
+      "image_size": [
+        32,
+        480
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 15,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": 100,
+      "animation_async": true,
+      "sprite_id_count": 15,
+      "sprite_id_range": [
+        277558,
+        277572
+      ],
+      "sprite_hash": "473F7F40C59BA45F1331EF39915C3FE8"
+    },
+    {
+      "sequence": 18,
+      "source_server_id": 4649,
+      "source_client_id": 4638,
+      "target_server_id": 25632,
+      "target_client_id": 24747,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\water-transitions-gradient-20261023\\18-shore-gradient-source-4649.png",
+      "source_sha256": "EA58EBA4D02AA9DBF33B6B78B6555D208B9ED7F73C0C2A5CA9034F0FEB23F275",
+      "image_size": [
+        32,
+        480
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 15,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": 100,
+      "animation_async": true,
+      "sprite_id_count": 15,
+      "sprite_id_range": [
+        277573,
+        277587
+      ],
+      "sprite_hash": "C86AC9F2BDEEF538139689686C5474A8"
+    },
+    {
+      "sequence": 19,
+      "source_server_id": 4650,
+      "source_client_id": 4639,
+      "target_server_id": 25633,
+      "target_client_id": 24748,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\water-transitions-gradient-20261023\\19-shore-gradient-source-4650.png",
+      "source_sha256": "6A345EFDD8E0BBCCA81FBE3BAD5B3C5BB5AE57D7335B3475F856AFFCDFB73A48",
+      "image_size": [
+        32,
+        480
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 15,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": 100,
+      "animation_async": true,
+      "sprite_id_count": 15,
+      "sprite_id_range": [
+        277588,
+        277602
+      ],
+      "sprite_hash": "A7948F2DC328E68FC3F96A2BF0000FC0"
+    },
+    {
+      "sequence": 20,
+      "source_server_id": 4651,
+      "source_client_id": 4640,
+      "target_server_id": 25634,
+      "target_client_id": 24749,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\water-transitions-gradient-20261023\\20-shore-gradient-source-4651.png",
+      "source_sha256": "3BD00C0F568CBEE0EDC5A5CE43F8D5B5803414099B3E5494DC3D17BC372CB37B",
+      "image_size": [
+        32,
+        480
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 15,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": 100,
+      "animation_async": true,
+      "sprite_id_count": 15,
+      "sprite_id_range": [
+        277603,
+        277617
+      ],
+      "sprite_hash": "4DE474057CE144ECAFE51F0BF0713D00"
+    },
+    {
+      "sequence": 21,
+      "source_server_id": 4652,
+      "source_client_id": 4641,
+      "target_server_id": 25635,
+      "target_client_id": 24750,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\water-transitions-gradient-20261023\\21-shore-gradient-source-4652.png",
+      "source_sha256": "329F257243505F3EFDBDF88B29DD5ABB845615276E25BE877DAED924B72386C9",
+      "image_size": [
+        32,
+        480
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 15,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": 100,
+      "animation_async": true,
+      "sprite_id_count": 15,
+      "sprite_id_range": [
+        277618,
+        277632
+      ],
+      "sprite_hash": "255D9F31FAA5C0D8B5EC408864C336EC"
+    },
+    {
+      "sequence": 22,
+      "source_server_id": 4653,
+      "source_client_id": 4642,
+      "target_server_id": 25636,
+      "target_client_id": 24751,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\water-transitions-gradient-20261023\\22-shore-gradient-source-4653.png",
+      "source_sha256": "EBFC140EFEEC56E249DEEE106F6E3A1AA1C1E1D8EC953C95A1D35BDC86D1AA19",
+      "image_size": [
+        32,
+        480
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 15,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": 100,
+      "animation_async": true,
+      "sprite_id_count": 15,
+      "sprite_id_range": [
+        277633,
+        277647
+      ],
+      "sprite_hash": "65D81012B62B9E87E97FFD90CC438264"
+    },
+    {
+      "sequence": 23,
+      "source_server_id": 4654,
+      "source_client_id": 4643,
+      "target_server_id": 25637,
+      "target_client_id": 24752,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\water-transitions-gradient-20261023\\23-shore-gradient-source-4654.png",
+      "source_sha256": "86570430F68EB5CB80D0993F9316DF9B1E6ED21142FDE49BFF5F86AE98008C79",
+      "image_size": [
+        32,
+        480
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 15,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": 100,
+      "animation_async": true,
+      "sprite_id_count": 15,
+      "sprite_id_range": [
+        277648,
+        277662
+      ],
+      "sprite_hash": "C297DDD0E7D71BCA89F0D7C6748727EA"
+    }
+  ],
+  "xml": {
+    "source_definitions": 12,
+    "target_definitions_written": 23,
+    "target_definitions_already_exact": 0,
+    "target_ids": [
+      25615,
+      25616,
+      25617,
+      25618,
+      25619,
+      25620,
+      25621,
+      25622,
+      25623,
+      25624,
+      25625,
+      25626,
+      25627,
+      25628,
+      25629,
+      25630,
+      25631,
+      25632,
+      25633,
+      25634,
+      25635,
+      25636,
+      25637
+    ]
+  },
+  "map_scan": {
+    "tiles_scanned": 7824286,
+    "item_nodes_scanned": 2105107
+  },
+  "version_backup": {
+    "tool_version": "0.8.2",
+    "version_id": "20261023-021657-879956",
+    "created_at": "2026-10-23T02:17:08.808397-03:00",
+    "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261023-021657-879956",
+    "rar_executable": "C:\\Program Files\\WinRAR\\Rar.exe",
+    "sources": [
+      {
+        "path": "assets/860/.gitattributes",
+        "size": 43,
+        "sha256": "D5636A3257287440945C5E017581545E5B0A3E2FDDDAE7C5EF8D90FF4DF3D32A"
+      },
+      {
+        "path": "assets/860/Tibia.dat",
+        "size": 4514303,
+        "sha256": "9858D00267EE1101DDABBFC34807C120C10737A5058186BB5D7A4D1CEEA2DDA4"
+      },
+      {
+        "path": "assets/860/Tibia.otfi",
+        "size": 185,
+        "sha256": "7743548835944BC799CB871A4E5DEF84F7AF76815031871B9CE74B5EC0E8ADD3"
+      },
+      {
+        "path": "assets/860/Tibia.spr",
+        "size": 466567545,
+        "sha256": "A62C0169FDF2AE84CE826A8598B12BEB991993860E47768D304A1A5036280AE3"
+      },
+      {
+        "path": "assets/items/force use.txt",
+        "size": 419,
+        "sha256": "BCB478FDF3F45ECA8D172AFD7A17D3F8CD520924EE0894752452B8FDC8F71959"
+      },
+      {
+        "path": "assets/items/items.otb",
+        "size": 1012588,
+        "sha256": "B78F1AE4EFB0094AE4217891D0A83CE889E2C0F93403E285233D8F268F8864F4"
+      },
+      {
+        "path": "assets/world/mapanovo.otbm",
+        "size": 80105775,
+        "sha256": "AC32C669BED3512D69AE054CAFC8564A236C9894B22BBC9A0E9D7ACAEFAD5512"
+      }
+    ],
+    "archives": {
+      "860": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261023-021657-879956\\860.rar",
+        "size": 85649258,
+        "sha256": "45DD005DE1BE37268984C8BCD6548A6B000CD73A7E41CBADC030478F733F1752"
+      },
+      "items": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261023-021657-879956\\items.rar",
+        "size": 482681,
+        "sha256": "6D4C48435080AB0D75B03F700FA4344DA5403DEAE66C971CAA92DDBE97478186"
+      },
+      "world": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261023-021657-879956\\world.zip",
+        "size": 19337404,
+        "sha256": "92E3613FFE42E15A419DD4A8A0F86A4570AEE5F031A4589F7010C4804EED8E7D"
+      }
+    },
+    "items_xml_excluded": true,
+    "world_entries": [
+      "mapanovo.otbm"
+    ],
+    "passed": true
+  },
+  "transaction_committed": true,
+  "old_dat_records_preserved": true,
+  "old_otb_nodes_preserved": true,
+  "old_sprite_payload_preserved": true,
+  "new_sprite_pixels_verified": true,
+  "final_validation_passed": true,
+  "warnings": [],
+  "errors": [],
+  "passed": true
+}

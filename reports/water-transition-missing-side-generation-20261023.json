@@ -1,0 +1,123 @@
+{
+  "passed": true,
+  "method": "literal canonical-pixel blend using the exact water geometry of canonical CSE border 4655",
+  "source_server_to_client": {
+    "4608": 4597,
+    "4655": 4644
+  },
+  "target_server_ids": [
+    25638,
+    25639
+  ],
+  "target_client_ids": [
+    24753,
+    24754
+  ],
+  "layout": {
+    "frame_size": [
+      32,
+      32
+    ],
+    "frames": 15,
+    "duration_ms": 100,
+    "animation_async": true
+  },
+  "diagnostics": [
+    {
+      "frame": 0,
+      "mask_pixels": 108,
+      "nonwater_pixels_preserved": 916
+    },
+    {
+      "frame": 1,
+      "mask_pixels": 115,
+      "nonwater_pixels_preserved": 909
+    },
+    {
+      "frame": 2,
+      "mask_pixels": 122,
+      "nonwater_pixels_preserved": 902
+    },
+    {
+      "frame": 3,
+      "mask_pixels": 114,
+      "nonwater_pixels_preserved": 910
+    },
+    {
+      "frame": 4,
+      "mask_pixels": 104,
+      "nonwater_pixels_preserved": 920
+    },
+    {
+      "frame": 5,
+      "mask_pixels": 97,
+      "nonwater_pixels_preserved": 927
+    },
+    {
+      "frame": 6,
+      "mask_pixels": 93,
+      "nonwater_pixels_preserved": 931
+    },
+    {
+      "frame": 7,
+      "mask_pixels": 98,
+      "nonwater_pixels_preserved": 926
+    },
+    {
+      "frame": 8,
+      "mask_pixels": 100,
+      "nonwater_pixels_preserved": 924
+    },
+    {
+      "frame": 9,
+      "mask_pixels": 98,
+      "nonwater_pixels_preserved": 926
+    },
+    {
+      "frame": 10,
+      "mask_pixels": 97,
+      "nonwater_pixels_preserved": 927
+    },
+    {
+      "frame": 11,
+      "mask_pixels": 98,
+      "nonwater_pixels_preserved": 926
+    },
+    {
+      "frame": 12,
+      "mask_pixels": 94,
+      "nonwater_pixels_preserved": 930
+    },
+    {
+      "frame": 13,
+      "mask_pixels": 101,
+      "nonwater_pixels_preserved": 923
+    },
+    {
+      "frame": 14,
+      "mask_pixels": 103,
+      "nonwater_pixels_preserved": 921
+    }
+  ],
+  "checks": {
+    "mask_orientation_comes_directly_from_border_4655": true,
+    "shore_4655_nonwater_pixels_and_alpha_preserved_exactly": true,
+    "no_resizing_or_smoothing": true,
+    "no_generated_image_pixels": true
+  },
+  "files": [
+    {
+      "path": "sprites/water-transition-missing-side-20261023/01-open-water-transition-mask-4655.png",
+      "sha256": "F3FE4431B22E15B9A71AEBC10F1941258AB97394A72431E9E31982ED35891B2F"
+    },
+    {
+      "path": "sprites/water-transition-missing-side-20261023/02-shore-gradient-source-4655.png",
+      "sha256": "62DF542D4E6C14501134F2AFB30855DCCD9F3F698B6FD1A9999C0453C0B69D3C"
+    },
+    {
+      "path": "sprites/water-transition-missing-side-20261023/water-transition-missing-side-20261023.csv",
+      "sha256": "80F1A259157597BE8BA003D1735C55A16BD293195CFC1B5E16287F8090304E31"
+    }
+  ],
+  "preview": "drafts/water-transition-missing-side-20261023/preview.png"
+}

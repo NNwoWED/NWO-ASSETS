@@ -1,0 +1,305 @@
+{
+  "passed": true,
+  "count": 23,
+  "checks": [
+    {
+      "server_id": 25615,
+      "client_id": 24730,
+      "source": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\water-transitions-gradient-20261023\\01-deep-water-source-4825.png",
+      "exported": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\water-transitions-gradient-20261023\\server-25615_client-24730_deep-water.png",
+      "size": [
+        32,
+        480
+      ],
+      "pixels_exact": true,
+      "source_sha256": "F5C443511AFF3FC4AB7274855BFFB4BF71AE0BE2CC9B6C38729BDEC5A921BC35",
+      "exported_sha256": "E70B9DC6A08183EBE7488E5606D47B3D506409A54180FF7B2013E5FF674DBA11"
+    },
+    {
+      "server_id": 25616,
+      "client_id": 24731,
+      "source": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\water-transitions-gradient-20261023\\02-open-water-transition-mask-4644.png",
+      "exported": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\water-transitions-gradient-20261023\\server-25616_client-24731_water-depth-transition.png",
+      "size": [
+        64,
+        480
+      ],
+      "pixels_exact": true,
+      "source_sha256": "D323A5AB5366022C3150F03341002E49FD8A92397376269A6AC840C4DE518D1F",
+      "exported_sha256": "E647203B631B0628CD5A2494FFEB144CE446B46635B555572507453B7C8763D8"
+    },
+    {
+      "server_id": 25617,
+      "client_id": 24732,
+      "source": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\water-transitions-gradient-20261023\\03-open-water-transition-mask-4645.png",
+      "exported": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\water-transitions-gradient-20261023\\server-25617_client-24732_water-depth-transition.png",
+      "size": [
+        32,
+        960
+      ],
+      "pixels_exact": true,
+      "source_sha256": "18F008893E8C02143A93C39F35064B1FD703F1DA81EAB40D5DAFE02C848DB730",
+      "exported_sha256": "EE99983A6968363CFA144B125ECC9FF5BFE95248BA5706E7569E673DB82B6CAD"
+    },
+    {
+      "server_id": 25618,
+      "client_id": 24733,
+      "source": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\water-transitions-gradient-20261023\\04-open-water-transition-mask-4646.png",
+      "exported": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\water-transitions-gradient-20261023\\server-25618_client-24733_water-depth-transition.png",
+      "size": [
+        64,
+        480
+      ],
+      "pixels_exact": true,
+      "source_sha256": "5B4477F8CA56B54ABC56DD611A55F55657469E86F3CB22A2705D7F5E8CAEABB6",
+      "exported_sha256": "86193332A8DB8DFB776B80239C8E7B4EDC8B29941953D7BC428DB1064E91C720"
+    },
+    {
+      "server_id": 25619,
+      "client_id": 24734,
+      "source": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\water-transitions-gradient-20261023\\05-open-water-transition-mask-4647.png",
+      "exported": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\water-transitions-gradient-20261023\\server-25619_client-24734_water-depth-transition.png",
+      "size": [
+        32,
+        960
+      ],
+      "pixels_exact": true,
+      "source_sha256": "C932642926F413186405EB874741326F4BCF6ED481679D6BBE79C4BB341065BC",
+      "exported_sha256": "D25A223D10702D73B55867B2B6D71523A5AF224B706ECA38489F835BECD6FBFF"
+    },
+    {
+      "server_id": 25620,
+      "client_id": 24735,
+      "source": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\water-transitions-gradient-20261023\\06-open-water-transition-mask-4648.png",
+      "exported": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\water-transitions-gradient-20261023\\server-25620_client-24735_water-depth-transition.png",
+      "size": [
+        32,
+        480
+      ],
+      "pixels_exact": true,
+      "source_sha256": "C337415BB538F6DD4C08706B8736B63BE924872FEA8AAD4DB6D8E2850F92F877",
+      "exported_sha256": "9F64DDE08AB35F74F00108A374F302E975730D78560C8ABD2FB46A444AE80CC6"
+    },
+    {
+      "server_id": 25621,
+      "client_id": 24736,
+      "source": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\water-transitions-gradient-20261023\\07-open-water-transition-mask-4649.png",
+      "exported": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\water-transitions-gradient-20261023\\server-25621_client-24736_water-depth-transition.png",
+      "size": [
+        32,
+        480
+      ],
+      "pixels_exact": true,
+      "source_sha256": "60149BBC93A369E967D5A1AE71F80A1C8B00DD216D005D7AEAE7B140BE6B9F1A",
+      "exported_sha256": "69066F28069029BA749855AB97690EBDD762A1063C952183F19D361A3033B9DB"
+    },
+    {
+      "server_id": 25622,
+      "client_id": 24737,
+      "source": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\water-transitions-gradient-20261023\\08-open-water-transition-mask-4650.png",
+      "exported": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\water-transitions-gradient-20261023\\server-25622_client-24737_water-depth-transition.png",
+      "size": [
+        32,
+        480
+      ],
+      "pixels_exact": true,
+      "source_sha256": "34D2D27D31962CF2D95D1C1FBEDAE26D1D65D69D7A68B006918D88C891E75498",
+      "exported_sha256": "3D76FB3237F1DD571A223F1F540C033E6A6437674065A787D2DF3FE5E7D39F1D"
+    },
+    {
+      "server_id": 25623,
+      "client_id": 24738,
+      "source": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\water-transitions-gradient-20261023\\09-open-water-transition-mask-4651.png",
+      "exported": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\water-transitions-gradient-20261023\\server-25623_client-24738_water-depth-transition.png",
+      "size": [
+        32,
+        480
+      ],
+      "pixels_exact": true,
+      "source_sha256": "546DE77EEA916B745246BF40DE664B25FC08082950A0A182DD99DBCC889CFB79",
+      "exported_sha256": "A104C65445A8290AB068CA1309885549F7AA9B4F6790400588D89D50697C3AD3"
+    },
+    {
+      "server_id": 25624,
+      "client_id": 24739,
+      "source": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\water-transitions-gradient-20261023\\10-open-water-transition-mask-4652.png",
+      "exported": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\water-transitions-gradient-20261023\\server-25624_client-24739_water-depth-transition.png",
+      "size": [
+        32,
+        480
+      ],
+      "pixels_exact": true,
+      "source_sha256": "17F8F49A55063BEBFFF7902FE24CC7B9EB6A21E1C2CEDF03B4751A4389140AF0",
+      "exported_sha256": "4A4E28C9141C9C7594F1DB3924569CAEF9CD772E86D47B525325F829905C20B4"
+    },
+    {
+      "server_id": 25625,
+      "client_id": 24740,
+      "source": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\water-transitions-gradient-20261023\\11-open-water-transition-mask-4653.png",
+      "exported": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\water-transitions-gradient-20261023\\server-25625_client-24740_water-depth-transition.png",
+      "size": [
+        32,
+        480
+      ],
+      "pixels_exact": true,
+      "source_sha256": "68D5DD2C64D808B6D2CCABE5DCB844E12C8EB6AA2E808CB7C9B84CDD2DDDD585",
+      "exported_sha256": "F33DCC0537443CBC8C5FDCD08538C9AE9A43BF6764883873801C8836F88A97E8"
+    },
+    {
+      "server_id": 25626,
+      "client_id": 24741,
+      "source": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\water-transitions-gradient-20261023\\12-open-water-transition-mask-4654.png",
+      "exported": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\water-transitions-gradient-20261023\\server-25626_client-24741_water-depth-transition.png",
+      "size": [
+        32,
+        480
+      ],
+      "pixels_exact": true,
+      "source_sha256": "E8990A6274DB9626652DBABD703D62F257DBF573D9BC5D4DF4348783DA16A744",
+      "exported_sha256": "DFC14F864ACB0D0911D209C8F8D3339068CB05B52B38CC40416EFB6E95EB5B26"
+    },
+    {
+      "server_id": 25627,
+      "client_id": 24742,
+      "source": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\water-transitions-gradient-20261023\\13-shore-gradient-source-4644.png",
+      "exported": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\water-transitions-gradient-20261023\\server-25627_client-24742_water-depth-shoreline-transition.png",
+      "size": [
+        64,
+        480
+      ],
+      "pixels_exact": true,
+      "source_sha256": "E1B53932B0AEE128DBAA0CFEA75287BC4EA0CD898469264CA7CA87B0C7413A9E",
+      "exported_sha256": "06205510F043D55C90DDED9228D40E878AEB872DEE15F5565A2B5D91380210C5"
+    },
+    {
+      "server_id": 25628,
+      "client_id": 24743,
+      "source": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\water-transitions-gradient-20261023\\14-shore-gradient-source-4645.png",
+      "exported": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\water-transitions-gradient-20261023\\server-25628_client-24743_water-depth-shoreline-transition.png",
+      "size": [
+        32,
+        960
+      ],
+      "pixels_exact": true,
+      "source_sha256": "AAE877A8A59637C6E1F109E534D8C7E2DB517AD27CF6C5FC37B18D303EFC034F",
+      "exported_sha256": "DFF9A0A2EDEE03C75946A8D2D3F8B5B5BC84E20F6C7405F8E73266B9301BA16B"
+    },
+    {
+      "server_id": 25629,
+      "client_id": 24744,
+      "source": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\water-transitions-gradient-20261023\\15-shore-gradient-source-4646.png",
+      "exported": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\water-transitions-gradient-20261023\\server-25629_client-24744_water-depth-shoreline-transition.png",
+      "size": [
+        64,
+        480
+      ],
+      "pixels_exact": true,
+      "source_sha256": "499577C39C00846C1E1BE3773AC9C554FEF2819C8D41D54775E230C5A973DA12",
+      "exported_sha256": "FE049AF8989764B18B8F8F167F8781E38A387F2E3B41CFE93138CD026F759DB5"
+    },
+    {
+      "server_id": 25630,
+      "client_id": 24745,
+      "source": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\water-transitions-gradient-20261023\\16-shore-gradient-source-4647.png",
+      "exported": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\water-transitions-gradient-20261023\\server-25630_client-24745_water-depth-shoreline-transition.png",
+      "size": [
+        32,
+        960
+      ],
+      "pixels_exact": true,
+      "source_sha256": "9E110DBDE8BE9B47C59174D3D158F85C97A918D24F8A82F39A76DF555E310240",
+      "exported_sha256": "3636CA967E1648543A9B458AC99CF5B9CCDC08A35A8A764FB799FBD94B16A055"
+    },
+    {
+      "server_id": 25631,
+      "client_id": 24746,
+      "source": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\water-transitions-gradient-20261023\\17-shore-gradient-source-4648.png",
+      "exported": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\water-transitions-gradient-20261023\\server-25631_client-24746_water-depth-shoreline-transition.png",
+      "size": [
+        32,
+        480
+      ],
+      "pixels_exact": true,
+      "source_sha256": "1DEAB796A3C93B9CC2897298A1E7EB980B243DB6CEC2141501D77175DA80D56C",
+      "exported_sha256": "B63F6E119F4742B0CB5597377305C78E980B1C8E62D5B9E1A78BA1599714CE24"
+    },
+    {
+      "server_id": 25632,
+      "client_id": 24747,
+      "source": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\water-transitions-gradient-20261023\\18-shore-gradient-source-4649.png",
+      "exported": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\water-transitions-gradient-20261023\\server-25632_client-24747_water-depth-shoreline-transition.png",
+      "size": [
+        32,
+        480
+      ],
+      "pixels_exact": true,
+      "source_sha256": "EA58EBA4D02AA9DBF33B6B78B6555D208B9ED7F73C0C2A5CA9034F0FEB23F275",
+      "exported_sha256": "D71A53544A88EB786D5074B54CB7E57967EE0501A05CF410891AA3C6DD8892B5"
+    },
+    {
+      "server_id": 25633,
+      "client_id": 24748,
+      "source": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\water-transitions-gradient-20261023\\19-shore-gradient-source-4650.png",
+      "exported": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\water-transitions-gradient-20261023\\server-25633_client-24748_water-depth-shoreline-transition.png",
+      "size": [
+        32,
+        480
+      ],
+      "pixels_exact": true,
+      "source_sha256": "6A345EFDD8E0BBCCA81FBE3BAD5B3C5BB5AE57D7335B3475F856AFFCDFB73A48",
+      "exported_sha256": "B2A5B75D5CD8334DF96A61B35A4BF72F5C67779EEE31B77AED17CCEE6CC2E844"
+    },
+    {
+      "server_id": 25634,
+      "client_id": 24749,
+      "source": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\water-transitions-gradient-20261023\\20-shore-gradient-source-4651.png",
+      "exported": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\water-transitions-gradient-20261023\\server-25634_client-24749_water-depth-shoreline-transition.png",
+      "size": [
+        32,
+        480
+      ],
+      "pixels_exact": true,
+      "source_sha256": "3BD00C0F568CBEE0EDC5A5CE43F8D5B5803414099B3E5494DC3D17BC372CB37B",
+      "exported_sha256": "B3945FCA5ACD7E7C41DF0839C88C7421E4FD5D5AB8EEC0304314E58F1B131A40"
+    },
+    {
+      "server_id": 25635,
+      "client_id": 24750,
+      "source": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\water-transitions-gradient-20261023\\21-shore-gradient-source-4652.png",
+      "exported": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\water-transitions-gradient-20261023\\server-25635_client-24750_water-depth-shoreline-transition.png",
+      "size": [
+        32,
+        480
+      ],
+      "pixels_exact": true,
+      "source_sha256": "329F257243505F3EFDBDF88B29DD5ABB845615276E25BE877DAED924B72386C9",
+      "exported_sha256": "E64B0DC661914E1989406082AE7590D44AF89D8A407833A0E8DBAF7BC4666D35"
+    },
+    {
+      "server_id": 25636,
+      "client_id": 24751,
+      "source": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\water-transitions-gradient-20261023\\22-shore-gradient-source-4653.png",
+      "exported": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\water-transitions-gradient-20261023\\server-25636_client-24751_water-depth-shoreline-transition.png",
+      "size": [
+        32,
+        480
+      ],
+      "pixels_exact": true,
+      "source_sha256": "EBFC140EFEEC56E249DEEE106F6E3A1AA1C1E1D8EC953C95A1D35BDC86D1AA19",
+      "exported_sha256": "E21AC46F1874524AD79054FCA71AF3D36F888BA33F7E526DF64EA20597B32C80"
+    },
+    {
+      "server_id": 25637,
+      "client_id": 24752,
+      "source": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\water-transitions-gradient-20261023\\23-shore-gradient-source-4654.png",
+      "exported": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\water-transitions-gradient-20261023\\server-25637_client-24752_water-depth-shoreline-transition.png",
+      "size": [
+        32,
+        480
+      ],
+      "pixels_exact": true,
+      "source_sha256": "86570430F68EB5CB80D0993F9316DF9B1E6ED21142FDE49BFF5F86AE98008C79",
+      "exported_sha256": "0985F05345DEF04A419C7426730E39D0B8AB0F5B18F7D8DAC971D48E02D88773"
+    }
+  ]
+}

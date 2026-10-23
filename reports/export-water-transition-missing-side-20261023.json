@@ -1,0 +1,105 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "profile": {
+    "key": "tibia-860-v2-custom-extended",
+    "client_version": 860,
+    "label": "Tibia 8.60 v2 customizado com features OTFI",
+    "dat_signature": "0x4C2C7993",
+    "spr_signature": "0x4C220594",
+    "metadata_reader": 5,
+    "otb_version_hint": "8.60"
+  },
+  "category": "items",
+  "id_kind": "server",
+  "requested_ids": [
+    25638,
+    25639
+  ],
+  "output_dir": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\water-transition-missing-side-20261023",
+  "exported_count": 2,
+  "exported": [
+    {
+      "requested_id": 25638,
+      "client_id": 24753,
+      "server_ids": [
+        25638
+      ],
+      "name": "Water depth transition",
+      "group_index": 0,
+      "width": 32,
+      "height": 480,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 15,
+      "sprite_ids": [
+        277663,
+        277664,
+        277665,
+        277666,
+        277667,
+        277668,
+        277669,
+        277670,
+        277671,
+        277672,
+        277673,
+        277674,
+        277675,
+        277676,
+        277677
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\water-transition-missing-side-20261023\\server-25638_client-24753_water-depth-transition.png",
+      "size": 5635,
+      "sha256": "3C3F15A0FEAF268502506C4ADAB314E2F3FBD7C919E4676B3FDF8AAFF4FFF450"
+    },
+    {
+      "requested_id": 25639,
+      "client_id": 24754,
+      "server_ids": [
+        25639
+      ],
+      "name": "Water depth shoreline transition",
+      "group_index": 0,
+      "width": 32,
+      "height": 480,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 15,
+      "sprite_ids": [
+        277678,
+        277679,
+        277680,
+        277681,
+        277682,
+        277683,
+        277684,
+        277685,
+        277686,
+        277687,
+        277688,
+        277689,
+        277690,
+        277691,
+        277692
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\water-transition-missing-side-20261023\\server-25639_client-24754_water-depth-shoreline-transition.png",
+      "size": 3547,
+      "sha256": "4DE2CB39675C764FB75FF0440200CC628F462474FD9ED882AC8C6972225BCC78"
+    }
+  ],
+  "sources": {
+    "dat": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.dat",
+      "sha256": "6EA291A3F688E2CE917564B7C117DE0B074F124D7EC2398FF6F8D0E836BBC60C"
+    },
+    "spr": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.spr",
+      "sha256": "7AA2FF57D5996D91ECFBF3CECCFEDC429959EF20741D62EE33E20B378C2BE508"
+    }
+  },
+  "passed": true
+}

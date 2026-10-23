@@ -1,0 +1,13 @@
+sequence,server_id,client_id,dat_add_flags,dat_remove_flags,otb_add_flags,otb_remove_flags
+1,25615,24730,unpassable,custom_flag_22,block_solid,walkable_water
+2,25616,24731,unpassable,custom_flag_22,block_solid,walkable_water
+3,25617,24732,unpassable,custom_flag_22,block_solid,walkable_water
+4,25618,24733,unpassable,custom_flag_22,block_solid,walkable_water
+5,25619,24734,unpassable,custom_flag_22,block_solid,walkable_water
+6,25620,24735,unpassable,custom_flag_22,block_solid,walkable_water
+7,25621,24736,unpassable,custom_flag_22,block_solid,walkable_water
+8,25622,24737,unpassable,custom_flag_22,block_solid,walkable_water
+9,25623,24738,unpassable,custom_flag_22,block_solid,walkable_water
+10,25624,24739,unpassable,custom_flag_22,block_solid,walkable_water
+11,25625,24740,unpassable,custom_flag_22,block_solid,walkable_water
+12,25626,24741,unpassable,custom_flag_22,block_solid,walkable_water

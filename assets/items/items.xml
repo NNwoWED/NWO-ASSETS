@@ -19330,4 +19330,119 @@
 		<attribute key="fluidSource" value="water" />
 		<attribute key="allowpickupable" value="1" />
 	</item>
+<item id="25615" name="Deep water">
+		<attribute key="type" value="trashholder" />
+		<attribute key="effect" value="bluebubble" />
+		<attribute key="fluidSource" value="water" />
+	</item>
+<item id="25616" name="Water depth transition">
+		<attribute key="type" value="trashholder" />
+		<attribute key="effect" value="bluebubble" />
+		<attribute key="fluidSource" value="water" />
+	</item>
+<item id="25617" name="Water depth transition">
+		<attribute key="type" value="trashholder" />
+		<attribute key="effect" value="bluebubble" />
+		<attribute key="fluidSource" value="water" />
+	</item>
+<item id="25618" name="Water depth transition">
+		<attribute key="type" value="trashholder" />
+		<attribute key="effect" value="bluebubble" />
+		<attribute key="fluidSource" value="water" />
+	</item>
+<item id="25619" name="Water depth transition">
+		<attribute key="type" value="trashholder" />
+		<attribute key="effect" value="bluebubble" />
+		<attribute key="fluidSource" value="water" />
+	</item>
+<item id="25620" name="Water depth transition">
+		<attribute key="type" value="trashholder" />
+		<attribute key="effect" value="bluebubble" />
+		<attribute key="fluidSource" value="water" />
+	</item>
+<item id="25621" name="Water depth transition">
+		<attribute key="type" value="trashholder" />
+		<attribute key="effect" value="bluebubble" />
+		<attribute key="fluidSource" value="water" />
+	</item>
+<item id="25622" name="Water depth transition">
+		<attribute key="type" value="trashholder" />
+		<attribute key="effect" value="bluebubble" />
+		<attribute key="fluidSource" value="water" />
+	</item>
+<item id="25623" name="Water depth transition">
+		<attribute key="type" value="trashholder" />
+		<attribute key="effect" value="bluebubble" />
+		<attribute key="fluidSource" value="water" />
+	</item>
+<item id="25624" name="Water depth transition">
+		<attribute key="type" value="trashholder" />
+		<attribute key="effect" value="bluebubble" />
+		<attribute key="fluidSource" value="water" />
+	</item>
+<item id="25625" name="Water depth transition">
+		<attribute key="type" value="trashholder" />
+		<attribute key="effect" value="bluebubble" />
+		<attribute key="fluidSource" value="water" />
+	</item>
+<item id="25626" name="Water depth transition">
+		<attribute key="type" value="trashholder" />
+		<attribute key="effect" value="bluebubble" />
+		<attribute key="fluidSource" value="water" />
+	</item>
+<item id="25627" name="Water depth shoreline transition">
+		<attribute key="fluidSource" value="water" />
+		<attribute key="allowpickupable" value="1" />
+	</item>
+<item id="25628" name="Water depth shoreline transition">
+		<attribute key="fluidSource" value="water" />
+		<attribute key="allowpickupable" value="1" />
+	</item>
+<item id="25629" name="Water depth shoreline transition">
+		<attribute key="fluidSource" value="water" />
+		<attribute key="allowpickupable" value="1" />
+	</item>
+<item id="25630" name="Water depth shoreline transition">
+		<attribute key="fluidSource" value="water" />
+		<attribute key="allowpickupable" value="1" />
+	</item>
+<item id="25631" name="Water depth shoreline transition">
+		<attribute key="fluidSource" value="water" />
+		<attribute key="allowpickupable" value="1" />
+	</item>
+<item id="25632" name="Water depth shoreline transition">
+		<attribute key="fluidSource" value="water" />
+		<attribute key="allowpickupable" value="1" />
+	</item>
+<item id="25633" name="Water depth shoreline transition">
+		<attribute key="fluidSource" value="water" />
+		<attribute key="allowpickupable" value="1" />
+	</item>
+<item id="25634" name="Water depth shoreline transition">
+		<attribute key="fluidSource" value="water" />
+		<attribute key="allowpickupable" value="1" />
+	</item>
+<item id="25635" name="Water depth shoreline transition">
+		<attribute key="fluidSource" value="water" />
+		<attribute key="allowpickupable" value="1" />
+	</item>
+<item id="25636" name="Water depth shoreline transition">
+		<attribute key="fluidSource" value="water" />
+		<attribute key="allowpickupable" value="1" />
+	</item>
+<item id="25637" name="Water depth shoreline transition">
+		<attribute key="fluidSource" value="water" />
+		<attribute key="allowpickupable" value="1" />
+	</item>
+<item id="25638" name="Water depth transition">
+		<attribute key="description" value="You see the silvery movement of fish." />
+		<attribute key="type" value="trashholder" />
+		<attribute key="effect" value="bluebubble" />
+		<attribute key="fluidSource" value="water" />
+		<attribute key="allowpickupable" value="1" />
+	</item>
+<item id="25639" name="Water depth shoreline transition">
+		<attribute key="fluidSource" value="water" />
+		<attribute key="allowpickupable" value="1" />
+	</item>
 </items>

@@ -1,0 +1,333 @@
+{
+  "passed": true,
+  "method": "deterministic canonical-pixel palette blend",
+  "source_water": {
+    "server_id": 4825,
+    "client_id": 4814,
+    "path": "export/items/server-4825-bordas-4644-4654/server-4825_client-4814.png",
+    "sha256": "2FD5F3B9AF6EFCDE352ADEF88F2D79D3C9F316BBA71F3A4798A0501AA2FA3952"
+  },
+  "palette_source": "reports/recolor-water-border-4655-20261022.json",
+  "fallback_brightness_factor": 0.7303370833396912,
+  "generated_count": 23,
+  "generated": [
+    {
+      "kind": "deep_water",
+      "source_server_id": 4825,
+      "path": "sprites/water-transitions-gradient-20261023/01-deep-water-source-4825.png",
+      "size": [
+        32,
+        480
+      ],
+      "sha256": "F5C443511AFF3FC4AB7274855BFFB4BF71AE0BE2CC9B6C38729BDEC5A921BC35"
+    },
+    {
+      "kind": "open_water_transition",
+      "mask_source_server_id": 4644,
+      "property_source_server_id": 4825,
+      "path": "sprites/water-transitions-gradient-20261023/02-open-water-transition-mask-4644.png",
+      "size": [
+        64,
+        480
+      ],
+      "pattern_x": 2,
+      "pattern_y": 1,
+      "sha256": "D323A5AB5366022C3150F03341002E49FD8A92397376269A6AC840C4DE518D1F"
+    },
+    {
+      "kind": "open_water_transition",
+      "mask_source_server_id": 4645,
+      "property_source_server_id": 4825,
+      "path": "sprites/water-transitions-gradient-20261023/03-open-water-transition-mask-4645.png",
+      "size": [
+        32,
+        960
+      ],
+      "pattern_x": 1,
+      "pattern_y": 2,
+      "sha256": "18F008893E8C02143A93C39F35064B1FD703F1DA81EAB40D5DAFE02C848DB730"
+    },
+    {
+      "kind": "open_water_transition",
+      "mask_source_server_id": 4646,
+      "property_source_server_id": 4825,
+      "path": "sprites/water-transitions-gradient-20261023/04-open-water-transition-mask-4646.png",
+      "size": [
+        64,
+        480
+      ],
+      "pattern_x": 2,
+      "pattern_y": 1,
+      "sha256": "5B4477F8CA56B54ABC56DD611A55F55657469E86F3CB22A2705D7F5E8CAEABB6"
+    },
+    {
+      "kind": "open_water_transition",
+      "mask_source_server_id": 4647,
+      "property_source_server_id": 4825,
+      "path": "sprites/water-transitions-gradient-20261023/05-open-water-transition-mask-4647.png",
+      "size": [
+        32,
+        960
+      ],
+      "pattern_x": 1,
+      "pattern_y": 2,
+      "sha256": "C932642926F413186405EB874741326F4BCF6ED481679D6BBE79C4BB341065BC"
+    },
+    {
+      "kind": "open_water_transition",
+      "mask_source_server_id": 4648,
+      "property_source_server_id": 4825,
+      "path": "sprites/water-transitions-gradient-20261023/06-open-water-transition-mask-4648.png",
+      "size": [
+        32,
+        480
+      ],
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "sha256": "C337415BB538F6DD4C08706B8736B63BE924872FEA8AAD4DB6D8E2850F92F877"
+    },
+    {
+      "kind": "open_water_transition",
+      "mask_source_server_id": 4649,
+      "property_source_server_id": 4825,
+      "path": "sprites/water-transitions-gradient-20261023/07-open-water-transition-mask-4649.png",
+      "size": [
+        32,
+        480
+      ],
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "sha256": "60149BBC93A369E967D5A1AE71F80A1C8B00DD216D005D7AEAE7B140BE6B9F1A"
+    },
+    {
+      "kind": "open_water_transition",
+      "mask_source_server_id": 4650,
+      "property_source_server_id": 4825,
+      "path": "sprites/water-transitions-gradient-20261023/08-open-water-transition-mask-4650.png",
+      "size": [
+        32,
+        480
+      ],
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "sha256": "34D2D27D31962CF2D95D1C1FBEDAE26D1D65D69D7A68B006918D88C891E75498"
+    },
+    {
+      "kind": "open_water_transition",
+      "mask_source_server_id": 4651,
+      "property_source_server_id": 4825,
+      "path": "sprites/water-transitions-gradient-20261023/09-open-water-transition-mask-4651.png",
+      "size": [
+        32,
+        480
+      ],
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "sha256": "546DE77EEA916B745246BF40DE664B25FC08082950A0A182DD99DBCC889CFB79"
+    },
+    {
+      "kind": "open_water_transition",
+      "mask_source_server_id": 4652,
+      "property_source_server_id": 4825,
+      "path": "sprites/water-transitions-gradient-20261023/10-open-water-transition-mask-4652.png",
+      "size": [
+        32,
+        480
+      ],
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "sha256": "17F8F49A55063BEBFFF7902FE24CC7B9EB6A21E1C2CEDF03B4751A4389140AF0"
+    },
+    {
+      "kind": "open_water_transition",
+      "mask_source_server_id": 4653,
+      "property_source_server_id": 4825,
+      "path": "sprites/water-transitions-gradient-20261023/11-open-water-transition-mask-4653.png",
+      "size": [
+        32,
+        480
+      ],
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "sha256": "68D5DD2C64D808B6D2CCABE5DCB844E12C8EB6AA2E808CB7C9B84CDD2DDDD585"
+    },
+    {
+      "kind": "open_water_transition",
+      "mask_source_server_id": 4654,
+      "property_source_server_id": 4825,
+      "path": "sprites/water-transitions-gradient-20261023/12-open-water-transition-mask-4654.png",
+      "size": [
+        32,
+        480
+      ],
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "sha256": "E8990A6274DB9626652DBABD703D62F257DBF573D9BC5D4DF4348783DA16A744"
+    },
+    {
+      "kind": "shore_gradient",
+      "source_server_id": 4644,
+      "path": "sprites/water-transitions-gradient-20261023/13-shore-gradient-source-4644.png",
+      "size": [
+        64,
+        480
+      ],
+      "pattern_x": 2,
+      "pattern_y": 1,
+      "changed_water_pixels": 12450,
+      "preserved_nonwater_pixels": 16213,
+      "sha256": "E1B53932B0AEE128DBAA0CFEA75287BC4EA0CD898469264CA7CA87B0C7413A9E"
+    },
+    {
+      "kind": "shore_gradient",
+      "source_server_id": 4645,
+      "path": "sprites/water-transitions-gradient-20261023/14-shore-gradient-source-4645.png",
+      "size": [
+        32,
+        960
+      ],
+      "pattern_x": 1,
+      "pattern_y": 2,
+      "changed_water_pixels": 10643,
+      "preserved_nonwater_pixels": 17991,
+      "sha256": "AAE877A8A59637C6E1F109E534D8C7E2DB517AD27CF6C5FC37B18D303EFC034F"
+    },
+    {
+      "kind": "shore_gradient",
+      "source_server_id": 4646,
+      "path": "sprites/water-transitions-gradient-20261023/15-shore-gradient-source-4646.png",
+      "size": [
+        64,
+        480
+      ],
+      "pattern_x": 2,
+      "pattern_y": 1,
+      "changed_water_pixels": 10385,
+      "preserved_nonwater_pixels": 18253,
+      "sha256": "499577C39C00846C1E1BE3773AC9C554FEF2819C8D41D54775E230C5A973DA12"
+    },
+    {
+      "kind": "shore_gradient",
+      "source_server_id": 4647,
+      "path": "sprites/water-transitions-gradient-20261023/16-shore-gradient-source-4647.png",
+      "size": [
+        32,
+        960
+      ],
+      "pattern_x": 1,
+      "pattern_y": 2,
+      "changed_water_pixels": 11547,
+      "preserved_nonwater_pixels": 17113,
+      "sha256": "9E110DBDE8BE9B47C59174D3D158F85C97A918D24F8A82F39A76DF555E310240"
+    },
+    {
+      "kind": "shore_gradient",
+      "source_server_id": 4648,
+      "path": "sprites/water-transitions-gradient-20261023/17-shore-gradient-source-4648.png",
+      "size": [
+        32,
+        480
+      ],
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "changed_water_pixels": 12754,
+      "preserved_nonwater_pixels": 1832,
+      "sha256": "1DEAB796A3C93B9CC2897298A1E7EB980B243DB6CEC2141501D77175DA80D56C"
+    },
+    {
+      "kind": "shore_gradient",
+      "source_server_id": 4649,
+      "path": "sprites/water-transitions-gradient-20261023/18-shore-gradient-source-4649.png",
+      "size": [
+        32,
+        480
+      ],
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "changed_water_pixels": 11747,
+      "preserved_nonwater_pixels": 2646,
+      "sha256": "EA58EBA4D02AA9DBF33B6B78B6555D208B9ED7F73C0C2A5CA9034F0FEB23F275"
+    },
+    {
+      "kind": "shore_gradient",
+      "source_server_id": 4650,
+      "path": "sprites/water-transitions-gradient-20261023/19-shore-gradient-source-4650.png",
+      "size": [
+        32,
+        480
+      ],
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "changed_water_pixels": 11986,
+      "preserved_nonwater_pixels": 2484,
+      "sha256": "6A345EFDD8E0BBCCA81FBE3BAD5B3C5BB5AE57D7335B3475F856AFFCDFB73A48"
+    },
+    {
+      "kind": "shore_gradient",
+      "source_server_id": 4651,
+      "path": "sprites/water-transitions-gradient-20261023/20-shore-gradient-source-4651.png",
+      "size": [
+        32,
+        480
+      ],
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "changed_water_pixels": 11389,
+      "preserved_nonwater_pixels": 3027,
+      "sha256": "3BD00C0F568CBEE0EDC5A5CE43F8D5B5803414099B3E5494DC3D17BC372CB37B"
+    },
+    {
+      "kind": "shore_gradient",
+      "source_server_id": 4652,
+      "path": "sprites/water-transitions-gradient-20261023/21-shore-gradient-source-4652.png",
+      "size": [
+        32,
+        480
+      ],
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "changed_water_pixels": 1260,
+      "preserved_nonwater_pixels": 13416,
+      "sha256": "329F257243505F3EFDBDF88B29DD5ABB845615276E25BE877DAED924B72386C9"
+    },
+    {
+      "kind": "shore_gradient",
+      "source_server_id": 4653,
+      "path": "sprites/water-transitions-gradient-20261023/22-shore-gradient-source-4653.png",
+      "size": [
+        32,
+        480
+      ],
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "changed_water_pixels": 705,
+      "preserved_nonwater_pixels": 14063,
+      "sha256": "EBFC140EFEEC56E249DEEE106F6E3A1AA1C1E1D8EC953C95A1D35BDC86D1AA19"
+    },
+    {
+      "kind": "shore_gradient",
+      "source_server_id": 4654,
+      "path": "sprites/water-transitions-gradient-20261023/23-shore-gradient-source-4654.png",
+      "size": [
+        32,
+        480
+      ],
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "changed_water_pixels": 1065,
+      "preserved_nonwater_pixels": 13674,
+      "sha256": "86570430F68EB5CB80D0993F9316DF9B1E6ED21142FDE49BFF5F86AE98008C79"
+    }
+  ],
+  "manifest": "sprites/water-transitions-gradient-20261023/water-transitions-gradient-20261023.csv",
+  "manifest_sha256": "2F23E3435A1032AF045BAF068992EB4FF7E8BCAE2E956760BD544153CB5D35C2",
+  "checks": {
+    "otb_source_mappings_exact": true,
+    "target_ids_contiguous_after_baseline_max": true,
+    "all_png_rgba_8bit_non_interlaced": true,
+    "all_frames_32x32": true,
+    "all_items_have_15_frames": true,
+    "all_rocks_and_transparency_preserved_in_shore_items": true,
+    "no_imagegen_pixels_used": true
+  }
+}
