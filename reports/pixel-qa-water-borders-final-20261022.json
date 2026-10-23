@@ -1,0 +1,189 @@
+{
+  "passed": true,
+  "items": [
+    {
+      "source_server_id": 4644,
+      "server_id": 25603,
+      "client_id": 24718,
+      "size": [
+        64,
+        480
+      ],
+      "pixels_equal": true,
+      "otb_properties_equal": true,
+      "layers": 1,
+      "pattern_x": 2,
+      "pattern_y": 1,
+      "frames": 15
+    },
+    {
+      "source_server_id": 4645,
+      "server_id": 25604,
+      "client_id": 24719,
+      "size": [
+        32,
+        960
+      ],
+      "pixels_equal": true,
+      "otb_properties_equal": true,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 2,
+      "frames": 15
+    },
+    {
+      "source_server_id": 4646,
+      "server_id": 25605,
+      "client_id": 24720,
+      "size": [
+        64,
+        480
+      ],
+      "pixels_equal": true,
+      "otb_properties_equal": true,
+      "layers": 1,
+      "pattern_x": 2,
+      "pattern_y": 1,
+      "frames": 15
+    },
+    {
+      "source_server_id": 4647,
+      "server_id": 25606,
+      "client_id": 24721,
+      "size": [
+        32,
+        960
+      ],
+      "pixels_equal": true,
+      "otb_properties_equal": true,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 2,
+      "frames": 15
+    },
+    {
+      "source_server_id": 4648,
+      "server_id": 25607,
+      "client_id": 24722,
+      "size": [
+        32,
+        480
+      ],
+      "pixels_equal": true,
+      "otb_properties_equal": true,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "frames": 15
+    },
+    {
+      "source_server_id": 4649,
+      "server_id": 25608,
+      "client_id": 24723,
+      "size": [
+        32,
+        480
+      ],
+      "pixels_equal": true,
+      "otb_properties_equal": true,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "frames": 15
+    },
+    {
+      "source_server_id": 4650,
+      "server_id": 25609,
+      "client_id": 24724,
+      "size": [
+        32,
+        480
+      ],
+      "pixels_equal": true,
+      "otb_properties_equal": true,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "frames": 15
+    },
+    {
+      "source_server_id": 4651,
+      "server_id": 25610,
+      "client_id": 24725,
+      "size": [
+        32,
+        480
+      ],
+      "pixels_equal": true,
+      "otb_properties_equal": true,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "frames": 15
+    },
+    {
+      "source_server_id": 4652,
+      "server_id": 25611,
+      "client_id": 24726,
+      "size": [
+        32,
+        480
+      ],
+      "pixels_equal": true,
+      "otb_properties_equal": true,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "frames": 15
+    },
+    {
+      "source_server_id": 4653,
+      "server_id": 25612,
+      "client_id": 24727,
+      "size": [
+        32,
+        480
+      ],
+      "pixels_equal": true,
+      "otb_properties_equal": true,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "frames": 15
+    },
+    {
+      "source_server_id": 4654,
+      "server_id": 25613,
+      "client_id": 24728,
+      "size": [
+        32,
+        480
+      ],
+      "pixels_equal": true,
+      "otb_properties_equal": true,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "frames": 15
+    },
+    {
+      "source_server_id": 4655,
+      "server_id": 25614,
+      "client_id": 24729,
+      "size": [
+        32,
+        480
+      ],
+      "pixels_equal": true,
+      "otb_properties_equal": true,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "frames": 15
+    }
+  ],
+  "all_pixels_equal": true,
+  "all_otb_properties_equal": true,
+  "map_unchanged": true,
+  "map_sha256": "AC32C669BED3512D69AE054CAFC8564A236C9894B22BBC9A0E9D7ACAEFAD5512"
+}

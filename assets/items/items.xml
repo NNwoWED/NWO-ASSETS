@@ -19282,4 +19282,52 @@
 	<item id="25602" article="a" name="Kakashi's Guizos">
 		<attribute key="description" value="Uma oportunidade perdida." />
 	</item>
+<item id="25603" name="Shallow water">
+		<attribute key="fluidSource" value="water" />
+		<attribute key="allowpickupable" value="1" />
+	</item>
+<item id="25604" name="Shallow water">
+		<attribute key="fluidSource" value="water" />
+		<attribute key="allowpickupable" value="1" />
+	</item>
+<item id="25605" name="Shallow water">
+		<attribute key="fluidSource" value="water" />
+		<attribute key="allowpickupable" value="1" />
+	</item>
+<item id="25606" name="Shallow water">
+		<attribute key="fluidSource" value="water" />
+		<attribute key="allowpickupable" value="1" />
+	</item>
+<item id="25607" name="Shallow water">
+		<attribute key="fluidSource" value="water" />
+		<attribute key="allowpickupable" value="1" />
+	</item>
+<item id="25608" name="Shallow water">
+		<attribute key="fluidSource" value="water" />
+		<attribute key="allowpickupable" value="1" />
+	</item>
+<item id="25609" name="Shallow water">
+		<attribute key="fluidSource" value="water" />
+		<attribute key="allowpickupable" value="1" />
+	</item>
+<item id="25610" name="Shallow water">
+		<attribute key="fluidSource" value="water" />
+		<attribute key="allowpickupable" value="1" />
+	</item>
+<item id="25611" name="Shallow water">
+		<attribute key="fluidSource" value="water" />
+		<attribute key="allowpickupable" value="1" />
+	</item>
+<item id="25612" name="Shallow water">
+		<attribute key="fluidSource" value="water" />
+		<attribute key="allowpickupable" value="1" />
+	</item>
+<item id="25613" name="Shallow water">
+		<attribute key="fluidSource" value="water" />
+		<attribute key="allowpickupable" value="1" />
+	</item>
+<item id="25614" name="Shallow water">
+		<attribute key="fluidSource" value="water" />
+		<attribute key="allowpickupable" value="1" />
+	</item>
 </items>

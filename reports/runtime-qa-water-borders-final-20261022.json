@@ -1,0 +1,44 @@
+{
+  "passed": true,
+  "copy_count": 31,
+  "current_source_target_hashes_equal": true,
+  "deep_validation_passed": true,
+  "errors": [],
+  "archive": {
+    "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\nwo-otclient-mehah-4.0\\data\\things\\860.rar",
+    "size": 85630685,
+    "sha256": "0EB18E01BED750439A9CA847D77EEE5A4A156EF18957AED86E0438C5946B9FBB",
+    "entries": [
+      "860",
+      "860\\.gitattributes",
+      "860\\tibia.dat",
+      "860\\tibia.otfi",
+      "860\\tibia.spr"
+    ],
+    "rar_executable": "C:\\Program Files\\WinRAR\\Rar.exe"
+  },
+  "studio_archives": {
+    "things": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-STUDIO\\assets\\things\\1098.rar",
+      "size": 85630685,
+      "sha256": "0EB18E01BED750439A9CA847D77EEE5A4A156EF18957AED86E0438C5946B9FBB",
+      "entries": [
+        "860",
+        "860\\.gitattributes",
+        "860\\tibia.dat",
+        "860\\tibia.otfi",
+        "860\\tibia.spr"
+      ],
+      "rar_executable": "C:\\Program Files\\WinRAR\\Rar.exe"
+    },
+    "world": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-STUDIO\\assets\\world\\mapanovo.rar",
+      "size": 11143495,
+      "sha256": "8A4BCCE62E916D6B58B347BB67D44AA9D93E47BA2D254A155D196DF003F19F77",
+      "entries": [
+        "mapanovo.otbm"
+      ],
+      "rar_executable": "C:\\Program Files\\WinRAR\\Rar.exe"
+    }
+  }
+}

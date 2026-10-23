@@ -1,0 +1,80 @@
+{
+  "passed": true,
+  "files": [
+    {
+      "source": "sprites\\recolor wedson\\server-4644_client-4633.png",
+      "archive": "importados\\water-borders-final-20261022\\server-4644_client-4633.png",
+      "sha256": "951f625c35e8972b8a694a41576371372ae7744d96c9387e9afbe3fef393d6c7"
+    },
+    {
+      "source": "sprites\\recolor wedson\\server-4645_client-4634.png",
+      "archive": "importados\\water-borders-final-20261022\\server-4645_client-4634.png",
+      "sha256": "91ca9ebfd13a7b469172bb84d42ca4b36e97354ea87f2a5b07380493301e6164"
+    },
+    {
+      "source": "sprites\\recolor wedson\\server-4646_client-4635.png",
+      "archive": "importados\\water-borders-final-20261022\\server-4646_client-4635.png",
+      "sha256": "b4fc569a77d7a63fe38a93d8990cbf003f244536c26ebc3d566b74f681e8fdce"
+    },
+    {
+      "source": "sprites\\recolor wedson\\server-4647_client-4636.png",
+      "archive": "importados\\water-borders-final-20261022\\server-4647_client-4636.png",
+      "sha256": "5ee8dec51debabb928e14d709556abb4cab081977a4a70ff8a77fd3237bb95d0"
+    },
+    {
+      "source": "sprites\\recolor wedson\\server-4648_client-4637.png",
+      "archive": "importados\\water-borders-final-20261022\\server-4648_client-4637.png",
+      "sha256": "6c3778ad7c0aa6777f6b3ad68141611cfb259e966e0b6399bc2d0a0c395a2913"
+    },
+    {
+      "source": "sprites\\recolor wedson\\server-4649_client-4638.png",
+      "archive": "importados\\water-borders-final-20261022\\server-4649_client-4638.png",
+      "sha256": "cc7bf8e89246ed1e9803b3296901583c05a8ff57a456a8d2b0e92da8c103a0e8"
+    },
+    {
+      "source": "sprites\\recolor wedson\\server-4650_client-4639.png",
+      "archive": "importados\\water-borders-final-20261022\\server-4650_client-4639.png",
+      "sha256": "581768083c05d52e7dc06903928348ff26e367f917b7c969b3555062a4d840b3"
+    },
+    {
+      "source": "sprites\\recolor wedson\\server-4651_client-4640.png",
+      "archive": "importados\\water-borders-final-20261022\\server-4651_client-4640.png",
+      "sha256": "3367f4f1a1cc0a3e54ef1583b02fa5b42061bc05fe4b54a3167efb13c3c19299"
+    },
+    {
+      "source": "sprites\\recolor wedson\\server-4652_client-4641.png",
+      "archive": "importados\\water-borders-final-20261022\\server-4652_client-4641.png",
+      "sha256": "94a238eeb9a18ac033c769f8aeef34bba1a641621d2f2fc97b32bdac85e33349"
+    },
+    {
+      "source": "sprites\\recolor wedson\\server-4653_client-4642.png",
+      "archive": "importados\\water-borders-final-20261022\\server-4653_client-4642.png",
+      "sha256": "d8c8baac549fdd1d540f1a814ef59388a45ee221d14c813ebde186615d05ba85"
+    },
+    {
+      "source": "sprites\\recolor wedson\\server-4654_client-4643.png",
+      "archive": "importados\\water-borders-final-20261022\\server-4654_client-4643.png",
+      "sha256": "ccea383af67c07ccd37197e668c2cdc8402844961bf12f643335f291d5752539"
+    },
+    {
+      "source": "sprites\\recolor wedson\\server-4655_client-4644.png",
+      "archive": "importados\\water-borders-final-20261022\\server-4655_client-4644.png",
+      "sha256": "4e3a5690ce52c952cc3369f46c2ccc1fe73b32fb2c04519f5fe68ab6e21e6514"
+    },
+    {
+      "source": "sprites\\recolor wedson\\original-server-4655_client-4644.png",
+      "archive": "importados\\water-borders-final-20261022\\original-server-4655_client-4644.png",
+      "sha256": "6fc31c4ad25410243aa6f90fc3bb94ddf61f528d8bf2bb1081395b65daecc759"
+    },
+    {
+      "source": "sprites\\recolor wedson\\water-cloned-borders-final-20261022.csv",
+      "archive": "importados\\water-borders-final-20261022\\water-cloned-borders-final-20261022.csv",
+      "sha256": "cdd2926c748b116d766f58c8dca55c38d09d19672527dac6cb6e6bae6a43fef5"
+    },
+    {
+      "source": "sprites\\recolor wedson\\water-cloned-borders-draft-20261022.csv",
+      "archive": "importados\\water-borders-final-20261022\\water-cloned-borders-draft-20261022.csv",
+      "sha256": "1fa86d5eeb341a6733f84b2c043b96741f4a4373500db4391c9c0673629dc7b3"
+    }
+  ]
+}
