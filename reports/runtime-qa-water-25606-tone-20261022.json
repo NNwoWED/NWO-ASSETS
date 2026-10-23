@@ -1,0 +1,14 @@
+{
+  "passed": true,
+  "server_id": 25606,
+  "client_id": 24721,
+  "copy_count": 31,
+  "all_current_runtime_hashes_equal": true,
+  "archive_hashes_verified": 3,
+  "deep_validation_passed": true,
+  "errors": [],
+  "version_id": "20261022-235943-907304",
+  "non_target_dat_records_preserved": true,
+  "old_sprite_payload_preserved": true,
+  "map_unchanged": true
+}

@@ -1,0 +1,20 @@
+{
+  "passed": true,
+  "files": [
+    {
+      "source": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\water-25606-tone-20261022\\original-server-25606_client-24721.png",
+      "archived": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\importados\\water-25606-tone-20261022\\original-server-25606_client-24721.png",
+      "sha256": "0cc77b4f7f581065f5a853c67c23e14698fa8f14ad5b64d53c4eaf7988832c1c"
+    },
+    {
+      "source": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\water-25606-tone-20261022\\server-25606_client-24721.png",
+      "archived": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\importados\\water-25606-tone-20261022\\server-25606_client-24721.png",
+      "sha256": "320354fe52227cb381a44e031d0de73eb42aac9141788dba77d4847d6cd4c146"
+    },
+    {
+      "source": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\water-25606-tone-20261022\\water-25606-tone-20261022.csv",
+      "archived": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\importados\\water-25606-tone-20261022\\water-25606-tone-20261022.csv",
+      "sha256": "d0cd1b48ece02a9198e40dd1d5e4ee0752ea3a39a0ae6b5c2cec6ebfb953a032"
+    }
+  ]
+}

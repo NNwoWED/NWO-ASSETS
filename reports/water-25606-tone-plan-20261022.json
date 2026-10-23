@@ -1,0 +1,92 @@
+{
+  "operation": "substituir",
+  "name": "Shallow water border",
+  "purpose": "match the tone of the previously added water borders",
+  "card": "https://trello.com/c/iypxbXLe",
+  "server_id": 25606,
+  "client_id": 24721,
+  "exclusive_otb_link_verified": true,
+  "original_export": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\water-25606-before-20261022\\server-25606_client-24721_shallow-water.png",
+  "source_png": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\water-25606-tone-20261022\\server-25606_client-24721.png",
+  "sheet_size": [
+    32,
+    960
+  ],
+  "frame_size": [
+    32,
+    32
+  ],
+  "frames": 15,
+  "layers": 1,
+  "pattern_x": 1,
+  "pattern_y": 2,
+  "pattern_z": 1,
+  "animation_async": true,
+  "durations": [
+    [
+      100,
+      100
+    ],
+    [
+      100,
+      100
+    ],
+    [
+      100,
+      100
+    ],
+    [
+      100,
+      100
+    ],
+    [
+      100,
+      100
+    ],
+    [
+      100,
+      100
+    ],
+    [
+      100,
+      100
+    ],
+    [
+      100,
+      100
+    ],
+    [
+      100,
+      100
+    ],
+    [
+      100,
+      100
+    ],
+    [
+      100,
+      100
+    ],
+    [
+      100,
+      100
+    ],
+    [
+      100,
+      100
+    ],
+    [
+      100,
+      100
+    ],
+    [
+      100,
+      100
+    ]
+  ],
+  "properties_policy": "Preserve all DAT/OTB properties and full layout/timing; update only target appearance and its SpriteHash.",
+  "dat_properties_sha256": "8c94b4581bf7597f6604a4eb8c2d18f861ea860060066faf0a578312f06c7290",
+  "otb_before_hex": "000020000110020006641102009160201000bcb96a7889bdb4e4aeda43380178cdcd21020033002b010001",
+  "map_sha256": "ac32c669bed3512d69ae054cafc8564a236c9894b22bbc9a0e9d7acaefad5512",
+  "palette_reference": "reports/recolor-water-border-4655-20261022.json"
+}

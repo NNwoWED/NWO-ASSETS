@@ -1,0 +1,172 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "profile": {
+    "key": "tibia-860-v2-custom-extended",
+    "client_version": 860,
+    "label": "Tibia 8.60 v2 customizado com features OTFI",
+    "dat_signature": "0x4C2C7993",
+    "spr_signature": "0x4C220594",
+    "metadata_reader": 5,
+    "otb_version_hint": "8.60"
+  },
+  "category": "items",
+  "id_kind": "server",
+  "requested_ids": [
+    25606,
+    25605,
+    25607
+  ],
+  "output_dir": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\water-25606-before-20261022",
+  "exported_count": 3,
+  "exported": [
+    {
+      "requested_id": 25606,
+      "client_id": 24721,
+      "server_ids": [
+        25606
+      ],
+      "name": "Shallow water",
+      "group_index": 0,
+      "width": 32,
+      "height": 960,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 2,
+      "pattern_z": 1,
+      "frames": 15,
+      "sprite_ids": [
+        277018,
+        277019,
+        277020,
+        277021,
+        277022,
+        277023,
+        277024,
+        277025,
+        277026,
+        277027,
+        277028,
+        277029,
+        277030,
+        277031,
+        277032,
+        277033,
+        277034,
+        277035,
+        277036,
+        277037,
+        277038,
+        277039,
+        277040,
+        277041,
+        277042,
+        277043,
+        277044,
+        277045,
+        277046,
+        277047
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\water-25606-before-20261022\\server-25606_client-24721_shallow-water.png",
+      "size": 12652,
+      "sha256": "0CC77B4F7F581065F5A853C67C23E14698FA8F14AD5B64D53C4EAF7988832C1C"
+    },
+    {
+      "requested_id": 25605,
+      "client_id": 24720,
+      "server_ids": [
+        25605
+      ],
+      "name": "Shallow water",
+      "group_index": 0,
+      "width": 64,
+      "height": 480,
+      "layers": 1,
+      "pattern_x": 2,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 15,
+      "sprite_ids": [
+        276988,
+        276989,
+        276990,
+        276991,
+        276992,
+        276993,
+        276994,
+        276995,
+        276996,
+        276997,
+        276998,
+        276999,
+        277000,
+        277001,
+        277002,
+        277003,
+        277004,
+        277005,
+        277006,
+        277007,
+        277008,
+        277009,
+        277010,
+        277011,
+        277012,
+        277013,
+        277014,
+        277015,
+        277016,
+        277017
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\water-25606-before-20261022\\server-25605_client-24720_shallow-water.png",
+      "size": 8763,
+      "sha256": "4787DADF194218D994F675F76AAB95A8C6C9AE8C40C152FB819F826A65C50724"
+    },
+    {
+      "requested_id": 25607,
+      "client_id": 24722,
+      "server_ids": [
+        25607
+      ],
+      "name": "Shallow water",
+      "group_index": 0,
+      "width": 32,
+      "height": 480,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 15,
+      "sprite_ids": [
+        277048,
+        277049,
+        277050,
+        277051,
+        277052,
+        277053,
+        277054,
+        277055,
+        277056,
+        277057,
+        277058,
+        277059,
+        277060,
+        277061,
+        277062
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\water-25606-before-20261022\\server-25607_client-24722_shallow-water.png",
+      "size": 7753,
+      "sha256": "B8F418D33A2C16A7D460C6EA6205AC9367D5DA2BE233878C185A15C7E79F0DB3"
+    }
+  ],
+  "sources": {
+    "dat": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.dat",
+      "sha256": "67EB962F9028BDE96EBFDCE3A0B4F833D7C6FFE0C717C78C9A97E81AF0CB891C"
+    },
+    "spr": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.spr",
+      "sha256": "8511F8EC488381204C698D42C106660BA8996FAD95611A82FA5E58F1E85002D6"
+    }
+  },
+  "passed": true
+}

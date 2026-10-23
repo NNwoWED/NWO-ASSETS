@@ -1,0 +1,16 @@
+{
+  "passed": true,
+  "server_id": 25606,
+  "client_id": 24721,
+  "pixels_equal": true,
+  "dat_properties_unchanged": true,
+  "otb_properties_unchanged": true,
+  "animation_timing_unchanged": true,
+  "frames": 15,
+  "pattern_y": 2,
+  "map_unchanged": true,
+  "sheet_size": [
+    32,
+    960
+  ]
+}
