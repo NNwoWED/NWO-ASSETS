@@ -1,0 +1,210 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "manifest": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\water-cliffs-deep-20261023\\water-cliffs-deep-timing-20261023.csv",
+  "category": "items",
+  "version_backup": {
+    "tool_version": "0.8.2",
+    "version_id": "20261023-154303-496038",
+    "created_at": "2026-10-23T15:43:14.335709-03:00",
+    "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261023-154303-496038",
+    "rar_executable": "C:\\Program Files\\WinRAR\\Rar.exe",
+    "sources": [
+      {
+        "path": "assets/860/.gitattributes",
+        "size": 43,
+        "sha256": "D5636A3257287440945C5E017581545E5B0A3E2FDDDAE7C5EF8D90FF4DF3D32A"
+      },
+      {
+        "path": "assets/860/Tibia.dat",
+        "size": 4525278,
+        "sha256": "80FF24F193EE0EFC1D1415BDBBB85216F54C9EF4724BDB2C88F45EE80E029D6E"
+      },
+      {
+        "path": "assets/860/Tibia.otfi",
+        "size": 185,
+        "sha256": "7743548835944BC799CB871A4E5DEF84F7AF76815031871B9CE74B5EC0E8ADD3"
+      },
+      {
+        "path": "assets/860/Tibia.spr",
+        "size": 469551709,
+        "sha256": "322775F01270BEDF51FF8BF707943E68240B3F893D35F6660A6C68C3857EEEC1"
+      },
+      {
+        "path": "assets/items/force use.txt",
+        "size": 419,
+        "sha256": "BCB478FDF3F45ECA8D172AFD7A17D3F8CD520924EE0894752452B8FDC8F71959"
+      },
+      {
+        "path": "assets/items/items.otb",
+        "size": 1014862,
+        "sha256": "07DDE241A67D2EB88DA5430789DE0568A73C0481A879B6293C5AF006B12044C4"
+      },
+      {
+        "path": "assets/world/mapanovo.otbm",
+        "size": 80105775,
+        "sha256": "AC32C669BED3512D69AE054CAFC8564A236C9894B22BBC9A0E9D7ACAEFAD5512"
+      }
+    ],
+    "archives": {
+      "860": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261023-154303-496038\\860.rar",
+        "size": 85887247,
+        "sha256": "E3B598126462107B98CE94D6CBD15B88E0F6D4029670026CA517F769942A4EDD"
+      },
+      "items": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261023-154303-496038\\items.rar",
+        "size": 483594,
+        "sha256": "99BA731FCF95FF3A195E72BB0D51947A75753F76041D68A8A95EACA4CEAEA3FC"
+      },
+      "world": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261023-154303-496038\\world.zip",
+        "size": 19337404,
+        "sha256": "92E3613FFE42E15A419DD4A8A0F86A4570AEE5F031A4589F7010C4804EED8E7D"
+      }
+    },
+    "items_xml_excluded": true,
+    "world_entries": [
+      "mapanovo.otbm"
+    ],
+    "passed": true
+  },
+  "changes": {
+    "24758": {
+      "before": [
+        [
+          145,
+          145
+        ],
+        [
+          145,
+          145
+        ],
+        [
+          145,
+          145
+        ],
+        [
+          145,
+          145
+        ],
+        [
+          145,
+          145
+        ],
+        [
+          145,
+          145
+        ],
+        [
+          145,
+          145
+        ],
+        [
+          145,
+          145
+        ],
+        [
+          145,
+          145
+        ],
+        [
+          145,
+          145
+        ],
+        [
+          145,
+          145
+        ],
+        [
+          145,
+          145
+        ],
+        [
+          145,
+          145
+        ],
+        [
+          145,
+          145
+        ],
+        [
+          145,
+          145
+        ]
+      ],
+      "after": [
+        [
+          145,
+          145
+        ],
+        [
+          145,
+          145
+        ],
+        [
+          145,
+          145
+        ],
+        [
+          145,
+          145
+        ],
+        [
+          145,
+          145
+        ],
+        [
+          145,
+          145
+        ],
+        [
+          145,
+          145
+        ],
+        [
+          145,
+          145
+        ],
+        [
+          145,
+          145
+        ],
+        [
+          145,
+          145
+        ],
+        [
+          145,
+          145
+        ],
+        [
+          145,
+          145
+        ],
+        [
+          145,
+          145
+        ],
+        [
+          145,
+          145
+        ],
+        [
+          500,
+          500
+        ]
+      ],
+      "animation_async": true,
+      "loop_count": 0,
+      "start_frame": 0
+    }
+  },
+  "dat_sha256": "4A4C6449B8F7FDAB0FCD1D4F87BA95F9B6CDD17DD182C8806FB0823E097E3D65",
+  "spr_unchanged": true,
+  "otb_unchanged": true,
+  "map_unchanged": true,
+  "final_validation_passed": true,
+  "warnings": [],
+  "errors": [],
+  "passed": true
+}

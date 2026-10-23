@@ -1,0 +1,68 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "profile": {
+    "key": "tibia-860-v2-custom-extended",
+    "client_version": 860,
+    "label": "Tibia 8.60 v2 customizado com features OTFI",
+    "dat_signature": "0x4C2C7993",
+    "spr_signature": "0x4C220594",
+    "metadata_reader": 5,
+    "otb_version_hint": "8.60"
+  },
+  "category": "items",
+  "id_kind": "server",
+  "requested_ids": [
+    4608
+  ],
+  "output_dir": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\water-cliffs-16421-16445-reference-4608-20261023",
+  "exported_count": 1,
+  "exported": [
+    {
+      "requested_id": 4608,
+      "client_id": 4597,
+      "server_ids": [
+        4608
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 480,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 15,
+      "sprite_ids": [
+        276837,
+        276838,
+        276839,
+        276840,
+        276841,
+        276842,
+        276843,
+        276844,
+        276845,
+        276846,
+        276847,
+        276848,
+        276849,
+        276850,
+        276851
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\water-cliffs-16421-16445-reference-4608-20261023\\server-4608_client-4597.png",
+      "size": 4317,
+      "sha256": "6EF73A698D7A518237DCE130F81B85DD47D16AD2A1E2BAB1290AB91A9D21D235"
+    }
+  ],
+  "sources": {
+    "dat": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.dat",
+      "sha256": "BFB9CEB326B11C17C5ABA706E3009B965EDAAD2FEB36BB670D6848FC37F68590"
+    },
+    "spr": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.spr",
+      "sha256": "B029440BC1A4C5CAAB8110CAEFF7F715D7F26D43429776AF4BE808329313A062"
+    }
+  },
+  "passed": true
+}

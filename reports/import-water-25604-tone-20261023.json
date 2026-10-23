@@ -1,0 +1,158 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "manifest": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\water-25604-tone-20261023\\water-25604-tone-20261023.csv",
+  "profile": "tibia-860-v2-custom-extended",
+  "version_backup": {
+    "tool_version": "0.8.2",
+    "version_id": "20261023-152725-750060",
+    "created_at": "2026-10-23T15:27:36.954901-03:00",
+    "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261023-152725-750060",
+    "rar_executable": "C:\\Program Files\\WinRAR\\Rar.exe",
+    "sources": [
+      {
+        "path": "assets/860/.gitattributes",
+        "size": 43,
+        "sha256": "D5636A3257287440945C5E017581545E5B0A3E2FDDDAE7C5EF8D90FF4DF3D32A"
+      },
+      {
+        "path": "assets/860/Tibia.dat",
+        "size": 4519810,
+        "sha256": "6EA291A3F688E2CE917564B7C117DE0B074F124D7EC2398FF6F8D0E836BBC60C"
+      },
+      {
+        "path": "assets/860/Tibia.otfi",
+        "size": 185,
+        "sha256": "7743548835944BC799CB871A4E5DEF84F7AF76815031871B9CE74B5EC0E8ADD3"
+      },
+      {
+        "path": "assets/860/Tibia.spr",
+        "size": 468442080,
+        "sha256": "7AA2FF57D5996D91ECFBF3CECCFEDC429959EF20741D62EE33E20B378C2BE508"
+      },
+      {
+        "path": "assets/items/force use.txt",
+        "size": 419,
+        "sha256": "BCB478FDF3F45ECA8D172AFD7A17D3F8CD520924EE0894752452B8FDC8F71959"
+      },
+      {
+        "path": "assets/items/items.otb",
+        "size": 1013735,
+        "sha256": "BA08FC16857DFAE07748EB4F970B4D465ECA751E4C5382F309368F7F08D99FFD"
+      },
+      {
+        "path": "assets/world/mapanovo.otbm",
+        "size": 80105775,
+        "sha256": "AC32C669BED3512D69AE054CAFC8564A236C9894B22BBC9A0E9D7ACAEFAD5512"
+      }
+    ],
+    "archives": {
+      "860": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261023-152725-750060\\860.rar",
+        "size": 85849090,
+        "sha256": "E0DFC0CCE342352BD1F6D13AF4BF568A83AC74ED9A7859513D23BEC000D9A624"
+      },
+      "items": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261023-152725-750060\\items.rar",
+        "size": 483249,
+        "sha256": "7B52F57AC9D3932CF933651D24F33CE5C4E96525FD4705D3DD7AD79AB3FB0DF8"
+      },
+      "world": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261023-152725-750060\\world.zip",
+        "size": 19337404,
+        "sha256": "92E3613FFE42E15A419DD4A8A0F86A4570AEE5F031A4589F7010C4804EED8E7D"
+      }
+    },
+    "items_xml_excluded": true,
+    "world_entries": [
+      "mapanovo.otbm"
+    ],
+    "passed": true
+  },
+  "sprite_hash_gate": {
+    "sample_count": 64,
+    "mismatch_count": 0,
+    "mismatches": [],
+    "passed": true
+  },
+  "item_count": 1,
+  "new_sprite_count": 30,
+  "sprite_id_range": [
+    277693,
+    277722
+  ],
+  "items": [
+    {
+      "sequence": 1,
+      "client_id": 24719,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\water-25604-tone-20261023\\server-25604_client-24719.png",
+      "file_sha256": "E1F62CE860A26B6BEF4934A4F3112F3D18AE3C1E9FC0E3E2E06E0C79CBAA56F4",
+      "pixels_sha256": "324C26F6D702A6D85ADE44248946073D6569A67EBB54CF6E28067F41389336CF",
+      "image_width": 32,
+      "image_height": 960,
+      "width_tiles": 1,
+      "height_tiles": 1,
+      "frames": 15,
+      "frame_duration_ms": null,
+      "animation_async": true,
+      "sprite_ids": [
+        277693,
+        277694,
+        277695,
+        277696,
+        277697,
+        277698,
+        277699,
+        277700,
+        277701,
+        277702,
+        277703,
+        277704,
+        277705,
+        277706,
+        277707,
+        277708,
+        277709,
+        277710,
+        277711,
+        277712,
+        277713,
+        277714,
+        277715,
+        277716,
+        277717,
+        277718,
+        277719,
+        277720,
+        277721,
+        277722
+      ],
+      "sprite_hash": "257CBE92392FBC8E72A7AB03AC646896",
+      "layout_preserved": true,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 2,
+      "pattern_z": 1
+    }
+  ],
+  "otb_nodes_updated": {
+    "24719": 1
+  },
+  "transaction_committed": true,
+  "output_hashes": {
+    "dat": "BFB9CEB326B11C17C5ABA706E3009B965EDAAD2FEB36BB670D6848FC37F68590",
+    "spr": "B029440BC1A4C5CAAB8110CAEFF7F715D7F26D43429776AF4BE808329313A062",
+    "otb": "DA15A0021B79BBCA8AE149A430A034FEF3F5EA33C4747392AAECFC6F92EDD902"
+  },
+  "dat_non_targets_preserved": true,
+  "old_sprite_payload_preserved": true,
+  "new_sprite_pixels_verified": true,
+  "layout_preserved_client_ids": [
+    24719
+  ],
+  "untouched_files_preserved": true,
+  "map_byte_equal": true,
+  "final_validation_passed": true,
+  "warnings": [],
+  "errors": [],
+  "passed": true
+}

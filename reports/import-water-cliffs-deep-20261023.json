@@ -1,0 +1,855 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "manifest": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\water-cliffs-deep-20261023\\water-cliffs-deep-20261023.csv",
+  "item_count": 25,
+  "target_server_id_range": [
+    25640,
+    25664
+  ],
+  "target_client_id_range": [
+    24755,
+    24779
+  ],
+  "new_sprite_count": 495,
+  "sprite_id_range": [
+    277723,
+    278217
+  ],
+  "items": [
+    {
+      "sequence": 1,
+      "source_server_id": 16421,
+      "source_client_id": 15536,
+      "target_server_id": 25640,
+      "target_client_id": 24755,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\water-cliffs-deep-20261023\\01-server-16421-deep-water.png",
+      "source_sha256": "9339FA8079E089730731DE5A96F0626FE4A6471459C7C8CC0211A2271A9BAD7A",
+      "image_size": [
+        64,
+        480
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 15,
+      "layers": 1,
+      "pattern_x": 2,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": 145,
+      "animation_async": true,
+      "sprite_id_count": 30,
+      "sprite_id_range": [
+        277723,
+        277752
+      ],
+      "sprite_hash": "8A130A32E5969D5DD5E7DD1E4BF4C05B"
+    },
+    {
+      "sequence": 2,
+      "source_server_id": 16422,
+      "source_client_id": 15537,
+      "target_server_id": 25641,
+      "target_client_id": 24756,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\water-cliffs-deep-20261023\\02-server-16422-deep-water.png",
+      "source_sha256": "1ED75430DBD9BD9BE94C522EAC1EA5BFA685E608AEB005D0E4D01E1CE435FC88",
+      "image_size": [
+        64,
+        480
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 15,
+      "layers": 1,
+      "pattern_x": 2,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": 145,
+      "animation_async": true,
+      "sprite_id_count": 30,
+      "sprite_id_range": [
+        277753,
+        277782
+      ],
+      "sprite_hash": "19E06A5CE6D68B611FA7CA4F5C6A0422"
+    },
+    {
+      "sequence": 3,
+      "source_server_id": 16423,
+      "source_client_id": 15538,
+      "target_server_id": 25642,
+      "target_client_id": 24757,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\water-cliffs-deep-20261023\\03-server-16423-deep-water.png",
+      "source_sha256": "3195E52F2C825FFBE40D47E3D3735534BA0E19B92D3A29D42C7F14EAC0B2D50B",
+      "image_size": [
+        32,
+        960
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 15,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 2,
+      "pattern_z": 1,
+      "frame_duration_ms": 145,
+      "animation_async": true,
+      "sprite_id_count": 30,
+      "sprite_id_range": [
+        277783,
+        277812
+      ],
+      "sprite_hash": "7F7E376AA5C56782DE9251DA2DB1D029"
+    },
+    {
+      "sequence": 4,
+      "source_server_id": 16424,
+      "source_client_id": 15539,
+      "target_server_id": 25643,
+      "target_client_id": 24758,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\water-cliffs-deep-20261023\\04-server-16424-deep-water.png",
+      "source_sha256": "DD3B3572AB18323ED63310FA698D45C4A7A66F6A61C962609FA9DD75D535F3B8",
+      "image_size": [
+        32,
+        960
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 15,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 2,
+      "pattern_z": 1,
+      "frame_duration_ms": 145,
+      "animation_async": true,
+      "sprite_id_count": 30,
+      "sprite_id_range": [
+        277813,
+        277842
+      ],
+      "sprite_hash": "8CFF7A3E3A9D994136EC838E12C6B39C"
+    },
+    {
+      "sequence": 5,
+      "source_server_id": 16425,
+      "source_client_id": 15540,
+      "target_server_id": 25644,
+      "target_client_id": 24759,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\water-cliffs-deep-20261023\\05-server-16425-deep-water.png",
+      "source_sha256": "E7A8A80ECF02C7C8049F38DB5BE494D304578BDD65716E49DC9704DB6C4C843A",
+      "image_size": [
+        32,
+        480
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 15,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": 145,
+      "animation_async": true,
+      "sprite_id_count": 15,
+      "sprite_id_range": [
+        277843,
+        277857
+      ],
+      "sprite_hash": "900F7FB346B2475E1E99B08581948322"
+    },
+    {
+      "sequence": 6,
+      "source_server_id": 16426,
+      "source_client_id": 15541,
+      "target_server_id": 25645,
+      "target_client_id": 24760,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\water-cliffs-deep-20261023\\06-server-16426-deep-water.png",
+      "source_sha256": "31ED2BDE9E0F5E20E79509CEF60BCE8C35691AC48170C162BF54AB5460FA4F49",
+      "image_size": [
+        32,
+        480
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 15,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": 145,
+      "animation_async": true,
+      "sprite_id_count": 15,
+      "sprite_id_range": [
+        277858,
+        277872
+      ],
+      "sprite_hash": "5AA8C7655C88DCC093964803315EE3B3"
+    },
+    {
+      "sequence": 7,
+      "source_server_id": 16427,
+      "source_client_id": 15542,
+      "target_server_id": 25646,
+      "target_client_id": 24761,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\water-cliffs-deep-20261023\\07-server-16427-deep-water.png",
+      "source_sha256": "5A98B2A9ECD521ECEEEBDB654F018FF0019220E064180E2C03FBD785C6A30CC8",
+      "image_size": [
+        32,
+        480
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 15,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": 145,
+      "animation_async": true,
+      "sprite_id_count": 15,
+      "sprite_id_range": [
+        277873,
+        277887
+      ],
+      "sprite_hash": "B02C89194AD82A97609A2108ED715FAF"
+    },
+    {
+      "sequence": 8,
+      "source_server_id": 16428,
+      "source_client_id": 15543,
+      "target_server_id": 25647,
+      "target_client_id": 24762,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\water-cliffs-deep-20261023\\08-server-16428-deep-water.png",
+      "source_sha256": "EFA32CD6E60C0DBBD58F77637FBA6B0442B1F5AA601607A45F68D1E1A4A183FB",
+      "image_size": [
+        32,
+        480
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 15,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": 145,
+      "animation_async": true,
+      "sprite_id_count": 15,
+      "sprite_id_range": [
+        277888,
+        277902
+      ],
+      "sprite_hash": "9C5342C484500902F38B09E0070FB1C3"
+    },
+    {
+      "sequence": 9,
+      "source_server_id": 16429,
+      "source_client_id": 15544,
+      "target_server_id": 25648,
+      "target_client_id": 24763,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\water-cliffs-deep-20261023\\09-server-16429-deep-water.png",
+      "source_sha256": "C54557EF694B218DE640F4B75E0C483F2A1F0F8896FCD6929707C80528DDAC54",
+      "image_size": [
+        32,
+        480
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 15,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": 145,
+      "animation_async": true,
+      "sprite_id_count": 15,
+      "sprite_id_range": [
+        277903,
+        277917
+      ],
+      "sprite_hash": "F1D348998488A38E5417DD2CA3CFCA14"
+    },
+    {
+      "sequence": 10,
+      "source_server_id": 16430,
+      "source_client_id": 15545,
+      "target_server_id": 25649,
+      "target_client_id": 24764,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\water-cliffs-deep-20261023\\10-server-16430-deep-water.png",
+      "source_sha256": "66C957E53253BB613EBE5FCE55E648E04AD6A10DA4CE64C47A2A4687AAE15B0A",
+      "image_size": [
+        32,
+        480
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 15,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": 145,
+      "animation_async": true,
+      "sprite_id_count": 15,
+      "sprite_id_range": [
+        277918,
+        277932
+      ],
+      "sprite_hash": "B1DD56038530E7809AF206B55C822012"
+    },
+    {
+      "sequence": 11,
+      "source_server_id": 16431,
+      "source_client_id": 15546,
+      "target_server_id": 25650,
+      "target_client_id": 24765,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\water-cliffs-deep-20261023\\11-server-16431-deep-water.png",
+      "source_sha256": "7F2BAC3E30DC60EAC6B0DE856E5D858186449B92627E53EB0D77A3ECE9DBAE41",
+      "image_size": [
+        32,
+        480
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 15,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": 145,
+      "animation_async": true,
+      "sprite_id_count": 15,
+      "sprite_id_range": [
+        277933,
+        277947
+      ],
+      "sprite_hash": "0649119B5448806B3EDB6FD173E37465"
+    },
+    {
+      "sequence": 12,
+      "source_server_id": 16432,
+      "source_client_id": 15547,
+      "target_server_id": 25651,
+      "target_client_id": 24766,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\water-cliffs-deep-20261023\\12-server-16432-deep-water.png",
+      "source_sha256": "FBB2892F78EE08A41C6563E4AB8D2EB37BA5E24554F180741DD15FD7B7A0E60F",
+      "image_size": [
+        32,
+        480
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 15,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": 145,
+      "animation_async": true,
+      "sprite_id_count": 15,
+      "sprite_id_range": [
+        277948,
+        277962
+      ],
+      "sprite_hash": "56DFAD92922E3779AD448F1520466466"
+    },
+    {
+      "sequence": 13,
+      "source_server_id": 16433,
+      "source_client_id": 15548,
+      "target_server_id": 25652,
+      "target_client_id": 24767,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\water-cliffs-deep-20261023\\13-server-16433-deep-water.png",
+      "source_sha256": "1BB133D7C98E91FA22D1AE7337DA911E33F07528CA34AFFC08F5DA16E40405AA",
+      "image_size": [
+        32,
+        480
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 15,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": 145,
+      "animation_async": true,
+      "sprite_id_count": 15,
+      "sprite_id_range": [
+        277963,
+        277977
+      ],
+      "sprite_hash": "90D30CF6A615776548BE6570B1D6198F"
+    },
+    {
+      "sequence": 14,
+      "source_server_id": 16434,
+      "source_client_id": 15549,
+      "target_server_id": 25653,
+      "target_client_id": 24768,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\water-cliffs-deep-20261023\\14-server-16434-deep-water.png",
+      "source_sha256": "B6DB1DA26ED8E8AF1DAA7098211450685D0D1AD6CABF986E8D4DF914A779D3BC",
+      "image_size": [
+        64,
+        480
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 15,
+      "layers": 1,
+      "pattern_x": 2,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": 150,
+      "animation_async": true,
+      "sprite_id_count": 30,
+      "sprite_id_range": [
+        277978,
+        278007
+      ],
+      "sprite_hash": "8A130A32E5969D5DD5E7DD1E4BF4C05B"
+    },
+    {
+      "sequence": 15,
+      "source_server_id": 16435,
+      "source_client_id": 15550,
+      "target_server_id": 25654,
+      "target_client_id": 24769,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\water-cliffs-deep-20261023\\15-server-16435-deep-water.png",
+      "source_sha256": "4BD7DD63E3A3868558B7FE7D734CED7A73BCAF161B1D81130F39411AC653EFC7",
+      "image_size": [
+        32,
+        960
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 15,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 2,
+      "pattern_z": 1,
+      "frame_duration_ms": 150,
+      "animation_async": true,
+      "sprite_id_count": 30,
+      "sprite_id_range": [
+        278008,
+        278037
+      ],
+      "sprite_hash": "7F7E376AA5C56782DE9251DA2DB1D029"
+    },
+    {
+      "sequence": 16,
+      "source_server_id": 16436,
+      "source_client_id": 15551,
+      "target_server_id": 25655,
+      "target_client_id": 24770,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\water-cliffs-deep-20261023\\16-server-16436-deep-water.png",
+      "source_sha256": "707FDC65ED7BD4D597E1AD7F59FDAE46E66FDE2CAEFD2B4CF789E1A7D20B70E6",
+      "image_size": [
+        64,
+        480
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 15,
+      "layers": 1,
+      "pattern_x": 2,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": 150,
+      "animation_async": true,
+      "sprite_id_count": 30,
+      "sprite_id_range": [
+        278038,
+        278067
+      ],
+      "sprite_hash": "19E06A5CE6D68B611FA7CA4F5C6A0422"
+    },
+    {
+      "sequence": 17,
+      "source_server_id": 16437,
+      "source_client_id": 15552,
+      "target_server_id": 25656,
+      "target_client_id": 24771,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\water-cliffs-deep-20261023\\17-server-16437-deep-water.png",
+      "source_sha256": "C46125EA83056BDA80695C808EA9D39F58C301D9385136769F00FF1DF710CDC2",
+      "image_size": [
+        32,
+        960
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 15,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 2,
+      "pattern_z": 1,
+      "frame_duration_ms": 150,
+      "animation_async": false,
+      "sprite_id_count": 30,
+      "sprite_id_range": [
+        278068,
+        278097
+      ],
+      "sprite_hash": "8CFF7A3E3A9D994136EC838E12C6B39C"
+    },
+    {
+      "sequence": 18,
+      "source_server_id": 16438,
+      "source_client_id": 15553,
+      "target_server_id": 25657,
+      "target_client_id": 24772,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\water-cliffs-deep-20261023\\18-server-16438-deep-water.png",
+      "source_sha256": "78FA29D26A645F169CE26EB2E076D41B2DEA5426F425C2F41838B12F4DA22F8C",
+      "image_size": [
+        32,
+        480
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 15,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": 150,
+      "animation_async": true,
+      "sprite_id_count": 15,
+      "sprite_id_range": [
+        278098,
+        278112
+      ],
+      "sprite_hash": "900F7FB346B2475E1E99B08581948322"
+    },
+    {
+      "sequence": 19,
+      "source_server_id": 16439,
+      "source_client_id": 15554,
+      "target_server_id": 25658,
+      "target_client_id": 24773,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\water-cliffs-deep-20261023\\19-server-16439-deep-water.png",
+      "source_sha256": "6390A5A1F0E4DA59883B35AED62C938E9AD738B17079F73FFCE86A21A9D66F90",
+      "image_size": [
+        32,
+        480
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 15,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": 150,
+      "animation_async": true,
+      "sprite_id_count": 15,
+      "sprite_id_range": [
+        278113,
+        278127
+      ],
+      "sprite_hash": "5AA8C7655C88DCC093964803315EE3B3"
+    },
+    {
+      "sequence": 20,
+      "source_server_id": 16440,
+      "source_client_id": 15555,
+      "target_server_id": 25659,
+      "target_client_id": 24774,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\water-cliffs-deep-20261023\\20-server-16440-deep-water.png",
+      "source_sha256": "BC3460EFFFC4F49E8E5FC364605C573E74C7D87BFB8E210D0CF91F6DF99BEA0F",
+      "image_size": [
+        32,
+        480
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 15,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": 150,
+      "animation_async": true,
+      "sprite_id_count": 15,
+      "sprite_id_range": [
+        278128,
+        278142
+      ],
+      "sprite_hash": "B02C89194AD82A97609A2108ED715FAF"
+    },
+    {
+      "sequence": 21,
+      "source_server_id": 16441,
+      "source_client_id": 15556,
+      "target_server_id": 25660,
+      "target_client_id": 24775,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\water-cliffs-deep-20261023\\21-server-16441-deep-water.png",
+      "source_sha256": "6EBA0A4BF94497F0292F09F05FD8FBFA8B338685D9AAB0082E0EB856F6B52C51",
+      "image_size": [
+        32,
+        480
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 15,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": 150,
+      "animation_async": true,
+      "sprite_id_count": 15,
+      "sprite_id_range": [
+        278143,
+        278157
+      ],
+      "sprite_hash": "9C5342C484500902F38B09E0070FB1C3"
+    },
+    {
+      "sequence": 22,
+      "source_server_id": 16442,
+      "source_client_id": 15557,
+      "target_server_id": 25661,
+      "target_client_id": 24776,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\water-cliffs-deep-20261023\\22-server-16442-deep-water.png",
+      "source_sha256": "F6524B2B5234A27FC5C6199A7FF71AC442C66EB6CD9B5DBDFD7116D29BAD9622",
+      "image_size": [
+        32,
+        480
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 15,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": 150,
+      "animation_async": true,
+      "sprite_id_count": 15,
+      "sprite_id_range": [
+        278158,
+        278172
+      ],
+      "sprite_hash": "F1D348998488A38E5417DD2CA3CFCA14"
+    },
+    {
+      "sequence": 23,
+      "source_server_id": 16443,
+      "source_client_id": 15558,
+      "target_server_id": 25662,
+      "target_client_id": 24777,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\water-cliffs-deep-20261023\\23-server-16443-deep-water.png",
+      "source_sha256": "8CD8D0B4855A6052E57086F3213A5F814E90985A12A08BD3D4F822911544537B",
+      "image_size": [
+        32,
+        480
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 15,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": 150,
+      "animation_async": true,
+      "sprite_id_count": 15,
+      "sprite_id_range": [
+        278173,
+        278187
+      ],
+      "sprite_hash": "B1DD56038530E7809AF206B55C822012"
+    },
+    {
+      "sequence": 24,
+      "source_server_id": 16444,
+      "source_client_id": 15559,
+      "target_server_id": 25663,
+      "target_client_id": 24778,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\water-cliffs-deep-20261023\\24-server-16444-deep-water.png",
+      "source_sha256": "9EF74CF2111F8807AD8EC3B3043D52582B2470DA3839D1F274CE41340CCEF14B",
+      "image_size": [
+        32,
+        480
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 15,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": 150,
+      "animation_async": true,
+      "sprite_id_count": 15,
+      "sprite_id_range": [
+        278188,
+        278202
+      ],
+      "sprite_hash": "0649119B5448806B3EDB6FD173E37465"
+    },
+    {
+      "sequence": 25,
+      "source_server_id": 16445,
+      "source_client_id": 15560,
+      "target_server_id": 25664,
+      "target_client_id": 24779,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\water-cliffs-deep-20261023\\25-server-16445-deep-water.png",
+      "source_sha256": "83187F78ED74E0581740A1B5ECF942B882F8A79A64EDC80611118D8464B27888",
+      "image_size": [
+        32,
+        480
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 15,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": 150,
+      "animation_async": true,
+      "sprite_id_count": 15,
+      "sprite_id_range": [
+        278203,
+        278217
+      ],
+      "sprite_hash": "56DFAD92922E3779AD448F1520466466"
+    }
+  ],
+  "xml": {
+    "source_definitions": 0,
+    "target_definitions_written": 0,
+    "target_definitions_already_exact": 0,
+    "target_ids": []
+  },
+  "map_scan": {
+    "tiles_scanned": 7824286,
+    "item_nodes_scanned": 2105107
+  },
+  "version_backup": {
+    "tool_version": "0.8.2",
+    "version_id": "20261023-154211-358190",
+    "created_at": "2026-10-23T15:42:24.344205-03:00",
+    "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261023-154211-358190",
+    "rar_executable": "C:\\Program Files\\WinRAR\\Rar.exe",
+    "sources": [
+      {
+        "path": "assets/860/.gitattributes",
+        "size": 43,
+        "sha256": "D5636A3257287440945C5E017581545E5B0A3E2FDDDAE7C5EF8D90FF4DF3D32A"
+      },
+      {
+        "path": "assets/860/Tibia.dat",
+        "size": 4519810,
+        "sha256": "BFB9CEB326B11C17C5ABA706E3009B965EDAAD2FEB36BB670D6848FC37F68590"
+      },
+      {
+        "path": "assets/860/Tibia.otfi",
+        "size": 185,
+        "sha256": "7743548835944BC799CB871A4E5DEF84F7AF76815031871B9CE74B5EC0E8ADD3"
+      },
+      {
+        "path": "assets/860/Tibia.spr",
+        "size": 468563010,
+        "sha256": "B029440BC1A4C5CAAB8110CAEFF7F715D7F26D43429776AF4BE808329313A062"
+      },
+      {
+        "path": "assets/items/force use.txt",
+        "size": 419,
+        "sha256": "BCB478FDF3F45ECA8D172AFD7A17D3F8CD520924EE0894752452B8FDC8F71959"
+      },
+      {
+        "path": "assets/items/items.otb",
+        "size": 1013735,
+        "sha256": "DA15A0021B79BBCA8AE149A430A034FEF3F5EA33C4747392AAECFC6F92EDD902"
+      },
+      {
+        "path": "assets/world/mapanovo.otbm",
+        "size": 80105775,
+        "sha256": "AC32C669BED3512D69AE054CAFC8564A236C9894B22BBC9A0E9D7ACAEFAD5512"
+      }
+    ],
+    "archives": {
+      "860": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261023-154211-358190\\860.rar",
+        "size": 85803518,
+        "sha256": "330F5FEC64C44252923C8938066893A4636BFC3E75AFF2AABEB2DF4AB227F893"
+      },
+      "items": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261023-154211-358190\\items.rar",
+        "size": 483261,
+        "sha256": "ED8F6424E547D0689346F7906D058C3AF82E45F1649AA772CE949A6D7E470361"
+      },
+      "world": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261023-154211-358190\\world.zip",
+        "size": 19337404,
+        "sha256": "92E3613FFE42E15A419DD4A8A0F86A4570AEE5F031A4589F7010C4804EED8E7D"
+      }
+    },
+    "items_xml_excluded": true,
+    "world_entries": [
+      "mapanovo.otbm"
+    ],
+    "passed": true
+  },
+  "transaction_committed": true,
+  "old_dat_records_preserved": true,
+  "old_otb_nodes_preserved": true,
+  "old_sprite_payload_preserved": true,
+  "new_sprite_pixels_verified": true,
+  "final_validation_passed": true,
+  "warnings": [],
+  "errors": [],
+  "passed": true
+}

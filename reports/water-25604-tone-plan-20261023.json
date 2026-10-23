@@ -1,0 +1,92 @@
+{
+  "operation": "substituir",
+  "name": "Shallow water border",
+  "purpose": "match SID 25604 water tone to approved SID 25606 tone",
+  "card": "https://trello.com/c/iypxbXLe",
+  "server_id": 25604,
+  "client_id": 24719,
+  "exclusive_otb_link_verified": true,
+  "reference_server_id": 25606,
+  "source_png": "sprites/water-25604-tone-20261023/server-25604_client-24719.png",
+  "sheet_size": [
+    32,
+    960
+  ],
+  "frame_size": [
+    32,
+    32
+  ],
+  "frames": 15,
+  "layers": 1,
+  "pattern_x": 1,
+  "pattern_y": 2,
+  "pattern_z": 1,
+  "animation_async": true,
+  "durations": [
+    [
+      100,
+      100
+    ],
+    [
+      100,
+      100
+    ],
+    [
+      100,
+      100
+    ],
+    [
+      100,
+      100
+    ],
+    [
+      100,
+      100
+    ],
+    [
+      100,
+      100
+    ],
+    [
+      100,
+      100
+    ],
+    [
+      100,
+      100
+    ],
+    [
+      100,
+      100
+    ],
+    [
+      100,
+      100
+    ],
+    [
+      100,
+      100
+    ],
+    [
+      100,
+      100
+    ],
+    [
+      100,
+      100
+    ],
+    [
+      100,
+      100
+    ],
+    [
+      100,
+      100
+    ]
+  ],
+  "properties_policy": "preserve all DAT/OTB properties, layout and timing; replace only target sprite pixels and SpriteHash",
+  "dat_properties_sha256": "8C94B4581BF7597F6604A4EB8C2D18F861EA860060066FAF0A578312F06C7290",
+  "otb_before_hex": "000020000110020004641102008f602010004004f4f12771ca41a604f8f43726b94b21020033002b010001",
+  "map_sha256": "AC32C669BED3512D69AE054CAFC8564A236C9894B22BBC9A0E9D7ACAEFAD5512",
+  "palette_reference": "reports/recolor-water-border-4655-20261022.json"
+}

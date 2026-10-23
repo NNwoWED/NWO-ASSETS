@@ -1,0 +1,144 @@
+{
+  "passed": true,
+  "changed_pixels": 12730,
+  "stone_pixels_preserved": 16685,
+  "transparent_pixels_preserved": 1305,
+  "alpha_preserved": true,
+  "layout_preserved": true,
+  "exact_reference_colors": 77,
+  "rare_color": {
+    "from": [
+      52,
+      204,
+      236,
+      255
+    ],
+    "to": [
+      39,
+      153,
+      177,
+      255
+    ],
+    "pixels": 1,
+    "brightness_factor": 0.7509228497600591,
+    "nearest_reference_pairs": [
+      {
+        "from": [
+          97,
+          189,
+          211,
+          255
+        ],
+        "to": [
+          49,
+          151,
+          176,
+          255
+        ]
+      },
+      {
+        "from": [
+          92,
+          184,
+          206,
+          255
+        ],
+        "to": [
+          50,
+          145,
+          167,
+          255
+        ]
+      },
+      {
+        "from": [
+          86,
+          178,
+          201,
+          255
+        ],
+        "to": [
+          51,
+          137,
+          159,
+          255
+        ]
+      },
+      {
+        "from": [
+          80,
+          172,
+          195,
+          255
+        ],
+        "to": [
+          51,
+          130,
+          149,
+          255
+        ]
+      },
+      {
+        "from": [
+          76,
+          168,
+          189,
+          255
+        ],
+        "to": [
+          52,
+          125,
+          141,
+          255
+        ]
+      },
+      {
+        "from": [
+          72,
+          164,
+          185,
+          255
+        ],
+        "to": [
+          52,
+          120,
+          136,
+          255
+        ]
+      },
+      {
+        "from": [
+          108,
+          186,
+          195,
+          255
+        ],
+        "to": [
+          64,
+          147,
+          157,
+          255
+        ]
+      },
+      {
+        "from": [
+          116,
+          194,
+          205,
+          255
+        ],
+        "to": [
+          62,
+          159,
+          172,
+          255
+        ]
+      }
+    ]
+  },
+  "original_sha256": "D4D73496264451DD2F9679AF30E2D1926C4DC3BB60E9B55017BF1B8298CDE121",
+  "recolor_sha256": "E1F62CE860A26B6BEF4934A4F3112F3D18AE3C1E9FC0E3E2E06E0C79CBAA56F4",
+  "manifest_sha256": "FAD072F148C5FF44FD4145AE9C80362B2974C998567FB1DCE59DB428985D8A45",
+  "plan": "reports/water-25604-tone-plan-20261023.json",
+  "preview": "drafts/water-25604-tone-20261023/preview.png"
+}

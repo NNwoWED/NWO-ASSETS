@@ -1,0 +1,26 @@
+{
+  "passed": true,
+  "server_id": 25604,
+  "client_id": 24719,
+  "reference_server_id": 25606,
+  "source": "importados/water-25604-tone-20261023/server-25604_client-24719.png",
+  "reexport": "export/water-border-25604-corrected-20261023/server-25604_client-24719_shallow-water.png",
+  "checks": {
+    "source_and_reexport_rgba_pixels_equal": true,
+    "reference_25606_unchanged": true,
+    "dat_properties_preserved": true,
+    "layout_preserved": true,
+    "animation_async_preserved": true,
+    "all_15_frame_ranges_preserved_at_100_ms": true,
+    "map_byte_equal": true,
+    "stones_preserved": true,
+    "transparency_preserved": true
+  },
+  "sheet_size": [32, 960],
+  "frames": 15,
+  "layers": 1,
+  "pattern_x": 1,
+  "pattern_y": 2,
+  "pattern_z": 1,
+  "changed_water_pixels": 12730
+}

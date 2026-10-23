@@ -1,0 +1,135 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "profile": {
+    "key": "tibia-860-v2-custom-extended",
+    "client_version": 860,
+    "label": "Tibia 8.60 v2 customizado com features OTFI",
+    "dat_signature": "0x4C2C7993",
+    "spr_signature": "0x4C220594",
+    "metadata_reader": 5,
+    "otb_version_hint": "8.60"
+  },
+  "category": "items",
+  "id_kind": "server",
+  "requested_ids": [
+    25604,
+    25606
+  ],
+  "output_dir": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\water-border-25604-corrected-20261023",
+  "exported_count": 2,
+  "exported": [
+    {
+      "requested_id": 25604,
+      "client_id": 24719,
+      "server_ids": [
+        25604
+      ],
+      "name": "Shallow water",
+      "group_index": 0,
+      "width": 32,
+      "height": 960,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 2,
+      "pattern_z": 1,
+      "frames": 15,
+      "sprite_ids": [
+        277693,
+        277694,
+        277695,
+        277696,
+        277697,
+        277698,
+        277699,
+        277700,
+        277701,
+        277702,
+        277703,
+        277704,
+        277705,
+        277706,
+        277707,
+        277708,
+        277709,
+        277710,
+        277711,
+        277712,
+        277713,
+        277714,
+        277715,
+        277716,
+        277717,
+        277718,
+        277719,
+        277720,
+        277721,
+        277722
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\water-border-25604-corrected-20261023\\server-25604_client-24719_shallow-water.png",
+      "size": 10592,
+      "sha256": "3AA41A98D1428F02D70F77EEDF2B25C7CB0394941AFF42A754AF6092B9D20668"
+    },
+    {
+      "requested_id": 25606,
+      "client_id": 24721,
+      "server_ids": [
+        25606
+      ],
+      "name": "Shallow water",
+      "group_index": 0,
+      "width": 32,
+      "height": 960,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 2,
+      "pattern_z": 1,
+      "frames": 15,
+      "sprite_ids": [
+        277168,
+        277169,
+        277170,
+        277171,
+        277172,
+        277173,
+        277174,
+        277175,
+        277176,
+        277177,
+        277178,
+        277179,
+        277180,
+        277181,
+        277182,
+        277183,
+        277184,
+        277185,
+        277186,
+        277187,
+        277188,
+        277189,
+        277190,
+        277191,
+        277192,
+        277193,
+        277194,
+        277195,
+        277196,
+        277197
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\water-border-25604-corrected-20261023\\server-25606_client-24721_shallow-water.png",
+      "size": 12807,
+      "sha256": "7E37F9A402673D59429DFA3D7DAE38F5813C96008A8A56113D1CA0A44EFC061F"
+    }
+  ],
+  "sources": {
+    "dat": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.dat",
+      "sha256": "BFB9CEB326B11C17C5ABA706E3009B965EDAAD2FEB36BB670D6848FC37F68590"
+    },
+    "spr": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.spr",
+      "sha256": "B029440BC1A4C5CAAB8110CAEFF7F715D7F26D43429776AF4BE808329313A062"
+    }
+  },
+  "passed": true
+}
