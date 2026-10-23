@@ -3631,6 +3631,9 @@ effects:
     opacity: 0.8
   2099:
     opacity: 0.8
+  2100:
+    opacity: 1.0
+    effect-displacement: 24 24
   2102:
     draweffectorder: 2
   2103:

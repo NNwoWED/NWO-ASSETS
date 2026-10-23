@@ -1,0 +1,374 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "manifest": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\recolor wedson\\water-cloned-borders-draft-20261022.csv",
+  "item_count": 11,
+  "target_server_id_range": [
+    25603,
+    25613
+  ],
+  "target_client_id_range": [
+    24718,
+    24728
+  ],
+  "new_sprite_count": 225,
+  "sprite_id_range": [
+    276837,
+    277061
+  ],
+  "items": [
+    {
+      "sequence": 1,
+      "source_server_id": 4644,
+      "source_client_id": 4633,
+      "target_server_id": 25603,
+      "target_client_id": 24718,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\recolor wedson\\server-4644_client-4633.png",
+      "source_sha256": "951F625C35E8972B8A694A41576371372AE7744D96C9387E9AFBE3FEF393D6C7",
+      "image_size": [
+        64,
+        480
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 15,
+      "layers": 1,
+      "pattern_x": 2,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": 100,
+      "animation_async": true,
+      "sprite_id_count": 30,
+      "sprite_id_range": [
+        276837,
+        276866
+      ],
+      "sprite_hash": "A4B370ACE88EF043125BCB35691640EF"
+    },
+    {
+      "sequence": 2,
+      "source_server_id": 4645,
+      "source_client_id": 4634,
+      "target_server_id": 25604,
+      "target_client_id": 24719,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\recolor wedson\\server-4645_client-4634.png",
+      "source_sha256": "91CA9EBFD13A7B469172BB84D42CA4B36E97354EA87F2A5B07380493301E6164",
+      "image_size": [
+        32,
+        960
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 15,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 2,
+      "pattern_z": 1,
+      "frame_duration_ms": 100,
+      "animation_async": true,
+      "sprite_id_count": 30,
+      "sprite_id_range": [
+        276867,
+        276896
+      ],
+      "sprite_hash": "4004F4F12771CA41A604F8F43726B94B"
+    },
+    {
+      "sequence": 3,
+      "source_server_id": 4646,
+      "source_client_id": 4635,
+      "target_server_id": 25605,
+      "target_client_id": 24720,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\recolor wedson\\server-4646_client-4635.png",
+      "source_sha256": "B4FC569A77D7A63FE38A93D8990CBF003F244536C26EBC3D566B74F681E8FDCE",
+      "image_size": [
+        64,
+        480
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 15,
+      "layers": 1,
+      "pattern_x": 2,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": 100,
+      "animation_async": true,
+      "sprite_id_count": 30,
+      "sprite_id_range": [
+        276897,
+        276926
+      ],
+      "sprite_hash": "B18490249294C6455A3A9C9667EED459"
+    },
+    {
+      "sequence": 4,
+      "source_server_id": 4647,
+      "source_client_id": 4636,
+      "target_server_id": 25606,
+      "target_client_id": 24721,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\recolor wedson\\server-4647_client-4636.png",
+      "source_sha256": "5EE8DEC51DEBABB928E14D709556ABB4CAB081977A4A70FF8A77FD3237BB95D0",
+      "image_size": [
+        32,
+        960
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 15,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 2,
+      "pattern_z": 1,
+      "frame_duration_ms": 100,
+      "animation_async": true,
+      "sprite_id_count": 30,
+      "sprite_id_range": [
+        276927,
+        276956
+      ],
+      "sprite_hash": "BCB96A7889BDB4E4AEDA43380178CDCD"
+    },
+    {
+      "sequence": 5,
+      "source_server_id": 4648,
+      "source_client_id": 4637,
+      "target_server_id": 25607,
+      "target_client_id": 24722,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\recolor wedson\\server-4648_client-4637.png",
+      "source_sha256": "6C3778AD7C0AA6777F6B3AD68141611CFB259E966E0B6399BC2D0A0C395A2913",
+      "image_size": [
+        32,
+        480
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 15,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": 100,
+      "animation_async": true,
+      "sprite_id_count": 15,
+      "sprite_id_range": [
+        276957,
+        276971
+      ],
+      "sprite_hash": "538E9A93C9CEF82B4FF09191E829A7D2"
+    },
+    {
+      "sequence": 6,
+      "source_server_id": 4649,
+      "source_client_id": 4638,
+      "target_server_id": 25608,
+      "target_client_id": 24723,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\recolor wedson\\server-4649_client-4638.png",
+      "source_sha256": "CC7BF8E89246ED1E9803B3296901583C05A8FF57A456A8D2B0E92DA8C103A0E8",
+      "image_size": [
+        32,
+        480
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 15,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": 100,
+      "animation_async": true,
+      "sprite_id_count": 15,
+      "sprite_id_range": [
+        276972,
+        276986
+      ],
+      "sprite_hash": "B717BE690FC6565CA5FCF401A5870660"
+    },
+    {
+      "sequence": 7,
+      "source_server_id": 4650,
+      "source_client_id": 4639,
+      "target_server_id": 25609,
+      "target_client_id": 24724,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\recolor wedson\\server-4650_client-4639.png",
+      "source_sha256": "581768083C05D52E7DC06903928348FF26E367F917B7C969B3555062A4D840B3",
+      "image_size": [
+        32,
+        480
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 15,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": 100,
+      "animation_async": true,
+      "sprite_id_count": 15,
+      "sprite_id_range": [
+        276987,
+        277001
+      ],
+      "sprite_hash": "1D22C585C1F5221B7056D4F489A59054"
+    },
+    {
+      "sequence": 8,
+      "source_server_id": 4651,
+      "source_client_id": 4640,
+      "target_server_id": 25610,
+      "target_client_id": 24725,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\recolor wedson\\server-4651_client-4640.png",
+      "source_sha256": "3367F4F1A1CC0A3E54EF1583B02FA5B42061BC05FE4B54A3167EFB13C3C19299",
+      "image_size": [
+        32,
+        480
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 15,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": 100,
+      "animation_async": true,
+      "sprite_id_count": 15,
+      "sprite_id_range": [
+        277002,
+        277016
+      ],
+      "sprite_hash": "181E812E9518464C5006CB22541AA952"
+    },
+    {
+      "sequence": 9,
+      "source_server_id": 4652,
+      "source_client_id": 4641,
+      "target_server_id": 25611,
+      "target_client_id": 24726,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\recolor wedson\\server-4652_client-4641.png",
+      "source_sha256": "94A238EEB9A18AC033C769F8AEEF34BBA1A641621D2F2FC97B32BDAC85E33349",
+      "image_size": [
+        32,
+        480
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 15,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": 100,
+      "animation_async": true,
+      "sprite_id_count": 15,
+      "sprite_id_range": [
+        277017,
+        277031
+      ],
+      "sprite_hash": "E5F326248E9C3DC455984FE488BE4E85"
+    },
+    {
+      "sequence": 10,
+      "source_server_id": 4653,
+      "source_client_id": 4642,
+      "target_server_id": 25612,
+      "target_client_id": 24727,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\recolor wedson\\server-4653_client-4642.png",
+      "source_sha256": "D8C8BAAC549FDD1D540F1A814EF59388A45EE221D14C813EBDE186615D05BA85",
+      "image_size": [
+        32,
+        480
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 15,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": 100,
+      "animation_async": true,
+      "sprite_id_count": 15,
+      "sprite_id_range": [
+        277032,
+        277046
+      ],
+      "sprite_hash": "74FF8A9549C8B28969068D8F8D69B982"
+    },
+    {
+      "sequence": 11,
+      "source_server_id": 4654,
+      "source_client_id": 4643,
+      "target_server_id": 25613,
+      "target_client_id": 24728,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\recolor wedson\\server-4654_client-4643.png",
+      "source_sha256": "CCEA383AF67C07CCD37197E668C2CDC8402844961BF12F643335F291D5752539",
+      "image_size": [
+        32,
+        480
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 15,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": 100,
+      "animation_async": true,
+      "sprite_id_count": 15,
+      "sprite_id_range": [
+        277047,
+        277061
+      ],
+      "sprite_hash": "98C21FF5B06CB163758186C02A17FB17"
+    }
+  ],
+  "xml": {
+    "source_definitions": 11,
+    "target_definitions_written": 11,
+    "target_definitions_already_exact": 0,
+    "target_ids": [
+      25603,
+      25604,
+      25605,
+      25606,
+      25607,
+      25608,
+      25609,
+      25610,
+      25611,
+      25612,
+      25613
+    ]
+  },
+  "map_scan": {
+    "tiles_scanned": 7824286,
+    "item_nodes_scanned": 2105107
+  },
+  "dry_run": true,
+  "passed": true
+}

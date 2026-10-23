@@ -1,0 +1,143 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "manifest": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\recolor wedson\\water-replacement-20261022.csv",
+  "profile": "tibia-860-v2-custom-extended",
+  "version_backup": {
+    "tool_version": "0.8.2",
+    "version_id": "20261022-224629-193147",
+    "created_at": "2026-10-22T22:46:41.538616-03:00",
+    "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261022-224629-193147",
+    "rar_executable": "C:\\Program Files\\WinRAR\\Rar.exe",
+    "sources": [
+      {
+        "path": "assets/860/.gitattributes",
+        "size": 43,
+        "sha256": "D5636A3257287440945C5E017581545E5B0A3E2FDDDAE7C5EF8D90FF4DF3D32A"
+      },
+      {
+        "path": "assets/860/Tibia.dat",
+        "size": 4511276,
+        "sha256": "19C713D6620051995E00CA2BE826F68E8A6387EAB2BD3EE516648CC7E07AF846"
+      },
+      {
+        "path": "assets/860/Tibia.otfi",
+        "size": 185,
+        "sha256": "7743548835944BC799CB871A4E5DEF84F7AF76815031871B9CE74B5EC0E8ADD3"
+      },
+      {
+        "path": "assets/860/Tibia.spr",
+        "size": 465437512,
+        "sha256": "2A44164EE33AA93B54F7188557003E9FC6776719387F193DA6BBF4D391390DE6"
+      },
+      {
+        "path": "assets/items/force use.txt",
+        "size": 419,
+        "sha256": "BCB478FDF3F45ECA8D172AFD7A17D3F8CD520924EE0894752452B8FDC8F71959"
+      },
+      {
+        "path": "assets/items/items.otb",
+        "size": 1012047,
+        "sha256": "508628640064C3388BD2EE2467ACF885A7B7B61B117E6C1342C25ED9448BEA7E"
+      },
+      {
+        "path": "assets/world/mapanovo.otbm",
+        "size": 80105775,
+        "sha256": "AC32C669BED3512D69AE054CAFC8564A236C9894B22BBC9A0E9D7ACAEFAD5512"
+      }
+    ],
+    "archives": {
+      "860": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261022-224629-193147\\860.rar",
+        "size": 85483237,
+        "sha256": "11FDC97B5A2A31AB8311747B83FDE5D68C0F6F6736211789CF0E8355F1DB19B8"
+      },
+      "items": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261022-224629-193147\\items.rar",
+        "size": 482421,
+        "sha256": "3115E1AA5389084CDA820D418C6A078F78721D83D2F02F2EA0A63F161B0EF31E"
+      },
+      "world": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261022-224629-193147\\world.zip",
+        "size": 19337404,
+        "sha256": "92E3613FFE42E15A419DD4A8A0F86A4570AEE5F031A4589F7010C4804EED8E7D"
+      }
+    },
+    "items_xml_excluded": true,
+    "world_entries": [
+      "mapanovo.otbm"
+    ],
+    "passed": true
+  },
+  "sprite_hash_gate": {
+    "sample_count": 64,
+    "mismatch_count": 0,
+    "mismatches": [],
+    "passed": true
+  },
+  "item_count": 1,
+  "new_sprite_count": 15,
+  "sprite_id_range": [
+    276837,
+    276851
+  ],
+  "items": [
+    {
+      "sequence": 1,
+      "client_id": 4597,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\recolor wedson\\server-4825_client-4814.png",
+      "file_sha256": "CE31F8DD713631D00329CA11042D4A7EA2FE3C5FBC22E1DA3CA17F4595EB7951",
+      "pixels_sha256": "6967A0F7874388B5A0F5678B0E921BFCE49C45BC9F1580F28814854250CB08F6",
+      "image_width": 32,
+      "image_height": 480,
+      "width_tiles": 1,
+      "height_tiles": 1,
+      "frames": 15,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_ids": [
+        276837,
+        276838,
+        276839,
+        276840,
+        276841,
+        276842,
+        276843,
+        276844,
+        276845,
+        276846,
+        276847,
+        276848,
+        276849,
+        276850,
+        276851
+      ],
+      "sprite_hash": "362B6C53B61F8B8BAB458BD096728C6E",
+      "layout_preserved": true,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1
+    }
+  ],
+  "otb_nodes_updated": {
+    "4597": 1
+  },
+  "transaction_committed": true,
+  "output_hashes": {
+    "dat": "060D175B84D820035B0A5096290BF3210F4CB6E33DFA25E21AF03400A2CD8DD5",
+    "spr": "0FCCAD588FB20B404B1AF7F1D6B379DFF2A043CB0A1B0BC52F9237F4B7796767",
+    "otb": "E896FE428FFC104351A5BED4438ECB3112642F30E6B14B84EB866C5172A02410"
+  },
+  "dat_non_targets_preserved": true,
+  "old_sprite_payload_preserved": true,
+  "new_sprite_pixels_verified": true,
+  "layout_preserved_client_ids": [
+    4597
+  ],
+  "untouched_files_preserved": true,
+  "map_byte_equal": true,
+  "final_validation_passed": true,
+  "warnings": [],
+  "errors": [],
+  "passed": true
+}

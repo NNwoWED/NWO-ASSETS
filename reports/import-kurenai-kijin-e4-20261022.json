@@ -1,0 +1,190 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "manifest": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\kurenai-kijin-e4-20261022.csv",
+  "profile": "tibia-860-v2-custom-extended",
+  "version_backup": {
+    "tool_version": "0.8.2",
+    "version_id": "20261022-225246-078221",
+    "created_at": "2026-10-22T22:52:58.852621-03:00",
+    "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261022-225246-078221",
+    "rar_executable": "C:\\Program Files\\WinRAR\\Rar.exe",
+    "sources": [
+      {
+        "path": "assets/860/.gitattributes",
+        "size": 43,
+        "sha256": "D5636A3257287440945C5E017581545E5B0A3E2FDDDAE7C5EF8D90FF4DF3D32A"
+      },
+      {
+        "path": "assets/860/Tibia.dat",
+        "size": 4511276,
+        "sha256": "060D175B84D820035B0A5096290BF3210F4CB6E33DFA25E21AF03400A2CD8DD5"
+      },
+      {
+        "path": "assets/860/Tibia.otfi",
+        "size": 185,
+        "sha256": "7743548835944BC799CB871A4E5DEF84F7AF76815031871B9CE74B5EC0E8ADD3"
+      },
+      {
+        "path": "assets/860/Tibia.spr",
+        "size": 465499147,
+        "sha256": "0FCCAD588FB20B404B1AF7F1D6B379DFF2A043CB0A1B0BC52F9237F4B7796767"
+      },
+      {
+        "path": "assets/items/force use.txt",
+        "size": 419,
+        "sha256": "BCB478FDF3F45ECA8D172AFD7A17D3F8CD520924EE0894752452B8FDC8F71959"
+      },
+      {
+        "path": "assets/items/items.otb",
+        "size": 1012047,
+        "sha256": "E896FE428FFC104351A5BED4438ECB3112642F30E6B14B84EB866C5172A02410"
+      },
+      {
+        "path": "assets/world/mapanovo.otbm",
+        "size": 80105775,
+        "sha256": "AC32C669BED3512D69AE054CAFC8564A236C9894B22BBC9A0E9D7ACAEFAD5512"
+      }
+    ],
+    "archives": {
+      "860": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261022-225246-078221\\860.rar",
+        "size": 85486632,
+        "sha256": "1FEC5D2C899E759D48F8B7F4604AAEF23C21AE69C8BDDC1122467CF5E2210913"
+      },
+      "items": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261022-225246-078221\\items.rar",
+        "size": 482433,
+        "sha256": "04F0695DCCF2D618A91D3E1FD34C61D7CEB1694B81A6306496F446CA926E7229"
+      },
+      "world": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261022-225246-078221\\world.zip",
+        "size": 19337404,
+        "sha256": "92E3613FFE42E15A419DD4A8A0F86A4570AEE5F031A4589F7010C4804EED8E7D"
+      }
+    },
+    "items_xml_excluded": true,
+    "world_entries": [
+      "mapanovo.otbm"
+    ],
+    "passed": true
+  },
+  "effect_count": 1,
+  "new_sprite_count": 76,
+  "sprite_id_range": [
+    276852,
+    276927
+  ],
+  "effects": [
+    {
+      "sequence": 1,
+      "effect_id": 2100,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\effect-1376-Sheet.png",
+      "file_sha256": "1F0C3B4F8477E779F258FFA1368A588B09D85F0B04E63ACE7C74E438E82AEC52",
+      "pixels_sha256": "EB18D7DBDE0C7390B6F67546569CC66222C6C25B1C340179E4422206137F27E0",
+      "image_width": 96,
+      "image_height": 864,
+      "width_tiles": 3,
+      "height_tiles": 3,
+      "frames": 9,
+      "frame_duration_ms": 100,
+      "animation_async": true,
+      "preserve_as": null,
+      "sprite_ids": [
+        276852,
+        276853,
+        0,
+        276854,
+        276855,
+        276856,
+        0,
+        276857,
+        0,
+        276858,
+        276859,
+        0,
+        276860,
+        276861,
+        276862,
+        276863,
+        276864,
+        0,
+        276865,
+        276866,
+        276867,
+        276868,
+        276869,
+        276870,
+        276871,
+        276872,
+        276873,
+        276874,
+        276875,
+        276876,
+        276877,
+        276878,
+        276879,
+        276880,
+        276881,
+        276882,
+        276883,
+        276884,
+        276885,
+        276886,
+        276887,
+        276888,
+        276889,
+        276890,
+        276891,
+        276892,
+        276893,
+        276894,
+        276895,
+        276896,
+        276897,
+        276898,
+        276899,
+        276900,
+        276901,
+        276902,
+        276903,
+        276904,
+        276905,
+        276906,
+        276907,
+        276908,
+        276909,
+        276910,
+        276911,
+        276912,
+        276913,
+        276914,
+        276915,
+        276916,
+        276917,
+        276918,
+        276919,
+        276920,
+        276921,
+        276922,
+        276923,
+        276924,
+        276925,
+        276926,
+        276927
+      ]
+    }
+  ],
+  "transaction_committed": true,
+  "output_hashes": {
+    "dat": "D311FAD68C127C3062B543A3E9E36FE3EE2FA8E47B352C1DF4A73DA0BC7BF13A",
+    "spr": "83268CE4EBD059E3A082B48F1054CD672B8E4C77C9D4D3A359D8764895075631"
+  },
+  "dat_non_targets_preserved": true,
+  "old_sprite_payload_preserved": true,
+  "new_sprite_pixels_verified": true,
+  "untouched_files_preserved": true,
+  "final_validation_passed": true,
+  "warnings": [],
+  "errors": [],
+  "passed": true
+}

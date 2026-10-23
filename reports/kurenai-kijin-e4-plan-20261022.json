@@ -1,0 +1,25 @@
+{
+  "operation": "use existing empty Effect ID",
+  "name": "Kurenai Kijin E4 animation",
+  "effect_id": 2100,
+  "outfit_id": 1520,
+  "purpose": "E4 character pose for Kijin skin; retain Shippuden Effect1376",
+  "source": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\effect-1376-Sheet.png",
+  "source_sha256": "1f0c3b4f8477e779f258ffa1368a588b09d85f0b04e63ace7c74e438e82aec52",
+  "sheet_size": [
+    96,
+    864
+  ],
+  "frame_size": [
+    96,
+    96
+  ],
+  "frames": 9,
+  "frame_duration_ms": 100,
+  "animation_async": true,
+  "baseline_empty_verified": true,
+  "active_effect_references_found": false,
+  "item_client_and_server_ids": "not applicable: effect, not item",
+  "property_policy": "no item/DAT property or map changes; only target effect appearance/layout; other effects preserved",
+  "remaining_card_scope": "Classic/Easter/Rabbit animations still need approved source art or scope clarification."
+}
