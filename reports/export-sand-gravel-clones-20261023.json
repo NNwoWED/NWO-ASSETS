@@ -1,0 +1,337 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "profile": {
+    "key": "tibia-860-v2-custom-extended",
+    "client_version": 860,
+    "label": "Tibia 8.60 v2 customizado com features OTFI",
+    "dat_signature": "0x4C2C7993",
+    "spr_signature": "0x4C220594",
+    "metadata_reader": 5,
+    "otb_version_hint": "8.60"
+  },
+  "category": "items",
+  "id_kind": "server",
+  "requested_ids": [
+    26814,
+    26815,
+    26816,
+    26817,
+    26818,
+    26819,
+    26820,
+    26821,
+    26822,
+    26823,
+    26824,
+    26825,
+    26826
+  ],
+  "output_dir": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\sand-gravel-clones-20261023",
+  "exported_count": 13,
+  "exported": [
+    {
+      "requested_id": 26814,
+      "client_id": 25929,
+      "server_ids": [
+        26814
+      ],
+      "name": "Sand Gravel",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 2,
+      "pattern_y": 2,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        292657,
+        292658,
+        292659,
+        292660
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\sand-gravel-clones-20261023\\server-26814_client-25929_sand-gravel.png",
+      "size": 5025,
+      "sha256": "EE968DEC6E6D08816559F66D86E8C4606A10F8DB7E1B2E0F8F9A689137DFDDBA"
+    },
+    {
+      "requested_id": 26815,
+      "client_id": 25930,
+      "server_ids": [
+        26815
+      ],
+      "name": "Sand Gravel",
+      "group_index": 0,
+      "width": 64,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        292661,
+        292662
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\sand-gravel-clones-20261023\\server-26815_client-25930_sand-gravel.png",
+      "size": 704,
+      "sha256": "F15D2DE54FD8B3EB76631FA000856BF638F953EDF4B1CE2C3F99CE8021201D14"
+    },
+    {
+      "requested_id": 26816,
+      "client_id": 25931,
+      "server_ids": [
+        26816
+      ],
+      "name": "Sand Gravel",
+      "group_index": 0,
+      "width": 32,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        292663,
+        292664
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\sand-gravel-clones-20261023\\server-26816_client-25931_sand-gravel.png",
+      "size": 756,
+      "sha256": "F4038F901E9C0E812AB4C3C264884722D91559438B924CBA5403B739B36D4D8E"
+    },
+    {
+      "requested_id": 26817,
+      "client_id": 25932,
+      "server_ids": [
+        26817
+      ],
+      "name": "Sand Gravel",
+      "group_index": 0,
+      "width": 64,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        292665,
+        292666
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\sand-gravel-clones-20261023\\server-26817_client-25932_sand-gravel.png",
+      "size": 667,
+      "sha256": "E14A0DC314E3505ED2C0A5F58B3507D09C2268AF9FE3CEB1F448E5512FC3D629"
+    },
+    {
+      "requested_id": 26818,
+      "client_id": 25933,
+      "server_ids": [
+        26818
+      ],
+      "name": "Sand Gravel",
+      "group_index": 0,
+      "width": 32,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        292667,
+        292668
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\sand-gravel-clones-20261023\\server-26818_client-25933_sand-gravel.png",
+      "size": 791,
+      "sha256": "2405E06937071DF351A19F0E45D460C589EBF6AFCF63377B46F7D2F256488F96"
+    },
+    {
+      "requested_id": 26819,
+      "client_id": 25934,
+      "server_ids": [
+        26819
+      ],
+      "name": "Sand Gravel",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        292669
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\sand-gravel-clones-20261023\\server-26819_client-25934_sand-gravel.png",
+      "size": 177,
+      "sha256": "64F1D90A212D856D7ED22B5D2F8CB13AF39B8AF90F83B122E4A44F537481F236"
+    },
+    {
+      "requested_id": 26820,
+      "client_id": 25935,
+      "server_ids": [
+        26820
+      ],
+      "name": "Sand Gravel",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        292670
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\sand-gravel-clones-20261023\\server-26820_client-25935_sand-gravel.png",
+      "size": 166,
+      "sha256": "0BCA9D087B882292723AFA6D17FF09A813C41CACAE3685BCDEEB5CE793BAF6A4"
+    },
+    {
+      "requested_id": 26821,
+      "client_id": 25936,
+      "server_ids": [
+        26821
+      ],
+      "name": "Sand Gravel",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        292671
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\sand-gravel-clones-20261023\\server-26821_client-25936_sand-gravel.png",
+      "size": 141,
+      "sha256": "A496403E7B2B155C128C967B6FF80CD4965D5EAC183BDE808C43B1CD66D8CF29"
+    },
+    {
+      "requested_id": 26822,
+      "client_id": 25937,
+      "server_ids": [
+        26822
+      ],
+      "name": "Sand Gravel",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        292672
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\sand-gravel-clones-20261023\\server-26822_client-25937_sand-gravel.png",
+      "size": 181,
+      "sha256": "E33F2FE26FF05D0247BD13621603D8719EEB4CDD9C7A8043FACEF67B7D243384"
+    },
+    {
+      "requested_id": 26823,
+      "client_id": 25938,
+      "server_ids": [
+        26823
+      ],
+      "name": "Sand Gravel",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        292673
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\sand-gravel-clones-20261023\\server-26823_client-25938_sand-gravel.png",
+      "size": 899,
+      "sha256": "DD492A7383D1BAD05FC9C206D9516D2357AACF5EBCF2642C09D20A37C10E1193"
+    },
+    {
+      "requested_id": 26824,
+      "client_id": 25939,
+      "server_ids": [
+        26824
+      ],
+      "name": "Sand Gravel",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        292674
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\sand-gravel-clones-20261023\\server-26824_client-25939_sand-gravel.png",
+      "size": 803,
+      "sha256": "928611C4AD2D8BDF931E012D6603CD22735A2795A183AE5552AB23073F1DBFFC"
+    },
+    {
+      "requested_id": 26825,
+      "client_id": 25940,
+      "server_ids": [
+        26825
+      ],
+      "name": "Sand Gravel",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        292675
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\sand-gravel-clones-20261023\\server-26825_client-25940_sand-gravel.png",
+      "size": 973,
+      "sha256": "29C6EA7E6F6BD0750B4078BDB361AF19BFBF48E9E97949D6C52078149E906E59"
+    },
+    {
+      "requested_id": 26826,
+      "client_id": 25941,
+      "server_ids": [
+        26826
+      ],
+      "name": "Sand Gravel",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        292676
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\sand-gravel-clones-20261023\\server-26826_client-25941_sand-gravel.png",
+      "size": 814,
+      "sha256": "3BB6A0335B5A6662C7625E4FAB72FDAA4A563FA6891CD8FD28C11F4CC4E2479B"
+    }
+  ],
+  "sources": {
+    "dat": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.dat",
+      "sha256": "AD0A9ADBFEE5F5D0155A5ECCE0AF61CBC01D6384FADE2FCFCA9AA7DAB15BA25C"
+    },
+    "spr": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.spr",
+      "sha256": "BD71A0BFBF499F316BF1A3D6734EDD9AA214A0A90D92215C61EFAF19B4EA33C4"
+    }
+  },
+  "passed": true
+}

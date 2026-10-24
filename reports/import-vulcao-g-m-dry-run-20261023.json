@@ -1,0 +1,92 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "manifest": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\vulcao-g-m-20261023\\import-vulcao-g-m-20261023.csv",
+  "item_count": 2,
+  "target_server_id_range": [
+    25871,
+    25872
+  ],
+  "target_client_id_range": [
+    24986,
+    24987
+  ],
+  "new_sprite_count": 130,
+  "sprite_id_range": [
+    278886,
+    279015
+  ],
+  "items": [
+    {
+      "sequence": 1,
+      "source_server_id": 25569,
+      "source_client_id": 24684,
+      "target_server_id": 25871,
+      "target_client_id": 24986,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\vulcao-g-m-20261023\\Vulcao_-_G.png",
+      "source_sha256": "985CDD7A267E2E1EA3C8D878A77DFC7A0EB87B6FEAA36BC6AA27902A84F6F936",
+      "image_size": [
+        96,
+        960
+      ],
+      "frame_size": [
+        96,
+        96
+      ],
+      "frames": 10,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": 100,
+      "animation_async": false,
+      "sprite_id_count": 90,
+      "sprite_id_range": [
+        278886,
+        278975
+      ],
+      "sprite_hash": "1C5102BABA6CD224ADD082E78D3E677A"
+    },
+    {
+      "sequence": 2,
+      "source_server_id": 25569,
+      "source_client_id": 24684,
+      "target_server_id": 25872,
+      "target_client_id": 24987,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\vulcao-g-m-20261023\\Vulcao_-_M.png",
+      "source_sha256": "8289CD828561BFDEF9FBD2DAFD29DB8D7418042C2CEA43FCDE5A3DBE93408CD0",
+      "image_size": [
+        64,
+        640
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 10,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": 100,
+      "animation_async": false,
+      "sprite_id_count": 40,
+      "sprite_id_range": [
+        278976,
+        279015
+      ],
+      "sprite_hash": "54CA37B1D5E635544667EE8DF1E2FA50"
+    }
+  ],
+  "xml": {
+    "source_definitions": 0,
+    "target_definitions_written": 0,
+    "target_definitions_already_exact": 0,
+    "target_ids": []
+  },
+  "map_scan": {
+    "tiles_scanned": 7824286,
+    "item_nodes_scanned": 2105107
+  },
+  "dry_run": true,
+  "passed": true
+}

@@ -1,0 +1,143 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "profile": {
+    "key": "tibia-860-v2-custom-extended",
+    "client_version": 860,
+    "label": "Tibia 8.60 v2 customizado com features OTFI",
+    "dat_signature": "0x4C2C7993",
+    "spr_signature": "0x4C220594",
+    "metadata_reader": 5,
+    "otb_version_hint": "8.60"
+  },
+  "category": "items",
+  "id_kind": "server",
+  "requested_ids": [
+    25562,
+    25563,
+    25564,
+    25575
+  ],
+  "output_dir": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items",
+  "exported_count": 4,
+  "exported": [
+    {
+      "requested_id": 25562,
+      "client_id": 24677,
+      "server_ids": [
+        25562
+      ],
+      "name": "Stone wall",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        271274,
+        271275,
+        271276,
+        271277
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-25562_client-24677_stone-wall.png",
+      "size": 898,
+      "sha256": "3792083BA3991D05C305C66EDB029D7DD5647169371E8A2B929AAF25405F53D2"
+    },
+    {
+      "requested_id": 25563,
+      "client_id": 24678,
+      "server_ids": [
+        25563
+      ],
+      "name": "Stone wall",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        271278,
+        271279,
+        271280,
+        271281
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-25563_client-24678_stone-wall.png",
+      "size": 997,
+      "sha256": "E2B3926CB72E8B04F6877C663EBBF8B85684C77944E23381FADBAA6D530FB4B6"
+    },
+    {
+      "requested_id": 25564,
+      "client_id": 24679,
+      "server_ids": [
+        25564
+      ],
+      "name": "Stone wall",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        271282,
+        271283,
+        271284,
+        271285
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-25564_client-24679_stone-wall.png",
+      "size": 529,
+      "sha256": "BFA07AC97F30C4C84210AB1BF33AA0A32F7CB5492D4D252CE64D94581330CD71"
+    },
+    {
+      "requested_id": 25575,
+      "client_id": 24690,
+      "server_ids": [
+        25575
+      ],
+      "name": "Rocky Terrain",
+      "group_index": 0,
+      "width": 128,
+      "height": 96,
+      "layers": 1,
+      "pattern_x": 4,
+      "pattern_y": 3,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        275118,
+        275119,
+        275120,
+        275121,
+        275122,
+        275123,
+        275124,
+        275125,
+        275126,
+        275127,
+        275128,
+        275129
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-25575_client-24690_rocky-terrain.png",
+      "size": 15195,
+      "sha256": "0BD53266425C03ADB304253920C7D522F95EA93AB54C8207B43D983581257FF3"
+    }
+  ],
+  "sources": {
+    "dat": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.dat",
+      "sha256": "3273574559C119E3FB15C5F1655C7084BD175F2991CF330C0DEE3545F79A4BB6"
+    },
+    "spr": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.spr",
+      "sha256": "7D907DE1E379ECC40B3D8CC9652C4EA12CCC0E598F57B2EB3397426872A1D9EB"
+    }
+  },
+  "passed": true
+}

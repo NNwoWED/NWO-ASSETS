@@ -1,0 +1,32 @@
+{
+  "passed": true,
+  "reference": {
+    "server_id": 25599,
+    "client_id": 24714,
+    "name": "Sand Gravel",
+    "dat_flags": ["ground_border", "unmoveable"],
+    "otb_group": 0,
+    "otb_flags": ["always_on_top"]
+  },
+  "target_server_id_range": [26814, 26826],
+  "target_client_id_range": [25929, 25941],
+  "checked_items": 13,
+  "rgba_pixel_exact_count": 13,
+  "dat_properties_exact_count": 13,
+  "otb_group_and_flags_exact_count": 13,
+  "mapping": [
+    {"source": "server-25599_client-24714_sand-gravel.png", "server_id": 26814, "client_id": 25929, "size": [64, 64], "pattern_x": 2, "pattern_y": 2},
+    {"source": "server-17350_client-16465.png", "server_id": 26815, "client_id": 25930, "size": [64, 32]},
+    {"source": "server-17351_client-16466.png", "server_id": 26816, "client_id": 25931, "size": [32, 64]},
+    {"source": "server-17352_client-16467.png", "server_id": 26817, "client_id": 25932, "size": [64, 32]},
+    {"source": "server-17353_client-16468.png", "server_id": 26818, "client_id": 25933, "size": [32, 64]},
+    {"source": "server-17354_client-16469.png", "server_id": 26819, "client_id": 25934, "size": [32, 32]},
+    {"source": "server-17355_client-16470.png", "server_id": 26820, "client_id": 25935, "size": [32, 32]},
+    {"source": "server-17356_client-16471.png", "server_id": 26821, "client_id": 25936, "size": [32, 32]},
+    {"source": "server-17357_client-16472.png", "server_id": 26822, "client_id": 25937, "size": [32, 32]},
+    {"source": "server-17358_client-16473.png", "server_id": 26823, "client_id": 25938, "size": [32, 32]},
+    {"source": "server-17359_client-16474.png", "server_id": 26824, "client_id": 25939, "size": [32, 32]},
+    {"source": "server-17360_client-16475.png", "server_id": 26825, "client_id": 25940, "size": [32, 32]},
+    {"source": "server-17361_client-16476.png", "server_id": 26826, "client_id": 25941, "size": [32, 32]}
+  ]
+}

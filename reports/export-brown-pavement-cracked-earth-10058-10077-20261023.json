@@ -1,0 +1,491 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "profile": {
+    "key": "tibia-860-v2-custom-extended",
+    "client_version": 860,
+    "label": "Tibia 8.60 v2 customizado com features OTFI",
+    "dat_signature": "0x4C2C7993",
+    "spr_signature": "0x4C220594",
+    "metadata_reader": 5,
+    "otb_version_hint": "8.60"
+  },
+  "category": "items",
+  "id_kind": "server",
+  "requested_ids": [
+    10058,
+    10059,
+    10060,
+    10061,
+    10062,
+    10063,
+    10064,
+    10065,
+    10066,
+    10067,
+    10068,
+    10069,
+    10070,
+    10071,
+    10072,
+    10073,
+    10074,
+    10075,
+    10076,
+    10077
+  ],
+  "output_dir": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\brown-pavement-cracked-earth-10058-10077-20261023",
+  "exported_count": 20,
+  "exported": [
+    {
+      "requested_id": 10058,
+      "client_id": 9139,
+      "server_ids": [
+        10058
+      ],
+      "name": "Brown pavement",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        255585
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\brown-pavement-cracked-earth-10058-10077-20261023\\server-10058_client-9139_brown-pavement.png",
+      "size": 2494,
+      "sha256": "8CB4EBC04CC523DA8B69A6745605C41A8DD6E5C87341BDA7AA4E3A3FED8B20D8"
+    },
+    {
+      "requested_id": 10059,
+      "client_id": 9140,
+      "server_ids": [
+        10059
+      ],
+      "name": "Brown pavement",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        255586
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\brown-pavement-cracked-earth-10058-10077-20261023\\server-10059_client-9140_brown-pavement.png",
+      "size": 2380,
+      "sha256": "021F4D1050F1D4F49D64F9AAA01BCE361815D3474D57BE3E5FE2680AEB240D4A"
+    },
+    {
+      "requested_id": 10060,
+      "client_id": 9141,
+      "server_ids": [
+        10060
+      ],
+      "name": "Brown pavement",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        255587
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\brown-pavement-cracked-earth-10058-10077-20261023\\server-10060_client-9141_brown-pavement.png",
+      "size": 1997,
+      "sha256": "9F47B452B2CD44BA66CF76784B8191BE98F80918EC7C3088ED3B070F5A343458"
+    },
+    {
+      "requested_id": 10061,
+      "client_id": 9142,
+      "server_ids": [
+        10061
+      ],
+      "name": "Brown pavement",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        255588
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\brown-pavement-cracked-earth-10058-10077-20261023\\server-10061_client-9142_brown-pavement.png",
+      "size": 2402,
+      "sha256": "1BF9E701B120DDA6D1656F1CBA0A8A77CC997C8CEA003726837FF3CA72B74CD2"
+    },
+    {
+      "requested_id": 10062,
+      "client_id": 9143,
+      "server_ids": [
+        10062
+      ],
+      "name": "Brown pavement",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        255589
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\brown-pavement-cracked-earth-10058-10077-20261023\\server-10062_client-9143_brown-pavement.png",
+      "size": 2412,
+      "sha256": "17A2B04C67427A8D54DC70A26A848D599E37DBA449B8BF2975EE34247F948DEC"
+    },
+    {
+      "requested_id": 10063,
+      "client_id": 9144,
+      "server_ids": [
+        10063
+      ],
+      "name": "Brown pavement",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        255590
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\brown-pavement-cracked-earth-10058-10077-20261023\\server-10063_client-9144_brown-pavement.png",
+      "size": 2252,
+      "sha256": "D1010925C5B1A5C51D0D0C68FDC2CA0AC09BDA274FDA2F9E7AA166155427FE53"
+    },
+    {
+      "requested_id": 10064,
+      "client_id": 9145,
+      "server_ids": [
+        10064
+      ],
+      "name": "Brown pavement",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        255591
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\brown-pavement-cracked-earth-10058-10077-20261023\\server-10064_client-9145_brown-pavement.png",
+      "size": 2346,
+      "sha256": "14B7ACCEFFE18C046B0FA8D49E068F3B94861820E5AB5125D5E3DC3D16678C0F"
+    },
+    {
+      "requested_id": 10065,
+      "client_id": 9146,
+      "server_ids": [
+        10065
+      ],
+      "name": "Brown pavement",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        255592
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\brown-pavement-cracked-earth-10058-10077-20261023\\server-10065_client-9146_brown-pavement.png",
+      "size": 2363,
+      "sha256": "B31A36F6F68ABCB47422516D1FF39AB93BE6D30A1497FA7E7891F1A8361C017A"
+    },
+    {
+      "requested_id": 10066,
+      "client_id": 9147,
+      "server_ids": [
+        10066
+      ],
+      "name": "Cracked earth",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        255593
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\brown-pavement-cracked-earth-10058-10077-20261023\\server-10066_client-9147_cracked-earth.png",
+      "size": 2264,
+      "sha256": "A4867D917379250F9DAEB5D0E1857E02A61ABE3D0A7FB012EEF408FD9D5787EF"
+    },
+    {
+      "requested_id": 10067,
+      "client_id": 9148,
+      "server_ids": [
+        10067
+      ],
+      "name": "Cracked earth",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        255594
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\brown-pavement-cracked-earth-10058-10077-20261023\\server-10067_client-9148_cracked-earth.png",
+      "size": 2403,
+      "sha256": "DCBA4D5F047408D236004832D580A9EA8282B5387B2C3D17D255587E1103BAA3"
+    },
+    {
+      "requested_id": 10068,
+      "client_id": 9149,
+      "server_ids": [
+        10068
+      ],
+      "name": "Cracked earth",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        255595
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\brown-pavement-cracked-earth-10058-10077-20261023\\server-10068_client-9149_cracked-earth.png",
+      "size": 2337,
+      "sha256": "AA2D9FBF7B29FD02D0F3D06BFABCA90ACE078E18AC100FBBC0EA5A656E0B357B"
+    },
+    {
+      "requested_id": 10069,
+      "client_id": 9150,
+      "server_ids": [
+        10069
+      ],
+      "name": "Cracked earth",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        255596
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\brown-pavement-cracked-earth-10058-10077-20261023\\server-10069_client-9150_cracked-earth.png",
+      "size": 2348,
+      "sha256": "7644B6E502E492ABF3BBA0FE1491178AAB4C611740C261ED0E09B9DAD0956A7A"
+    },
+    {
+      "requested_id": 10070,
+      "client_id": 9151,
+      "server_ids": [
+        10070
+      ],
+      "name": "Cracked earth",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        255597
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\brown-pavement-cracked-earth-10058-10077-20261023\\server-10070_client-9151_cracked-earth.png",
+      "size": 2241,
+      "sha256": "A46BC99850794590B77FB4C5F56C7899BF70F134DD5159BCA096F8642C85B40B"
+    },
+    {
+      "requested_id": 10071,
+      "client_id": 9152,
+      "server_ids": [
+        10071
+      ],
+      "name": "Cracked earth",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        255598
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\brown-pavement-cracked-earth-10058-10077-20261023\\server-10071_client-9152_cracked-earth.png",
+      "size": 2249,
+      "sha256": "41A76B7CF3112865DF7EFE7E9CCEA412F9E740BC341690FAEF5F68EFD63F1E10"
+    },
+    {
+      "requested_id": 10072,
+      "client_id": 9153,
+      "server_ids": [
+        10072
+      ],
+      "name": "Cracked earth",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        255599
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\brown-pavement-cracked-earth-10058-10077-20261023\\server-10072_client-9153_cracked-earth.png",
+      "size": 2445,
+      "sha256": "4F145E67B13751366802110CE1EC93DD266AB00B0744CDA312574EE0534C5AE1"
+    },
+    {
+      "requested_id": 10073,
+      "client_id": 9154,
+      "server_ids": [
+        10073
+      ],
+      "name": "Cracked earth",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        255600
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\brown-pavement-cracked-earth-10058-10077-20261023\\server-10073_client-9154_cracked-earth.png",
+      "size": 2461,
+      "sha256": "380F43FE7B7AAED10133A54EE34D5F0A2FBED2EB70C086512FA108AB75DCA1A3"
+    },
+    {
+      "requested_id": 10074,
+      "client_id": 9155,
+      "server_ids": [
+        10074
+      ],
+      "name": "Cracked earth",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        255601
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\brown-pavement-cracked-earth-10058-10077-20261023\\server-10074_client-9155_cracked-earth.png",
+      "size": 1805,
+      "sha256": "A1B0618FB55DCAB881F5966917F9DB9A22D79BF27D928EF59FF1E0CB3BD011CF"
+    },
+    {
+      "requested_id": 10075,
+      "client_id": 9156,
+      "server_ids": [
+        10075
+      ],
+      "name": "Cracked earth",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        255602
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\brown-pavement-cracked-earth-10058-10077-20261023\\server-10075_client-9156_cracked-earth.png",
+      "size": 1756,
+      "sha256": "A49EB0029EFAF4B4F309A573B42E7982A23A36E8A5D104B62E834CE77F458697"
+    },
+    {
+      "requested_id": 10076,
+      "client_id": 9157,
+      "server_ids": [
+        10076
+      ],
+      "name": "Cracked earth",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        255603
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\brown-pavement-cracked-earth-10058-10077-20261023\\server-10076_client-9157_cracked-earth.png",
+      "size": 1720,
+      "sha256": "80A7CA9359A0278A140E302E052DB960BF60883A807FB23786539DCC240E05E1"
+    },
+    {
+      "requested_id": 10077,
+      "client_id": 9158,
+      "server_ids": [
+        10077
+      ],
+      "name": "Cracked earth",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        255604
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\brown-pavement-cracked-earth-10058-10077-20261023\\server-10077_client-9158_cracked-earth.png",
+      "size": 1803,
+      "sha256": "E5F6876C592F9A628C346C2B9A1684F3E747FAFDFBEDF8665F5331628ECAE905"
+    }
+  ],
+  "sources": {
+    "dat": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.dat",
+      "sha256": "4A4C6449B8F7FDAB0FCD1D4F87BA95F9B6CDD17DD182C8806FB0823E097E3D65"
+    },
+    "spr": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.spr",
+      "sha256": "322775F01270BEDF51FF8BF707943E68240B3F893D35F6660A6C68C3857EEEC1"
+    }
+  },
+  "passed": true
+}

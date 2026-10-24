@@ -1,0 +1,2513 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "manifest": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\lava\\lava-recolors-10058-10077-20261023.csv",
+  "item_count": 80,
+  "target_server_id_range": [
+    25665,
+    25744
+  ],
+  "target_client_id_range": [
+    24780,
+    24859
+  ],
+  "new_sprite_count": 80,
+  "sprite_id_range": [
+    278218,
+    278297
+  ],
+  "items": [
+    {
+      "sequence": 1,
+      "source_server_id": 10058,
+      "source_client_id": 9139,
+      "target_server_id": 25665,
+      "target_client_id": 24780,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\lava\\01_brasas_discretas\\server-10058_client-9139_brown-pavement.png",
+      "source_sha256": "C1B8E513E1421F7C449B7360FB17A56A9CCA010B5ED79A47126E928868CB3B09",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        278218,
+        278218
+      ],
+      "sprite_hash": "B43DBC41FD5B980FA8745B6F1AA2983F"
+    },
+    {
+      "sequence": 2,
+      "source_server_id": 10059,
+      "source_client_id": 9140,
+      "target_server_id": 25666,
+      "target_client_id": 24781,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\lava\\01_brasas_discretas\\server-10059_client-9140_brown-pavement.png",
+      "source_sha256": "08470040F93073B049A9823188D1F14539240B92922CE32E3B1206179008CEBD",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        278219,
+        278219
+      ],
+      "sprite_hash": "A271B418F1214DBE33191007A0B06AFF"
+    },
+    {
+      "sequence": 3,
+      "source_server_id": 10060,
+      "source_client_id": 9141,
+      "target_server_id": 25667,
+      "target_client_id": 24782,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\lava\\01_brasas_discretas\\server-10060_client-9141_brown-pavement.png",
+      "source_sha256": "0BEAC96870EA3C83B49C8EF893121B5D7741F55B81819F0DCB8BD06A4EC0F2E4",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        278220,
+        278220
+      ],
+      "sprite_hash": "F63F18F51C7B40F05271940FF284FD5D"
+    },
+    {
+      "sequence": 4,
+      "source_server_id": 10061,
+      "source_client_id": 9142,
+      "target_server_id": 25668,
+      "target_client_id": 24783,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\lava\\01_brasas_discretas\\server-10061_client-9142_brown-pavement.png",
+      "source_sha256": "51EA5A037245B8795982F2436A719002FEAD2982082A37B3A356D893DAE78B17",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        278221,
+        278221
+      ],
+      "sprite_hash": "0B7C8723584B285CC15BACAFD7BD4E80"
+    },
+    {
+      "sequence": 5,
+      "source_server_id": 10062,
+      "source_client_id": 9143,
+      "target_server_id": 25669,
+      "target_client_id": 24784,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\lava\\01_brasas_discretas\\server-10062_client-9143_brown-pavement.png",
+      "source_sha256": "3E20AD2C2BC2E9DE84F03D7D90BAB966B64B1FDE93C3ABA42B14D7F9FC1547DD",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        278222,
+        278222
+      ],
+      "sprite_hash": "86AB4FADCEEC84CD1D18072DBCBDE622"
+    },
+    {
+      "sequence": 6,
+      "source_server_id": 10063,
+      "source_client_id": 9144,
+      "target_server_id": 25670,
+      "target_client_id": 24785,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\lava\\01_brasas_discretas\\server-10063_client-9144_brown-pavement.png",
+      "source_sha256": "79583CC9C8C9F4EFF1316E2DF2C00B870842D25B3696CCF11E4F99A13A285A2F",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        278223,
+        278223
+      ],
+      "sprite_hash": "378F0664ED5A349D8BEFF3BDBCE28541"
+    },
+    {
+      "sequence": 7,
+      "source_server_id": 10064,
+      "source_client_id": 9145,
+      "target_server_id": 25671,
+      "target_client_id": 24786,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\lava\\01_brasas_discretas\\server-10064_client-9145_brown-pavement.png",
+      "source_sha256": "EF72D3A9D474C7398D00DCA372517C718B195A0F12F75793D561CA2786AA1B3E",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        278224,
+        278224
+      ],
+      "sprite_hash": "6CC167FFEE3ABC7F7219582251F9FFFD"
+    },
+    {
+      "sequence": 8,
+      "source_server_id": 10065,
+      "source_client_id": 9146,
+      "target_server_id": 25672,
+      "target_client_id": 24787,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\lava\\01_brasas_discretas\\server-10065_client-9146_brown-pavement.png",
+      "source_sha256": "B0BAA62B52574C49A5EE159DAA2C9BC73DD12E09CF3900C917E74D1D38977E82",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        278225,
+        278225
+      ],
+      "sprite_hash": "5F363B62DB77E35829FAE2E64C0A2D22"
+    },
+    {
+      "sequence": 9,
+      "source_server_id": 10066,
+      "source_client_id": 9147,
+      "target_server_id": 25673,
+      "target_client_id": 24788,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\lava\\01_brasas_discretas\\server-10066_client-9147_cracked-earth.png",
+      "source_sha256": "3E802436ACC50C1BDF1C681A041902EBE5EB46D337B9B566E27946D6F8CA3A8F",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        278226,
+        278226
+      ],
+      "sprite_hash": "E833ADFE794B7714E87AC083FE8FBBEB"
+    },
+    {
+      "sequence": 10,
+      "source_server_id": 10067,
+      "source_client_id": 9148,
+      "target_server_id": 25674,
+      "target_client_id": 24789,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\lava\\01_brasas_discretas\\server-10067_client-9148_cracked-earth.png",
+      "source_sha256": "EF929FA1864AB3A01E8632AD27E79D2E80BEFCB7D166223A934A21E4C894CEF1",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        278227,
+        278227
+      ],
+      "sprite_hash": "11C9B19FF7ECB26F7540D2FB8956A2AF"
+    },
+    {
+      "sequence": 11,
+      "source_server_id": 10068,
+      "source_client_id": 9149,
+      "target_server_id": 25675,
+      "target_client_id": 24790,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\lava\\01_brasas_discretas\\server-10068_client-9149_cracked-earth.png",
+      "source_sha256": "DCD807FDAB9E5339B4280512C1C0126E141DA22F68E295D655355AB1522E1BF8",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        278228,
+        278228
+      ],
+      "sprite_hash": "393C79DF19272E57D4E8D0D126FCE01B"
+    },
+    {
+      "sequence": 12,
+      "source_server_id": 10069,
+      "source_client_id": 9150,
+      "target_server_id": 25676,
+      "target_client_id": 24791,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\lava\\01_brasas_discretas\\server-10069_client-9150_cracked-earth.png",
+      "source_sha256": "E2B36824B16B739D80CE924E31B9E7FB433AB23BF5B193D4BD6337B4DDBD7765",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        278229,
+        278229
+      ],
+      "sprite_hash": "CEA18F1E71FF5DE0DD0016D3C86AEFDB"
+    },
+    {
+      "sequence": 13,
+      "source_server_id": 10070,
+      "source_client_id": 9151,
+      "target_server_id": 25677,
+      "target_client_id": 24792,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\lava\\01_brasas_discretas\\server-10070_client-9151_cracked-earth.png",
+      "source_sha256": "3C6E3836B0E8B8FDC842076DC6F0C3ED30897C38905449A9C052AD9DE8677886",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        278230,
+        278230
+      ],
+      "sprite_hash": "BED8DE791F6718331B448E07E9881784"
+    },
+    {
+      "sequence": 14,
+      "source_server_id": 10071,
+      "source_client_id": 9152,
+      "target_server_id": 25678,
+      "target_client_id": 24793,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\lava\\01_brasas_discretas\\server-10071_client-9152_cracked-earth.png",
+      "source_sha256": "7FA09110B4159749BA3D82E0C6B9BE247B571006861AD0BE4334792EACC7446D",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        278231,
+        278231
+      ],
+      "sprite_hash": "1B37CD24D389A7C62D4A2B655DDD0E2D"
+    },
+    {
+      "sequence": 15,
+      "source_server_id": 10072,
+      "source_client_id": 9153,
+      "target_server_id": 25679,
+      "target_client_id": 24794,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\lava\\01_brasas_discretas\\server-10072_client-9153_cracked-earth.png",
+      "source_sha256": "15CC3055DF26E586425A9E60747DEED89E9C638A91C51D276F7652480C75BD0B",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        278232,
+        278232
+      ],
+      "sprite_hash": "45D839D541575B08A5015AA11E91B71A"
+    },
+    {
+      "sequence": 16,
+      "source_server_id": 10073,
+      "source_client_id": 9154,
+      "target_server_id": 25680,
+      "target_client_id": 24795,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\lava\\01_brasas_discretas\\server-10073_client-9154_cracked-earth.png",
+      "source_sha256": "971EA1AE03EE5CB9F0DB8C22801AFC368CAA102BAE0343A1962546BD4FF7F5E1",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        278233,
+        278233
+      ],
+      "sprite_hash": "EE14AFD9CD646A2B0F7956E3A0B03839"
+    },
+    {
+      "sequence": 17,
+      "source_server_id": 10074,
+      "source_client_id": 9155,
+      "target_server_id": 25681,
+      "target_client_id": 24796,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\lava\\01_brasas_discretas\\server-10074_client-9155_cracked-earth.png",
+      "source_sha256": "289E7B9494390146582C78C13B7882A254F666E7325ABC789D895D37520D47C8",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        278234,
+        278234
+      ],
+      "sprite_hash": "5E30FE48A9C70535C35B69A43DA8F5B3"
+    },
+    {
+      "sequence": 18,
+      "source_server_id": 10075,
+      "source_client_id": 9156,
+      "target_server_id": 25682,
+      "target_client_id": 24797,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\lava\\01_brasas_discretas\\server-10075_client-9156_cracked-earth.png",
+      "source_sha256": "571D163E2F7C97306DF41D2AE47CA82C9E702540459CE9629CBC765E2EADEE1E",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        278235,
+        278235
+      ],
+      "sprite_hash": "2966918E9A72289CBDC653BE472E2FE0"
+    },
+    {
+      "sequence": 19,
+      "source_server_id": 10076,
+      "source_client_id": 9157,
+      "target_server_id": 25683,
+      "target_client_id": 24798,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\lava\\01_brasas_discretas\\server-10076_client-9157_cracked-earth.png",
+      "source_sha256": "78B4214F6F1B4C3149971ABC4334A3000B94B4E8BCE848F8EF3FF47D5EAC1076",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        278236,
+        278236
+      ],
+      "sprite_hash": "02CD7283375946C3549491784763AD5A"
+    },
+    {
+      "sequence": 20,
+      "source_server_id": 10077,
+      "source_client_id": 9158,
+      "target_server_id": 25684,
+      "target_client_id": 24799,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\lava\\01_brasas_discretas\\server-10077_client-9158_cracked-earth.png",
+      "source_sha256": "AA39B75A41C73E11A98BC9BCA3FFB126C706B2D27E699CD058BCD8EF420071FE",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        278237,
+        278237
+      ],
+      "sprite_hash": "0F10EBF2C248596FC018439DD02B227B"
+    },
+    {
+      "sequence": 21,
+      "source_server_id": 10058,
+      "source_client_id": 9139,
+      "target_server_id": 25685,
+      "target_client_id": 24800,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\lava\\02_frestas_laranja\\server-10058_client-9139_brown-pavement.png",
+      "source_sha256": "CEED6D583D8483F0F2F8A091ED5273994871DBCF519EA63E84DE8601003E2A04",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        278238,
+        278238
+      ],
+      "sprite_hash": "90D09C0429C0977AA82EB7C19E6E4FAD"
+    },
+    {
+      "sequence": 22,
+      "source_server_id": 10059,
+      "source_client_id": 9140,
+      "target_server_id": 25686,
+      "target_client_id": 24801,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\lava\\02_frestas_laranja\\server-10059_client-9140_brown-pavement.png",
+      "source_sha256": "C59BA88B079EB9F7D1A6AA70C5B016A75A5319D7EE17ED4B8369ABD240FECAAB",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        278239,
+        278239
+      ],
+      "sprite_hash": "7D09064CCD550178640AB41B65BF975E"
+    },
+    {
+      "sequence": 23,
+      "source_server_id": 10060,
+      "source_client_id": 9141,
+      "target_server_id": 25687,
+      "target_client_id": 24802,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\lava\\02_frestas_laranja\\server-10060_client-9141_brown-pavement.png",
+      "source_sha256": "2E58B7A13530CAA135328A06D0E5A00C597CFF72AD9A63DB15DF6BB33C4B8993",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        278240,
+        278240
+      ],
+      "sprite_hash": "FC4AB6A9460DD016BA5186F0D3C5BFAD"
+    },
+    {
+      "sequence": 24,
+      "source_server_id": 10061,
+      "source_client_id": 9142,
+      "target_server_id": 25688,
+      "target_client_id": 24803,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\lava\\02_frestas_laranja\\server-10061_client-9142_brown-pavement.png",
+      "source_sha256": "E20D6765A2250A72FF871656C45C6585701538B4ABD859C3A676E5FB6BA7DA32",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        278241,
+        278241
+      ],
+      "sprite_hash": "831294DD798A0FC0048483D8C9BECB65"
+    },
+    {
+      "sequence": 25,
+      "source_server_id": 10062,
+      "source_client_id": 9143,
+      "target_server_id": 25689,
+      "target_client_id": 24804,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\lava\\02_frestas_laranja\\server-10062_client-9143_brown-pavement.png",
+      "source_sha256": "FDA8CBA3F3B5E5F1B011822B4D7605007B2F13DBB69E048534BCD48E1701241E",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        278242,
+        278242
+      ],
+      "sprite_hash": "8217B6D6F6EF016940601ED6F2013AB1"
+    },
+    {
+      "sequence": 26,
+      "source_server_id": 10063,
+      "source_client_id": 9144,
+      "target_server_id": 25690,
+      "target_client_id": 24805,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\lava\\02_frestas_laranja\\server-10063_client-9144_brown-pavement.png",
+      "source_sha256": "EFC5475D35BB867013C12117EA351ECF81C479D8EC2173CEAB633A711EF098A1",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        278243,
+        278243
+      ],
+      "sprite_hash": "9B520ADB48756BA8D9AAD7942113C518"
+    },
+    {
+      "sequence": 27,
+      "source_server_id": 10064,
+      "source_client_id": 9145,
+      "target_server_id": 25691,
+      "target_client_id": 24806,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\lava\\02_frestas_laranja\\server-10064_client-9145_brown-pavement.png",
+      "source_sha256": "D380B1A5882B0B3077F2C5EB74C6916B30D78647C4877D617165F245428359FF",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        278244,
+        278244
+      ],
+      "sprite_hash": "C67493D4D95672939EB7EA594A2E0C63"
+    },
+    {
+      "sequence": 28,
+      "source_server_id": 10065,
+      "source_client_id": 9146,
+      "target_server_id": 25692,
+      "target_client_id": 24807,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\lava\\02_frestas_laranja\\server-10065_client-9146_brown-pavement.png",
+      "source_sha256": "FD246A13DE0B92C4467453445A7EA8FEA6817A48EEA86E89797F1A025D1B779E",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        278245,
+        278245
+      ],
+      "sprite_hash": "15E0F0B0FF7FAFD85FF830AD63E1C00B"
+    },
+    {
+      "sequence": 29,
+      "source_server_id": 10066,
+      "source_client_id": 9147,
+      "target_server_id": 25693,
+      "target_client_id": 24808,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\lava\\02_frestas_laranja\\server-10066_client-9147_cracked-earth.png",
+      "source_sha256": "5FF184EF6F10991B6399D7D18590E1A6E0143B6B832B23B5DB9F94DBE882935D",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        278246,
+        278246
+      ],
+      "sprite_hash": "D685B70FDE7586A2CE9DDCF08F960BE9"
+    },
+    {
+      "sequence": 30,
+      "source_server_id": 10067,
+      "source_client_id": 9148,
+      "target_server_id": 25694,
+      "target_client_id": 24809,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\lava\\02_frestas_laranja\\server-10067_client-9148_cracked-earth.png",
+      "source_sha256": "748C98549AD5C9E86323CD41C5D16B84749244578A8E7BB16984213B7ACDEFDF",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        278247,
+        278247
+      ],
+      "sprite_hash": "CE32414917B4EACF792D271837A72D72"
+    },
+    {
+      "sequence": 31,
+      "source_server_id": 10068,
+      "source_client_id": 9149,
+      "target_server_id": 25695,
+      "target_client_id": 24810,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\lava\\02_frestas_laranja\\server-10068_client-9149_cracked-earth.png",
+      "source_sha256": "9C6F1FF4CBBCAD9378BC0750E191C31DE583AEBB2AFF2083507A71D50B6512C3",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        278248,
+        278248
+      ],
+      "sprite_hash": "BCAE410A19F665E9FF7E7E14329223A9"
+    },
+    {
+      "sequence": 32,
+      "source_server_id": 10069,
+      "source_client_id": 9150,
+      "target_server_id": 25696,
+      "target_client_id": 24811,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\lava\\02_frestas_laranja\\server-10069_client-9150_cracked-earth.png",
+      "source_sha256": "E6BE98C752448DF14668D71D1FF47730B2E646836E87184691ED03F5F379D789",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        278249,
+        278249
+      ],
+      "sprite_hash": "CFD51A3DC2B4CBA8E51204E764A4A391"
+    },
+    {
+      "sequence": 33,
+      "source_server_id": 10070,
+      "source_client_id": 9151,
+      "target_server_id": 25697,
+      "target_client_id": 24812,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\lava\\02_frestas_laranja\\server-10070_client-9151_cracked-earth.png",
+      "source_sha256": "774E3A4EB0C1729E5DA0790FFC66EF91C26DF38DD80E9372FD96F82D2496246D",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        278250,
+        278250
+      ],
+      "sprite_hash": "903882DB04D6F009119B8C9C146AEC55"
+    },
+    {
+      "sequence": 34,
+      "source_server_id": 10071,
+      "source_client_id": 9152,
+      "target_server_id": 25698,
+      "target_client_id": 24813,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\lava\\02_frestas_laranja\\server-10071_client-9152_cracked-earth.png",
+      "source_sha256": "E751BBDB9D3694120A5505626DFA066BA4E0325E54FA6C9CABC410481F8DBB6C",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        278251,
+        278251
+      ],
+      "sprite_hash": "AB61F5D8522A55FB694335AA782A0DB2"
+    },
+    {
+      "sequence": 35,
+      "source_server_id": 10072,
+      "source_client_id": 9153,
+      "target_server_id": 25699,
+      "target_client_id": 24814,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\lava\\02_frestas_laranja\\server-10072_client-9153_cracked-earth.png",
+      "source_sha256": "6D5ADA773F624834D8890BF082A09CECEC48F67F6191219C99E3AFBAA1C06099",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        278252,
+        278252
+      ],
+      "sprite_hash": "67A62725DD215804B7A784E1BAA2EEE1"
+    },
+    {
+      "sequence": 36,
+      "source_server_id": 10073,
+      "source_client_id": 9154,
+      "target_server_id": 25700,
+      "target_client_id": 24815,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\lava\\02_frestas_laranja\\server-10073_client-9154_cracked-earth.png",
+      "source_sha256": "2FC177C2CDFB1F69086641354B29ED94D03C629CEE1C0988CDC44A5F563969CF",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        278253,
+        278253
+      ],
+      "sprite_hash": "ACD967B80644DFFAB20E7685C1612F79"
+    },
+    {
+      "sequence": 37,
+      "source_server_id": 10074,
+      "source_client_id": 9155,
+      "target_server_id": 25701,
+      "target_client_id": 24816,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\lava\\02_frestas_laranja\\server-10074_client-9155_cracked-earth.png",
+      "source_sha256": "912C57517C67B989B0FBDCAF99AB5BF69C449A422472C1420C0ED60D3B849EA3",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        278254,
+        278254
+      ],
+      "sprite_hash": "02370EC87E77BEC18D5FBAA38D8A1D53"
+    },
+    {
+      "sequence": 38,
+      "source_server_id": 10075,
+      "source_client_id": 9156,
+      "target_server_id": 25702,
+      "target_client_id": 24817,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\lava\\02_frestas_laranja\\server-10075_client-9156_cracked-earth.png",
+      "source_sha256": "96BEBF404767AB4BA9B0D176AEFAA1786428A0215A896BFAC7140F1E7F8B8F05",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        278255,
+        278255
+      ],
+      "sprite_hash": "79EF806395ABBF4E86544F90F383DF34"
+    },
+    {
+      "sequence": 39,
+      "source_server_id": 10076,
+      "source_client_id": 9157,
+      "target_server_id": 25703,
+      "target_client_id": 24818,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\lava\\02_frestas_laranja\\server-10076_client-9157_cracked-earth.png",
+      "source_sha256": "0B3CAEB41C39B6EF0AA869428F638509EFC622126BFDF124E370AF15C9FADB6B",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        278256,
+        278256
+      ],
+      "sprite_hash": "CF4D9A0EFCBF1E780E19EAD04E8AD224"
+    },
+    {
+      "sequence": 40,
+      "source_server_id": 10077,
+      "source_client_id": 9158,
+      "target_server_id": 25704,
+      "target_client_id": 24819,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\lava\\02_frestas_laranja\\server-10077_client-9158_cracked-earth.png",
+      "source_sha256": "32B32A100FE58956262CFF86DC6B73C7AF7B814549EDA78DA072E5F5BA1A544B",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        278257,
+        278257
+      ],
+      "sprite_hash": "0BBE20E94766491E91948775774260E1"
+    },
+    {
+      "sequence": 41,
+      "source_server_id": 10058,
+      "source_client_id": 9139,
+      "target_server_id": 25705,
+      "target_client_id": 24820,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\lava\\03_lava_intensa\\server-10058_client-9139_brown-pavement.png",
+      "source_sha256": "82C0C93FE62AD28AD27CA366CB6562E6E23868ED0F6B4250D10766D220BDA951",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        278258,
+        278258
+      ],
+      "sprite_hash": "10CB11D48E277D5B99FB8E0EC9B82C74"
+    },
+    {
+      "sequence": 42,
+      "source_server_id": 10059,
+      "source_client_id": 9140,
+      "target_server_id": 25706,
+      "target_client_id": 24821,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\lava\\03_lava_intensa\\server-10059_client-9140_brown-pavement.png",
+      "source_sha256": "B814A09080B4EF517A94DF2C096CD0C2DB656F85DFF3DBFB28A19907C9794809",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        278259,
+        278259
+      ],
+      "sprite_hash": "0CE4B94DE59C3A97937A39C67E40B6CB"
+    },
+    {
+      "sequence": 43,
+      "source_server_id": 10060,
+      "source_client_id": 9141,
+      "target_server_id": 25707,
+      "target_client_id": 24822,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\lava\\03_lava_intensa\\server-10060_client-9141_brown-pavement.png",
+      "source_sha256": "2C55E0942D83B3F811242C089DD4C10E598E7AC9608B8C4869B7DA35578C5492",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        278260,
+        278260
+      ],
+      "sprite_hash": "6F967E0D64672C1684E5F6304B9B88F4"
+    },
+    {
+      "sequence": 44,
+      "source_server_id": 10061,
+      "source_client_id": 9142,
+      "target_server_id": 25708,
+      "target_client_id": 24823,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\lava\\03_lava_intensa\\server-10061_client-9142_brown-pavement.png",
+      "source_sha256": "E183C02550C6311DB57E6D051289B26DD4484AEB276B7791D1380D7981DBD8E9",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        278261,
+        278261
+      ],
+      "sprite_hash": "E4F2CACF5357FC280778D44147F4802A"
+    },
+    {
+      "sequence": 45,
+      "source_server_id": 10062,
+      "source_client_id": 9143,
+      "target_server_id": 25709,
+      "target_client_id": 24824,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\lava\\03_lava_intensa\\server-10062_client-9143_brown-pavement.png",
+      "source_sha256": "233BE21618CE850332A0727EED14F0E3071CE5DE84937795EDF4F2569A23696B",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        278262,
+        278262
+      ],
+      "sprite_hash": "6A3B42FFD5C51EFA85BC8D19BEEF47E1"
+    },
+    {
+      "sequence": 46,
+      "source_server_id": 10063,
+      "source_client_id": 9144,
+      "target_server_id": 25710,
+      "target_client_id": 24825,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\lava\\03_lava_intensa\\server-10063_client-9144_brown-pavement.png",
+      "source_sha256": "BA44F95D61FD3D6E584F627BC4EE7795A6A1417767CB1F636D6D6E91D62ADA32",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        278263,
+        278263
+      ],
+      "sprite_hash": "3DF709CB819AFC352CB3588A2226ADA8"
+    },
+    {
+      "sequence": 47,
+      "source_server_id": 10064,
+      "source_client_id": 9145,
+      "target_server_id": 25711,
+      "target_client_id": 24826,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\lava\\03_lava_intensa\\server-10064_client-9145_brown-pavement.png",
+      "source_sha256": "7FED659B7F7FE3B47F92DC496AE1A4A9F3CF87E481F8CF09A080F019C39A9255",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        278264,
+        278264
+      ],
+      "sprite_hash": "377381641D5CB70E29BE1BE75CE849C1"
+    },
+    {
+      "sequence": 48,
+      "source_server_id": 10065,
+      "source_client_id": 9146,
+      "target_server_id": 25712,
+      "target_client_id": 24827,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\lava\\03_lava_intensa\\server-10065_client-9146_brown-pavement.png",
+      "source_sha256": "27B0D396DA0FC830A4A3C47585B8B2B91200BCBE7D9493790084CD2283C31BA3",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        278265,
+        278265
+      ],
+      "sprite_hash": "51759088F0144146987267F2874459A4"
+    },
+    {
+      "sequence": 49,
+      "source_server_id": 10066,
+      "source_client_id": 9147,
+      "target_server_id": 25713,
+      "target_client_id": 24828,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\lava\\03_lava_intensa\\server-10066_client-9147_cracked-earth.png",
+      "source_sha256": "5F2FCE295093F1A43C232FFC7F3986B4893E788EBDD9A8CCBD3B2CF1AC50DD7D",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        278266,
+        278266
+      ],
+      "sprite_hash": "FDB44614B5899BF7BA0F1995CBB8880B"
+    },
+    {
+      "sequence": 50,
+      "source_server_id": 10067,
+      "source_client_id": 9148,
+      "target_server_id": 25714,
+      "target_client_id": 24829,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\lava\\03_lava_intensa\\server-10067_client-9148_cracked-earth.png",
+      "source_sha256": "466241A1168FD3AB6F4C9D23E7AB69048B17CDEC9AB2732F603184F6EABE81A5",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        278267,
+        278267
+      ],
+      "sprite_hash": "7D527A2C89CB9CFA7F4DC83D526D2C11"
+    },
+    {
+      "sequence": 51,
+      "source_server_id": 10068,
+      "source_client_id": 9149,
+      "target_server_id": 25715,
+      "target_client_id": 24830,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\lava\\03_lava_intensa\\server-10068_client-9149_cracked-earth.png",
+      "source_sha256": "65BB0FF3BE611D6BD9810D1B0A9D4C7891D14B89B9B061FB0853171D57D8AA1F",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        278268,
+        278268
+      ],
+      "sprite_hash": "DA1124D3AEEE784BCDAB3611F560A4F5"
+    },
+    {
+      "sequence": 52,
+      "source_server_id": 10069,
+      "source_client_id": 9150,
+      "target_server_id": 25716,
+      "target_client_id": 24831,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\lava\\03_lava_intensa\\server-10069_client-9150_cracked-earth.png",
+      "source_sha256": "B6560D454770BE594FB23B0ED1FB86346FD705963D3437F542605D95C361C085",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        278269,
+        278269
+      ],
+      "sprite_hash": "03F3A413889EF061B51B03BF6D760D29"
+    },
+    {
+      "sequence": 53,
+      "source_server_id": 10070,
+      "source_client_id": 9151,
+      "target_server_id": 25717,
+      "target_client_id": 24832,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\lava\\03_lava_intensa\\server-10070_client-9151_cracked-earth.png",
+      "source_sha256": "F6E3F3641F3670904259113D525EE1A629BD8E6D835F2C614E8A22608BC9CA3A",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        278270,
+        278270
+      ],
+      "sprite_hash": "3615407C38D93BE471532408C76F4460"
+    },
+    {
+      "sequence": 54,
+      "source_server_id": 10071,
+      "source_client_id": 9152,
+      "target_server_id": 25718,
+      "target_client_id": 24833,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\lava\\03_lava_intensa\\server-10071_client-9152_cracked-earth.png",
+      "source_sha256": "347F80E685B8A4B6FA0759F9C5DC59339E9670DF79BA6CACEC4A131AD3C5C42D",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        278271,
+        278271
+      ],
+      "sprite_hash": "496BC06FB79A76437A506C057906BD7D"
+    },
+    {
+      "sequence": 55,
+      "source_server_id": 10072,
+      "source_client_id": 9153,
+      "target_server_id": 25719,
+      "target_client_id": 24834,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\lava\\03_lava_intensa\\server-10072_client-9153_cracked-earth.png",
+      "source_sha256": "72F8553F7DCA4FE57FB110244FBC7C7736A2CDD8C207F6521FB04FE1AE809094",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        278272,
+        278272
+      ],
+      "sprite_hash": "97C85FF1D15253FDE5B73C26D4D65F1E"
+    },
+    {
+      "sequence": 56,
+      "source_server_id": 10073,
+      "source_client_id": 9154,
+      "target_server_id": 25720,
+      "target_client_id": 24835,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\lava\\03_lava_intensa\\server-10073_client-9154_cracked-earth.png",
+      "source_sha256": "1E566FAE424967F4544000A2E884A0573C09CDEF00CD3791464151C7C66DBDD9",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        278273,
+        278273
+      ],
+      "sprite_hash": "720DB8D8EE466BC72D4A166767DB8224"
+    },
+    {
+      "sequence": 57,
+      "source_server_id": 10074,
+      "source_client_id": 9155,
+      "target_server_id": 25721,
+      "target_client_id": 24836,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\lava\\03_lava_intensa\\server-10074_client-9155_cracked-earth.png",
+      "source_sha256": "B161E0288BE068660AC01CD24C9FF30A94D289632D848F1079D7A03BBF40164F",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        278274,
+        278274
+      ],
+      "sprite_hash": "1F4A521DBEA6A3A7C3B4399FB75CD1CE"
+    },
+    {
+      "sequence": 58,
+      "source_server_id": 10075,
+      "source_client_id": 9156,
+      "target_server_id": 25722,
+      "target_client_id": 24837,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\lava\\03_lava_intensa\\server-10075_client-9156_cracked-earth.png",
+      "source_sha256": "85D6CC93F1C8182CA62BBAF22BFE677D92ABEA25C905864BC33FDC60D6AB5890",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        278275,
+        278275
+      ],
+      "sprite_hash": "A324613B417A26DC4DEF0649DC5A470C"
+    },
+    {
+      "sequence": 59,
+      "source_server_id": 10076,
+      "source_client_id": 9157,
+      "target_server_id": 25723,
+      "target_client_id": 24838,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\lava\\03_lava_intensa\\server-10076_client-9157_cracked-earth.png",
+      "source_sha256": "9D908BBAA18315FA9DA55BE6468FB554B5FB3BE63D8A2137BAA0779130EED20F",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        278276,
+        278276
+      ],
+      "sprite_hash": "70782F719300988A961D44C96B8F9D35"
+    },
+    {
+      "sequence": 60,
+      "source_server_id": 10077,
+      "source_client_id": 9158,
+      "target_server_id": 25724,
+      "target_client_id": 24839,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\lava\\03_lava_intensa\\server-10077_client-9158_cracked-earth.png",
+      "source_sha256": "29B6165A671B0454E2191B2090BF83FBD7184702CABA87EDCC9048FDACCFE417",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        278277,
+        278277
+      ],
+      "sprite_hash": "DBA6B8BFFECD7548D6DAB21B6FB48B25"
+    },
+    {
+      "sequence": 61,
+      "source_server_id": 10058,
+      "source_client_id": 9139,
+      "target_server_id": 25725,
+      "target_client_id": 24840,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\lava\\terreno_marrom_com_lava\\server-10058_client-9139_brown-pavement.png",
+      "source_sha256": "07D46734A3887BA1D915D299EFBAA504F59BA453D9AD753F2BA829E7B027823A",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        278278,
+        278278
+      ],
+      "sprite_hash": "EEB8D8B127C105516F50B81198B9C0B0"
+    },
+    {
+      "sequence": 62,
+      "source_server_id": 10059,
+      "source_client_id": 9140,
+      "target_server_id": 25726,
+      "target_client_id": 24841,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\lava\\terreno_marrom_com_lava\\server-10059_client-9140_brown-pavement.png",
+      "source_sha256": "97C0B32CD90741842F379B2B0658210ADF540C131132D5DF200444BA08F3401D",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        278279,
+        278279
+      ],
+      "sprite_hash": "211B859B266D41AA068D3B84B974E011"
+    },
+    {
+      "sequence": 63,
+      "source_server_id": 10060,
+      "source_client_id": 9141,
+      "target_server_id": 25727,
+      "target_client_id": 24842,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\lava\\terreno_marrom_com_lava\\server-10060_client-9141_brown-pavement.png",
+      "source_sha256": "CE7DC9A8A65DFDCAE94BCA8458CA6F97A1508D424C16C4507DA79ABFEED11126",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        278280,
+        278280
+      ],
+      "sprite_hash": "BA8FFEAB6367C22F40E84FC5502B1492"
+    },
+    {
+      "sequence": 64,
+      "source_server_id": 10061,
+      "source_client_id": 9142,
+      "target_server_id": 25728,
+      "target_client_id": 24843,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\lava\\terreno_marrom_com_lava\\server-10061_client-9142_brown-pavement.png",
+      "source_sha256": "DBBC65647B84A7C11797D2F8AD15B087B65D326B8557819686EBFBC551CFDDC4",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        278281,
+        278281
+      ],
+      "sprite_hash": "A488D51E5BE8058EE0BD85A0217DF33F"
+    },
+    {
+      "sequence": 65,
+      "source_server_id": 10062,
+      "source_client_id": 9143,
+      "target_server_id": 25729,
+      "target_client_id": 24844,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\lava\\terreno_marrom_com_lava\\server-10062_client-9143_brown-pavement.png",
+      "source_sha256": "3980E5C2D9DC81D52351FBA28D76818BF133585AF7AFBF1D095C512D81CE3763",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        278282,
+        278282
+      ],
+      "sprite_hash": "AD4AA0968A4DCFB167312B24ED530D70"
+    },
+    {
+      "sequence": 66,
+      "source_server_id": 10063,
+      "source_client_id": 9144,
+      "target_server_id": 25730,
+      "target_client_id": 24845,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\lava\\terreno_marrom_com_lava\\server-10063_client-9144_brown-pavement.png",
+      "source_sha256": "37F6E429FF4C6C9D0787B7ED7EF31FC0891090895B087D6F1CD1CF2978A9E625",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        278283,
+        278283
+      ],
+      "sprite_hash": "C0E1938B015C46876C2E1DC4B94218DD"
+    },
+    {
+      "sequence": 67,
+      "source_server_id": 10064,
+      "source_client_id": 9145,
+      "target_server_id": 25731,
+      "target_client_id": 24846,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\lava\\terreno_marrom_com_lava\\server-10064_client-9145_brown-pavement.png",
+      "source_sha256": "C736B2F304816A3AFEF57645F337F026EEE9F82D657F0DD326479AD400D1288C",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        278284,
+        278284
+      ],
+      "sprite_hash": "28F7BAB32558404DF331B126F9233650"
+    },
+    {
+      "sequence": 68,
+      "source_server_id": 10065,
+      "source_client_id": 9146,
+      "target_server_id": 25732,
+      "target_client_id": 24847,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\lava\\terreno_marrom_com_lava\\server-10065_client-9146_brown-pavement.png",
+      "source_sha256": "FA8EEA8540F4D25018AC8A5F5161D6C3F2ED4EA1BAF98F58C2F6ECAFA4127637",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        278285,
+        278285
+      ],
+      "sprite_hash": "2F5A8EFE3E8150E7783A23578C711F1D"
+    },
+    {
+      "sequence": 69,
+      "source_server_id": 10066,
+      "source_client_id": 9147,
+      "target_server_id": 25733,
+      "target_client_id": 24848,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\lava\\terreno_marrom_com_lava\\server-10066_client-9147_cracked-earth.png",
+      "source_sha256": "FED57A3AD25809B3AB3850A526FD564AE076C6DFDABED20409D052D8CB304CA0",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        278286,
+        278286
+      ],
+      "sprite_hash": "F1A3A735D5211387C4BFE7D377B1D7A5"
+    },
+    {
+      "sequence": 70,
+      "source_server_id": 10067,
+      "source_client_id": 9148,
+      "target_server_id": 25734,
+      "target_client_id": 24849,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\lava\\terreno_marrom_com_lava\\server-10067_client-9148_cracked-earth.png",
+      "source_sha256": "34E1D295609662E1F0BA970DA4D7D5463D83BD658823E4503CA12A2545946739",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        278287,
+        278287
+      ],
+      "sprite_hash": "A63B0EFEA709CF906D14528A7B896594"
+    },
+    {
+      "sequence": 71,
+      "source_server_id": 10068,
+      "source_client_id": 9149,
+      "target_server_id": 25735,
+      "target_client_id": 24850,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\lava\\terreno_marrom_com_lava\\server-10068_client-9149_cracked-earth.png",
+      "source_sha256": "0E9CCE6F51E50290F5C0BF20A7D24061DAACC6AC934E6D0275162E06D270484B",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        278288,
+        278288
+      ],
+      "sprite_hash": "965D047A0BC73992A42EE79C907DDD0B"
+    },
+    {
+      "sequence": 72,
+      "source_server_id": 10069,
+      "source_client_id": 9150,
+      "target_server_id": 25736,
+      "target_client_id": 24851,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\lava\\terreno_marrom_com_lava\\server-10069_client-9150_cracked-earth.png",
+      "source_sha256": "4E87D9ACBA4172EE1A6346F4CA1355CAD48050E1B56BF5D526825B23C78BD0F5",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        278289,
+        278289
+      ],
+      "sprite_hash": "7C2E095C98E767D9B6566A45015FDA3E"
+    },
+    {
+      "sequence": 73,
+      "source_server_id": 10070,
+      "source_client_id": 9151,
+      "target_server_id": 25737,
+      "target_client_id": 24852,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\lava\\terreno_marrom_com_lava\\server-10070_client-9151_cracked-earth.png",
+      "source_sha256": "C6BC22CFF0E39729D47EE03FCC90A0324EFA0B9F40F411D00FE17EDC18DADC65",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        278290,
+        278290
+      ],
+      "sprite_hash": "72526CBBDE3F57CE6501F43463B41D14"
+    },
+    {
+      "sequence": 74,
+      "source_server_id": 10071,
+      "source_client_id": 9152,
+      "target_server_id": 25738,
+      "target_client_id": 24853,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\lava\\terreno_marrom_com_lava\\server-10071_client-9152_cracked-earth.png",
+      "source_sha256": "E49EC6FA94890497186C3F366BFA3676E5A032F73689304AA821801A6E07D613",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        278291,
+        278291
+      ],
+      "sprite_hash": "F9361AA4FECEA7FB0077C648BF723338"
+    },
+    {
+      "sequence": 75,
+      "source_server_id": 10072,
+      "source_client_id": 9153,
+      "target_server_id": 25739,
+      "target_client_id": 24854,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\lava\\terreno_marrom_com_lava\\server-10072_client-9153_cracked-earth.png",
+      "source_sha256": "FC253DDC151524810359C30F5B823082B91EDA1BBF2F1351F666A98C05130271",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        278292,
+        278292
+      ],
+      "sprite_hash": "6EDE6DECA1336FB7D9F9AEDEA4E305E8"
+    },
+    {
+      "sequence": 76,
+      "source_server_id": 10073,
+      "source_client_id": 9154,
+      "target_server_id": 25740,
+      "target_client_id": 24855,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\lava\\terreno_marrom_com_lava\\server-10073_client-9154_cracked-earth.png",
+      "source_sha256": "6F4DA6F5483B1163B80841D7D41E8DF763BB09B06874B4A3AFF1C3C89BE9BDCD",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        278293,
+        278293
+      ],
+      "sprite_hash": "A37E571EA9687288AC332D7EADDA675D"
+    },
+    {
+      "sequence": 77,
+      "source_server_id": 10074,
+      "source_client_id": 9155,
+      "target_server_id": 25741,
+      "target_client_id": 24856,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\lava\\terreno_marrom_com_lava\\server-10074_client-9155_cracked-earth.png",
+      "source_sha256": "05D168818109CAB60D8506765E05997FDCCEA5C585E4CF793D0BC2BE920D484E",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        278294,
+        278294
+      ],
+      "sprite_hash": "1100938AD0BE09CE717F69063A037D2A"
+    },
+    {
+      "sequence": 78,
+      "source_server_id": 10075,
+      "source_client_id": 9156,
+      "target_server_id": 25742,
+      "target_client_id": 24857,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\lava\\terreno_marrom_com_lava\\server-10075_client-9156_cracked-earth.png",
+      "source_sha256": "7E48731227005642BA5675238191FF0FBE22D8C5E42534A49F32A82765AA6416",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        278295,
+        278295
+      ],
+      "sprite_hash": "60C7660C1BDFCF5BD2EAA305E554FAA0"
+    },
+    {
+      "sequence": 79,
+      "source_server_id": 10076,
+      "source_client_id": 9157,
+      "target_server_id": 25743,
+      "target_client_id": 24858,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\lava\\terreno_marrom_com_lava\\server-10076_client-9157_cracked-earth.png",
+      "source_sha256": "001C27B4A970EDA97B1E982FE36E1A1F8EDC10979D29B5C42A468A2CD7D9DA26",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        278296,
+        278296
+      ],
+      "sprite_hash": "92788DC974EC4A6D4F776F6B5FE203A0"
+    },
+    {
+      "sequence": 80,
+      "source_server_id": 10077,
+      "source_client_id": 9158,
+      "target_server_id": 25744,
+      "target_client_id": 24859,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\lava\\terreno_marrom_com_lava\\server-10077_client-9158_cracked-earth.png",
+      "source_sha256": "8389BDF42A9557453C64D62D1CE943EFC58AEBFF53D0A0882569D20D484E4E69",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        278297,
+        278297
+      ],
+      "sprite_hash": "1ECF2700E0F02670975829D441DACEDF"
+    }
+  ],
+  "xml": {
+    "source_definitions": 20,
+    "target_definitions_written": 80,
+    "target_definitions_already_exact": 0,
+    "target_ids": [
+      25665,
+      25666,
+      25667,
+      25668,
+      25669,
+      25670,
+      25671,
+      25672,
+      25673,
+      25674,
+      25675,
+      25676,
+      25677,
+      25678,
+      25679,
+      25680,
+      25681,
+      25682,
+      25683,
+      25684,
+      25685,
+      25686,
+      25687,
+      25688,
+      25689,
+      25690,
+      25691,
+      25692,
+      25693,
+      25694,
+      25695,
+      25696,
+      25697,
+      25698,
+      25699,
+      25700,
+      25701,
+      25702,
+      25703,
+      25704,
+      25705,
+      25706,
+      25707,
+      25708,
+      25709,
+      25710,
+      25711,
+      25712,
+      25713,
+      25714,
+      25715,
+      25716,
+      25717,
+      25718,
+      25719,
+      25720,
+      25721,
+      25722,
+      25723,
+      25724,
+      25725,
+      25726,
+      25727,
+      25728,
+      25729,
+      25730,
+      25731,
+      25732,
+      25733,
+      25734,
+      25735,
+      25736,
+      25737,
+      25738,
+      25739,
+      25740,
+      25741,
+      25742,
+      25743,
+      25744
+    ]
+  },
+  "map_scan": {
+    "tiles_scanned": 7824286,
+    "item_nodes_scanned": 2105107
+  },
+  "dry_run": true,
+  "passed": true
+}

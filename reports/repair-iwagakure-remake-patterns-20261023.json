@@ -1,0 +1,133 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "manifest": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\repair-iwagakure-remake-patterns-20261023.csv",
+  "item_count": 2,
+  "spr_unchanged": true,
+  "items": [
+    {
+      "sequence": 1,
+      "server_id": 25562,
+      "client_id": 24677,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\Parede_Iwagakure_remake.png",
+      "source_sha256": "4B0969B9DD032C341B0903DE9357388B5D725997D0E398FC8DA506DF681CD440",
+      "old_layout": {
+        "width": 6,
+        "height": 2,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "new_layout": {
+        "width": 2,
+        "height": 2,
+        "layers": 1,
+        "pattern_x": 3,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "sprite_ids_reused": 12,
+      "sprite_hash": "479CE5D9B2108CBFD3EA8234BF0F013B"
+    },
+    {
+      "sequence": 2,
+      "server_id": 25563,
+      "client_id": 24678,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\Parede_Iwagakure_remake2.png",
+      "source_sha256": "0FC818A6DC9A9D9E334FC8781EA591099419D2AFFCBA9CFC0C3EE91580B1D981",
+      "old_layout": {
+        "width": 6,
+        "height": 2,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "new_layout": {
+        "width": 2,
+        "height": 2,
+        "layers": 1,
+        "pattern_x": 3,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "sprite_ids_reused": 12,
+      "sprite_hash": "34189C38ADFE3DF4AE6403DF7945ED07"
+    }
+  ],
+  "version_backup": {
+    "tool_version": "0.8.2",
+    "version_id": "20261023-185455-265181",
+    "created_at": "2026-10-23T18:55:07.348190-03:00",
+    "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261023-185455-265181",
+    "rar_executable": "C:\\Program Files\\WinRAR\\Rar.exe",
+    "sources": [
+      {
+        "path": "assets/860/.gitattributes",
+        "size": 43,
+        "sha256": "D5636A3257287440945C5E017581545E5B0A3E2FDDDAE7C5EF8D90FF4DF3D32A"
+      },
+      {
+        "path": "assets/860/Tibia.dat",
+        "size": 4600947,
+        "sha256": "6801D0A58B3108D1B4E41BBCDA72C80E860AC9C4BFEE2767D31E13C3571C5624"
+      },
+      {
+        "path": "assets/860/Tibia.otfi",
+        "size": 185,
+        "sha256": "7743548835944BC799CB871A4E5DEF84F7AF76815031871B9CE74B5EC0E8ADD3"
+      },
+      {
+        "path": "assets/860/Tibia.spr",
+        "size": 502774187,
+        "sha256": "DECEB63710654FAE0A4C03D42C4E6E15E09DDC7B379DAE89BCD87CE91A14B5C4"
+      },
+      {
+        "path": "assets/items/force use.txt",
+        "size": 419,
+        "sha256": "BCB478FDF3F45ECA8D172AFD7A17D3F8CD520924EE0894752452B8FDC8F71959"
+      },
+      {
+        "path": "assets/items/items.otb",
+        "size": 1062171,
+        "sha256": "177A35CA43C5EFE6E43FA8CA84144F921B19E29AD828D94097884F731FE76D87"
+      },
+      {
+        "path": "assets/world/mapanovo.otbm",
+        "size": 80105775,
+        "sha256": "AC32C669BED3512D69AE054CAFC8564A236C9894B22BBC9A0E9D7ACAEFAD5512"
+      }
+    ],
+    "archives": {
+      "860": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261023-185455-265181\\860.rar",
+        "size": 89923757,
+        "sha256": "2FE7A80AA662149F74061961979E46A38DC67A25CCDAB4FBAE6D022F7939AD9C"
+      },
+      "items": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261023-185455-265181\\items.rar",
+        "size": 509269,
+        "sha256": "725D342025327F2792C7BE62CEB742EABD3344B6739A821E4347D819853512FD"
+      },
+      "world": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261023-185455-265181\\world.zip",
+        "size": 19337404,
+        "sha256": "92E3613FFE42E15A419DD4A8A0F86A4570AEE5F031A4589F7010C4804EED8E7D"
+      }
+    },
+    "items_xml_excluded": true,
+    "world_entries": [
+      "mapanovo.otbm"
+    ],
+    "passed": true
+  },
+  "transaction_committed": true,
+  "final_validation_passed": true,
+  "warnings": [],
+  "errors": [],
+  "passed": true
+}

@@ -1,0 +1,57 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "profile": {
+    "key": "tibia-860-v2-custom-extended",
+    "client_version": 860,
+    "label": "Tibia 8.60 v2 customizado com features OTFI",
+    "dat_signature": "0x4C2C7993",
+    "spr_signature": "0x4C220594",
+    "metadata_reader": 5,
+    "otb_version_hint": "8.60"
+  },
+  "category": "items",
+  "id_kind": "server",
+  "requested_ids": [
+    25565
+  ],
+  "output_dir": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-reference-25565-20261023",
+  "exported_count": 1,
+  "exported": [
+    {
+      "requested_id": 25565,
+      "client_id": 24680,
+      "server_ids": [
+        25565
+      ],
+      "name": "Stone wall",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        271286,
+        271287,
+        271288,
+        271289
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-reference-25565-20261023\\server-25565_client-24680_stone-wall.png",
+      "size": 1328,
+      "sha256": "E26B55442936E6F07F47B922583981D455036BB5B5F0B4EB2A46C6668A053B20"
+    }
+  ],
+  "sources": {
+    "dat": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.dat",
+      "sha256": "A66BD59B94A1A3CD9A30D288AF32B789E0DADFFA3B4030FE0DFEF809F6FC98FA"
+    },
+    "spr": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.spr",
+      "sha256": "FF36E697658BEA2E1C87DC3F0FAB7883FD322F6B5F0F8A19048E53ED6AF6FF01"
+    }
+  },
+  "passed": true
+}

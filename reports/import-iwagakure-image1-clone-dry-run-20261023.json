@@ -1,0 +1,64 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "manifest": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\import-iwagakure-image1-clone-20261023.csv",
+  "item_count": 1,
+  "target_server_id_range": [
+    26797,
+    26797
+  ],
+  "target_client_id_range": [
+    25912,
+    25912
+  ],
+  "new_sprite_count": 1,
+  "sprite_id_range": [
+    292564,
+    292564
+  ],
+  "items": [
+    {
+      "sequence": 1,
+      "source_server_id": 25564,
+      "source_client_id": 24679,
+      "target_server_id": 26797,
+      "target_client_id": 25912,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\image1.png",
+      "source_sha256": "1D857C60C0D4D211D3331140A6D3DEF1F58FA4BF989FD0DFA0A77865A0738F62",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        292564,
+        292564
+      ],
+      "sprite_hash": "3A454119F33B72C645A0306F43F45C5A"
+    }
+  ],
+  "xml": {
+    "source_definitions": 1,
+    "target_definitions_written": 1,
+    "target_definitions_already_exact": 0,
+    "target_ids": [
+      26797
+    ]
+  },
+  "map_scan": {
+    "tiles_scanned": 7824286,
+    "item_nodes_scanned": 2105107
+  },
+  "dry_run": true,
+  "passed": true
+}

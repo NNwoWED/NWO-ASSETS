@@ -1,0 +1,80 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "profile": {
+    "key": "tibia-860-v2-custom-extended",
+    "client_version": 860,
+    "label": "Tibia 8.60 v2 customizado com features OTFI",
+    "dat_signature": "0x4C2C7993",
+    "spr_signature": "0x4C220594",
+    "metadata_reader": 5,
+    "otb_version_hint": "8.60"
+  },
+  "category": "items",
+  "id_kind": "server",
+  "requested_ids": [
+    25565,
+    25199
+  ],
+  "output_dir": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwa-city-references-20261023",
+  "exported_count": 2,
+  "exported": [
+    {
+      "requested_id": 25565,
+      "client_id": 24680,
+      "server_ids": [
+        25565
+      ],
+      "name": "Stone wall",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        271286,
+        271287,
+        271288,
+        271289
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwa-city-references-20261023\\server-25565_client-24680_stone-wall.png",
+      "size": 1328,
+      "sha256": "E26B55442936E6F07F47B922583981D455036BB5B5F0B4EB2A46C6668A053B20"
+    },
+    {
+      "requested_id": 25199,
+      "client_id": 24314,
+      "server_ids": [
+        25199
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        236390
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwa-city-references-20261023\\server-25199_client-24314.png",
+      "size": 125,
+      "sha256": "1740774F52E68C697524C8864FE8718CCBF5BF4EAA1A03296CD3644DF4BB9002"
+    }
+  ],
+  "sources": {
+    "dat": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.dat",
+      "sha256": "AD0A9ADBFEE5F5D0155A5ECCE0AF61CBC01D6384FADE2FCFCA9AA7DAB15BA25C"
+    },
+    "spr": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.spr",
+      "sha256": "BD71A0BFBF499F316BF1A3D6734EDD9AA214A0A90D92215C61EFAF19B4EA33C4"
+    }
+  },
+  "passed": true
+}

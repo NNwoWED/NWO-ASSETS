@@ -1,0 +1,57 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "profile": {
+    "key": "tibia-860-v2-custom-extended",
+    "client_version": 860,
+    "label": "Tibia 8.60 v2 customizado com features OTFI",
+    "dat_signature": "0x4C2C7993",
+    "spr_signature": "0x4C220594",
+    "metadata_reader": 5,
+    "otb_version_hint": "8.60"
+  },
+  "category": "items",
+  "id_kind": "server",
+  "requested_ids": [
+    25599
+  ],
+  "output_dir": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\sand-gravel-reference-25599-20261023",
+  "exported_count": 1,
+  "exported": [
+    {
+      "requested_id": 25599,
+      "client_id": 24714,
+      "server_ids": [
+        25599
+      ],
+      "name": "Sand Gravel",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 2,
+      "pattern_y": 2,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        276719,
+        276720,
+        276721,
+        276722
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\sand-gravel-reference-25599-20261023\\server-25599_client-24714_sand-gravel.png",
+      "size": 5025,
+      "sha256": "EE968DEC6E6D08816559F66D86E8C4606A10F8DB7E1B2E0F8F9A689137DFDDBA"
+    }
+  ],
+  "sources": {
+    "dat": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.dat",
+      "sha256": "316955322BBF62D2F1FF4F188D22B3A65D1697890F542076E22360C95CE677FC"
+    },
+    "spr": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.spr",
+      "sha256": "D5EE40B116423F3833A6A158A051E593B5401062F56F028751AEBAF56BE52DCC"
+    }
+  },
+  "passed": true
+}

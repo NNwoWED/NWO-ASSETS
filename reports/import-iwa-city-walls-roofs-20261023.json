@@ -1,0 +1,3416 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "manifest": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\import-iwa-city-walls-roofs-20261023.csv",
+  "item_count": 107,
+  "target_server_id_range": [
+    26827,
+    26933
+  ],
+  "target_client_id_range": [
+    25942,
+    26048
+  ],
+  "new_sprite_count": 505,
+  "sprite_id_range": [
+    292677,
+    293181
+  ],
+  "items": [
+    {
+      "sequence": 1,
+      "source_server_id": 25565,
+      "source_client_id": 24680,
+      "target_server_id": 26827,
+      "target_client_id": 25942,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede e telhado pra city iwa\\1.png",
+      "source_sha256": "FE6DF123A8D7241E479F91EA7D152D1EA933A4DA73C1760278701B1AB0C64A84",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        292677,
+        292680
+      ],
+      "sprite_hash": "5D2F007BA02D149413762B4B389772E4"
+    },
+    {
+      "sequence": 2,
+      "source_server_id": 25565,
+      "source_client_id": 24680,
+      "target_server_id": 26828,
+      "target_client_id": 25943,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede e telhado pra city iwa\\2.png",
+      "source_sha256": "86DB1B8D7D38AAAF7C8BE79CC6021CD2A2E05C00A59C3FD43AEF0EAF7E58A98B",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        292681,
+        292684
+      ],
+      "sprite_hash": "22C95E036387C7EFF90027BC1D246C24"
+    },
+    {
+      "sequence": 3,
+      "source_server_id": 25565,
+      "source_client_id": 24680,
+      "target_server_id": 26829,
+      "target_client_id": 25944,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede e telhado pra city iwa\\3.png",
+      "source_sha256": "D56ABEDDA5D7D507D353C240C6B6CD0C5FC0FBFB5FA5D250E3C6F540C77463A1",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        292685,
+        292688
+      ],
+      "sprite_hash": "CA838218F59938DB1F114100E9930145"
+    },
+    {
+      "sequence": 4,
+      "source_server_id": 11864,
+      "source_client_id": 10987,
+      "target_server_id": 26830,
+      "target_client_id": 25945,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede e telhado pra city iwa\\4.png",
+      "source_sha256": "32AE3B386DC0BF07737C04041CC8864EBAD05CA333FCD6DCC58DC168BDC182BC",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        292689,
+        292692
+      ],
+      "sprite_hash": "DD4D8E14445A844A40344AF557B1AD5F"
+    },
+    {
+      "sequence": 5,
+      "source_server_id": 11865,
+      "source_client_id": 10988,
+      "target_server_id": 26831,
+      "target_client_id": 25946,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede e telhado pra city iwa\\5.png",
+      "source_sha256": "67A3217C176D83CA7662BA5CC062359CC79F69E7CA27E4D4F75A0540951E651F",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 3,
+      "sprite_id_range": [
+        292693,
+        292695
+      ],
+      "sprite_hash": "864144224888F28D772A823E6C113228"
+    },
+    {
+      "sequence": 6,
+      "source_server_id": 11866,
+      "source_client_id": 10989,
+      "target_server_id": 26832,
+      "target_client_id": 25947,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede e telhado pra city iwa\\6.png",
+      "source_sha256": "F7283A338FCFDE391A7A49506A4B48FA24409F4042EB960C1A1CF2ECA213D4B0",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 3,
+      "sprite_id_range": [
+        292696,
+        292698
+      ],
+      "sprite_hash": "2BEE9B683672EDA4937C89C8899D9B10"
+    },
+    {
+      "sequence": 7,
+      "source_server_id": 11867,
+      "source_client_id": 10990,
+      "target_server_id": 26833,
+      "target_client_id": 25948,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede e telhado pra city iwa\\7.png",
+      "source_sha256": "B115C031A1A882591B5104B2F7FE708360415109FF2CF064B62B19D1156CBB0F",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        292699,
+        292702
+      ],
+      "sprite_hash": "AD8B5F3C14BD83282EB6AA0AF749D0C0"
+    },
+    {
+      "sequence": 8,
+      "source_server_id": 11868,
+      "source_client_id": 10991,
+      "target_server_id": 26834,
+      "target_client_id": 25949,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede e telhado pra city iwa\\8.png",
+      "source_sha256": "19466BD7084ADF127BC06E33290A0BA4E4C2FFADA500192A5641D93557B3110A",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        292703,
+        292706
+      ],
+      "sprite_hash": "413724603C3C7BD079FB51DB3E00E6D7"
+    },
+    {
+      "sequence": 9,
+      "source_server_id": 11869,
+      "source_client_id": 10992,
+      "target_server_id": 26835,
+      "target_client_id": 25950,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede e telhado pra city iwa\\9.png",
+      "source_sha256": "A095BB6FC9179FDB951C1A6320E536C8F39F99BB6FD5CF8809D0612EC4E684A2",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        292707,
+        292710
+      ],
+      "sprite_hash": "7A2A2ADA19AD301BC652A1432D8FD48E"
+    },
+    {
+      "sequence": 10,
+      "source_server_id": 25199,
+      "source_client_id": 24314,
+      "target_server_id": 26836,
+      "target_client_id": 25951,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede e telhado pra city iwa\\20.png",
+      "source_sha256": "AEA7EE83F54D622673F3E35B3A112CE63913EAE89023FF1B5C372A2DC708EB2C",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        292711,
+        292711
+      ],
+      "sprite_hash": "B0949A162CA775445997B6859862B6E5"
+    },
+    {
+      "sequence": 11,
+      "source_server_id": 25565,
+      "source_client_id": 24680,
+      "target_server_id": 26837,
+      "target_client_id": 25952,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede e telhado pra city iwa\\canto.png",
+      "source_sha256": "CE03BE4367D5D31842A14E6D380E5A8ECA1F013271A44028B32698A7858D0825",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        292712,
+        292715
+      ],
+      "sprite_hash": "E4CDD95914130BE0DBD846F25AF1DD3B"
+    },
+    {
+      "sequence": 12,
+      "source_server_id": 25565,
+      "source_client_id": 24680,
+      "target_server_id": 26838,
+      "target_client_id": 25953,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede e telhado pra city iwa\\parede de terra.png",
+      "source_sha256": "6A1C02F8DA3A66B037C48000EBC9F477ABBF382F9BA47B24B11920DF9B85793F",
+      "image_size": [
+        192,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 3,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 12,
+      "sprite_id_range": [
+        292716,
+        292727
+      ],
+      "sprite_hash": "0102E351ED27DA12EF9F677251E68B57"
+    },
+    {
+      "sequence": 13,
+      "source_server_id": 25565,
+      "source_client_id": 24680,
+      "target_server_id": 26839,
+      "target_client_id": 25954,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede e telhado pra city iwa\\parede de terra de lado.png",
+      "source_sha256": "82E0CD072C275844E7910930E1A6B23DD637D08668AD0809CC9CFA5CC1C372B6",
+      "image_size": [
+        192,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 3,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 12,
+      "sprite_id_range": [
+        292728,
+        292739
+      ],
+      "sprite_hash": "5BEF92E9334A53E1837FFACE16982185"
+    },
+    {
+      "sequence": 14,
+      "source_server_id": 25565,
+      "source_client_id": 24680,
+      "target_server_id": 26840,
+      "target_client_id": 25955,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede e telhado pra city iwa\\piru.png",
+      "source_sha256": "17F571A699DB1A13315E7C9AFA3D7B8B831A1593F073CAE669E49D88639B5CFF",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        292740,
+        292743
+      ],
+      "sprite_hash": "2C35E8476FE22BD62C8DBF4F05EA74D5"
+    },
+    {
+      "sequence": 15,
+      "source_server_id": 25565,
+      "source_client_id": 24680,
+      "target_server_id": 26841,
+      "target_client_id": 25956,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede e telhado pra city iwa\\01_arenito_dourado\\1.png",
+      "source_sha256": "611AAD4848B94E9E8B88FE5831DBCB8FC831F7C894B38B4FC4148BA0C14B97A7",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        292744,
+        292747
+      ],
+      "sprite_hash": "97FB50594CA9A725A1BFE897224B0F5E"
+    },
+    {
+      "sequence": 16,
+      "source_server_id": 25565,
+      "source_client_id": 24680,
+      "target_server_id": 26842,
+      "target_client_id": 25957,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede e telhado pra city iwa\\01_arenito_dourado\\2.png",
+      "source_sha256": "3DE6DACACC2A0C6803D4869D70EA32FCEC29659DA9B4A8193E6B56AC5A09CCF7",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        292748,
+        292751
+      ],
+      "sprite_hash": "2324C4B3A4C92DC2E1897FD94F243117"
+    },
+    {
+      "sequence": 17,
+      "source_server_id": 25565,
+      "source_client_id": 24680,
+      "target_server_id": 26843,
+      "target_client_id": 25958,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede e telhado pra city iwa\\01_arenito_dourado\\3.png",
+      "source_sha256": "061AD66F0EB5E64E836B7BF40AEAF87C1E675815BE22E83A52DDA01689FFBA04",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        292752,
+        292755
+      ],
+      "sprite_hash": "43F3F534D415D0D61F5832A03C99BDD9"
+    },
+    {
+      "sequence": 18,
+      "source_server_id": 11864,
+      "source_client_id": 10987,
+      "target_server_id": 26844,
+      "target_client_id": 25959,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede e telhado pra city iwa\\01_arenito_dourado\\4.png",
+      "source_sha256": "AEB833F1CCC9232D0642C0EC91267FC01798A74520A0274DBD36AC12C0AB143D",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        292756,
+        292759
+      ],
+      "sprite_hash": "56561FF6AC47A4EFFC65F9188791B23E"
+    },
+    {
+      "sequence": 19,
+      "source_server_id": 11865,
+      "source_client_id": 10988,
+      "target_server_id": 26845,
+      "target_client_id": 25960,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede e telhado pra city iwa\\01_arenito_dourado\\5.png",
+      "source_sha256": "3444730C6F3E217FA77D85C8E159EB9DB429472B22F56F3C2709EA759268617A",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 3,
+      "sprite_id_range": [
+        292760,
+        292762
+      ],
+      "sprite_hash": "6AF853C840B7D5B7143712B8633C6DAB"
+    },
+    {
+      "sequence": 20,
+      "source_server_id": 11866,
+      "source_client_id": 10989,
+      "target_server_id": 26846,
+      "target_client_id": 25961,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede e telhado pra city iwa\\01_arenito_dourado\\6.png",
+      "source_sha256": "2435F81CA43940BA1617291B006FD30C9FAE036A50B06617CF3A183391DB8B85",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 3,
+      "sprite_id_range": [
+        292763,
+        292765
+      ],
+      "sprite_hash": "0E062FD8E02CE8392E15B13471737ABF"
+    },
+    {
+      "sequence": 21,
+      "source_server_id": 11867,
+      "source_client_id": 10990,
+      "target_server_id": 26847,
+      "target_client_id": 25962,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede e telhado pra city iwa\\01_arenito_dourado\\7.png",
+      "source_sha256": "C22B654646994713D3256CEF3B1F15AADAE73EE350EFE036F069B5CFD3B26685",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        292766,
+        292769
+      ],
+      "sprite_hash": "D304C86E00A6465CF973A0225270014D"
+    },
+    {
+      "sequence": 22,
+      "source_server_id": 11868,
+      "source_client_id": 10991,
+      "target_server_id": 26848,
+      "target_client_id": 25963,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede e telhado pra city iwa\\01_arenito_dourado\\8.png",
+      "source_sha256": "B3A7C2FE5E81CB5A88AD7F53131D6AE850AC60982CBE1C3FE66E523B5BE4FB1E",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        292770,
+        292773
+      ],
+      "sprite_hash": "DA15B4A90CA529996727C8516EE1E31B"
+    },
+    {
+      "sequence": 23,
+      "source_server_id": 11869,
+      "source_client_id": 10992,
+      "target_server_id": 26849,
+      "target_client_id": 25964,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede e telhado pra city iwa\\01_arenito_dourado\\9.png",
+      "source_sha256": "7F3FEF6F3FEB7713998C81E6C79782DAE772CBA5A68943EB47DCD016811744BF",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        292774,
+        292777
+      ],
+      "sprite_hash": "CA9E0F1BB1731867E632E93B28464641"
+    },
+    {
+      "sequence": 24,
+      "source_server_id": 25199,
+      "source_client_id": 24314,
+      "target_server_id": 26850,
+      "target_client_id": 25965,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede e telhado pra city iwa\\01_arenito_dourado\\20.png",
+      "source_sha256": "9C8666DDE1877BF5D7BB4A257D17620AD9F5A53669AD3AD049D04255B363C159",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        292778,
+        292778
+      ],
+      "sprite_hash": "F8B79CB5DA66B0430C57468FC3CB583C"
+    },
+    {
+      "sequence": 25,
+      "source_server_id": 25565,
+      "source_client_id": 24680,
+      "target_server_id": 26851,
+      "target_client_id": 25966,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede e telhado pra city iwa\\01_arenito_dourado\\canto.png",
+      "source_sha256": "4B6D3DE635798EC1399B3EFD5BD2AA627A152F5ED0FD4B1C3E4F432CD209F281",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        292779,
+        292782
+      ],
+      "sprite_hash": "CAE3B4025D1916B4F7D022887479EB1C"
+    },
+    {
+      "sequence": 26,
+      "source_server_id": 25565,
+      "source_client_id": 24680,
+      "target_server_id": 26852,
+      "target_client_id": 25967,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede e telhado pra city iwa\\01_arenito_dourado\\parede de terra.png",
+      "source_sha256": "B25131DDFF7A986CBD06EFFBA9F0491E3A18B95D84175F01D00E3AB4704F8DE5",
+      "image_size": [
+        192,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 3,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 12,
+      "sprite_id_range": [
+        292783,
+        292794
+      ],
+      "sprite_hash": "100A262367EFAA1B849C1A543DE028E0"
+    },
+    {
+      "sequence": 27,
+      "source_server_id": 25565,
+      "source_client_id": 24680,
+      "target_server_id": 26853,
+      "target_client_id": 25968,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede e telhado pra city iwa\\01_arenito_dourado\\parede de terra2.png",
+      "source_sha256": "80BA136F9C9A3CD64C19FCBA2EC7CD4EB99424EA81DE37E55F9468684D7D53CA",
+      "image_size": [
+        192,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 3,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 12,
+      "sprite_id_range": [
+        292795,
+        292806
+      ],
+      "sprite_hash": "73B9BA379BFAB55BE4EEC0788FA2D075"
+    },
+    {
+      "sequence": 28,
+      "source_server_id": 25565,
+      "source_client_id": 24680,
+      "target_server_id": 26854,
+      "target_client_id": 25969,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede e telhado pra city iwa\\01_arenito_dourado\\piru.png",
+      "source_sha256": "9D4CF757EA99271B4D9CCB7D0B072151BCDB6FA80C4E28F9633598A5879FF31D",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        292807,
+        292810
+      ],
+      "sprite_hash": "04C5964307E2C8A61687D4AA575EAD52"
+    },
+    {
+      "sequence": 29,
+      "source_server_id": 25565,
+      "source_client_id": 24680,
+      "target_server_id": 26855,
+      "target_client_id": 25970,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede e telhado pra city iwa\\02_areia_palha\\1.png",
+      "source_sha256": "606210FEE0E83583B33513305522EDD4E89CCA3E555DE4CADA5672C18F6A8A60",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        292811,
+        292814
+      ],
+      "sprite_hash": "93A5E288E4D624EFEDD975461CC478E0"
+    },
+    {
+      "sequence": 30,
+      "source_server_id": 25565,
+      "source_client_id": 24680,
+      "target_server_id": 26856,
+      "target_client_id": 25971,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede e telhado pra city iwa\\02_areia_palha\\2.png",
+      "source_sha256": "74103CD333E26ED4C7CBFB51422CE793A57437FEBC7B4F99FFAAE1B634298347",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        292815,
+        292818
+      ],
+      "sprite_hash": "178EB95DD5B0074EF6D7EF60DB9910E1"
+    },
+    {
+      "sequence": 31,
+      "source_server_id": 25565,
+      "source_client_id": 24680,
+      "target_server_id": 26857,
+      "target_client_id": 25972,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede e telhado pra city iwa\\02_areia_palha\\3.png",
+      "source_sha256": "F09886F0A479D87982B19772BE30FFB5BE87D435D7D5AB418FA1A25D5F6D06B1",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        292819,
+        292822
+      ],
+      "sprite_hash": "BA2EBBBB91CCB090614F242B5B7012DA"
+    },
+    {
+      "sequence": 32,
+      "source_server_id": 11864,
+      "source_client_id": 10987,
+      "target_server_id": 26858,
+      "target_client_id": 25973,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede e telhado pra city iwa\\02_areia_palha\\4.png",
+      "source_sha256": "CC2675521094A10AF848AC541DE9655655139748273F28E1B06B6FB7FD5CB1DD",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        292823,
+        292826
+      ],
+      "sprite_hash": "CB244D66BF95486236B6279A18838B70"
+    },
+    {
+      "sequence": 33,
+      "source_server_id": 11865,
+      "source_client_id": 10988,
+      "target_server_id": 26859,
+      "target_client_id": 25974,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede e telhado pra city iwa\\02_areia_palha\\5.png",
+      "source_sha256": "38D24BD756BFEE55FE7E46DDF7432871E09ABF2B6568E53FB52A5AAF8FBB0E9E",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 3,
+      "sprite_id_range": [
+        292827,
+        292829
+      ],
+      "sprite_hash": "8F3481DFC79102A0C3EE1447C8214BEA"
+    },
+    {
+      "sequence": 34,
+      "source_server_id": 11866,
+      "source_client_id": 10989,
+      "target_server_id": 26860,
+      "target_client_id": 25975,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede e telhado pra city iwa\\02_areia_palha\\6.png",
+      "source_sha256": "EA2E22F6579452565109749B86D576E806FA0FD36888747CD4043D1AA5B1182E",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 3,
+      "sprite_id_range": [
+        292830,
+        292832
+      ],
+      "sprite_hash": "DC8B2B5EB2E83CE15BC677034463EC3E"
+    },
+    {
+      "sequence": 35,
+      "source_server_id": 11867,
+      "source_client_id": 10990,
+      "target_server_id": 26861,
+      "target_client_id": 25976,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede e telhado pra city iwa\\02_areia_palha\\7.png",
+      "source_sha256": "D69934DE97171141B9FAE5DE651F20D209ABFCB6776E45221DB6C546C0FB314E",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        292833,
+        292836
+      ],
+      "sprite_hash": "C84E96DCE908CFF451C295F420DD3C4F"
+    },
+    {
+      "sequence": 36,
+      "source_server_id": 11868,
+      "source_client_id": 10991,
+      "target_server_id": 26862,
+      "target_client_id": 25977,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede e telhado pra city iwa\\02_areia_palha\\8.png",
+      "source_sha256": "844CBF63339C21420FF1EFFDD9366B32EFA3A279A2617360C7A4B8CF64B5E89A",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        292837,
+        292840
+      ],
+      "sprite_hash": "BA8CD606D7776A8D4E3A7CAAB1C7D7DF"
+    },
+    {
+      "sequence": 37,
+      "source_server_id": 11869,
+      "source_client_id": 10992,
+      "target_server_id": 26863,
+      "target_client_id": 25978,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede e telhado pra city iwa\\02_areia_palha\\9.png",
+      "source_sha256": "D085447659B22D0CD9857EF19CADA7565E091139DE7F23A66CB8FA5F492245C2",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        292841,
+        292844
+      ],
+      "sprite_hash": "68749B3AF827F53E931D1FB76E74FBD6"
+    },
+    {
+      "sequence": 38,
+      "source_server_id": 25199,
+      "source_client_id": 24314,
+      "target_server_id": 26864,
+      "target_client_id": 25979,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede e telhado pra city iwa\\02_areia_palha\\20.png",
+      "source_sha256": "AEE4C9504454B42B6DA05712839E5B4B8F103CF61EE81235758F0DAF76D8A79A",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        292845,
+        292845
+      ],
+      "sprite_hash": "8F55F5D84CEAD5E1E0829B44B8C58B5A"
+    },
+    {
+      "sequence": 39,
+      "source_server_id": 25565,
+      "source_client_id": 24680,
+      "target_server_id": 26865,
+      "target_client_id": 25980,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede e telhado pra city iwa\\02_areia_palha\\canto.png",
+      "source_sha256": "04181AD27B51EC4E0C4E983ACBAE96C7DC340924D3B9C2298B94ABF18C091A4A",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        292846,
+        292849
+      ],
+      "sprite_hash": "64C52A976C3CC7B4DD38F60EE5089E25"
+    },
+    {
+      "sequence": 40,
+      "source_server_id": 25565,
+      "source_client_id": 24680,
+      "target_server_id": 26866,
+      "target_client_id": 25981,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede e telhado pra city iwa\\02_areia_palha\\parede de terra.png",
+      "source_sha256": "E6DCD75F9C2C60F14654982A75F05B31C64A95D93E1ED3D8AA104E4DD48D439E",
+      "image_size": [
+        192,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 3,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 12,
+      "sprite_id_range": [
+        292850,
+        292861
+      ],
+      "sprite_hash": "851E9EC369D0CA1F2DA04CCCFCA2375E"
+    },
+    {
+      "sequence": 41,
+      "source_server_id": 25565,
+      "source_client_id": 24680,
+      "target_server_id": 26867,
+      "target_client_id": 25982,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede e telhado pra city iwa\\02_areia_palha\\parede de terra2.png",
+      "source_sha256": "FF83F4DF782F7FE5B897D2717D236BD44237391EBB24753E9288B2D2F2BFE8D0",
+      "image_size": [
+        192,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 3,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 12,
+      "sprite_id_range": [
+        292862,
+        292873
+      ],
+      "sprite_hash": "B1178D83F9194CEE32DE63E8B59BA5E6"
+    },
+    {
+      "sequence": 42,
+      "source_server_id": 25565,
+      "source_client_id": 24680,
+      "target_server_id": 26868,
+      "target_client_id": 25983,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede e telhado pra city iwa\\02_areia_palha\\piru.png",
+      "source_sha256": "F33E62D5823A20B612BB7E77CF7572F1846A5FE367DAADD9B16A6C2BB066E391",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        292874,
+        292877
+      ],
+      "sprite_hash": "A3CDD9C894D9D4DC63FA2F5FAABA9CE5"
+    },
+    {
+      "sequence": 43,
+      "source_server_id": 25565,
+      "source_client_id": 24680,
+      "target_server_id": 26869,
+      "target_client_id": 25984,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede e telhado pra city iwa\\03_ocre_queimado\\1.png",
+      "source_sha256": "545541CF8231FFBD5BDEA964BF6DD1C8F44B6391488CE7755B99427221E3AD4C",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        292878,
+        292881
+      ],
+      "sprite_hash": "78E1E39D6B3983AD910B2EC0B9328DC4"
+    },
+    {
+      "sequence": 44,
+      "source_server_id": 25565,
+      "source_client_id": 24680,
+      "target_server_id": 26870,
+      "target_client_id": 25985,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede e telhado pra city iwa\\03_ocre_queimado\\2.png",
+      "source_sha256": "21890D93D39D3B77743814B9D8F575F072A332455EF3310663AFBA9BC8E95668",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        292882,
+        292885
+      ],
+      "sprite_hash": "40D3DBDE676364AE9F4C918F52F8D81C"
+    },
+    {
+      "sequence": 45,
+      "source_server_id": 25565,
+      "source_client_id": 24680,
+      "target_server_id": 26871,
+      "target_client_id": 25986,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede e telhado pra city iwa\\03_ocre_queimado\\3.png",
+      "source_sha256": "0D04B8ECF08E1C2EFC2BEB24363C1281302522534925D68B4390C4B73875EEF6",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        292886,
+        292889
+      ],
+      "sprite_hash": "1688D65CF45995D0BF1316D2F3909838"
+    },
+    {
+      "sequence": 46,
+      "source_server_id": 11864,
+      "source_client_id": 10987,
+      "target_server_id": 26872,
+      "target_client_id": 25987,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede e telhado pra city iwa\\03_ocre_queimado\\4.png",
+      "source_sha256": "4BA20B25D54523D81DE02F04344B339AB8188548E4BAFC9163A3D7842EDF1BA0",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        292890,
+        292893
+      ],
+      "sprite_hash": "2D155BBDC71487F30F54ABA0F36CB3FE"
+    },
+    {
+      "sequence": 47,
+      "source_server_id": 11865,
+      "source_client_id": 10988,
+      "target_server_id": 26873,
+      "target_client_id": 25988,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede e telhado pra city iwa\\03_ocre_queimado\\5.png",
+      "source_sha256": "C1037727BF732E99B1F121D4F610106AF13F187CCF3C7AAA3691CF854386BEEB",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 3,
+      "sprite_id_range": [
+        292894,
+        292896
+      ],
+      "sprite_hash": "C3C9A1E38ECF235E201E4F359F9FF3AA"
+    },
+    {
+      "sequence": 48,
+      "source_server_id": 11866,
+      "source_client_id": 10989,
+      "target_server_id": 26874,
+      "target_client_id": 25989,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede e telhado pra city iwa\\03_ocre_queimado\\6.png",
+      "source_sha256": "C2EF99975F9F4C2B75E6F795FBE76D6CFCB234EB3301092B858671D1443DBF97",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 3,
+      "sprite_id_range": [
+        292897,
+        292899
+      ],
+      "sprite_hash": "BA6B491FB38A62546B3FF3A3C1D1C10B"
+    },
+    {
+      "sequence": 49,
+      "source_server_id": 11867,
+      "source_client_id": 10990,
+      "target_server_id": 26875,
+      "target_client_id": 25990,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede e telhado pra city iwa\\03_ocre_queimado\\7.png",
+      "source_sha256": "94591ED6B89A104C6962FDBC4487E0CAD9500396B2975D836F4846737484422C",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        292900,
+        292903
+      ],
+      "sprite_hash": "4FB58CAC7D05DC7E340C68E098ED1C6C"
+    },
+    {
+      "sequence": 50,
+      "source_server_id": 11868,
+      "source_client_id": 10991,
+      "target_server_id": 26876,
+      "target_client_id": 25991,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede e telhado pra city iwa\\03_ocre_queimado\\8.png",
+      "source_sha256": "3ED472FA1F9900A8718A5E40222FF35D311F971F588E6E8DF5C632F14ABCEC19",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        292904,
+        292907
+      ],
+      "sprite_hash": "E3B0F95612143FC8E25B3A6796D86975"
+    },
+    {
+      "sequence": 51,
+      "source_server_id": 11869,
+      "source_client_id": 10992,
+      "target_server_id": 26877,
+      "target_client_id": 25992,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede e telhado pra city iwa\\03_ocre_queimado\\9.png",
+      "source_sha256": "13F47A95EF30B85507379AF45207964AED0795B24DC9F514C954866351244EA8",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        292908,
+        292911
+      ],
+      "sprite_hash": "3DF6B32095D169784A2E1B801E68DF3C"
+    },
+    {
+      "sequence": 52,
+      "source_server_id": 25199,
+      "source_client_id": 24314,
+      "target_server_id": 26878,
+      "target_client_id": 25993,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede e telhado pra city iwa\\03_ocre_queimado\\20.png",
+      "source_sha256": "2D3C89F6C29FE7DD9B0890AD74D622307095794D84862F45028A13CE26F6276D",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        292912,
+        292912
+      ],
+      "sprite_hash": "B905C09C320E29EA31AF71AE8EAC851D"
+    },
+    {
+      "sequence": 53,
+      "source_server_id": 25565,
+      "source_client_id": 24680,
+      "target_server_id": 26879,
+      "target_client_id": 25994,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede e telhado pra city iwa\\03_ocre_queimado\\canto.png",
+      "source_sha256": "32C3BDF171BA9317F09E19F2FF488FE05878C6AE7E02D27091B75ACA1D389919",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        292913,
+        292916
+      ],
+      "sprite_hash": "40F077426519A10C42D48E4824808AB4"
+    },
+    {
+      "sequence": 54,
+      "source_server_id": 25565,
+      "source_client_id": 24680,
+      "target_server_id": 26880,
+      "target_client_id": 25995,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede e telhado pra city iwa\\03_ocre_queimado\\parede de terra.png",
+      "source_sha256": "71444169BCFD1C7411F46EB53D4E95871FCC48069419BCD3CE9D16CAF16CD0D1",
+      "image_size": [
+        192,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 3,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 12,
+      "sprite_id_range": [
+        292917,
+        292928
+      ],
+      "sprite_hash": "E588CADABF40FDA41F4A9DA25BA2F76B"
+    },
+    {
+      "sequence": 55,
+      "source_server_id": 25565,
+      "source_client_id": 24680,
+      "target_server_id": 26881,
+      "target_client_id": 25996,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede e telhado pra city iwa\\03_ocre_queimado\\parede de terra2.png",
+      "source_sha256": "53AC901C848F74D40E8BEB26B4C5D83AF445B53170265D7ADB8624943B809450",
+      "image_size": [
+        192,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 3,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 12,
+      "sprite_id_range": [
+        292929,
+        292940
+      ],
+      "sprite_hash": "A439FD3DC519E1487D274BDC88A0E57D"
+    },
+    {
+      "sequence": 56,
+      "source_server_id": 25565,
+      "source_client_id": 24680,
+      "target_server_id": 26882,
+      "target_client_id": 25997,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede e telhado pra city iwa\\03_ocre_queimado\\piru.png",
+      "source_sha256": "ADDEFDF3201B7A3B7E8BDE2FCAEE8B53ECF0BE725BC9193A58697753BA295F34",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        292941,
+        292944
+      ],
+      "sprite_hash": "CF4AB6CFF80A5D9D08BE6A0DA0BB9B3A"
+    },
+    {
+      "sequence": 57,
+      "source_server_id": 25565,
+      "source_client_id": 24680,
+      "target_server_id": 26883,
+      "target_client_id": 25998,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede e telhado pra city iwa\\04_terracota\\1.png",
+      "source_sha256": "B187FD324BB9478F7D165F7E2FF7430ED0DAE692970516E21320FA3712A653D2",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        292945,
+        292948
+      ],
+      "sprite_hash": "E81CDBB39740CF513D2F8BADD3ADF308"
+    },
+    {
+      "sequence": 58,
+      "source_server_id": 25565,
+      "source_client_id": 24680,
+      "target_server_id": 26884,
+      "target_client_id": 25999,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede e telhado pra city iwa\\04_terracota\\2.png",
+      "source_sha256": "ECD40801A0A1B8118D1FED5D96F13B1E61D400AAA39C3F20E21883860DFA4CF1",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        292949,
+        292952
+      ],
+      "sprite_hash": "562C980956404F3D2951306B5074A748"
+    },
+    {
+      "sequence": 59,
+      "source_server_id": 25565,
+      "source_client_id": 24680,
+      "target_server_id": 26885,
+      "target_client_id": 26000,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede e telhado pra city iwa\\04_terracota\\3.png",
+      "source_sha256": "D8FDC34A63DC10E69A852A855ECF74EA0554B4142E995AF09DE9BD1657FE5508",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        292953,
+        292956
+      ],
+      "sprite_hash": "BE40EFF0B3DE5CDCEE2244B01D5744C9"
+    },
+    {
+      "sequence": 60,
+      "source_server_id": 11864,
+      "source_client_id": 10987,
+      "target_server_id": 26886,
+      "target_client_id": 26001,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede e telhado pra city iwa\\04_terracota\\4.png",
+      "source_sha256": "C62448BA3508F524CAE05F3FDB3729B1EE10B91AC466E9F1876AE463F5B0850A",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        292957,
+        292960
+      ],
+      "sprite_hash": "4216DB3596991A0844C849314182283D"
+    },
+    {
+      "sequence": 61,
+      "source_server_id": 11865,
+      "source_client_id": 10988,
+      "target_server_id": 26887,
+      "target_client_id": 26002,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede e telhado pra city iwa\\04_terracota\\5.png",
+      "source_sha256": "E64235797C4BFEB8C24E4DAE9AD824CF4E12E485BED57796CB8F242D66D4EA91",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 3,
+      "sprite_id_range": [
+        292961,
+        292963
+      ],
+      "sprite_hash": "6A2AF97D46A8D7A9A08B66FAFFB16D39"
+    },
+    {
+      "sequence": 62,
+      "source_server_id": 11866,
+      "source_client_id": 10989,
+      "target_server_id": 26888,
+      "target_client_id": 26003,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede e telhado pra city iwa\\04_terracota\\6.png",
+      "source_sha256": "E76803F61C0D0B5F3C84B3008DECC2E4261891487EA1696445E62B0EEA46D472",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 3,
+      "sprite_id_range": [
+        292964,
+        292966
+      ],
+      "sprite_hash": "54023ECE9DC047E7C89CDD05E5469596"
+    },
+    {
+      "sequence": 63,
+      "source_server_id": 11867,
+      "source_client_id": 10990,
+      "target_server_id": 26889,
+      "target_client_id": 26004,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede e telhado pra city iwa\\04_terracota\\7.png",
+      "source_sha256": "04522BBE5F181A80B3A9F89BFE2B34B026A31B4DDCF97FDD3FC46F9D7348A72A",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        292967,
+        292970
+      ],
+      "sprite_hash": "8C932D242A8F94113B4AF95D32530085"
+    },
+    {
+      "sequence": 64,
+      "source_server_id": 11868,
+      "source_client_id": 10991,
+      "target_server_id": 26890,
+      "target_client_id": 26005,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede e telhado pra city iwa\\04_terracota\\8.png",
+      "source_sha256": "7AA5BD9F5F2BB14C449FD48704CA4DD74623FB3790A25758A8210AEEA1B25954",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        292971,
+        292974
+      ],
+      "sprite_hash": "A393A2272D2254C99E0FE31DE7B78EAC"
+    },
+    {
+      "sequence": 65,
+      "source_server_id": 11869,
+      "source_client_id": 10992,
+      "target_server_id": 26891,
+      "target_client_id": 26006,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede e telhado pra city iwa\\04_terracota\\9.png",
+      "source_sha256": "B48C331FBB2BE69C5AF4928E1E5B7E55D1F433C513BA2EB0F7D7CDA02C36DAD5",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        292975,
+        292978
+      ],
+      "sprite_hash": "CE736BD8ACEC51A4F1FCBE5D6B2086F0"
+    },
+    {
+      "sequence": 66,
+      "source_server_id": 25199,
+      "source_client_id": 24314,
+      "target_server_id": 26892,
+      "target_client_id": 26007,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede e telhado pra city iwa\\04_terracota\\20.png",
+      "source_sha256": "F8CF6F349CFABCA8B24CF87BF66EC8F0793D984C57C4193567D5564779C33AD0",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        292979,
+        292979
+      ],
+      "sprite_hash": "704B8AB7A230269C834FC43C00198C6F"
+    },
+    {
+      "sequence": 67,
+      "source_server_id": 25565,
+      "source_client_id": 24680,
+      "target_server_id": 26893,
+      "target_client_id": 26008,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede e telhado pra city iwa\\04_terracota\\canto.png",
+      "source_sha256": "A63AE36A9AB402F28DABBC4D7A76FB6C239EB191AB141C298CBDE155D16540DE",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        292980,
+        292983
+      ],
+      "sprite_hash": "D50F48BFA32E6776DA8F1077F2FA2873"
+    },
+    {
+      "sequence": 68,
+      "source_server_id": 25565,
+      "source_client_id": 24680,
+      "target_server_id": 26894,
+      "target_client_id": 26009,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede e telhado pra city iwa\\04_terracota\\parede de terra.png",
+      "source_sha256": "BA740A29D36F5E43FA1FD96AE71837574DE96EDD94477464BA893FD18FE3F5A6",
+      "image_size": [
+        192,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 3,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 12,
+      "sprite_id_range": [
+        292984,
+        292995
+      ],
+      "sprite_hash": "7E57BC804627C7C85B71736841ACB59F"
+    },
+    {
+      "sequence": 69,
+      "source_server_id": 25565,
+      "source_client_id": 24680,
+      "target_server_id": 26895,
+      "target_client_id": 26010,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede e telhado pra city iwa\\04_terracota\\parede de terra2.png",
+      "source_sha256": "0DB3B06B337F065C40D890EE21F816E922065040ABBB76CDFF1D5D214E5DA990",
+      "image_size": [
+        192,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 3,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 12,
+      "sprite_id_range": [
+        292996,
+        293007
+      ],
+      "sprite_hash": "EE5FA4116AC87A8646C87CD94704260A"
+    },
+    {
+      "sequence": 70,
+      "source_server_id": 25565,
+      "source_client_id": 24680,
+      "target_server_id": 26896,
+      "target_client_id": 26011,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede e telhado pra city iwa\\04_terracota\\piru.png",
+      "source_sha256": "24C8A3B3A475B5C12CAFBABF6E5C418D127834A7938F2C03C477F373C6286C38",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        293008,
+        293011
+      ],
+      "sprite_hash": "B69D011E49C4E95AAECFDF93B87CCDD4"
+    },
+    {
+      "sequence": 71,
+      "source_server_id": 25565,
+      "source_client_id": 24680,
+      "target_server_id": 26897,
+      "target_client_id": 26012,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede e telhado pra city iwa\\05_oliva_seco\\1.png",
+      "source_sha256": "652598A3CBE996166E955ED84A80D5793D0347BDB142B0295A1656635BE76EA0",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        293012,
+        293015
+      ],
+      "sprite_hash": "FD800B9A62D17FAC8C74DE8F7843DDB1"
+    },
+    {
+      "sequence": 72,
+      "source_server_id": 25565,
+      "source_client_id": 24680,
+      "target_server_id": 26898,
+      "target_client_id": 26013,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede e telhado pra city iwa\\05_oliva_seco\\2.png",
+      "source_sha256": "6532316A67522E76BF839FD4D38E139CCBBE09035DBCB8ABF26773384A1FD070",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        293016,
+        293019
+      ],
+      "sprite_hash": "B06904A88869BCB429A4D2603124BFC6"
+    },
+    {
+      "sequence": 73,
+      "source_server_id": 25565,
+      "source_client_id": 24680,
+      "target_server_id": 26899,
+      "target_client_id": 26014,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede e telhado pra city iwa\\05_oliva_seco\\3.png",
+      "source_sha256": "47F4E39415261F1E7DECCE3710EB826BCACE5359143CBFD1A7DFFC59D3DA4CA1",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        293020,
+        293023
+      ],
+      "sprite_hash": "72957277E1F7B122500AE1EF87AD3DE9"
+    },
+    {
+      "sequence": 74,
+      "source_server_id": 11864,
+      "source_client_id": 10987,
+      "target_server_id": 26900,
+      "target_client_id": 26015,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede e telhado pra city iwa\\05_oliva_seco\\4.png",
+      "source_sha256": "40C612619EDECD728A17077432AC1B322BD760C7FA22464D4D27ADC25849B84C",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        293024,
+        293027
+      ],
+      "sprite_hash": "3E732CA77E9FD879CDC633775BD1BCC7"
+    },
+    {
+      "sequence": 75,
+      "source_server_id": 11865,
+      "source_client_id": 10988,
+      "target_server_id": 26901,
+      "target_client_id": 26016,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede e telhado pra city iwa\\05_oliva_seco\\5.png",
+      "source_sha256": "74E8BA3816832FAACF965F1114340BC9D301599D92A515FD6F516983062416A7",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 3,
+      "sprite_id_range": [
+        293028,
+        293030
+      ],
+      "sprite_hash": "09150D0DE098BC093A44962AF9CE86A5"
+    },
+    {
+      "sequence": 76,
+      "source_server_id": 11866,
+      "source_client_id": 10989,
+      "target_server_id": 26902,
+      "target_client_id": 26017,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede e telhado pra city iwa\\05_oliva_seco\\6.png",
+      "source_sha256": "C90C5ABE5AD7136E3749062817FDE94A0F579C44349710057710F0A0F67C7656",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 3,
+      "sprite_id_range": [
+        293031,
+        293033
+      ],
+      "sprite_hash": "92AD8F8DC89EDDEE35DF0D7A5B69D059"
+    },
+    {
+      "sequence": 77,
+      "source_server_id": 11867,
+      "source_client_id": 10990,
+      "target_server_id": 26903,
+      "target_client_id": 26018,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede e telhado pra city iwa\\05_oliva_seco\\7.png",
+      "source_sha256": "A884D50F12E41AAA16B8A541560B3A20692BDEC20A46A6492DE10D1D1A95E314",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        293034,
+        293037
+      ],
+      "sprite_hash": "564741A70F985DDD1497AE3A2E075413"
+    },
+    {
+      "sequence": 78,
+      "source_server_id": 11868,
+      "source_client_id": 10991,
+      "target_server_id": 26904,
+      "target_client_id": 26019,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede e telhado pra city iwa\\05_oliva_seco\\8.png",
+      "source_sha256": "A21193861F4B3CE27A2A2AF95DBA8236370F9443160E9825D0A6D74C348B15EA",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        293038,
+        293041
+      ],
+      "sprite_hash": "A546C7244A61F16EEA73CEA5165C28DB"
+    },
+    {
+      "sequence": 79,
+      "source_server_id": 11869,
+      "source_client_id": 10992,
+      "target_server_id": 26905,
+      "target_client_id": 26020,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede e telhado pra city iwa\\05_oliva_seco\\9.png",
+      "source_sha256": "C2A1CB99F815D80DEBEE5625EB6E6744BFE446ADE3B2053E3C51EADC90344033",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        293042,
+        293045
+      ],
+      "sprite_hash": "0F7485649FAFD0310308D5A79761655C"
+    },
+    {
+      "sequence": 80,
+      "source_server_id": 25199,
+      "source_client_id": 24314,
+      "target_server_id": 26906,
+      "target_client_id": 26021,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede e telhado pra city iwa\\05_oliva_seco\\20.png",
+      "source_sha256": "65746AC448C49A35B8B68AFFD76EF46154DF6BCA53F661660AE62A24B87F0FE4",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        293046,
+        293046
+      ],
+      "sprite_hash": "69C485F7F323E3E0D2888CE1593EEDD0"
+    },
+    {
+      "sequence": 81,
+      "source_server_id": 25565,
+      "source_client_id": 24680,
+      "target_server_id": 26907,
+      "target_client_id": 26022,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede e telhado pra city iwa\\05_oliva_seco\\canto.png",
+      "source_sha256": "2E6332E59BFE5401B1F8965B0D845D8D6D9C34D9038944C846877C494C8D0433",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        293047,
+        293050
+      ],
+      "sprite_hash": "99FBBAA48B9C425DCC5B5ECB78F7BB20"
+    },
+    {
+      "sequence": 82,
+      "source_server_id": 25565,
+      "source_client_id": 24680,
+      "target_server_id": 26908,
+      "target_client_id": 26023,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede e telhado pra city iwa\\05_oliva_seco\\parede de terra.png",
+      "source_sha256": "4EAC4CA00A7D26F68E8D416CA435AF1CF56C148E9CBF7649BCDA01C210BF6A9A",
+      "image_size": [
+        192,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 3,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 12,
+      "sprite_id_range": [
+        293051,
+        293062
+      ],
+      "sprite_hash": "7E93F33F99A7285CEDFAB09470723973"
+    },
+    {
+      "sequence": 83,
+      "source_server_id": 25565,
+      "source_client_id": 24680,
+      "target_server_id": 26909,
+      "target_client_id": 26024,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede e telhado pra city iwa\\05_oliva_seco\\parede de terra2.png",
+      "source_sha256": "125B2E8FC9386B6C790ADE77738B979129AD1CD9FD36E1521BC472566F5F11FE",
+      "image_size": [
+        192,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 3,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 12,
+      "sprite_id_range": [
+        293063,
+        293074
+      ],
+      "sprite_hash": "B51A7004A031DA7FC82CD34D0191842D"
+    },
+    {
+      "sequence": 84,
+      "source_server_id": 25565,
+      "source_client_id": 24680,
+      "target_server_id": 26910,
+      "target_client_id": 26025,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede e telhado pra city iwa\\05_oliva_seco\\piru.png",
+      "source_sha256": "0074A60627EB241E3E03D4FA42CC49AE82233FE300DEF73D77FAED64E1005FAC",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        293075,
+        293078
+      ],
+      "sprite_hash": "6B76466891CB3982D01794ABB2ADB868"
+    },
+    {
+      "sequence": 85,
+      "source_server_id": 25565,
+      "source_client_id": 24680,
+      "target_server_id": 26911,
+      "target_client_id": 26026,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede e telhado pra city iwa\\06_cinza_quente\\1.png",
+      "source_sha256": "80BC8C87013B0F1BD39C7F665F65CC5D3ADEF2A6D17834331A2AE0FF4A5E86DD",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        293079,
+        293082
+      ],
+      "sprite_hash": "1D4E45CF8D47D2F7FACD8E59CCE22682"
+    },
+    {
+      "sequence": 86,
+      "source_server_id": 25565,
+      "source_client_id": 24680,
+      "target_server_id": 26912,
+      "target_client_id": 26027,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede e telhado pra city iwa\\06_cinza_quente\\2.png",
+      "source_sha256": "98626592AA1E3608C58B82500427E6FA96054B7499BE906F5D5E4471600DC4B6",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        293083,
+        293086
+      ],
+      "sprite_hash": "3427D59D47C22315B2818208D0EECA85"
+    },
+    {
+      "sequence": 87,
+      "source_server_id": 25565,
+      "source_client_id": 24680,
+      "target_server_id": 26913,
+      "target_client_id": 26028,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede e telhado pra city iwa\\06_cinza_quente\\3.png",
+      "source_sha256": "1B183CCEC0942DA4076095DC615A2616078EED0A478D3FACB0105C2832741840",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        293087,
+        293090
+      ],
+      "sprite_hash": "494AE7DFE9B6AB14CC9A9BCB99E3C2CA"
+    },
+    {
+      "sequence": 88,
+      "source_server_id": 11864,
+      "source_client_id": 10987,
+      "target_server_id": 26914,
+      "target_client_id": 26029,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede e telhado pra city iwa\\06_cinza_quente\\4.png",
+      "source_sha256": "D19D821287B10DE5D1F83F130927CCCD0E21298A07D28830973EC53998563757",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        293091,
+        293094
+      ],
+      "sprite_hash": "27EC3B702C79B8F3FB9D6A6C4915C3DF"
+    },
+    {
+      "sequence": 89,
+      "source_server_id": 11865,
+      "source_client_id": 10988,
+      "target_server_id": 26915,
+      "target_client_id": 26030,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede e telhado pra city iwa\\06_cinza_quente\\5.png",
+      "source_sha256": "A210F4CB9140FA36E9C220A7014700519EC5EA0232B7AC32ED43FD84934B94FF",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 3,
+      "sprite_id_range": [
+        293095,
+        293097
+      ],
+      "sprite_hash": "6E65909FA292EC50F209C8D8B18DA1E4"
+    },
+    {
+      "sequence": 90,
+      "source_server_id": 11866,
+      "source_client_id": 10989,
+      "target_server_id": 26916,
+      "target_client_id": 26031,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede e telhado pra city iwa\\06_cinza_quente\\6.png",
+      "source_sha256": "DE2C0BE021C72B5CFB16E8EC00EC9575302BC18F562FFFF32BF5DD02522F4769",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 3,
+      "sprite_id_range": [
+        293098,
+        293100
+      ],
+      "sprite_hash": "2015019B38EDAE8FA876019BB5BDD6A1"
+    },
+    {
+      "sequence": 91,
+      "source_server_id": 11867,
+      "source_client_id": 10990,
+      "target_server_id": 26917,
+      "target_client_id": 26032,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede e telhado pra city iwa\\06_cinza_quente\\7.png",
+      "source_sha256": "46F88D427D2F2FE2A743CE9EB4BC243C52FA610B34092768605F8D38B84DE523",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        293101,
+        293104
+      ],
+      "sprite_hash": "3223B85E34F08D074D79DC193385F16B"
+    },
+    {
+      "sequence": 92,
+      "source_server_id": 11868,
+      "source_client_id": 10991,
+      "target_server_id": 26918,
+      "target_client_id": 26033,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede e telhado pra city iwa\\06_cinza_quente\\8.png",
+      "source_sha256": "C6430181450A6ADE371A559514F00DC14B37BC7A62169317221F4DAE2B831097",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        293105,
+        293108
+      ],
+      "sprite_hash": "61A52126DD5539A275FA0514B10D5EA6"
+    },
+    {
+      "sequence": 93,
+      "source_server_id": 11869,
+      "source_client_id": 10992,
+      "target_server_id": 26919,
+      "target_client_id": 26034,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede e telhado pra city iwa\\06_cinza_quente\\9.png",
+      "source_sha256": "F5BF8D3C107285F79DDB7B5CAA4640BAAFEB066D1B5A0D1EAD6198B539572E89",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        293109,
+        293112
+      ],
+      "sprite_hash": "2BF8B5BD9CE173A69D54FA5D07A1D9A7"
+    },
+    {
+      "sequence": 94,
+      "source_server_id": 25199,
+      "source_client_id": 24314,
+      "target_server_id": 26920,
+      "target_client_id": 26035,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede e telhado pra city iwa\\06_cinza_quente\\20.png",
+      "source_sha256": "8B1EE818D6E1DA4D6B475C234B1D137A4E7CB142A3FC9B01683173CCDFF9E6B9",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        293113,
+        293113
+      ],
+      "sprite_hash": "FE32C2B1D73CB8FB5B2E96215A3AED69"
+    },
+    {
+      "sequence": 95,
+      "source_server_id": 25565,
+      "source_client_id": 24680,
+      "target_server_id": 26921,
+      "target_client_id": 26036,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede e telhado pra city iwa\\06_cinza_quente\\canto.png",
+      "source_sha256": "CE980279D9FBF0558093DF0AE73D600833A096C9557B6D1C72F627692FB5B344",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        293114,
+        293117
+      ],
+      "sprite_hash": "2FAEC85F08EFCAD7B3C466D644B17F3E"
+    },
+    {
+      "sequence": 96,
+      "source_server_id": 25565,
+      "source_client_id": 24680,
+      "target_server_id": 26922,
+      "target_client_id": 26037,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede e telhado pra city iwa\\06_cinza_quente\\parede de terra.png",
+      "source_sha256": "E130811E0E11697AD25FC99D81FB3BB350E4250225AD2A757A3E09B4903676A4",
+      "image_size": [
+        192,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 3,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 12,
+      "sprite_id_range": [
+        293118,
+        293129
+      ],
+      "sprite_hash": "314511389764EDF6DED03182A0C72EE3"
+    },
+    {
+      "sequence": 97,
+      "source_server_id": 25565,
+      "source_client_id": 24680,
+      "target_server_id": 26923,
+      "target_client_id": 26038,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede e telhado pra city iwa\\06_cinza_quente\\parede de terra2.png",
+      "source_sha256": "DF3DE584B41D355EE5F94A111DE28B9245E201C96BC5E80CBFE7224E32CC6BBC",
+      "image_size": [
+        192,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 3,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 12,
+      "sprite_id_range": [
+        293130,
+        293141
+      ],
+      "sprite_hash": "2C5983DF28746E350FE227A537AB0873"
+    },
+    {
+      "sequence": 98,
+      "source_server_id": 25565,
+      "source_client_id": 24680,
+      "target_server_id": 26924,
+      "target_client_id": 26039,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede e telhado pra city iwa\\06_cinza_quente\\piru.png",
+      "source_sha256": "DDF936BE9BE0DADDF4FDB65C7F35C202B7F168228324C3A84593BE981AA110A0",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        293142,
+        293145
+      ],
+      "sprite_hash": "0FA15BA84A2B27C5E74C6EA559DEED78"
+    },
+    {
+      "sequence": 99,
+      "source_server_id": 11870,
+      "source_client_id": 10993,
+      "target_server_id": 26925,
+      "target_client_id": 26040,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede e telhado pra city iwa\\telhados e varicoes de cor\\10.png",
+      "source_sha256": "EA7C81A84C797C6020E3BE86CB3EEA0621E5ADABB054CEAEBFCC900B2EBCE734",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        293146,
+        293149
+      ],
+      "sprite_hash": "6E47A42880705A6D20D76B28DB148915"
+    },
+    {
+      "sequence": 100,
+      "source_server_id": 11871,
+      "source_client_id": 10994,
+      "target_server_id": 26926,
+      "target_client_id": 26041,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede e telhado pra city iwa\\telhados e varicoes de cor\\11.png",
+      "source_sha256": "400643AE021576145D06AC2002B0B648716671503E078BEBD42DB8F64EFE0108",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        293150,
+        293153
+      ],
+      "sprite_hash": "9C0618B02921BD5FA97B7E0BCE14F51E"
+    },
+    {
+      "sequence": 101,
+      "source_server_id": 11872,
+      "source_client_id": 10995,
+      "target_server_id": 26927,
+      "target_client_id": 26042,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede e telhado pra city iwa\\telhados e varicoes de cor\\12.png",
+      "source_sha256": "5E6DE4E9BE60529013C1B245F4DAD65DE0E52CEDE7ACACB24A617707EFEDC403",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        293154,
+        293157
+      ],
+      "sprite_hash": "F381931C19C54A4226156D61CB5E48DC"
+    },
+    {
+      "sequence": 102,
+      "source_server_id": 11873,
+      "source_client_id": 10996,
+      "target_server_id": 26928,
+      "target_client_id": 26043,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede e telhado pra city iwa\\telhados e varicoes de cor\\13.png",
+      "source_sha256": "F1930AAD8BB044DB2B479FF7A55CE6E9A59DF1F28DD7D97E641A7C92D3359656",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        293158,
+        293161
+      ],
+      "sprite_hash": "51A5F2AFBE906A2D421EC25F5B669A38"
+    },
+    {
+      "sequence": 103,
+      "source_server_id": 11874,
+      "source_client_id": 10997,
+      "target_server_id": 26929,
+      "target_client_id": 26044,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede e telhado pra city iwa\\telhados e varicoes de cor\\14.png",
+      "source_sha256": "848153FFF6C48D814EF4989CA674570C809E7E853424F5E92EA460E97123BDBA",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        293162,
+        293165
+      ],
+      "sprite_hash": "3FCE8882EC2788446CC6064EF02FA113"
+    },
+    {
+      "sequence": 104,
+      "source_server_id": 11875,
+      "source_client_id": 10998,
+      "target_server_id": 26930,
+      "target_client_id": 26045,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede e telhado pra city iwa\\telhados e varicoes de cor\\15.png",
+      "source_sha256": "11D01111FE251D6D93628EE802BCF9036E973529D9B768AD90318156E9810634",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        293166,
+        293169
+      ],
+      "sprite_hash": "0CF76DF15328EFB2137F6B6A8A4D74B9"
+    },
+    {
+      "sequence": 105,
+      "source_server_id": 11876,
+      "source_client_id": 10999,
+      "target_server_id": 26931,
+      "target_client_id": 26046,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede e telhado pra city iwa\\telhados e varicoes de cor\\16.png",
+      "source_sha256": "71865F55A67F0F22B030A0CCA8B1A472E5FEEB03AAFFDD5739D9DD85B5783D22",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        293170,
+        293173
+      ],
+      "sprite_hash": "3EEE1772C1F4DB743CD8D3C847683F56"
+    },
+    {
+      "sequence": 106,
+      "source_server_id": 11864,
+      "source_client_id": 10987,
+      "target_server_id": 26932,
+      "target_client_id": 26047,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede e telhado pra city iwa\\telhados e varicoes de cor\\piso1.png",
+      "source_sha256": "05981D497DD67F0D5C0AF459E7E053691E27128BDC5EC42843FB58FA7455A4CD",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        293174,
+        293177
+      ],
+      "sprite_hash": "92A7F4E204552A7F87F56EDF2DF57C66"
+    },
+    {
+      "sequence": 107,
+      "source_server_id": 11864,
+      "source_client_id": 10987,
+      "target_server_id": 26933,
+      "target_client_id": 26048,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede e telhado pra city iwa\\telhados e varicoes de cor\\piso2.png",
+      "source_sha256": "3224D22E1C307BAE22578B3BBB67F81F903B39162F9093960AC826ECCD4B2A12",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        293178,
+        293181
+      ],
+      "sprite_hash": "2E51A0F62113114AC3E5B9999EAC14F8"
+    }
+  ],
+  "xml": {
+    "source_definitions": 14,
+    "target_definitions_written": 100,
+    "target_definitions_already_exact": 0,
+    "target_ids": [
+      26827,
+      26828,
+      26829,
+      26830,
+      26831,
+      26832,
+      26833,
+      26834,
+      26835,
+      26837,
+      26838,
+      26839,
+      26840,
+      26841,
+      26842,
+      26843,
+      26844,
+      26845,
+      26846,
+      26847,
+      26848,
+      26849,
+      26851,
+      26852,
+      26853,
+      26854,
+      26855,
+      26856,
+      26857,
+      26858,
+      26859,
+      26860,
+      26861,
+      26862,
+      26863,
+      26865,
+      26866,
+      26867,
+      26868,
+      26869,
+      26870,
+      26871,
+      26872,
+      26873,
+      26874,
+      26875,
+      26876,
+      26877,
+      26879,
+      26880,
+      26881,
+      26882,
+      26883,
+      26884,
+      26885,
+      26886,
+      26887,
+      26888,
+      26889,
+      26890,
+      26891,
+      26893,
+      26894,
+      26895,
+      26896,
+      26897,
+      26898,
+      26899,
+      26900,
+      26901,
+      26902,
+      26903,
+      26904,
+      26905,
+      26907,
+      26908,
+      26909,
+      26910,
+      26911,
+      26912,
+      26913,
+      26914,
+      26915,
+      26916,
+      26917,
+      26918,
+      26919,
+      26921,
+      26922,
+      26923,
+      26924,
+      26925,
+      26926,
+      26927,
+      26928,
+      26929,
+      26930,
+      26931,
+      26932,
+      26933
+    ]
+  },
+  "map_scan": {
+    "tiles_scanned": 7824286,
+    "item_nodes_scanned": 2105107
+  },
+  "version_backup": {
+    "tool_version": "0.8.2",
+    "version_id": "20261023-201848-046695",
+    "created_at": "2026-10-23T20:19:01.887858-03:00",
+    "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261023-201848-046695",
+    "rar_executable": "C:\\Program Files\\WinRAR\\Rar.exe",
+    "sources": [
+      {
+        "path": "assets/860/.gitattributes",
+        "size": 43,
+        "sha256": "D5636A3257287440945C5E017581545E5B0A3E2FDDDAE7C5EF8D90FF4DF3D32A"
+      },
+      {
+        "path": "assets/860/Tibia.dat",
+        "size": 4601809,
+        "sha256": "AD0A9ADBFEE5F5D0155A5ECCE0AF61CBC01D6384FADE2FCFCA9AA7DAB15BA25C"
+      },
+      {
+        "path": "assets/860/Tibia.otfi",
+        "size": 185,
+        "sha256": "7743548835944BC799CB871A4E5DEF84F7AF76815031871B9CE74B5EC0E8ADD3"
+      },
+      {
+        "path": "assets/860/Tibia.spr",
+        "size": 502935884,
+        "sha256": "BD71A0BFBF499F316BF1A3D6734EDD9AA214A0A90D92215C61EFAF19B4EA33C4"
+      },
+      {
+        "path": "assets/items/force use.txt",
+        "size": 419,
+        "sha256": "BCB478FDF3F45ECA8D172AFD7A17D3F8CD520924EE0894752452B8FDC8F71959"
+      },
+      {
+        "path": "assets/items/items.otb",
+        "size": 1063463,
+        "sha256": "81D50378DEE28400BF59C4AE26B8F26D063CE5990129B36DEC3BE7B933D1B66B"
+      },
+      {
+        "path": "assets/world/mapanovo.otbm",
+        "size": 80105775,
+        "sha256": "AC32C669BED3512D69AE054CAFC8564A236C9894B22BBC9A0E9D7ACAEFAD5512"
+      }
+    ],
+    "archives": {
+      "860": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261023-201848-046695\\860.rar",
+        "size": 90019071,
+        "sha256": "5DC7F3DF817D2F93D2526E1BFF9F3F876C956BA457CE1D7B0F73D0AF82BCDE28"
+      },
+      "items": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261023-201848-046695\\items.rar",
+        "size": 509950,
+        "sha256": "3753AE631AD690202E798E3C4D8EAA452A3E4E93F575984B1B8666FD28B581C7"
+      },
+      "world": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261023-201848-046695\\world.zip",
+        "size": 19337404,
+        "sha256": "92E3613FFE42E15A419DD4A8A0F86A4570AEE5F031A4589F7010C4804EED8E7D"
+      }
+    },
+    "items_xml_excluded": true,
+    "world_entries": [
+      "mapanovo.otbm"
+    ],
+    "passed": true
+  },
+  "transaction_committed": true,
+  "old_dat_records_preserved": true,
+  "old_otb_nodes_preserved": true,
+  "old_sprite_payload_preserved": true,
+  "new_sprite_pixels_verified": true,
+  "final_validation_passed": true,
+  "warnings": [],
+  "errors": [],
+  "passed": true
+}

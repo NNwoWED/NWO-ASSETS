@@ -1,0 +1,3640 @@
+{
+  "passed": true,
+  "item_count": 126,
+  "collection_count": 7,
+  "items_per_collection": 18,
+  "source_server_ids": [
+    25575,
+    25576,
+    25577,
+    25578,
+    25579,
+    25580,
+    25581,
+    25582,
+    25583,
+    25584,
+    25585,
+    25586,
+    25587,
+    25588,
+    25589,
+    25590,
+    25598,
+    25600
+  ],
+  "target_server_ids": [
+    25745,
+    25870
+  ],
+  "target_client_ids": [
+    24860,
+    24985
+  ],
+  "baseline_max_server_id": 25744,
+  "baseline_max_client_id": 24859,
+  "identical_to_reference_count": 0,
+  "collections": {
+    "00_base_padronizada": {
+      "target_server_ids": [
+        25745,
+        25762
+      ],
+      "target_client_ids": [
+        24860,
+        24877
+      ]
+    },
+    "01_arenito_dourado": {
+      "target_server_ids": [
+        25763,
+        25780
+      ],
+      "target_client_ids": [
+        24878,
+        24895
+      ]
+    },
+    "02_areia_palha": {
+      "target_server_ids": [
+        25781,
+        25798
+      ],
+      "target_client_ids": [
+        24896,
+        24913
+      ]
+    },
+    "03_ocre_queimado": {
+      "target_server_ids": [
+        25799,
+        25816
+      ],
+      "target_client_ids": [
+        24914,
+        24931
+      ]
+    },
+    "04_terracota": {
+      "target_server_ids": [
+        25817,
+        25834
+      ],
+      "target_client_ids": [
+        24932,
+        24949
+      ]
+    },
+    "05_oliva_seco": {
+      "target_server_ids": [
+        25835,
+        25852
+      ],
+      "target_client_ids": [
+        24950,
+        24967
+      ]
+    },
+    "06_cinza_quente": {
+      "target_server_ids": [
+        25853,
+        25870
+      ],
+      "target_client_ids": [
+        24968,
+        24985
+      ]
+    }
+  },
+  "manifest": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\paredes\\paredes-recolors-20261023.csv",
+  "items": [
+    {
+      "sequence": 1,
+      "collection": "00_base_padronizada",
+      "filename": "item_103_.png",
+      "source_server_id": 25575,
+      "source_client_id": 24690,
+      "target_server_id": 25745,
+      "target_client_id": 24860,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\paredes\\00_base_padronizada\\item_103_.png",
+      "sha256": "2AF396DFCCA009F0A805A8D3C252E6F63687F3BEAC219C0C4FDF6C070FCCAA5E",
+      "png": {
+        "width": 128,
+        "height": 96,
+        "bit_depth": 8,
+        "color_type": 6,
+        "compression": 0,
+        "filter": 0,
+        "interlace": 0
+      },
+      "layout": {
+        "layers": 1,
+        "pattern_x": 4,
+        "pattern_y": 3,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "identical_to_reference": false
+    },
+    {
+      "sequence": 2,
+      "collection": "00_base_padronizada",
+      "filename": "item_355_.png",
+      "source_server_id": 25576,
+      "source_client_id": 24691,
+      "target_server_id": 25746,
+      "target_client_id": 24861,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\paredes\\00_base_padronizada\\item_355_.png",
+      "sha256": "BEF3C7E1A4B63DA51E259A441FC193E50B16B1059AC701CA8178149CCA3A5214",
+      "png": {
+        "width": 128,
+        "height": 128,
+        "bit_depth": 8,
+        "color_type": 6,
+        "compression": 0,
+        "filter": 0,
+        "interlace": 0
+      },
+      "layout": {
+        "layers": 1,
+        "pattern_x": 4,
+        "pattern_y": 4,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "identical_to_reference": false
+    },
+    {
+      "sequence": 3,
+      "collection": "00_base_padronizada",
+      "filename": "item_1038_.png",
+      "source_server_id": 25577,
+      "source_client_id": 24692,
+      "target_server_id": 25747,
+      "target_client_id": 24862,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\paredes\\00_base_padronizada\\item_1038_.png",
+      "sha256": "76B9AF7533BA7DF27C9C177F7E11D2B4439BE2DD9406C49BDC4D9CCCA23B50A2",
+      "png": {
+        "width": 256,
+        "height": 64,
+        "bit_depth": 8,
+        "color_type": 6,
+        "compression": 0,
+        "filter": 0,
+        "interlace": 0
+      },
+      "layout": {
+        "layers": 1,
+        "pattern_x": 4,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "identical_to_reference": false
+    },
+    {
+      "sequence": 4,
+      "collection": "00_base_padronizada",
+      "filename": "item_1040_.png",
+      "source_server_id": 25578,
+      "source_client_id": 24693,
+      "target_server_id": 25748,
+      "target_client_id": 24863,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\paredes\\00_base_padronizada\\item_1040_.png",
+      "sha256": "D85D2F3FE821F3F48199317E9A28A12BAE153536FEB355AE8BDF41ACB97AE220",
+      "png": {
+        "width": 128,
+        "height": 64,
+        "bit_depth": 8,
+        "color_type": 6,
+        "compression": 0,
+        "filter": 0,
+        "interlace": 0
+      },
+      "layout": {
+        "layers": 1,
+        "pattern_x": 2,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "identical_to_reference": false
+    },
+    {
+      "sequence": 5,
+      "collection": "00_base_padronizada",
+      "filename": "item_317_.png",
+      "source_server_id": 25579,
+      "source_client_id": 24694,
+      "target_server_id": 25749,
+      "target_client_id": 24864,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\paredes\\00_base_padronizada\\item_317_.png",
+      "sha256": "9BB22CFF1DBDE57E0BE32124C5DC726D1A179810EE689D69DA992E6DE1D4B520",
+      "png": {
+        "width": 32,
+        "height": 32,
+        "bit_depth": 8,
+        "color_type": 6,
+        "compression": 0,
+        "filter": 0,
+        "interlace": 0
+      },
+      "layout": {
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "identical_to_reference": false
+    },
+    {
+      "sequence": 6,
+      "collection": "00_base_padronizada",
+      "filename": "item_317_2.png",
+      "source_server_id": 25580,
+      "source_client_id": 24695,
+      "target_server_id": 25750,
+      "target_client_id": 24865,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\paredes\\00_base_padronizada\\item_317_2.png",
+      "sha256": "F0C9D8C5A64F3A4323E45E0D1369F07240BCA250B8CC8819BD76C41BF602A06D",
+      "png": {
+        "width": 32,
+        "height": 32,
+        "bit_depth": 8,
+        "color_type": 6,
+        "compression": 0,
+        "filter": 0,
+        "interlace": 0
+      },
+      "layout": {
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "identical_to_reference": false
+    },
+    {
+      "sequence": 7,
+      "collection": "00_base_padronizada",
+      "filename": "item_318_.png",
+      "source_server_id": 25581,
+      "source_client_id": 24696,
+      "target_server_id": 25751,
+      "target_client_id": 24866,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\paredes\\00_base_padronizada\\item_318_.png",
+      "sha256": "217EB59BC9FEFF20E16D6E1354C847FE99BA5C3BA3CE9436959FB896A77C6519",
+      "png": {
+        "width": 32,
+        "height": 32,
+        "bit_depth": 8,
+        "color_type": 6,
+        "compression": 0,
+        "filter": 0,
+        "interlace": 0
+      },
+      "layout": {
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "identical_to_reference": false
+    },
+    {
+      "sequence": 8,
+      "collection": "00_base_padronizada",
+      "filename": "item_319_.png",
+      "source_server_id": 25582,
+      "source_client_id": 24697,
+      "target_server_id": 25752,
+      "target_client_id": 24867,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\paredes\\00_base_padronizada\\item_319_.png",
+      "sha256": "94F8DC140D7F0CC82E2AD5418D7B083CA8EFFBBE7ADA3479FD906DC083872054",
+      "png": {
+        "width": 32,
+        "height": 32,
+        "bit_depth": 8,
+        "color_type": 6,
+        "compression": 0,
+        "filter": 0,
+        "interlace": 0
+      },
+      "layout": {
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "identical_to_reference": false
+    },
+    {
+      "sequence": 9,
+      "collection": "00_base_padronizada",
+      "filename": "item_320_.png",
+      "source_server_id": 25583,
+      "source_client_id": 24698,
+      "target_server_id": 25753,
+      "target_client_id": 24868,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\paredes\\00_base_padronizada\\item_320_.png",
+      "sha256": "360B076227D220D3C8D6B717D06605393BD5F575961628FAE8FC776D01A7F5D4",
+      "png": {
+        "width": 32,
+        "height": 32,
+        "bit_depth": 8,
+        "color_type": 6,
+        "compression": 0,
+        "filter": 0,
+        "interlace": 0
+      },
+      "layout": {
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "identical_to_reference": false
+    },
+    {
+      "sequence": 10,
+      "collection": "00_base_padronizada",
+      "filename": "item_322_.png",
+      "source_server_id": 25584,
+      "source_client_id": 24699,
+      "target_server_id": 25754,
+      "target_client_id": 24869,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\paredes\\00_base_padronizada\\item_322_.png",
+      "sha256": "6104DE591DFA11BA522A56B08C34A749CBDD62E08FF42A605FA8D224D1A260E9",
+      "png": {
+        "width": 32,
+        "height": 32,
+        "bit_depth": 8,
+        "color_type": 6,
+        "compression": 0,
+        "filter": 0,
+        "interlace": 0
+      },
+      "layout": {
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "identical_to_reference": false
+    },
+    {
+      "sequence": 11,
+      "collection": "00_base_padronizada",
+      "filename": "item_323_.png",
+      "source_server_id": 25585,
+      "source_client_id": 24700,
+      "target_server_id": 25755,
+      "target_client_id": 24870,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\paredes\\00_base_padronizada\\item_323_.png",
+      "sha256": "E0D2FC0FB19E0FFD632EC6C9C07EEC27B0C79E3B8D3FAFD9F3009E990CB6CDE0",
+      "png": {
+        "width": 32,
+        "height": 32,
+        "bit_depth": 8,
+        "color_type": 6,
+        "compression": 0,
+        "filter": 0,
+        "interlace": 0
+      },
+      "layout": {
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "identical_to_reference": false
+    },
+    {
+      "sequence": 12,
+      "collection": "00_base_padronizada",
+      "filename": "item_756_.png",
+      "source_server_id": 25586,
+      "source_client_id": 24701,
+      "target_server_id": 25756,
+      "target_client_id": 24871,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\paredes\\00_base_padronizada\\item_756_.png",
+      "sha256": "A2BC9A3CD1F8F017E5254A39D7AA5B93D3E92A010EAE366C2257E4886E45FB22",
+      "png": {
+        "width": 32,
+        "height": 32,
+        "bit_depth": 8,
+        "color_type": 6,
+        "compression": 0,
+        "filter": 0,
+        "interlace": 0
+      },
+      "layout": {
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "identical_to_reference": false
+    },
+    {
+      "sequence": 13,
+      "collection": "00_base_padronizada",
+      "filename": "item_757_.png",
+      "source_server_id": 25587,
+      "source_client_id": 24702,
+      "target_server_id": 25757,
+      "target_client_id": 24872,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\paredes\\00_base_padronizada\\item_757_.png",
+      "sha256": "50946A1A133AD7E077A5D1AC66B540D1362FCCE26EBCF297BA0C4E9221FC63EA",
+      "png": {
+        "width": 32,
+        "height": 32,
+        "bit_depth": 8,
+        "color_type": 6,
+        "compression": 0,
+        "filter": 0,
+        "interlace": 0
+      },
+      "layout": {
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "identical_to_reference": false
+    },
+    {
+      "sequence": 14,
+      "collection": "00_base_padronizada",
+      "filename": "item_758_.png",
+      "source_server_id": 25588,
+      "source_client_id": 24703,
+      "target_server_id": 25758,
+      "target_client_id": 24873,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\paredes\\00_base_padronizada\\item_758_.png",
+      "sha256": "22A6E443F9EB4FE95F251BFDF631D3EE17B6B4B9F83502E7B94189366BA81253",
+      "png": {
+        "width": 32,
+        "height": 32,
+        "bit_depth": 8,
+        "color_type": 6,
+        "compression": 0,
+        "filter": 0,
+        "interlace": 0
+      },
+      "layout": {
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "identical_to_reference": false
+    },
+    {
+      "sequence": 15,
+      "collection": "00_base_padronizada",
+      "filename": "item_759_.png",
+      "source_server_id": 25589,
+      "source_client_id": 24704,
+      "target_server_id": 25759,
+      "target_client_id": 24874,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\paredes\\00_base_padronizada\\item_759_.png",
+      "sha256": "003AD7A8725134B932A31E748223622544A8CDB117245D409FCE2619E49DCB32",
+      "png": {
+        "width": 32,
+        "height": 32,
+        "bit_depth": 8,
+        "color_type": 6,
+        "compression": 0,
+        "filter": 0,
+        "interlace": 0
+      },
+      "layout": {
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "identical_to_reference": false
+    },
+    {
+      "sequence": 16,
+      "collection": "00_base_padronizada",
+      "filename": "item_760_.png",
+      "source_server_id": 25590,
+      "source_client_id": 24705,
+      "target_server_id": 25760,
+      "target_client_id": 24875,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\paredes\\00_base_padronizada\\item_760_.png",
+      "sha256": "64DE06144A8C1C0C4C32CDFDD0B4FE3B02DC4CF562FBA7E071D0C36669CC193A",
+      "png": {
+        "width": 32,
+        "height": 32,
+        "bit_depth": 8,
+        "color_type": 6,
+        "compression": 0,
+        "filter": 0,
+        "interlace": 0
+      },
+      "layout": {
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "identical_to_reference": false
+    },
+    {
+      "sequence": 17,
+      "collection": "00_base_padronizada",
+      "filename": "2.png",
+      "source_server_id": 25598,
+      "source_client_id": 24713,
+      "target_server_id": 25761,
+      "target_client_id": 24876,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\paredes\\00_base_padronizada\\2.png",
+      "sha256": "8F16875C812AA4667400167EC87614634CD2A87FC7CC16167D7FE824EF2FD42C",
+      "png": {
+        "width": 256,
+        "height": 64,
+        "bit_depth": 8,
+        "color_type": 6,
+        "compression": 0,
+        "filter": 0,
+        "interlace": 0
+      },
+      "layout": {
+        "layers": 1,
+        "pattern_x": 4,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "identical_to_reference": false
+    },
+    {
+      "sequence": 18,
+      "collection": "00_base_padronizada",
+      "filename": "toco_1036_.png",
+      "source_server_id": 25600,
+      "source_client_id": 24715,
+      "target_server_id": 25762,
+      "target_client_id": 24877,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\paredes\\00_base_padronizada\\toco_1036_.png",
+      "sha256": "DD03B5935FC73A75140BFBFCA9C951F3F30322F01ADB6403791BCE0F33559955",
+      "png": {
+        "width": 64,
+        "height": 64,
+        "bit_depth": 8,
+        "color_type": 6,
+        "compression": 0,
+        "filter": 0,
+        "interlace": 0
+      },
+      "layout": {
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "identical_to_reference": false
+    },
+    {
+      "sequence": 19,
+      "collection": "01_arenito_dourado",
+      "filename": "item_103_.png",
+      "source_server_id": 25575,
+      "source_client_id": 24690,
+      "target_server_id": 25763,
+      "target_client_id": 24878,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\paredes\\01_arenito_dourado\\item_103_.png",
+      "sha256": "AC44E4FACFC4986D04344084F67B388B4ACF0700FAEE857FC29CF01CE09E4661",
+      "png": {
+        "width": 128,
+        "height": 96,
+        "bit_depth": 8,
+        "color_type": 6,
+        "compression": 0,
+        "filter": 0,
+        "interlace": 0
+      },
+      "layout": {
+        "layers": 1,
+        "pattern_x": 4,
+        "pattern_y": 3,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "identical_to_reference": false
+    },
+    {
+      "sequence": 20,
+      "collection": "01_arenito_dourado",
+      "filename": "item_355_.png",
+      "source_server_id": 25576,
+      "source_client_id": 24691,
+      "target_server_id": 25764,
+      "target_client_id": 24879,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\paredes\\01_arenito_dourado\\item_355_.png",
+      "sha256": "E4D4C7D2070F088AC4DF367F41DC11BE5B20218926BB2910BA44E790C4A1418E",
+      "png": {
+        "width": 128,
+        "height": 128,
+        "bit_depth": 8,
+        "color_type": 6,
+        "compression": 0,
+        "filter": 0,
+        "interlace": 0
+      },
+      "layout": {
+        "layers": 1,
+        "pattern_x": 4,
+        "pattern_y": 4,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "identical_to_reference": false
+    },
+    {
+      "sequence": 21,
+      "collection": "01_arenito_dourado",
+      "filename": "item_1038_.png",
+      "source_server_id": 25577,
+      "source_client_id": 24692,
+      "target_server_id": 25765,
+      "target_client_id": 24880,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\paredes\\01_arenito_dourado\\item_1038_.png",
+      "sha256": "DDD01AFE4320FAA59CB1D59A039DCEE64099B33CD61D059528AECCCD79F89EA1",
+      "png": {
+        "width": 256,
+        "height": 64,
+        "bit_depth": 8,
+        "color_type": 6,
+        "compression": 0,
+        "filter": 0,
+        "interlace": 0
+      },
+      "layout": {
+        "layers": 1,
+        "pattern_x": 4,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "identical_to_reference": false
+    },
+    {
+      "sequence": 22,
+      "collection": "01_arenito_dourado",
+      "filename": "item_1040_.png",
+      "source_server_id": 25578,
+      "source_client_id": 24693,
+      "target_server_id": 25766,
+      "target_client_id": 24881,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\paredes\\01_arenito_dourado\\item_1040_.png",
+      "sha256": "F33DFB16EA2708FAD5BB33B46F7E04B09B228E14A9C3E3C40E63709D01C86A2D",
+      "png": {
+        "width": 128,
+        "height": 64,
+        "bit_depth": 8,
+        "color_type": 6,
+        "compression": 0,
+        "filter": 0,
+        "interlace": 0
+      },
+      "layout": {
+        "layers": 1,
+        "pattern_x": 2,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "identical_to_reference": false
+    },
+    {
+      "sequence": 23,
+      "collection": "01_arenito_dourado",
+      "filename": "item_317_.png",
+      "source_server_id": 25579,
+      "source_client_id": 24694,
+      "target_server_id": 25767,
+      "target_client_id": 24882,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\paredes\\01_arenito_dourado\\item_317_.png",
+      "sha256": "0551E5C268933173CB55F272E4A68AD09B7252002AC2D077970647F1C8978262",
+      "png": {
+        "width": 32,
+        "height": 32,
+        "bit_depth": 8,
+        "color_type": 6,
+        "compression": 0,
+        "filter": 0,
+        "interlace": 0
+      },
+      "layout": {
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "identical_to_reference": false
+    },
+    {
+      "sequence": 24,
+      "collection": "01_arenito_dourado",
+      "filename": "item_317_2.png",
+      "source_server_id": 25580,
+      "source_client_id": 24695,
+      "target_server_id": 25768,
+      "target_client_id": 24883,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\paredes\\01_arenito_dourado\\item_317_2.png",
+      "sha256": "2E673AC628F4D364EB83B6AA847C3DBA9A45843EF34567813E63D358045958B8",
+      "png": {
+        "width": 32,
+        "height": 32,
+        "bit_depth": 8,
+        "color_type": 6,
+        "compression": 0,
+        "filter": 0,
+        "interlace": 0
+      },
+      "layout": {
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "identical_to_reference": false
+    },
+    {
+      "sequence": 25,
+      "collection": "01_arenito_dourado",
+      "filename": "item_318_.png",
+      "source_server_id": 25581,
+      "source_client_id": 24696,
+      "target_server_id": 25769,
+      "target_client_id": 24884,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\paredes\\01_arenito_dourado\\item_318_.png",
+      "sha256": "73ADCEA808B3C7C38D3E2B1163AA1062AFF82260F0CC939BE17C3AC49E29C8DB",
+      "png": {
+        "width": 32,
+        "height": 32,
+        "bit_depth": 8,
+        "color_type": 6,
+        "compression": 0,
+        "filter": 0,
+        "interlace": 0
+      },
+      "layout": {
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "identical_to_reference": false
+    },
+    {
+      "sequence": 26,
+      "collection": "01_arenito_dourado",
+      "filename": "item_319_.png",
+      "source_server_id": 25582,
+      "source_client_id": 24697,
+      "target_server_id": 25770,
+      "target_client_id": 24885,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\paredes\\01_arenito_dourado\\item_319_.png",
+      "sha256": "E2E03AE06263EE3117D57B7A4B3AF93FDA3502EFEEB4CB95057C47200BDC3BD1",
+      "png": {
+        "width": 32,
+        "height": 32,
+        "bit_depth": 8,
+        "color_type": 6,
+        "compression": 0,
+        "filter": 0,
+        "interlace": 0
+      },
+      "layout": {
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "identical_to_reference": false
+    },
+    {
+      "sequence": 27,
+      "collection": "01_arenito_dourado",
+      "filename": "item_320_.png",
+      "source_server_id": 25583,
+      "source_client_id": 24698,
+      "target_server_id": 25771,
+      "target_client_id": 24886,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\paredes\\01_arenito_dourado\\item_320_.png",
+      "sha256": "079E5036F0A9F060B31AE979037A3B47D8CA33A9A6B31E7F7875A727383FBDC7",
+      "png": {
+        "width": 32,
+        "height": 32,
+        "bit_depth": 8,
+        "color_type": 6,
+        "compression": 0,
+        "filter": 0,
+        "interlace": 0
+      },
+      "layout": {
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "identical_to_reference": false
+    },
+    {
+      "sequence": 28,
+      "collection": "01_arenito_dourado",
+      "filename": "item_322_.png",
+      "source_server_id": 25584,
+      "source_client_id": 24699,
+      "target_server_id": 25772,
+      "target_client_id": 24887,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\paredes\\01_arenito_dourado\\item_322_.png",
+      "sha256": "6052B976CFB34B4D89223E9507A16E042FECC346A181C370699DB8BBF7E6BC64",
+      "png": {
+        "width": 32,
+        "height": 32,
+        "bit_depth": 8,
+        "color_type": 6,
+        "compression": 0,
+        "filter": 0,
+        "interlace": 0
+      },
+      "layout": {
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "identical_to_reference": false
+    },
+    {
+      "sequence": 29,
+      "collection": "01_arenito_dourado",
+      "filename": "item_323_.png",
+      "source_server_id": 25585,
+      "source_client_id": 24700,
+      "target_server_id": 25773,
+      "target_client_id": 24888,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\paredes\\01_arenito_dourado\\item_323_.png",
+      "sha256": "6581D5E3FBD0632321D379D5FF1A5E0C66585133D87F5FA62C4941F27F3D2D42",
+      "png": {
+        "width": 32,
+        "height": 32,
+        "bit_depth": 8,
+        "color_type": 6,
+        "compression": 0,
+        "filter": 0,
+        "interlace": 0
+      },
+      "layout": {
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "identical_to_reference": false
+    },
+    {
+      "sequence": 30,
+      "collection": "01_arenito_dourado",
+      "filename": "item_756_.png",
+      "source_server_id": 25586,
+      "source_client_id": 24701,
+      "target_server_id": 25774,
+      "target_client_id": 24889,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\paredes\\01_arenito_dourado\\item_756_.png",
+      "sha256": "E77866860C925E5CE3F6B526285547FE3A714518C6B9E53A68B0828657BA087B",
+      "png": {
+        "width": 32,
+        "height": 32,
+        "bit_depth": 8,
+        "color_type": 6,
+        "compression": 0,
+        "filter": 0,
+        "interlace": 0
+      },
+      "layout": {
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "identical_to_reference": false
+    },
+    {
+      "sequence": 31,
+      "collection": "01_arenito_dourado",
+      "filename": "item_757_.png",
+      "source_server_id": 25587,
+      "source_client_id": 24702,
+      "target_server_id": 25775,
+      "target_client_id": 24890,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\paredes\\01_arenito_dourado\\item_757_.png",
+      "sha256": "471A26CE8ACA97756E7D525A6BAA77965073FFD8BCF76E95D96C3D2CE88A8E48",
+      "png": {
+        "width": 32,
+        "height": 32,
+        "bit_depth": 8,
+        "color_type": 6,
+        "compression": 0,
+        "filter": 0,
+        "interlace": 0
+      },
+      "layout": {
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "identical_to_reference": false
+    },
+    {
+      "sequence": 32,
+      "collection": "01_arenito_dourado",
+      "filename": "item_758_.png",
+      "source_server_id": 25588,
+      "source_client_id": 24703,
+      "target_server_id": 25776,
+      "target_client_id": 24891,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\paredes\\01_arenito_dourado\\item_758_.png",
+      "sha256": "9DF97B2300B560E54DE78B593AEFD1CA117031A3E248DC1A65D7B326011EF3B3",
+      "png": {
+        "width": 32,
+        "height": 32,
+        "bit_depth": 8,
+        "color_type": 6,
+        "compression": 0,
+        "filter": 0,
+        "interlace": 0
+      },
+      "layout": {
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "identical_to_reference": false
+    },
+    {
+      "sequence": 33,
+      "collection": "01_arenito_dourado",
+      "filename": "item_759_.png",
+      "source_server_id": 25589,
+      "source_client_id": 24704,
+      "target_server_id": 25777,
+      "target_client_id": 24892,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\paredes\\01_arenito_dourado\\item_759_.png",
+      "sha256": "E091877EC0AECEC7542FCED51AD6EFD601330A04A77CE1C7CE1E4AA7D4AADF38",
+      "png": {
+        "width": 32,
+        "height": 32,
+        "bit_depth": 8,
+        "color_type": 6,
+        "compression": 0,
+        "filter": 0,
+        "interlace": 0
+      },
+      "layout": {
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "identical_to_reference": false
+    },
+    {
+      "sequence": 34,
+      "collection": "01_arenito_dourado",
+      "filename": "item_760_.png",
+      "source_server_id": 25590,
+      "source_client_id": 24705,
+      "target_server_id": 25778,
+      "target_client_id": 24893,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\paredes\\01_arenito_dourado\\item_760_.png",
+      "sha256": "F910298B5D7DA43F58B05651CD60D77214D226F6422D2284D16F55EA34438723",
+      "png": {
+        "width": 32,
+        "height": 32,
+        "bit_depth": 8,
+        "color_type": 6,
+        "compression": 0,
+        "filter": 0,
+        "interlace": 0
+      },
+      "layout": {
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "identical_to_reference": false
+    },
+    {
+      "sequence": 35,
+      "collection": "01_arenito_dourado",
+      "filename": "2.png",
+      "source_server_id": 25598,
+      "source_client_id": 24713,
+      "target_server_id": 25779,
+      "target_client_id": 24894,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\paredes\\01_arenito_dourado\\2.png",
+      "sha256": "239C003B18ADB41C72F6DBACAB24F4AE9441BC5C95ACC4772367A8098A8CA962",
+      "png": {
+        "width": 256,
+        "height": 64,
+        "bit_depth": 8,
+        "color_type": 6,
+        "compression": 0,
+        "filter": 0,
+        "interlace": 0
+      },
+      "layout": {
+        "layers": 1,
+        "pattern_x": 4,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "identical_to_reference": false
+    },
+    {
+      "sequence": 36,
+      "collection": "01_arenito_dourado",
+      "filename": "toco_1036_.png",
+      "source_server_id": 25600,
+      "source_client_id": 24715,
+      "target_server_id": 25780,
+      "target_client_id": 24895,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\paredes\\01_arenito_dourado\\toco_1036_.png",
+      "sha256": "2D00407A22D7E9B8F0F1FBECCE8303AB560E3AF9A89793A744DFF25ED36AB566",
+      "png": {
+        "width": 64,
+        "height": 64,
+        "bit_depth": 8,
+        "color_type": 6,
+        "compression": 0,
+        "filter": 0,
+        "interlace": 0
+      },
+      "layout": {
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "identical_to_reference": false
+    },
+    {
+      "sequence": 37,
+      "collection": "02_areia_palha",
+      "filename": "item_103_.png",
+      "source_server_id": 25575,
+      "source_client_id": 24690,
+      "target_server_id": 25781,
+      "target_client_id": 24896,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\paredes\\02_areia_palha\\item_103_.png",
+      "sha256": "3527B22B0C2025DF3EB63446CB51A51C4B713BA1111397E063F2103C98FDAE39",
+      "png": {
+        "width": 128,
+        "height": 96,
+        "bit_depth": 8,
+        "color_type": 6,
+        "compression": 0,
+        "filter": 0,
+        "interlace": 0
+      },
+      "layout": {
+        "layers": 1,
+        "pattern_x": 4,
+        "pattern_y": 3,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "identical_to_reference": false
+    },
+    {
+      "sequence": 38,
+      "collection": "02_areia_palha",
+      "filename": "item_355_.png",
+      "source_server_id": 25576,
+      "source_client_id": 24691,
+      "target_server_id": 25782,
+      "target_client_id": 24897,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\paredes\\02_areia_palha\\item_355_.png",
+      "sha256": "3E96F5C28628FBA0AADE6A4CE797EBE30975FDD532142CBB92120F1D99F6A90A",
+      "png": {
+        "width": 128,
+        "height": 128,
+        "bit_depth": 8,
+        "color_type": 6,
+        "compression": 0,
+        "filter": 0,
+        "interlace": 0
+      },
+      "layout": {
+        "layers": 1,
+        "pattern_x": 4,
+        "pattern_y": 4,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "identical_to_reference": false
+    },
+    {
+      "sequence": 39,
+      "collection": "02_areia_palha",
+      "filename": "item_1038_.png",
+      "source_server_id": 25577,
+      "source_client_id": 24692,
+      "target_server_id": 25783,
+      "target_client_id": 24898,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\paredes\\02_areia_palha\\item_1038_.png",
+      "sha256": "2365EE332835F14FDFF6BBA6696362027E4044C2708AEC5331AA5DB5ED97DC48",
+      "png": {
+        "width": 256,
+        "height": 64,
+        "bit_depth": 8,
+        "color_type": 6,
+        "compression": 0,
+        "filter": 0,
+        "interlace": 0
+      },
+      "layout": {
+        "layers": 1,
+        "pattern_x": 4,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "identical_to_reference": false
+    },
+    {
+      "sequence": 40,
+      "collection": "02_areia_palha",
+      "filename": "item_1040_.png",
+      "source_server_id": 25578,
+      "source_client_id": 24693,
+      "target_server_id": 25784,
+      "target_client_id": 24899,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\paredes\\02_areia_palha\\item_1040_.png",
+      "sha256": "697504103CF25AA56F3B7B5DD83DFC8959265C71B401B5378D41A3C059078D4F",
+      "png": {
+        "width": 128,
+        "height": 64,
+        "bit_depth": 8,
+        "color_type": 6,
+        "compression": 0,
+        "filter": 0,
+        "interlace": 0
+      },
+      "layout": {
+        "layers": 1,
+        "pattern_x": 2,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "identical_to_reference": false
+    },
+    {
+      "sequence": 41,
+      "collection": "02_areia_palha",
+      "filename": "item_317_.png",
+      "source_server_id": 25579,
+      "source_client_id": 24694,
+      "target_server_id": 25785,
+      "target_client_id": 24900,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\paredes\\02_areia_palha\\item_317_.png",
+      "sha256": "2F428F5F7BB079F6D8D1BDDE2538F202BC9355CEC5B2E4A0620ADCA046B55D5C",
+      "png": {
+        "width": 32,
+        "height": 32,
+        "bit_depth": 8,
+        "color_type": 6,
+        "compression": 0,
+        "filter": 0,
+        "interlace": 0
+      },
+      "layout": {
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "identical_to_reference": false
+    },
+    {
+      "sequence": 42,
+      "collection": "02_areia_palha",
+      "filename": "item_317_2.png",
+      "source_server_id": 25580,
+      "source_client_id": 24695,
+      "target_server_id": 25786,
+      "target_client_id": 24901,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\paredes\\02_areia_palha\\item_317_2.png",
+      "sha256": "333FC5BF7FC4FD4457AFC30A077D9A7F8AA4AF8BC2852E73C74E539EED067BA0",
+      "png": {
+        "width": 32,
+        "height": 32,
+        "bit_depth": 8,
+        "color_type": 6,
+        "compression": 0,
+        "filter": 0,
+        "interlace": 0
+      },
+      "layout": {
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "identical_to_reference": false
+    },
+    {
+      "sequence": 43,
+      "collection": "02_areia_palha",
+      "filename": "item_318_.png",
+      "source_server_id": 25581,
+      "source_client_id": 24696,
+      "target_server_id": 25787,
+      "target_client_id": 24902,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\paredes\\02_areia_palha\\item_318_.png",
+      "sha256": "DD23B878F0EA5D44F22ECB411340A2C5008E4352092244EBC65D685A735E1443",
+      "png": {
+        "width": 32,
+        "height": 32,
+        "bit_depth": 8,
+        "color_type": 6,
+        "compression": 0,
+        "filter": 0,
+        "interlace": 0
+      },
+      "layout": {
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "identical_to_reference": false
+    },
+    {
+      "sequence": 44,
+      "collection": "02_areia_palha",
+      "filename": "item_319_.png",
+      "source_server_id": 25582,
+      "source_client_id": 24697,
+      "target_server_id": 25788,
+      "target_client_id": 24903,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\paredes\\02_areia_palha\\item_319_.png",
+      "sha256": "C9766A133CACB6FBFF8BE16387961A12007357544212EE60D92474D6729C5795",
+      "png": {
+        "width": 32,
+        "height": 32,
+        "bit_depth": 8,
+        "color_type": 6,
+        "compression": 0,
+        "filter": 0,
+        "interlace": 0
+      },
+      "layout": {
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "identical_to_reference": false
+    },
+    {
+      "sequence": 45,
+      "collection": "02_areia_palha",
+      "filename": "item_320_.png",
+      "source_server_id": 25583,
+      "source_client_id": 24698,
+      "target_server_id": 25789,
+      "target_client_id": 24904,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\paredes\\02_areia_palha\\item_320_.png",
+      "sha256": "55B4057CFC963B1089AA245E17C24393A33DEA12095E34D9FA6B48958F5BAEA6",
+      "png": {
+        "width": 32,
+        "height": 32,
+        "bit_depth": 8,
+        "color_type": 6,
+        "compression": 0,
+        "filter": 0,
+        "interlace": 0
+      },
+      "layout": {
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "identical_to_reference": false
+    },
+    {
+      "sequence": 46,
+      "collection": "02_areia_palha",
+      "filename": "item_322_.png",
+      "source_server_id": 25584,
+      "source_client_id": 24699,
+      "target_server_id": 25790,
+      "target_client_id": 24905,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\paredes\\02_areia_palha\\item_322_.png",
+      "sha256": "9AD997B4C89979A731307CB0007A933DB7EA8893E07BEE7D5D0520FD38EB0544",
+      "png": {
+        "width": 32,
+        "height": 32,
+        "bit_depth": 8,
+        "color_type": 6,
+        "compression": 0,
+        "filter": 0,
+        "interlace": 0
+      },
+      "layout": {
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "identical_to_reference": false
+    },
+    {
+      "sequence": 47,
+      "collection": "02_areia_palha",
+      "filename": "item_323_.png",
+      "source_server_id": 25585,
+      "source_client_id": 24700,
+      "target_server_id": 25791,
+      "target_client_id": 24906,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\paredes\\02_areia_palha\\item_323_.png",
+      "sha256": "1AEA2DC8DCCE0905951CF2E5063B7A333D4DE660F9D253A12DA49F51093BB094",
+      "png": {
+        "width": 32,
+        "height": 32,
+        "bit_depth": 8,
+        "color_type": 6,
+        "compression": 0,
+        "filter": 0,
+        "interlace": 0
+      },
+      "layout": {
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "identical_to_reference": false
+    },
+    {
+      "sequence": 48,
+      "collection": "02_areia_palha",
+      "filename": "item_756_.png",
+      "source_server_id": 25586,
+      "source_client_id": 24701,
+      "target_server_id": 25792,
+      "target_client_id": 24907,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\paredes\\02_areia_palha\\item_756_.png",
+      "sha256": "B5180D55D061E887BD92BC09FBC331A0996D10395829813E137D7B060B7202EC",
+      "png": {
+        "width": 32,
+        "height": 32,
+        "bit_depth": 8,
+        "color_type": 6,
+        "compression": 0,
+        "filter": 0,
+        "interlace": 0
+      },
+      "layout": {
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "identical_to_reference": false
+    },
+    {
+      "sequence": 49,
+      "collection": "02_areia_palha",
+      "filename": "item_757_.png",
+      "source_server_id": 25587,
+      "source_client_id": 24702,
+      "target_server_id": 25793,
+      "target_client_id": 24908,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\paredes\\02_areia_palha\\item_757_.png",
+      "sha256": "35E62956B746F36D9293A4D74950AB7CD9281B3039A78E5399B208CC399209FE",
+      "png": {
+        "width": 32,
+        "height": 32,
+        "bit_depth": 8,
+        "color_type": 6,
+        "compression": 0,
+        "filter": 0,
+        "interlace": 0
+      },
+      "layout": {
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "identical_to_reference": false
+    },
+    {
+      "sequence": 50,
+      "collection": "02_areia_palha",
+      "filename": "item_758_.png",
+      "source_server_id": 25588,
+      "source_client_id": 24703,
+      "target_server_id": 25794,
+      "target_client_id": 24909,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\paredes\\02_areia_palha\\item_758_.png",
+      "sha256": "69045AEAB7C344782401D4145DC35D9FE6D959D0F3D6AB16B3737061F93F2976",
+      "png": {
+        "width": 32,
+        "height": 32,
+        "bit_depth": 8,
+        "color_type": 6,
+        "compression": 0,
+        "filter": 0,
+        "interlace": 0
+      },
+      "layout": {
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "identical_to_reference": false
+    },
+    {
+      "sequence": 51,
+      "collection": "02_areia_palha",
+      "filename": "item_759_.png",
+      "source_server_id": 25589,
+      "source_client_id": 24704,
+      "target_server_id": 25795,
+      "target_client_id": 24910,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\paredes\\02_areia_palha\\item_759_.png",
+      "sha256": "9AC1432AD662CDFDF54ACEA97C988583E86EE4C36AAEA06E035475373FD1088F",
+      "png": {
+        "width": 32,
+        "height": 32,
+        "bit_depth": 8,
+        "color_type": 6,
+        "compression": 0,
+        "filter": 0,
+        "interlace": 0
+      },
+      "layout": {
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "identical_to_reference": false
+    },
+    {
+      "sequence": 52,
+      "collection": "02_areia_palha",
+      "filename": "item_760_.png",
+      "source_server_id": 25590,
+      "source_client_id": 24705,
+      "target_server_id": 25796,
+      "target_client_id": 24911,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\paredes\\02_areia_palha\\item_760_.png",
+      "sha256": "D7A6B53C21312C4B9FB32CF2A50F799616BC93219E36B2968A6A764F09DED3A4",
+      "png": {
+        "width": 32,
+        "height": 32,
+        "bit_depth": 8,
+        "color_type": 6,
+        "compression": 0,
+        "filter": 0,
+        "interlace": 0
+      },
+      "layout": {
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "identical_to_reference": false
+    },
+    {
+      "sequence": 53,
+      "collection": "02_areia_palha",
+      "filename": "2.png",
+      "source_server_id": 25598,
+      "source_client_id": 24713,
+      "target_server_id": 25797,
+      "target_client_id": 24912,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\paredes\\02_areia_palha\\2.png",
+      "sha256": "AC77C044E00F26BE5F9238AF3F9264C01CAD6A0F3237EA9A0E15B279F575AFA6",
+      "png": {
+        "width": 256,
+        "height": 64,
+        "bit_depth": 8,
+        "color_type": 6,
+        "compression": 0,
+        "filter": 0,
+        "interlace": 0
+      },
+      "layout": {
+        "layers": 1,
+        "pattern_x": 4,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "identical_to_reference": false
+    },
+    {
+      "sequence": 54,
+      "collection": "02_areia_palha",
+      "filename": "toco_1036_.png",
+      "source_server_id": 25600,
+      "source_client_id": 24715,
+      "target_server_id": 25798,
+      "target_client_id": 24913,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\paredes\\02_areia_palha\\toco_1036_.png",
+      "sha256": "AD27A649C75BA2EC31297B0A51A9D6E5AB9176E7D6150467BF4C181E30F26026",
+      "png": {
+        "width": 64,
+        "height": 64,
+        "bit_depth": 8,
+        "color_type": 6,
+        "compression": 0,
+        "filter": 0,
+        "interlace": 0
+      },
+      "layout": {
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "identical_to_reference": false
+    },
+    {
+      "sequence": 55,
+      "collection": "03_ocre_queimado",
+      "filename": "item_103_.png",
+      "source_server_id": 25575,
+      "source_client_id": 24690,
+      "target_server_id": 25799,
+      "target_client_id": 24914,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\paredes\\03_ocre_queimado\\item_103_.png",
+      "sha256": "8389D39FDDC505FDC3D179B7F5C19BFEF49604ACCA58F92DE3F48CC5E9814A48",
+      "png": {
+        "width": 128,
+        "height": 96,
+        "bit_depth": 8,
+        "color_type": 6,
+        "compression": 0,
+        "filter": 0,
+        "interlace": 0
+      },
+      "layout": {
+        "layers": 1,
+        "pattern_x": 4,
+        "pattern_y": 3,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "identical_to_reference": false
+    },
+    {
+      "sequence": 56,
+      "collection": "03_ocre_queimado",
+      "filename": "item_355_.png",
+      "source_server_id": 25576,
+      "source_client_id": 24691,
+      "target_server_id": 25800,
+      "target_client_id": 24915,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\paredes\\03_ocre_queimado\\item_355_.png",
+      "sha256": "CB1745B5B968272392E82B6DB315DF244B6E869644D7D8019771C9EF4F778948",
+      "png": {
+        "width": 128,
+        "height": 128,
+        "bit_depth": 8,
+        "color_type": 6,
+        "compression": 0,
+        "filter": 0,
+        "interlace": 0
+      },
+      "layout": {
+        "layers": 1,
+        "pattern_x": 4,
+        "pattern_y": 4,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "identical_to_reference": false
+    },
+    {
+      "sequence": 57,
+      "collection": "03_ocre_queimado",
+      "filename": "item_1038_.png",
+      "source_server_id": 25577,
+      "source_client_id": 24692,
+      "target_server_id": 25801,
+      "target_client_id": 24916,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\paredes\\03_ocre_queimado\\item_1038_.png",
+      "sha256": "7446DAC5529846ECCDF934990390B3F563A4D0BB2ACC652276B853F84500425D",
+      "png": {
+        "width": 256,
+        "height": 64,
+        "bit_depth": 8,
+        "color_type": 6,
+        "compression": 0,
+        "filter": 0,
+        "interlace": 0
+      },
+      "layout": {
+        "layers": 1,
+        "pattern_x": 4,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "identical_to_reference": false
+    },
+    {
+      "sequence": 58,
+      "collection": "03_ocre_queimado",
+      "filename": "item_1040_.png",
+      "source_server_id": 25578,
+      "source_client_id": 24693,
+      "target_server_id": 25802,
+      "target_client_id": 24917,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\paredes\\03_ocre_queimado\\item_1040_.png",
+      "sha256": "8F739BCE65BD2B1BF992F6E10B2F24E47B5B8A9D920BACE47480C83182B7A8F6",
+      "png": {
+        "width": 128,
+        "height": 64,
+        "bit_depth": 8,
+        "color_type": 6,
+        "compression": 0,
+        "filter": 0,
+        "interlace": 0
+      },
+      "layout": {
+        "layers": 1,
+        "pattern_x": 2,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "identical_to_reference": false
+    },
+    {
+      "sequence": 59,
+      "collection": "03_ocre_queimado",
+      "filename": "item_317_.png",
+      "source_server_id": 25579,
+      "source_client_id": 24694,
+      "target_server_id": 25803,
+      "target_client_id": 24918,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\paredes\\03_ocre_queimado\\item_317_.png",
+      "sha256": "779A3CC2329B2A4FF3179630D3D6C241829353DD4FCC670F2EEFF97D04B1444F",
+      "png": {
+        "width": 32,
+        "height": 32,
+        "bit_depth": 8,
+        "color_type": 6,
+        "compression": 0,
+        "filter": 0,
+        "interlace": 0
+      },
+      "layout": {
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "identical_to_reference": false
+    },
+    {
+      "sequence": 60,
+      "collection": "03_ocre_queimado",
+      "filename": "item_317_2.png",
+      "source_server_id": 25580,
+      "source_client_id": 24695,
+      "target_server_id": 25804,
+      "target_client_id": 24919,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\paredes\\03_ocre_queimado\\item_317_2.png",
+      "sha256": "C4FEC6874465CCFDE9D058B7C236F8EA291B03DFD2F21E973FFAC23AD278DD08",
+      "png": {
+        "width": 32,
+        "height": 32,
+        "bit_depth": 8,
+        "color_type": 6,
+        "compression": 0,
+        "filter": 0,
+        "interlace": 0
+      },
+      "layout": {
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "identical_to_reference": false
+    },
+    {
+      "sequence": 61,
+      "collection": "03_ocre_queimado",
+      "filename": "item_318_.png",
+      "source_server_id": 25581,
+      "source_client_id": 24696,
+      "target_server_id": 25805,
+      "target_client_id": 24920,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\paredes\\03_ocre_queimado\\item_318_.png",
+      "sha256": "29595D417F8E9F1CFD6370CF3EA0353345434714051234D8DA1B21F8D0B2A268",
+      "png": {
+        "width": 32,
+        "height": 32,
+        "bit_depth": 8,
+        "color_type": 6,
+        "compression": 0,
+        "filter": 0,
+        "interlace": 0
+      },
+      "layout": {
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "identical_to_reference": false
+    },
+    {
+      "sequence": 62,
+      "collection": "03_ocre_queimado",
+      "filename": "item_319_.png",
+      "source_server_id": 25582,
+      "source_client_id": 24697,
+      "target_server_id": 25806,
+      "target_client_id": 24921,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\paredes\\03_ocre_queimado\\item_319_.png",
+      "sha256": "833AC78A116570BC00B33E46C588BF4B3376DB905BBF696FDCC7B227EF20D59F",
+      "png": {
+        "width": 32,
+        "height": 32,
+        "bit_depth": 8,
+        "color_type": 6,
+        "compression": 0,
+        "filter": 0,
+        "interlace": 0
+      },
+      "layout": {
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "identical_to_reference": false
+    },
+    {
+      "sequence": 63,
+      "collection": "03_ocre_queimado",
+      "filename": "item_320_.png",
+      "source_server_id": 25583,
+      "source_client_id": 24698,
+      "target_server_id": 25807,
+      "target_client_id": 24922,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\paredes\\03_ocre_queimado\\item_320_.png",
+      "sha256": "55BF221914305D8D356DB0F886A2D86E5B04453E4CBA9DAAB5335761C6C8C283",
+      "png": {
+        "width": 32,
+        "height": 32,
+        "bit_depth": 8,
+        "color_type": 6,
+        "compression": 0,
+        "filter": 0,
+        "interlace": 0
+      },
+      "layout": {
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "identical_to_reference": false
+    },
+    {
+      "sequence": 64,
+      "collection": "03_ocre_queimado",
+      "filename": "item_322_.png",
+      "source_server_id": 25584,
+      "source_client_id": 24699,
+      "target_server_id": 25808,
+      "target_client_id": 24923,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\paredes\\03_ocre_queimado\\item_322_.png",
+      "sha256": "093C65B4C99ABEF4A5352BE87E3EEC170C0F84C5FE648FD49570D659AD1A1CA6",
+      "png": {
+        "width": 32,
+        "height": 32,
+        "bit_depth": 8,
+        "color_type": 6,
+        "compression": 0,
+        "filter": 0,
+        "interlace": 0
+      },
+      "layout": {
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "identical_to_reference": false
+    },
+    {
+      "sequence": 65,
+      "collection": "03_ocre_queimado",
+      "filename": "item_323_.png",
+      "source_server_id": 25585,
+      "source_client_id": 24700,
+      "target_server_id": 25809,
+      "target_client_id": 24924,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\paredes\\03_ocre_queimado\\item_323_.png",
+      "sha256": "B9C04001A4ED648E6ED4F9D7E1A003EDEFF6B3B9DE54E30E7EB2DB1265EA10A2",
+      "png": {
+        "width": 32,
+        "height": 32,
+        "bit_depth": 8,
+        "color_type": 6,
+        "compression": 0,
+        "filter": 0,
+        "interlace": 0
+      },
+      "layout": {
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "identical_to_reference": false
+    },
+    {
+      "sequence": 66,
+      "collection": "03_ocre_queimado",
+      "filename": "item_756_.png",
+      "source_server_id": 25586,
+      "source_client_id": 24701,
+      "target_server_id": 25810,
+      "target_client_id": 24925,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\paredes\\03_ocre_queimado\\item_756_.png",
+      "sha256": "4DA2C0EC8005A2306BCDBCCA83D1E280134C2E3046BD64D2C80CC3656E9FBB4B",
+      "png": {
+        "width": 32,
+        "height": 32,
+        "bit_depth": 8,
+        "color_type": 6,
+        "compression": 0,
+        "filter": 0,
+        "interlace": 0
+      },
+      "layout": {
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "identical_to_reference": false
+    },
+    {
+      "sequence": 67,
+      "collection": "03_ocre_queimado",
+      "filename": "item_757_.png",
+      "source_server_id": 25587,
+      "source_client_id": 24702,
+      "target_server_id": 25811,
+      "target_client_id": 24926,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\paredes\\03_ocre_queimado\\item_757_.png",
+      "sha256": "E851D62EEDE374F53D16B5818143152FAD7C8F0CDB6126FE88FC76C466A72632",
+      "png": {
+        "width": 32,
+        "height": 32,
+        "bit_depth": 8,
+        "color_type": 6,
+        "compression": 0,
+        "filter": 0,
+        "interlace": 0
+      },
+      "layout": {
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "identical_to_reference": false
+    },
+    {
+      "sequence": 68,
+      "collection": "03_ocre_queimado",
+      "filename": "item_758_.png",
+      "source_server_id": 25588,
+      "source_client_id": 24703,
+      "target_server_id": 25812,
+      "target_client_id": 24927,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\paredes\\03_ocre_queimado\\item_758_.png",
+      "sha256": "CC0907CC7796A5ABB3DDC78F192E003C670463F8A1FF4C5ECAC6DB6CC62FA3E9",
+      "png": {
+        "width": 32,
+        "height": 32,
+        "bit_depth": 8,
+        "color_type": 6,
+        "compression": 0,
+        "filter": 0,
+        "interlace": 0
+      },
+      "layout": {
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "identical_to_reference": false
+    },
+    {
+      "sequence": 69,
+      "collection": "03_ocre_queimado",
+      "filename": "item_759_.png",
+      "source_server_id": 25589,
+      "source_client_id": 24704,
+      "target_server_id": 25813,
+      "target_client_id": 24928,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\paredes\\03_ocre_queimado\\item_759_.png",
+      "sha256": "0600A93B700BE7B64F98E271C84B933A32BC4F41D1F0B35A981DB83BBB772E73",
+      "png": {
+        "width": 32,
+        "height": 32,
+        "bit_depth": 8,
+        "color_type": 6,
+        "compression": 0,
+        "filter": 0,
+        "interlace": 0
+      },
+      "layout": {
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "identical_to_reference": false
+    },
+    {
+      "sequence": 70,
+      "collection": "03_ocre_queimado",
+      "filename": "item_760_.png",
+      "source_server_id": 25590,
+      "source_client_id": 24705,
+      "target_server_id": 25814,
+      "target_client_id": 24929,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\paredes\\03_ocre_queimado\\item_760_.png",
+      "sha256": "C12A0D729B0155CB1EE74D76DC2670E74747B0CC373F73F21D4253FD20C5A000",
+      "png": {
+        "width": 32,
+        "height": 32,
+        "bit_depth": 8,
+        "color_type": 6,
+        "compression": 0,
+        "filter": 0,
+        "interlace": 0
+      },
+      "layout": {
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "identical_to_reference": false
+    },
+    {
+      "sequence": 71,
+      "collection": "03_ocre_queimado",
+      "filename": "2.png",
+      "source_server_id": 25598,
+      "source_client_id": 24713,
+      "target_server_id": 25815,
+      "target_client_id": 24930,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\paredes\\03_ocre_queimado\\2.png",
+      "sha256": "1F470CF54836B5D362544D6CCB002F4EB46A48E61393C8C8AD8952036D7B59B9",
+      "png": {
+        "width": 256,
+        "height": 64,
+        "bit_depth": 8,
+        "color_type": 6,
+        "compression": 0,
+        "filter": 0,
+        "interlace": 0
+      },
+      "layout": {
+        "layers": 1,
+        "pattern_x": 4,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "identical_to_reference": false
+    },
+    {
+      "sequence": 72,
+      "collection": "03_ocre_queimado",
+      "filename": "toco_1036_.png",
+      "source_server_id": 25600,
+      "source_client_id": 24715,
+      "target_server_id": 25816,
+      "target_client_id": 24931,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\paredes\\03_ocre_queimado\\toco_1036_.png",
+      "sha256": "CF560F214DD85BA1B3945B9787C634AF150E7138CDB9C09F15E20A0405C2CA48",
+      "png": {
+        "width": 64,
+        "height": 64,
+        "bit_depth": 8,
+        "color_type": 6,
+        "compression": 0,
+        "filter": 0,
+        "interlace": 0
+      },
+      "layout": {
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "identical_to_reference": false
+    },
+    {
+      "sequence": 73,
+      "collection": "04_terracota",
+      "filename": "item_103_.png",
+      "source_server_id": 25575,
+      "source_client_id": 24690,
+      "target_server_id": 25817,
+      "target_client_id": 24932,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\paredes\\04_terracota\\item_103_.png",
+      "sha256": "B1F9133CD801DA032087D1CB29815FE4F74C56C23165E657A286E4C0981926D4",
+      "png": {
+        "width": 128,
+        "height": 96,
+        "bit_depth": 8,
+        "color_type": 6,
+        "compression": 0,
+        "filter": 0,
+        "interlace": 0
+      },
+      "layout": {
+        "layers": 1,
+        "pattern_x": 4,
+        "pattern_y": 3,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "identical_to_reference": false
+    },
+    {
+      "sequence": 74,
+      "collection": "04_terracota",
+      "filename": "item_355_.png",
+      "source_server_id": 25576,
+      "source_client_id": 24691,
+      "target_server_id": 25818,
+      "target_client_id": 24933,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\paredes\\04_terracota\\item_355_.png",
+      "sha256": "592E8136C8A36FECDEC370A27CF27AAE0A28C69FA29828D5CF5C44084641360C",
+      "png": {
+        "width": 128,
+        "height": 128,
+        "bit_depth": 8,
+        "color_type": 6,
+        "compression": 0,
+        "filter": 0,
+        "interlace": 0
+      },
+      "layout": {
+        "layers": 1,
+        "pattern_x": 4,
+        "pattern_y": 4,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "identical_to_reference": false
+    },
+    {
+      "sequence": 75,
+      "collection": "04_terracota",
+      "filename": "item_1038_.png",
+      "source_server_id": 25577,
+      "source_client_id": 24692,
+      "target_server_id": 25819,
+      "target_client_id": 24934,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\paredes\\04_terracota\\item_1038_.png",
+      "sha256": "0A4A4536499C72729CC053BAD987A7AE5591F357401A309B3BC4C48054028737",
+      "png": {
+        "width": 256,
+        "height": 64,
+        "bit_depth": 8,
+        "color_type": 6,
+        "compression": 0,
+        "filter": 0,
+        "interlace": 0
+      },
+      "layout": {
+        "layers": 1,
+        "pattern_x": 4,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "identical_to_reference": false
+    },
+    {
+      "sequence": 76,
+      "collection": "04_terracota",
+      "filename": "item_1040_.png",
+      "source_server_id": 25578,
+      "source_client_id": 24693,
+      "target_server_id": 25820,
+      "target_client_id": 24935,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\paredes\\04_terracota\\item_1040_.png",
+      "sha256": "BFA384962045DDDEB066AF35C6BD5E883A0D073953CE54D67C6FD5C3E59661D7",
+      "png": {
+        "width": 128,
+        "height": 64,
+        "bit_depth": 8,
+        "color_type": 6,
+        "compression": 0,
+        "filter": 0,
+        "interlace": 0
+      },
+      "layout": {
+        "layers": 1,
+        "pattern_x": 2,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "identical_to_reference": false
+    },
+    {
+      "sequence": 77,
+      "collection": "04_terracota",
+      "filename": "item_317_.png",
+      "source_server_id": 25579,
+      "source_client_id": 24694,
+      "target_server_id": 25821,
+      "target_client_id": 24936,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\paredes\\04_terracota\\item_317_.png",
+      "sha256": "BF5CEE7CF1F3A61E53597D156DEF57E9686C527E68C1274B3AF4019F9924D09A",
+      "png": {
+        "width": 32,
+        "height": 32,
+        "bit_depth": 8,
+        "color_type": 6,
+        "compression": 0,
+        "filter": 0,
+        "interlace": 0
+      },
+      "layout": {
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "identical_to_reference": false
+    },
+    {
+      "sequence": 78,
+      "collection": "04_terracota",
+      "filename": "item_317_2.png",
+      "source_server_id": 25580,
+      "source_client_id": 24695,
+      "target_server_id": 25822,
+      "target_client_id": 24937,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\paredes\\04_terracota\\item_317_2.png",
+      "sha256": "B50E49981CB6B6E0A3AAC8163FF1F76321F16CDFB47356266276C0463DCF9863",
+      "png": {
+        "width": 32,
+        "height": 32,
+        "bit_depth": 8,
+        "color_type": 6,
+        "compression": 0,
+        "filter": 0,
+        "interlace": 0
+      },
+      "layout": {
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "identical_to_reference": false
+    },
+    {
+      "sequence": 79,
+      "collection": "04_terracota",
+      "filename": "item_318_.png",
+      "source_server_id": 25581,
+      "source_client_id": 24696,
+      "target_server_id": 25823,
+      "target_client_id": 24938,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\paredes\\04_terracota\\item_318_.png",
+      "sha256": "6EF34247FA6CFBE99C027DD930CD08E4190AD34750F71DF14B272C69EE566464",
+      "png": {
+        "width": 32,
+        "height": 32,
+        "bit_depth": 8,
+        "color_type": 6,
+        "compression": 0,
+        "filter": 0,
+        "interlace": 0
+      },
+      "layout": {
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "identical_to_reference": false
+    },
+    {
+      "sequence": 80,
+      "collection": "04_terracota",
+      "filename": "item_319_.png",
+      "source_server_id": 25582,
+      "source_client_id": 24697,
+      "target_server_id": 25824,
+      "target_client_id": 24939,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\paredes\\04_terracota\\item_319_.png",
+      "sha256": "8B0D8D4FD94E2AE0678D96AB2446E3DAFD21C779A9D6C75DB35B3931735B1C62",
+      "png": {
+        "width": 32,
+        "height": 32,
+        "bit_depth": 8,
+        "color_type": 6,
+        "compression": 0,
+        "filter": 0,
+        "interlace": 0
+      },
+      "layout": {
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "identical_to_reference": false
+    },
+    {
+      "sequence": 81,
+      "collection": "04_terracota",
+      "filename": "item_320_.png",
+      "source_server_id": 25583,
+      "source_client_id": 24698,
+      "target_server_id": 25825,
+      "target_client_id": 24940,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\paredes\\04_terracota\\item_320_.png",
+      "sha256": "72B2569ECCE8E62971BDD65A28126FAC3B7CA485CC1E600F422F16066B0A38E0",
+      "png": {
+        "width": 32,
+        "height": 32,
+        "bit_depth": 8,
+        "color_type": 6,
+        "compression": 0,
+        "filter": 0,
+        "interlace": 0
+      },
+      "layout": {
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "identical_to_reference": false
+    },
+    {
+      "sequence": 82,
+      "collection": "04_terracota",
+      "filename": "item_322_.png",
+      "source_server_id": 25584,
+      "source_client_id": 24699,
+      "target_server_id": 25826,
+      "target_client_id": 24941,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\paredes\\04_terracota\\item_322_.png",
+      "sha256": "176A380CB03F550DDFFC6BD5CB9591B44420A79BD68AC52D5D64A2D6D6A8A230",
+      "png": {
+        "width": 32,
+        "height": 32,
+        "bit_depth": 8,
+        "color_type": 6,
+        "compression": 0,
+        "filter": 0,
+        "interlace": 0
+      },
+      "layout": {
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "identical_to_reference": false
+    },
+    {
+      "sequence": 83,
+      "collection": "04_terracota",
+      "filename": "item_323_.png",
+      "source_server_id": 25585,
+      "source_client_id": 24700,
+      "target_server_id": 25827,
+      "target_client_id": 24942,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\paredes\\04_terracota\\item_323_.png",
+      "sha256": "69A528A141A2910D0503D70BCF049A14F71CA2EC249B1B48978B4F6CD97B3F15",
+      "png": {
+        "width": 32,
+        "height": 32,
+        "bit_depth": 8,
+        "color_type": 6,
+        "compression": 0,
+        "filter": 0,
+        "interlace": 0
+      },
+      "layout": {
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "identical_to_reference": false
+    },
+    {
+      "sequence": 84,
+      "collection": "04_terracota",
+      "filename": "item_756_.png",
+      "source_server_id": 25586,
+      "source_client_id": 24701,
+      "target_server_id": 25828,
+      "target_client_id": 24943,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\paredes\\04_terracota\\item_756_.png",
+      "sha256": "6700E21EF41896F22A8533B26BD5ACA035CD5543855CDDED03FFE26949116955",
+      "png": {
+        "width": 32,
+        "height": 32,
+        "bit_depth": 8,
+        "color_type": 6,
+        "compression": 0,
+        "filter": 0,
+        "interlace": 0
+      },
+      "layout": {
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "identical_to_reference": false
+    },
+    {
+      "sequence": 85,
+      "collection": "04_terracota",
+      "filename": "item_757_.png",
+      "source_server_id": 25587,
+      "source_client_id": 24702,
+      "target_server_id": 25829,
+      "target_client_id": 24944,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\paredes\\04_terracota\\item_757_.png",
+      "sha256": "0080663C6DFF5707A25E40FA5112C4A15A4603169415E880F564322306FD155B",
+      "png": {
+        "width": 32,
+        "height": 32,
+        "bit_depth": 8,
+        "color_type": 6,
+        "compression": 0,
+        "filter": 0,
+        "interlace": 0
+      },
+      "layout": {
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "identical_to_reference": false
+    },
+    {
+      "sequence": 86,
+      "collection": "04_terracota",
+      "filename": "item_758_.png",
+      "source_server_id": 25588,
+      "source_client_id": 24703,
+      "target_server_id": 25830,
+      "target_client_id": 24945,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\paredes\\04_terracota\\item_758_.png",
+      "sha256": "EE5597CFFE9726C36BD9148009488B00812FA526D2A42CC3861B754EF20AFF34",
+      "png": {
+        "width": 32,
+        "height": 32,
+        "bit_depth": 8,
+        "color_type": 6,
+        "compression": 0,
+        "filter": 0,
+        "interlace": 0
+      },
+      "layout": {
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "identical_to_reference": false
+    },
+    {
+      "sequence": 87,
+      "collection": "04_terracota",
+      "filename": "item_759_.png",
+      "source_server_id": 25589,
+      "source_client_id": 24704,
+      "target_server_id": 25831,
+      "target_client_id": 24946,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\paredes\\04_terracota\\item_759_.png",
+      "sha256": "4A7E8F9D65DB620087D905A54FF7011F504A12147FFAB73C3B6737FD3890E70A",
+      "png": {
+        "width": 32,
+        "height": 32,
+        "bit_depth": 8,
+        "color_type": 6,
+        "compression": 0,
+        "filter": 0,
+        "interlace": 0
+      },
+      "layout": {
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "identical_to_reference": false
+    },
+    {
+      "sequence": 88,
+      "collection": "04_terracota",
+      "filename": "item_760_.png",
+      "source_server_id": 25590,
+      "source_client_id": 24705,
+      "target_server_id": 25832,
+      "target_client_id": 24947,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\paredes\\04_terracota\\item_760_.png",
+      "sha256": "1AD4B79F48124E14EFCD0EC8C6FDE502064A17C36ECE58A1630E6F3E75F881E3",
+      "png": {
+        "width": 32,
+        "height": 32,
+        "bit_depth": 8,
+        "color_type": 6,
+        "compression": 0,
+        "filter": 0,
+        "interlace": 0
+      },
+      "layout": {
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "identical_to_reference": false
+    },
+    {
+      "sequence": 89,
+      "collection": "04_terracota",
+      "filename": "2.png",
+      "source_server_id": 25598,
+      "source_client_id": 24713,
+      "target_server_id": 25833,
+      "target_client_id": 24948,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\paredes\\04_terracota\\2.png",
+      "sha256": "1E828F829D0886F56BD90A21F1F0C37403C2F02EE218F521679335B207C8A374",
+      "png": {
+        "width": 256,
+        "height": 64,
+        "bit_depth": 8,
+        "color_type": 6,
+        "compression": 0,
+        "filter": 0,
+        "interlace": 0
+      },
+      "layout": {
+        "layers": 1,
+        "pattern_x": 4,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "identical_to_reference": false
+    },
+    {
+      "sequence": 90,
+      "collection": "04_terracota",
+      "filename": "toco_1036_.png",
+      "source_server_id": 25600,
+      "source_client_id": 24715,
+      "target_server_id": 25834,
+      "target_client_id": 24949,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\paredes\\04_terracota\\toco_1036_.png",
+      "sha256": "32FFFF095AD1712AAFE636A05BE0C33BA4C78E2628584DBA80E415F49F321996",
+      "png": {
+        "width": 64,
+        "height": 64,
+        "bit_depth": 8,
+        "color_type": 6,
+        "compression": 0,
+        "filter": 0,
+        "interlace": 0
+      },
+      "layout": {
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "identical_to_reference": false
+    },
+    {
+      "sequence": 91,
+      "collection": "05_oliva_seco",
+      "filename": "item_103_.png",
+      "source_server_id": 25575,
+      "source_client_id": 24690,
+      "target_server_id": 25835,
+      "target_client_id": 24950,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\paredes\\05_oliva_seco\\item_103_.png",
+      "sha256": "0691DC4CA2D69734E8C42435E6293217088CCFB169A8C9E333842DAE6D801F38",
+      "png": {
+        "width": 128,
+        "height": 96,
+        "bit_depth": 8,
+        "color_type": 6,
+        "compression": 0,
+        "filter": 0,
+        "interlace": 0
+      },
+      "layout": {
+        "layers": 1,
+        "pattern_x": 4,
+        "pattern_y": 3,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "identical_to_reference": false
+    },
+    {
+      "sequence": 92,
+      "collection": "05_oliva_seco",
+      "filename": "item_355_.png",
+      "source_server_id": 25576,
+      "source_client_id": 24691,
+      "target_server_id": 25836,
+      "target_client_id": 24951,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\paredes\\05_oliva_seco\\item_355_.png",
+      "sha256": "AB82682E708861C1D646FAFC541450C835C7F5E6FB94A35D644928329249C653",
+      "png": {
+        "width": 128,
+        "height": 128,
+        "bit_depth": 8,
+        "color_type": 6,
+        "compression": 0,
+        "filter": 0,
+        "interlace": 0
+      },
+      "layout": {
+        "layers": 1,
+        "pattern_x": 4,
+        "pattern_y": 4,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "identical_to_reference": false
+    },
+    {
+      "sequence": 93,
+      "collection": "05_oliva_seco",
+      "filename": "item_1038_.png",
+      "source_server_id": 25577,
+      "source_client_id": 24692,
+      "target_server_id": 25837,
+      "target_client_id": 24952,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\paredes\\05_oliva_seco\\item_1038_.png",
+      "sha256": "EC3D9709918271A7143196E3618A3533EC2272AC06CAE72A7EEBDEDDC826D4ED",
+      "png": {
+        "width": 256,
+        "height": 64,
+        "bit_depth": 8,
+        "color_type": 6,
+        "compression": 0,
+        "filter": 0,
+        "interlace": 0
+      },
+      "layout": {
+        "layers": 1,
+        "pattern_x": 4,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "identical_to_reference": false
+    },
+    {
+      "sequence": 94,
+      "collection": "05_oliva_seco",
+      "filename": "item_1040_.png",
+      "source_server_id": 25578,
+      "source_client_id": 24693,
+      "target_server_id": 25838,
+      "target_client_id": 24953,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\paredes\\05_oliva_seco\\item_1040_.png",
+      "sha256": "F0224C153DCAF145CE6C094F9DC24B3EBC298510E703847EE1E3DA9EA8F3099E",
+      "png": {
+        "width": 128,
+        "height": 64,
+        "bit_depth": 8,
+        "color_type": 6,
+        "compression": 0,
+        "filter": 0,
+        "interlace": 0
+      },
+      "layout": {
+        "layers": 1,
+        "pattern_x": 2,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "identical_to_reference": false
+    },
+    {
+      "sequence": 95,
+      "collection": "05_oliva_seco",
+      "filename": "item_317_.png",
+      "source_server_id": 25579,
+      "source_client_id": 24694,
+      "target_server_id": 25839,
+      "target_client_id": 24954,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\paredes\\05_oliva_seco\\item_317_.png",
+      "sha256": "B1D496DCA7D5F84521600E4C247A9A91FC6ACCAF7CA586F09FCD7B16AAAD1B4E",
+      "png": {
+        "width": 32,
+        "height": 32,
+        "bit_depth": 8,
+        "color_type": 6,
+        "compression": 0,
+        "filter": 0,
+        "interlace": 0
+      },
+      "layout": {
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "identical_to_reference": false
+    },
+    {
+      "sequence": 96,
+      "collection": "05_oliva_seco",
+      "filename": "item_317_2.png",
+      "source_server_id": 25580,
+      "source_client_id": 24695,
+      "target_server_id": 25840,
+      "target_client_id": 24955,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\paredes\\05_oliva_seco\\item_317_2.png",
+      "sha256": "CEC7375448231FE590B4EA1A512972CC2F3EF33B3AE40FD76E0246EDB98FCFE0",
+      "png": {
+        "width": 32,
+        "height": 32,
+        "bit_depth": 8,
+        "color_type": 6,
+        "compression": 0,
+        "filter": 0,
+        "interlace": 0
+      },
+      "layout": {
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "identical_to_reference": false
+    },
+    {
+      "sequence": 97,
+      "collection": "05_oliva_seco",
+      "filename": "item_318_.png",
+      "source_server_id": 25581,
+      "source_client_id": 24696,
+      "target_server_id": 25841,
+      "target_client_id": 24956,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\paredes\\05_oliva_seco\\item_318_.png",
+      "sha256": "FA11FCDFF1B71B25BFC5CB5BA78BB34265F43634BEA4FC09BC7564212CC5E842",
+      "png": {
+        "width": 32,
+        "height": 32,
+        "bit_depth": 8,
+        "color_type": 6,
+        "compression": 0,
+        "filter": 0,
+        "interlace": 0
+      },
+      "layout": {
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "identical_to_reference": false
+    },
+    {
+      "sequence": 98,
+      "collection": "05_oliva_seco",
+      "filename": "item_319_.png",
+      "source_server_id": 25582,
+      "source_client_id": 24697,
+      "target_server_id": 25842,
+      "target_client_id": 24957,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\paredes\\05_oliva_seco\\item_319_.png",
+      "sha256": "7584FA325FF779BF276275E83BD1F6DF9FD44CF470E308BA7C9293C98FEEABB8",
+      "png": {
+        "width": 32,
+        "height": 32,
+        "bit_depth": 8,
+        "color_type": 6,
+        "compression": 0,
+        "filter": 0,
+        "interlace": 0
+      },
+      "layout": {
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "identical_to_reference": false
+    },
+    {
+      "sequence": 99,
+      "collection": "05_oliva_seco",
+      "filename": "item_320_.png",
+      "source_server_id": 25583,
+      "source_client_id": 24698,
+      "target_server_id": 25843,
+      "target_client_id": 24958,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\paredes\\05_oliva_seco\\item_320_.png",
+      "sha256": "CBDA96251F49F06C0CEECD9CFE8EF30F74ED56997C18FFB8B6E2DEA157FFE95C",
+      "png": {
+        "width": 32,
+        "height": 32,
+        "bit_depth": 8,
+        "color_type": 6,
+        "compression": 0,
+        "filter": 0,
+        "interlace": 0
+      },
+      "layout": {
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "identical_to_reference": false
+    },
+    {
+      "sequence": 100,
+      "collection": "05_oliva_seco",
+      "filename": "item_322_.png",
+      "source_server_id": 25584,
+      "source_client_id": 24699,
+      "target_server_id": 25844,
+      "target_client_id": 24959,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\paredes\\05_oliva_seco\\item_322_.png",
+      "sha256": "EFD1345B2D2DE328263AF39A4BDB1A59B9FC46410C8DBA9CDA6AEF7FCC021D60",
+      "png": {
+        "width": 32,
+        "height": 32,
+        "bit_depth": 8,
+        "color_type": 6,
+        "compression": 0,
+        "filter": 0,
+        "interlace": 0
+      },
+      "layout": {
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "identical_to_reference": false
+    },
+    {
+      "sequence": 101,
+      "collection": "05_oliva_seco",
+      "filename": "item_323_.png",
+      "source_server_id": 25585,
+      "source_client_id": 24700,
+      "target_server_id": 25845,
+      "target_client_id": 24960,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\paredes\\05_oliva_seco\\item_323_.png",
+      "sha256": "7F6138E0D7F0B4E04ED70C2A035DE736662A621E2787B15AB2ABA8EEFC2F4C9D",
+      "png": {
+        "width": 32,
+        "height": 32,
+        "bit_depth": 8,
+        "color_type": 6,
+        "compression": 0,
+        "filter": 0,
+        "interlace": 0
+      },
+      "layout": {
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "identical_to_reference": false
+    },
+    {
+      "sequence": 102,
+      "collection": "05_oliva_seco",
+      "filename": "item_756_.png",
+      "source_server_id": 25586,
+      "source_client_id": 24701,
+      "target_server_id": 25846,
+      "target_client_id": 24961,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\paredes\\05_oliva_seco\\item_756_.png",
+      "sha256": "9D9D9E9CDBEA594B88271BADB95A721CC946267C75C70CFDDD08B9E1E5B3C837",
+      "png": {
+        "width": 32,
+        "height": 32,
+        "bit_depth": 8,
+        "color_type": 6,
+        "compression": 0,
+        "filter": 0,
+        "interlace": 0
+      },
+      "layout": {
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "identical_to_reference": false
+    },
+    {
+      "sequence": 103,
+      "collection": "05_oliva_seco",
+      "filename": "item_757_.png",
+      "source_server_id": 25587,
+      "source_client_id": 24702,
+      "target_server_id": 25847,
+      "target_client_id": 24962,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\paredes\\05_oliva_seco\\item_757_.png",
+      "sha256": "B3A049BABDB46A98DEF75D99F697A4CE6F75C07AC3B8D9D520E50E26F35C4854",
+      "png": {
+        "width": 32,
+        "height": 32,
+        "bit_depth": 8,
+        "color_type": 6,
+        "compression": 0,
+        "filter": 0,
+        "interlace": 0
+      },
+      "layout": {
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "identical_to_reference": false
+    },
+    {
+      "sequence": 104,
+      "collection": "05_oliva_seco",
+      "filename": "item_758_.png",
+      "source_server_id": 25588,
+      "source_client_id": 24703,
+      "target_server_id": 25848,
+      "target_client_id": 24963,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\paredes\\05_oliva_seco\\item_758_.png",
+      "sha256": "EDCEE1E433EA1271F9706B858EE4C7A766508898BB4BCC1E13430C2C40DAC12E",
+      "png": {
+        "width": 32,
+        "height": 32,
+        "bit_depth": 8,
+        "color_type": 6,
+        "compression": 0,
+        "filter": 0,
+        "interlace": 0
+      },
+      "layout": {
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "identical_to_reference": false
+    },
+    {
+      "sequence": 105,
+      "collection": "05_oliva_seco",
+      "filename": "item_759_.png",
+      "source_server_id": 25589,
+      "source_client_id": 24704,
+      "target_server_id": 25849,
+      "target_client_id": 24964,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\paredes\\05_oliva_seco\\item_759_.png",
+      "sha256": "67FE422630A452F2C00968AB1A765DED5BFA5FDC7F68D8BFCBDDBE58D684F896",
+      "png": {
+        "width": 32,
+        "height": 32,
+        "bit_depth": 8,
+        "color_type": 6,
+        "compression": 0,
+        "filter": 0,
+        "interlace": 0
+      },
+      "layout": {
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "identical_to_reference": false
+    },
+    {
+      "sequence": 106,
+      "collection": "05_oliva_seco",
+      "filename": "item_760_.png",
+      "source_server_id": 25590,
+      "source_client_id": 24705,
+      "target_server_id": 25850,
+      "target_client_id": 24965,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\paredes\\05_oliva_seco\\item_760_.png",
+      "sha256": "530420F185D4A0A2483F803D31C7F4C7983E4CAEE348161FF2D257685D45B88C",
+      "png": {
+        "width": 32,
+        "height": 32,
+        "bit_depth": 8,
+        "color_type": 6,
+        "compression": 0,
+        "filter": 0,
+        "interlace": 0
+      },
+      "layout": {
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "identical_to_reference": false
+    },
+    {
+      "sequence": 107,
+      "collection": "05_oliva_seco",
+      "filename": "2.png",
+      "source_server_id": 25598,
+      "source_client_id": 24713,
+      "target_server_id": 25851,
+      "target_client_id": 24966,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\paredes\\05_oliva_seco\\2.png",
+      "sha256": "7B24D72CFBA6325C415091B445F36D3F0EB90FF5AB37254226E14B2B6EB72956",
+      "png": {
+        "width": 256,
+        "height": 64,
+        "bit_depth": 8,
+        "color_type": 6,
+        "compression": 0,
+        "filter": 0,
+        "interlace": 0
+      },
+      "layout": {
+        "layers": 1,
+        "pattern_x": 4,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "identical_to_reference": false
+    },
+    {
+      "sequence": 108,
+      "collection": "05_oliva_seco",
+      "filename": "toco_1036_.png",
+      "source_server_id": 25600,
+      "source_client_id": 24715,
+      "target_server_id": 25852,
+      "target_client_id": 24967,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\paredes\\05_oliva_seco\\toco_1036_.png",
+      "sha256": "27FB99366D8E09297A6E6EE97CFD8E06C458B8A4D57DA2314B78FE460A487715",
+      "png": {
+        "width": 64,
+        "height": 64,
+        "bit_depth": 8,
+        "color_type": 6,
+        "compression": 0,
+        "filter": 0,
+        "interlace": 0
+      },
+      "layout": {
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "identical_to_reference": false
+    },
+    {
+      "sequence": 109,
+      "collection": "06_cinza_quente",
+      "filename": "item_103_.png",
+      "source_server_id": 25575,
+      "source_client_id": 24690,
+      "target_server_id": 25853,
+      "target_client_id": 24968,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\paredes\\06_cinza_quente\\item_103_.png",
+      "sha256": "136D7190249B80FAA726D4EDFBE8BA23802FD0EE9E4E0B1144518B7993FF5F49",
+      "png": {
+        "width": 128,
+        "height": 96,
+        "bit_depth": 8,
+        "color_type": 6,
+        "compression": 0,
+        "filter": 0,
+        "interlace": 0
+      },
+      "layout": {
+        "layers": 1,
+        "pattern_x": 4,
+        "pattern_y": 3,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "identical_to_reference": false
+    },
+    {
+      "sequence": 110,
+      "collection": "06_cinza_quente",
+      "filename": "item_355_.png",
+      "source_server_id": 25576,
+      "source_client_id": 24691,
+      "target_server_id": 25854,
+      "target_client_id": 24969,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\paredes\\06_cinza_quente\\item_355_.png",
+      "sha256": "D34D6EF37D807B769092A478DFFF35EDABF052ADFB1C4162CBA382A0A4B43730",
+      "png": {
+        "width": 128,
+        "height": 128,
+        "bit_depth": 8,
+        "color_type": 6,
+        "compression": 0,
+        "filter": 0,
+        "interlace": 0
+      },
+      "layout": {
+        "layers": 1,
+        "pattern_x": 4,
+        "pattern_y": 4,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "identical_to_reference": false
+    },
+    {
+      "sequence": 111,
+      "collection": "06_cinza_quente",
+      "filename": "item_1038_.png",
+      "source_server_id": 25577,
+      "source_client_id": 24692,
+      "target_server_id": 25855,
+      "target_client_id": 24970,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\paredes\\06_cinza_quente\\item_1038_.png",
+      "sha256": "670541C5771A216D1F67F6D2CDCF662250E835787A47BECE0A4630EB54BEE60A",
+      "png": {
+        "width": 256,
+        "height": 64,
+        "bit_depth": 8,
+        "color_type": 6,
+        "compression": 0,
+        "filter": 0,
+        "interlace": 0
+      },
+      "layout": {
+        "layers": 1,
+        "pattern_x": 4,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "identical_to_reference": false
+    },
+    {
+      "sequence": 112,
+      "collection": "06_cinza_quente",
+      "filename": "item_1040_.png",
+      "source_server_id": 25578,
+      "source_client_id": 24693,
+      "target_server_id": 25856,
+      "target_client_id": 24971,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\paredes\\06_cinza_quente\\item_1040_.png",
+      "sha256": "DF169109261C6F7B7C30F9AA183C7FA378F44382D80F829C97DE2BBAC562AA35",
+      "png": {
+        "width": 128,
+        "height": 64,
+        "bit_depth": 8,
+        "color_type": 6,
+        "compression": 0,
+        "filter": 0,
+        "interlace": 0
+      },
+      "layout": {
+        "layers": 1,
+        "pattern_x": 2,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "identical_to_reference": false
+    },
+    {
+      "sequence": 113,
+      "collection": "06_cinza_quente",
+      "filename": "item_317_.png",
+      "source_server_id": 25579,
+      "source_client_id": 24694,
+      "target_server_id": 25857,
+      "target_client_id": 24972,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\paredes\\06_cinza_quente\\item_317_.png",
+      "sha256": "EA3D883550405ACAB82DCCA90D78BA7D562F7119AB8850277FE1A93029632EDD",
+      "png": {
+        "width": 32,
+        "height": 32,
+        "bit_depth": 8,
+        "color_type": 6,
+        "compression": 0,
+        "filter": 0,
+        "interlace": 0
+      },
+      "layout": {
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "identical_to_reference": false
+    },
+    {
+      "sequence": 114,
+      "collection": "06_cinza_quente",
+      "filename": "item_317_2.png",
+      "source_server_id": 25580,
+      "source_client_id": 24695,
+      "target_server_id": 25858,
+      "target_client_id": 24973,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\paredes\\06_cinza_quente\\item_317_2.png",
+      "sha256": "AAE05C6AF14C398B61CBA00CA2E22C33FB0EB40604050C5817F1FEC0C0EBEB8B",
+      "png": {
+        "width": 32,
+        "height": 32,
+        "bit_depth": 8,
+        "color_type": 6,
+        "compression": 0,
+        "filter": 0,
+        "interlace": 0
+      },
+      "layout": {
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "identical_to_reference": false
+    },
+    {
+      "sequence": 115,
+      "collection": "06_cinza_quente",
+      "filename": "item_318_.png",
+      "source_server_id": 25581,
+      "source_client_id": 24696,
+      "target_server_id": 25859,
+      "target_client_id": 24974,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\paredes\\06_cinza_quente\\item_318_.png",
+      "sha256": "CA94275C74698D8C08C731E5E0ADB9F32529E91168105E613FC86B1BFD9D348A",
+      "png": {
+        "width": 32,
+        "height": 32,
+        "bit_depth": 8,
+        "color_type": 6,
+        "compression": 0,
+        "filter": 0,
+        "interlace": 0
+      },
+      "layout": {
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "identical_to_reference": false
+    },
+    {
+      "sequence": 116,
+      "collection": "06_cinza_quente",
+      "filename": "item_319_.png",
+      "source_server_id": 25582,
+      "source_client_id": 24697,
+      "target_server_id": 25860,
+      "target_client_id": 24975,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\paredes\\06_cinza_quente\\item_319_.png",
+      "sha256": "1CE63C67FEFDF4029955A82489DD621DB796161358616CDF456FE116F0FF3EB3",
+      "png": {
+        "width": 32,
+        "height": 32,
+        "bit_depth": 8,
+        "color_type": 6,
+        "compression": 0,
+        "filter": 0,
+        "interlace": 0
+      },
+      "layout": {
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "identical_to_reference": false
+    },
+    {
+      "sequence": 117,
+      "collection": "06_cinza_quente",
+      "filename": "item_320_.png",
+      "source_server_id": 25583,
+      "source_client_id": 24698,
+      "target_server_id": 25861,
+      "target_client_id": 24976,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\paredes\\06_cinza_quente\\item_320_.png",
+      "sha256": "4237934E349978B9A3DC2636E063A563095B8396B782EFE65BDF0FC03DB8B5DC",
+      "png": {
+        "width": 32,
+        "height": 32,
+        "bit_depth": 8,
+        "color_type": 6,
+        "compression": 0,
+        "filter": 0,
+        "interlace": 0
+      },
+      "layout": {
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "identical_to_reference": false
+    },
+    {
+      "sequence": 118,
+      "collection": "06_cinza_quente",
+      "filename": "item_322_.png",
+      "source_server_id": 25584,
+      "source_client_id": 24699,
+      "target_server_id": 25862,
+      "target_client_id": 24977,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\paredes\\06_cinza_quente\\item_322_.png",
+      "sha256": "E8A38D756184C1EFBA07CE9B58CE08A572AE005B0F1AAF801BFC6C1ABD7D57C6",
+      "png": {
+        "width": 32,
+        "height": 32,
+        "bit_depth": 8,
+        "color_type": 6,
+        "compression": 0,
+        "filter": 0,
+        "interlace": 0
+      },
+      "layout": {
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "identical_to_reference": false
+    },
+    {
+      "sequence": 119,
+      "collection": "06_cinza_quente",
+      "filename": "item_323_.png",
+      "source_server_id": 25585,
+      "source_client_id": 24700,
+      "target_server_id": 25863,
+      "target_client_id": 24978,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\paredes\\06_cinza_quente\\item_323_.png",
+      "sha256": "8BCA450C4E2EFD3EA9B7C3C7EEAE5043AFC2AC3101C6F5A61F928C7D958990E9",
+      "png": {
+        "width": 32,
+        "height": 32,
+        "bit_depth": 8,
+        "color_type": 6,
+        "compression": 0,
+        "filter": 0,
+        "interlace": 0
+      },
+      "layout": {
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "identical_to_reference": false
+    },
+    {
+      "sequence": 120,
+      "collection": "06_cinza_quente",
+      "filename": "item_756_.png",
+      "source_server_id": 25586,
+      "source_client_id": 24701,
+      "target_server_id": 25864,
+      "target_client_id": 24979,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\paredes\\06_cinza_quente\\item_756_.png",
+      "sha256": "B9981393A9B176D59565DCBB794C2F857EB86A745E6679DB7F33243DA71B3F4E",
+      "png": {
+        "width": 32,
+        "height": 32,
+        "bit_depth": 8,
+        "color_type": 6,
+        "compression": 0,
+        "filter": 0,
+        "interlace": 0
+      },
+      "layout": {
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "identical_to_reference": false
+    },
+    {
+      "sequence": 121,
+      "collection": "06_cinza_quente",
+      "filename": "item_757_.png",
+      "source_server_id": 25587,
+      "source_client_id": 24702,
+      "target_server_id": 25865,
+      "target_client_id": 24980,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\paredes\\06_cinza_quente\\item_757_.png",
+      "sha256": "FBDE7CC7A138CDD45D56FC25E1B7ED539662E073E4EFE2A825089AD1EDCE7F2E",
+      "png": {
+        "width": 32,
+        "height": 32,
+        "bit_depth": 8,
+        "color_type": 6,
+        "compression": 0,
+        "filter": 0,
+        "interlace": 0
+      },
+      "layout": {
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "identical_to_reference": false
+    },
+    {
+      "sequence": 122,
+      "collection": "06_cinza_quente",
+      "filename": "item_758_.png",
+      "source_server_id": 25588,
+      "source_client_id": 24703,
+      "target_server_id": 25866,
+      "target_client_id": 24981,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\paredes\\06_cinza_quente\\item_758_.png",
+      "sha256": "CF590EFCE535E737C9260D3DEADBA53E96815ECCB78665EEEC76B1F0AC52C8B3",
+      "png": {
+        "width": 32,
+        "height": 32,
+        "bit_depth": 8,
+        "color_type": 6,
+        "compression": 0,
+        "filter": 0,
+        "interlace": 0
+      },
+      "layout": {
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "identical_to_reference": false
+    },
+    {
+      "sequence": 123,
+      "collection": "06_cinza_quente",
+      "filename": "item_759_.png",
+      "source_server_id": 25589,
+      "source_client_id": 24704,
+      "target_server_id": 25867,
+      "target_client_id": 24982,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\paredes\\06_cinza_quente\\item_759_.png",
+      "sha256": "ED489265132199D1355DD978111F0E25BB173E6775FE722305F0D1BF4F97D468",
+      "png": {
+        "width": 32,
+        "height": 32,
+        "bit_depth": 8,
+        "color_type": 6,
+        "compression": 0,
+        "filter": 0,
+        "interlace": 0
+      },
+      "layout": {
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "identical_to_reference": false
+    },
+    {
+      "sequence": 124,
+      "collection": "06_cinza_quente",
+      "filename": "item_760_.png",
+      "source_server_id": 25590,
+      "source_client_id": 24705,
+      "target_server_id": 25868,
+      "target_client_id": 24983,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\paredes\\06_cinza_quente\\item_760_.png",
+      "sha256": "95DE8EA46030C17127EFD32B3CCB91FB385F15C1E71C5FE4AE6FECD9FA3BE954",
+      "png": {
+        "width": 32,
+        "height": 32,
+        "bit_depth": 8,
+        "color_type": 6,
+        "compression": 0,
+        "filter": 0,
+        "interlace": 0
+      },
+      "layout": {
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "identical_to_reference": false
+    },
+    {
+      "sequence": 125,
+      "collection": "06_cinza_quente",
+      "filename": "2.png",
+      "source_server_id": 25598,
+      "source_client_id": 24713,
+      "target_server_id": 25869,
+      "target_client_id": 24984,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\paredes\\06_cinza_quente\\2.png",
+      "sha256": "81211B79C870A2EF1C18BF10904FA04BD3DFA0605AF96EAC01EA8DEE5090CA53",
+      "png": {
+        "width": 256,
+        "height": 64,
+        "bit_depth": 8,
+        "color_type": 6,
+        "compression": 0,
+        "filter": 0,
+        "interlace": 0
+      },
+      "layout": {
+        "layers": 1,
+        "pattern_x": 4,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "identical_to_reference": false
+    },
+    {
+      "sequence": 126,
+      "collection": "06_cinza_quente",
+      "filename": "toco_1036_.png",
+      "source_server_id": 25600,
+      "source_client_id": 24715,
+      "target_server_id": 25870,
+      "target_client_id": 24985,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\paredes\\06_cinza_quente\\toco_1036_.png",
+      "sha256": "5C83B5BA08326B514C83D16BC15B3DBB25DFEE0853A58A64A0159A9433F4821A",
+      "png": {
+        "width": 64,
+        "height": 64,
+        "bit_depth": 8,
+        "color_type": 6,
+        "compression": 0,
+        "filter": 0,
+        "interlace": 0
+      },
+      "layout": {
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "identical_to_reference": false
+    }
+  ]
+}

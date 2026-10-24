@@ -1,0 +1,17 @@
+sequence,source_server_id,target_server_id,target_client_id,source_path,frame_width,frame_height,frames,frame_duration_ms,animation_async
+1,25565,26798,25913,portao/parede1.png,64,64,1,,0
+2,25565,26799,25914,portao/pilar1.png,96,96,1,,0
+3,25565,26800,25915,portao/pilar2.png,96,96,1,,0
+4,25565,26801,25916,portao/pilar3.png,96,96,1,,0
+5,25565,26802,25917,portao/pilar4.png,96,96,1,,0
+6,25565,26803,25918,portao/pilar5.png,96,96,1,,0
+7,25565,26804,25919,portao/portao1.png,64,64,1,,0
+8,25565,26805,25920,portao/portao3.png,64,64,1,,0
+9,25565,26806,25921,portao/portao4.png,64,64,1,,0
+10,25565,26807,25922,portao/portao5.png,64,64,1,,0
+11,25565,26808,25923,portao/portao6.png,64,64,1,,0
+12,25565,26809,25924,portao/portao7.png,64,64,1,,0
+13,25565,26810,25925,portao/portao8.png,64,64,1,,0
+14,25565,26811,25926,portao/portao9.png,64,64,1,,0
+15,25565,26812,25927,portao/portao10.png,64,64,1,,0
+16,25565,26813,25928,portao/portao21.png,64,64,1,,0

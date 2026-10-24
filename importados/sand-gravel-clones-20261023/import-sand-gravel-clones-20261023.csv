@@ -1,0 +1,14 @@
+sequence,source_server_id,target_server_id,target_client_id,source_path,frame_width,frame_height,frames,frame_duration_ms,animation_async,layers,pattern_x,pattern_y,pattern_z
+1,25599,26814,25929,server-25599_client-24714_sand-gravel.png,32,32,1,,0,1,2,2,1
+2,25599,26815,25930,server-17350_client-16465.png,64,32,1,,0,1,1,1,1
+3,25599,26816,25931,server-17351_client-16466.png,32,64,1,,0,1,1,1,1
+4,25599,26817,25932,server-17352_client-16467.png,64,32,1,,0,1,1,1,1
+5,25599,26818,25933,server-17353_client-16468.png,32,64,1,,0,1,1,1,1
+6,25599,26819,25934,server-17354_client-16469.png,32,32,1,,0,1,1,1,1
+7,25599,26820,25935,server-17355_client-16470.png,32,32,1,,0,1,1,1,1
+8,25599,26821,25936,server-17356_client-16471.png,32,32,1,,0,1,1,1,1
+9,25599,26822,25937,server-17357_client-16472.png,32,32,1,,0,1,1,1,1
+10,25599,26823,25938,server-17358_client-16473.png,32,32,1,,0,1,1,1,1
+11,25599,26824,25939,server-17359_client-16474.png,32,32,1,,0,1,1,1,1
+12,25599,26825,25940,server-17360_client-16475.png,32,32,1,,0,1,1,1,1
+13,25599,26826,25941,server-17361_client-16476.png,32,32,1,,0,1,1,1,1

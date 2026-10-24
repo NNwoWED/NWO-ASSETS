@@ -1,0 +1,62 @@
+{
+  "passed": true,
+  "method": "RGBA byte comparison between source PNG and DAT/SPR re-export",
+  "items": [
+    {
+      "server_id": 25562,
+      "client_id": 24677,
+      "source": "importados/iwagakure-remakes-20261023/Parede_Iwagakure_remake.png",
+      "export": "export/iwagakure-remakes-20261023/server-25562_client-24677_stone-wall.png",
+      "size": [192, 64],
+      "frame_size": [64, 64],
+      "layers": 1,
+      "pattern_x": 3,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "pixel_exact": true
+    },
+    {
+      "server_id": 25563,
+      "client_id": 24678,
+      "source": "importados/iwagakure-remakes-20261023/Parede_Iwagakure_remake2.png",
+      "export": "export/iwagakure-remakes-20261023/server-25563_client-24678_stone-wall.png",
+      "size": [192, 64],
+      "frame_size": [64, 64],
+      "layers": 1,
+      "pattern_x": 3,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "pixel_exact": true
+    },
+    {
+      "server_id": 25575,
+      "client_id": 24690,
+      "source": "importados/iwagakure-remakes-20261023/Parede_Iwagakure_remake3.png",
+      "export": "export/iwagakure-remakes-20261023/server-25575_client-24690_rocky-terrain.png",
+      "size": [64, 64],
+      "frame_size": [64, 64],
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "pixel_exact": true
+    },
+    {
+      "server_id": 26797,
+      "client_id": 25912,
+      "source": "importados/iwagakure-remakes-20261023/image1.png",
+      "export": "export/iwagakure-remakes-20261023/server-26797_client-25912_stone-wall.png",
+      "size": [32, 32],
+      "frame_size": [32, 32],
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "pixel_exact": true
+    }
+  ]
+}

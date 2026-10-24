@@ -1,0 +1,2904 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "profile": {
+    "key": "tibia-860-v2-custom-extended",
+    "client_version": 860,
+    "label": "Tibia 8.60 v2 customizado com features OTFI",
+    "dat_signature": "0x4C2C7993",
+    "spr_signature": "0x4C220594",
+    "metadata_reader": 5,
+    "otb_version_hint": "8.60"
+  },
+  "category": "items",
+  "id_kind": "server",
+  "requested_ids": [
+    26827,
+    26828,
+    26829,
+    26830,
+    26831,
+    26832,
+    26833,
+    26834,
+    26835,
+    26836,
+    26837,
+    26838,
+    26839,
+    26840,
+    26841,
+    26842,
+    26843,
+    26844,
+    26845,
+    26846,
+    26847,
+    26848,
+    26849,
+    26850,
+    26851,
+    26852,
+    26853,
+    26854,
+    26855,
+    26856,
+    26857,
+    26858,
+    26859,
+    26860,
+    26861,
+    26862,
+    26863,
+    26864,
+    26865,
+    26866,
+    26867,
+    26868,
+    26869,
+    26870,
+    26871,
+    26872,
+    26873,
+    26874,
+    26875,
+    26876,
+    26877,
+    26878,
+    26879,
+    26880,
+    26881,
+    26882,
+    26883,
+    26884,
+    26885,
+    26886,
+    26887,
+    26888,
+    26889,
+    26890,
+    26891,
+    26892,
+    26893,
+    26894,
+    26895,
+    26896,
+    26897,
+    26898,
+    26899,
+    26900,
+    26901,
+    26902,
+    26903,
+    26904,
+    26905,
+    26906,
+    26907,
+    26908,
+    26909,
+    26910,
+    26911,
+    26912,
+    26913,
+    26914,
+    26915,
+    26916,
+    26917,
+    26918,
+    26919,
+    26920,
+    26921,
+    26922,
+    26923,
+    26924,
+    26925,
+    26926,
+    26927,
+    26928,
+    26929,
+    26930,
+    26931,
+    26932,
+    26933
+  ],
+  "output_dir": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwa-city-walls-roofs-20261023",
+  "exported_count": 107,
+  "exported": [
+    {
+      "requested_id": 26827,
+      "client_id": 25942,
+      "server_ids": [
+        26827
+      ],
+      "name": "Stone wall",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        292677,
+        292678,
+        292679,
+        292680
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwa-city-walls-roofs-20261023\\server-26827_client-25942_stone-wall.png",
+      "size": 844,
+      "sha256": "C2963DB91731D08630564D9C05397A0FB84E4DBC204230530794E067FD03E6B3"
+    },
+    {
+      "requested_id": 26828,
+      "client_id": 25943,
+      "server_ids": [
+        26828
+      ],
+      "name": "Stone wall",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        292681,
+        292682,
+        292683,
+        292684
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwa-city-walls-roofs-20261023\\server-26828_client-25943_stone-wall.png",
+      "size": 914,
+      "sha256": "2CF8236FB175463311578597296A3C5B7A26BDE1C0DACE0C3153BE6821FD6811"
+    },
+    {
+      "requested_id": 26829,
+      "client_id": 25944,
+      "server_ids": [
+        26829
+      ],
+      "name": "Stone wall",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        292685,
+        292686,
+        292687,
+        292688
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwa-city-walls-roofs-20261023\\server-26829_client-25944_stone-wall.png",
+      "size": 928,
+      "sha256": "563D7A0D14EE1B62FC36D52CFB5A7122B6EBCCF82F53C24C6464D8D5E5C98990"
+    },
+    {
+      "requested_id": 26830,
+      "client_id": 25945,
+      "server_ids": [
+        26830
+      ],
+      "name": "Roof",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        292689,
+        292690,
+        292691,
+        292692
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwa-city-walls-roofs-20261023\\server-26830_client-25945_roof.png",
+      "size": 1021,
+      "sha256": "16403572474255AB3997D41B622F3600C527E3259CC60AFD63D8F65294EE0110"
+    },
+    {
+      "requested_id": 26831,
+      "client_id": 25946,
+      "server_ids": [
+        26831
+      ],
+      "name": "Roof",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        292693,
+        292694,
+        0,
+        292695
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwa-city-walls-roofs-20261023\\server-26831_client-25946_roof.png",
+      "size": 688,
+      "sha256": "AE87F8A068DB0EB27F08FC05AED910CDFC3F4204793C80C6B4E1778FA93F65D8"
+    },
+    {
+      "requested_id": 26832,
+      "client_id": 25947,
+      "server_ids": [
+        26832
+      ],
+      "name": "Roof",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        292696,
+        0,
+        292697,
+        292698
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwa-city-walls-roofs-20261023\\server-26832_client-25947_roof.png",
+      "size": 740,
+      "sha256": "DDDF0D3BB8D04EDB0370C81D61DC026CA68517A9D8389B4066377A645D6A6279"
+    },
+    {
+      "requested_id": 26833,
+      "client_id": 25948,
+      "server_ids": [
+        26833
+      ],
+      "name": "Roof",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        292699,
+        292700,
+        292701,
+        292702
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwa-city-walls-roofs-20261023\\server-26833_client-25948_roof.png",
+      "size": 965,
+      "sha256": "6B8B6A86AF90D840DF4F256A66823B27E029A9FAB75A2606FC8EF4BFD97B576E"
+    },
+    {
+      "requested_id": 26834,
+      "client_id": 25949,
+      "server_ids": [
+        26834
+      ],
+      "name": "Roof",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        292703,
+        292704,
+        292705,
+        292706
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwa-city-walls-roofs-20261023\\server-26834_client-25949_roof.png",
+      "size": 1052,
+      "sha256": "F928C5DEA5C37F5D0B2A6A140812348BBB2FBBC52E59B0B527FE7E6A474796ED"
+    },
+    {
+      "requested_id": 26835,
+      "client_id": 25950,
+      "server_ids": [
+        26835
+      ],
+      "name": "Roof",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        292707,
+        292708,
+        292709,
+        292710
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwa-city-walls-roofs-20261023\\server-26835_client-25950_roof.png",
+      "size": 1267,
+      "sha256": "FAACB820DADB49EE69DE2BC85A30802AB71E6D0A4DC3CB80AF518890935EDE93"
+    },
+    {
+      "requested_id": 26836,
+      "client_id": 25951,
+      "server_ids": [
+        26836
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        292711
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwa-city-walls-roofs-20261023\\server-26836_client-25951.png",
+      "size": 124,
+      "sha256": "4C8D48D4F5C488C2E1BC1F7B92153C96AB8712DB146D12A7AE657226F9D57D48"
+    },
+    {
+      "requested_id": 26837,
+      "client_id": 25952,
+      "server_ids": [
+        26837
+      ],
+      "name": "Stone wall",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        292712,
+        292713,
+        292714,
+        292715
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwa-city-walls-roofs-20261023\\server-26837_client-25952_stone-wall.png",
+      "size": 1510,
+      "sha256": "E5339269563492A1146D4BEB2034C7ECA04228F7F75F4F9D2C7BAF9DCD6AB399"
+    },
+    {
+      "requested_id": 26838,
+      "client_id": 25953,
+      "server_ids": [
+        26838
+      ],
+      "name": "Stone wall",
+      "group_index": 0,
+      "width": 192,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 3,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        292716,
+        292717,
+        292718,
+        292719,
+        292720,
+        292721,
+        292722,
+        292723,
+        292724,
+        292725,
+        292726,
+        292727
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwa-city-walls-roofs-20261023\\server-26838_client-25953_stone-wall.png",
+      "size": 2393,
+      "sha256": "84A285BD526D5C6F2D7EBDFCDB256988713A503D4E99662A245CD11728952A57"
+    },
+    {
+      "requested_id": 26839,
+      "client_id": 25954,
+      "server_ids": [
+        26839
+      ],
+      "name": "Stone wall",
+      "group_index": 0,
+      "width": 192,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 3,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        292728,
+        292729,
+        292730,
+        292731,
+        292732,
+        292733,
+        292734,
+        292735,
+        292736,
+        292737,
+        292738,
+        292739
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwa-city-walls-roofs-20261023\\server-26839_client-25954_stone-wall.png",
+      "size": 2641,
+      "sha256": "1AD47D7B9C3666639E14A674ABC9D2801407EC7750426469F5B7FACA2E5B8345"
+    },
+    {
+      "requested_id": 26840,
+      "client_id": 25955,
+      "server_ids": [
+        26840
+      ],
+      "name": "Stone wall",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        292740,
+        292741,
+        292742,
+        292743
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwa-city-walls-roofs-20261023\\server-26840_client-25955_stone-wall.png",
+      "size": 623,
+      "sha256": "DD83F2354EC7567D7989CDCE63D28DE9B54332CBB1F6B51F294B93BE70918003"
+    },
+    {
+      "requested_id": 26841,
+      "client_id": 25956,
+      "server_ids": [
+        26841
+      ],
+      "name": "Stone wall",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        292744,
+        292745,
+        292746,
+        292747
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwa-city-walls-roofs-20261023\\server-26841_client-25956_stone-wall.png",
+      "size": 845,
+      "sha256": "C37D583B056AADDA6573C67024A967397821CFECAA12193D65B5300BE7C23781"
+    },
+    {
+      "requested_id": 26842,
+      "client_id": 25957,
+      "server_ids": [
+        26842
+      ],
+      "name": "Stone wall",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        292748,
+        292749,
+        292750,
+        292751
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwa-city-walls-roofs-20261023\\server-26842_client-25957_stone-wall.png",
+      "size": 915,
+      "sha256": "15FF9D9E886D92482C1BFA1697EC48B365E4E2A750D4543538BD2BA9AE921144"
+    },
+    {
+      "requested_id": 26843,
+      "client_id": 25958,
+      "server_ids": [
+        26843
+      ],
+      "name": "Stone wall",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        292752,
+        292753,
+        292754,
+        292755
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwa-city-walls-roofs-20261023\\server-26843_client-25958_stone-wall.png",
+      "size": 930,
+      "sha256": "40B10A7F6E34E8CEB07B224E2202180D2C3125870B04A0278090DA1A00239913"
+    },
+    {
+      "requested_id": 26844,
+      "client_id": 25959,
+      "server_ids": [
+        26844
+      ],
+      "name": "Roof",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        292756,
+        292757,
+        292758,
+        292759
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwa-city-walls-roofs-20261023\\server-26844_client-25959_roof.png",
+      "size": 1022,
+      "sha256": "1E55ACEAF649A2936F94ECBE71FFE3F9E0B3E3AC201BDAD0EF6E9B8F4191C502"
+    },
+    {
+      "requested_id": 26845,
+      "client_id": 25960,
+      "server_ids": [
+        26845
+      ],
+      "name": "Roof",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        292760,
+        292761,
+        0,
+        292762
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwa-city-walls-roofs-20261023\\server-26845_client-25960_roof.png",
+      "size": 689,
+      "sha256": "FB9D99316BC79BE33E2CD4B70D10C2DAD5B0D0650B33DBA004D908D93E27568A"
+    },
+    {
+      "requested_id": 26846,
+      "client_id": 25961,
+      "server_ids": [
+        26846
+      ],
+      "name": "Roof",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        292763,
+        0,
+        292764,
+        292765
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwa-city-walls-roofs-20261023\\server-26846_client-25961_roof.png",
+      "size": 739,
+      "sha256": "4560D515F2F8E1DEB3E39D86B3F9BDAC9A8F9EC530E373FCB6DBB0F774088E81"
+    },
+    {
+      "requested_id": 26847,
+      "client_id": 25962,
+      "server_ids": [
+        26847
+      ],
+      "name": "Roof",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        292766,
+        292767,
+        292768,
+        292769
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwa-city-walls-roofs-20261023\\server-26847_client-25962_roof.png",
+      "size": 966,
+      "sha256": "AD803DC33C5A6BDF12857A13474FD557D7FDA0FA799A8422468C365E5CA98D7D"
+    },
+    {
+      "requested_id": 26848,
+      "client_id": 25963,
+      "server_ids": [
+        26848
+      ],
+      "name": "Roof",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        292770,
+        292771,
+        292772,
+        292773
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwa-city-walls-roofs-20261023\\server-26848_client-25963_roof.png",
+      "size": 1053,
+      "sha256": "79B8E51530C0F4EE0C1BCEC43157DEDBD7DC9A91470559C498FFF840A2A46ED3"
+    },
+    {
+      "requested_id": 26849,
+      "client_id": 25964,
+      "server_ids": [
+        26849
+      ],
+      "name": "Roof",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        292774,
+        292775,
+        292776,
+        292777
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwa-city-walls-roofs-20261023\\server-26849_client-25964_roof.png",
+      "size": 1269,
+      "sha256": "92FBB3043914529CFDD73C6F43E5AE262FBA1D003A79E920C3841733E67EE7D9"
+    },
+    {
+      "requested_id": 26850,
+      "client_id": 25965,
+      "server_ids": [
+        26850
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        292778
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwa-city-walls-roofs-20261023\\server-26850_client-25965.png",
+      "size": 125,
+      "sha256": "0D396A2585650D94E1F2598D89C41F0D39065D1716AEC0DD0AFC477884E26A51"
+    },
+    {
+      "requested_id": 26851,
+      "client_id": 25966,
+      "server_ids": [
+        26851
+      ],
+      "name": "Stone wall",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        292779,
+        292780,
+        292781,
+        292782
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwa-city-walls-roofs-20261023\\server-26851_client-25966_stone-wall.png",
+      "size": 1508,
+      "sha256": "B26536837A66EBB43CE56384BC83B6BBA47EB9E0CDEA53DCC2F59634ABA879C2"
+    },
+    {
+      "requested_id": 26852,
+      "client_id": 25967,
+      "server_ids": [
+        26852
+      ],
+      "name": "Stone wall",
+      "group_index": 0,
+      "width": 192,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 3,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        292783,
+        292784,
+        292785,
+        292786,
+        292787,
+        292788,
+        292789,
+        292790,
+        292791,
+        292792,
+        292793,
+        292794
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwa-city-walls-roofs-20261023\\server-26852_client-25967_stone-wall.png",
+      "size": 2396,
+      "sha256": "2C7B32B5E37141C5D418FFBDD5CE93F71228F00E883552137C219CCB611790F4"
+    },
+    {
+      "requested_id": 26853,
+      "client_id": 25968,
+      "server_ids": [
+        26853
+      ],
+      "name": "Stone wall",
+      "group_index": 0,
+      "width": 192,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 3,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        292795,
+        292796,
+        292797,
+        292798,
+        292799,
+        292800,
+        292801,
+        292802,
+        292803,
+        292804,
+        292805,
+        292806
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwa-city-walls-roofs-20261023\\server-26853_client-25968_stone-wall.png",
+      "size": 2643,
+      "sha256": "AA4E8DFE8609AC4AF38968D5477E977329DD2B9E898363371E31323384D65B44"
+    },
+    {
+      "requested_id": 26854,
+      "client_id": 25969,
+      "server_ids": [
+        26854
+      ],
+      "name": "Stone wall",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        292807,
+        292808,
+        292809,
+        292810
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwa-city-walls-roofs-20261023\\server-26854_client-25969_stone-wall.png",
+      "size": 625,
+      "sha256": "345DAF3484A16D00DCB23B9CA7E2D9EBC9E82C2AE61D504487EB5338D5E6D3BA"
+    },
+    {
+      "requested_id": 26855,
+      "client_id": 25970,
+      "server_ids": [
+        26855
+      ],
+      "name": "Stone wall",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        292811,
+        292812,
+        292813,
+        292814
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwa-city-walls-roofs-20261023\\server-26855_client-25970_stone-wall.png",
+      "size": 844,
+      "sha256": "9B19CA2D75D65F818AC42D4C4B80DEFA20B7F7BBD470AFE99015EBB01D625EAC"
+    },
+    {
+      "requested_id": 26856,
+      "client_id": 25971,
+      "server_ids": [
+        26856
+      ],
+      "name": "Stone wall",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        292815,
+        292816,
+        292817,
+        292818
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwa-city-walls-roofs-20261023\\server-26856_client-25971_stone-wall.png",
+      "size": 915,
+      "sha256": "BC8485EC7A93195DC69DA1C375F6654D8646B95B277E7A384C40D3C4B1D867BF"
+    },
+    {
+      "requested_id": 26857,
+      "client_id": 25972,
+      "server_ids": [
+        26857
+      ],
+      "name": "Stone wall",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        292819,
+        292820,
+        292821,
+        292822
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwa-city-walls-roofs-20261023\\server-26857_client-25972_stone-wall.png",
+      "size": 931,
+      "sha256": "D40D20269129DDE68732174343362DB1A2060B5AA2DAC013124B5B7762ADE11A"
+    },
+    {
+      "requested_id": 26858,
+      "client_id": 25973,
+      "server_ids": [
+        26858
+      ],
+      "name": "Roof",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        292823,
+        292824,
+        292825,
+        292826
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwa-city-walls-roofs-20261023\\server-26858_client-25973_roof.png",
+      "size": 1023,
+      "sha256": "FEBE25447C454A9A391CAF7C598255DDC85E888919F41D7BE3440695978BEF74"
+    },
+    {
+      "requested_id": 26859,
+      "client_id": 25974,
+      "server_ids": [
+        26859
+      ],
+      "name": "Roof",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        292827,
+        292828,
+        0,
+        292829
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwa-city-walls-roofs-20261023\\server-26859_client-25974_roof.png",
+      "size": 688,
+      "sha256": "F01481217050D1EA355DE8D674A495FBCF8806A05BCB42CDDBEE205E34F2E047"
+    },
+    {
+      "requested_id": 26860,
+      "client_id": 25975,
+      "server_ids": [
+        26860
+      ],
+      "name": "Roof",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        292830,
+        0,
+        292831,
+        292832
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwa-city-walls-roofs-20261023\\server-26860_client-25975_roof.png",
+      "size": 739,
+      "sha256": "02CE8F97D8FAC8F6CE7DEC594D042F2A724A696A9DCA9F8D0E1D82C1CCE69462"
+    },
+    {
+      "requested_id": 26861,
+      "client_id": 25976,
+      "server_ids": [
+        26861
+      ],
+      "name": "Roof",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        292833,
+        292834,
+        292835,
+        292836
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwa-city-walls-roofs-20261023\\server-26861_client-25976_roof.png",
+      "size": 967,
+      "sha256": "BB340217A803A9B2A8171ABFD49866D8CDA654D486CBA5F2ACFD6FAA68B661E0"
+    },
+    {
+      "requested_id": 26862,
+      "client_id": 25977,
+      "server_ids": [
+        26862
+      ],
+      "name": "Roof",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        292837,
+        292838,
+        292839,
+        292840
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwa-city-walls-roofs-20261023\\server-26862_client-25977_roof.png",
+      "size": 1054,
+      "sha256": "8299E8FD4F34A399A8BCEEC6DCBE547A8E9E607300CD3F506A311689002BE501"
+    },
+    {
+      "requested_id": 26863,
+      "client_id": 25978,
+      "server_ids": [
+        26863
+      ],
+      "name": "Roof",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        292841,
+        292842,
+        292843,
+        292844
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwa-city-walls-roofs-20261023\\server-26863_client-25978_roof.png",
+      "size": 1270,
+      "sha256": "3B599DAEB09F5C40A17669D79834D68E1393A837A50F7D6A98ED15145F37E863"
+    },
+    {
+      "requested_id": 26864,
+      "client_id": 25979,
+      "server_ids": [
+        26864
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        292845
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwa-city-walls-roofs-20261023\\server-26864_client-25979.png",
+      "size": 123,
+      "sha256": "C0E0C3877DD75AE81CA21CE995B14F075DBF610570DE844E909E1ABABBD8464F"
+    },
+    {
+      "requested_id": 26865,
+      "client_id": 25980,
+      "server_ids": [
+        26865
+      ],
+      "name": "Stone wall",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        292846,
+        292847,
+        292848,
+        292849
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwa-city-walls-roofs-20261023\\server-26865_client-25980_stone-wall.png",
+      "size": 1510,
+      "sha256": "7E74E66CF40AF549F619C96DFB80756BFC5BA73366566DD3ED0B6B6CC17A0361"
+    },
+    {
+      "requested_id": 26866,
+      "client_id": 25981,
+      "server_ids": [
+        26866
+      ],
+      "name": "Stone wall",
+      "group_index": 0,
+      "width": 192,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 3,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        292850,
+        292851,
+        292852,
+        292853,
+        292854,
+        292855,
+        292856,
+        292857,
+        292858,
+        292859,
+        292860,
+        292861
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwa-city-walls-roofs-20261023\\server-26866_client-25981_stone-wall.png",
+      "size": 2396,
+      "sha256": "4DDC0B08DA38B9E631FD45C108CEEFED07751D26EA9E1FF9DF88B62BFF3D8FAC"
+    },
+    {
+      "requested_id": 26867,
+      "client_id": 25982,
+      "server_ids": [
+        26867
+      ],
+      "name": "Stone wall",
+      "group_index": 0,
+      "width": 192,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 3,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        292862,
+        292863,
+        292864,
+        292865,
+        292866,
+        292867,
+        292868,
+        292869,
+        292870,
+        292871,
+        292872,
+        292873
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwa-city-walls-roofs-20261023\\server-26867_client-25982_stone-wall.png",
+      "size": 2643,
+      "sha256": "BEE0A8C5142D609B483EE2CD50E4F87A6BCC02F9753BB74422F396C3A6898318"
+    },
+    {
+      "requested_id": 26868,
+      "client_id": 25983,
+      "server_ids": [
+        26868
+      ],
+      "name": "Stone wall",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        292874,
+        292875,
+        292876,
+        292877
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwa-city-walls-roofs-20261023\\server-26868_client-25983_stone-wall.png",
+      "size": 626,
+      "sha256": "472FFA2E2A36BB0D3C0D95598201CCE97B49925CA10B18564C7609F6D2E45E43"
+    },
+    {
+      "requested_id": 26869,
+      "client_id": 25984,
+      "server_ids": [
+        26869
+      ],
+      "name": "Stone wall",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        292878,
+        292879,
+        292880,
+        292881
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwa-city-walls-roofs-20261023\\server-26869_client-25984_stone-wall.png",
+      "size": 841,
+      "sha256": "9F497730E509556C9B608F78B05F37DAC75C9F8F46FD397BDDD7688AFA73DA72"
+    },
+    {
+      "requested_id": 26870,
+      "client_id": 25985,
+      "server_ids": [
+        26870
+      ],
+      "name": "Stone wall",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        292882,
+        292883,
+        292884,
+        292885
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwa-city-walls-roofs-20261023\\server-26870_client-25985_stone-wall.png",
+      "size": 913,
+      "sha256": "85118A013C6269DEF8F215A67AC15A3D74E9AFD178FEDA5A8D4F083E9F55CCE3"
+    },
+    {
+      "requested_id": 26871,
+      "client_id": 25986,
+      "server_ids": [
+        26871
+      ],
+      "name": "Stone wall",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        292886,
+        292887,
+        292888,
+        292889
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwa-city-walls-roofs-20261023\\server-26871_client-25986_stone-wall.png",
+      "size": 926,
+      "sha256": "E2BF9564E798E1026A5A3C59D5A28ABD7B6593A070C4B035DE42B3D87802CBEE"
+    },
+    {
+      "requested_id": 26872,
+      "client_id": 25987,
+      "server_ids": [
+        26872
+      ],
+      "name": "Roof",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        292890,
+        292891,
+        292892,
+        292893
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwa-city-walls-roofs-20261023\\server-26872_client-25987_roof.png",
+      "size": 1019,
+      "sha256": "92D1547B7B613A669560A696E5D4E56893C448CBDA1B0EC0EA7AEBD50C0E109D"
+    },
+    {
+      "requested_id": 26873,
+      "client_id": 25988,
+      "server_ids": [
+        26873
+      ],
+      "name": "Roof",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        292894,
+        292895,
+        0,
+        292896
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwa-city-walls-roofs-20261023\\server-26873_client-25988_roof.png",
+      "size": 688,
+      "sha256": "895B0499E7FA9E20128407FB9D5D29DF7FF219D4403E96A5A13FCDC36DA5886F"
+    },
+    {
+      "requested_id": 26874,
+      "client_id": 25989,
+      "server_ids": [
+        26874
+      ],
+      "name": "Roof",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        292897,
+        0,
+        292898,
+        292899
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwa-city-walls-roofs-20261023\\server-26874_client-25989_roof.png",
+      "size": 738,
+      "sha256": "A361FA3E5156382F5CD94A999C5C6E517B0A0C34AA5A94F1CD81B6FBFC47941C"
+    },
+    {
+      "requested_id": 26875,
+      "client_id": 25990,
+      "server_ids": [
+        26875
+      ],
+      "name": "Roof",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        292900,
+        292901,
+        292902,
+        292903
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwa-city-walls-roofs-20261023\\server-26875_client-25990_roof.png",
+      "size": 962,
+      "sha256": "9E36BECE1C77C1A40B9CF8759EB2D38AD6C97DCDEFA4C0DA92F7790E8A786D23"
+    },
+    {
+      "requested_id": 26876,
+      "client_id": 25991,
+      "server_ids": [
+        26876
+      ],
+      "name": "Roof",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        292904,
+        292905,
+        292906,
+        292907
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwa-city-walls-roofs-20261023\\server-26876_client-25991_roof.png",
+      "size": 1050,
+      "sha256": "676D9CF54F53F56121E87BAC9CA6282AFFBF5D712DD52ACBFD0DED521ED516B5"
+    },
+    {
+      "requested_id": 26877,
+      "client_id": 25992,
+      "server_ids": [
+        26877
+      ],
+      "name": "Roof",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        292908,
+        292909,
+        292910,
+        292911
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwa-city-walls-roofs-20261023\\server-26877_client-25992_roof.png",
+      "size": 1267,
+      "sha256": "8DBCA12E529D27F80A028CFB3D9B65035BB340A601FA216FB321B7615E126B73"
+    },
+    {
+      "requested_id": 26878,
+      "client_id": 25993,
+      "server_ids": [
+        26878
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        292912
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwa-city-walls-roofs-20261023\\server-26878_client-25993.png",
+      "size": 125,
+      "sha256": "6F1C4B71E1E510BE6819080FE49DC90C4B91FE255FAA85FBBAA8C40E1BF5BCBA"
+    },
+    {
+      "requested_id": 26879,
+      "client_id": 25994,
+      "server_ids": [
+        26879
+      ],
+      "name": "Stone wall",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        292913,
+        292914,
+        292915,
+        292916
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwa-city-walls-roofs-20261023\\server-26879_client-25994_stone-wall.png",
+      "size": 1504,
+      "sha256": "BE2E54A0C20D3B2919408A3139F606282644C094C84A0D6BCACB6091D7D38D86"
+    },
+    {
+      "requested_id": 26880,
+      "client_id": 25995,
+      "server_ids": [
+        26880
+      ],
+      "name": "Stone wall",
+      "group_index": 0,
+      "width": 192,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 3,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        292917,
+        292918,
+        292919,
+        292920,
+        292921,
+        292922,
+        292923,
+        292924,
+        292925,
+        292926,
+        292927,
+        292928
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwa-city-walls-roofs-20261023\\server-26880_client-25995_stone-wall.png",
+      "size": 2391,
+      "sha256": "05AD8C553C36A69B2B89806C76C80D58FA3978C029BF4593D5C2BA70A0B58D35"
+    },
+    {
+      "requested_id": 26881,
+      "client_id": 25996,
+      "server_ids": [
+        26881
+      ],
+      "name": "Stone wall",
+      "group_index": 0,
+      "width": 192,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 3,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        292929,
+        292930,
+        292931,
+        292932,
+        292933,
+        292934,
+        292935,
+        292936,
+        292937,
+        292938,
+        292939,
+        292940
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwa-city-walls-roofs-20261023\\server-26881_client-25996_stone-wall.png",
+      "size": 2639,
+      "sha256": "A5EC02ECA8F1DE715608DD4185825D8D79613DCBD867A14CE8126673D0BE15B5"
+    },
+    {
+      "requested_id": 26882,
+      "client_id": 25997,
+      "server_ids": [
+        26882
+      ],
+      "name": "Stone wall",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        292941,
+        292942,
+        292943,
+        292944
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwa-city-walls-roofs-20261023\\server-26882_client-25997_stone-wall.png",
+      "size": 622,
+      "sha256": "D3421621AB61BAEE0F55B5368B2E6612FE17C741F740A4652C4C795A8A0CC556"
+    },
+    {
+      "requested_id": 26883,
+      "client_id": 25998,
+      "server_ids": [
+        26883
+      ],
+      "name": "Stone wall",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        292945,
+        292946,
+        292947,
+        292948
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwa-city-walls-roofs-20261023\\server-26883_client-25998_stone-wall.png",
+      "size": 845,
+      "sha256": "AD04BCA14319278DC9514DA8F407A875B7C23134C7D458F511400667D9A6FA3A"
+    },
+    {
+      "requested_id": 26884,
+      "client_id": 25999,
+      "server_ids": [
+        26884
+      ],
+      "name": "Stone wall",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        292949,
+        292950,
+        292951,
+        292952
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwa-city-walls-roofs-20261023\\server-26884_client-25999_stone-wall.png",
+      "size": 915,
+      "sha256": "B0988CF874D6A9A852670D616C2D3FB7CC6D17134DA0712CDD0A3650B06B4501"
+    },
+    {
+      "requested_id": 26885,
+      "client_id": 26000,
+      "server_ids": [
+        26885
+      ],
+      "name": "Stone wall",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        292953,
+        292954,
+        292955,
+        292956
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwa-city-walls-roofs-20261023\\server-26885_client-26000_stone-wall.png",
+      "size": 930,
+      "sha256": "027BB291C737B67EE7FF9B0AFDCBBC383009A3B8D892A06FCC1C242C93905323"
+    },
+    {
+      "requested_id": 26886,
+      "client_id": 26001,
+      "server_ids": [
+        26886
+      ],
+      "name": "Roof",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        292957,
+        292958,
+        292959,
+        292960
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwa-city-walls-roofs-20261023\\server-26886_client-26001_roof.png",
+      "size": 1022,
+      "sha256": "9B5DAF8A9EC4E3A408BF1F1888841A8E67C87765E3D822F78F67C64A55CC897C"
+    },
+    {
+      "requested_id": 26887,
+      "client_id": 26002,
+      "server_ids": [
+        26887
+      ],
+      "name": "Roof",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        292961,
+        292962,
+        0,
+        292963
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwa-city-walls-roofs-20261023\\server-26887_client-26002_roof.png",
+      "size": 688,
+      "sha256": "3D183CFA9F0A77AFDD2BD40A69E678A4C6DCBD2A168B56EBC117FA7915228CAB"
+    },
+    {
+      "requested_id": 26888,
+      "client_id": 26003,
+      "server_ids": [
+        26888
+      ],
+      "name": "Roof",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        292964,
+        0,
+        292965,
+        292966
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwa-city-walls-roofs-20261023\\server-26888_client-26003_roof.png",
+      "size": 738,
+      "sha256": "BE1B1259BB5EBFB7F147A46F96FAB1D64DE25866B44019CF300052288AB0D286"
+    },
+    {
+      "requested_id": 26889,
+      "client_id": 26004,
+      "server_ids": [
+        26889
+      ],
+      "name": "Roof",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        292967,
+        292968,
+        292969,
+        292970
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwa-city-walls-roofs-20261023\\server-26889_client-26004_roof.png",
+      "size": 966,
+      "sha256": "3D5978EF14102D0E8B898C475C4C8D7FD78FF80CE7BE7BCE244E82ED8518CBE2"
+    },
+    {
+      "requested_id": 26890,
+      "client_id": 26005,
+      "server_ids": [
+        26890
+      ],
+      "name": "Roof",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        292971,
+        292972,
+        292973,
+        292974
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwa-city-walls-roofs-20261023\\server-26890_client-26005_roof.png",
+      "size": 1053,
+      "sha256": "CAB24C101A3FD69E5C3B0209B9211831903CC32E3047CC62FF00E6FF168AE739"
+    },
+    {
+      "requested_id": 26891,
+      "client_id": 26006,
+      "server_ids": [
+        26891
+      ],
+      "name": "Roof",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        292975,
+        292976,
+        292977,
+        292978
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwa-city-walls-roofs-20261023\\server-26891_client-26006_roof.png",
+      "size": 1269,
+      "sha256": "4226E8844FCBA7C968213AA38F175CF5C1423135B7D00C0D8DD55DF7496E9428"
+    },
+    {
+      "requested_id": 26892,
+      "client_id": 26007,
+      "server_ids": [
+        26892
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        292979
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwa-city-walls-roofs-20261023\\server-26892_client-26007.png",
+      "size": 124,
+      "sha256": "1C095E0396B3BFDDA660B2381660E1BD2A64FE917E344F1FE2BA87633F1566F7"
+    },
+    {
+      "requested_id": 26893,
+      "client_id": 26008,
+      "server_ids": [
+        26893
+      ],
+      "name": "Stone wall",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        292980,
+        292981,
+        292982,
+        292983
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwa-city-walls-roofs-20261023\\server-26893_client-26008_stone-wall.png",
+      "size": 1508,
+      "sha256": "6B23EE989A19F4B7D72AAAF467BAD568243147A22DAA2777DD652959C4FDD0A5"
+    },
+    {
+      "requested_id": 26894,
+      "client_id": 26009,
+      "server_ids": [
+        26894
+      ],
+      "name": "Stone wall",
+      "group_index": 0,
+      "width": 192,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 3,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        292984,
+        292985,
+        292986,
+        292987,
+        292988,
+        292989,
+        292990,
+        292991,
+        292992,
+        292993,
+        292994,
+        292995
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwa-city-walls-roofs-20261023\\server-26894_client-26009_stone-wall.png",
+      "size": 2395,
+      "sha256": "4D8D743D497C8FE772C4473B72C979A1AF9B4EC5AC6B052DFA256FE984712764"
+    },
+    {
+      "requested_id": 26895,
+      "client_id": 26010,
+      "server_ids": [
+        26895
+      ],
+      "name": "Stone wall",
+      "group_index": 0,
+      "width": 192,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 3,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        292996,
+        292997,
+        292998,
+        292999,
+        293000,
+        293001,
+        293002,
+        293003,
+        293004,
+        293005,
+        293006,
+        293007
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwa-city-walls-roofs-20261023\\server-26895_client-26010_stone-wall.png",
+      "size": 2642,
+      "sha256": "3504EBF2EE63CC66E5887F77FBF5AE8CB50F3E795B28C9A5C437A72EF22CC00E"
+    },
+    {
+      "requested_id": 26896,
+      "client_id": 26011,
+      "server_ids": [
+        26896
+      ],
+      "name": "Stone wall",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        293008,
+        293009,
+        293010,
+        293011
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwa-city-walls-roofs-20261023\\server-26896_client-26011_stone-wall.png",
+      "size": 625,
+      "sha256": "49C45D6646EE7094549400BDD52603C07B8449A0E4AA863B8E0D05A86FD41997"
+    },
+    {
+      "requested_id": 26897,
+      "client_id": 26012,
+      "server_ids": [
+        26897
+      ],
+      "name": "Stone wall",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        293012,
+        293013,
+        293014,
+        293015
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwa-city-walls-roofs-20261023\\server-26897_client-26012_stone-wall.png",
+      "size": 841,
+      "sha256": "5CFD6060787D662F5F65B48EE7745C8D44FDE436B2644D7C1CB8F2B1B668D8D5"
+    },
+    {
+      "requested_id": 26898,
+      "client_id": 26013,
+      "server_ids": [
+        26898
+      ],
+      "name": "Stone wall",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        293016,
+        293017,
+        293018,
+        293019
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwa-city-walls-roofs-20261023\\server-26898_client-26013_stone-wall.png",
+      "size": 912,
+      "sha256": "3FDFBE095509B5796B504DEF3644445611127B80216FC23EBF359EF0C53930B3"
+    },
+    {
+      "requested_id": 26899,
+      "client_id": 26014,
+      "server_ids": [
+        26899
+      ],
+      "name": "Stone wall",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        293020,
+        293021,
+        293022,
+        293023
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwa-city-walls-roofs-20261023\\server-26899_client-26014_stone-wall.png",
+      "size": 925,
+      "sha256": "DEEF0BCC7833B51F1A8758485ACE07197358E3FEF660FD76AC6303931BE73A2B"
+    },
+    {
+      "requested_id": 26900,
+      "client_id": 26015,
+      "server_ids": [
+        26900
+      ],
+      "name": "Roof",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        293024,
+        293025,
+        293026,
+        293027
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwa-city-walls-roofs-20261023\\server-26900_client-26015_roof.png",
+      "size": 1018,
+      "sha256": "3C11E21E7F1C16AA727F9E22C1C336E53E3ACF4BE6D5984C79873A09BEAFB0DC"
+    },
+    {
+      "requested_id": 26901,
+      "client_id": 26016,
+      "server_ids": [
+        26901
+      ],
+      "name": "Roof",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        293028,
+        293029,
+        0,
+        293030
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwa-city-walls-roofs-20261023\\server-26901_client-26016_roof.png",
+      "size": 685,
+      "sha256": "2AFADA3879AEB43FA3A61F96F18022E83A4FF4E36EC089D56A8209A76841ACF4"
+    },
+    {
+      "requested_id": 26902,
+      "client_id": 26017,
+      "server_ids": [
+        26902
+      ],
+      "name": "Roof",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        293031,
+        0,
+        293032,
+        293033
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwa-city-walls-roofs-20261023\\server-26902_client-26017_roof.png",
+      "size": 736,
+      "sha256": "B460080384CD48C3A6CC0820874D9F97C6F4B051E9EA318D321ABAEA5FD8F439"
+    },
+    {
+      "requested_id": 26903,
+      "client_id": 26018,
+      "server_ids": [
+        26903
+      ],
+      "name": "Roof",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        293034,
+        293035,
+        293036,
+        293037
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwa-city-walls-roofs-20261023\\server-26903_client-26018_roof.png",
+      "size": 961,
+      "sha256": "95B163BA65A7FE3C80475E46C67CF4BE0DF1F034EE033E24C67D96645D9F672F"
+    },
+    {
+      "requested_id": 26904,
+      "client_id": 26019,
+      "server_ids": [
+        26904
+      ],
+      "name": "Roof",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        293038,
+        293039,
+        293040,
+        293041
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwa-city-walls-roofs-20261023\\server-26904_client-26019_roof.png",
+      "size": 1048,
+      "sha256": "1DB56DBA84D68D0109584F915BFFCB8D10E10C4005D41B2A7EE7902D8F24B5AA"
+    },
+    {
+      "requested_id": 26905,
+      "client_id": 26020,
+      "server_ids": [
+        26905
+      ],
+      "name": "Roof",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        293042,
+        293043,
+        293044,
+        293045
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwa-city-walls-roofs-20261023\\server-26905_client-26020_roof.png",
+      "size": 1264,
+      "sha256": "7B3D47883B0153115FEC6CCA83DFAAB96417FC396CE300272560429BB54D2B83"
+    },
+    {
+      "requested_id": 26906,
+      "client_id": 26021,
+      "server_ids": [
+        26906
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        293046
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwa-city-walls-roofs-20261023\\server-26906_client-26021.png",
+      "size": 125,
+      "sha256": "425A056E924A03CCA75810961354603F24571BFD9091CAF2EF71288DE55D9157"
+    },
+    {
+      "requested_id": 26907,
+      "client_id": 26022,
+      "server_ids": [
+        26907
+      ],
+      "name": "Stone wall",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        293047,
+        293048,
+        293049,
+        293050
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwa-city-walls-roofs-20261023\\server-26907_client-26022_stone-wall.png",
+      "size": 1506,
+      "sha256": "EFA7B533A85A3C4ABB3677BB4DC250D4EC4E84B4A9C49E1C4BB07643932F4E82"
+    },
+    {
+      "requested_id": 26908,
+      "client_id": 26023,
+      "server_ids": [
+        26908
+      ],
+      "name": "Stone wall",
+      "group_index": 0,
+      "width": 192,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 3,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        293051,
+        293052,
+        293053,
+        293054,
+        293055,
+        293056,
+        293057,
+        293058,
+        293059,
+        293060,
+        293061,
+        293062
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwa-city-walls-roofs-20261023\\server-26908_client-26023_stone-wall.png",
+      "size": 2391,
+      "sha256": "57E0F8DD39BCFE4C97B8FAFC542C53E0B82F99C66AE8D35268EEDF722571002A"
+    },
+    {
+      "requested_id": 26909,
+      "client_id": 26024,
+      "server_ids": [
+        26909
+      ],
+      "name": "Stone wall",
+      "group_index": 0,
+      "width": 192,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 3,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        293063,
+        293064,
+        293065,
+        293066,
+        293067,
+        293068,
+        293069,
+        293070,
+        293071,
+        293072,
+        293073,
+        293074
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwa-city-walls-roofs-20261023\\server-26909_client-26024_stone-wall.png",
+      "size": 2639,
+      "sha256": "BD2FF0F2DD5E84CA9CEB2E895C52371AB08B21C1F0A9E553C94C390308352934"
+    },
+    {
+      "requested_id": 26910,
+      "client_id": 26025,
+      "server_ids": [
+        26910
+      ],
+      "name": "Stone wall",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        293075,
+        293076,
+        293077,
+        293078
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwa-city-walls-roofs-20261023\\server-26910_client-26025_stone-wall.png",
+      "size": 620,
+      "sha256": "EDA2D1B883EE757D07CE26355B1E7A192479E0488DEA9729D87D6729D28E7445"
+    },
+    {
+      "requested_id": 26911,
+      "client_id": 26026,
+      "server_ids": [
+        26911
+      ],
+      "name": "Stone wall",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        293079,
+        293080,
+        293081,
+        293082
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwa-city-walls-roofs-20261023\\server-26911_client-26026_stone-wall.png",
+      "size": 843,
+      "sha256": "9B7038FC15CA2E17C90E47843F8FF9AE0D132717C70130A3C9D108401EDF4861"
+    },
+    {
+      "requested_id": 26912,
+      "client_id": 26027,
+      "server_ids": [
+        26912
+      ],
+      "name": "Stone wall",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        293083,
+        293084,
+        293085,
+        293086
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwa-city-walls-roofs-20261023\\server-26912_client-26027_stone-wall.png",
+      "size": 913,
+      "sha256": "BE71C48C569A2385F9EF96664254836ACD3487931100313E0EED76F31191E6BE"
+    },
+    {
+      "requested_id": 26913,
+      "client_id": 26028,
+      "server_ids": [
+        26913
+      ],
+      "name": "Stone wall",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        293087,
+        293088,
+        293089,
+        293090
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwa-city-walls-roofs-20261023\\server-26913_client-26028_stone-wall.png",
+      "size": 925,
+      "sha256": "584D6ABC071925B9DDBEE6A2415466E2B2ED1B4ED69B5772538EDC6319E649F7"
+    },
+    {
+      "requested_id": 26914,
+      "client_id": 26029,
+      "server_ids": [
+        26914
+      ],
+      "name": "Roof",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        293091,
+        293092,
+        293093,
+        293094
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwa-city-walls-roofs-20261023\\server-26914_client-26029_roof.png",
+      "size": 1019,
+      "sha256": "539C33F851A6A728CD3F0F2442A08609376741A0D0C54BC709E41F19A230F735"
+    },
+    {
+      "requested_id": 26915,
+      "client_id": 26030,
+      "server_ids": [
+        26915
+      ],
+      "name": "Roof",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        293095,
+        293096,
+        0,
+        293097
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwa-city-walls-roofs-20261023\\server-26915_client-26030_roof.png",
+      "size": 686,
+      "sha256": "B340286191BD1A596DE7ABD80FDAE80B79D575C03AF466886197F0EDB657E890"
+    },
+    {
+      "requested_id": 26916,
+      "client_id": 26031,
+      "server_ids": [
+        26916
+      ],
+      "name": "Roof",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        293098,
+        0,
+        293099,
+        293100
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwa-city-walls-roofs-20261023\\server-26916_client-26031_roof.png",
+      "size": 737,
+      "sha256": "3A8617F62A6DB0DCD9C04232EA844050EA5E761256C380564AE76B730BE4D994"
+    },
+    {
+      "requested_id": 26917,
+      "client_id": 26032,
+      "server_ids": [
+        26917
+      ],
+      "name": "Roof",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        293101,
+        293102,
+        293103,
+        293104
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwa-city-walls-roofs-20261023\\server-26917_client-26032_roof.png",
+      "size": 962,
+      "sha256": "E3F4D90ED0DC04A7DACECF5507496583C5367C48F3B6A55F26BEE154A49ED28A"
+    },
+    {
+      "requested_id": 26918,
+      "client_id": 26033,
+      "server_ids": [
+        26918
+      ],
+      "name": "Roof",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        293105,
+        293106,
+        293107,
+        293108
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwa-city-walls-roofs-20261023\\server-26918_client-26033_roof.png",
+      "size": 1049,
+      "sha256": "1100FE4119A51A4D3FD0A281BB4ECD6A2AEA340C2E63EF857A7E7AD6A0081946"
+    },
+    {
+      "requested_id": 26919,
+      "client_id": 26034,
+      "server_ids": [
+        26919
+      ],
+      "name": "Roof",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        293109,
+        293110,
+        293111,
+        293112
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwa-city-walls-roofs-20261023\\server-26919_client-26034_roof.png",
+      "size": 1266,
+      "sha256": "5F6DE5159019D87B9341D14DCF7914D8A2D465016E0E4890A176D7C5B473B234"
+    },
+    {
+      "requested_id": 26920,
+      "client_id": 26035,
+      "server_ids": [
+        26920
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        293113
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwa-city-walls-roofs-20261023\\server-26920_client-26035.png",
+      "size": 123,
+      "sha256": "6A3ACBB958926D7FB715545BE49F8559D70F75D62E877013E7065F65AF9716FE"
+    },
+    {
+      "requested_id": 26921,
+      "client_id": 26036,
+      "server_ids": [
+        26921
+      ],
+      "name": "Stone wall",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        293114,
+        293115,
+        293116,
+        293117
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwa-city-walls-roofs-20261023\\server-26921_client-26036_stone-wall.png",
+      "size": 1502,
+      "sha256": "29BDCE82795A729F583B6C9C249C42921FBF40E70BD89379516B307C39556AF2"
+    },
+    {
+      "requested_id": 26922,
+      "client_id": 26037,
+      "server_ids": [
+        26922
+      ],
+      "name": "Stone wall",
+      "group_index": 0,
+      "width": 192,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 3,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        293118,
+        293119,
+        293120,
+        293121,
+        293122,
+        293123,
+        293124,
+        293125,
+        293126,
+        293127,
+        293128,
+        293129
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwa-city-walls-roofs-20261023\\server-26922_client-26037_stone-wall.png",
+      "size": 2392,
+      "sha256": "884919D67BDA05D5035430ED1F3388DB68EB42450AA5AEE857AE39D0E0F9A489"
+    },
+    {
+      "requested_id": 26923,
+      "client_id": 26038,
+      "server_ids": [
+        26923
+      ],
+      "name": "Stone wall",
+      "group_index": 0,
+      "width": 192,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 3,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        293130,
+        293131,
+        293132,
+        293133,
+        293134,
+        293135,
+        293136,
+        293137,
+        293138,
+        293139,
+        293140,
+        293141
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwa-city-walls-roofs-20261023\\server-26923_client-26038_stone-wall.png",
+      "size": 2639,
+      "sha256": "C671BA679F08C8544555E7389A3D3AFAB901620D47E462AB162FB970C602F5FA"
+    },
+    {
+      "requested_id": 26924,
+      "client_id": 26039,
+      "server_ids": [
+        26924
+      ],
+      "name": "Stone wall",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        293142,
+        293143,
+        293144,
+        293145
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwa-city-walls-roofs-20261023\\server-26924_client-26039_stone-wall.png",
+      "size": 621,
+      "sha256": "43705BA20435A572E628BB91348B75E86111A6A7AC4EC73B1CB414D0A6B384F8"
+    },
+    {
+      "requested_id": 26925,
+      "client_id": 26040,
+      "server_ids": [
+        26925
+      ],
+      "name": "Roof",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        293146,
+        293147,
+        293148,
+        293149
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwa-city-walls-roofs-20261023\\server-26925_client-26040_roof.png",
+      "size": 1030,
+      "sha256": "062D1E7BBC41C4483E45B8EC8FDC845B7621C179E91F0B219911626B35827C81"
+    },
+    {
+      "requested_id": 26926,
+      "client_id": 26041,
+      "server_ids": [
+        26926
+      ],
+      "name": "Roof",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        293150,
+        293151,
+        293152,
+        293153
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwa-city-walls-roofs-20261023\\server-26926_client-26041_roof.png",
+      "size": 959,
+      "sha256": "2385DFC8632B0E5FE3C1518782393C32925BFFD3F9C6F160B0A4F2F8567B6F6B"
+    },
+    {
+      "requested_id": 26927,
+      "client_id": 26042,
+      "server_ids": [
+        26927
+      ],
+      "name": "Roof",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        293154,
+        293155,
+        293156,
+        293157
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwa-city-walls-roofs-20261023\\server-26927_client-26042_roof.png",
+      "size": 985,
+      "sha256": "6D05FF17E0FAFC3263FCF75BE0C8BE01A4AC65E1EAE1BB3C9D1D9B9BC14499B2"
+    },
+    {
+      "requested_id": 26928,
+      "client_id": 26043,
+      "server_ids": [
+        26928
+      ],
+      "name": "Roof",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        293158,
+        293159,
+        293160,
+        293161
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwa-city-walls-roofs-20261023\\server-26928_client-26043_roof.png",
+      "size": 927,
+      "sha256": "3AAA7FC92C252610A1F154C413D76E8D73A693CD2A6F05CE95F104FAB1E45FFD"
+    },
+    {
+      "requested_id": 26929,
+      "client_id": 26044,
+      "server_ids": [
+        26929
+      ],
+      "name": "Roof",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        293162,
+        293163,
+        293164,
+        293165
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwa-city-walls-roofs-20261023\\server-26929_client-26044_roof.png",
+      "size": 958,
+      "sha256": "D365AB01E9D697F9AC2532CCC7782F331DD89A7BA23101797755D51212ADB38C"
+    },
+    {
+      "requested_id": 26930,
+      "client_id": 26045,
+      "server_ids": [
+        26930
+      ],
+      "name": "Roof",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        293166,
+        293167,
+        293168,
+        293169
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwa-city-walls-roofs-20261023\\server-26930_client-26045_roof.png",
+      "size": 776,
+      "sha256": "A1D2A611C273075E99730A0414031BC4563774D8D572AF274D7C6CE2813CDD34"
+    },
+    {
+      "requested_id": 26931,
+      "client_id": 26046,
+      "server_ids": [
+        26931
+      ],
+      "name": "Roof",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        293170,
+        293171,
+        293172,
+        293173
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwa-city-walls-roofs-20261023\\server-26931_client-26046_roof.png",
+      "size": 925,
+      "sha256": "D80CD533D3CCA3A23DE580F972650BE3F6E7CB7CA7D3DFF20B6C960842B539E9"
+    },
+    {
+      "requested_id": 26932,
+      "client_id": 26047,
+      "server_ids": [
+        26932
+      ],
+      "name": "Roof",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        293174,
+        293175,
+        293176,
+        293177
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwa-city-walls-roofs-20261023\\server-26932_client-26047_roof.png",
+      "size": 629,
+      "sha256": "4B4D2B6BCCB4F3AA3DE2F2AEEA96CF361ABAD9A3824034965B9C981515941B64"
+    },
+    {
+      "requested_id": 26933,
+      "client_id": 26048,
+      "server_ids": [
+        26933
+      ],
+      "name": "Roof",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        293178,
+        293179,
+        293180,
+        293181
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwa-city-walls-roofs-20261023\\server-26933_client-26048_roof.png",
+      "size": 605,
+      "sha256": "E7DEEE7707C66530D9247E24A0A9C3BC3083B076A0791893A68E904B540759EF"
+    }
+  ],
+  "sources": {
+    "dat": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.dat",
+      "sha256": "46A4BDF47B21D00AA78AE3A4E081D6CE4ED6CFA113156B47CBC6378EBAC9E5A1"
+    },
+    "spr": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.spr",
+      "sha256": "BC6DDA10D8192E1EEF177CCAF9BE6A7E78DFB80D191C29899DE31A1BD8284AAC"
+    }
+  },
+  "passed": true
+}

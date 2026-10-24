@@ -1,0 +1,105 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "profile": {
+    "key": "tibia-860-v2-custom-extended",
+    "client_version": 860,
+    "label": "Tibia 8.60 v2 customizado com features OTFI",
+    "dat_signature": "0x4C2C7993",
+    "spr_signature": "0x4C220594",
+    "metadata_reader": 5,
+    "otb_version_hint": "8.60"
+  },
+  "category": "items",
+  "id_kind": "server",
+  "requested_ids": [
+    10143,
+    10144
+  ],
+  "output_dir": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\brown-pavement-cracked-earth-10058-10077-20261023",
+  "exported_count": 2,
+  "exported": [
+    {
+      "requested_id": 10143,
+      "client_id": 9225,
+      "server_ids": [
+        10143
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 320,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 10,
+      "sprite_ids": [
+        256365,
+        256366,
+        256367,
+        256368,
+        256369,
+        256370,
+        256371,
+        256372,
+        256373,
+        256374
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\brown-pavement-cracked-earth-10058-10077-20261023\\server-10143_client-9225.png",
+      "size": 5802,
+      "sha256": "D26519B63C382FE3FA9682492CB489AA5582DA1955AAD7EDEA33CC79CA592D3C"
+    },
+    {
+      "requested_id": 10144,
+      "client_id": 9226,
+      "server_ids": [
+        10144
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 640,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 20,
+      "sprite_ids": [
+        256375,
+        256376,
+        256377,
+        256378,
+        256379,
+        256380,
+        256381,
+        256382,
+        256383,
+        256384,
+        256385,
+        256386,
+        256387,
+        256388,
+        256389,
+        256390,
+        256391,
+        256392,
+        256393,
+        256394
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\brown-pavement-cracked-earth-10058-10077-20261023\\server-10144_client-9226.png",
+      "size": 7205,
+      "sha256": "F18E1E4ED523EFCE0C2DFEA6F6D7CD5E7ECEF2D197B8A84CDF110CCEC8EB8F54"
+    }
+  ],
+  "sources": {
+    "dat": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.dat",
+      "sha256": "4A4C6449B8F7FDAB0FCD1D4F87BA95F9B6CDD17DD182C8806FB0823E097E3D65"
+    },
+    "spr": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.spr",
+      "sha256": "322775F01270BEDF51FF8BF707943E68240B3F893D35F6660A6C68C3857EEEC1"
+    }
+  },
+  "passed": true
+}

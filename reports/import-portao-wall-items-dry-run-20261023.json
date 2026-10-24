@@ -1,0 +1,529 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "manifest": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\import-portao-wall-items-20261023.csv",
+  "item_count": 16,
+  "target_server_id_range": [
+    26798,
+    26813
+  ],
+  "target_client_id_range": [
+    25913,
+    25928
+  ],
+  "new_sprite_count": 64,
+  "sprite_id_range": [
+    292593,
+    292656
+  ],
+  "items": [
+    {
+      "sequence": 1,
+      "source_server_id": 25565,
+      "source_client_id": 24680,
+      "target_server_id": 26798,
+      "target_client_id": 25913,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\portao\\parede1.png",
+      "source_sha256": "B320CC7B9ADA3480D1E850F7E34B681B163E5C0A8B97CE0B3C434A2C3C683F6A",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        292593,
+        292596
+      ],
+      "sprite_hash": "B2F418EC775D341729D496C6F707C712"
+    },
+    {
+      "sequence": 2,
+      "source_server_id": 25565,
+      "source_client_id": 24680,
+      "target_server_id": 26799,
+      "target_client_id": 25914,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\portao\\pilar1.png",
+      "source_sha256": "812DD6569C0E895552389692D8FF6E67F0B14611CC130D76B49A61BD3C6F3888",
+      "image_size": [
+        96,
+        96
+      ],
+      "frame_size": [
+        96,
+        96
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 6,
+      "sprite_id_range": [
+        292597,
+        292602
+      ],
+      "sprite_hash": "006254BB81FD35780E6BEFF815CBC52D"
+    },
+    {
+      "sequence": 3,
+      "source_server_id": 25565,
+      "source_client_id": 24680,
+      "target_server_id": 26800,
+      "target_client_id": 25915,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\portao\\pilar2.png",
+      "source_sha256": "8EE22C15DFBAB74A3D2C36B769E852D9766BC4B0509309134B4CC5ED66C4B117",
+      "image_size": [
+        96,
+        96
+      ],
+      "frame_size": [
+        96,
+        96
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 6,
+      "sprite_id_range": [
+        292603,
+        292608
+      ],
+      "sprite_hash": "150054E2A15DD1801EEF98FBCCA66DD1"
+    },
+    {
+      "sequence": 4,
+      "source_server_id": 25565,
+      "source_client_id": 24680,
+      "target_server_id": 26801,
+      "target_client_id": 25916,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\portao\\pilar3.png",
+      "source_sha256": "66A3B46EBE1FFF6BB32682A2E1D560523FD431D8179FFFD8866B52CBA5A287A7",
+      "image_size": [
+        96,
+        96
+      ],
+      "frame_size": [
+        96,
+        96
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 8,
+      "sprite_id_range": [
+        292609,
+        292616
+      ],
+      "sprite_hash": "231679F82E784E6521DCCF7DFA52B4BD"
+    },
+    {
+      "sequence": 5,
+      "source_server_id": 25565,
+      "source_client_id": 24680,
+      "target_server_id": 26802,
+      "target_client_id": 25917,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\portao\\pilar4.png",
+      "source_sha256": "5A6D35C046B2F80F0F0C719EC1B110D9909D8AF2B479837F410FA3E7B63BB5ED",
+      "image_size": [
+        96,
+        96
+      ],
+      "frame_size": [
+        96,
+        96
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        292617,
+        292620
+      ],
+      "sprite_hash": "4AEEBD0CCC2E44C61898B4261F04A0C7"
+    },
+    {
+      "sequence": 6,
+      "source_server_id": 25565,
+      "source_client_id": 24680,
+      "target_server_id": 26803,
+      "target_client_id": 25918,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\portao\\pilar5.png",
+      "source_sha256": "0C5A990079E946D3A7421A85EF99DCF7A59B269C17D335B2BD1D5BB5EF74038B",
+      "image_size": [
+        96,
+        96
+      ],
+      "frame_size": [
+        96,
+        96
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        292621,
+        292624
+      ],
+      "sprite_hash": "B5DAF3DA32A7AAEC3679CF8F42819718"
+    },
+    {
+      "sequence": 7,
+      "source_server_id": 25565,
+      "source_client_id": 24680,
+      "target_server_id": 26804,
+      "target_client_id": 25919,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\portao\\portao1.png",
+      "source_sha256": "D0766C960CE4DF7A226470F938C4C97BC779E250E45AB492C46784ED6931C51F",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 3,
+      "sprite_id_range": [
+        292625,
+        292627
+      ],
+      "sprite_hash": "E0C7F5CE12210C16B2FDCD9E4DE99314"
+    },
+    {
+      "sequence": 8,
+      "source_server_id": 25565,
+      "source_client_id": 24680,
+      "target_server_id": 26805,
+      "target_client_id": 25920,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\portao\\portao3.png",
+      "source_sha256": "6865182FBC633E953A2951C1A5F3F31C2557B669EA083BD549246F7561D8A9C8",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        292628,
+        292631
+      ],
+      "sprite_hash": "B668740FB93405A467F26460FB93F3AF"
+    },
+    {
+      "sequence": 9,
+      "source_server_id": 25565,
+      "source_client_id": 24680,
+      "target_server_id": 26806,
+      "target_client_id": 25921,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\portao\\portao4.png",
+      "source_sha256": "D204CBB932E3C179D7365A593725E48266B3113C79FEEC9C933D7BB2A8079DC4",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        292632,
+        292635
+      ],
+      "sprite_hash": "245011ACAAF5A5FCBC4CE5D3F94DFDD8"
+    },
+    {
+      "sequence": 10,
+      "source_server_id": 25565,
+      "source_client_id": 24680,
+      "target_server_id": 26807,
+      "target_client_id": 25922,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\portao\\portao5.png",
+      "source_sha256": "34A1C8E4C6779DA5193C606E9BCF51205B22DB282AB7F43C588A43E0D78228D6",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        292636,
+        292639
+      ],
+      "sprite_hash": "E1C3555C937605CCCDF82B2BDA2E6E50"
+    },
+    {
+      "sequence": 11,
+      "source_server_id": 25565,
+      "source_client_id": 24680,
+      "target_server_id": 26808,
+      "target_client_id": 25923,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\portao\\portao6.png",
+      "source_sha256": "8C3BD120D095B90122B7186300C1ABC278C99E071B75EE4CE8573E78B24E74DA",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 3,
+      "sprite_id_range": [
+        292640,
+        292642
+      ],
+      "sprite_hash": "885C703C3F5BFA84C250B7A0DBCAFEF0"
+    },
+    {
+      "sequence": 12,
+      "source_server_id": 25565,
+      "source_client_id": 24680,
+      "target_server_id": 26809,
+      "target_client_id": 25924,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\portao\\portao7.png",
+      "source_sha256": "B262E3C431F99A4E9A1C03DEBF184F900AB7A0A54F83770A7180438655043A0C",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        292643,
+        292646
+      ],
+      "sprite_hash": "7096E9B0CEB055462BCBFA9AB67A5242"
+    },
+    {
+      "sequence": 13,
+      "source_server_id": 25565,
+      "source_client_id": 24680,
+      "target_server_id": 26810,
+      "target_client_id": 25925,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\portao\\portao8.png",
+      "source_sha256": "E7701D3DFDCC47C71F82216654BE8A03A7A039EFA179A042B88DA518646DB800",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        292647,
+        292650
+      ],
+      "sprite_hash": "CCE6031C79ED21FDF4DCE69BC1133608"
+    },
+    {
+      "sequence": 14,
+      "source_server_id": 25565,
+      "source_client_id": 24680,
+      "target_server_id": 26811,
+      "target_client_id": 25926,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\portao\\portao9.png",
+      "source_sha256": "9462B2F64C51FC44176367D92226B08ABC230E1B391827C24009133AF32B2A52",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        292651,
+        292651
+      ],
+      "sprite_hash": "AA9EE17AC85BA9908C1072AC8FA107FC"
+    },
+    {
+      "sequence": 15,
+      "source_server_id": 25565,
+      "source_client_id": 24680,
+      "target_server_id": 26812,
+      "target_client_id": 25927,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\portao\\portao10.png",
+      "source_sha256": "C75B8C8C2869FA28E8740EA993ADD8E7612CF9AB4E1AAA145B1BD314867DFE2A",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        292652,
+        292652
+      ],
+      "sprite_hash": "0D82DA1182568DC50A618081204BF6C6"
+    },
+    {
+      "sequence": 16,
+      "source_server_id": 25565,
+      "source_client_id": 24680,
+      "target_server_id": 26813,
+      "target_client_id": 25928,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\portao\\portao21.png",
+      "source_sha256": "46D5941F534389A6A6AA28F10E3A8DA6C32150F66E7A862DA7CDE13F0C4307E8",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        292653,
+        292656
+      ],
+      "sprite_hash": "92E8710C99737A7B18BF4EB21AC04F38"
+    }
+  ],
+  "xml": {
+    "source_definitions": 1,
+    "target_definitions_written": 16,
+    "target_definitions_already_exact": 0,
+    "target_ids": [
+      26798,
+      26799,
+      26800,
+      26801,
+      26802,
+      26803,
+      26804,
+      26805,
+      26806,
+      26807,
+      26808,
+      26809,
+      26810,
+      26811,
+      26812,
+      26813
+    ]
+  },
+  "map_scan": {
+    "tiles_scanned": 7824286,
+    "item_nodes_scanned": 2105107
+  },
+  "dry_run": true,
+  "passed": true
+}

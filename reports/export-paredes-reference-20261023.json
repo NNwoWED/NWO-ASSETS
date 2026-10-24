@@ -1,0 +1,511 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "profile": {
+    "key": "tibia-860-v2-custom-extended",
+    "client_version": 860,
+    "label": "Tibia 8.60 v2 customizado com features OTFI",
+    "dat_signature": "0x4C2C7993",
+    "spr_signature": "0x4C220594",
+    "metadata_reader": 5,
+    "otb_version_hint": "8.60"
+  },
+  "category": "items",
+  "id_kind": "server",
+  "requested_ids": [
+    25575,
+    25576,
+    25577,
+    25578,
+    25579,
+    25580,
+    25581,
+    25582,
+    25583,
+    25584,
+    25585,
+    25586,
+    25587,
+    25588,
+    25589,
+    25590,
+    25598,
+    25600
+  ],
+  "output_dir": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\paredes-reference-20261023",
+  "exported_count": 18,
+  "exported": [
+    {
+      "requested_id": 25575,
+      "client_id": 24690,
+      "server_ids": [
+        25575
+      ],
+      "name": "Rocky Terrain",
+      "group_index": 0,
+      "width": 128,
+      "height": 96,
+      "layers": 1,
+      "pattern_x": 4,
+      "pattern_y": 3,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        275118,
+        275119,
+        275120,
+        275121,
+        275122,
+        275123,
+        275124,
+        275125,
+        275126,
+        275127,
+        275128,
+        275129
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\paredes-reference-20261023\\server-25575_client-24690_rocky-terrain.png",
+      "size": 15195,
+      "sha256": "0BD53266425C03ADB304253920C7D522F95EA93AB54C8207B43D983581257FF3"
+    },
+    {
+      "requested_id": 25576,
+      "client_id": 24691,
+      "server_ids": [
+        25576
+      ],
+      "name": "Cracked Rocky Terrain",
+      "group_index": 0,
+      "width": 128,
+      "height": 128,
+      "layers": 1,
+      "pattern_x": 4,
+      "pattern_y": 4,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        275130,
+        275131,
+        275132,
+        275133,
+        275134,
+        275135,
+        275136,
+        275137,
+        275138,
+        275139,
+        275140,
+        275141,
+        275142,
+        275143,
+        275144,
+        275145
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\paredes-reference-20261023\\server-25576_client-24691_cracked-rocky-terrain.png",
+      "size": 12209,
+      "sha256": "53019C3D93D2F6B868076CA05987CE7BC2E1978A69AC793D5F1F00F222AF3F2C"
+    },
+    {
+      "requested_id": 25577,
+      "client_id": 24692,
+      "server_ids": [
+        25577
+      ],
+      "name": "Rocky Terrain Wall",
+      "group_index": 0,
+      "width": 256,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 4,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        275146,
+        275147,
+        275148,
+        275149,
+        275150,
+        275151,
+        275152,
+        275153,
+        275154,
+        275155,
+        275156,
+        275157,
+        275158,
+        275159,
+        275160,
+        275161
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\paredes-reference-20261023\\server-25577_client-24692_rocky-terrain-wall.png",
+      "size": 3751,
+      "sha256": "B616E22578910D27EBFA1C4470CED70104EFE98F77AC5DCB77821BE493FDE269"
+    },
+    {
+      "requested_id": 25578,
+      "client_id": 24693,
+      "server_ids": [
+        25578
+      ],
+      "name": "Rocky Terrain Wall Corner",
+      "group_index": 0,
+      "width": 128,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 2,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        275178,
+        275179,
+        275180,
+        275181,
+        275182,
+        275183,
+        275184,
+        275185
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\paredes-reference-20261023\\server-25578_client-24693_rocky-terrain-wall-corner.png",
+      "size": 3053,
+      "sha256": "431944E540E34CBFF8733A6E04C80D56310A07DB8190E5C338D687517402D55A"
+    },
+    {
+      "requested_id": 25579,
+      "client_id": 24694,
+      "server_ids": [
+        25579
+      ],
+      "name": "Rocky Terrain Border 01",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        275186
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\paredes-reference-20261023\\server-25579_client-24694_rocky-terrain-border-01.png",
+      "size": 845,
+      "sha256": "BEE41B4B68707E3F337DA9F6CAADDFCDD98141A088FDC3E815BA4E43B964FB8B"
+    },
+    {
+      "requested_id": 25580,
+      "client_id": 24695,
+      "server_ids": [
+        25580
+      ],
+      "name": "Rocky Terrain Border 02",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        275187
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\paredes-reference-20261023\\server-25580_client-24695_rocky-terrain-border-02.png",
+      "size": 799,
+      "sha256": "A4A49A9F9DDDF2383AB68272A92F9C28B28BA407EBC5D1F4AE525741FDD542F5"
+    },
+    {
+      "requested_id": 25581,
+      "client_id": 24696,
+      "server_ids": [
+        25581
+      ],
+      "name": "Rocky Terrain Border 03",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        275188
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\paredes-reference-20261023\\server-25581_client-24696_rocky-terrain-border-03.png",
+      "size": 373,
+      "sha256": "221139B454920B9F74A71AEFF7E60D0D800CFD99008FC5312FBEC9203A4234AC"
+    },
+    {
+      "requested_id": 25582,
+      "client_id": 24697,
+      "server_ids": [
+        25582
+      ],
+      "name": "Rocky Terrain Border 04",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        275189
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\paredes-reference-20261023\\server-25582_client-24697_rocky-terrain-border-04.png",
+      "size": 244,
+      "sha256": "5160334C10C911AC616553F0F306A192F2619162EA47C7871482E44CF7DD9568"
+    },
+    {
+      "requested_id": 25583,
+      "client_id": 24698,
+      "server_ids": [
+        25583
+      ],
+      "name": "Rocky Terrain Border 05",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        275190
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\paredes-reference-20261023\\server-25583_client-24698_rocky-terrain-border-05.png",
+      "size": 269,
+      "sha256": "601A5EE15531FF57613FA7691DA71B499C67476EA5FCEDF41467D1EBEBCA16E3"
+    },
+    {
+      "requested_id": 25584,
+      "client_id": 24699,
+      "server_ids": [
+        25584
+      ],
+      "name": "Rocky Terrain Border 06",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        275191
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\paredes-reference-20261023\\server-25584_client-24699_rocky-terrain-border-06.png",
+      "size": 1285,
+      "sha256": "45AA1165EED7588C4A96B62AE04A1C0FD56757E9A8ABF080A498316EEABE20D9"
+    },
+    {
+      "requested_id": 25585,
+      "client_id": 24700,
+      "server_ids": [
+        25585
+      ],
+      "name": "Rocky Terrain Border 07",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        275192
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\paredes-reference-20261023\\server-25585_client-24700_rocky-terrain-border-07.png",
+      "size": 981,
+      "sha256": "B7DD2468BA00FFBBE87983102E119B73D8A8F55B6DBD683374395323873723E5"
+    },
+    {
+      "requested_id": 25586,
+      "client_id": 24701,
+      "server_ids": [
+        25586
+      ],
+      "name": "Rocky Terrain Border 08",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        275193
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\paredes-reference-20261023\\server-25586_client-24701_rocky-terrain-border-08.png",
+      "size": 563,
+      "sha256": "773E653E84DE4D36C35E4821A71847ABDDF817F512400E4F4DB0BFBD16422CC7"
+    },
+    {
+      "requested_id": 25587,
+      "client_id": 24702,
+      "server_ids": [
+        25587
+      ],
+      "name": "Rocky Terrain Border 09",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        275194
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\paredes-reference-20261023\\server-25587_client-24702_rocky-terrain-border-09.png",
+      "size": 656,
+      "sha256": "E623F54D6674CDA304AD77BD43B067DF3051DE3CB78C9555B141C276923E4400"
+    },
+    {
+      "requested_id": 25588,
+      "client_id": 24703,
+      "server_ids": [
+        25588
+      ],
+      "name": "Rocky Terrain Border 10",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        275195
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\paredes-reference-20261023\\server-25588_client-24703_rocky-terrain-border-10.png",
+      "size": 234,
+      "sha256": "70E86953548D8449A0DF49FF6DECDF60D1BD956C4D2A2B2DF55E988869B57858"
+    },
+    {
+      "requested_id": 25589,
+      "client_id": 24704,
+      "server_ids": [
+        25589
+      ],
+      "name": "Rocky Terrain Border 11",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        275196
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\paredes-reference-20261023\\server-25589_client-24704_rocky-terrain-border-11.png",
+      "size": 1154,
+      "sha256": "6ED4A0747080CB044E20A12D0AB4B31935A8FC808F859D7A8148EB8202699135"
+    },
+    {
+      "requested_id": 25590,
+      "client_id": 24705,
+      "server_ids": [
+        25590
+      ],
+      "name": "Rocky Terrain Border 12",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        275197
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\paredes-reference-20261023\\server-25590_client-24705_rocky-terrain-border-12.png",
+      "size": 1090,
+      "sha256": "74CFB02D78258D24FD560BC70ED44DFA7BC7D08BBC78DC272E1FCEAA8133661F"
+    },
+    {
+      "requested_id": 25598,
+      "client_id": 24713,
+      "server_ids": [
+        25598
+      ],
+      "name": "Rocky Terrain Wall 2",
+      "group_index": 0,
+      "width": 256,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 4,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        275463,
+        275464,
+        275465,
+        275466,
+        275467,
+        275468,
+        275469,
+        275470,
+        275471,
+        275472,
+        275473,
+        275474,
+        275475,
+        275476,
+        275477,
+        275478
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\paredes-reference-20261023\\server-25598_client-24713_rocky-terrain-wall-2.png",
+      "size": 4171,
+      "sha256": "C85E386316AFE34EFA0BE7E143E1255C5926A89FBAF80D57DC806D904D433502"
+    },
+    {
+      "requested_id": 25600,
+      "client_id": 24715,
+      "server_ids": [
+        25600
+      ],
+      "name": "Log Wall",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        276723,
+        276724,
+        276725,
+        276726
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\paredes-reference-20261023\\server-25600_client-24715_log-wall.png",
+      "size": 559,
+      "sha256": "5D96BC79AA37295CA577B191E81E6309A5D8416BF88C1CD0F7B2303B7AA1CD07"
+    }
+  ],
+  "sources": {
+    "dat": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.dat",
+      "sha256": "4CEC3FA47692C2C91F0C8BF831FA9EF469B47FD3621F210425370F27FEB98725"
+    },
+    "spr": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.spr",
+      "sha256": "C75544AAA4AF6A6E1C18B743147B7975208BEF9EE68240F4493FC7692F6F415C"
+    }
+  },
+  "passed": true
+}

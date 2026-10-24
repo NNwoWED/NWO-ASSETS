@@ -1,0 +1,135 @@
+{
+  "passed": true,
+  "checked_items": 2,
+  "pixel_exact_count": 2,
+  "layout_exact_count": 2,
+  "dat_properties_exact_count": 2,
+  "otb_group_and_flags_exact_count": 2,
+  "timing_exact_count": 2,
+  "map_unchanged": true,
+  "map_sha256": "AC32C669BED3512D69AE054CAFC8564A236C9894B22BBC9A0E9D7ACAEFAD5512",
+  "checks": [
+    {
+      "source_server_id": 25569,
+      "source_client_id": 24684,
+      "target_server_id": 25871,
+      "target_client_id": 24986,
+      "pixel_exact": true,
+      "layout_exact": true,
+      "dat_properties_exact": true,
+      "otb_group_and_flags_exact": true,
+      "timing_exact": true,
+      "timing": {
+        "frames": 10,
+        "animation_async": false,
+        "loop_count": 0,
+        "start_frame": 0,
+        "durations": [
+          [
+            100,
+            100
+          ],
+          [
+            100,
+            100
+          ],
+          [
+            100,
+            100
+          ],
+          [
+            100,
+            100
+          ],
+          [
+            100,
+            100
+          ],
+          [
+            100,
+            100
+          ],
+          [
+            100,
+            100
+          ],
+          [
+            100,
+            100
+          ],
+          [
+            100,
+            100
+          ],
+          [
+            100,
+            100
+          ]
+        ]
+      },
+      "intended_sha256": "985CDD7A267E2E1EA3C8D878A77DFC7A0EB87B6FEAA36BC6AA27902A84F6F936",
+      "exported_sha256": "5D84E1CD3F6C035DD9860A34DD1F0696F1777B64BC902D8BFA72A1808092E5BC"
+    },
+    {
+      "source_server_id": 25569,
+      "source_client_id": 24684,
+      "target_server_id": 25872,
+      "target_client_id": 24987,
+      "pixel_exact": true,
+      "layout_exact": true,
+      "dat_properties_exact": true,
+      "otb_group_and_flags_exact": true,
+      "timing_exact": true,
+      "timing": {
+        "frames": 10,
+        "animation_async": false,
+        "loop_count": 0,
+        "start_frame": 0,
+        "durations": [
+          [
+            100,
+            100
+          ],
+          [
+            100,
+            100
+          ],
+          [
+            100,
+            100
+          ],
+          [
+            100,
+            100
+          ],
+          [
+            100,
+            100
+          ],
+          [
+            100,
+            100
+          ],
+          [
+            100,
+            100
+          ],
+          [
+            100,
+            100
+          ],
+          [
+            100,
+            100
+          ],
+          [
+            100,
+            100
+          ]
+        ]
+      },
+      "intended_sha256": "8289CD828561BFDEF9FBD2DAFD29DB8D7418042C2CEA43FCDE5A3DBE93408CD0",
+      "exported_sha256": "95C800C26C454AE271579585BEDCAC2E9B2917FFE0634A257D84F0B99EC2C83E"
+    }
+  ]
+}

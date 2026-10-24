@@ -1,0 +1,64 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "manifest": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\repair-iwagakure-remake-patterns-20261023.csv",
+  "item_count": 2,
+  "spr_unchanged": true,
+  "items": [
+    {
+      "sequence": 1,
+      "server_id": 25562,
+      "client_id": 24677,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\Parede_Iwagakure_remake.png",
+      "source_sha256": "4B0969B9DD032C341B0903DE9357388B5D725997D0E398FC8DA506DF681CD440",
+      "old_layout": {
+        "width": 6,
+        "height": 2,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "new_layout": {
+        "width": 2,
+        "height": 2,
+        "layers": 1,
+        "pattern_x": 3,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "sprite_ids_reused": 12,
+      "sprite_hash": "479CE5D9B2108CBFD3EA8234BF0F013B"
+    },
+    {
+      "sequence": 2,
+      "server_id": 25563,
+      "client_id": 24678,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\Parede_Iwagakure_remake2.png",
+      "source_sha256": "0FC818A6DC9A9D9E334FC8781EA591099419D2AFFCBA9CFC0C3EE91580B1D981",
+      "old_layout": {
+        "width": 6,
+        "height": 2,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "new_layout": {
+        "width": 2,
+        "height": 2,
+        "layers": 1,
+        "pattern_x": 3,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "sprite_ids_reused": 12,
+      "sprite_hash": "34189C38ADFE3DF4AE6403DF7945ED07"
+    }
+  ],
+  "dry_run": true,
+  "passed": true
+}

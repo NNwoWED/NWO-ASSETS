@@ -1,0 +1,1871 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "profile": {
+    "key": "tibia-860-v2-custom-extended",
+    "client_version": 860,
+    "label": "Tibia 8.60 v2 customizado com features OTFI",
+    "dat_signature": "0x4C2C7993",
+    "spr_signature": "0x4C220594",
+    "metadata_reader": 5,
+    "otb_version_hint": "8.60"
+  },
+  "category": "items",
+  "id_kind": "server",
+  "requested_ids": [
+    25665,
+    25666,
+    25667,
+    25668,
+    25669,
+    25670,
+    25671,
+    25672,
+    25673,
+    25674,
+    25675,
+    25676,
+    25677,
+    25678,
+    25679,
+    25680,
+    25681,
+    25682,
+    25683,
+    25684,
+    25685,
+    25686,
+    25687,
+    25688,
+    25689,
+    25690,
+    25691,
+    25692,
+    25693,
+    25694,
+    25695,
+    25696,
+    25697,
+    25698,
+    25699,
+    25700,
+    25701,
+    25702,
+    25703,
+    25704,
+    25705,
+    25706,
+    25707,
+    25708,
+    25709,
+    25710,
+    25711,
+    25712,
+    25713,
+    25714,
+    25715,
+    25716,
+    25717,
+    25718,
+    25719,
+    25720,
+    25721,
+    25722,
+    25723,
+    25724,
+    25725,
+    25726,
+    25727,
+    25728,
+    25729,
+    25730,
+    25731,
+    25732,
+    25733,
+    25734,
+    25735,
+    25736,
+    25737,
+    25738,
+    25739,
+    25740,
+    25741,
+    25742,
+    25743,
+    25744
+  ],
+  "output_dir": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\lava-recolors-10058-10077-20261023",
+  "exported_count": 80,
+  "exported": [
+    {
+      "requested_id": 25665,
+      "client_id": 24780,
+      "server_ids": [
+        25665
+      ],
+      "name": "Brown pavement",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        278218
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\lava-recolors-10058-10077-20261023\\server-25665_client-24780_brown-pavement.png",
+      "size": 1870,
+      "sha256": "3469F62FD161E59231B90FA733FABF75F2C4A19F8E0FE18E03BA36A88B20930D"
+    },
+    {
+      "requested_id": 25666,
+      "client_id": 24781,
+      "server_ids": [
+        25666
+      ],
+      "name": "Brown pavement",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        278219
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\lava-recolors-10058-10077-20261023\\server-25666_client-24781_brown-pavement.png",
+      "size": 1864,
+      "sha256": "48C3142BFF2009B95B9ECAFE13B220E334C85BF82848EB6AD0E1A3F31AE6B698"
+    },
+    {
+      "requested_id": 25667,
+      "client_id": 24782,
+      "server_ids": [
+        25667
+      ],
+      "name": "Brown pavement",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        278220
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\lava-recolors-10058-10077-20261023\\server-25667_client-24782_brown-pavement.png",
+      "size": 1670,
+      "sha256": "33940D5510D50151BFED04D8C829FB2230CE2D37B7D2BF765B19D002E7FE85A6"
+    },
+    {
+      "requested_id": 25668,
+      "client_id": 24783,
+      "server_ids": [
+        25668
+      ],
+      "name": "Brown pavement",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        278221
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\lava-recolors-10058-10077-20261023\\server-25668_client-24783_brown-pavement.png",
+      "size": 1893,
+      "sha256": "22CC2F193FF9D90E93AD7C9454706E293BB0C28B46E57F83E6DA28ACB8E9A00D"
+    },
+    {
+      "requested_id": 25669,
+      "client_id": 24784,
+      "server_ids": [
+        25669
+      ],
+      "name": "Brown pavement",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        278222
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\lava-recolors-10058-10077-20261023\\server-25669_client-24784_brown-pavement.png",
+      "size": 1814,
+      "sha256": "69A7C13D5416F59066CF60B1012861A617F646D8F3B71E6759CFAE3693E5B31E"
+    },
+    {
+      "requested_id": 25670,
+      "client_id": 24785,
+      "server_ids": [
+        25670
+      ],
+      "name": "Brown pavement",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        278223
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\lava-recolors-10058-10077-20261023\\server-25670_client-24785_brown-pavement.png",
+      "size": 1799,
+      "sha256": "FA3692369A761BD9FF460FB521208C50E7E4617C3E814588F54686FD8142E522"
+    },
+    {
+      "requested_id": 25671,
+      "client_id": 24786,
+      "server_ids": [
+        25671
+      ],
+      "name": "Brown pavement",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        278224
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\lava-recolors-10058-10077-20261023\\server-25671_client-24786_brown-pavement.png",
+      "size": 1851,
+      "sha256": "03FC1D8514A40BF12E4184151103A21790048B7126FFA704F4F30656DB4DEF04"
+    },
+    {
+      "requested_id": 25672,
+      "client_id": 24787,
+      "server_ids": [
+        25672
+      ],
+      "name": "Brown pavement",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        278225
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\lava-recolors-10058-10077-20261023\\server-25672_client-24787_brown-pavement.png",
+      "size": 1848,
+      "sha256": "948B9D19AE8BA3DB84E64601B288BAE5BE641D0EA1CA5246FEC34A9CDBAE737A"
+    },
+    {
+      "requested_id": 25673,
+      "client_id": 24788,
+      "server_ids": [
+        25673
+      ],
+      "name": "Cracked earth",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        278226
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\lava-recolors-10058-10077-20261023\\server-25673_client-24788_cracked-earth.png",
+      "size": 1805,
+      "sha256": "A57918FF96668FB6FCD9FEDF7886CECB6A4EBD7C6A24121AE083BEC0F31433BD"
+    },
+    {
+      "requested_id": 25674,
+      "client_id": 24789,
+      "server_ids": [
+        25674
+      ],
+      "name": "Cracked earth",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        278227
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\lava-recolors-10058-10077-20261023\\server-25674_client-24789_cracked-earth.png",
+      "size": 1890,
+      "sha256": "8A58826E67969A59559EE7F180317EE6FD9220241941FB2986D6DC8B045C1478"
+    },
+    {
+      "requested_id": 25675,
+      "client_id": 24790,
+      "server_ids": [
+        25675
+      ],
+      "name": "Cracked earth",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        278228
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\lava-recolors-10058-10077-20261023\\server-25675_client-24790_cracked-earth.png",
+      "size": 1832,
+      "sha256": "881C05826EBCEC0FD61F8B58A3FF45C07DEBBB30A32465B2023485E236B2AADC"
+    },
+    {
+      "requested_id": 25676,
+      "client_id": 24791,
+      "server_ids": [
+        25676
+      ],
+      "name": "Cracked earth",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        278229
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\lava-recolors-10058-10077-20261023\\server-25676_client-24791_cracked-earth.png",
+      "size": 1829,
+      "sha256": "9D4633457E0FC5EA9D4C441BEFE7BEF287182AB6A7C99530EC28E3836DE8352B"
+    },
+    {
+      "requested_id": 25677,
+      "client_id": 24792,
+      "server_ids": [
+        25677
+      ],
+      "name": "Cracked earth",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        278230
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\lava-recolors-10058-10077-20261023\\server-25677_client-24792_cracked-earth.png",
+      "size": 1802,
+      "sha256": "147F0060A2C1710798553B3722ADF619AF21F6FCD77C1A932021DB4D11474E0E"
+    },
+    {
+      "requested_id": 25678,
+      "client_id": 24793,
+      "server_ids": [
+        25678
+      ],
+      "name": "Cracked earth",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        278231
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\lava-recolors-10058-10077-20261023\\server-25678_client-24793_cracked-earth.png",
+      "size": 1803,
+      "sha256": "21BCCE0049C385B8EBB055B0E5E4A2C6055B288830B98389FCBC006D50D7469D"
+    },
+    {
+      "requested_id": 25679,
+      "client_id": 24794,
+      "server_ids": [
+        25679
+      ],
+      "name": "Cracked earth",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        278232
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\lava-recolors-10058-10077-20261023\\server-25679_client-24794_cracked-earth.png",
+      "size": 1947,
+      "sha256": "68758858993CE7ACAA35B95726E6F5AB92D3913EEFDE94BD11F99265CC6856B2"
+    },
+    {
+      "requested_id": 25680,
+      "client_id": 24795,
+      "server_ids": [
+        25680
+      ],
+      "name": "Cracked earth",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        278233
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\lava-recolors-10058-10077-20261023\\server-25680_client-24795_cracked-earth.png",
+      "size": 1942,
+      "sha256": "DD8188BACB5165C06F105575849C7F68BD3528B9271EDF8355E21F79AA86680E"
+    },
+    {
+      "requested_id": 25681,
+      "client_id": 24796,
+      "server_ids": [
+        25681
+      ],
+      "name": "Cracked earth",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        278234
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\lava-recolors-10058-10077-20261023\\server-25681_client-24796_cracked-earth.png",
+      "size": 1474,
+      "sha256": "5CE3D19C3EE92AC92864E651FC5F5B3ABE373BED1BB62008182AA2CD0BD3AAB4"
+    },
+    {
+      "requested_id": 25682,
+      "client_id": 24797,
+      "server_ids": [
+        25682
+      ],
+      "name": "Cracked earth",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        278235
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\lava-recolors-10058-10077-20261023\\server-25682_client-24797_cracked-earth.png",
+      "size": 1459,
+      "sha256": "1BDB23292E7E56B7F855658D190E5D0AB37CF5F0CD56BE35D73E813A48CCF6E9"
+    },
+    {
+      "requested_id": 25683,
+      "client_id": 24798,
+      "server_ids": [
+        25683
+      ],
+      "name": "Cracked earth",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        278236
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\lava-recolors-10058-10077-20261023\\server-25683_client-24798_cracked-earth.png",
+      "size": 1417,
+      "sha256": "C1BE9F4C4832E6F2BCC9515097ED80F5CE0E2E02FD28C5E29F5AB00FACBD0F60"
+    },
+    {
+      "requested_id": 25684,
+      "client_id": 24799,
+      "server_ids": [
+        25684
+      ],
+      "name": "Cracked earth",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        278237
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\lava-recolors-10058-10077-20261023\\server-25684_client-24799_cracked-earth.png",
+      "size": 1516,
+      "sha256": "FDD97FE55080D35564ECFA86CDC481F5D916416A3C9C63DA2D5DA48F34BAAA86"
+    },
+    {
+      "requested_id": 25685,
+      "client_id": 24800,
+      "server_ids": [
+        25685
+      ],
+      "name": "Brown pavement",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        278238
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\lava-recolors-10058-10077-20261023\\server-25685_client-24800_brown-pavement.png",
+      "size": 1914,
+      "sha256": "388D524B8FF5A97733EEF129A7ED3CF22600F0E16887ACD8B734A7CCE1D26FE5"
+    },
+    {
+      "requested_id": 25686,
+      "client_id": 24801,
+      "server_ids": [
+        25686
+      ],
+      "name": "Brown pavement",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        278239
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\lava-recolors-10058-10077-20261023\\server-25686_client-24801_brown-pavement.png",
+      "size": 1893,
+      "sha256": "32FCACD26A61FE97C9FFE819464523973394A9242E9C19D1D9331940704AE2E9"
+    },
+    {
+      "requested_id": 25687,
+      "client_id": 24802,
+      "server_ids": [
+        25687
+      ],
+      "name": "Brown pavement",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        278240
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\lava-recolors-10058-10077-20261023\\server-25687_client-24802_brown-pavement.png",
+      "size": 1682,
+      "sha256": "606794EA6804D065FAA0506EE8C90A3B2CE450777A999085BF7370A3F9016067"
+    },
+    {
+      "requested_id": 25688,
+      "client_id": 24803,
+      "server_ids": [
+        25688
+      ],
+      "name": "Brown pavement",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        278241
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\lava-recolors-10058-10077-20261023\\server-25688_client-24803_brown-pavement.png",
+      "size": 1943,
+      "sha256": "1BCEEDDD8604509E151E3F358855B7D63C9E3A8F380AC1807C06A8AF2ADDA58A"
+    },
+    {
+      "requested_id": 25689,
+      "client_id": 24804,
+      "server_ids": [
+        25689
+      ],
+      "name": "Brown pavement",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        278242
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\lava-recolors-10058-10077-20261023\\server-25689_client-24804_brown-pavement.png",
+      "size": 1882,
+      "sha256": "7EB753FA774428843A6241AA515310DACEACD79CB9430A530EF482E874F07DBD"
+    },
+    {
+      "requested_id": 25690,
+      "client_id": 24805,
+      "server_ids": [
+        25690
+      ],
+      "name": "Brown pavement",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        278243
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\lava-recolors-10058-10077-20261023\\server-25690_client-24805_brown-pavement.png",
+      "size": 1816,
+      "sha256": "17AE1992B81D94F30CD099476B7FDB82D34813A71111B0DAF0CD905B41A3AF9C"
+    },
+    {
+      "requested_id": 25691,
+      "client_id": 24806,
+      "server_ids": [
+        25691
+      ],
+      "name": "Brown pavement",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        278244
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\lava-recolors-10058-10077-20261023\\server-25691_client-24806_brown-pavement.png",
+      "size": 1883,
+      "sha256": "16976346DBE288CD3FF06F98E31AE771EF40698FAD64B0B813F1E0D61B527F8F"
+    },
+    {
+      "requested_id": 25692,
+      "client_id": 24807,
+      "server_ids": [
+        25692
+      ],
+      "name": "Brown pavement",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        278245
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\lava-recolors-10058-10077-20261023\\server-25692_client-24807_brown-pavement.png",
+      "size": 1856,
+      "sha256": "B519362E4B69CC4A93B95B8AE14E7C8DFFAB5520F15F7BF86ADCD0B1F548E440"
+    },
+    {
+      "requested_id": 25693,
+      "client_id": 24808,
+      "server_ids": [
+        25693
+      ],
+      "name": "Cracked earth",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        278246
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\lava-recolors-10058-10077-20261023\\server-25693_client-24808_cracked-earth.png",
+      "size": 1829,
+      "sha256": "60865883385BF8E6FC2A2C8374627BAD6070F216D1726F331CE1190E98EB3F98"
+    },
+    {
+      "requested_id": 25694,
+      "client_id": 24809,
+      "server_ids": [
+        25694
+      ],
+      "name": "Cracked earth",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        278247
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\lava-recolors-10058-10077-20261023\\server-25694_client-24809_cracked-earth.png",
+      "size": 1932,
+      "sha256": "C919989A5E3811FF0B4E07B6133E7B69FC3F1B01DB1E8D49EE015DF33CAB247F"
+    },
+    {
+      "requested_id": 25695,
+      "client_id": 24810,
+      "server_ids": [
+        25695
+      ],
+      "name": "Cracked earth",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        278248
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\lava-recolors-10058-10077-20261023\\server-25695_client-24810_cracked-earth.png",
+      "size": 1840,
+      "sha256": "30C4E42F430C91F59EBE83FDE57725DDFD498329DC0CA3025BA2BF88B928238E"
+    },
+    {
+      "requested_id": 25696,
+      "client_id": 24811,
+      "server_ids": [
+        25696
+      ],
+      "name": "Cracked earth",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        278249
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\lava-recolors-10058-10077-20261023\\server-25696_client-24811_cracked-earth.png",
+      "size": 1853,
+      "sha256": "0E1791AEF9279979D2ECCAA25B32526608119E1A37FDE8F9AB187D88AAC36876"
+    },
+    {
+      "requested_id": 25697,
+      "client_id": 24812,
+      "server_ids": [
+        25697
+      ],
+      "name": "Cracked earth",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        278250
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\lava-recolors-10058-10077-20261023\\server-25697_client-24812_cracked-earth.png",
+      "size": 1849,
+      "sha256": "49E82719F592BF91D850F5508EA7B7588054FA7B26657E55964703A8EB35CAED"
+    },
+    {
+      "requested_id": 25698,
+      "client_id": 24813,
+      "server_ids": [
+        25698
+      ],
+      "name": "Cracked earth",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        278251
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\lava-recolors-10058-10077-20261023\\server-25698_client-24813_cracked-earth.png",
+      "size": 1836,
+      "sha256": "4BDFCCE0D7185E3692176AB1B76CFD1F361ABD8B735003188594F60D06450FDB"
+    },
+    {
+      "requested_id": 25699,
+      "client_id": 24814,
+      "server_ids": [
+        25699
+      ],
+      "name": "Cracked earth",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        278252
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\lava-recolors-10058-10077-20261023\\server-25699_client-24814_cracked-earth.png",
+      "size": 1968,
+      "sha256": "64D14FC7FBDD8C990BC9E1A587552C1034CF9D73E7A4D5847E88BE35207C737F"
+    },
+    {
+      "requested_id": 25700,
+      "client_id": 24815,
+      "server_ids": [
+        25700
+      ],
+      "name": "Cracked earth",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        278253
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\lava-recolors-10058-10077-20261023\\server-25700_client-24815_cracked-earth.png",
+      "size": 1964,
+      "sha256": "1F3C276FB95A64FDB57D745FE350328F0BB95C699B3550C7DF4100C061576D42"
+    },
+    {
+      "requested_id": 25701,
+      "client_id": 24816,
+      "server_ids": [
+        25701
+      ],
+      "name": "Cracked earth",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        278254
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\lava-recolors-10058-10077-20261023\\server-25701_client-24816_cracked-earth.png",
+      "size": 1499,
+      "sha256": "F00C5AEFAED2E0F1372162619A49C717F7370672B0158AEDEC240FF211F00281"
+    },
+    {
+      "requested_id": 25702,
+      "client_id": 24817,
+      "server_ids": [
+        25702
+      ],
+      "name": "Cracked earth",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        278255
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\lava-recolors-10058-10077-20261023\\server-25702_client-24817_cracked-earth.png",
+      "size": 1473,
+      "sha256": "7943E7F3309622C7B11040D505D5281DFD69931289BA3428B5F7A87B344F5872"
+    },
+    {
+      "requested_id": 25703,
+      "client_id": 24818,
+      "server_ids": [
+        25703
+      ],
+      "name": "Cracked earth",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        278256
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\lava-recolors-10058-10077-20261023\\server-25703_client-24818_cracked-earth.png",
+      "size": 1449,
+      "sha256": "26056545C2BC78DE7221E4D1DB9D2C6BDC7D756FD97F61ECE56491D49DF28F32"
+    },
+    {
+      "requested_id": 25704,
+      "client_id": 24819,
+      "server_ids": [
+        25704
+      ],
+      "name": "Cracked earth",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        278257
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\lava-recolors-10058-10077-20261023\\server-25704_client-24819_cracked-earth.png",
+      "size": 1535,
+      "sha256": "888DC70C70D95C762D50C036EFA798BE3407874B43F65837284516879F20AB65"
+    },
+    {
+      "requested_id": 25705,
+      "client_id": 24820,
+      "server_ids": [
+        25705
+      ],
+      "name": "Brown pavement",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        278258
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\lava-recolors-10058-10077-20261023\\server-25705_client-24820_brown-pavement.png",
+      "size": 1898,
+      "sha256": "3E3475508DCFA7E019A71FE9DFDF908F2B504B488A5F4EFB082E37BD4B9BC276"
+    },
+    {
+      "requested_id": 25706,
+      "client_id": 24821,
+      "server_ids": [
+        25706
+      ],
+      "name": "Brown pavement",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        278259
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\lava-recolors-10058-10077-20261023\\server-25706_client-24821_brown-pavement.png",
+      "size": 1900,
+      "sha256": "DD75B304B1B9921D93574532A19EC363F99B83B9BB64DBECA94F96BA2EA82B44"
+    },
+    {
+      "requested_id": 25707,
+      "client_id": 24822,
+      "server_ids": [
+        25707
+      ],
+      "name": "Brown pavement",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        278260
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\lava-recolors-10058-10077-20261023\\server-25707_client-24822_brown-pavement.png",
+      "size": 1665,
+      "sha256": "D49789ADDD03FB02385D63620EB6BB3D1CA6279AC24CBCDED47DBABAF786281B"
+    },
+    {
+      "requested_id": 25708,
+      "client_id": 24823,
+      "server_ids": [
+        25708
+      ],
+      "name": "Brown pavement",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        278261
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\lava-recolors-10058-10077-20261023\\server-25708_client-24823_brown-pavement.png",
+      "size": 1922,
+      "sha256": "EF49D989418088D6C1B0DE29C1EDFDCCCA58847DE937868D9CDE94C2563244C0"
+    },
+    {
+      "requested_id": 25709,
+      "client_id": 24824,
+      "server_ids": [
+        25709
+      ],
+      "name": "Brown pavement",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        278262
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\lava-recolors-10058-10077-20261023\\server-25709_client-24824_brown-pavement.png",
+      "size": 1880,
+      "sha256": "96D54B4CC6C7135C0BA6045585ED5AC5E92BF8D49D47F556FD77794BEC8E2158"
+    },
+    {
+      "requested_id": 25710,
+      "client_id": 24825,
+      "server_ids": [
+        25710
+      ],
+      "name": "Brown pavement",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        278263
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\lava-recolors-10058-10077-20261023\\server-25710_client-24825_brown-pavement.png",
+      "size": 1815,
+      "sha256": "BEB09AA2EECE34ADD8390E8BA88993D409A4B580AE24FA684876C8124468FAF3"
+    },
+    {
+      "requested_id": 25711,
+      "client_id": 24826,
+      "server_ids": [
+        25711
+      ],
+      "name": "Brown pavement",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        278264
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\lava-recolors-10058-10077-20261023\\server-25711_client-24826_brown-pavement.png",
+      "size": 1894,
+      "sha256": "398B5AB0339F7246D265DACFB1560FEE9BEFED0B5FC8249C4409E649D7271943"
+    },
+    {
+      "requested_id": 25712,
+      "client_id": 24827,
+      "server_ids": [
+        25712
+      ],
+      "name": "Brown pavement",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        278265
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\lava-recolors-10058-10077-20261023\\server-25712_client-24827_brown-pavement.png",
+      "size": 1881,
+      "sha256": "69E9699F27308DEB08C32234FFDEE07F3089D86D6BE90EED5FAAFA31B586EAC2"
+    },
+    {
+      "requested_id": 25713,
+      "client_id": 24828,
+      "server_ids": [
+        25713
+      ],
+      "name": "Cracked earth",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        278266
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\lava-recolors-10058-10077-20261023\\server-25713_client-24828_cracked-earth.png",
+      "size": 1833,
+      "sha256": "62E915D0FA94566A5D318D31F850BA838D402D61611E7EF95E255C02638F5A77"
+    },
+    {
+      "requested_id": 25714,
+      "client_id": 24829,
+      "server_ids": [
+        25714
+      ],
+      "name": "Cracked earth",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        278267
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\lava-recolors-10058-10077-20261023\\server-25714_client-24829_cracked-earth.png",
+      "size": 1925,
+      "sha256": "F85AC69480E37518FF368FC7E10FDAAEFE69151A7F80AF998A656CC4CA8C2165"
+    },
+    {
+      "requested_id": 25715,
+      "client_id": 24830,
+      "server_ids": [
+        25715
+      ],
+      "name": "Cracked earth",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        278268
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\lava-recolors-10058-10077-20261023\\server-25715_client-24830_cracked-earth.png",
+      "size": 1859,
+      "sha256": "17589F954F07251753728E5BB3CA442B0A31D0CC1849A6A861B42B4AAF38B057"
+    },
+    {
+      "requested_id": 25716,
+      "client_id": 24831,
+      "server_ids": [
+        25716
+      ],
+      "name": "Cracked earth",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        278269
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\lava-recolors-10058-10077-20261023\\server-25716_client-24831_cracked-earth.png",
+      "size": 1865,
+      "sha256": "6ABD9ADE7D7EA8F5282AA0354D0F8DCDC9EEEDAD52186EFBD58620CBAE0994C4"
+    },
+    {
+      "requested_id": 25717,
+      "client_id": 24832,
+      "server_ids": [
+        25717
+      ],
+      "name": "Cracked earth",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        278270
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\lava-recolors-10058-10077-20261023\\server-25717_client-24832_cracked-earth.png",
+      "size": 1836,
+      "sha256": "89D805AFA73ACB8495A576D249D33BE7318CCA67CD3CBF75E0E622D735DFFA79"
+    },
+    {
+      "requested_id": 25718,
+      "client_id": 24833,
+      "server_ids": [
+        25718
+      ],
+      "name": "Cracked earth",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        278271
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\lava-recolors-10058-10077-20261023\\server-25718_client-24833_cracked-earth.png",
+      "size": 1829,
+      "sha256": "D5A8E48969C28632839FCDDE74F55A38BD371223605C8AFBC93DC45255188747"
+    },
+    {
+      "requested_id": 25719,
+      "client_id": 24834,
+      "server_ids": [
+        25719
+      ],
+      "name": "Cracked earth",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        278272
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\lava-recolors-10058-10077-20261023\\server-25719_client-24834_cracked-earth.png",
+      "size": 1979,
+      "sha256": "9C6EB3B64602000C369E9D0C6FDD20EF9AB4D31D43F2BF8820F0CBA2A6F0AC91"
+    },
+    {
+      "requested_id": 25720,
+      "client_id": 24835,
+      "server_ids": [
+        25720
+      ],
+      "name": "Cracked earth",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        278273
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\lava-recolors-10058-10077-20261023\\server-25720_client-24835_cracked-earth.png",
+      "size": 1976,
+      "sha256": "94AD31BCFF22FB0A9A9B71B25AB1D662F66A248598E97650CD4E6FAF01EDEE6C"
+    },
+    {
+      "requested_id": 25721,
+      "client_id": 24836,
+      "server_ids": [
+        25721
+      ],
+      "name": "Cracked earth",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        278274
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\lava-recolors-10058-10077-20261023\\server-25721_client-24836_cracked-earth.png",
+      "size": 1482,
+      "sha256": "528B3BF1B81B6F314E58523C8DA23210BAA2123783E46ED9E6A9BBCE8F39700A"
+    },
+    {
+      "requested_id": 25722,
+      "client_id": 24837,
+      "server_ids": [
+        25722
+      ],
+      "name": "Cracked earth",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        278275
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\lava-recolors-10058-10077-20261023\\server-25722_client-24837_cracked-earth.png",
+      "size": 1480,
+      "sha256": "1FA8B731C8088A4F09963B605F44B1E11AB26280AE12F294E544E124DCC26755"
+    },
+    {
+      "requested_id": 25723,
+      "client_id": 24838,
+      "server_ids": [
+        25723
+      ],
+      "name": "Cracked earth",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        278276
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\lava-recolors-10058-10077-20261023\\server-25723_client-24838_cracked-earth.png",
+      "size": 1443,
+      "sha256": "D2E9C160913C09078A604315E67A4AC9B3008076CC9CD9BD5F249157B2A3CDD9"
+    },
+    {
+      "requested_id": 25724,
+      "client_id": 24839,
+      "server_ids": [
+        25724
+      ],
+      "name": "Cracked earth",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        278277
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\lava-recolors-10058-10077-20261023\\server-25724_client-24839_cracked-earth.png",
+      "size": 1549,
+      "sha256": "173196E434312459FC9B25C9EEAA37B1237A52F4C6C02ECF8B8E0C4C70444618"
+    },
+    {
+      "requested_id": 25725,
+      "client_id": 24840,
+      "server_ids": [
+        25725
+      ],
+      "name": "Brown pavement",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        278278
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\lava-recolors-10058-10077-20261023\\server-25725_client-24840_brown-pavement.png",
+      "size": 2457,
+      "sha256": "71387F21BE6F5B5D559515CF78D6E61F615307392054597AF8206511F21E2E84"
+    },
+    {
+      "requested_id": 25726,
+      "client_id": 24841,
+      "server_ids": [
+        25726
+      ],
+      "name": "Brown pavement",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        278279
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\lava-recolors-10058-10077-20261023\\server-25726_client-24841_brown-pavement.png",
+      "size": 2304,
+      "sha256": "E220D3A77B93478454B6CF877FFC8D2D57928C489A603FBDFE280375ADB1F38A"
+    },
+    {
+      "requested_id": 25727,
+      "client_id": 24842,
+      "server_ids": [
+        25727
+      ],
+      "name": "Brown pavement",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        278280
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\lava-recolors-10058-10077-20261023\\server-25727_client-24842_brown-pavement.png",
+      "size": 1959,
+      "sha256": "2CBE0DB32F77802320B7FB0EC9523BE07C6A2876DE582B44ADDD9910907AB30D"
+    },
+    {
+      "requested_id": 25728,
+      "client_id": 24843,
+      "server_ids": [
+        25728
+      ],
+      "name": "Brown pavement",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        278281
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\lava-recolors-10058-10077-20261023\\server-25728_client-24843_brown-pavement.png",
+      "size": 2347,
+      "sha256": "91369FA1BA6927AD0B24D499F053C79A67CB98D972722F41832321D688FE2C96"
+    },
+    {
+      "requested_id": 25729,
+      "client_id": 24844,
+      "server_ids": [
+        25729
+      ],
+      "name": "Brown pavement",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        278282
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\lava-recolors-10058-10077-20261023\\server-25729_client-24844_brown-pavement.png",
+      "size": 2359,
+      "sha256": "4713B738E56F6AADFC2827761AEC54F5D9514D9D66D4CCDF22C83E20CC8B31D0"
+    },
+    {
+      "requested_id": 25730,
+      "client_id": 24845,
+      "server_ids": [
+        25730
+      ],
+      "name": "Brown pavement",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        278283
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\lava-recolors-10058-10077-20261023\\server-25730_client-24845_brown-pavement.png",
+      "size": 2214,
+      "sha256": "B8BC4BA333886EE38D6FC867F73B5B872EB688F2CABC6BBCD95FA20DDE9F2283"
+    },
+    {
+      "requested_id": 25731,
+      "client_id": 24846,
+      "server_ids": [
+        25731
+      ],
+      "name": "Brown pavement",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        278284
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\lava-recolors-10058-10077-20261023\\server-25731_client-24846_brown-pavement.png",
+      "size": 2305,
+      "sha256": "F9DF0C5F4D8146E52C70B30E688B6284FD0049B723AC764BE9E9BD735D987987"
+    },
+    {
+      "requested_id": 25732,
+      "client_id": 24847,
+      "server_ids": [
+        25732
+      ],
+      "name": "Brown pavement",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        278285
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\lava-recolors-10058-10077-20261023\\server-25732_client-24847_brown-pavement.png",
+      "size": 2287,
+      "sha256": "6F219B5BA23724E6379877BF660B68D8C2BB6370233DD9B32DCAE3D764E72392"
+    },
+    {
+      "requested_id": 25733,
+      "client_id": 24848,
+      "server_ids": [
+        25733
+      ],
+      "name": "Cracked earth",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        278286
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\lava-recolors-10058-10077-20261023\\server-25733_client-24848_cracked-earth.png",
+      "size": 2250,
+      "sha256": "2D49B3C8C4624EB753DB1C4E8AA113A8330B3C80E5638CADDFDEAD7F4E77D055"
+    },
+    {
+      "requested_id": 25734,
+      "client_id": 24849,
+      "server_ids": [
+        25734
+      ],
+      "name": "Cracked earth",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        278287
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\lava-recolors-10058-10077-20261023\\server-25734_client-24849_cracked-earth.png",
+      "size": 2372,
+      "sha256": "11D5475283F79E3157A71A21260AA427AC84213CF89E3F3FF4800FF3C8FDB318"
+    },
+    {
+      "requested_id": 25735,
+      "client_id": 24850,
+      "server_ids": [
+        25735
+      ],
+      "name": "Cracked earth",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        278288
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\lava-recolors-10058-10077-20261023\\server-25735_client-24850_cracked-earth.png",
+      "size": 2302,
+      "sha256": "399D7C18B0627369EAC676E41110C234C318F4D4C14E9D1FDCAA4C3BD5EA4982"
+    },
+    {
+      "requested_id": 25736,
+      "client_id": 24851,
+      "server_ids": [
+        25736
+      ],
+      "name": "Cracked earth",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        278289
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\lava-recolors-10058-10077-20261023\\server-25736_client-24851_cracked-earth.png",
+      "size": 2323,
+      "sha256": "6A9307EC4E1CE6436F09954637CBFE7FCAEB3078930C1E1E8774FED22FDE5C96"
+    },
+    {
+      "requested_id": 25737,
+      "client_id": 24852,
+      "server_ids": [
+        25737
+      ],
+      "name": "Cracked earth",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        278290
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\lava-recolors-10058-10077-20261023\\server-25737_client-24852_cracked-earth.png",
+      "size": 2202,
+      "sha256": "66F3F746ECF7919638660C38E8134EC9D3661787841279B0EF1F85B4E4019125"
+    },
+    {
+      "requested_id": 25738,
+      "client_id": 24853,
+      "server_ids": [
+        25738
+      ],
+      "name": "Cracked earth",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        278291
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\lava-recolors-10058-10077-20261023\\server-25738_client-24853_cracked-earth.png",
+      "size": 2216,
+      "sha256": "E9D7A4305461F07747344B6F1D4D8857AF96641024FEF4DF43CC6B47986BE0DD"
+    },
+    {
+      "requested_id": 25739,
+      "client_id": 24854,
+      "server_ids": [
+        25739
+      ],
+      "name": "Cracked earth",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        278292
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\lava-recolors-10058-10077-20261023\\server-25739_client-24854_cracked-earth.png",
+      "size": 2393,
+      "sha256": "1FA23E63D3BECB9B1FCE786D342035B800D30A07843E2AF7CF7FAA9078340F4D"
+    },
+    {
+      "requested_id": 25740,
+      "client_id": 24855,
+      "server_ids": [
+        25740
+      ],
+      "name": "Cracked earth",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        278293
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\lava-recolors-10058-10077-20261023\\server-25740_client-24855_cracked-earth.png",
+      "size": 2388,
+      "sha256": "9ACDE093DDF90DCE92EE6BB3CF8BF96DC8731A460C61F66CEEC539216B3641D9"
+    },
+    {
+      "requested_id": 25741,
+      "client_id": 24856,
+      "server_ids": [
+        25741
+      ],
+      "name": "Cracked earth",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        278294
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\lava-recolors-10058-10077-20261023\\server-25741_client-24856_cracked-earth.png",
+      "size": 1801,
+      "sha256": "37119C86B6FAD6F319F956D34D22A2B8ED8EB7352EBFF1EC4024ECF4F49B1BA5"
+    },
+    {
+      "requested_id": 25742,
+      "client_id": 24857,
+      "server_ids": [
+        25742
+      ],
+      "name": "Cracked earth",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        278295
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\lava-recolors-10058-10077-20261023\\server-25742_client-24857_cracked-earth.png",
+      "size": 1763,
+      "sha256": "CD92749D5416501908DCDF51995495AB0E9BEACBCE3FFA2129AED1A1DFECDE8B"
+    },
+    {
+      "requested_id": 25743,
+      "client_id": 24858,
+      "server_ids": [
+        25743
+      ],
+      "name": "Cracked earth",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        278296
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\lava-recolors-10058-10077-20261023\\server-25743_client-24858_cracked-earth.png",
+      "size": 1720,
+      "sha256": "F0ACC594ABBCF8D8FC5D5DEA41BD958CD35A65A1FF9BCB37D37FC1D15819E4BB"
+    },
+    {
+      "requested_id": 25744,
+      "client_id": 24859,
+      "server_ids": [
+        25744
+      ],
+      "name": "Cracked earth",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        278297
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\lava-recolors-10058-10077-20261023\\server-25744_client-24859_cracked-earth.png",
+      "size": 1808,
+      "sha256": "602355FD08E5B17E84978FA806C44B515813647DAFB8545F89FCC5388CCE71AA"
+    }
+  ],
+  "sources": {
+    "dat": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.dat",
+      "sha256": "4CEC3FA47692C2C91F0C8BF831FA9EF469B47FD3621F210425370F27FEB98725"
+    },
+    "spr": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.spr",
+      "sha256": "C75544AAA4AF6A6E1C18B743147B7975208BEF9EE68240F4493FC7692F6F415C"
+    }
+  },
+  "passed": true
+}

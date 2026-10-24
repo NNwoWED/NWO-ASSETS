@@ -1,0 +1,1944 @@
+{
+  "passed": true,
+  "checked_items": 107,
+  "pixel_exact_count": 107,
+  "layout_exact_count": 107,
+  "dat_properties_exact_count": 107,
+  "otb_group_and_flags_exact_count": 107,
+  "category_counts": {
+    "wall": 49,
+    "roof": 51,
+    "border": 7
+  },
+  "pattern_x_3_count": 14,
+  "map_unchanged": true,
+  "map_sha256": "AC32C669BED3512D69AE054CAFC8564A236C9894B22BBC9A0E9D7ACAEFAD5512",
+  "items": [
+    {
+      "sequence": 1,
+      "category": "wall",
+      "collection": "00_base",
+      "source_server_id": 25565,
+      "target_server_id": 26827,
+      "target_client_id": 25942,
+      "archived_source_path": "importados/iwa-city-walls-roofs-20261023/sources/1.png",
+      "size": [
+        64,
+        64
+      ],
+      "pattern_x": 1,
+      "pixel_exact": true,
+      "layout_exact": true,
+      "dat_properties_exact": true,
+      "otb_group_and_flags_exact": true
+    },
+    {
+      "sequence": 2,
+      "category": "wall",
+      "collection": "00_base",
+      "source_server_id": 25565,
+      "target_server_id": 26828,
+      "target_client_id": 25943,
+      "archived_source_path": "importados/iwa-city-walls-roofs-20261023/sources/2.png",
+      "size": [
+        64,
+        64
+      ],
+      "pattern_x": 1,
+      "pixel_exact": true,
+      "layout_exact": true,
+      "dat_properties_exact": true,
+      "otb_group_and_flags_exact": true
+    },
+    {
+      "sequence": 3,
+      "category": "wall",
+      "collection": "00_base",
+      "source_server_id": 25565,
+      "target_server_id": 26829,
+      "target_client_id": 25944,
+      "archived_source_path": "importados/iwa-city-walls-roofs-20261023/sources/3.png",
+      "size": [
+        64,
+        64
+      ],
+      "pattern_x": 1,
+      "pixel_exact": true,
+      "layout_exact": true,
+      "dat_properties_exact": true,
+      "otb_group_and_flags_exact": true
+    },
+    {
+      "sequence": 4,
+      "category": "roof",
+      "collection": "00_base",
+      "source_server_id": 11864,
+      "target_server_id": 26830,
+      "target_client_id": 25945,
+      "archived_source_path": "importados/iwa-city-walls-roofs-20261023/sources/4.png",
+      "size": [
+        64,
+        64
+      ],
+      "pattern_x": 1,
+      "pixel_exact": true,
+      "layout_exact": true,
+      "dat_properties_exact": true,
+      "otb_group_and_flags_exact": true
+    },
+    {
+      "sequence": 5,
+      "category": "roof",
+      "collection": "00_base",
+      "source_server_id": 11865,
+      "target_server_id": 26831,
+      "target_client_id": 25946,
+      "archived_source_path": "importados/iwa-city-walls-roofs-20261023/sources/5.png",
+      "size": [
+        64,
+        64
+      ],
+      "pattern_x": 1,
+      "pixel_exact": true,
+      "layout_exact": true,
+      "dat_properties_exact": true,
+      "otb_group_and_flags_exact": true
+    },
+    {
+      "sequence": 6,
+      "category": "roof",
+      "collection": "00_base",
+      "source_server_id": 11866,
+      "target_server_id": 26832,
+      "target_client_id": 25947,
+      "archived_source_path": "importados/iwa-city-walls-roofs-20261023/sources/6.png",
+      "size": [
+        64,
+        64
+      ],
+      "pattern_x": 1,
+      "pixel_exact": true,
+      "layout_exact": true,
+      "dat_properties_exact": true,
+      "otb_group_and_flags_exact": true
+    },
+    {
+      "sequence": 7,
+      "category": "roof",
+      "collection": "00_base",
+      "source_server_id": 11867,
+      "target_server_id": 26833,
+      "target_client_id": 25948,
+      "archived_source_path": "importados/iwa-city-walls-roofs-20261023/sources/7.png",
+      "size": [
+        64,
+        64
+      ],
+      "pattern_x": 1,
+      "pixel_exact": true,
+      "layout_exact": true,
+      "dat_properties_exact": true,
+      "otb_group_and_flags_exact": true
+    },
+    {
+      "sequence": 8,
+      "category": "roof",
+      "collection": "00_base",
+      "source_server_id": 11868,
+      "target_server_id": 26834,
+      "target_client_id": 25949,
+      "archived_source_path": "importados/iwa-city-walls-roofs-20261023/sources/8.png",
+      "size": [
+        64,
+        64
+      ],
+      "pattern_x": 1,
+      "pixel_exact": true,
+      "layout_exact": true,
+      "dat_properties_exact": true,
+      "otb_group_and_flags_exact": true
+    },
+    {
+      "sequence": 9,
+      "category": "roof",
+      "collection": "00_base",
+      "source_server_id": 11869,
+      "target_server_id": 26835,
+      "target_client_id": 25950,
+      "archived_source_path": "importados/iwa-city-walls-roofs-20261023/sources/9.png",
+      "size": [
+        64,
+        64
+      ],
+      "pattern_x": 1,
+      "pixel_exact": true,
+      "layout_exact": true,
+      "dat_properties_exact": true,
+      "otb_group_and_flags_exact": true
+    },
+    {
+      "sequence": 10,
+      "category": "border",
+      "collection": "00_base",
+      "source_server_id": 25199,
+      "target_server_id": 26836,
+      "target_client_id": 25951,
+      "archived_source_path": "importados/iwa-city-walls-roofs-20261023/sources/20.png",
+      "size": [
+        32,
+        32
+      ],
+      "pattern_x": 1,
+      "pixel_exact": true,
+      "layout_exact": true,
+      "dat_properties_exact": true,
+      "otb_group_and_flags_exact": true
+    },
+    {
+      "sequence": 11,
+      "category": "wall",
+      "collection": "00_base",
+      "source_server_id": 25565,
+      "target_server_id": 26837,
+      "target_client_id": 25952,
+      "archived_source_path": "importados/iwa-city-walls-roofs-20261023/sources/canto.png",
+      "size": [
+        64,
+        64
+      ],
+      "pattern_x": 1,
+      "pixel_exact": true,
+      "layout_exact": true,
+      "dat_properties_exact": true,
+      "otb_group_and_flags_exact": true
+    },
+    {
+      "sequence": 12,
+      "category": "wall",
+      "collection": "00_base",
+      "source_server_id": 25565,
+      "target_server_id": 26838,
+      "target_client_id": 25953,
+      "archived_source_path": "importados/iwa-city-walls-roofs-20261023/sources/parede de terra.png",
+      "size": [
+        192,
+        64
+      ],
+      "pattern_x": 3,
+      "pixel_exact": true,
+      "layout_exact": true,
+      "dat_properties_exact": true,
+      "otb_group_and_flags_exact": true
+    },
+    {
+      "sequence": 13,
+      "category": "wall",
+      "collection": "00_base",
+      "source_server_id": 25565,
+      "target_server_id": 26839,
+      "target_client_id": 25954,
+      "archived_source_path": "importados/iwa-city-walls-roofs-20261023/sources/parede de terra de lado.png",
+      "size": [
+        192,
+        64
+      ],
+      "pattern_x": 3,
+      "pixel_exact": true,
+      "layout_exact": true,
+      "dat_properties_exact": true,
+      "otb_group_and_flags_exact": true
+    },
+    {
+      "sequence": 14,
+      "category": "wall",
+      "collection": "00_base",
+      "source_server_id": 25565,
+      "target_server_id": 26840,
+      "target_client_id": 25955,
+      "archived_source_path": "importados/iwa-city-walls-roofs-20261023/sources/piru.png",
+      "size": [
+        64,
+        64
+      ],
+      "pattern_x": 1,
+      "pixel_exact": true,
+      "layout_exact": true,
+      "dat_properties_exact": true,
+      "otb_group_and_flags_exact": true
+    },
+    {
+      "sequence": 15,
+      "category": "wall",
+      "collection": "01_arenito_dourado",
+      "source_server_id": 25565,
+      "target_server_id": 26841,
+      "target_client_id": 25956,
+      "archived_source_path": "importados/iwa-city-walls-roofs-20261023/sources/01_arenito_dourado/1.png",
+      "size": [
+        64,
+        64
+      ],
+      "pattern_x": 1,
+      "pixel_exact": true,
+      "layout_exact": true,
+      "dat_properties_exact": true,
+      "otb_group_and_flags_exact": true
+    },
+    {
+      "sequence": 16,
+      "category": "wall",
+      "collection": "01_arenito_dourado",
+      "source_server_id": 25565,
+      "target_server_id": 26842,
+      "target_client_id": 25957,
+      "archived_source_path": "importados/iwa-city-walls-roofs-20261023/sources/01_arenito_dourado/2.png",
+      "size": [
+        64,
+        64
+      ],
+      "pattern_x": 1,
+      "pixel_exact": true,
+      "layout_exact": true,
+      "dat_properties_exact": true,
+      "otb_group_and_flags_exact": true
+    },
+    {
+      "sequence": 17,
+      "category": "wall",
+      "collection": "01_arenito_dourado",
+      "source_server_id": 25565,
+      "target_server_id": 26843,
+      "target_client_id": 25958,
+      "archived_source_path": "importados/iwa-city-walls-roofs-20261023/sources/01_arenito_dourado/3.png",
+      "size": [
+        64,
+        64
+      ],
+      "pattern_x": 1,
+      "pixel_exact": true,
+      "layout_exact": true,
+      "dat_properties_exact": true,
+      "otb_group_and_flags_exact": true
+    },
+    {
+      "sequence": 18,
+      "category": "roof",
+      "collection": "01_arenito_dourado",
+      "source_server_id": 11864,
+      "target_server_id": 26844,
+      "target_client_id": 25959,
+      "archived_source_path": "importados/iwa-city-walls-roofs-20261023/sources/01_arenito_dourado/4.png",
+      "size": [
+        64,
+        64
+      ],
+      "pattern_x": 1,
+      "pixel_exact": true,
+      "layout_exact": true,
+      "dat_properties_exact": true,
+      "otb_group_and_flags_exact": true
+    },
+    {
+      "sequence": 19,
+      "category": "roof",
+      "collection": "01_arenito_dourado",
+      "source_server_id": 11865,
+      "target_server_id": 26845,
+      "target_client_id": 25960,
+      "archived_source_path": "importados/iwa-city-walls-roofs-20261023/sources/01_arenito_dourado/5.png",
+      "size": [
+        64,
+        64
+      ],
+      "pattern_x": 1,
+      "pixel_exact": true,
+      "layout_exact": true,
+      "dat_properties_exact": true,
+      "otb_group_and_flags_exact": true
+    },
+    {
+      "sequence": 20,
+      "category": "roof",
+      "collection": "01_arenito_dourado",
+      "source_server_id": 11866,
+      "target_server_id": 26846,
+      "target_client_id": 25961,
+      "archived_source_path": "importados/iwa-city-walls-roofs-20261023/sources/01_arenito_dourado/6.png",
+      "size": [
+        64,
+        64
+      ],
+      "pattern_x": 1,
+      "pixel_exact": true,
+      "layout_exact": true,
+      "dat_properties_exact": true,
+      "otb_group_and_flags_exact": true
+    },
+    {
+      "sequence": 21,
+      "category": "roof",
+      "collection": "01_arenito_dourado",
+      "source_server_id": 11867,
+      "target_server_id": 26847,
+      "target_client_id": 25962,
+      "archived_source_path": "importados/iwa-city-walls-roofs-20261023/sources/01_arenito_dourado/7.png",
+      "size": [
+        64,
+        64
+      ],
+      "pattern_x": 1,
+      "pixel_exact": true,
+      "layout_exact": true,
+      "dat_properties_exact": true,
+      "otb_group_and_flags_exact": true
+    },
+    {
+      "sequence": 22,
+      "category": "roof",
+      "collection": "01_arenito_dourado",
+      "source_server_id": 11868,
+      "target_server_id": 26848,
+      "target_client_id": 25963,
+      "archived_source_path": "importados/iwa-city-walls-roofs-20261023/sources/01_arenito_dourado/8.png",
+      "size": [
+        64,
+        64
+      ],
+      "pattern_x": 1,
+      "pixel_exact": true,
+      "layout_exact": true,
+      "dat_properties_exact": true,
+      "otb_group_and_flags_exact": true
+    },
+    {
+      "sequence": 23,
+      "category": "roof",
+      "collection": "01_arenito_dourado",
+      "source_server_id": 11869,
+      "target_server_id": 26849,
+      "target_client_id": 25964,
+      "archived_source_path": "importados/iwa-city-walls-roofs-20261023/sources/01_arenito_dourado/9.png",
+      "size": [
+        64,
+        64
+      ],
+      "pattern_x": 1,
+      "pixel_exact": true,
+      "layout_exact": true,
+      "dat_properties_exact": true,
+      "otb_group_and_flags_exact": true
+    },
+    {
+      "sequence": 24,
+      "category": "border",
+      "collection": "01_arenito_dourado",
+      "source_server_id": 25199,
+      "target_server_id": 26850,
+      "target_client_id": 25965,
+      "archived_source_path": "importados/iwa-city-walls-roofs-20261023/sources/01_arenito_dourado/20.png",
+      "size": [
+        32,
+        32
+      ],
+      "pattern_x": 1,
+      "pixel_exact": true,
+      "layout_exact": true,
+      "dat_properties_exact": true,
+      "otb_group_and_flags_exact": true
+    },
+    {
+      "sequence": 25,
+      "category": "wall",
+      "collection": "01_arenito_dourado",
+      "source_server_id": 25565,
+      "target_server_id": 26851,
+      "target_client_id": 25966,
+      "archived_source_path": "importados/iwa-city-walls-roofs-20261023/sources/01_arenito_dourado/canto.png",
+      "size": [
+        64,
+        64
+      ],
+      "pattern_x": 1,
+      "pixel_exact": true,
+      "layout_exact": true,
+      "dat_properties_exact": true,
+      "otb_group_and_flags_exact": true
+    },
+    {
+      "sequence": 26,
+      "category": "wall",
+      "collection": "01_arenito_dourado",
+      "source_server_id": 25565,
+      "target_server_id": 26852,
+      "target_client_id": 25967,
+      "archived_source_path": "importados/iwa-city-walls-roofs-20261023/sources/01_arenito_dourado/parede de terra.png",
+      "size": [
+        192,
+        64
+      ],
+      "pattern_x": 3,
+      "pixel_exact": true,
+      "layout_exact": true,
+      "dat_properties_exact": true,
+      "otb_group_and_flags_exact": true
+    },
+    {
+      "sequence": 27,
+      "category": "wall",
+      "collection": "01_arenito_dourado",
+      "source_server_id": 25565,
+      "target_server_id": 26853,
+      "target_client_id": 25968,
+      "archived_source_path": "importados/iwa-city-walls-roofs-20261023/sources/01_arenito_dourado/parede de terra2.png",
+      "size": [
+        192,
+        64
+      ],
+      "pattern_x": 3,
+      "pixel_exact": true,
+      "layout_exact": true,
+      "dat_properties_exact": true,
+      "otb_group_and_flags_exact": true
+    },
+    {
+      "sequence": 28,
+      "category": "wall",
+      "collection": "01_arenito_dourado",
+      "source_server_id": 25565,
+      "target_server_id": 26854,
+      "target_client_id": 25969,
+      "archived_source_path": "importados/iwa-city-walls-roofs-20261023/sources/01_arenito_dourado/piru.png",
+      "size": [
+        64,
+        64
+      ],
+      "pattern_x": 1,
+      "pixel_exact": true,
+      "layout_exact": true,
+      "dat_properties_exact": true,
+      "otb_group_and_flags_exact": true
+    },
+    {
+      "sequence": 29,
+      "category": "wall",
+      "collection": "02_areia_palha",
+      "source_server_id": 25565,
+      "target_server_id": 26855,
+      "target_client_id": 25970,
+      "archived_source_path": "importados/iwa-city-walls-roofs-20261023/sources/02_areia_palha/1.png",
+      "size": [
+        64,
+        64
+      ],
+      "pattern_x": 1,
+      "pixel_exact": true,
+      "layout_exact": true,
+      "dat_properties_exact": true,
+      "otb_group_and_flags_exact": true
+    },
+    {
+      "sequence": 30,
+      "category": "wall",
+      "collection": "02_areia_palha",
+      "source_server_id": 25565,
+      "target_server_id": 26856,
+      "target_client_id": 25971,
+      "archived_source_path": "importados/iwa-city-walls-roofs-20261023/sources/02_areia_palha/2.png",
+      "size": [
+        64,
+        64
+      ],
+      "pattern_x": 1,
+      "pixel_exact": true,
+      "layout_exact": true,
+      "dat_properties_exact": true,
+      "otb_group_and_flags_exact": true
+    },
+    {
+      "sequence": 31,
+      "category": "wall",
+      "collection": "02_areia_palha",
+      "source_server_id": 25565,
+      "target_server_id": 26857,
+      "target_client_id": 25972,
+      "archived_source_path": "importados/iwa-city-walls-roofs-20261023/sources/02_areia_palha/3.png",
+      "size": [
+        64,
+        64
+      ],
+      "pattern_x": 1,
+      "pixel_exact": true,
+      "layout_exact": true,
+      "dat_properties_exact": true,
+      "otb_group_and_flags_exact": true
+    },
+    {
+      "sequence": 32,
+      "category": "roof",
+      "collection": "02_areia_palha",
+      "source_server_id": 11864,
+      "target_server_id": 26858,
+      "target_client_id": 25973,
+      "archived_source_path": "importados/iwa-city-walls-roofs-20261023/sources/02_areia_palha/4.png",
+      "size": [
+        64,
+        64
+      ],
+      "pattern_x": 1,
+      "pixel_exact": true,
+      "layout_exact": true,
+      "dat_properties_exact": true,
+      "otb_group_and_flags_exact": true
+    },
+    {
+      "sequence": 33,
+      "category": "roof",
+      "collection": "02_areia_palha",
+      "source_server_id": 11865,
+      "target_server_id": 26859,
+      "target_client_id": 25974,
+      "archived_source_path": "importados/iwa-city-walls-roofs-20261023/sources/02_areia_palha/5.png",
+      "size": [
+        64,
+        64
+      ],
+      "pattern_x": 1,
+      "pixel_exact": true,
+      "layout_exact": true,
+      "dat_properties_exact": true,
+      "otb_group_and_flags_exact": true
+    },
+    {
+      "sequence": 34,
+      "category": "roof",
+      "collection": "02_areia_palha",
+      "source_server_id": 11866,
+      "target_server_id": 26860,
+      "target_client_id": 25975,
+      "archived_source_path": "importados/iwa-city-walls-roofs-20261023/sources/02_areia_palha/6.png",
+      "size": [
+        64,
+        64
+      ],
+      "pattern_x": 1,
+      "pixel_exact": true,
+      "layout_exact": true,
+      "dat_properties_exact": true,
+      "otb_group_and_flags_exact": true
+    },
+    {
+      "sequence": 35,
+      "category": "roof",
+      "collection": "02_areia_palha",
+      "source_server_id": 11867,
+      "target_server_id": 26861,
+      "target_client_id": 25976,
+      "archived_source_path": "importados/iwa-city-walls-roofs-20261023/sources/02_areia_palha/7.png",
+      "size": [
+        64,
+        64
+      ],
+      "pattern_x": 1,
+      "pixel_exact": true,
+      "layout_exact": true,
+      "dat_properties_exact": true,
+      "otb_group_and_flags_exact": true
+    },
+    {
+      "sequence": 36,
+      "category": "roof",
+      "collection": "02_areia_palha",
+      "source_server_id": 11868,
+      "target_server_id": 26862,
+      "target_client_id": 25977,
+      "archived_source_path": "importados/iwa-city-walls-roofs-20261023/sources/02_areia_palha/8.png",
+      "size": [
+        64,
+        64
+      ],
+      "pattern_x": 1,
+      "pixel_exact": true,
+      "layout_exact": true,
+      "dat_properties_exact": true,
+      "otb_group_and_flags_exact": true
+    },
+    {
+      "sequence": 37,
+      "category": "roof",
+      "collection": "02_areia_palha",
+      "source_server_id": 11869,
+      "target_server_id": 26863,
+      "target_client_id": 25978,
+      "archived_source_path": "importados/iwa-city-walls-roofs-20261023/sources/02_areia_palha/9.png",
+      "size": [
+        64,
+        64
+      ],
+      "pattern_x": 1,
+      "pixel_exact": true,
+      "layout_exact": true,
+      "dat_properties_exact": true,
+      "otb_group_and_flags_exact": true
+    },
+    {
+      "sequence": 38,
+      "category": "border",
+      "collection": "02_areia_palha",
+      "source_server_id": 25199,
+      "target_server_id": 26864,
+      "target_client_id": 25979,
+      "archived_source_path": "importados/iwa-city-walls-roofs-20261023/sources/02_areia_palha/20.png",
+      "size": [
+        32,
+        32
+      ],
+      "pattern_x": 1,
+      "pixel_exact": true,
+      "layout_exact": true,
+      "dat_properties_exact": true,
+      "otb_group_and_flags_exact": true
+    },
+    {
+      "sequence": 39,
+      "category": "wall",
+      "collection": "02_areia_palha",
+      "source_server_id": 25565,
+      "target_server_id": 26865,
+      "target_client_id": 25980,
+      "archived_source_path": "importados/iwa-city-walls-roofs-20261023/sources/02_areia_palha/canto.png",
+      "size": [
+        64,
+        64
+      ],
+      "pattern_x": 1,
+      "pixel_exact": true,
+      "layout_exact": true,
+      "dat_properties_exact": true,
+      "otb_group_and_flags_exact": true
+    },
+    {
+      "sequence": 40,
+      "category": "wall",
+      "collection": "02_areia_palha",
+      "source_server_id": 25565,
+      "target_server_id": 26866,
+      "target_client_id": 25981,
+      "archived_source_path": "importados/iwa-city-walls-roofs-20261023/sources/02_areia_palha/parede de terra.png",
+      "size": [
+        192,
+        64
+      ],
+      "pattern_x": 3,
+      "pixel_exact": true,
+      "layout_exact": true,
+      "dat_properties_exact": true,
+      "otb_group_and_flags_exact": true
+    },
+    {
+      "sequence": 41,
+      "category": "wall",
+      "collection": "02_areia_palha",
+      "source_server_id": 25565,
+      "target_server_id": 26867,
+      "target_client_id": 25982,
+      "archived_source_path": "importados/iwa-city-walls-roofs-20261023/sources/02_areia_palha/parede de terra2.png",
+      "size": [
+        192,
+        64
+      ],
+      "pattern_x": 3,
+      "pixel_exact": true,
+      "layout_exact": true,
+      "dat_properties_exact": true,
+      "otb_group_and_flags_exact": true
+    },
+    {
+      "sequence": 42,
+      "category": "wall",
+      "collection": "02_areia_palha",
+      "source_server_id": 25565,
+      "target_server_id": 26868,
+      "target_client_id": 25983,
+      "archived_source_path": "importados/iwa-city-walls-roofs-20261023/sources/02_areia_palha/piru.png",
+      "size": [
+        64,
+        64
+      ],
+      "pattern_x": 1,
+      "pixel_exact": true,
+      "layout_exact": true,
+      "dat_properties_exact": true,
+      "otb_group_and_flags_exact": true
+    },
+    {
+      "sequence": 43,
+      "category": "wall",
+      "collection": "03_ocre_queimado",
+      "source_server_id": 25565,
+      "target_server_id": 26869,
+      "target_client_id": 25984,
+      "archived_source_path": "importados/iwa-city-walls-roofs-20261023/sources/03_ocre_queimado/1.png",
+      "size": [
+        64,
+        64
+      ],
+      "pattern_x": 1,
+      "pixel_exact": true,
+      "layout_exact": true,
+      "dat_properties_exact": true,
+      "otb_group_and_flags_exact": true
+    },
+    {
+      "sequence": 44,
+      "category": "wall",
+      "collection": "03_ocre_queimado",
+      "source_server_id": 25565,
+      "target_server_id": 26870,
+      "target_client_id": 25985,
+      "archived_source_path": "importados/iwa-city-walls-roofs-20261023/sources/03_ocre_queimado/2.png",
+      "size": [
+        64,
+        64
+      ],
+      "pattern_x": 1,
+      "pixel_exact": true,
+      "layout_exact": true,
+      "dat_properties_exact": true,
+      "otb_group_and_flags_exact": true
+    },
+    {
+      "sequence": 45,
+      "category": "wall",
+      "collection": "03_ocre_queimado",
+      "source_server_id": 25565,
+      "target_server_id": 26871,
+      "target_client_id": 25986,
+      "archived_source_path": "importados/iwa-city-walls-roofs-20261023/sources/03_ocre_queimado/3.png",
+      "size": [
+        64,
+        64
+      ],
+      "pattern_x": 1,
+      "pixel_exact": true,
+      "layout_exact": true,
+      "dat_properties_exact": true,
+      "otb_group_and_flags_exact": true
+    },
+    {
+      "sequence": 46,
+      "category": "roof",
+      "collection": "03_ocre_queimado",
+      "source_server_id": 11864,
+      "target_server_id": 26872,
+      "target_client_id": 25987,
+      "archived_source_path": "importados/iwa-city-walls-roofs-20261023/sources/03_ocre_queimado/4.png",
+      "size": [
+        64,
+        64
+      ],
+      "pattern_x": 1,
+      "pixel_exact": true,
+      "layout_exact": true,
+      "dat_properties_exact": true,
+      "otb_group_and_flags_exact": true
+    },
+    {
+      "sequence": 47,
+      "category": "roof",
+      "collection": "03_ocre_queimado",
+      "source_server_id": 11865,
+      "target_server_id": 26873,
+      "target_client_id": 25988,
+      "archived_source_path": "importados/iwa-city-walls-roofs-20261023/sources/03_ocre_queimado/5.png",
+      "size": [
+        64,
+        64
+      ],
+      "pattern_x": 1,
+      "pixel_exact": true,
+      "layout_exact": true,
+      "dat_properties_exact": true,
+      "otb_group_and_flags_exact": true
+    },
+    {
+      "sequence": 48,
+      "category": "roof",
+      "collection": "03_ocre_queimado",
+      "source_server_id": 11866,
+      "target_server_id": 26874,
+      "target_client_id": 25989,
+      "archived_source_path": "importados/iwa-city-walls-roofs-20261023/sources/03_ocre_queimado/6.png",
+      "size": [
+        64,
+        64
+      ],
+      "pattern_x": 1,
+      "pixel_exact": true,
+      "layout_exact": true,
+      "dat_properties_exact": true,
+      "otb_group_and_flags_exact": true
+    },
+    {
+      "sequence": 49,
+      "category": "roof",
+      "collection": "03_ocre_queimado",
+      "source_server_id": 11867,
+      "target_server_id": 26875,
+      "target_client_id": 25990,
+      "archived_source_path": "importados/iwa-city-walls-roofs-20261023/sources/03_ocre_queimado/7.png",
+      "size": [
+        64,
+        64
+      ],
+      "pattern_x": 1,
+      "pixel_exact": true,
+      "layout_exact": true,
+      "dat_properties_exact": true,
+      "otb_group_and_flags_exact": true
+    },
+    {
+      "sequence": 50,
+      "category": "roof",
+      "collection": "03_ocre_queimado",
+      "source_server_id": 11868,
+      "target_server_id": 26876,
+      "target_client_id": 25991,
+      "archived_source_path": "importados/iwa-city-walls-roofs-20261023/sources/03_ocre_queimado/8.png",
+      "size": [
+        64,
+        64
+      ],
+      "pattern_x": 1,
+      "pixel_exact": true,
+      "layout_exact": true,
+      "dat_properties_exact": true,
+      "otb_group_and_flags_exact": true
+    },
+    {
+      "sequence": 51,
+      "category": "roof",
+      "collection": "03_ocre_queimado",
+      "source_server_id": 11869,
+      "target_server_id": 26877,
+      "target_client_id": 25992,
+      "archived_source_path": "importados/iwa-city-walls-roofs-20261023/sources/03_ocre_queimado/9.png",
+      "size": [
+        64,
+        64
+      ],
+      "pattern_x": 1,
+      "pixel_exact": true,
+      "layout_exact": true,
+      "dat_properties_exact": true,
+      "otb_group_and_flags_exact": true
+    },
+    {
+      "sequence": 52,
+      "category": "border",
+      "collection": "03_ocre_queimado",
+      "source_server_id": 25199,
+      "target_server_id": 26878,
+      "target_client_id": 25993,
+      "archived_source_path": "importados/iwa-city-walls-roofs-20261023/sources/03_ocre_queimado/20.png",
+      "size": [
+        32,
+        32
+      ],
+      "pattern_x": 1,
+      "pixel_exact": true,
+      "layout_exact": true,
+      "dat_properties_exact": true,
+      "otb_group_and_flags_exact": true
+    },
+    {
+      "sequence": 53,
+      "category": "wall",
+      "collection": "03_ocre_queimado",
+      "source_server_id": 25565,
+      "target_server_id": 26879,
+      "target_client_id": 25994,
+      "archived_source_path": "importados/iwa-city-walls-roofs-20261023/sources/03_ocre_queimado/canto.png",
+      "size": [
+        64,
+        64
+      ],
+      "pattern_x": 1,
+      "pixel_exact": true,
+      "layout_exact": true,
+      "dat_properties_exact": true,
+      "otb_group_and_flags_exact": true
+    },
+    {
+      "sequence": 54,
+      "category": "wall",
+      "collection": "03_ocre_queimado",
+      "source_server_id": 25565,
+      "target_server_id": 26880,
+      "target_client_id": 25995,
+      "archived_source_path": "importados/iwa-city-walls-roofs-20261023/sources/03_ocre_queimado/parede de terra.png",
+      "size": [
+        192,
+        64
+      ],
+      "pattern_x": 3,
+      "pixel_exact": true,
+      "layout_exact": true,
+      "dat_properties_exact": true,
+      "otb_group_and_flags_exact": true
+    },
+    {
+      "sequence": 55,
+      "category": "wall",
+      "collection": "03_ocre_queimado",
+      "source_server_id": 25565,
+      "target_server_id": 26881,
+      "target_client_id": 25996,
+      "archived_source_path": "importados/iwa-city-walls-roofs-20261023/sources/03_ocre_queimado/parede de terra2.png",
+      "size": [
+        192,
+        64
+      ],
+      "pattern_x": 3,
+      "pixel_exact": true,
+      "layout_exact": true,
+      "dat_properties_exact": true,
+      "otb_group_and_flags_exact": true
+    },
+    {
+      "sequence": 56,
+      "category": "wall",
+      "collection": "03_ocre_queimado",
+      "source_server_id": 25565,
+      "target_server_id": 26882,
+      "target_client_id": 25997,
+      "archived_source_path": "importados/iwa-city-walls-roofs-20261023/sources/03_ocre_queimado/piru.png",
+      "size": [
+        64,
+        64
+      ],
+      "pattern_x": 1,
+      "pixel_exact": true,
+      "layout_exact": true,
+      "dat_properties_exact": true,
+      "otb_group_and_flags_exact": true
+    },
+    {
+      "sequence": 57,
+      "category": "wall",
+      "collection": "04_terracota",
+      "source_server_id": 25565,
+      "target_server_id": 26883,
+      "target_client_id": 25998,
+      "archived_source_path": "importados/iwa-city-walls-roofs-20261023/sources/04_terracota/1.png",
+      "size": [
+        64,
+        64
+      ],
+      "pattern_x": 1,
+      "pixel_exact": true,
+      "layout_exact": true,
+      "dat_properties_exact": true,
+      "otb_group_and_flags_exact": true
+    },
+    {
+      "sequence": 58,
+      "category": "wall",
+      "collection": "04_terracota",
+      "source_server_id": 25565,
+      "target_server_id": 26884,
+      "target_client_id": 25999,
+      "archived_source_path": "importados/iwa-city-walls-roofs-20261023/sources/04_terracota/2.png",
+      "size": [
+        64,
+        64
+      ],
+      "pattern_x": 1,
+      "pixel_exact": true,
+      "layout_exact": true,
+      "dat_properties_exact": true,
+      "otb_group_and_flags_exact": true
+    },
+    {
+      "sequence": 59,
+      "category": "wall",
+      "collection": "04_terracota",
+      "source_server_id": 25565,
+      "target_server_id": 26885,
+      "target_client_id": 26000,
+      "archived_source_path": "importados/iwa-city-walls-roofs-20261023/sources/04_terracota/3.png",
+      "size": [
+        64,
+        64
+      ],
+      "pattern_x": 1,
+      "pixel_exact": true,
+      "layout_exact": true,
+      "dat_properties_exact": true,
+      "otb_group_and_flags_exact": true
+    },
+    {
+      "sequence": 60,
+      "category": "roof",
+      "collection": "04_terracota",
+      "source_server_id": 11864,
+      "target_server_id": 26886,
+      "target_client_id": 26001,
+      "archived_source_path": "importados/iwa-city-walls-roofs-20261023/sources/04_terracota/4.png",
+      "size": [
+        64,
+        64
+      ],
+      "pattern_x": 1,
+      "pixel_exact": true,
+      "layout_exact": true,
+      "dat_properties_exact": true,
+      "otb_group_and_flags_exact": true
+    },
+    {
+      "sequence": 61,
+      "category": "roof",
+      "collection": "04_terracota",
+      "source_server_id": 11865,
+      "target_server_id": 26887,
+      "target_client_id": 26002,
+      "archived_source_path": "importados/iwa-city-walls-roofs-20261023/sources/04_terracota/5.png",
+      "size": [
+        64,
+        64
+      ],
+      "pattern_x": 1,
+      "pixel_exact": true,
+      "layout_exact": true,
+      "dat_properties_exact": true,
+      "otb_group_and_flags_exact": true
+    },
+    {
+      "sequence": 62,
+      "category": "roof",
+      "collection": "04_terracota",
+      "source_server_id": 11866,
+      "target_server_id": 26888,
+      "target_client_id": 26003,
+      "archived_source_path": "importados/iwa-city-walls-roofs-20261023/sources/04_terracota/6.png",
+      "size": [
+        64,
+        64
+      ],
+      "pattern_x": 1,
+      "pixel_exact": true,
+      "layout_exact": true,
+      "dat_properties_exact": true,
+      "otb_group_and_flags_exact": true
+    },
+    {
+      "sequence": 63,
+      "category": "roof",
+      "collection": "04_terracota",
+      "source_server_id": 11867,
+      "target_server_id": 26889,
+      "target_client_id": 26004,
+      "archived_source_path": "importados/iwa-city-walls-roofs-20261023/sources/04_terracota/7.png",
+      "size": [
+        64,
+        64
+      ],
+      "pattern_x": 1,
+      "pixel_exact": true,
+      "layout_exact": true,
+      "dat_properties_exact": true,
+      "otb_group_and_flags_exact": true
+    },
+    {
+      "sequence": 64,
+      "category": "roof",
+      "collection": "04_terracota",
+      "source_server_id": 11868,
+      "target_server_id": 26890,
+      "target_client_id": 26005,
+      "archived_source_path": "importados/iwa-city-walls-roofs-20261023/sources/04_terracota/8.png",
+      "size": [
+        64,
+        64
+      ],
+      "pattern_x": 1,
+      "pixel_exact": true,
+      "layout_exact": true,
+      "dat_properties_exact": true,
+      "otb_group_and_flags_exact": true
+    },
+    {
+      "sequence": 65,
+      "category": "roof",
+      "collection": "04_terracota",
+      "source_server_id": 11869,
+      "target_server_id": 26891,
+      "target_client_id": 26006,
+      "archived_source_path": "importados/iwa-city-walls-roofs-20261023/sources/04_terracota/9.png",
+      "size": [
+        64,
+        64
+      ],
+      "pattern_x": 1,
+      "pixel_exact": true,
+      "layout_exact": true,
+      "dat_properties_exact": true,
+      "otb_group_and_flags_exact": true
+    },
+    {
+      "sequence": 66,
+      "category": "border",
+      "collection": "04_terracota",
+      "source_server_id": 25199,
+      "target_server_id": 26892,
+      "target_client_id": 26007,
+      "archived_source_path": "importados/iwa-city-walls-roofs-20261023/sources/04_terracota/20.png",
+      "size": [
+        32,
+        32
+      ],
+      "pattern_x": 1,
+      "pixel_exact": true,
+      "layout_exact": true,
+      "dat_properties_exact": true,
+      "otb_group_and_flags_exact": true
+    },
+    {
+      "sequence": 67,
+      "category": "wall",
+      "collection": "04_terracota",
+      "source_server_id": 25565,
+      "target_server_id": 26893,
+      "target_client_id": 26008,
+      "archived_source_path": "importados/iwa-city-walls-roofs-20261023/sources/04_terracota/canto.png",
+      "size": [
+        64,
+        64
+      ],
+      "pattern_x": 1,
+      "pixel_exact": true,
+      "layout_exact": true,
+      "dat_properties_exact": true,
+      "otb_group_and_flags_exact": true
+    },
+    {
+      "sequence": 68,
+      "category": "wall",
+      "collection": "04_terracota",
+      "source_server_id": 25565,
+      "target_server_id": 26894,
+      "target_client_id": 26009,
+      "archived_source_path": "importados/iwa-city-walls-roofs-20261023/sources/04_terracota/parede de terra.png",
+      "size": [
+        192,
+        64
+      ],
+      "pattern_x": 3,
+      "pixel_exact": true,
+      "layout_exact": true,
+      "dat_properties_exact": true,
+      "otb_group_and_flags_exact": true
+    },
+    {
+      "sequence": 69,
+      "category": "wall",
+      "collection": "04_terracota",
+      "source_server_id": 25565,
+      "target_server_id": 26895,
+      "target_client_id": 26010,
+      "archived_source_path": "importados/iwa-city-walls-roofs-20261023/sources/04_terracota/parede de terra2.png",
+      "size": [
+        192,
+        64
+      ],
+      "pattern_x": 3,
+      "pixel_exact": true,
+      "layout_exact": true,
+      "dat_properties_exact": true,
+      "otb_group_and_flags_exact": true
+    },
+    {
+      "sequence": 70,
+      "category": "wall",
+      "collection": "04_terracota",
+      "source_server_id": 25565,
+      "target_server_id": 26896,
+      "target_client_id": 26011,
+      "archived_source_path": "importados/iwa-city-walls-roofs-20261023/sources/04_terracota/piru.png",
+      "size": [
+        64,
+        64
+      ],
+      "pattern_x": 1,
+      "pixel_exact": true,
+      "layout_exact": true,
+      "dat_properties_exact": true,
+      "otb_group_and_flags_exact": true
+    },
+    {
+      "sequence": 71,
+      "category": "wall",
+      "collection": "05_oliva_seco",
+      "source_server_id": 25565,
+      "target_server_id": 26897,
+      "target_client_id": 26012,
+      "archived_source_path": "importados/iwa-city-walls-roofs-20261023/sources/05_oliva_seco/1.png",
+      "size": [
+        64,
+        64
+      ],
+      "pattern_x": 1,
+      "pixel_exact": true,
+      "layout_exact": true,
+      "dat_properties_exact": true,
+      "otb_group_and_flags_exact": true
+    },
+    {
+      "sequence": 72,
+      "category": "wall",
+      "collection": "05_oliva_seco",
+      "source_server_id": 25565,
+      "target_server_id": 26898,
+      "target_client_id": 26013,
+      "archived_source_path": "importados/iwa-city-walls-roofs-20261023/sources/05_oliva_seco/2.png",
+      "size": [
+        64,
+        64
+      ],
+      "pattern_x": 1,
+      "pixel_exact": true,
+      "layout_exact": true,
+      "dat_properties_exact": true,
+      "otb_group_and_flags_exact": true
+    },
+    {
+      "sequence": 73,
+      "category": "wall",
+      "collection": "05_oliva_seco",
+      "source_server_id": 25565,
+      "target_server_id": 26899,
+      "target_client_id": 26014,
+      "archived_source_path": "importados/iwa-city-walls-roofs-20261023/sources/05_oliva_seco/3.png",
+      "size": [
+        64,
+        64
+      ],
+      "pattern_x": 1,
+      "pixel_exact": true,
+      "layout_exact": true,
+      "dat_properties_exact": true,
+      "otb_group_and_flags_exact": true
+    },
+    {
+      "sequence": 74,
+      "category": "roof",
+      "collection": "05_oliva_seco",
+      "source_server_id": 11864,
+      "target_server_id": 26900,
+      "target_client_id": 26015,
+      "archived_source_path": "importados/iwa-city-walls-roofs-20261023/sources/05_oliva_seco/4.png",
+      "size": [
+        64,
+        64
+      ],
+      "pattern_x": 1,
+      "pixel_exact": true,
+      "layout_exact": true,
+      "dat_properties_exact": true,
+      "otb_group_and_flags_exact": true
+    },
+    {
+      "sequence": 75,
+      "category": "roof",
+      "collection": "05_oliva_seco",
+      "source_server_id": 11865,
+      "target_server_id": 26901,
+      "target_client_id": 26016,
+      "archived_source_path": "importados/iwa-city-walls-roofs-20261023/sources/05_oliva_seco/5.png",
+      "size": [
+        64,
+        64
+      ],
+      "pattern_x": 1,
+      "pixel_exact": true,
+      "layout_exact": true,
+      "dat_properties_exact": true,
+      "otb_group_and_flags_exact": true
+    },
+    {
+      "sequence": 76,
+      "category": "roof",
+      "collection": "05_oliva_seco",
+      "source_server_id": 11866,
+      "target_server_id": 26902,
+      "target_client_id": 26017,
+      "archived_source_path": "importados/iwa-city-walls-roofs-20261023/sources/05_oliva_seco/6.png",
+      "size": [
+        64,
+        64
+      ],
+      "pattern_x": 1,
+      "pixel_exact": true,
+      "layout_exact": true,
+      "dat_properties_exact": true,
+      "otb_group_and_flags_exact": true
+    },
+    {
+      "sequence": 77,
+      "category": "roof",
+      "collection": "05_oliva_seco",
+      "source_server_id": 11867,
+      "target_server_id": 26903,
+      "target_client_id": 26018,
+      "archived_source_path": "importados/iwa-city-walls-roofs-20261023/sources/05_oliva_seco/7.png",
+      "size": [
+        64,
+        64
+      ],
+      "pattern_x": 1,
+      "pixel_exact": true,
+      "layout_exact": true,
+      "dat_properties_exact": true,
+      "otb_group_and_flags_exact": true
+    },
+    {
+      "sequence": 78,
+      "category": "roof",
+      "collection": "05_oliva_seco",
+      "source_server_id": 11868,
+      "target_server_id": 26904,
+      "target_client_id": 26019,
+      "archived_source_path": "importados/iwa-city-walls-roofs-20261023/sources/05_oliva_seco/8.png",
+      "size": [
+        64,
+        64
+      ],
+      "pattern_x": 1,
+      "pixel_exact": true,
+      "layout_exact": true,
+      "dat_properties_exact": true,
+      "otb_group_and_flags_exact": true
+    },
+    {
+      "sequence": 79,
+      "category": "roof",
+      "collection": "05_oliva_seco",
+      "source_server_id": 11869,
+      "target_server_id": 26905,
+      "target_client_id": 26020,
+      "archived_source_path": "importados/iwa-city-walls-roofs-20261023/sources/05_oliva_seco/9.png",
+      "size": [
+        64,
+        64
+      ],
+      "pattern_x": 1,
+      "pixel_exact": true,
+      "layout_exact": true,
+      "dat_properties_exact": true,
+      "otb_group_and_flags_exact": true
+    },
+    {
+      "sequence": 80,
+      "category": "border",
+      "collection": "05_oliva_seco",
+      "source_server_id": 25199,
+      "target_server_id": 26906,
+      "target_client_id": 26021,
+      "archived_source_path": "importados/iwa-city-walls-roofs-20261023/sources/05_oliva_seco/20.png",
+      "size": [
+        32,
+        32
+      ],
+      "pattern_x": 1,
+      "pixel_exact": true,
+      "layout_exact": true,
+      "dat_properties_exact": true,
+      "otb_group_and_flags_exact": true
+    },
+    {
+      "sequence": 81,
+      "category": "wall",
+      "collection": "05_oliva_seco",
+      "source_server_id": 25565,
+      "target_server_id": 26907,
+      "target_client_id": 26022,
+      "archived_source_path": "importados/iwa-city-walls-roofs-20261023/sources/05_oliva_seco/canto.png",
+      "size": [
+        64,
+        64
+      ],
+      "pattern_x": 1,
+      "pixel_exact": true,
+      "layout_exact": true,
+      "dat_properties_exact": true,
+      "otb_group_and_flags_exact": true
+    },
+    {
+      "sequence": 82,
+      "category": "wall",
+      "collection": "05_oliva_seco",
+      "source_server_id": 25565,
+      "target_server_id": 26908,
+      "target_client_id": 26023,
+      "archived_source_path": "importados/iwa-city-walls-roofs-20261023/sources/05_oliva_seco/parede de terra.png",
+      "size": [
+        192,
+        64
+      ],
+      "pattern_x": 3,
+      "pixel_exact": true,
+      "layout_exact": true,
+      "dat_properties_exact": true,
+      "otb_group_and_flags_exact": true
+    },
+    {
+      "sequence": 83,
+      "category": "wall",
+      "collection": "05_oliva_seco",
+      "source_server_id": 25565,
+      "target_server_id": 26909,
+      "target_client_id": 26024,
+      "archived_source_path": "importados/iwa-city-walls-roofs-20261023/sources/05_oliva_seco/parede de terra2.png",
+      "size": [
+        192,
+        64
+      ],
+      "pattern_x": 3,
+      "pixel_exact": true,
+      "layout_exact": true,
+      "dat_properties_exact": true,
+      "otb_group_and_flags_exact": true
+    },
+    {
+      "sequence": 84,
+      "category": "wall",
+      "collection": "05_oliva_seco",
+      "source_server_id": 25565,
+      "target_server_id": 26910,
+      "target_client_id": 26025,
+      "archived_source_path": "importados/iwa-city-walls-roofs-20261023/sources/05_oliva_seco/piru.png",
+      "size": [
+        64,
+        64
+      ],
+      "pattern_x": 1,
+      "pixel_exact": true,
+      "layout_exact": true,
+      "dat_properties_exact": true,
+      "otb_group_and_flags_exact": true
+    },
+    {
+      "sequence": 85,
+      "category": "wall",
+      "collection": "06_cinza_quente",
+      "source_server_id": 25565,
+      "target_server_id": 26911,
+      "target_client_id": 26026,
+      "archived_source_path": "importados/iwa-city-walls-roofs-20261023/sources/06_cinza_quente/1.png",
+      "size": [
+        64,
+        64
+      ],
+      "pattern_x": 1,
+      "pixel_exact": true,
+      "layout_exact": true,
+      "dat_properties_exact": true,
+      "otb_group_and_flags_exact": true
+    },
+    {
+      "sequence": 86,
+      "category": "wall",
+      "collection": "06_cinza_quente",
+      "source_server_id": 25565,
+      "target_server_id": 26912,
+      "target_client_id": 26027,
+      "archived_source_path": "importados/iwa-city-walls-roofs-20261023/sources/06_cinza_quente/2.png",
+      "size": [
+        64,
+        64
+      ],
+      "pattern_x": 1,
+      "pixel_exact": true,
+      "layout_exact": true,
+      "dat_properties_exact": true,
+      "otb_group_and_flags_exact": true
+    },
+    {
+      "sequence": 87,
+      "category": "wall",
+      "collection": "06_cinza_quente",
+      "source_server_id": 25565,
+      "target_server_id": 26913,
+      "target_client_id": 26028,
+      "archived_source_path": "importados/iwa-city-walls-roofs-20261023/sources/06_cinza_quente/3.png",
+      "size": [
+        64,
+        64
+      ],
+      "pattern_x": 1,
+      "pixel_exact": true,
+      "layout_exact": true,
+      "dat_properties_exact": true,
+      "otb_group_and_flags_exact": true
+    },
+    {
+      "sequence": 88,
+      "category": "roof",
+      "collection": "06_cinza_quente",
+      "source_server_id": 11864,
+      "target_server_id": 26914,
+      "target_client_id": 26029,
+      "archived_source_path": "importados/iwa-city-walls-roofs-20261023/sources/06_cinza_quente/4.png",
+      "size": [
+        64,
+        64
+      ],
+      "pattern_x": 1,
+      "pixel_exact": true,
+      "layout_exact": true,
+      "dat_properties_exact": true,
+      "otb_group_and_flags_exact": true
+    },
+    {
+      "sequence": 89,
+      "category": "roof",
+      "collection": "06_cinza_quente",
+      "source_server_id": 11865,
+      "target_server_id": 26915,
+      "target_client_id": 26030,
+      "archived_source_path": "importados/iwa-city-walls-roofs-20261023/sources/06_cinza_quente/5.png",
+      "size": [
+        64,
+        64
+      ],
+      "pattern_x": 1,
+      "pixel_exact": true,
+      "layout_exact": true,
+      "dat_properties_exact": true,
+      "otb_group_and_flags_exact": true
+    },
+    {
+      "sequence": 90,
+      "category": "roof",
+      "collection": "06_cinza_quente",
+      "source_server_id": 11866,
+      "target_server_id": 26916,
+      "target_client_id": 26031,
+      "archived_source_path": "importados/iwa-city-walls-roofs-20261023/sources/06_cinza_quente/6.png",
+      "size": [
+        64,
+        64
+      ],
+      "pattern_x": 1,
+      "pixel_exact": true,
+      "layout_exact": true,
+      "dat_properties_exact": true,
+      "otb_group_and_flags_exact": true
+    },
+    {
+      "sequence": 91,
+      "category": "roof",
+      "collection": "06_cinza_quente",
+      "source_server_id": 11867,
+      "target_server_id": 26917,
+      "target_client_id": 26032,
+      "archived_source_path": "importados/iwa-city-walls-roofs-20261023/sources/06_cinza_quente/7.png",
+      "size": [
+        64,
+        64
+      ],
+      "pattern_x": 1,
+      "pixel_exact": true,
+      "layout_exact": true,
+      "dat_properties_exact": true,
+      "otb_group_and_flags_exact": true
+    },
+    {
+      "sequence": 92,
+      "category": "roof",
+      "collection": "06_cinza_quente",
+      "source_server_id": 11868,
+      "target_server_id": 26918,
+      "target_client_id": 26033,
+      "archived_source_path": "importados/iwa-city-walls-roofs-20261023/sources/06_cinza_quente/8.png",
+      "size": [
+        64,
+        64
+      ],
+      "pattern_x": 1,
+      "pixel_exact": true,
+      "layout_exact": true,
+      "dat_properties_exact": true,
+      "otb_group_and_flags_exact": true
+    },
+    {
+      "sequence": 93,
+      "category": "roof",
+      "collection": "06_cinza_quente",
+      "source_server_id": 11869,
+      "target_server_id": 26919,
+      "target_client_id": 26034,
+      "archived_source_path": "importados/iwa-city-walls-roofs-20261023/sources/06_cinza_quente/9.png",
+      "size": [
+        64,
+        64
+      ],
+      "pattern_x": 1,
+      "pixel_exact": true,
+      "layout_exact": true,
+      "dat_properties_exact": true,
+      "otb_group_and_flags_exact": true
+    },
+    {
+      "sequence": 94,
+      "category": "border",
+      "collection": "06_cinza_quente",
+      "source_server_id": 25199,
+      "target_server_id": 26920,
+      "target_client_id": 26035,
+      "archived_source_path": "importados/iwa-city-walls-roofs-20261023/sources/06_cinza_quente/20.png",
+      "size": [
+        32,
+        32
+      ],
+      "pattern_x": 1,
+      "pixel_exact": true,
+      "layout_exact": true,
+      "dat_properties_exact": true,
+      "otb_group_and_flags_exact": true
+    },
+    {
+      "sequence": 95,
+      "category": "wall",
+      "collection": "06_cinza_quente",
+      "source_server_id": 25565,
+      "target_server_id": 26921,
+      "target_client_id": 26036,
+      "archived_source_path": "importados/iwa-city-walls-roofs-20261023/sources/06_cinza_quente/canto.png",
+      "size": [
+        64,
+        64
+      ],
+      "pattern_x": 1,
+      "pixel_exact": true,
+      "layout_exact": true,
+      "dat_properties_exact": true,
+      "otb_group_and_flags_exact": true
+    },
+    {
+      "sequence": 96,
+      "category": "wall",
+      "collection": "06_cinza_quente",
+      "source_server_id": 25565,
+      "target_server_id": 26922,
+      "target_client_id": 26037,
+      "archived_source_path": "importados/iwa-city-walls-roofs-20261023/sources/06_cinza_quente/parede de terra.png",
+      "size": [
+        192,
+        64
+      ],
+      "pattern_x": 3,
+      "pixel_exact": true,
+      "layout_exact": true,
+      "dat_properties_exact": true,
+      "otb_group_and_flags_exact": true
+    },
+    {
+      "sequence": 97,
+      "category": "wall",
+      "collection": "06_cinza_quente",
+      "source_server_id": 25565,
+      "target_server_id": 26923,
+      "target_client_id": 26038,
+      "archived_source_path": "importados/iwa-city-walls-roofs-20261023/sources/06_cinza_quente/parede de terra2.png",
+      "size": [
+        192,
+        64
+      ],
+      "pattern_x": 3,
+      "pixel_exact": true,
+      "layout_exact": true,
+      "dat_properties_exact": true,
+      "otb_group_and_flags_exact": true
+    },
+    {
+      "sequence": 98,
+      "category": "wall",
+      "collection": "06_cinza_quente",
+      "source_server_id": 25565,
+      "target_server_id": 26924,
+      "target_client_id": 26039,
+      "archived_source_path": "importados/iwa-city-walls-roofs-20261023/sources/06_cinza_quente/piru.png",
+      "size": [
+        64,
+        64
+      ],
+      "pattern_x": 1,
+      "pixel_exact": true,
+      "layout_exact": true,
+      "dat_properties_exact": true,
+      "otb_group_and_flags_exact": true
+    },
+    {
+      "sequence": 99,
+      "category": "roof",
+      "collection": "telhados_e_variacoes",
+      "source_server_id": 11870,
+      "target_server_id": 26925,
+      "target_client_id": 26040,
+      "archived_source_path": "importados/iwa-city-walls-roofs-20261023/sources/telhados e varicoes de cor/10.png",
+      "size": [
+        64,
+        64
+      ],
+      "pattern_x": 1,
+      "pixel_exact": true,
+      "layout_exact": true,
+      "dat_properties_exact": true,
+      "otb_group_and_flags_exact": true
+    },
+    {
+      "sequence": 100,
+      "category": "roof",
+      "collection": "telhados_e_variacoes",
+      "source_server_id": 11871,
+      "target_server_id": 26926,
+      "target_client_id": 26041,
+      "archived_source_path": "importados/iwa-city-walls-roofs-20261023/sources/telhados e varicoes de cor/11.png",
+      "size": [
+        64,
+        64
+      ],
+      "pattern_x": 1,
+      "pixel_exact": true,
+      "layout_exact": true,
+      "dat_properties_exact": true,
+      "otb_group_and_flags_exact": true
+    },
+    {
+      "sequence": 101,
+      "category": "roof",
+      "collection": "telhados_e_variacoes",
+      "source_server_id": 11872,
+      "target_server_id": 26927,
+      "target_client_id": 26042,
+      "archived_source_path": "importados/iwa-city-walls-roofs-20261023/sources/telhados e varicoes de cor/12.png",
+      "size": [
+        64,
+        64
+      ],
+      "pattern_x": 1,
+      "pixel_exact": true,
+      "layout_exact": true,
+      "dat_properties_exact": true,
+      "otb_group_and_flags_exact": true
+    },
+    {
+      "sequence": 102,
+      "category": "roof",
+      "collection": "telhados_e_variacoes",
+      "source_server_id": 11873,
+      "target_server_id": 26928,
+      "target_client_id": 26043,
+      "archived_source_path": "importados/iwa-city-walls-roofs-20261023/sources/telhados e varicoes de cor/13.png",
+      "size": [
+        64,
+        64
+      ],
+      "pattern_x": 1,
+      "pixel_exact": true,
+      "layout_exact": true,
+      "dat_properties_exact": true,
+      "otb_group_and_flags_exact": true
+    },
+    {
+      "sequence": 103,
+      "category": "roof",
+      "collection": "telhados_e_variacoes",
+      "source_server_id": 11874,
+      "target_server_id": 26929,
+      "target_client_id": 26044,
+      "archived_source_path": "importados/iwa-city-walls-roofs-20261023/sources/telhados e varicoes de cor/14.png",
+      "size": [
+        64,
+        64
+      ],
+      "pattern_x": 1,
+      "pixel_exact": true,
+      "layout_exact": true,
+      "dat_properties_exact": true,
+      "otb_group_and_flags_exact": true
+    },
+    {
+      "sequence": 104,
+      "category": "roof",
+      "collection": "telhados_e_variacoes",
+      "source_server_id": 11875,
+      "target_server_id": 26930,
+      "target_client_id": 26045,
+      "archived_source_path": "importados/iwa-city-walls-roofs-20261023/sources/telhados e varicoes de cor/15.png",
+      "size": [
+        64,
+        64
+      ],
+      "pattern_x": 1,
+      "pixel_exact": true,
+      "layout_exact": true,
+      "dat_properties_exact": true,
+      "otb_group_and_flags_exact": true
+    },
+    {
+      "sequence": 105,
+      "category": "roof",
+      "collection": "telhados_e_variacoes",
+      "source_server_id": 11876,
+      "target_server_id": 26931,
+      "target_client_id": 26046,
+      "archived_source_path": "importados/iwa-city-walls-roofs-20261023/sources/telhados e varicoes de cor/16.png",
+      "size": [
+        64,
+        64
+      ],
+      "pattern_x": 1,
+      "pixel_exact": true,
+      "layout_exact": true,
+      "dat_properties_exact": true,
+      "otb_group_and_flags_exact": true
+    },
+    {
+      "sequence": 106,
+      "category": "roof",
+      "collection": "telhados_e_variacoes",
+      "source_server_id": 11864,
+      "target_server_id": 26932,
+      "target_client_id": 26047,
+      "archived_source_path": "importados/iwa-city-walls-roofs-20261023/sources/telhados e varicoes de cor/piso1.png",
+      "size": [
+        64,
+        64
+      ],
+      "pattern_x": 1,
+      "pixel_exact": true,
+      "layout_exact": true,
+      "dat_properties_exact": true,
+      "otb_group_and_flags_exact": true
+    },
+    {
+      "sequence": 107,
+      "category": "roof",
+      "collection": "telhados_e_variacoes",
+      "source_server_id": 11864,
+      "target_server_id": 26933,
+      "target_client_id": 26048,
+      "archived_source_path": "importados/iwa-city-walls-roofs-20261023/sources/telhados e varicoes de cor/piso2.png",
+      "size": [
+        64,
+        64
+      ],
+      "pattern_x": 1,
+      "pixel_exact": true,
+      "layout_exact": true,
+      "dat_properties_exact": true,
+      "otb_group_and_flags_exact": true
+    }
+  ]
+}

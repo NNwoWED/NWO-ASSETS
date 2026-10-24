@@ -1,0 +1,472 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "profile": {
+    "key": "tibia-860-v2-custom-extended",
+    "client_version": 860,
+    "label": "Tibia 8.60 v2 customizado com features OTFI",
+    "dat_signature": "0x4C2C7993",
+    "spr_signature": "0x4C220594",
+    "metadata_reader": 5,
+    "otb_version_hint": "8.60"
+  },
+  "category": "items",
+  "id_kind": "server",
+  "requested_ids": [
+    26798,
+    26799,
+    26800,
+    26801,
+    26802,
+    26803,
+    26804,
+    26805,
+    26806,
+    26807,
+    26808,
+    26809,
+    26810,
+    26811,
+    26812,
+    26813
+  ],
+  "output_dir": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-wall-items-20261023",
+  "exported_count": 16,
+  "exported": [
+    {
+      "requested_id": 26798,
+      "client_id": 25913,
+      "server_ids": [
+        26798
+      ],
+      "name": "Stone wall",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        292593,
+        292594,
+        292595,
+        292596
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-wall-items-20261023\\server-26798_client-25913_stone-wall.png",
+      "size": 707,
+      "sha256": "96038D7146A50A7882E7F50492D7C37600474F3D7A4FF3E66EB02588B411B0E7"
+    },
+    {
+      "requested_id": 26799,
+      "client_id": 25914,
+      "server_ids": [
+        26799
+      ],
+      "name": "Stone wall",
+      "group_index": 0,
+      "width": 96,
+      "height": 96,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        292597,
+        292598,
+        0,
+        292599,
+        292600,
+        0,
+        292601,
+        292602,
+        0
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-wall-items-20261023\\server-26799_client-25914_stone-wall.png",
+      "size": 1138,
+      "sha256": "13873BC35CE7DC258589033DDB46160BA0CEE1AD0E7CDDF25E722C966A08D31F"
+    },
+    {
+      "requested_id": 26800,
+      "client_id": 25915,
+      "server_ids": [
+        26800
+      ],
+      "name": "Stone wall",
+      "group_index": 0,
+      "width": 96,
+      "height": 96,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        292603,
+        292604,
+        0,
+        292605,
+        292606,
+        0,
+        292607,
+        292608,
+        0
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-wall-items-20261023\\server-26800_client-25915_stone-wall.png",
+      "size": 1196,
+      "sha256": "8A3C566BE3D8AB8D458375B59B6DE17F9A3AF34C7D4446BE2A85C965CA4A975C"
+    },
+    {
+      "requested_id": 26801,
+      "client_id": 25916,
+      "server_ids": [
+        26801
+      ],
+      "name": "Stone wall",
+      "group_index": 0,
+      "width": 96,
+      "height": 96,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        292609,
+        292610,
+        0,
+        292611,
+        292612,
+        292613,
+        292614,
+        292615,
+        292616
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-wall-items-20261023\\server-26801_client-25916_stone-wall.png",
+      "size": 2046,
+      "sha256": "DAF4AF0E2656C958842485AEDE63B14DAE84EF14064555036F3F5CD798A77B7E"
+    },
+    {
+      "requested_id": 26802,
+      "client_id": 25917,
+      "server_ids": [
+        26802
+      ],
+      "name": "Stone wall",
+      "group_index": 0,
+      "width": 96,
+      "height": 96,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        292617,
+        292618,
+        0,
+        292619,
+        292620,
+        0,
+        0,
+        0,
+        0
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-wall-items-20261023\\server-26802_client-25917_stone-wall.png",
+      "size": 1088,
+      "sha256": "FD950FA870938EA29A7DA18946AE9AA52F3BB02B2B4AE1155B82172FAD22AB29"
+    },
+    {
+      "requested_id": 26803,
+      "client_id": 25918,
+      "server_ids": [
+        26803
+      ],
+      "name": "Stone wall",
+      "group_index": 0,
+      "width": 96,
+      "height": 96,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        292621,
+        292622,
+        0,
+        292623,
+        292624,
+        0,
+        0,
+        0,
+        0
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-wall-items-20261023\\server-26803_client-25918_stone-wall.png",
+      "size": 1467,
+      "sha256": "94FFB86793446A1D11D4FA7A1AB94B35FE13399384B8E4F992FD060AA1CE6F27"
+    },
+    {
+      "requested_id": 26804,
+      "client_id": 25919,
+      "server_ids": [
+        26804
+      ],
+      "name": "Stone wall",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        292625,
+        292626,
+        0,
+        292627
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-wall-items-20261023\\server-26804_client-25919_stone-wall.png",
+      "size": 558,
+      "sha256": "14A5D9E22DC3E43287F153538D21C48F630131F80FD35DDFCE1A0EFB38D9E79D"
+    },
+    {
+      "requested_id": 26805,
+      "client_id": 25920,
+      "server_ids": [
+        26805
+      ],
+      "name": "Stone wall",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        292628,
+        292629,
+        292630,
+        292631
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-wall-items-20261023\\server-26805_client-25920_stone-wall.png",
+      "size": 1097,
+      "sha256": "386E86FE52591D598775331191BE78262DB710D0F35D79C89EFD301E86E712C5"
+    },
+    {
+      "requested_id": 26806,
+      "client_id": 25921,
+      "server_ids": [
+        26806
+      ],
+      "name": "Stone wall",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        292632,
+        292633,
+        292634,
+        292635
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-wall-items-20261023\\server-26806_client-25921_stone-wall.png",
+      "size": 1117,
+      "sha256": "3DD790C52A72EDFF1B623637A676CFF731D2B40684654EEEB2A666C8C0A2657D"
+    },
+    {
+      "requested_id": 26807,
+      "client_id": 25922,
+      "server_ids": [
+        26807
+      ],
+      "name": "Stone wall",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        292636,
+        292637,
+        292638,
+        292639
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-wall-items-20261023\\server-26807_client-25922_stone-wall.png",
+      "size": 526,
+      "sha256": "56C8001438B12FEF7EDE2915323234DE55F9B540BE0029B8F918D60925AE7C37"
+    },
+    {
+      "requested_id": 26808,
+      "client_id": 25923,
+      "server_ids": [
+        26808
+      ],
+      "name": "Stone wall",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        292640,
+        292641,
+        0,
+        292642
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-wall-items-20261023\\server-26808_client-25923_stone-wall.png",
+      "size": 564,
+      "sha256": "BE788411F36AF22E308D47E5AB9956731E37528FFBB83CA63A2C64F50D81578C"
+    },
+    {
+      "requested_id": 26809,
+      "client_id": 25924,
+      "server_ids": [
+        26809
+      ],
+      "name": "Stone wall",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        292643,
+        292644,
+        292645,
+        292646
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-wall-items-20261023\\server-26809_client-25924_stone-wall.png",
+      "size": 1124,
+      "sha256": "6F22D4F0D555186C98E6EF12781C3EC4DF94E9D440DF8C611730F0288D3A1D5A"
+    },
+    {
+      "requested_id": 26810,
+      "client_id": 25925,
+      "server_ids": [
+        26810
+      ],
+      "name": "Stone wall",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        292647,
+        292648,
+        292649,
+        292650
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-wall-items-20261023\\server-26810_client-25925_stone-wall.png",
+      "size": 1143,
+      "sha256": "27247C46C7969B9CF4051CC028FA653728AFD81181BD11E1216391C21EEA63D8"
+    },
+    {
+      "requested_id": 26811,
+      "client_id": 25926,
+      "server_ids": [
+        26811
+      ],
+      "name": "Stone wall",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        292651,
+        0,
+        0,
+        0
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-wall-items-20261023\\server-26811_client-25926_stone-wall.png",
+      "size": 153,
+      "sha256": "C1809F4981D4A946F4FE25CEB275BE63942B1CD46BDE8D51DA125A5D3CDDB0F3"
+    },
+    {
+      "requested_id": 26812,
+      "client_id": 25927,
+      "server_ids": [
+        26812
+      ],
+      "name": "Stone wall",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        0,
+        292652,
+        0,
+        0
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-wall-items-20261023\\server-26812_client-25927_stone-wall.png",
+      "size": 114,
+      "sha256": "1D2DCCDEDF152317ADBEA2A1875E5C2A1DB9D66AB50CA097D150573BFB08986F"
+    },
+    {
+      "requested_id": 26813,
+      "client_id": 25928,
+      "server_ids": [
+        26813
+      ],
+      "name": "Stone wall",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        292653,
+        292654,
+        292655,
+        292656
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\portao-wall-items-20261023\\server-26813_client-25928_stone-wall.png",
+      "size": 955,
+      "sha256": "B918962BBD1566D0E00D3921DDFA94C969C934A1026EAD76985EB0026B31C851"
+    }
+  ],
+  "sources": {
+    "dat": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.dat",
+      "sha256": "316955322BBF62D2F1FF4F188D22B3A65D1697890F542076E22360C95CE677FC"
+    },
+    "spr": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.spr",
+      "sha256": "D5EE40B116423F3833A6A158A051E593B5401062F56F028751AEBAF56BE52DCC"
+    }
+  },
+  "passed": true
+}

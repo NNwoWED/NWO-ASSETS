@@ -19445,4 +19445,436 @@
 		<attribute key="fluidSource" value="water" />
 		<attribute key="allowpickupable" value="1" />
 	</item>
+	<item id="25665" name="Brown pavement" />
+	<item id="25666" name="Brown pavement" />
+	<item id="25667" name="Brown pavement" />
+	<item id="25668" name="Brown pavement" />
+	<item id="25669" name="Brown pavement" />
+	<item id="25670" name="Brown pavement" />
+	<item id="25671" name="Brown pavement" />
+	<item id="25672" name="Brown pavement" />
+	<item id="25673" name="Cracked earth" />
+	<item id="25674" name="Cracked earth" />
+	<item id="25675" name="Cracked earth" />
+	<item id="25676" name="Cracked earth" />
+	<item id="25677" name="Cracked earth" />
+	<item id="25678" name="Cracked earth" />
+	<item id="25679" name="Cracked earth" />
+	<item id="25680" name="Cracked earth" />
+	<item id="25681" name="Cracked earth" />
+	<item id="25682" name="Cracked earth" />
+	<item id="25683" name="Cracked earth" />
+	<item id="25684" name="Cracked earth" />
+	<item id="25685" name="Brown pavement" />
+	<item id="25686" name="Brown pavement" />
+	<item id="25687" name="Brown pavement" />
+	<item id="25688" name="Brown pavement" />
+	<item id="25689" name="Brown pavement" />
+	<item id="25690" name="Brown pavement" />
+	<item id="25691" name="Brown pavement" />
+	<item id="25692" name="Brown pavement" />
+	<item id="25693" name="Cracked earth" />
+	<item id="25694" name="Cracked earth" />
+	<item id="25695" name="Cracked earth" />
+	<item id="25696" name="Cracked earth" />
+	<item id="25697" name="Cracked earth" />
+	<item id="25698" name="Cracked earth" />
+	<item id="25699" name="Cracked earth" />
+	<item id="25700" name="Cracked earth" />
+	<item id="25701" name="Cracked earth" />
+	<item id="25702" name="Cracked earth" />
+	<item id="25703" name="Cracked earth" />
+	<item id="25704" name="Cracked earth" />
+	<item id="25705" name="Brown pavement" />
+	<item id="25706" name="Brown pavement" />
+	<item id="25707" name="Brown pavement" />
+	<item id="25708" name="Brown pavement" />
+	<item id="25709" name="Brown pavement" />
+	<item id="25710" name="Brown pavement" />
+	<item id="25711" name="Brown pavement" />
+	<item id="25712" name="Brown pavement" />
+	<item id="25713" name="Cracked earth" />
+	<item id="25714" name="Cracked earth" />
+	<item id="25715" name="Cracked earth" />
+	<item id="25716" name="Cracked earth" />
+	<item id="25717" name="Cracked earth" />
+	<item id="25718" name="Cracked earth" />
+	<item id="25719" name="Cracked earth" />
+	<item id="25720" name="Cracked earth" />
+	<item id="25721" name="Cracked earth" />
+	<item id="25722" name="Cracked earth" />
+	<item id="25723" name="Cracked earth" />
+	<item id="25724" name="Cracked earth" />
+	<item id="25725" name="Brown pavement" />
+	<item id="25726" name="Brown pavement" />
+	<item id="25727" name="Brown pavement" />
+	<item id="25728" name="Brown pavement" />
+	<item id="25729" name="Brown pavement" />
+	<item id="25730" name="Brown pavement" />
+	<item id="25731" name="Brown pavement" />
+	<item id="25732" name="Brown pavement" />
+	<item id="25733" name="Cracked earth" />
+	<item id="25734" name="Cracked earth" />
+	<item id="25735" name="Cracked earth" />
+	<item id="25736" name="Cracked earth" />
+	<item id="25737" name="Cracked earth" />
+	<item id="25738" name="Cracked earth" />
+	<item id="25739" name="Cracked earth" />
+	<item id="25740" name="Cracked earth" />
+	<item id="25741" name="Cracked earth" />
+	<item id="25742" name="Cracked earth" />
+	<item id="25743" name="Cracked earth" />
+	<item id="25744" name="Cracked earth" />
+	<item id="25745" name="Rocky Terrain" />
+	<item id="25746" name="Cracked Rocky Terrain" />
+	<item id="25747" name="Rocky Terrain Wall" />
+	<item id="25748" name="Rocky Terrain Wall Corner" />
+	<item id="25749" article="a" name="Rocky Terrain Border 01" />
+	<item id="25750" article="a" name="Rocky Terrain Border 02" />
+	<item id="25751" article="a" name="Rocky Terrain Border 03" />
+	<item id="25752" article="a" name="Rocky Terrain Border 04" />
+	<item id="25753" article="a" name="Rocky Terrain Border 05" />
+	<item id="25754" article="a" name="Rocky Terrain Border 06" />
+	<item id="25755" article="a" name="Rocky Terrain Border 07" />
+	<item id="25756" article="a" name="Rocky Terrain Border 08" />
+	<item id="25757" article="a" name="Rocky Terrain Border 09" />
+	<item id="25758" article="a" name="Rocky Terrain Border 10" />
+	<item id="25759" article="a" name="Rocky Terrain Border 11" />
+	<item id="25760" article="a" name="Rocky Terrain Border 12" />
+	<item id="25761" name="Rocky Terrain Wall 2" />
+	<item id="25762" name="Log Wall" />
+	<item id="25763" name="Rocky Terrain" />
+	<item id="25764" name="Cracked Rocky Terrain" />
+	<item id="25765" name="Rocky Terrain Wall" />
+	<item id="25766" name="Rocky Terrain Wall Corner" />
+	<item id="25767" article="a" name="Rocky Terrain Border 01" />
+	<item id="25768" article="a" name="Rocky Terrain Border 02" />
+	<item id="25769" article="a" name="Rocky Terrain Border 03" />
+	<item id="25770" article="a" name="Rocky Terrain Border 04" />
+	<item id="25771" article="a" name="Rocky Terrain Border 05" />
+	<item id="25772" article="a" name="Rocky Terrain Border 06" />
+	<item id="25773" article="a" name="Rocky Terrain Border 07" />
+	<item id="25774" article="a" name="Rocky Terrain Border 08" />
+	<item id="25775" article="a" name="Rocky Terrain Border 09" />
+	<item id="25776" article="a" name="Rocky Terrain Border 10" />
+	<item id="25777" article="a" name="Rocky Terrain Border 11" />
+	<item id="25778" article="a" name="Rocky Terrain Border 12" />
+	<item id="25779" name="Rocky Terrain Wall 2" />
+	<item id="25780" name="Log Wall" />
+	<item id="25781" name="Rocky Terrain" />
+	<item id="25782" name="Cracked Rocky Terrain" />
+	<item id="25783" name="Rocky Terrain Wall" />
+	<item id="25784" name="Rocky Terrain Wall Corner" />
+	<item id="25785" article="a" name="Rocky Terrain Border 01" />
+	<item id="25786" article="a" name="Rocky Terrain Border 02" />
+	<item id="25787" article="a" name="Rocky Terrain Border 03" />
+	<item id="25788" article="a" name="Rocky Terrain Border 04" />
+	<item id="25789" article="a" name="Rocky Terrain Border 05" />
+	<item id="25790" article="a" name="Rocky Terrain Border 06" />
+	<item id="25791" article="a" name="Rocky Terrain Border 07" />
+	<item id="25792" article="a" name="Rocky Terrain Border 08" />
+	<item id="25793" article="a" name="Rocky Terrain Border 09" />
+	<item id="25794" article="a" name="Rocky Terrain Border 10" />
+	<item id="25795" article="a" name="Rocky Terrain Border 11" />
+	<item id="25796" article="a" name="Rocky Terrain Border 12" />
+	<item id="25797" name="Rocky Terrain Wall 2" />
+	<item id="25798" name="Log Wall" />
+	<item id="25799" name="Rocky Terrain" />
+	<item id="25800" name="Cracked Rocky Terrain" />
+	<item id="25801" name="Rocky Terrain Wall" />
+	<item id="25802" name="Rocky Terrain Wall Corner" />
+	<item id="25803" article="a" name="Rocky Terrain Border 01" />
+	<item id="25804" article="a" name="Rocky Terrain Border 02" />
+	<item id="25805" article="a" name="Rocky Terrain Border 03" />
+	<item id="25806" article="a" name="Rocky Terrain Border 04" />
+	<item id="25807" article="a" name="Rocky Terrain Border 05" />
+	<item id="25808" article="a" name="Rocky Terrain Border 06" />
+	<item id="25809" article="a" name="Rocky Terrain Border 07" />
+	<item id="25810" article="a" name="Rocky Terrain Border 08" />
+	<item id="25811" article="a" name="Rocky Terrain Border 09" />
+	<item id="25812" article="a" name="Rocky Terrain Border 10" />
+	<item id="25813" article="a" name="Rocky Terrain Border 11" />
+	<item id="25814" article="a" name="Rocky Terrain Border 12" />
+	<item id="25815" name="Rocky Terrain Wall 2" />
+	<item id="25816" name="Log Wall" />
+	<item id="25817" name="Rocky Terrain" />
+	<item id="25818" name="Cracked Rocky Terrain" />
+	<item id="25819" name="Rocky Terrain Wall" />
+	<item id="25820" name="Rocky Terrain Wall Corner" />
+	<item id="25821" article="a" name="Rocky Terrain Border 01" />
+	<item id="25822" article="a" name="Rocky Terrain Border 02" />
+	<item id="25823" article="a" name="Rocky Terrain Border 03" />
+	<item id="25824" article="a" name="Rocky Terrain Border 04" />
+	<item id="25825" article="a" name="Rocky Terrain Border 05" />
+	<item id="25826" article="a" name="Rocky Terrain Border 06" />
+	<item id="25827" article="a" name="Rocky Terrain Border 07" />
+	<item id="25828" article="a" name="Rocky Terrain Border 08" />
+	<item id="25829" article="a" name="Rocky Terrain Border 09" />
+	<item id="25830" article="a" name="Rocky Terrain Border 10" />
+	<item id="25831" article="a" name="Rocky Terrain Border 11" />
+	<item id="25832" article="a" name="Rocky Terrain Border 12" />
+	<item id="25833" name="Rocky Terrain Wall 2" />
+	<item id="25834" name="Log Wall" />
+	<item id="25835" name="Rocky Terrain" />
+	<item id="25836" name="Cracked Rocky Terrain" />
+	<item id="25837" name="Rocky Terrain Wall" />
+	<item id="25838" name="Rocky Terrain Wall Corner" />
+	<item id="25839" article="a" name="Rocky Terrain Border 01" />
+	<item id="25840" article="a" name="Rocky Terrain Border 02" />
+	<item id="25841" article="a" name="Rocky Terrain Border 03" />
+	<item id="25842" article="a" name="Rocky Terrain Border 04" />
+	<item id="25843" article="a" name="Rocky Terrain Border 05" />
+	<item id="25844" article="a" name="Rocky Terrain Border 06" />
+	<item id="25845" article="a" name="Rocky Terrain Border 07" />
+	<item id="25846" article="a" name="Rocky Terrain Border 08" />
+	<item id="25847" article="a" name="Rocky Terrain Border 09" />
+	<item id="25848" article="a" name="Rocky Terrain Border 10" />
+	<item id="25849" article="a" name="Rocky Terrain Border 11" />
+	<item id="25850" article="a" name="Rocky Terrain Border 12" />
+	<item id="25851" name="Rocky Terrain Wall 2" />
+	<item id="25852" name="Log Wall" />
+	<item id="25853" name="Rocky Terrain" />
+	<item id="25854" name="Cracked Rocky Terrain" />
+	<item id="25855" name="Rocky Terrain Wall" />
+	<item id="25856" name="Rocky Terrain Wall Corner" />
+	<item id="25857" article="a" name="Rocky Terrain Border 01" />
+	<item id="25858" article="a" name="Rocky Terrain Border 02" />
+	<item id="25859" article="a" name="Rocky Terrain Border 03" />
+	<item id="25860" article="a" name="Rocky Terrain Border 04" />
+	<item id="25861" article="a" name="Rocky Terrain Border 05" />
+	<item id="25862" article="a" name="Rocky Terrain Border 06" />
+	<item id="25863" article="a" name="Rocky Terrain Border 07" />
+	<item id="25864" article="a" name="Rocky Terrain Border 08" />
+	<item id="25865" article="a" name="Rocky Terrain Border 09" />
+	<item id="25866" article="a" name="Rocky Terrain Border 10" />
+	<item id="25867" article="a" name="Rocky Terrain Border 11" />
+	<item id="25868" article="a" name="Rocky Terrain Border 12" />
+	<item id="25869" name="Rocky Terrain Wall 2" />
+	<item id="25870" name="Log Wall" />
+	<item id="25953" article="a" name="Ramp">
+		<attribute key="floorchange" value="north" />
+	</item>
+	<item id="25954" article="a" name="Ramp" />
+	<item id="25955" article="a" name="Ramp">
+		<attribute key="floorchange" value="south" />
+	</item>
+	<item id="25956" article="a" name="Ramp" />
+	<item id="25957" article="a" name="Ramp">
+		<attribute key="floorchange" value="west" />
+	</item>
+	<item id="25958" article="a" name="Ramp" />
+	<item id="25959" article="a" name="Ramp">
+		<attribute key="floorchange" value="east" />
+	</item>
+	<item id="25960" article="a" name="Ramp" />
+	<item id="26107" article="a" name="Ramp">
+		<attribute key="floorchange" value="north" />
+	</item>
+	<item id="26108" article="a" name="Ramp" />
+	<item id="26109" article="a" name="Ramp">
+		<attribute key="floorchange" value="south" />
+	</item>
+	<item id="26110" article="a" name="Ramp" />
+	<item id="26111" article="a" name="Ramp">
+		<attribute key="floorchange" value="west" />
+	</item>
+	<item id="26112" article="a" name="Ramp" />
+	<item id="26113" article="a" name="Ramp">
+		<attribute key="floorchange" value="east" />
+	</item>
+	<item id="26114" article="a" name="Ramp" />
+	<item id="26261" article="a" name="Ramp">
+		<attribute key="floorchange" value="north" />
+	</item>
+	<item id="26262" article="a" name="Ramp" />
+	<item id="26263" article="a" name="Ramp">
+		<attribute key="floorchange" value="south" />
+	</item>
+	<item id="26264" article="a" name="Ramp" />
+	<item id="26265" article="a" name="Ramp">
+		<attribute key="floorchange" value="west" />
+	</item>
+	<item id="26266" article="a" name="Ramp" />
+	<item id="26267" article="a" name="Ramp">
+		<attribute key="floorchange" value="east" />
+	</item>
+	<item id="26268" article="a" name="Ramp" />
+	<item id="26415" article="a" name="Ramp">
+		<attribute key="floorchange" value="north" />
+	</item>
+	<item id="26416" article="a" name="Ramp" />
+	<item id="26417" article="a" name="Ramp">
+		<attribute key="floorchange" value="south" />
+	</item>
+	<item id="26418" article="a" name="Ramp" />
+	<item id="26419" article="a" name="Ramp">
+		<attribute key="floorchange" value="west" />
+	</item>
+	<item id="26420" article="a" name="Ramp" />
+	<item id="26421" article="a" name="Ramp">
+		<attribute key="floorchange" value="east" />
+	</item>
+	<item id="26422" article="a" name="Ramp" />
+	<item id="26569" article="a" name="Ramp">
+		<attribute key="floorchange" value="north" />
+	</item>
+	<item id="26570" article="a" name="Ramp" />
+	<item id="26571" article="a" name="Ramp">
+		<attribute key="floorchange" value="south" />
+	</item>
+	<item id="26572" article="a" name="Ramp" />
+	<item id="26573" article="a" name="Ramp">
+		<attribute key="floorchange" value="west" />
+	</item>
+	<item id="26574" article="a" name="Ramp" />
+	<item id="26575" article="a" name="Ramp">
+		<attribute key="floorchange" value="east" />
+	</item>
+	<item id="26576" article="a" name="Ramp" />
+	<item id="26723" article="a" name="Ramp">
+		<attribute key="floorchange" value="north" />
+	</item>
+	<item id="26724" article="a" name="Ramp" />
+	<item id="26725" article="a" name="Ramp">
+		<attribute key="floorchange" value="south" />
+	</item>
+	<item id="26726" article="a" name="Ramp" />
+	<item id="26727" article="a" name="Ramp">
+		<attribute key="floorchange" value="west" />
+	</item>
+	<item id="26728" article="a" name="Ramp" />
+	<item id="26729" article="a" name="Ramp">
+		<attribute key="floorchange" value="east" />
+	</item>
+	<item id="26730" article="a" name="Ramp" />
+<item id="26797" article="a" name="Stone wall" />
+<item id="26798" article="a" name="Stone wall" />
+<item id="26799" article="a" name="Stone wall" />
+<item id="26800" article="a" name="Stone wall" />
+<item id="26801" article="a" name="Stone wall" />
+<item id="26802" article="a" name="Stone wall" />
+<item id="26803" article="a" name="Stone wall" />
+<item id="26804" article="a" name="Stone wall" />
+<item id="26805" article="a" name="Stone wall" />
+<item id="26806" article="a" name="Stone wall" />
+<item id="26807" article="a" name="Stone wall" />
+<item id="26808" article="a" name="Stone wall" />
+<item id="26809" article="a" name="Stone wall" />
+<item id="26810" article="a" name="Stone wall" />
+<item id="26811" article="a" name="Stone wall" />
+<item id="26812" article="a" name="Stone wall" />
+<item id="26813" article="a" name="Stone wall" />
+	<item id="26814" name="Sand Gravel" />
+	<item id="26815" name="Sand Gravel" />
+	<item id="26816" name="Sand Gravel" />
+	<item id="26817" name="Sand Gravel" />
+	<item id="26818" name="Sand Gravel" />
+	<item id="26819" name="Sand Gravel" />
+	<item id="26820" name="Sand Gravel" />
+	<item id="26821" name="Sand Gravel" />
+	<item id="26822" name="Sand Gravel" />
+	<item id="26823" name="Sand Gravel" />
+	<item id="26824" name="Sand Gravel" />
+	<item id="26825" name="Sand Gravel" />
+	<item id="26826" name="Sand Gravel" />
+<item id="26827" article="a" name="Stone wall" />
+<item id="26828" article="a" name="Stone wall" />
+<item id="26829" article="a" name="Stone wall" />
+<item id="26830" name="Roof" />
+<item id="26831" name="Roof" />
+<item id="26832" name="Roof" />
+<item id="26833" name="Roof" />
+<item id="26834" name="Roof" />
+<item id="26835" name="Roof" />
+<item id="26837" article="a" name="Stone wall" />
+<item id="26838" article="a" name="Stone wall" />
+<item id="26839" article="a" name="Stone wall" />
+<item id="26840" article="a" name="Stone wall" />
+<item id="26841" article="a" name="Stone wall" />
+<item id="26842" article="a" name="Stone wall" />
+<item id="26843" article="a" name="Stone wall" />
+<item id="26844" name="Roof" />
+<item id="26845" name="Roof" />
+<item id="26846" name="Roof" />
+<item id="26847" name="Roof" />
+<item id="26848" name="Roof" />
+<item id="26849" name="Roof" />
+<item id="26851" article="a" name="Stone wall" />
+<item id="26852" article="a" name="Stone wall" />
+<item id="26853" article="a" name="Stone wall" />
+<item id="26854" article="a" name="Stone wall" />
+<item id="26855" article="a" name="Stone wall" />
+<item id="26856" article="a" name="Stone wall" />
+<item id="26857" article="a" name="Stone wall" />
+<item id="26858" name="Roof" />
+<item id="26859" name="Roof" />
+<item id="26860" name="Roof" />
+<item id="26861" name="Roof" />
+<item id="26862" name="Roof" />
+<item id="26863" name="Roof" />
+<item id="26865" article="a" name="Stone wall" />
+<item id="26866" article="a" name="Stone wall" />
+<item id="26867" article="a" name="Stone wall" />
+<item id="26868" article="a" name="Stone wall" />
+<item id="26869" article="a" name="Stone wall" />
+<item id="26870" article="a" name="Stone wall" />
+<item id="26871" article="a" name="Stone wall" />
+<item id="26872" name="Roof" />
+<item id="26873" name="Roof" />
+<item id="26874" name="Roof" />
+<item id="26875" name="Roof" />
+<item id="26876" name="Roof" />
+<item id="26877" name="Roof" />
+<item id="26879" article="a" name="Stone wall" />
+<item id="26880" article="a" name="Stone wall" />
+<item id="26881" article="a" name="Stone wall" />
+<item id="26882" article="a" name="Stone wall" />
+<item id="26883" article="a" name="Stone wall" />
+<item id="26884" article="a" name="Stone wall" />
+<item id="26885" article="a" name="Stone wall" />
+<item id="26886" name="Roof" />
+<item id="26887" name="Roof" />
+<item id="26888" name="Roof" />
+<item id="26889" name="Roof" />
+<item id="26890" name="Roof" />
+<item id="26891" name="Roof" />
+<item id="26893" article="a" name="Stone wall" />
+<item id="26894" article="a" name="Stone wall" />
+<item id="26895" article="a" name="Stone wall" />
+<item id="26896" article="a" name="Stone wall" />
+<item id="26897" article="a" name="Stone wall" />
+<item id="26898" article="a" name="Stone wall" />
+<item id="26899" article="a" name="Stone wall" />
+<item id="26900" name="Roof" />
+<item id="26901" name="Roof" />
+<item id="26902" name="Roof" />
+<item id="26903" name="Roof" />
+<item id="26904" name="Roof" />
+<item id="26905" name="Roof" />
+<item id="26907" article="a" name="Stone wall" />
+<item id="26908" article="a" name="Stone wall" />
+<item id="26909" article="a" name="Stone wall" />
+<item id="26910" article="a" name="Stone wall" />
+<item id="26911" article="a" name="Stone wall" />
+<item id="26912" article="a" name="Stone wall" />
+<item id="26913" article="a" name="Stone wall" />
+<item id="26914" name="Roof" />
+<item id="26915" name="Roof" />
+<item id="26916" name="Roof" />
+<item id="26917" name="Roof" />
+<item id="26918" name="Roof" />
+<item id="26919" name="Roof" />
+<item id="26921" article="a" name="Stone wall" />
+<item id="26922" article="a" name="Stone wall" />
+<item id="26923" article="a" name="Stone wall" />
+<item id="26924" article="a" name="Stone wall" />
+<item id="26925" name="Roof" />
+<item id="26926" name="Roof" />
+<item id="26927" name="Roof" />
+<item id="26928" name="Roof" />
+<item id="26929" name="Roof" />
+<item id="26930" name="Roof" />
+<item id="26931" name="Roof" />
+<item id="26932" name="Roof" />
+<item id="26933" name="Roof" />
 </items>

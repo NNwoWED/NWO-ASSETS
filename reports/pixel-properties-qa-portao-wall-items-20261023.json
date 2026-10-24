@@ -1,0 +1,35 @@
+{
+  "passed": true,
+  "reference": {
+    "server_id": 25565,
+    "client_id": 24680,
+    "dat_flags": ["on_bottom", "unpassable", "unmoveable", "block_missile", "vertical", "mini_map"],
+    "otb_group": 0,
+    "otb_flags": ["block_solid", "block_projectile", "always_on_top", "horizontal"]
+  },
+  "target_server_id_range": [26798, 26813],
+  "target_client_id_range": [25913, 25928],
+  "checked_items": 16,
+  "rgba_pixel_exact_count": 16,
+  "dat_properties_exact_count": 16,
+  "otb_group_and_flags_exact_count": 16,
+  "block_position_count": 16,
+  "mapping": [
+    {"source": "parede1.png", "server_id": 26798, "client_id": 25913, "size": [64, 64]},
+    {"source": "pilar1.png", "server_id": 26799, "client_id": 25914, "size": [96, 96]},
+    {"source": "pilar2.png", "server_id": 26800, "client_id": 25915, "size": [96, 96]},
+    {"source": "pilar3.png", "server_id": 26801, "client_id": 25916, "size": [96, 96]},
+    {"source": "pilar4.png", "server_id": 26802, "client_id": 25917, "size": [96, 96]},
+    {"source": "pilar5.png", "server_id": 26803, "client_id": 25918, "size": [96, 96]},
+    {"source": "portao1.png", "server_id": 26804, "client_id": 25919, "size": [64, 64]},
+    {"source": "portao3.png", "server_id": 26805, "client_id": 25920, "size": [64, 64]},
+    {"source": "portao4.png", "server_id": 26806, "client_id": 25921, "size": [64, 64]},
+    {"source": "portao5.png", "server_id": 26807, "client_id": 25922, "size": [64, 64]},
+    {"source": "portao6.png", "server_id": 26808, "client_id": 25923, "size": [64, 64]},
+    {"source": "portao7.png", "server_id": 26809, "client_id": 25924, "size": [64, 64]},
+    {"source": "portao8.png", "server_id": 26810, "client_id": 25925, "size": [64, 64]},
+    {"source": "portao9.png", "server_id": 26811, "client_id": 25926, "size": [64, 64]},
+    {"source": "portao10.png", "server_id": 26812, "client_id": 25927, "size": [64, 64]},
+    {"source": "portao21.png", "server_id": 26813, "client_id": 25928, "size": [64, 64]}
+  ]
+}

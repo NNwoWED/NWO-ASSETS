@@ -1,0 +1,200 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "manifest": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\import-iwagakure-remakes-20261023.csv",
+  "profile": "tibia-860-v2-custom-extended",
+  "version_backup": {
+    "tool_version": "0.8.2",
+    "version_id": "20261023-185346-544857",
+    "created_at": "2026-10-23T18:54:00.476457-03:00",
+    "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261023-185346-544857",
+    "rar_executable": "C:\\Program Files\\WinRAR\\Rar.exe",
+    "sources": [
+      {
+        "path": "assets/860/.gitattributes",
+        "size": 43,
+        "sha256": "D5636A3257287440945C5E017581545E5B0A3E2FDDDAE7C5EF8D90FF4DF3D32A"
+      },
+      {
+        "path": "assets/860/Tibia.dat",
+        "size": 4600914,
+        "sha256": "3273574559C119E3FB15C5F1655C7084BD175F2991CF330C0DEE3545F79A4BB6"
+      },
+      {
+        "path": "assets/860/Tibia.otfi",
+        "size": 185,
+        "sha256": "7743548835944BC799CB871A4E5DEF84F7AF76815031871B9CE74B5EC0E8ADD3"
+      },
+      {
+        "path": "assets/860/Tibia.spr",
+        "size": 502724151,
+        "sha256": "7D907DE1E379ECC40B3D8CC9652C4EA12CCC0E598F57B2EB3397426872A1D9EB"
+      },
+      {
+        "path": "assets/items/force use.txt",
+        "size": 419,
+        "sha256": "BCB478FDF3F45ECA8D172AFD7A17D3F8CD520924EE0894752452B8FDC8F71959"
+      },
+      {
+        "path": "assets/items/items.otb",
+        "size": 1062172,
+        "sha256": "A7AB83E598CAD4A0DF3C163275FAC0DE47903C69724D794C63D3A4EF6BF5624F"
+      },
+      {
+        "path": "assets/world/mapanovo.otbm",
+        "size": 80105775,
+        "sha256": "AC32C669BED3512D69AE054CAFC8564A236C9894B22BBC9A0E9D7ACAEFAD5512"
+      }
+    ],
+    "archives": {
+      "860": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261023-185346-544857\\860.rar",
+        "size": 90101206,
+        "sha256": "AA0EE6CBEED377E84DED35B09A3CF44FF16406C022536B9AF56B2141016751AC"
+      },
+      "items": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261023-185346-544857\\items.rar",
+        "size": 509269,
+        "sha256": "7E8677D276E504F36FB69159E441E9D6215E2299B0724296CE8EC7D492CC4932"
+      },
+      "world": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261023-185346-544857\\world.zip",
+        "size": 19337404,
+        "sha256": "92E3613FFE42E15A419DD4A8A0F86A4570AEE5F031A4589F7010C4804EED8E7D"
+      }
+    },
+    "items_xml_excluded": true,
+    "world_entries": [
+      "mapanovo.otbm"
+    ],
+    "passed": true
+  },
+  "sprite_hash_gate": {
+    "sample_count": 64,
+    "mismatch_count": 0,
+    "mismatches": [],
+    "passed": true
+  },
+  "item_count": 3,
+  "new_sprite_count": 28,
+  "sprite_id_range": [
+    292564,
+    292591
+  ],
+  "items": [
+    {
+      "sequence": 1,
+      "client_id": 24677,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\Parede_Iwagakure_remake.png",
+      "file_sha256": "4B0969B9DD032C341B0903DE9357388B5D725997D0E398FC8DA506DF681CD440",
+      "pixels_sha256": "43565CD68643AC7EAB32ED4250369E22B26259FA0A44715533405AF7A9089126",
+      "image_width": 192,
+      "image_height": 64,
+      "width_tiles": 6,
+      "height_tiles": 2,
+      "frames": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_ids": [
+        292564,
+        292565,
+        292566,
+        292567,
+        292568,
+        292569,
+        292570,
+        292571,
+        292572,
+        292573,
+        292574,
+        292575
+      ],
+      "sprite_hash": "B8C602206ED12F419F6EF50306E3E884",
+      "layout_preserved": false,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1
+    },
+    {
+      "sequence": 2,
+      "client_id": 24678,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\Parede_Iwagakure_remake2.png",
+      "file_sha256": "0FC818A6DC9A9D9E334FC8781EA591099419D2AFFCBA9CFC0C3EE91580B1D981",
+      "pixels_sha256": "70163D5E0569E5BE3AADE626899941FC7B17D43B75EBD6D7C7A50DF3F3451644",
+      "image_width": 192,
+      "image_height": 64,
+      "width_tiles": 6,
+      "height_tiles": 2,
+      "frames": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_ids": [
+        292576,
+        292577,
+        292578,
+        292579,
+        292580,
+        292581,
+        292582,
+        292583,
+        292584,
+        292585,
+        292586,
+        292587
+      ],
+      "sprite_hash": "8F3FF624F0504CE987034B777BCA4A97",
+      "layout_preserved": false,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1
+    },
+    {
+      "sequence": 3,
+      "client_id": 24690,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\Parede_Iwagakure_remake3.png",
+      "file_sha256": "1BF1824F63C50FD8A07ADFA38A55C9F1AA4211F103768C542984411B50855252",
+      "pixels_sha256": "FE1A64501B78F1636F976C694501A71F514C7487DB89C0B2F75F6E0F146BE00F",
+      "image_width": 64,
+      "image_height": 64,
+      "width_tiles": 2,
+      "height_tiles": 2,
+      "frames": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_ids": [
+        292588,
+        292589,
+        292590,
+        292591
+      ],
+      "sprite_hash": "944A8A6434DF8541510D6963C6383881",
+      "layout_preserved": false,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1
+    }
+  ],
+  "otb_nodes_updated": {
+    "24677": 1,
+    "24678": 1,
+    "24690": 1
+  },
+  "transaction_committed": true,
+  "output_hashes": {
+    "dat": "6801D0A58B3108D1B4E41BBCDA72C80E860AC9C4BFEE2767D31E13C3571C5624",
+    "spr": "DECEB63710654FAE0A4C03D42C4E6E15E09DDC7B379DAE89BCD87CE91A14B5C4",
+    "otb": "177A35CA43C5EFE6E43FA8CA84144F921B19E29AD828D94097884F731FE76D87"
+  },
+  "dat_non_targets_preserved": true,
+  "old_sprite_payload_preserved": true,
+  "new_sprite_pixels_verified": true,
+  "layout_preserved_client_ids": [],
+  "untouched_files_preserved": true,
+  "map_byte_equal": true,
+  "final_validation_passed": true,
+  "warnings": [],
+  "errors": [],
+  "passed": true
+}
