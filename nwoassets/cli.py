@@ -27,6 +27,7 @@ from .pipeline import inspect_client, inspect_text_configs, validate_root
 from .properties import edit_item_properties
 from .runtime_adopt import adopt_runtime_assets
 from .runtime_sync import sync_runtime_assets
+from .client_runtime_restore import restore_client_runtime
 from .remake_importer import import_obd_remakes
 from .versioning import create_version
 
@@ -255,11 +256,17 @@ def build_parser() -> argparse.ArgumentParser:
         "sync-runtime",
         "valida e sincroniza assets com servidor, RME, clients e NWO-STUDIO",
     )
+    runtime_sync.add_argument("--client-root", type=Path, help="checkout/worktree PC de destino; padrao: pasta principal")
     runtime_sync.add_argument(
         "--dry-run",
         action="store_true",
         help="valida e relata as cópias sem modificar os destinos",
     )
+    client_restore = common("restore-client-runtime", "restaura um checkout PC pelo seu proprio RAR anterior validado")
+    client_restore.add_argument("--client-root", type=Path, required=True)
+    client_restore.add_argument("--archive", type=Path, required=True)
+    client_restore.add_argument("--dat-sha256", required=True)
+    client_restore.add_argument("--spr-sha256", required=True)
     runtime_adopt = common(
         "adopt-runtime",
         "versiona e incorpora DAT/SPR editados no client, atualizando o OTB",
@@ -355,7 +362,11 @@ def main(argv: list[str] | None = None) -> int:
         "sync-runtime": lambda: sync_runtime_assets(
             args.root,
             dry_run=args.dry_run,
+            client_root=args.client_root,
         ),
+        "restore-client-runtime": lambda: restore_client_runtime(
+            args.root, client_root=args.client_root, archive=args.archive,
+            dat_sha256=args.dat_sha256, spr_sha256=args.spr_sha256),
         "adopt-runtime": lambda: adopt_runtime_assets(
             args.root,
             source_dir=args.source_dir,
@@ -369,17 +380,17 @@ def main(argv: list[str] | None = None) -> int:
             "validate", "import-items", "import-obd-remakes", "import-cloned-items", "repair-item-patterns", "repair-exact-item-clones", "import-effects", "import-missiles", "import-outfits", "edit-animation-durations",
             "create-version", "edit-item-properties", "edit-ground-speeds", "edit-item-elevations",
             "inspect-map-position", "export-png",
-            "sync-runtime", "adopt-runtime",
+            "sync-runtime", "restore-client-runtime", "adopt-runtime",
         } and not report.get("passed", False):
             return 1
         return 0
     except NwoAssetsError as exc:
-        if args.command == "sync-runtime":
+        if args.command in {"sync-runtime", "restore-client-runtime"}:
             _write_report(_runtime_failure_report(args, exc), args.output)
         print(f"erro: {exc}", file=sys.stderr)
         return 2
     except OSError as exc:
-        if args.command == "sync-runtime":
+        if args.command in {"sync-runtime", "restore-client-runtime"}:
             _write_report(_runtime_failure_report(args, exc), args.output)
         print(f"erro de I/O: {exc}", file=sys.stderr)
         return 2

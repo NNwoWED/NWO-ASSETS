@@ -145,3 +145,25 @@
 - 28 testes aprovados, incluindo importacao completa em assets sinteticos com versao RAR testada e restauracao por falha simulada;67 folhas originais de agua preparadas em modo somente leitura. Inventario atualizado:71 candidatos ativos,67 superficies e24 variantes adicionais localizadas por referencias de sprites.
 - DAT/SPR/OTB/XML/mapa oficiais permanecem intactos em relacao ao inicio desta analise. Validacao profunda sem erros ou avisos. Correcao visual ainda nao aplicada: aguarda aprovacao da paleta e conferencias finais antes da importacao/sincronizacao. Card permanece Em correcao; nenhum novo card movido para Validacao nesta etapa.
 - Relatorio: trello-resolve/water_import_tooling_report.json; NWO-ASSETS/reports/validation-water-import-tooling-20261020.json. Sem alteracao de runtime PC/mobile; APK dispensado pelo usuario.
+
+
+## 24/10/2026 - Placeholders do sistema mob-estrelado
+
+- Lote inicial: SID 26934-26948 / CID 26049-26063 (Scrap Cloth, oito Forge Essences, tres talismas, sangue de Nami e duas pocoes EXP). Versao 20261024-120108-531166; relatorios import-mob-estrelado-20261024, validation-after-mob-estrelado-20261024 e sync-runtime-mob-estrelado-20261024 aprovados.
+- Lote regional: SID 26949-26954 / CID 26064-26069, seis Teleport Scrolls clonados do Empty Scroll 14471/13594, PNG RGBA 32x32. Versao 20261024-140224-859709 e relatorios import-mob-estrelado-teleports-20261024, validation-after-mob-estrelado-teleports-20261024 e sync-runtime-mob-estrelado-teleports-20261024 aprovados. XML, aparencia e propriedades clonadas conferidos; registros antigos e mapa preservados.
+- Inputs originais, importados e manifestos arquivados em importados/mob-estrelado-20261024 e importados/mob-estrelado-teleports-20261024. PNGs derivados em export/.
+- Sincronizacao oficial confirmou servidor, PC, RME, OTML mobile e NWO-STUDIO, incluindo hashes e testes de arquivos compactados. Catalogo Lua do servidor recebeu 63 entradas nos tres indices; relatorio reports/catalog-starred-20261024.json. Towns e seis destinos TC conferidos em reports/towns-mob-estrelado-20261024.json e teleport-destinations-mob-estrelado-20261024.json; nenhuma escrita no mapa.
+
+
+## 24/10/2026 — Placeholder Fast Pill do mob-estrelado
+
+- Operação import-cloned-items, Fast Pill provisória SID26955/CID26070; referência Simple Life Potion SID11563/CID10686, PNG RGBA8 não entrelaçado32×32. Propriedades DAT/OTB clonadas, registros antigos e mapa preservados; nome/descrição do novo XML ajustados para a remoção do Bote Congelante.
+- Versão imutável20261024-154158-202990 criada/testada. Baseline profunda, dry-run, importação confirmada com pixels/hashes persistidos, validação profunda final sem erros e sync-runtime-mob-estrelado-fast-pill-20261024.json aprovados. Conferidos destinos, hashes e arquivos compactados oficiais.
+- Original, PNG importado, manifesto e metadados de premissa arquivados em importados/mob-estrelado-fast-pill-20261024. Exportações de referência/conferência em export/mob-estrelado-fast-pill-*. Catálogo Lua do servidor atualizado nos três índices, reports/catalog-starred-fast-pill-20261024.json. Conjunto mob-estrelado soma22 itens novos, SID26934–26955/CID26049–26070.
+
+
+## 24/10/2026 - Branch e destino de runtime isolados
+
+- Entrega movida para mob-estrelado. sync-runtime aceita --client-root para sincronizar DAT/SPR/OTML e860.rar no worktree correto. Destinos de servidor/RME/mobile/NWO-STUDIO e garantias anteriores preservados.
+- restore-client-runtime restaura somente o checkout PC indicado pelo seu RAR anterior, exigindo hashes DAT/SPR de versao validada, inventario seguro, teste do RAR e troca com rollback. Recuperacao nao e apagada quando ocorre falha. Baseline canonica permanece intacta.
+- Doze testes aprovados; ajuste anterior dos Guizos mantido fora do commit do mob-estrelado. Versoes imutaveis de assets anteriores preservadas.

@@ -35,6 +35,7 @@ def _require_directory(path: Path, description: str) -> Path:
 
 def _runtime_paths(
     root: Path,
+    client_root: Path | None = None,
 ) -> tuple[
     dict[str, Path],
     dict[str, Path],
@@ -60,7 +61,7 @@ def _runtime_paths(
         "diretório de items do RME",
     )
     client_things = _require_directory(
-        workspace / "nwo-otclient-mehah-4.0" / "data" / "things",
+        (client_root or workspace / "nwo-otclient-mehah-4.0") / "data" / "things",
         "diretório things do client",
     )
     client_860 = _require_directory(client_things / "860", "diretório 860 do client")
@@ -212,7 +213,7 @@ def _rollback(published: list[Path], backups: dict[Path, Path]) -> None:
             os.replace(backup, target)
 
 
-def sync_runtime_assets(root: Path, *, dry_run: bool = False) -> dict[str, object]:
+def sync_runtime_assets(root: Path, *, dry_run: bool = False, client_root: Path | None = None) -> dict[str, object]:
     root = root.resolve()
     (
         sources,
@@ -222,7 +223,7 @@ def sync_runtime_assets(root: Path, *, dry_run: bool = False) -> dict[str, objec
         mobile_860,
         studio_things_archive,
         studio_map_archive,
-    ) = _runtime_paths(root)
+    ) = _runtime_paths(root, client_root)
     validation = validate_root(root, deep_spr=True)
     if not validation.get("passed", False):
         raise FormatError(f"baseline canônica reprovou: {validation.get('errors', [])}")

@@ -1,0 +1,148 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "profile": {
+    "key": "tibia-860-v2-custom-extended",
+    "client_version": 860,
+    "label": "Tibia 8.60 v2 customizado com features OTFI",
+    "dat_signature": "0x4C2C7993",
+    "spr_signature": "0x4C220594",
+    "metadata_reader": 5,
+    "otb_version_hint": "8.60"
+  },
+  "category": "items",
+  "id_kind": "server",
+  "requested_ids": [
+    11572,
+    6500,
+    14455,
+    14609,
+    7636
+  ],
+  "output_dir": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\mob-estrelado-placeholders",
+  "exported_count": 5,
+  "exported": [
+    {
+      "requested_id": 11572,
+      "client_id": 10695,
+      "server_ids": [
+        11572
+      ],
+      "name": "Black cloth",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        210912
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\mob-estrelado-placeholders\\server-11572_client-10695_black-cloth.png",
+      "size": 388,
+      "sha256": "779B03136FC3F45FC94588CA6C2BC13DD566F72C2D6DF122C93D264240ECCBA3"
+    },
+    {
+      "requested_id": 6500,
+      "client_id": 6499,
+      "server_ids": [
+        6500
+      ],
+      "name": "Renegade essence",
+      "group_index": 0,
+      "width": 32,
+      "height": 96,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 3,
+      "sprite_ids": [
+        5869,
+        5870,
+        5871
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\mob-estrelado-placeholders\\server-6500_client-6499_renegade-essence.png",
+      "size": 1056,
+      "sha256": "F5655501A7D5C34A415916B60C324243E831539AFBE2572F8C040EB6236A8DEB"
+    },
+    {
+      "requested_id": 14455,
+      "client_id": 13578,
+      "server_ids": [
+        14455
+      ],
+      "name": "Sand talisman",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        207590
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\mob-estrelado-placeholders\\server-14455_client-13578_sand-talisman.png",
+      "size": 397,
+      "sha256": "C6CC8185D77FABAB2C605710C318EA28ACFEECBF401B20182F46A0833BFBD387"
+    },
+    {
+      "requested_id": 14609,
+      "client_id": 13730,
+      "server_ids": [
+        14609
+      ],
+      "name": "Blood Konoha",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        260658
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\mob-estrelado-placeholders\\server-14609_client-13730_blood-konoha.png",
+      "size": 440,
+      "sha256": "30E4412CFF569919F032FB2D6E71FEFC999EFF14033CCFBD4804CD26E8C955A0"
+    },
+    {
+      "requested_id": 7636,
+      "client_id": 285,
+      "server_ids": [
+        7636
+      ],
+      "name": "Stamina Potion",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        28826
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\mob-estrelado-placeholders\\server-7636_client-285_stamina-potion.png",
+      "size": 416,
+      "sha256": "DDA907D5E55E2E5560559654D1B1B6738BB35348CC77F4AD5A02A27BB7EACA0F"
+    }
+  ],
+  "sources": {
+    "dat": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.dat",
+      "sha256": "46A4BDF47B21D00AA78AE3A4E081D6CE4ED6CFA113156B47CBC6378EBAC9E5A1"
+    },
+    "spr": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.spr",
+      "sha256": "BC6DDA10D8192E1EEF177CCAF9BE6A7E78DFB80D191C29899DE31A1BD8284AAC"
+    }
+  },
+  "passed": true
+}

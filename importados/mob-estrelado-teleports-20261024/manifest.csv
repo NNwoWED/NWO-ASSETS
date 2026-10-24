@@ -1,0 +1,7 @@
+sequence,source_server_id,target_server_id,target_client_id,source_path,frame_width,frame_height,frames,frame_duration_ms,animation_async
+1,14471,26949,26064,teleport_scroll_konoha.png,32,32,1,,0
+2,14471,26950,26065,teleport_scroll_suna.png,32,32,1,,0
+3,14471,26951,26066,teleport_scroll_iwa.png,32,32,1,,0
+4,14471,26952,26067,teleport_scroll_kumo.png,32,32,1,,0
+5,14471,26953,26068,teleport_scroll_kiri.png,32,32,1,,0
+6,14471,26954,26069,teleport_scroll_nami.png,32,32,1,,0

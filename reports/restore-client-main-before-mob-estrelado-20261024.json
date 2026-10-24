@@ -1,0 +1,32 @@
+{
+  "tool_version": "0.8.2",
+  "generated_at": "2026-10-24T20:34:54.247301-03:00",
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "client_root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\nwo-otclient-mehah-4.0",
+  "archive": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\nwo-otclient-mehah-4.0\\data\\things\\860.rar",
+  "archive_sha256": "223AB6D7ED384A7907920C14A723E73671B8C7F010D7C7BE3595E8500B83BAA6",
+  "files": [
+    {
+      "name": ".gitattributes",
+      "sha256": "D5636A3257287440945C5E017581545E5B0A3E2FDDDAE7C5EF8D90FF4DF3D32A",
+      "previous_sha256": "D5636A3257287440945C5E017581545E5B0A3E2FDDDAE7C5EF8D90FF4DF3D32A"
+    },
+    {
+      "name": "Tibia.dat",
+      "sha256": "46A4BDF47B21D00AA78AE3A4E081D6CE4ED6CFA113156B47CBC6378EBAC9E5A1",
+      "previous_sha256": "2CA57C845426DF3B7F4817DE27038B69BEA9D2CA6986B248474CB966658E72E6"
+    },
+    {
+      "name": "Tibia.otfi",
+      "sha256": "7743548835944BC799CB871A4E5DEF84F7AF76815031871B9CE74B5EC0E8ADD3",
+      "previous_sha256": "7743548835944BC799CB871A4E5DEF84F7AF76815031871B9CE74B5EC0E8ADD3"
+    },
+    {
+      "name": "Tibia.spr",
+      "sha256": "BC6DDA10D8192E1EEF177CCAF9BE6A7E78DFB80D191C29899DE31A1BD8284AAC",
+      "previous_sha256": "DCD66CB57D0379AF83C989FA884166E098F3A9386DD5874D7C46B0F4609C086C"
+    }
+  ],
+  "canonical_baseline_modified": false,
+  "passed": true
+}

@@ -1,0 +1,310 @@
+[
+  {
+    "map": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\world\\mapanovo.otbm",
+    "position": {
+      "x": 1239,
+      "y": 701,
+      "z": 10
+    },
+    "found": true,
+    "items": [
+      {
+        "server_id": 20439,
+        "nested_depth": 0,
+        "stack_position": 1,
+        "stack_position_zero_based": 0,
+        "client_id": 19554,
+        "otb_group": 1,
+        "otb_flags_mask": "0x02000000",
+        "otb_flags": [
+          "walk_stack"
+        ],
+        "dat_flags": [
+          "ground",
+          "unmoveable",
+          "mini_map",
+          "full_ground"
+        ]
+      }
+    ],
+    "tile_areas_examined": 101274,
+    "matching_tile_areas": 456,
+    "tiles_examined": 7008,
+    "node_type": "tile",
+    "house_id": null,
+    "tile_flags": "0x00000001",
+    "passed": true,
+    "errors": [],
+    "town": {
+      "id": 1,
+      "name": "Konoha",
+      "position": {
+        "x": 1239,
+        "y": 701,
+        "z": 10
+      }
+    }
+  },
+  {
+    "map": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\world\\mapanovo.otbm",
+    "position": {
+      "x": 620,
+      "y": 967,
+      "z": 7
+    },
+    "found": true,
+    "items": [
+      {
+        "server_id": 9146,
+        "nested_depth": 0,
+        "stack_position": 1,
+        "stack_position_zero_based": 0,
+        "client_id": 8230,
+        "otb_group": 1,
+        "otb_flags_mask": "0x02000000",
+        "otb_flags": [
+          "walk_stack"
+        ],
+        "dat_flags": [
+          "ground",
+          "unmoveable",
+          "mini_map",
+          "full_ground"
+        ]
+      }
+    ],
+    "tile_areas_examined": 47038,
+    "matching_tile_areas": 2761,
+    "tiles_examined": 52899,
+    "node_type": "tile",
+    "house_id": null,
+    "tile_flags": "0x00000001",
+    "passed": true,
+    "errors": [],
+    "town": {
+      "id": 2,
+      "name": "Sunagakure",
+      "position": {
+        "x": 620,
+        "y": 967,
+        "z": 7
+      }
+    }
+  },
+  {
+    "map": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\world\\mapanovo.otbm",
+    "position": {
+      "x": 917,
+      "y": 453,
+      "z": 3
+    },
+    "found": true,
+    "items": [
+      {
+        "server_id": 12034,
+        "nested_depth": 0,
+        "stack_position": 1,
+        "stack_position_zero_based": 0,
+        "client_id": 11157,
+        "otb_group": 1,
+        "otb_flags_mask": "0x02000000",
+        "otb_flags": [
+          "walk_stack"
+        ],
+        "dat_flags": [
+          "ground",
+          "unmoveable",
+          "mini_map",
+          "full_ground"
+        ]
+      }
+    ],
+    "tile_areas_examined": 14890,
+    "matching_tile_areas": 15,
+    "tiles_examined": 173,
+    "node_type": "tile",
+    "house_id": null,
+    "tile_flags": "0x00000001",
+    "passed": true,
+    "errors": [],
+    "town": {
+      "id": 3,
+      "name": "Iwagakure",
+      "position": {
+        "x": 917,
+        "y": 453,
+        "z": 3
+      }
+    }
+  },
+  {
+    "map": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\world\\mapanovo.otbm",
+    "position": {
+      "x": 1581,
+      "y": 420,
+      "z": 5
+    },
+    "found": true,
+    "items": [
+      {
+        "server_id": 11712,
+        "nested_depth": 0,
+        "stack_position": 1,
+        "stack_position_zero_based": 0,
+        "client_id": 10835,
+        "otb_group": 1,
+        "otb_flags_mask": "0x02000000",
+        "otb_flags": [
+          "walk_stack"
+        ],
+        "dat_flags": [
+          "ground",
+          "unmoveable",
+          "mini_map",
+          "full_ground"
+        ]
+      },
+      {
+        "server_id": 5591,
+        "nested_depth": 0,
+        "stack_position": 2,
+        "stack_position_zero_based": 1,
+        "client_id": 5590,
+        "otb_group": 0,
+        "otb_flags_mask": "0x00002000",
+        "otb_flags": [
+          "always_on_top"
+        ],
+        "dat_flags": [
+          "ground_border",
+          "unmoveable"
+        ]
+      }
+    ],
+    "tile_areas_examined": 82112,
+    "matching_tile_areas": 372,
+    "tiles_examined": 4117,
+    "node_type": "tile",
+    "house_id": null,
+    "tile_flags": "0x00000001",
+    "passed": true,
+    "errors": [],
+    "town": {
+      "id": 4,
+      "name": "Kumogakure",
+      "position": {
+        "x": 1581,
+        "y": 420,
+        "z": 5
+      }
+    }
+  },
+  {
+    "map": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\world\\mapanovo.otbm",
+    "position": {
+      "x": 1804,
+      "y": 1003,
+      "z": 4
+    },
+    "found": true,
+    "items": [
+      {
+        "server_id": 14921,
+        "nested_depth": 0,
+        "stack_position": 1,
+        "stack_position_zero_based": 0,
+        "client_id": 14036,
+        "otb_group": 1,
+        "otb_flags_mask": "0x02000000",
+        "otb_flags": [
+          "walk_stack"
+        ],
+        "dat_flags": [
+          "ground",
+          "unmoveable",
+          "mini_map",
+          "full_ground"
+        ]
+      },
+      {
+        "server_id": 5591,
+        "nested_depth": 0,
+        "stack_position": 2,
+        "stack_position_zero_based": 1,
+        "client_id": 5590,
+        "otb_group": 0,
+        "otb_flags_mask": "0x00002000",
+        "otb_flags": [
+          "always_on_top"
+        ],
+        "dat_flags": [
+          "ground_border",
+          "unmoveable"
+        ]
+      }
+    ],
+    "tile_areas_examined": 144951,
+    "matching_tile_areas": 276,
+    "tiles_examined": 2861,
+    "node_type": "tile",
+    "house_id": null,
+    "tile_flags": "0x00000001",
+    "passed": true,
+    "errors": [],
+    "town": {
+      "id": 5,
+      "name": "Kirigakure",
+      "position": {
+        "x": 1804,
+        "y": 1003,
+        "z": 4
+      }
+    }
+  },
+  {
+    "map": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\world\\mapanovo.otbm",
+    "position": {
+      "x": 1754,
+      "y": 765,
+      "z": 7
+    },
+    "found": true,
+    "items": [
+      {
+        "server_id": 14920,
+        "nested_depth": 0,
+        "stack_position": 1,
+        "stack_position_zero_based": 0,
+        "client_id": 14035,
+        "otb_group": 1,
+        "otb_flags_mask": "0x02000000",
+        "otb_flags": [
+          "walk_stack"
+        ],
+        "dat_flags": [
+          "ground",
+          "unmoveable",
+          "mini_map",
+          "full_ground"
+        ]
+      }
+    ],
+    "tile_areas_examined": 116814,
+    "matching_tile_areas": 647,
+    "tiles_examined": 65002,
+    "node_type": "tile",
+    "house_id": null,
+    "tile_flags": "0x00000000",
+    "passed": true,
+    "errors": [],
+    "town": {
+      "id": 7,
+      "name": "Nami no Kuni",
+      "position": {
+        "x": 1754,
+        "y": 765,
+        "z": 7
+      }
+    }
+  }
+]

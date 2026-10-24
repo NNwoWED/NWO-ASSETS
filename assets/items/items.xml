@@ -19877,4 +19877,69 @@
 <item id="26931" name="Roof" />
 <item id="26932" name="Roof" />
 <item id="26933" name="Roof" />
+	<item id="26934" article="a" name="Scrap Cloth" plural="Black cloths">
+		<attribute key="description" value="Tecido negro usado na fabricação de roupas e equipamentos." />
+		<attribute key="market" value="1" />
+	</item>
+	<item id="26935" article="a" name="Mask Forge Essence" plural="Black cloths">
+		<attribute key="description" value="Tecido negro usado na fabricação de roupas e equipamentos." />
+		<attribute key="market" value="1" />
+	</item>
+	<item id="26936" article="a" name="Vest Forge Essence" plural="Black cloths">
+		<attribute key="description" value="Tecido negro usado na fabricação de roupas e equipamentos." />
+		<attribute key="market" value="1" />
+	</item>
+	<item id="26937" article="a" name="Legs Forge Essence" plural="Black cloths">
+		<attribute key="description" value="Tecido negro usado na fabricação de roupas e equipamentos." />
+		<attribute key="market" value="1" />
+	</item>
+	<item id="26938" article="a" name="Boots Forge Essence" plural="Black cloths">
+		<attribute key="description" value="Tecido negro usado na fabricação de roupas e equipamentos." />
+		<attribute key="market" value="1" />
+	</item>
+	<item id="26939" article="a" name="Collar Forge Essence" plural="Black cloths">
+		<attribute key="description" value="Tecido negro usado na fabricação de roupas e equipamentos." />
+		<attribute key="market" value="1" />
+	</item>
+	<item id="26940" article="a" name="Ring Forge Essence" plural="Black cloths">
+		<attribute key="description" value="Tecido negro usado na fabricação de roupas e equipamentos." />
+		<attribute key="market" value="1" />
+	</item>
+	<item id="26941" article="a" name="Gloves Forge Essence" plural="Black cloths">
+		<attribute key="description" value="Tecido negro usado na fabricação de roupas e equipamentos." />
+		<attribute key="market" value="1" />
+	</item>
+	<item id="26942" article="a" name="Weapon Forge Essence" plural="Black cloths">
+		<attribute key="description" value="Tecido negro usado na fabricação de roupas e equipamentos." />
+		<attribute key="market" value="1" />
+	</item>
+	<item id="26943" article="a" name="Isha Talisman" plural="Black cloths">
+		<attribute key="description" value="Tecido negro usado na fabricação de roupas e equipamentos." />
+		<attribute key="market" value="1" />
+	</item>
+	<item id="26944" article="a" name="Nin Talisman" plural="Black cloths">
+		<attribute key="description" value="Tecido negro usado na fabricação de roupas e equipamentos." />
+		<attribute key="market" value="1" />
+	</item>
+	<item id="26945" article="a" name="Goju Talisman" plural="Black cloths">
+		<attribute key="description" value="Tecido negro usado na fabricação de roupas e equipamentos." />
+		<attribute key="market" value="1" />
+	</item>
+	<item id="26946" name="Blood Nami no Kuni" />
+	<item id="26947" article="an" name="Project EXP Potion 20%">
+		<attribute key="weight" value="100" />
+	</item>
+	<item id="26948" article="an" name="Project EXP Potion 30%">
+		<attribute key="weight" value="100" />
+	</item>
+	<item id="26949" article="a" name="Teleport Scroll Konoha"><attribute key="description" value="Leva ao TC de Konoha. Consumido no uso." /></item>
+	<item id="26950" article="a" name="Teleport Scroll Sunagakure"><attribute key="description" value="Leva ao TC de Sunagakure. Consumido no uso." /></item>
+	<item id="26951" article="a" name="Teleport Scroll Iwagakure"><attribute key="description" value="Leva ao TC de Iwagakure. Consumido no uso." /></item>
+	<item id="26952" article="a" name="Teleport Scroll Kumogakure"><attribute key="description" value="Leva ao TC de Kumogakure. Consumido no uso." /></item>
+	<item id="26953" article="a" name="Teleport Scroll Kirigakure"><attribute key="description" value="Leva ao TC de Kirigakure. Consumido no uso." /></item>
+	<item id="26954" article="a" name="Teleport Scroll Nami no Kuni"><attribute key="description" value="Leva ao TC de Nami no Kuni. Consumido no uso." /></item>
+	<item id="26955" article="a" name="Fast Pill" plural="Simple Life Potions">
+		<attribute key="market" value="1" />
+		<attribute key="description" value="Remove a lentidão do Bote Congelante dos Estrelados. Consumida no uso." />
+	</item>
 </items>

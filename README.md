@@ -308,3 +308,23 @@ pela baseline, reabre os pixels novos, preserva registros DAT não alvo e o payl
 dos sprites antigos, mantém relações N:1 do OTB e verifica que OTFI, OTBM, XMLs e
 OTMLs não mudaram. Toda versão permanece disponível em `versions/` para restauração
 manual adicional.
+
+## Sincronizacao em uma branch isolada do client
+
+Quando o PC estiver em worktree, informe o checkout correto explicitamente:
+
+```powershell
+python -m nwoassets sync-runtime . --client-root "../nwo-otclient-mehah-4.0/build/mob-estrelado" -o reports/sync-runtime-mob-estrelado-worktree.json
+```
+
+O parametro altera somente o destino PC e seu `860.rar`; servidor, RME, mobile e
+NWO-STUDIO continuam nos destinos do workspace. Validacao profunda, transacao,
+hashes e testes dos compactados permanecem obrigatorios. O padrao sem parametro
+continua sendo a pasta principal do PC.
+
+Para desfazer a contaminacao de um checkout por assets de outra branch, o comando
+`restore-client-runtime` restaura seus arquivos extraidos pelo seu proprio RAR
+anterior versionado. Exige `--client-root`, `--archive`, `--dat-sha256` e
+`--spr-sha256`, com hashes de uma versao anterior validada. Confere o inventario,
+testa o RAR, valida os hashes antes da troca e mantem recuperacao em `reports/`
+se houver falha, inclusive falha de rollback. Nao altera a baseline canonica.

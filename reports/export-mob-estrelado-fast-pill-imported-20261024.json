@@ -1,0 +1,54 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "profile": {
+    "key": "tibia-860-v2-custom-extended",
+    "client_version": 860,
+    "label": "Tibia 8.60 v2 customizado com features OTFI",
+    "dat_signature": "0x4C2C7993",
+    "spr_signature": "0x4C220594",
+    "metadata_reader": 5,
+    "otb_version_hint": "8.60"
+  },
+  "category": "items",
+  "id_kind": "server",
+  "requested_ids": [
+    26955
+  ],
+  "output_dir": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\mob-estrelado-fast-pill-imported",
+  "exported_count": 1,
+  "exported": [
+    {
+      "requested_id": 26955,
+      "client_id": 26070,
+      "server_ids": [
+        26955
+      ],
+      "name": "Fast Pill",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        293219
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\mob-estrelado-fast-pill-imported\\server-26955_client-26070_fast-pill.png",
+      "size": 342,
+      "sha256": "5F8DC357CBB7E19FBC2C07D6A730E18CB43DD3985A3F77A5610D61EB00855E99"
+    }
+  ],
+  "sources": {
+    "dat": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.dat",
+      "sha256": "2CA57C845426DF3B7F4817DE27038B69BEA9D2CA6986B248474CB966658E72E6"
+    },
+    "spr": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.spr",
+      "sha256": "DCD66CB57D0379AF83C989FA884166E098F3A9386DD5874D7C46B0F4609C086C"
+    }
+  },
+  "passed": true
+}

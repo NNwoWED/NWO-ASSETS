@@ -1,0 +1,277 @@
+{
+  "source": "assets\\world\\mapanovo.otbm",
+  "sha256": "ac32c669bed3512d69ae054cafc8564a236c9894b22bbc9a0e9d7acaefad5512",
+  "towns": [
+    {
+      "id": 1,
+      "name": "Konoha",
+      "position": {
+        "x": 1239,
+        "y": 701,
+        "z": 10
+      }
+    },
+    {
+      "id": 2,
+      "name": "Sunagakure",
+      "position": {
+        "x": 620,
+        "y": 967,
+        "z": 7
+      }
+    },
+    {
+      "id": 3,
+      "name": "Iwagakure",
+      "position": {
+        "x": 917,
+        "y": 453,
+        "z": 3
+      }
+    },
+    {
+      "id": 4,
+      "name": "Kumogakure",
+      "position": {
+        "x": 1581,
+        "y": 420,
+        "z": 5
+      }
+    },
+    {
+      "id": 5,
+      "name": "Kirigakure",
+      "position": {
+        "x": 1804,
+        "y": 1003,
+        "z": 4
+      }
+    },
+    {
+      "id": 6,
+      "name": "Amegakure",
+      "position": {
+        "x": 175,
+        "y": 791,
+        "z": 7
+      }
+    },
+    {
+      "id": 7,
+      "name": "Nami no Kuni",
+      "position": {
+        "x": 1754,
+        "y": 765,
+        "z": 7
+      }
+    },
+    {
+      "id": 8,
+      "name": "Depot",
+      "position": {
+        "x": 2434,
+        "y": 818,
+        "z": 14
+      }
+    },
+    {
+      "id": 9,
+      "name": "ENTRADA DG SUNA",
+      "position": {
+        "x": 760,
+        "y": 805,
+        "z": 7
+      }
+    },
+    {
+      "id": 10,
+      "name": "ENTRADA DG KIRIGAKURE",
+      "position": {
+        "x": 1879,
+        "y": 1014,
+        "z": 7
+      }
+    },
+    {
+      "id": 11,
+      "name": "Arenas dungeons",
+      "position": {
+        "x": 254,
+        "y": 2242,
+        "z": 7
+      }
+    },
+    {
+      "id": 12,
+      "name": "Funeral hokage",
+      "position": {
+        "x": 129,
+        "y": 2151,
+        "z": 6
+      }
+    },
+    {
+      "id": 13,
+      "name": "Tutorial",
+      "position": {
+        "x": 272,
+        "y": 2352,
+        "z": 7
+      }
+    },
+    {
+      "id": 14,
+      "name": "saga 01",
+      "position": {
+        "x": 31,
+        "y": 2048,
+        "z": 7
+      }
+    },
+    {
+      "id": 15,
+      "name": "saga 02",
+      "position": {
+        "x": 43,
+        "y": 1980,
+        "z": 7
+      }
+    },
+    {
+      "id": 16,
+      "name": "saga 03",
+      "position": {
+        "x": 84,
+        "y": 1978,
+        "z": 7
+      }
+    },
+    {
+      "id": 17,
+      "name": "saga 04",
+      "position": {
+        "x": 194,
+        "y": 2014,
+        "z": 7
+      }
+    },
+    {
+      "id": 18,
+      "name": "saga 05",
+      "position": {
+        "x": 373,
+        "y": 1903,
+        "z": 7
+      }
+    },
+    {
+      "id": 19,
+      "name": "Novo",
+      "position": {
+        "x": 2687,
+        "y": 992,
+        "z": 10
+      }
+    },
+    {
+      "id": 20,
+      "name": "DG 3",
+      "position": {
+        "x": 2234,
+        "y": 928,
+        "z": 5
+      }
+    },
+    {
+      "id": 21,
+      "name": "Trainer Suna",
+      "position": {
+        "x": 2265,
+        "y": 46,
+        "z": 3
+      }
+    },
+    {
+      "id": 22,
+      "name": "Trainer Kiri",
+      "position": {
+        "x": 2306,
+        "y": 46,
+        "z": 3
+      }
+    },
+    {
+      "id": 23,
+      "name": "Navio",
+      "position": {
+        "x": 2066,
+        "y": 443,
+        "z": 6
+      }
+    },
+    {
+      "id": 24,
+      "name": "CAVE 1 ESGOTO",
+      "position": {
+        "x": 1916,
+        "y": 1106,
+        "z": 9
+      }
+    },
+    {
+      "id": 25,
+      "name": "CAVE 2 DOJO",
+      "position": {
+        "x": 2345,
+        "y": 783,
+        "z": 2
+      }
+    },
+    {
+      "id": 26,
+      "name": "CAVE 3 LABORATORIO",
+      "position": {
+        "x": 2098,
+        "y": 1100,
+        "z": 7
+      }
+    },
+    {
+      "id": 27,
+      "name": "CLA VS CLA",
+      "position": {
+        "x": 2646,
+        "y": 402,
+        "z": 7
+      }
+    },
+    {
+      "id": 28,
+      "name": "WATER ASSASSIN",
+      "position": {
+        "x": 2156,
+        "y": 681,
+        "z": 6
+      }
+    },
+    {
+      "id": 29,
+      "name": "TIGGER",
+      "position": {
+        "x": 2271,
+        "y": 594,
+        "z": 7
+      }
+    },
+    {
+      "id": 30,
+      "name": "DG IWA",
+      "position": {
+        "x": 2024,
+        "y": 174,
+        "z": 8
+      }
+    }
+  ],
+  "readonly": true
+}

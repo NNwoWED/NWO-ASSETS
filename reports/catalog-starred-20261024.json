@@ -1,0 +1,135 @@
+{
+  "source": "canonical OTB and XML, read-only",
+  "items": [
+    {
+      "server_id": 26934,
+      "client_id": 26049,
+      "name": "Scrap Cloth",
+      "stackable": true
+    },
+    {
+      "server_id": 26935,
+      "client_id": 26050,
+      "name": "Mask Forge Essence",
+      "stackable": true
+    },
+    {
+      "server_id": 26936,
+      "client_id": 26051,
+      "name": "Vest Forge Essence",
+      "stackable": true
+    },
+    {
+      "server_id": 26937,
+      "client_id": 26052,
+      "name": "Legs Forge Essence",
+      "stackable": true
+    },
+    {
+      "server_id": 26938,
+      "client_id": 26053,
+      "name": "Boots Forge Essence",
+      "stackable": true
+    },
+    {
+      "server_id": 26939,
+      "client_id": 26054,
+      "name": "Collar Forge Essence",
+      "stackable": true
+    },
+    {
+      "server_id": 26940,
+      "client_id": 26055,
+      "name": "Ring Forge Essence",
+      "stackable": true
+    },
+    {
+      "server_id": 26941,
+      "client_id": 26056,
+      "name": "Gloves Forge Essence",
+      "stackable": true
+    },
+    {
+      "server_id": 26942,
+      "client_id": 26057,
+      "name": "Weapon Forge Essence",
+      "stackable": true
+    },
+    {
+      "server_id": 26943,
+      "client_id": 26058,
+      "name": "Isha Talisman",
+      "stackable": true
+    },
+    {
+      "server_id": 26944,
+      "client_id": 26059,
+      "name": "Nin Talisman",
+      "stackable": true
+    },
+    {
+      "server_id": 26945,
+      "client_id": 26060,
+      "name": "Goju Talisman",
+      "stackable": true
+    },
+    {
+      "server_id": 26946,
+      "client_id": 26061,
+      "name": "Blood Nami no Kuni",
+      "stackable": true
+    },
+    {
+      "server_id": 26947,
+      "client_id": 26062,
+      "name": "Project EXP Potion 20%",
+      "stackable": false
+    },
+    {
+      "server_id": 26948,
+      "client_id": 26063,
+      "name": "Project EXP Potion 30%",
+      "stackable": false
+    },
+    {
+      "server_id": 26949,
+      "client_id": 26064,
+      "name": "Teleport Scroll Konoha",
+      "stackable": true
+    },
+    {
+      "server_id": 26950,
+      "client_id": 26065,
+      "name": "Teleport Scroll Sunagakure",
+      "stackable": true
+    },
+    {
+      "server_id": 26951,
+      "client_id": 26066,
+      "name": "Teleport Scroll Iwagakure",
+      "stackable": true
+    },
+    {
+      "server_id": 26952,
+      "client_id": 26067,
+      "name": "Teleport Scroll Kumogakure",
+      "stackable": true
+    },
+    {
+      "server_id": 26953,
+      "client_id": 26068,
+      "name": "Teleport Scroll Kirigakure",
+      "stackable": true
+    },
+    {
+      "server_id": 26954,
+      "client_id": 26069,
+      "name": "Teleport Scroll Nami no Kuni",
+      "stackable": true
+    }
+  ],
+  "old_sha256": "6e81daa4c34cce080551438a37cd0044888fb2c7a4ed38da590e878028aa5ef5",
+  "new_sha256": "2819ce5d9684ae65ccb533363543674535c9d63bc1c7a64b3967b391c9188b50",
+  "indices_verified": 3,
+  "entries_added": 63
+}

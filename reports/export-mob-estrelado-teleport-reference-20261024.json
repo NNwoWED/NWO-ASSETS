@@ -1,0 +1,54 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "profile": {
+    "key": "tibia-860-v2-custom-extended",
+    "client_version": 860,
+    "label": "Tibia 8.60 v2 customizado com features OTFI",
+    "dat_signature": "0x4C2C7993",
+    "spr_signature": "0x4C220594",
+    "metadata_reader": 5,
+    "otb_version_hint": "8.60"
+  },
+  "category": "items",
+  "id_kind": "server",
+  "requested_ids": [
+    14471
+  ],
+  "output_dir": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\mob-estrelado-teleport-reference",
+  "exported_count": 1,
+  "exported": [
+    {
+      "requested_id": 14471,
+      "client_id": 13594,
+      "server_ids": [
+        14471
+      ],
+      "name": "Empty scroll",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        207606
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\mob-estrelado-teleport-reference\\server-14471_client-13594_empty-scroll.png",
+      "size": 526,
+      "sha256": "A101A582C5D29B6B2AFA40E71FE2C1B18B50D7540EB89747142833381A18750C"
+    }
+  ],
+  "sources": {
+    "dat": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.dat",
+      "sha256": "0A93787F3A6C83910F14BDA39D3E8A70848599B79F8EFA55E7753E5859EE280D"
+    },
+    "spr": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.spr",
+      "sha256": "0118821078B006C7F1A3953AEC36B298207E4CF7928ABF7C0AD2E54B8D204010"
+    }
+  },
+  "passed": true
+}

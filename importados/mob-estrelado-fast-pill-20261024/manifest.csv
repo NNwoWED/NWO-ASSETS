@@ -1,0 +1,2 @@
+sequence,source_server_id,target_server_id,target_client_id,source_path,frame_width,frame_height,frames,frame_duration_ms,animation_async
+1,11563,26955,26070,fast_pill.png,32,32,1,,0

@@ -1,0 +1,54 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "profile": {
+    "key": "tibia-860-v2-custom-extended",
+    "client_version": 860,
+    "label": "Tibia 8.60 v2 customizado com features OTFI",
+    "dat_signature": "0x4C2C7993",
+    "spr_signature": "0x4C220594",
+    "metadata_reader": 5,
+    "otb_version_hint": "8.60"
+  },
+  "category": "items",
+  "id_kind": "server",
+  "requested_ids": [
+    11563
+  ],
+  "output_dir": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\mob-estrelado-fast-pill-reference",
+  "exported_count": 1,
+  "exported": [
+    {
+      "requested_id": 11563,
+      "client_id": 10686,
+      "server_ids": [
+        11563
+      ],
+      "name": "Simple Life Potion",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        213048
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\mob-estrelado-fast-pill-reference\\server-11563_client-10686_simple-life-potion.png",
+      "size": 342,
+      "sha256": "5F8DC357CBB7E19FBC2C07D6A730E18CB43DD3985A3F77A5610D61EB00855E99"
+    }
+  ],
+  "sources": {
+    "dat": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.dat",
+      "sha256": "6B6DC4CBE315E7F6C1CF89F7E9534A764B2F70DAEC4DA6E168D3F14793462C7E"
+    },
+    "spr": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.spr",
+      "sha256": "909C7169CF6EE80AAA20CC6868DB75D13EE93FD5865AF16A361F416EEF5D7DD8"
+    }
+  },
+  "passed": true
+}

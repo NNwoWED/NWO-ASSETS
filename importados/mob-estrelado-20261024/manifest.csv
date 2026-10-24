@@ -1,0 +1,16 @@
+sequence,source_server_id,target_server_id,target_client_id,source_path,frame_width,frame_height,frames,frame_duration_ms,animation_async
+1,11572,26934,26049,scrap_cloth.png,32,32,1,,0
+2,11572,26935,26050,mask_forge_essence.png,32,32,3,100,0
+3,11572,26936,26051,vest_forge_essence.png,32,32,3,100,0
+4,11572,26937,26052,legs_forge_essence.png,32,32,3,100,0
+5,11572,26938,26053,boots_forge_essence.png,32,32,3,100,0
+6,11572,26939,26054,collar_forge_essence.png,32,32,3,100,0
+7,11572,26940,26055,ring_forge_essence.png,32,32,3,100,0
+8,11572,26941,26056,gloves_forge_essence.png,32,32,3,100,0
+9,11572,26942,26057,weapon_forge_essence.png,32,32,3,100,0
+10,11572,26943,26058,isha_talisman.png,32,32,1,,0
+11,11572,26944,26059,nin_talisman.png,32,32,1,,0
+12,11572,26945,26060,goju_talisman.png,32,32,1,,0
+13,14609,26946,26061,blood_nami.png,32,32,1,,0
+14,7636,26947,26062,project_exp_20.png,32,32,1,,0
+15,7636,26948,26063,project_exp_30.png,32,32,1,,0

@@ -1,0 +1,9 @@
+{
+  "server_id": 26955,
+  "client_id": 26070,
+  "source": "canonical OTB and XML read-only",
+  "old_sha256": "2819ce5d9684ae65ccb533363543674535c9d63bc1c7a64b3967b391c9188b50",
+  "new_sha256": "44903e18d17a95a9bb8f86c1fff338290ba9c203acb74d916472c4d40367ada0",
+  "indices_verified": 3,
+  "passed": true
+}

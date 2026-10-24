@@ -1,0 +1,8 @@
+{
+  "server_id": 26955,
+  "client_id": 26070,
+  "operation": "new item name/description only; inherited market=1 preserved",
+  "old_sha256": "c0245f3a25a5ffe348f116bdc2117722aa564f1c1063813db72f1f57785b08df",
+  "new_sha256": "c9b32ae495672c4b3d1a917d292ca6c975094cf16db7a5f32dde4b9bf7f33261",
+  "changed_nodes": 1
+}

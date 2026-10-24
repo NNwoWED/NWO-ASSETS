@@ -1,0 +1,571 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "manifest": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\mob-estrelado-20261024\\manifest.csv",
+  "item_count": 15,
+  "target_server_id_range": [
+    26934,
+    26948
+  ],
+  "target_client_id_range": [
+    26049,
+    26063
+  ],
+  "new_sprite_count": 31,
+  "sprite_id_range": [
+    293182,
+    293212
+  ],
+  "items": [
+    {
+      "sequence": 1,
+      "source_server_id": 11572,
+      "source_client_id": 10695,
+      "target_server_id": 26934,
+      "target_client_id": 26049,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\mob-estrelado-20261024\\scrap_cloth.png",
+      "source_sha256": "779B03136FC3F45FC94588CA6C2BC13DD566F72C2D6DF122C93D264240ECCBA3",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        293182,
+        293182
+      ],
+      "sprite_hash": "E97F6D4CA54514BBF34B7CCF7B1A0CC9"
+    },
+    {
+      "sequence": 2,
+      "source_server_id": 11572,
+      "source_client_id": 10695,
+      "target_server_id": 26935,
+      "target_client_id": 26050,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\mob-estrelado-20261024\\mask_forge_essence.png",
+      "source_sha256": "F5655501A7D5C34A415916B60C324243E831539AFBE2572F8C040EB6236A8DEB",
+      "image_size": [
+        32,
+        96
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 3,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": 100,
+      "animation_async": false,
+      "sprite_id_count": 3,
+      "sprite_id_range": [
+        293183,
+        293185
+      ],
+      "sprite_hash": "F6E04D7EA8792BDB8E594D90075DDC08"
+    },
+    {
+      "sequence": 3,
+      "source_server_id": 11572,
+      "source_client_id": 10695,
+      "target_server_id": 26936,
+      "target_client_id": 26051,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\mob-estrelado-20261024\\vest_forge_essence.png",
+      "source_sha256": "F5655501A7D5C34A415916B60C324243E831539AFBE2572F8C040EB6236A8DEB",
+      "image_size": [
+        32,
+        96
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 3,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": 100,
+      "animation_async": false,
+      "sprite_id_count": 3,
+      "sprite_id_range": [
+        293186,
+        293188
+      ],
+      "sprite_hash": "F6E04D7EA8792BDB8E594D90075DDC08"
+    },
+    {
+      "sequence": 4,
+      "source_server_id": 11572,
+      "source_client_id": 10695,
+      "target_server_id": 26937,
+      "target_client_id": 26052,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\mob-estrelado-20261024\\legs_forge_essence.png",
+      "source_sha256": "F5655501A7D5C34A415916B60C324243E831539AFBE2572F8C040EB6236A8DEB",
+      "image_size": [
+        32,
+        96
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 3,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": 100,
+      "animation_async": false,
+      "sprite_id_count": 3,
+      "sprite_id_range": [
+        293189,
+        293191
+      ],
+      "sprite_hash": "F6E04D7EA8792BDB8E594D90075DDC08"
+    },
+    {
+      "sequence": 5,
+      "source_server_id": 11572,
+      "source_client_id": 10695,
+      "target_server_id": 26938,
+      "target_client_id": 26053,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\mob-estrelado-20261024\\boots_forge_essence.png",
+      "source_sha256": "F5655501A7D5C34A415916B60C324243E831539AFBE2572F8C040EB6236A8DEB",
+      "image_size": [
+        32,
+        96
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 3,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": 100,
+      "animation_async": false,
+      "sprite_id_count": 3,
+      "sprite_id_range": [
+        293192,
+        293194
+      ],
+      "sprite_hash": "F6E04D7EA8792BDB8E594D90075DDC08"
+    },
+    {
+      "sequence": 6,
+      "source_server_id": 11572,
+      "source_client_id": 10695,
+      "target_server_id": 26939,
+      "target_client_id": 26054,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\mob-estrelado-20261024\\collar_forge_essence.png",
+      "source_sha256": "F5655501A7D5C34A415916B60C324243E831539AFBE2572F8C040EB6236A8DEB",
+      "image_size": [
+        32,
+        96
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 3,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": 100,
+      "animation_async": false,
+      "sprite_id_count": 3,
+      "sprite_id_range": [
+        293195,
+        293197
+      ],
+      "sprite_hash": "F6E04D7EA8792BDB8E594D90075DDC08"
+    },
+    {
+      "sequence": 7,
+      "source_server_id": 11572,
+      "source_client_id": 10695,
+      "target_server_id": 26940,
+      "target_client_id": 26055,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\mob-estrelado-20261024\\ring_forge_essence.png",
+      "source_sha256": "F5655501A7D5C34A415916B60C324243E831539AFBE2572F8C040EB6236A8DEB",
+      "image_size": [
+        32,
+        96
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 3,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": 100,
+      "animation_async": false,
+      "sprite_id_count": 3,
+      "sprite_id_range": [
+        293198,
+        293200
+      ],
+      "sprite_hash": "F6E04D7EA8792BDB8E594D90075DDC08"
+    },
+    {
+      "sequence": 8,
+      "source_server_id": 11572,
+      "source_client_id": 10695,
+      "target_server_id": 26941,
+      "target_client_id": 26056,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\mob-estrelado-20261024\\gloves_forge_essence.png",
+      "source_sha256": "F5655501A7D5C34A415916B60C324243E831539AFBE2572F8C040EB6236A8DEB",
+      "image_size": [
+        32,
+        96
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 3,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": 100,
+      "animation_async": false,
+      "sprite_id_count": 3,
+      "sprite_id_range": [
+        293201,
+        293203
+      ],
+      "sprite_hash": "F6E04D7EA8792BDB8E594D90075DDC08"
+    },
+    {
+      "sequence": 9,
+      "source_server_id": 11572,
+      "source_client_id": 10695,
+      "target_server_id": 26942,
+      "target_client_id": 26057,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\mob-estrelado-20261024\\weapon_forge_essence.png",
+      "source_sha256": "F5655501A7D5C34A415916B60C324243E831539AFBE2572F8C040EB6236A8DEB",
+      "image_size": [
+        32,
+        96
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 3,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": 100,
+      "animation_async": false,
+      "sprite_id_count": 3,
+      "sprite_id_range": [
+        293204,
+        293206
+      ],
+      "sprite_hash": "F6E04D7EA8792BDB8E594D90075DDC08"
+    },
+    {
+      "sequence": 10,
+      "source_server_id": 11572,
+      "source_client_id": 10695,
+      "target_server_id": 26943,
+      "target_client_id": 26058,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\mob-estrelado-20261024\\isha_talisman.png",
+      "source_sha256": "C6CC8185D77FABAB2C605710C318EA28ACFEECBF401B20182F46A0833BFBD387",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        293207,
+        293207
+      ],
+      "sprite_hash": "B6498FBB5BB19C0EFB7D375FF14BB3B7"
+    },
+    {
+      "sequence": 11,
+      "source_server_id": 11572,
+      "source_client_id": 10695,
+      "target_server_id": 26944,
+      "target_client_id": 26059,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\mob-estrelado-20261024\\nin_talisman.png",
+      "source_sha256": "C6CC8185D77FABAB2C605710C318EA28ACFEECBF401B20182F46A0833BFBD387",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        293208,
+        293208
+      ],
+      "sprite_hash": "B6498FBB5BB19C0EFB7D375FF14BB3B7"
+    },
+    {
+      "sequence": 12,
+      "source_server_id": 11572,
+      "source_client_id": 10695,
+      "target_server_id": 26945,
+      "target_client_id": 26060,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\mob-estrelado-20261024\\goju_talisman.png",
+      "source_sha256": "C6CC8185D77FABAB2C605710C318EA28ACFEECBF401B20182F46A0833BFBD387",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        293209,
+        293209
+      ],
+      "sprite_hash": "B6498FBB5BB19C0EFB7D375FF14BB3B7"
+    },
+    {
+      "sequence": 13,
+      "source_server_id": 14609,
+      "source_client_id": 13730,
+      "target_server_id": 26946,
+      "target_client_id": 26061,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\mob-estrelado-20261024\\blood_nami.png",
+      "source_sha256": "30E4412CFF569919F032FB2D6E71FEFC999EFF14033CCFBD4804CD26E8C955A0",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        293210,
+        293210
+      ],
+      "sprite_hash": "98BF2F3D34041E88DFB3D79D964E8FD6"
+    },
+    {
+      "sequence": 14,
+      "source_server_id": 7636,
+      "source_client_id": 285,
+      "target_server_id": 26947,
+      "target_client_id": 26062,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\mob-estrelado-20261024\\project_exp_20.png",
+      "source_sha256": "DDA907D5E55E2E5560559654D1B1B6738BB35348CC77F4AD5A02A27BB7EACA0F",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        293211,
+        293211
+      ],
+      "sprite_hash": "FFE00EB6BBAEA98EE8384EAA4A8BFE4E"
+    },
+    {
+      "sequence": 15,
+      "source_server_id": 7636,
+      "source_client_id": 285,
+      "target_server_id": 26948,
+      "target_client_id": 26063,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\mob-estrelado-20261024\\project_exp_30.png",
+      "source_sha256": "DDA907D5E55E2E5560559654D1B1B6738BB35348CC77F4AD5A02A27BB7EACA0F",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        293212,
+        293212
+      ],
+      "sprite_hash": "FFE00EB6BBAEA98EE8384EAA4A8BFE4E"
+    }
+  ],
+  "xml": {
+    "source_definitions": 3,
+    "target_definitions_written": 15,
+    "target_definitions_already_exact": 0,
+    "target_ids": [
+      26934,
+      26935,
+      26936,
+      26937,
+      26938,
+      26939,
+      26940,
+      26941,
+      26942,
+      26943,
+      26944,
+      26945,
+      26946,
+      26947,
+      26948
+    ]
+  },
+  "map_scan": {
+    "tiles_scanned": 7824286,
+    "item_nodes_scanned": 2105107
+  },
+  "version_backup": {
+    "tool_version": "0.8.2",
+    "version_id": "20261024-120108-531166",
+    "created_at": "2026-10-24T12:01:19.791065-03:00",
+    "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261024-120108-531166",
+    "rar_executable": "C:\\Program Files\\WinRAR\\Rar.exe",
+    "sources": [
+      {
+        "path": "assets/860/.gitattributes",
+        "size": 43,
+        "sha256": "D5636A3257287440945C5E017581545E5B0A3E2FDDDAE7C5EF8D90FF4DF3D32A"
+      },
+      {
+        "path": "assets/860/Tibia.dat",
+        "size": 4605629,
+        "sha256": "46A4BDF47B21D00AA78AE3A4E081D6CE4ED6CFA113156B47CBC6378EBAC9E5A1"
+      },
+      {
+        "path": "assets/860/Tibia.otfi",
+        "size": 185,
+        "sha256": "7743548835944BC799CB871A4E5DEF84F7AF76815031871B9CE74B5EC0E8ADD3"
+      },
+      {
+        "path": "assets/860/Tibia.spr",
+        "size": 503800721,
+        "sha256": "BC6DDA10D8192E1EEF177CCAF9BE6A7E78DFB80D191C29899DE31A1BD8284AAC"
+      },
+      {
+        "path": "assets/items/force use.txt",
+        "size": 419,
+        "sha256": "BCB478FDF3F45ECA8D172AFD7A17D3F8CD520924EE0894752452B8FDC8F71959"
+      },
+      {
+        "path": "assets/items/items.otb",
+        "size": 1068273,
+        "sha256": "6C7C41987403BDFD6E7155294901D519F7CB73B29D7DB5D1D3BBF847394BC563"
+      },
+      {
+        "path": "assets/world/mapanovo.otbm",
+        "size": 80105775,
+        "sha256": "AC32C669BED3512D69AE054CAFC8564A236C9894B22BBC9A0E9D7ACAEFAD5512"
+      }
+    ],
+    "archives": {
+      "860": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261024-120108-531166\\860.rar",
+        "size": 90165456,
+        "sha256": "149FA70DDE7EA781C93633E588E7E3A1CD5B8522C26ACF2356A3774C0B3FD92A"
+      },
+      "items": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261024-120108-531166\\items.rar",
+        "size": 512344,
+        "sha256": "3A21673F03F8A50E698DF66F8F30C640101EBEA3F641BC8A6C0951563691E248"
+      },
+      "world": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261024-120108-531166\\world.zip",
+        "size": 19337404,
+        "sha256": "92E3613FFE42E15A419DD4A8A0F86A4570AEE5F031A4589F7010C4804EED8E7D"
+      }
+    },
+    "items_xml_excluded": true,
+    "world_entries": [
+      "mapanovo.otbm"
+    ],
+    "passed": true
+  },
+  "transaction_committed": true,
+  "old_dat_records_preserved": true,
+  "old_otb_nodes_preserved": true,
+  "old_sprite_payload_preserved": true,
+  "new_sprite_pixels_verified": true,
+  "final_validation_passed": true,
+  "warnings": [],
+  "errors": [],
+  "passed": true
+}

@@ -1,0 +1,17 @@
+[
+  {
+    "operation": "import-cloned-items (new contiguous IDs)",
+    "name": "Fast Pill",
+    "purpose": "Counter to Starred Freezing Pounce: remove only its own slow sub-ID; no extra stats or immunity",
+    "source_server_id": 11563,
+    "source_client_id": 10686,
+    "server_id": 26955,
+    "client_id": 26070,
+    "png": "fast_pill.png",
+    "width": 32,
+    "height": 32,
+    "frames": 1,
+    "properties": "Clone all DAT/OTB properties unchanged from Simple Life Potion. Placeholder PNG preserved exactly. XML name/description changed only for new SID.",
+    "decision": "No existing Fast Pill ID supplied after optional clarification; provisional consumable follows the PDF counter requirement."
+  }
+]

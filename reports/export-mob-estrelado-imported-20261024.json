@@ -1,0 +1,392 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "profile": {
+    "key": "tibia-860-v2-custom-extended",
+    "client_version": 860,
+    "label": "Tibia 8.60 v2 customizado com features OTFI",
+    "dat_signature": "0x4C2C7993",
+    "spr_signature": "0x4C220594",
+    "metadata_reader": 5,
+    "otb_version_hint": "8.60"
+  },
+  "category": "items",
+  "id_kind": "server",
+  "requested_ids": [
+    26934,
+    26935,
+    26936,
+    26937,
+    26938,
+    26939,
+    26940,
+    26941,
+    26942,
+    26943,
+    26944,
+    26945,
+    26946,
+    26947,
+    26948
+  ],
+  "output_dir": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\mob-estrelado-imported",
+  "exported_count": 15,
+  "exported": [
+    {
+      "requested_id": 26934,
+      "client_id": 26049,
+      "server_ids": [
+        26934
+      ],
+      "name": "Scrap Cloth",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        293182
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\mob-estrelado-imported\\server-26934_client-26049_scrap-cloth.png",
+      "size": 388,
+      "sha256": "779B03136FC3F45FC94588CA6C2BC13DD566F72C2D6DF122C93D264240ECCBA3"
+    },
+    {
+      "requested_id": 26935,
+      "client_id": 26050,
+      "server_ids": [
+        26935
+      ],
+      "name": "Mask Forge Essence",
+      "group_index": 0,
+      "width": 32,
+      "height": 96,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 3,
+      "sprite_ids": [
+        293183,
+        293184,
+        293185
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\mob-estrelado-imported\\server-26935_client-26050_mask-forge-essence.png",
+      "size": 1056,
+      "sha256": "F5655501A7D5C34A415916B60C324243E831539AFBE2572F8C040EB6236A8DEB"
+    },
+    {
+      "requested_id": 26936,
+      "client_id": 26051,
+      "server_ids": [
+        26936
+      ],
+      "name": "Vest Forge Essence",
+      "group_index": 0,
+      "width": 32,
+      "height": 96,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 3,
+      "sprite_ids": [
+        293186,
+        293187,
+        293188
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\mob-estrelado-imported\\server-26936_client-26051_vest-forge-essence.png",
+      "size": 1056,
+      "sha256": "F5655501A7D5C34A415916B60C324243E831539AFBE2572F8C040EB6236A8DEB"
+    },
+    {
+      "requested_id": 26937,
+      "client_id": 26052,
+      "server_ids": [
+        26937
+      ],
+      "name": "Legs Forge Essence",
+      "group_index": 0,
+      "width": 32,
+      "height": 96,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 3,
+      "sprite_ids": [
+        293189,
+        293190,
+        293191
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\mob-estrelado-imported\\server-26937_client-26052_legs-forge-essence.png",
+      "size": 1056,
+      "sha256": "F5655501A7D5C34A415916B60C324243E831539AFBE2572F8C040EB6236A8DEB"
+    },
+    {
+      "requested_id": 26938,
+      "client_id": 26053,
+      "server_ids": [
+        26938
+      ],
+      "name": "Boots Forge Essence",
+      "group_index": 0,
+      "width": 32,
+      "height": 96,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 3,
+      "sprite_ids": [
+        293192,
+        293193,
+        293194
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\mob-estrelado-imported\\server-26938_client-26053_boots-forge-essence.png",
+      "size": 1056,
+      "sha256": "F5655501A7D5C34A415916B60C324243E831539AFBE2572F8C040EB6236A8DEB"
+    },
+    {
+      "requested_id": 26939,
+      "client_id": 26054,
+      "server_ids": [
+        26939
+      ],
+      "name": "Collar Forge Essence",
+      "group_index": 0,
+      "width": 32,
+      "height": 96,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 3,
+      "sprite_ids": [
+        293195,
+        293196,
+        293197
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\mob-estrelado-imported\\server-26939_client-26054_collar-forge-essence.png",
+      "size": 1056,
+      "sha256": "F5655501A7D5C34A415916B60C324243E831539AFBE2572F8C040EB6236A8DEB"
+    },
+    {
+      "requested_id": 26940,
+      "client_id": 26055,
+      "server_ids": [
+        26940
+      ],
+      "name": "Ring Forge Essence",
+      "group_index": 0,
+      "width": 32,
+      "height": 96,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 3,
+      "sprite_ids": [
+        293198,
+        293199,
+        293200
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\mob-estrelado-imported\\server-26940_client-26055_ring-forge-essence.png",
+      "size": 1056,
+      "sha256": "F5655501A7D5C34A415916B60C324243E831539AFBE2572F8C040EB6236A8DEB"
+    },
+    {
+      "requested_id": 26941,
+      "client_id": 26056,
+      "server_ids": [
+        26941
+      ],
+      "name": "Gloves Forge Essence",
+      "group_index": 0,
+      "width": 32,
+      "height": 96,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 3,
+      "sprite_ids": [
+        293201,
+        293202,
+        293203
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\mob-estrelado-imported\\server-26941_client-26056_gloves-forge-essence.png",
+      "size": 1056,
+      "sha256": "F5655501A7D5C34A415916B60C324243E831539AFBE2572F8C040EB6236A8DEB"
+    },
+    {
+      "requested_id": 26942,
+      "client_id": 26057,
+      "server_ids": [
+        26942
+      ],
+      "name": "Weapon Forge Essence",
+      "group_index": 0,
+      "width": 32,
+      "height": 96,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 3,
+      "sprite_ids": [
+        293204,
+        293205,
+        293206
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\mob-estrelado-imported\\server-26942_client-26057_weapon-forge-essence.png",
+      "size": 1056,
+      "sha256": "F5655501A7D5C34A415916B60C324243E831539AFBE2572F8C040EB6236A8DEB"
+    },
+    {
+      "requested_id": 26943,
+      "client_id": 26058,
+      "server_ids": [
+        26943
+      ],
+      "name": "Isha Talisman",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        293207
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\mob-estrelado-imported\\server-26943_client-26058_isha-talisman.png",
+      "size": 397,
+      "sha256": "C6CC8185D77FABAB2C605710C318EA28ACFEECBF401B20182F46A0833BFBD387"
+    },
+    {
+      "requested_id": 26944,
+      "client_id": 26059,
+      "server_ids": [
+        26944
+      ],
+      "name": "Nin Talisman",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        293208
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\mob-estrelado-imported\\server-26944_client-26059_nin-talisman.png",
+      "size": 397,
+      "sha256": "C6CC8185D77FABAB2C605710C318EA28ACFEECBF401B20182F46A0833BFBD387"
+    },
+    {
+      "requested_id": 26945,
+      "client_id": 26060,
+      "server_ids": [
+        26945
+      ],
+      "name": "Goju Talisman",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        293209
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\mob-estrelado-imported\\server-26945_client-26060_goju-talisman.png",
+      "size": 397,
+      "sha256": "C6CC8185D77FABAB2C605710C318EA28ACFEECBF401B20182F46A0833BFBD387"
+    },
+    {
+      "requested_id": 26946,
+      "client_id": 26061,
+      "server_ids": [
+        26946
+      ],
+      "name": "Blood Nami no Kuni",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        293210
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\mob-estrelado-imported\\server-26946_client-26061_blood-nami-no-kuni.png",
+      "size": 440,
+      "sha256": "30E4412CFF569919F032FB2D6E71FEFC999EFF14033CCFBD4804CD26E8C955A0"
+    },
+    {
+      "requested_id": 26947,
+      "client_id": 26062,
+      "server_ids": [
+        26947
+      ],
+      "name": "Project EXP Potion 20%",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        293211
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\mob-estrelado-imported\\server-26947_client-26062_project-exp-potion-20.png",
+      "size": 416,
+      "sha256": "DDA907D5E55E2E5560559654D1B1B6738BB35348CC77F4AD5A02A27BB7EACA0F"
+    },
+    {
+      "requested_id": 26948,
+      "client_id": 26063,
+      "server_ids": [
+        26948
+      ],
+      "name": "Project EXP Potion 30%",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        293212
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\mob-estrelado-imported\\server-26948_client-26063_project-exp-potion-30.png",
+      "size": 416,
+      "sha256": "DDA907D5E55E2E5560559654D1B1B6738BB35348CC77F4AD5A02A27BB7EACA0F"
+    }
+  ],
+  "sources": {
+    "dat": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.dat",
+      "sha256": "0A93787F3A6C83910F14BDA39D3E8A70848599B79F8EFA55E7753E5859EE280D"
+    },
+    "spr": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.spr",
+      "sha256": "0118821078B006C7F1A3953AEC36B298207E4CF7928ABF7C0AD2E54B8D204010"
+    }
+  },
+  "passed": true
+}

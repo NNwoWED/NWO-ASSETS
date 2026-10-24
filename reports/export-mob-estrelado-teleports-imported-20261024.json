@@ -1,0 +1,169 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "profile": {
+    "key": "tibia-860-v2-custom-extended",
+    "client_version": 860,
+    "label": "Tibia 8.60 v2 customizado com features OTFI",
+    "dat_signature": "0x4C2C7993",
+    "spr_signature": "0x4C220594",
+    "metadata_reader": 5,
+    "otb_version_hint": "8.60"
+  },
+  "category": "items",
+  "id_kind": "server",
+  "requested_ids": [
+    26949,
+    26950,
+    26951,
+    26952,
+    26953,
+    26954
+  ],
+  "output_dir": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\mob-estrelado-teleports-imported",
+  "exported_count": 6,
+  "exported": [
+    {
+      "requested_id": 26949,
+      "client_id": 26064,
+      "server_ids": [
+        26949
+      ],
+      "name": "Teleport Scroll Konoha",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        293213
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\mob-estrelado-teleports-imported\\server-26949_client-26064_teleport-scroll-konoha.png",
+      "size": 526,
+      "sha256": "A101A582C5D29B6B2AFA40E71FE2C1B18B50D7540EB89747142833381A18750C"
+    },
+    {
+      "requested_id": 26950,
+      "client_id": 26065,
+      "server_ids": [
+        26950
+      ],
+      "name": "Teleport Scroll Sunagakure",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        293214
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\mob-estrelado-teleports-imported\\server-26950_client-26065_teleport-scroll-sunagakure.png",
+      "size": 526,
+      "sha256": "A101A582C5D29B6B2AFA40E71FE2C1B18B50D7540EB89747142833381A18750C"
+    },
+    {
+      "requested_id": 26951,
+      "client_id": 26066,
+      "server_ids": [
+        26951
+      ],
+      "name": "Teleport Scroll Iwagakure",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        293215
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\mob-estrelado-teleports-imported\\server-26951_client-26066_teleport-scroll-iwagakure.png",
+      "size": 526,
+      "sha256": "A101A582C5D29B6B2AFA40E71FE2C1B18B50D7540EB89747142833381A18750C"
+    },
+    {
+      "requested_id": 26952,
+      "client_id": 26067,
+      "server_ids": [
+        26952
+      ],
+      "name": "Teleport Scroll Kumogakure",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        293216
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\mob-estrelado-teleports-imported\\server-26952_client-26067_teleport-scroll-kumogakure.png",
+      "size": 526,
+      "sha256": "A101A582C5D29B6B2AFA40E71FE2C1B18B50D7540EB89747142833381A18750C"
+    },
+    {
+      "requested_id": 26953,
+      "client_id": 26068,
+      "server_ids": [
+        26953
+      ],
+      "name": "Teleport Scroll Kirigakure",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        293217
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\mob-estrelado-teleports-imported\\server-26953_client-26068_teleport-scroll-kirigakure.png",
+      "size": 526,
+      "sha256": "A101A582C5D29B6B2AFA40E71FE2C1B18B50D7540EB89747142833381A18750C"
+    },
+    {
+      "requested_id": 26954,
+      "client_id": 26069,
+      "server_ids": [
+        26954
+      ],
+      "name": "Teleport Scroll Nami no Kuni",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        293218
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\mob-estrelado-teleports-imported\\server-26954_client-26069_teleport-scroll-nami-no-kuni.png",
+      "size": 526,
+      "sha256": "A101A582C5D29B6B2AFA40E71FE2C1B18B50D7540EB89747142833381A18750C"
+    }
+  ],
+  "sources": {
+    "dat": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.dat",
+      "sha256": "6B6DC4CBE315E7F6C1CF89F7E9534A764B2F70DAEC4DA6E168D3F14793462C7E"
+    },
+    "spr": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.spr",
+      "sha256": "909C7169CF6EE80AAA20CC6868DB75D13EE93FD5865AF16A361F416EEF5D7DD8"
+    }
+  },
+  "passed": true
+}

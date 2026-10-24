@@ -1,0 +1,219 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "manifest": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\mob-estrelado-teleports-20261024\\manifest.csv",
+  "item_count": 6,
+  "target_server_id_range": [
+    26949,
+    26954
+  ],
+  "target_client_id_range": [
+    26064,
+    26069
+  ],
+  "new_sprite_count": 6,
+  "sprite_id_range": [
+    293213,
+    293218
+  ],
+  "items": [
+    {
+      "sequence": 1,
+      "source_server_id": 14471,
+      "source_client_id": 13594,
+      "target_server_id": 26949,
+      "target_client_id": 26064,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\mob-estrelado-teleports-20261024\\teleport_scroll_konoha.png",
+      "source_sha256": "A101A582C5D29B6B2AFA40E71FE2C1B18B50D7540EB89747142833381A18750C",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        293213,
+        293213
+      ],
+      "sprite_hash": "CB7FC044D1EE8A4C762E342957A71428"
+    },
+    {
+      "sequence": 2,
+      "source_server_id": 14471,
+      "source_client_id": 13594,
+      "target_server_id": 26950,
+      "target_client_id": 26065,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\mob-estrelado-teleports-20261024\\teleport_scroll_suna.png",
+      "source_sha256": "A101A582C5D29B6B2AFA40E71FE2C1B18B50D7540EB89747142833381A18750C",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        293214,
+        293214
+      ],
+      "sprite_hash": "CB7FC044D1EE8A4C762E342957A71428"
+    },
+    {
+      "sequence": 3,
+      "source_server_id": 14471,
+      "source_client_id": 13594,
+      "target_server_id": 26951,
+      "target_client_id": 26066,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\mob-estrelado-teleports-20261024\\teleport_scroll_iwa.png",
+      "source_sha256": "A101A582C5D29B6B2AFA40E71FE2C1B18B50D7540EB89747142833381A18750C",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        293215,
+        293215
+      ],
+      "sprite_hash": "CB7FC044D1EE8A4C762E342957A71428"
+    },
+    {
+      "sequence": 4,
+      "source_server_id": 14471,
+      "source_client_id": 13594,
+      "target_server_id": 26952,
+      "target_client_id": 26067,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\mob-estrelado-teleports-20261024\\teleport_scroll_kumo.png",
+      "source_sha256": "A101A582C5D29B6B2AFA40E71FE2C1B18B50D7540EB89747142833381A18750C",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        293216,
+        293216
+      ],
+      "sprite_hash": "CB7FC044D1EE8A4C762E342957A71428"
+    },
+    {
+      "sequence": 5,
+      "source_server_id": 14471,
+      "source_client_id": 13594,
+      "target_server_id": 26953,
+      "target_client_id": 26068,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\mob-estrelado-teleports-20261024\\teleport_scroll_kiri.png",
+      "source_sha256": "A101A582C5D29B6B2AFA40E71FE2C1B18B50D7540EB89747142833381A18750C",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        293217,
+        293217
+      ],
+      "sprite_hash": "CB7FC044D1EE8A4C762E342957A71428"
+    },
+    {
+      "sequence": 6,
+      "source_server_id": 14471,
+      "source_client_id": 13594,
+      "target_server_id": 26954,
+      "target_client_id": 26069,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\mob-estrelado-teleports-20261024\\teleport_scroll_nami.png",
+      "source_sha256": "A101A582C5D29B6B2AFA40E71FE2C1B18B50D7540EB89747142833381A18750C",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        293218,
+        293218
+      ],
+      "sprite_hash": "CB7FC044D1EE8A4C762E342957A71428"
+    }
+  ],
+  "xml": {
+    "source_definitions": 1,
+    "target_definitions_written": 6,
+    "target_definitions_already_exact": 0,
+    "target_ids": [
+      26949,
+      26950,
+      26951,
+      26952,
+      26953,
+      26954
+    ]
+  },
+  "map_scan": {
+    "tiles_scanned": 7824286,
+    "item_nodes_scanned": 2105107
+  },
+  "dry_run": true,
+  "passed": true
+}

@@ -1,0 +1,292 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "manifest": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\mob-estrelado-teleports-20261024\\manifest.csv",
+  "item_count": 6,
+  "target_server_id_range": [
+    26949,
+    26954
+  ],
+  "target_client_id_range": [
+    26064,
+    26069
+  ],
+  "new_sprite_count": 6,
+  "sprite_id_range": [
+    293213,
+    293218
+  ],
+  "items": [
+    {
+      "sequence": 1,
+      "source_server_id": 14471,
+      "source_client_id": 13594,
+      "target_server_id": 26949,
+      "target_client_id": 26064,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\mob-estrelado-teleports-20261024\\teleport_scroll_konoha.png",
+      "source_sha256": "A101A582C5D29B6B2AFA40E71FE2C1B18B50D7540EB89747142833381A18750C",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        293213,
+        293213
+      ],
+      "sprite_hash": "CB7FC044D1EE8A4C762E342957A71428"
+    },
+    {
+      "sequence": 2,
+      "source_server_id": 14471,
+      "source_client_id": 13594,
+      "target_server_id": 26950,
+      "target_client_id": 26065,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\mob-estrelado-teleports-20261024\\teleport_scroll_suna.png",
+      "source_sha256": "A101A582C5D29B6B2AFA40E71FE2C1B18B50D7540EB89747142833381A18750C",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        293214,
+        293214
+      ],
+      "sprite_hash": "CB7FC044D1EE8A4C762E342957A71428"
+    },
+    {
+      "sequence": 3,
+      "source_server_id": 14471,
+      "source_client_id": 13594,
+      "target_server_id": 26951,
+      "target_client_id": 26066,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\mob-estrelado-teleports-20261024\\teleport_scroll_iwa.png",
+      "source_sha256": "A101A582C5D29B6B2AFA40E71FE2C1B18B50D7540EB89747142833381A18750C",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        293215,
+        293215
+      ],
+      "sprite_hash": "CB7FC044D1EE8A4C762E342957A71428"
+    },
+    {
+      "sequence": 4,
+      "source_server_id": 14471,
+      "source_client_id": 13594,
+      "target_server_id": 26952,
+      "target_client_id": 26067,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\mob-estrelado-teleports-20261024\\teleport_scroll_kumo.png",
+      "source_sha256": "A101A582C5D29B6B2AFA40E71FE2C1B18B50D7540EB89747142833381A18750C",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        293216,
+        293216
+      ],
+      "sprite_hash": "CB7FC044D1EE8A4C762E342957A71428"
+    },
+    {
+      "sequence": 5,
+      "source_server_id": 14471,
+      "source_client_id": 13594,
+      "target_server_id": 26953,
+      "target_client_id": 26068,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\mob-estrelado-teleports-20261024\\teleport_scroll_kiri.png",
+      "source_sha256": "A101A582C5D29B6B2AFA40E71FE2C1B18B50D7540EB89747142833381A18750C",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        293217,
+        293217
+      ],
+      "sprite_hash": "CB7FC044D1EE8A4C762E342957A71428"
+    },
+    {
+      "sequence": 6,
+      "source_server_id": 14471,
+      "source_client_id": 13594,
+      "target_server_id": 26954,
+      "target_client_id": 26069,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\mob-estrelado-teleports-20261024\\teleport_scroll_nami.png",
+      "source_sha256": "A101A582C5D29B6B2AFA40E71FE2C1B18B50D7540EB89747142833381A18750C",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        293218,
+        293218
+      ],
+      "sprite_hash": "CB7FC044D1EE8A4C762E342957A71428"
+    }
+  ],
+  "xml": {
+    "source_definitions": 1,
+    "target_definitions_written": 6,
+    "target_definitions_already_exact": 0,
+    "target_ids": [
+      26949,
+      26950,
+      26951,
+      26952,
+      26953,
+      26954
+    ]
+  },
+  "map_scan": {
+    "tiles_scanned": 7824286,
+    "item_nodes_scanned": 2105107
+  },
+  "version_backup": {
+    "tool_version": "0.8.2",
+    "version_id": "20261024-140224-859709",
+    "created_at": "2026-10-24T14:02:36.038733-03:00",
+    "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261024-140224-859709",
+    "rar_executable": "C:\\Program Files\\WinRAR\\Rar.exe",
+    "sources": [
+      {
+        "path": "assets/860/.gitattributes",
+        "size": 43,
+        "sha256": "D5636A3257287440945C5E017581545E5B0A3E2FDDDAE7C5EF8D90FF4DF3D32A"
+      },
+      {
+        "path": "assets/860/Tibia.dat",
+        "size": 4606141,
+        "sha256": "0A93787F3A6C83910F14BDA39D3E8A70848599B79F8EFA55E7753E5859EE280D"
+      },
+      {
+        "path": "assets/860/Tibia.otfi",
+        "size": 185,
+        "sha256": "7743548835944BC799CB871A4E5DEF84F7AF76815031871B9CE74B5EC0E8ADD3"
+      },
+      {
+        "path": "assets/860/Tibia.spr",
+        "size": 503826360,
+        "sha256": "0118821078B006C7F1A3953AEC36B298207E4CF7928ABF7C0AD2E54B8D204010"
+      },
+      {
+        "path": "assets/items/force use.txt",
+        "size": 419,
+        "sha256": "BCB478FDF3F45ECA8D172AFD7A17D3F8CD520924EE0894752452B8FDC8F71959"
+      },
+      {
+        "path": "assets/items/items.otb",
+        "size": 1068817,
+        "sha256": "7FCD6B7572537CCDDB970755983BFA154CE7BF5F1F52DA7CCA2C91E196F5D237"
+      },
+      {
+        "path": "assets/world/mapanovo.otbm",
+        "size": 80105775,
+        "sha256": "AC32C669BED3512D69AE054CAFC8564A236C9894B22BBC9A0E9D7ACAEFAD5512"
+      }
+    ],
+    "archives": {
+      "860": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261024-140224-859709\\860.rar",
+        "size": 90076546,
+        "sha256": "D534E7CE6E38DA391D19928C246933461D9DA72544014FF6311031A399A25F12"
+      },
+      "items": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261024-140224-859709\\items.rar",
+        "size": 512435,
+        "sha256": "F8BC6E37D411FAFC5EED259B427AAF2BDED41AED6248CD74BA66B8B81773E1AC"
+      },
+      "world": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261024-140224-859709\\world.zip",
+        "size": 19337404,
+        "sha256": "92E3613FFE42E15A419DD4A8A0F86A4570AEE5F031A4589F7010C4804EED8E7D"
+      }
+    },
+    "items_xml_excluded": true,
+    "world_entries": [
+      "mapanovo.otbm"
+    ],
+    "passed": true
+  },
+  "transaction_committed": true,
+  "old_dat_records_preserved": true,
+  "old_otb_nodes_preserved": true,
+  "old_sprite_payload_preserved": true,
+  "new_sprite_pixels_verified": true,
+  "final_validation_passed": true,
+  "warnings": [],
+  "errors": [],
+  "passed": true
+}
