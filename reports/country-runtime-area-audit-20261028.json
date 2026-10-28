@@ -1,0 +1,23 @@
+{
+  "map": "assets\\world\\mapanovo.otbm",
+  "nodes": 10251900,
+  "balanced": true,
+  "item_node_candidate_hits": {
+    "45324": 0,
+    "45325": 0,
+    "45326": 0
+  },
+  "tile_bounds": {
+    "minx": 18,
+    "miny": 0,
+    "maxx": 2991,
+    "maxy": 2995
+  },
+  "seconds": 28.05,
+  "runtime_area_origin_min": [
+    40000,
+    40000,
+    15
+  ],
+  "otbm_modified": false
+}

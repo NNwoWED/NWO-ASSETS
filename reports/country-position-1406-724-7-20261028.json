@@ -1,0 +1,117 @@
+{
+  "map": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\world\\mapanovo.otbm",
+  "position": {
+    "x": 1406,
+    "y": 724,
+    "z": 7
+  },
+  "found": true,
+  "items": [
+    {
+      "server_id": 103,
+      "nested_depth": 0,
+      "stack_position": 1,
+      "stack_position_zero_based": 0,
+      "client_id": 103,
+      "otb_group": 1,
+      "otb_flags_mask": "0x02000000",
+      "otb_flags": [
+        "walk_stack"
+      ],
+      "dat_flags": [
+        "ground",
+        "unmoveable",
+        "mini_map",
+        "full_ground"
+      ]
+    },
+    {
+      "server_id": 4545,
+      "nested_depth": 0,
+      "stack_position": 2,
+      "stack_position_zero_based": 1,
+      "client_id": 4534,
+      "otb_group": 0,
+      "otb_flags_mask": "0x00002000",
+      "otb_flags": [
+        "always_on_top"
+      ],
+      "dat_flags": [
+        "ground_border",
+        "unmoveable"
+      ]
+    },
+    {
+      "server_id": 4542,
+      "nested_depth": 0,
+      "stack_position": 3,
+      "stack_position_zero_based": 2,
+      "client_id": 4531,
+      "otb_group": 0,
+      "otb_flags_mask": "0x00002000",
+      "otb_flags": [
+        "always_on_top"
+      ],
+      "dat_flags": [
+        "ground_border",
+        "unmoveable"
+      ]
+    },
+    {
+      "server_id": 4543,
+      "nested_depth": 0,
+      "stack_position": 4,
+      "stack_position_zero_based": 3,
+      "client_id": 4532,
+      "otb_group": 0,
+      "otb_flags_mask": "0x00002000",
+      "otb_flags": [
+        "always_on_top"
+      ],
+      "dat_flags": [
+        "ground_border",
+        "unmoveable"
+      ]
+    },
+    {
+      "server_id": 4544,
+      "nested_depth": 0,
+      "stack_position": 5,
+      "stack_position_zero_based": 4,
+      "client_id": 4533,
+      "otb_group": 0,
+      "otb_flags_mask": "0x00002000",
+      "otb_flags": [
+        "always_on_top"
+      ],
+      "dat_flags": [
+        "ground_border",
+        "unmoveable"
+      ]
+    },
+    {
+      "server_id": 17437,
+      "nested_depth": 0,
+      "stack_position": 6,
+      "stack_position_zero_based": 5,
+      "client_id": 16552,
+      "otb_group": 0,
+      "otb_flags_mask": "0x00002000",
+      "otb_flags": [
+        "always_on_top"
+      ],
+      "dat_flags": [
+        "ground_border",
+        "unmoveable"
+      ]
+    }
+  ],
+  "tile_areas_examined": 114053,
+  "matching_tile_areas": 2417,
+  "tiles_examined": 55161,
+  "node_type": "tile",
+  "house_id": null,
+  "tile_flags": "0x00000000",
+  "passed": true,
+  "errors": []
+}

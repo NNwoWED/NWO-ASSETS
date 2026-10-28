@@ -167,3 +167,10 @@
 - Entrega movida para mob-estrelado. sync-runtime aceita --client-root para sincronizar DAT/SPR/OTML e860.rar no worktree correto. Destinos de servidor/RME/mobile/NWO-STUDIO e garantias anteriores preservados.
 - restore-client-runtime restaura somente o checkout PC indicado pelo seu RAR anterior, exigindo hashes DAT/SPR de versao validada, inventario seguro, teste do RAR e troca com rollback. Recuperacao nao e apagada quando ocorre falha. Baseline canonica permanece intacta.
 - Doze testes aprovados; ajuste anterior dos Guizos mantido fora do commit do mob-estrelado. Versoes imutaveis de assets anteriores preservadas.
+
+## 28/10/2026 - Placeholders das miss?es por pa?s (mob-estrelado)
+
+- Adicionados 25 itens, Server IDs 26956-26980 / Client IDs 26071-26095, a partir de PNGs exportados do cat?logo can?nico; nomes, finalidades, fontes e dimens?es em `importados/country-missions-20261028/plan.json` e nos documentos do servidor. Apar?ncias provis?rias, sem gera??o art?stica.
+- `import-cloned-items` executado primeiro em dry-run profundo; backup autom?tico completo criado e testado antes da escrita. Registros antigos DAT/OTB, payload SPR e mapa preservados; novos pixels e SpriteHash verificados.
+- Valida??o profunda final sem erros; sincroniza??o oficial aprovada para servidor, RME, mobile, NWO-STUDIO e worktree PC `build/mob-estrelado`, com hashes e RARs testados. Entradas e manifesto arquivados em `importados/country-missions-20261028/`.
+- Relat?rios: `reports/import-country-missions-20261028.json`, `reports/validation-country-missions-20261028.json`, `reports/sync-country-missions-20261028.json`. Mec?nicas das miss?es ainda em desenvolvimento; este lote entrega somente os assets provis?rios.

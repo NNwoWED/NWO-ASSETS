@@ -1,0 +1,171 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "profile": {
+    "key": "tibia-860-v2-custom-extended",
+    "client_version": 860,
+    "label": "Tibia 8.60 v2 customizado com features OTFI",
+    "dat_signature": "0x4C2C7993",
+    "spr_signature": "0x4C220594",
+    "metadata_reader": 5,
+    "otb_version_hint": "8.60"
+  },
+  "category": "items",
+  "id_kind": "server",
+  "requested_ids": [
+    1229,
+    424,
+    1025,
+    1026
+  ],
+  "output_dir": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items",
+  "exported_count": 4,
+  "exported": [
+    {
+      "requested_id": 1229,
+      "client_id": 1648,
+      "server_ids": [
+        1229
+      ],
+      "name": "Gate of expertise",
+      "group_index": 0,
+      "width": 128,
+      "height": 64,
+      "layers": 2,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        30289,
+        30290,
+        30291,
+        30292,
+        1603,
+        1602,
+        0,
+        0
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-1229_client-1648_gate-of-expertise.png",
+      "size": 1088,
+      "sha256": "9ACD14C5B472FDDE2D530C8FDDA5B46C1AEEFE13830AE04CC6F3807FAAC692D0"
+    },
+    {
+      "requested_id": 424,
+      "client_id": 429,
+      "server_ids": [
+        424
+      ],
+      "name": "Stone tile",
+      "group_index": 0,
+      "width": 192,
+      "height": 192,
+      "layers": 1,
+      "pattern_x": 6,
+      "pattern_y": 6,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        69148,
+        79951,
+        79952,
+        79958,
+        79955,
+        69153,
+        79956,
+        79959,
+        79960,
+        79961,
+        79962,
+        69159,
+        79953,
+        79963,
+        79964,
+        79965,
+        79966,
+        69165,
+        69166,
+        79967,
+        79968,
+        79969,
+        79970,
+        69171,
+        79971,
+        79972,
+        79954,
+        79973,
+        79974,
+        79975,
+        79976,
+        79977,
+        79978,
+        79957,
+        79979,
+        79980
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-424_client-429_stone-tile.png",
+      "size": 42356,
+      "sha256": "006922D276380E4C98B18AC1DC083A94C69D5E22D1FF25E940AA5B20CF92E11D"
+    },
+    {
+      "requested_id": 1025,
+      "client_id": 1270,
+      "server_ids": [
+        1025
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        65995,
+        65996,
+        65997,
+        65921
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-1025_client-1270.png",
+      "size": 1427,
+      "sha256": "1BDD6DF1DAA08B8E2F36E75F9BFE36C65062B84D91C4DA9227AD9E090B8F2D6E"
+    },
+    {
+      "requested_id": 1026,
+      "client_id": 1271,
+      "server_ids": [
+        1026
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        65998,
+        65999,
+        66000,
+        65920
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-1026_client-1271.png",
+      "size": 1257,
+      "sha256": "A952BE69B612717D71EBCF399157B90C370685E16A7B9D7EC37A1BFE366C1890"
+    }
+  ],
+  "sources": {
+    "dat": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.dat",
+      "sha256": "B17150B4E978713719B9BB23DD80AE9C122C6499965697A8C83B92376CD28C32"
+    },
+    "spr": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.spr",
+      "sha256": "AF5D87EFE5CCC625DEA183B610E044EA578C4483B103314FEF999923AA04F67F"
+    }
+  },
+  "passed": true
+}

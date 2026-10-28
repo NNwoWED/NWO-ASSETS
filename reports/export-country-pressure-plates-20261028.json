@@ -1,0 +1,135 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "profile": {
+    "key": "tibia-860-v2-custom-extended",
+    "client_version": 860,
+    "label": "Tibia 8.60 v2 customizado com features OTFI",
+    "dat_signature": "0x4C2C7993",
+    "spr_signature": "0x4C220594",
+    "metadata_reader": 5,
+    "otb_version_hint": "8.60"
+  },
+  "category": "items",
+  "id_kind": "server",
+  "requested_ids": [
+    426,
+    430,
+    431
+  ],
+  "output_dir": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items",
+  "exported_count": 3,
+  "exported": [
+    {
+      "requested_id": 426,
+      "client_id": 431,
+      "server_ids": [
+        426
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        3518
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-426_client-431.png",
+      "size": 1519,
+      "sha256": "C699D1BD723D770B5098326DCF78429F929478E04D4844B71DB018558B40F581"
+    },
+    {
+      "requested_id": 430,
+      "client_id": 435,
+      "server_ids": [
+        430
+      ],
+      "name": "Sewer grate",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        245
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-430_client-435_sewer-grate.png",
+      "size": 201,
+      "sha256": "E44C275B4C75E439140623F8518FF61AAE192E435AF81AEDC4428739D4C5FBDE"
+    },
+    {
+      "requested_id": 431,
+      "client_id": 436,
+      "server_ids": [
+        431
+      ],
+      "name": "Stone floor",
+      "group_index": 0,
+      "width": 192,
+      "height": 192,
+      "layers": 1,
+      "pattern_x": 6,
+      "pattern_y": 6,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        69112,
+        69113,
+        69114,
+        69115,
+        69116,
+        69117,
+        69118,
+        69119,
+        69120,
+        69121,
+        69122,
+        69123,
+        69124,
+        69125,
+        69126,
+        69127,
+        69128,
+        69129,
+        69130,
+        69131,
+        69132,
+        69133,
+        69134,
+        69135,
+        69136,
+        69137,
+        69138,
+        69139,
+        69140,
+        69141,
+        69142,
+        69143,
+        69144,
+        69145,
+        69146,
+        69147
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-431_client-436_stone-floor.png",
+      "size": 37379,
+      "sha256": "193A98A563C980BED9F76E118D9BE755E3CED57E442ADB2F2A916AE5F3B300ED"
+    }
+  ],
+  "sources": {
+    "dat": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.dat",
+      "sha256": "B17150B4E978713719B9BB23DD80AE9C122C6499965697A8C83B92376CD28C32"
+    },
+    "spr": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.spr",
+      "sha256": "AF5D87EFE5CCC625DEA183B610E044EA578C4483B103314FEF999923AA04F67F"
+    }
+  },
+  "passed": true
+}

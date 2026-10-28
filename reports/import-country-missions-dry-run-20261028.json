@@ -1,0 +1,805 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "manifest": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\country-missions-20261028\\clone-items.csv",
+  "item_count": 25,
+  "target_server_id_range": [
+    26956,
+    26980
+  ],
+  "target_client_id_range": [
+    26071,
+    26095
+  ],
+  "new_sprite_count": 27,
+  "sprite_id_range": [
+    293220,
+    293246
+  ],
+  "items": [
+    {
+      "sequence": 1,
+      "source_server_id": 1950,
+      "source_client_id": 2816,
+      "target_server_id": 26956,
+      "target_client_id": 26071,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\country-missions-20261028\\01-yumi_chronicles.png",
+      "source_sha256": "D8A7A8C77E8F07004C025EBE913E31FF09DFEB065420C7D97920CE663218A257",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        293220,
+        293220
+      ],
+      "sprite_hash": "71EE86DE4C0DF160A875F1906DB2A11D"
+    },
+    {
+      "sequence": 2,
+      "source_server_id": 1963,
+      "source_client_id": 2829,
+      "target_server_id": 26957,
+      "target_client_id": 26072,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\country-missions-20261028\\02-yumi_wars.png",
+      "source_sha256": "AFBBC3A092F83432E6B79CB6546D5F2DACC563C67BC645D6699B475E2B54780A",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        293221,
+        293221
+      ],
+      "sprite_hash": "548154F5E319859B9C7C597B0283E52D"
+    },
+    {
+      "sequence": 3,
+      "source_server_id": 1965,
+      "source_client_id": 2831,
+      "target_server_id": 26958,
+      "target_client_id": 26073,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\country-missions-20261028\\03-yumi_villages.png",
+      "source_sha256": "B1AC44EB172AAB206D3EEA1F0C8DA3AD26079F71A2CB20CB9C9224AFBD7A3461",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        293222,
+        293222
+      ],
+      "sprite_hash": "F33F2CDA10A4C2C4C97AFA47CD31A6EA"
+    },
+    {
+      "sequence": 4,
+      "source_server_id": 1963,
+      "source_client_id": 2829,
+      "target_server_id": 26959,
+      "target_client_id": 26074,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\country-missions-20261028\\04-painting_monument.png",
+      "source_sha256": "AFBBC3A092F83432E6B79CB6546D5F2DACC563C67BC645D6699B475E2B54780A",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        293223,
+        293223
+      ],
+      "sprite_hash": "548154F5E319859B9C7C597B0283E52D"
+    },
+    {
+      "sequence": 5,
+      "source_server_id": 1963,
+      "source_client_id": 2829,
+      "target_server_id": 26960,
+      "target_client_id": 26075,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\country-missions-20261028\\05-painting_hokage.png",
+      "source_sha256": "AFBBC3A092F83432E6B79CB6546D5F2DACC563C67BC645D6699B475E2B54780A",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        293224,
+        293224
+      ],
+      "sprite_hash": "548154F5E319859B9C7C597B0283E52D"
+    },
+    {
+      "sequence": 6,
+      "source_server_id": 1963,
+      "source_client_id": 2829,
+      "target_server_id": 26961,
+      "target_client_id": 26076,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\country-missions-20261028\\06-painting_cemetery.png",
+      "source_sha256": "AFBBC3A092F83432E6B79CB6546D5F2DACC563C67BC645D6699B475E2B54780A",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        293225,
+        293225
+      ],
+      "sprite_hash": "548154F5E319859B9C7C597B0283E52D"
+    },
+    {
+      "sequence": 7,
+      "source_server_id": 12314,
+      "source_client_id": 11437,
+      "target_server_id": 26962,
+      "target_client_id": 26077,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\country-missions-20261028\\07-cursed_chest.png",
+      "source_sha256": "48B270B4BAF1D3F58E80A8D7FDBAECA38AFDCD5A6F904663EB810B28766DB66F",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        293226,
+        293226
+      ],
+      "sprite_hash": "F622ADCD260431230B05D9870B7D6A0A"
+    },
+    {
+      "sequence": 8,
+      "source_server_id": 11505,
+      "source_client_id": 10623,
+      "target_server_id": 26963,
+      "target_client_id": 26078,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\country-missions-20261028\\08-cursed_key.png",
+      "source_sha256": "9B3372B7DFEA87ABFA947CDD1ABC58052E10FC0995382B89EAEA68DF2F856508",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        293227,
+        293227
+      ],
+      "sprite_hash": "880F727D024953F9338F4D98C5B23278"
+    },
+    {
+      "sequence": 9,
+      "source_server_id": 2557,
+      "source_client_id": 3460,
+      "target_server_id": 26964,
+      "target_client_id": 26079,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\country-missions-20261028\\09-hiroto_hammer.png",
+      "source_sha256": "BB90963B1EC102D70D036A762534D851F4407509F6B3B5A39AD698D23BE02B0E",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        293228,
+        293228
+      ],
+      "sprite_hash": "2B7B2DCED8392D07B146C2CEB764E75D"
+    },
+    {
+      "sequence": 10,
+      "source_server_id": 2239,
+      "source_client_id": 3124,
+      "target_server_id": 26965,
+      "target_client_id": 26080,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\country-missions-20261028\\10-map_fragment_1.png",
+      "source_sha256": "592D11D72223DB44364DB26C44AF43EBA3EE27FAEA28D8FCF60D822413739863",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        293229,
+        293229
+      ],
+      "sprite_hash": "1971D8652CE3831953B8AFE312C798F0"
+    },
+    {
+      "sequence": 11,
+      "source_server_id": 2239,
+      "source_client_id": 3124,
+      "target_server_id": 26966,
+      "target_client_id": 26081,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\country-missions-20261028\\11-map_fragment_2.png",
+      "source_sha256": "592D11D72223DB44364DB26C44AF43EBA3EE27FAEA28D8FCF60D822413739863",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        293230,
+        293230
+      ],
+      "sprite_hash": "1971D8652CE3831953B8AFE312C798F0"
+    },
+    {
+      "sequence": 12,
+      "source_server_id": 2239,
+      "source_client_id": 3124,
+      "target_server_id": 26967,
+      "target_client_id": 26082,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\country-missions-20261028\\12-map_fragment_3.png",
+      "source_sha256": "592D11D72223DB44364DB26C44AF43EBA3EE27FAEA28D8FCF60D822413739863",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        293231,
+        293231
+      ],
+      "sprite_hash": "1971D8652CE3831953B8AFE312C798F0"
+    },
+    {
+      "sequence": 13,
+      "source_server_id": 2218,
+      "source_client_id": 3102,
+      "target_server_id": 26968,
+      "target_client_id": 26083,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\country-missions-20261028\\13-complete_map.png",
+      "source_sha256": "1FF1401EC46C98696282D81ED07DE2214A928D20818210CAEFAA7C13EED5F789",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        293232,
+        293232
+      ],
+      "sprite_hash": "C8DBDEA4C590C7F4DAD9DA506C18D708"
+    },
+    {
+      "sequence": 14,
+      "source_server_id": 2091,
+      "source_client_id": 2972,
+      "target_server_id": 26969,
+      "target_client_id": 26084,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\country-missions-20261028\\14-ancient_relic.png",
+      "source_sha256": "8922D62B69D8B79831EB7D33063F3DDD97B220D06289458D66E3CCCD1181DDAC",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        293233,
+        293233
+      ],
+      "sprite_hash": "DE0B8FDB0D391647B44D3D120285B3BC"
+    },
+    {
+      "sequence": 15,
+      "source_server_id": 2121,
+      "source_client_id": 3004,
+      "target_server_id": 26970,
+      "target_client_id": 26085,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\country-missions-20261028\\15-collection_vial.png",
+      "source_sha256": "9343B29CFBAA4FAA67A36AB0A821F5511790AC754F552571E6428F0A24431727",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        293234,
+        293234
+      ],
+      "sprite_hash": "02DC02D8003BE0503BE99D004D4F1802"
+    },
+    {
+      "sequence": 16,
+      "source_server_id": 2122,
+      "source_client_id": 3005,
+      "target_server_id": 26971,
+      "target_client_id": 26086,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\country-missions-20261028\\16-contaminated_sample.png",
+      "source_sha256": "C15F11AB4A700DE7005ED7D8E9DD07361CA565F0BA7CCF301596C79D2CE74EBC",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        293235,
+        293235
+      ],
+      "sprite_hash": "B2A9896E4B8EF2A0E134C44A2EBE499C"
+    },
+    {
+      "sequence": 17,
+      "source_server_id": 1770,
+      "source_client_id": 2519,
+      "target_server_id": 26972,
+      "target_client_id": 26087,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\country-missions-20261028\\17-poison_barrel.png",
+      "source_sha256": "BA04F531DF0C7A12124750D521ADD77C55B16A6432D653C5559C16680DBD9F50",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 0,
+      "sprite_id_range": [],
+      "sprite_hash": "4B1B1C88FF2FAF290EBC392B116D101C"
+    },
+    {
+      "sequence": 18,
+      "source_server_id": 2218,
+      "source_client_id": 3102,
+      "target_server_id": 26973,
+      "target_client_id": 26088,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\country-missions-20261028\\18-saboteur_seal.png",
+      "source_sha256": "1FF1401EC46C98696282D81ED07DE2214A928D20818210CAEFAA7C13EED5F789",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        293236,
+        293236
+      ],
+      "sprite_hash": "C8DBDEA4C590C7F4DAD9DA506C18D708"
+    },
+    {
+      "sequence": 19,
+      "source_server_id": 2218,
+      "source_client_id": 3102,
+      "target_server_id": 26974,
+      "target_client_id": 26089,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\country-missions-20261028\\19-sealed_report.png",
+      "source_sha256": "1FF1401EC46C98696282D81ED07DE2214A928D20818210CAEFAA7C13EED5F789",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        293237,
+        293237
+      ],
+      "sprite_hash": "C8DBDEA4C590C7F4DAD9DA506C18D708"
+    },
+    {
+      "sequence": 20,
+      "source_server_id": 3766,
+      "source_client_id": 2263,
+      "target_server_id": 26975,
+      "target_client_id": 26090,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\country-missions-20261028\\20-spirit_anchor.png",
+      "source_sha256": "4CE48E9FDE0B395E9CC702BD6D72D90ECE6B7FDF11E72EBB4CBE9453A4DDE389",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        293238,
+        293241
+      ],
+      "sprite_hash": "79E11DA0E022A8007E2E3FD90C9F2CE3"
+    },
+    {
+      "sequence": 21,
+      "source_server_id": 2239,
+      "source_client_id": 3124,
+      "target_server_id": 26976,
+      "target_client_id": 26091,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\country-missions-20261028\\21-scroll_moldy.png",
+      "source_sha256": "592D11D72223DB44364DB26C44AF43EBA3EE27FAEA28D8FCF60D822413739863",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        293242,
+        293242
+      ],
+      "sprite_hash": "1971D8652CE3831953B8AFE312C798F0"
+    },
+    {
+      "sequence": 22,
+      "source_server_id": 2218,
+      "source_client_id": 3102,
+      "target_server_id": 26977,
+      "target_client_id": 26092,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\country-missions-20261028\\22-scroll_renewed.png",
+      "source_sha256": "1FF1401EC46C98696282D81ED07DE2214A928D20818210CAEFAA7C13EED5F789",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        293243,
+        293243
+      ],
+      "sprite_hash": "C8DBDEA4C590C7F4DAD9DA506C18D708"
+    },
+    {
+      "sequence": 23,
+      "source_server_id": 2218,
+      "source_client_id": 3102,
+      "target_server_id": 26978,
+      "target_client_id": 26093,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\country-missions-20261028\\23-scroll_restored.png",
+      "source_sha256": "1FF1401EC46C98696282D81ED07DE2214A928D20818210CAEFAA7C13EED5F789",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        293244,
+        293244
+      ],
+      "sprite_hash": "C8DBDEA4C590C7F4DAD9DA506C18D708"
+    },
+    {
+      "sequence": 24,
+      "source_server_id": 2122,
+      "source_client_id": 3005,
+      "target_server_id": 26979,
+      "target_client_id": 26094,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\country-missions-20261028\\24-mist_elixir.png",
+      "source_sha256": "C15F11AB4A700DE7005ED7D8E9DD07361CA565F0BA7CCF301596C79D2CE74EBC",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        293245,
+        293245
+      ],
+      "sprite_hash": "B2A9896E4B8EF2A0E134C44A2EBE499C"
+    },
+    {
+      "sequence": 25,
+      "source_server_id": 2218,
+      "source_client_id": 3102,
+      "target_server_id": 26980,
+      "target_client_id": 26095,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\country-missions-20261028\\25-ancient_sealing_scroll.png",
+      "source_sha256": "1FF1401EC46C98696282D81ED07DE2214A928D20818210CAEFAA7C13EED5F789",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        293246,
+        293246
+      ],
+      "sprite_hash": "C8DBDEA4C590C7F4DAD9DA506C18D708"
+    }
+  ],
+  "xml": {
+    "source_definitions": 13,
+    "target_definitions_written": 25,
+    "target_definitions_already_exact": 0,
+    "target_ids": [
+      26956,
+      26957,
+      26958,
+      26959,
+      26960,
+      26961,
+      26962,
+      26963,
+      26964,
+      26965,
+      26966,
+      26967,
+      26968,
+      26969,
+      26970,
+      26971,
+      26972,
+      26973,
+      26974,
+      26975,
+      26976,
+      26977,
+      26978,
+      26979,
+      26980
+    ]
+  },
+  "map_scan": {
+    "tiles_scanned": 7824286,
+    "item_nodes_scanned": 2105107
+  },
+  "dry_run": true,
+  "passed": true
+}

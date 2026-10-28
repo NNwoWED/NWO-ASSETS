@@ -1,0 +1,356 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "profile": {
+    "key": "tibia-860-v2-custom-extended",
+    "client_version": 860,
+    "label": "Tibia 8.60 v2 customizado com features OTFI",
+    "dat_signature": "0x4C2C7993",
+    "spr_signature": "0x4C220594",
+    "metadata_reader": 5,
+    "otb_version_hint": "8.60"
+  },
+  "category": "items",
+  "id_kind": "server",
+  "requested_ids": [
+    1950,
+    1963,
+    1965,
+    2218,
+    12314,
+    11505,
+    2557,
+    2239,
+    2155,
+    2121,
+    2122,
+    1770,
+    3766,
+    2091
+  ],
+  "output_dir": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\country-mission-placeholders-20261028",
+  "exported_count": 14,
+  "exported": [
+    {
+      "requested_id": 1950,
+      "client_id": 2816,
+      "server_ids": [
+        1950
+      ],
+      "name": "Brown book",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        193
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\country-mission-placeholders-20261028\\server-1950_client-2816_brown-book.png",
+      "size": 1235,
+      "sha256": "D8A7A8C77E8F07004C025EBE913E31FF09DFEB065420C7D97920CE663218A257"
+    },
+    {
+      "requested_id": 1963,
+      "client_id": 2829,
+      "server_ids": [
+        1963
+      ],
+      "name": "Blue book",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        861
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\country-mission-placeholders-20261028\\server-1963_client-2829_blue-book.png",
+      "size": 645,
+      "sha256": "AFBBC3A092F83432E6B79CB6546D5F2DACC563C67BC645D6699B475E2B54780A"
+    },
+    {
+      "requested_id": 1965,
+      "client_id": 2831,
+      "server_ids": [
+        1965
+      ],
+      "name": "Green book",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        863
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\country-mission-placeholders-20261028\\server-1965_client-2831_green-book.png",
+      "size": 659,
+      "sha256": "B1AC44EB172AAB206D3EEA1F0C8DA3AD26079F71A2CB20CB9C9224AFBD7A3461"
+    },
+    {
+      "requested_id": 2218,
+      "client_id": 3102,
+      "server_ids": [
+        2218
+      ],
+      "name": "Pergaminho Roubado",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        210361
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\country-mission-placeholders-20261028\\server-2218_client-3102_pergaminho-roubado.png",
+      "size": 372,
+      "sha256": "1FF1401EC46C98696282D81ED07DE2214A928D20818210CAEFAA7C13EED5F789"
+    },
+    {
+      "requested_id": 12314,
+      "client_id": 11437,
+      "server_ids": [
+        12314
+      ],
+      "name": "Golden Chest",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        40074
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\country-mission-placeholders-20261028\\server-12314_client-11437_golden-chest.png",
+      "size": 638,
+      "sha256": "48B270B4BAF1D3F58E80A8D7FDBAECA38AFDCD5A6F904663EB810B28766DB66F"
+    },
+    {
+      "requested_id": 11505,
+      "client_id": 10623,
+      "server_ids": [
+        11505
+      ],
+      "name": "Silver Key",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        179390
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\country-mission-placeholders-20261028\\server-11505_client-10623_silver-key.png",
+      "size": 925,
+      "sha256": "9B3372B7DFEA87ABFA947CDD1ABC58052E10FC0995382B89EAEA68DF2F856508"
+    },
+    {
+      "requested_id": 2557,
+      "client_id": 3460,
+      "server_ids": [
+        2557
+      ],
+      "name": "Carpenter hammer",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        1217
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\country-mission-placeholders-20261028\\server-2557_client-3460_carpenter-hammer.png",
+      "size": 597,
+      "sha256": "BB90963B1EC102D70D036A762534D851F4407509F6B3B5A39AD698D23BE02B0E"
+    },
+    {
+      "requested_id": 2239,
+      "client_id": 3124,
+      "server_ids": [
+        2239
+      ],
+      "name": "Burnt scroll",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        768
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\country-mission-placeholders-20261028\\server-2239_client-3124_burnt-scroll.png",
+      "size": 782,
+      "sha256": "592D11D72223DB44364DB26C44AF43EBA3EE27FAEA28D8FCF60D822413739863"
+    },
+    {
+      "requested_id": 2155,
+      "client_id": 3038,
+      "server_ids": [
+        2155
+      ],
+      "name": "Explosive Trap",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        13130
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\country-mission-placeholders-20261028\\server-2155_client-3038_explosive-trap.png",
+      "size": 1046,
+      "sha256": "E34A883FC93012EF17B5C6023B5688BFEC640B642F5BC49181992E7683245F7D"
+    },
+    {
+      "requested_id": 2121,
+      "client_id": 3004,
+      "server_ids": [
+        2121
+      ],
+      "name": "Empty Vial",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        158754
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\country-mission-placeholders-20261028\\server-2121_client-3004_empty-vial.png",
+      "size": 246,
+      "sha256": "9343B29CFBAA4FAA67A36AB0A821F5511790AC754F552571E6428F0A24431727"
+    },
+    {
+      "requested_id": 2122,
+      "client_id": 3005,
+      "server_ids": [
+        2122
+      ],
+      "name": "Poison Vial T1",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        158755
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\country-mission-placeholders-20261028\\server-2122_client-3005_poison-vial-t1.png",
+      "size": 289,
+      "sha256": "C15F11AB4A700DE7005ED7D8E9DD07361CA565F0BA7CCF301596C79D2CE74EBC"
+    },
+    {
+      "requested_id": 1770,
+      "client_id": 2519,
+      "server_ids": [
+        1770
+      ],
+      "name": "Barrel",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        0
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\country-mission-placeholders-20261028\\server-1770_client-2519_barrel.png",
+      "size": 83,
+      "sha256": "BA04F531DF0C7A12124750D521ADD77C55B16A6432D653C5559C16680DBD9F50"
+    },
+    {
+      "requested_id": 3766,
+      "client_id": 2263,
+      "server_ids": [
+        3766
+      ],
+      "name": "Pillar",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        79993,
+        79994,
+        79995,
+        79996
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\country-mission-placeholders-20261028\\server-3766_client-2263_pillar.png",
+      "size": 1669,
+      "sha256": "4CE48E9FDE0B395E9CC702BD6D72D90ECE6B7FDF11E72EBB4CBE9453A4DDE389"
+    },
+    {
+      "requested_id": 2091,
+      "client_id": 2972,
+      "server_ids": [
+        2091
+      ],
+      "name": "Golden key",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        513
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\country-mission-placeholders-20261028\\server-2091_client-2972_golden-key.png",
+      "size": 336,
+      "sha256": "8922D62B69D8B79831EB7D33063F3DDD97B220D06289458D66E3CCCD1181DDAC"
+    }
+  ],
+  "sources": {
+    "dat": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.dat",
+      "sha256": "2CA57C845426DF3B7F4817DE27038B69BEA9D2CA6986B248474CB966658E72E6"
+    },
+    "spr": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.spr",
+      "sha256": "DCD66CB57D0379AF83C989FA884166E098F3A9386DD5874D7C46B0F4609C086C"
+    }
+  },
+  "passed": true
+}

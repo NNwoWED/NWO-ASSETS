@@ -1,0 +1,194 @@
+{
+  "generated_at_utc": "2026-10-28T03:34:56.544297+00:00",
+  "branch": "mob-estrelado",
+  "inputs": {
+    "dat": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\nwo-otclient-mehah-4.0\\build\\mob-estrelado\\data\\things\\860\\Tibia.dat",
+      "size": 4606239,
+      "sha256": "2CA57C845426DF3B7F4817DE27038B69BEA9D2CA6986B248474CB966658E72E6"
+    },
+    "spr": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\nwo-otclient-mehah-4.0\\build\\mob-estrelado\\data\\things\\860\\Tibia.spr",
+      "size": 503840951,
+      "sha256": "DCD66CB57D0379AF83C989FA884166E098F3A9386DD5874D7C46B0F4609C086C"
+    },
+    "otfi": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\nwo-otclient-mehah-4.0\\build\\mob-estrelado\\data\\things\\860\\Tibia.otfi",
+      "size": 185,
+      "sha256": "7743548835944BC799CB871A4E5DEF84F7AF76815031871B9CE74B5EC0E8ADD3"
+    },
+    "otb": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\Server-Data-Nwo\\data\\items\\items.otb",
+      "size": 1069069,
+      "sha256": "DCA1FCF11A187E48B482655C302768FB2E61752D1E652DC55B9237DD19272A86"
+    },
+    "xml": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\Server-Data-Nwo\\data\\items\\items.xml",
+      "size": 852420,
+      "sha256": "5341CECF1F82E7A9033FDA63C3D8EE901B34E5C0A36D4A7EA3C3D394976AEC91"
+    }
+  },
+  "profile": {
+    "key": "tibia-860-v2-custom-extended",
+    "client_version": 860,
+    "label": "Tibia 8.60 v2 customizado com features OTFI",
+    "dat_signature": "0x4C2C7993",
+    "spr_signature": "0x4C220594",
+    "metadata_reader": 5,
+    "otb_version_hint": "8.60"
+  },
+  "spr": {
+    "sprite_count": 293219,
+    "deep_validation": {
+      "enabled": true,
+      "color_key_mismatches": 0,
+      "truncated_blocks": 0,
+      "rle_invalid_blocks": 0,
+      "payload_zero_blocks": 0,
+      "explicit_transparent_blocks": 123,
+      "passed": true
+    }
+  },
+  "dat": {
+    "max_ids": {
+      "items": 26070,
+      "outfits": 2289,
+      "effects": 3363,
+      "missiles": 219
+    },
+    "appearance": {
+      "multi_tile_groups": 15110,
+      "animated_groups": 6087,
+      "max_sprites_in_group": 4000,
+      "max_sprites_in_record": 4000,
+      "sprite_reference_count": 927566,
+      "unique_nonzero_sprite_ids": 282317,
+      "zero_sprite_references": 332359,
+      "min_referenced_sprite_id": 1,
+      "max_referenced_sprite_id": 293219
+    }
+  },
+  "otb": {
+    "version": {
+      "major": 3,
+      "minor": 20,
+      "build": 20,
+      "csd": "OTB 3.20.20-8.60"
+    },
+    "item_nodes": 26856,
+    "server_ids": {
+      "count": 26856,
+      "min": 100,
+      "max": 26955,
+      "duplicates": [],
+      "gap_count": 0,
+      "gaps_sample": []
+    },
+    "client_ids": {
+      "count": 26122,
+      "min": 100,
+      "max": 26070,
+      "duplicates": [
+        100,
+        101,
+        110,
+        138,
+        140,
+        144,
+        168,
+        231,
+        248,
+        347,
+        351,
+        352,
+        353,
+        354,
+        355,
+        369,
+        370,
+        386,
+        408,
+        411,
+        413,
+        414,
+        428,
+        432,
+        433,
+        653,
+        654,
+        655,
+        1283,
+        2117,
+        2139,
+        2141,
+        2142,
+        2143,
+        2149,
+        2150,
+        2151,
+        2186,
+        2217,
+        2470,
+        2479,
+        2543,
+        2544,
+        2545,
+        2546,
+        2547,
+        2548,
+        2549,
+        2550,
+        2551
+      ]
+    },
+    "malformed_attributes": []
+  },
+  "mapping": {
+    "otb_nodes_without_client_id_count": 734,
+    "otb_nodes_without_client_id_sample": [
+      102,
+      105,
+      107,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125,
+      126
+    ],
+    "missing_client_ids_in_dat_count": 0,
+    "missing_client_ids_in_dat_sample": [],
+    "missing_sprite_hash_for_client_id_count": 0,
+    "missing_sprite_hash_for_client_id_sample": [],
+    "malformed_otb_nodes_count": 0,
+    "malformed_otb_nodes_sample": []
+  },
+  "sprite_hash": {
+    "checked_client_ids": 25926,
+    "mismatch_count": 0,
+    "mismatches_sample": []
+  },
+  "xml": {
+    "item_elements": 6266,
+    "expanded_server_ids": 15768,
+    "unique_server_ids": 15768,
+    "duplicate_server_ids_count": 0,
+    "duplicate_server_ids_sample": [],
+    "ids_missing_in_otb_count": 0,
+    "ids_missing_in_otb_sample": [],
+    "malformed_item_elements_count": 0,
+    "malformed_item_elements_sample": []
+  },
+  "compatible": true
+}

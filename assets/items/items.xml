@@ -19942,4 +19942,101 @@
 		<attribute key="market" value="1" />
 		<attribute key="description" value="Remove a lentidão do Bote Congelante dos Estrelados. Consumida no uso." />
 	</item>
+	<item id="26956" article="a" name="Crônicas da Vila">
+		<attribute key="weight" value="1300" />
+	  <attribute key="description" value="Yumi — livro 1/3. Apar?ncia provis?ria para valida??o da miss?o."/>
+</item>
+	<item id="26957" article="a" name="História das Grandes Guerras">
+		<attribute key="weight" value="1300" />
+	  <attribute key="description" value="Yumi — livro 2/3. Apar?ncia provis?ria para valida??o da miss?o."/>
+</item>
+	<item id="26958" article="a" name="Registros das Cinco Grandes Vilas">
+		<attribute key="weight" value="1300" />
+	  <attribute key="description" value="Yumi — livro 3/3. Apar?ncia provis?ria para valida??o da miss?o."/>
+</item>
+	<item id="26959" article="a" name="Pintura Incompleta I">
+		<attribute key="weight" value="1300" />
+	  <attribute key="description" value="Emiko — Monumento Hokage. Apar?ncia provis?ria para valida??o da miss?o."/>
+</item>
+	<item id="26960" article="a" name="Pintura Incompleta II">
+		<attribute key="weight" value="1300" />
+	  <attribute key="description" value="Emiko — Prédio Hokage. Apar?ncia provis?ria para valida??o da miss?o."/>
+</item>
+	<item id="26961" article="a" name="Pintura Incompleta III">
+		<attribute key="weight" value="1300" />
+	  <attribute key="description" value="Emiko — Cemitério. Apar?ncia provis?ria para valida??o da miss?o."/>
+</item>
+	<item id="26962" article="a" name="Baú Amaldiçoado">
+	  <attribute key="description" value="Velho Pescador — recipiente da missão. Apar?ncia provis?ria para valida??o da miss?o."/>
+</item>
+	<item id="26963" article="a" name="Chave Amaldiçoada">
+		<attribute key="weight" value="30" />
+	  <attribute key="description" value="Velho Pescador — chave pescada. Apar?ncia provis?ria para valida??o da miss?o."/>
+</item>
+	<item id="26964" article="a" name="Martelo Perdido de Hiroto">
+		<attribute key="weight" value="800" />
+	  <attribute key="description" value="Hiroto — objeto recuperado. Apar?ncia provis?ria para valida??o da miss?o."/>
+</item>
+	<item id="26965" article="a" name="Fragmento do Mapa I">
+		<attribute key="weight" value="40" />
+	  <attribute key="description" value="Kino Isan — fragmento 1/3. Apar?ncia provis?ria para valida??o da miss?o."/>
+</item>
+	<item id="26966" article="a" name="Fragmento do Mapa II">
+		<attribute key="weight" value="40" />
+	  <attribute key="description" value="Kino Isan — fragmento 2/3. Apar?ncia provis?ria para valida??o da miss?o."/>
+</item>
+	<item id="26967" article="a" name="Fragmento do Mapa III">
+		<attribute key="weight" value="40" />
+	  <attribute key="description" value="Kino Isan — fragmento 3/3. Apar?ncia provis?ria para valida??o da miss?o."/>
+</item>
+	<item id="26968" article="a" name="Mapa Completo">
+		<attribute key="description" value="Kino Isan — mapa com o destino da relíquia. Apar?ncia provis?ria para valida??o da miss?o."/>
+		<attribute key="weight" value="30" />
+	</item>
+	<item id="26969" article="a" name="Relíquia Antiga">
+		<attribute key="type" value="key" />
+		<attribute key="weight" value="100" />
+	  <attribute key="description" value="Kino Isan — relíquia protegida por bandidos. Apar?ncia provis?ria para valida??o da miss?o."/>
+</item>
+	<item id="26970" article="a" name="Frasco de Coleta">
+		<attribute key="weight" value="40" />
+	  <attribute key="description" value="Fuudo — frascos vazios para duas amostras. Apar?ncia provis?ria para valida??o da miss?o."/>
+</item>
+	<item id="26971" article="an" name="Amostra Contaminada">
+		<attribute key="weight" value="100" />
+	  <attribute key="description" value="Fuudo — amostras de água. Apar?ncia provis?ria para valida??o da miss?o."/>
+</item>
+	<item id="26972" article="a" name="Barril de Veneno">
+		<attribute key="containerSize" value="25" />
+	  <attribute key="description" value="Fuudo — objeto de sabotagem no mundo. Apar?ncia provis?ria para valida??o da miss?o."/>
+</item>
+	<item id="26973" article="a" name="Selo dos Sabotadores">
+		<attribute key="description" value="Fuudo — prova obtida dos barris. Apar?ncia provis?ria para valida??o da miss?o."/>
+		<attribute key="weight" value="30" />
+	</item>
+	<item id="26974" article="a" name="Relatório Lacrado">
+		<attribute key="description" value="Homem Misterioso — prova do boss da infiltração. Apar?ncia provis?ria para valida??o da miss?o."/>
+		<attribute key="weight" value="30" />
+	</item>
+	<item id="26975" article="a" name="Âncora Espiritual" />
+	<item id="26976" article="a" name="Pergaminho Úmido e Mofado">
+		<attribute key="weight" value="40" />
+	  <attribute key="description" value="Mayu — estágio inicial de 150 Predators. Apar?ncia provis?ria para valida??o da miss?o."/>
+</item>
+	<item id="26977" article="a" name="Pergaminho Renovado">
+		<attribute key="description" value="Mayu — estágio de 100 Assassins. Apar?ncia provis?ria para valida??o da miss?o."/>
+		<attribute key="weight" value="30" />
+	</item>
+	<item id="26978" article="a" name="Pergaminho Restaurado">
+		<attribute key="description" value="Mayu — estágio final de 250 Assassins. Apar?ncia provis?ria para valida??o da miss?o."/>
+		<attribute key="weight" value="30" />
+	</item>
+	<item id="26979" article="an" name="Elixir da Névoa">
+		<attribute key="weight" value="100" />
+	  <attribute key="description" value="Mayu — consumível de esquiva PvE por 30 minutos. Apar?ncia provis?ria para valida??o da miss?o."/>
+</item>
+	<item id="26980" article="a" name="Pergaminho de Selamento Antigo">
+		<attribute key="description" value="Mayu — item-chave permanente do Codex. Apar?ncia provis?ria para valida??o da miss?o."/>
+		<attribute key="weight" value="30" />
+	</item>
 </items>

@@ -1,0 +1,61 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "profile": {
+    "key": "tibia-860-v2-custom-extended",
+    "client_version": 860,
+    "label": "Tibia 8.60 v2 customizado com features OTFI",
+    "dat_signature": "0x4C2C7993",
+    "spr_signature": "0x4C220594",
+    "metadata_reader": 5,
+    "otb_version_hint": "8.60"
+  },
+  "category": "effects",
+  "id_kind": "client",
+  "requested_ids": [
+    601
+  ],
+  "output_dir": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\effects",
+  "exported_count": 1,
+  "exported": [
+    {
+      "requested_id": 601,
+      "client_id": 601,
+      "server_ids": [],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 320,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 10,
+      "sprite_ids": [
+        216150,
+        216151,
+        216152,
+        216153,
+        216154,
+        216155,
+        216156,
+        216157,
+        216158,
+        216159
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\effects\\effect-601.png",
+      "size": 299,
+      "sha256": "8B8765683AE5B52C4160D7B1A7B167F65D3FEA6FA279CB554A9049D7430D73F1"
+    }
+  ],
+  "sources": {
+    "dat": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.dat",
+      "sha256": "B17150B4E978713719B9BB23DD80AE9C122C6499965697A8C83B92376CD28C32"
+    },
+    "spr": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.spr",
+      "sha256": "AF5D87EFE5CCC625DEA183B610E044EA578C4483B103314FEF999923AA04F67F"
+    }
+  },
+  "passed": true
+}
