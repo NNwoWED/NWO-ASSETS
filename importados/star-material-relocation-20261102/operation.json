@@ -1,0 +1,136 @@
+[
+  {
+    "operation": "usar item novo contíguo via import-cloned-items",
+    "name": "Scrap Cloth",
+    "purpose": "realocar material dos estrelados e liberar os IDs oficiais do evento Orochimaru",
+    "source_server_id": 26934,
+    "server_id": 26981,
+    "client_id": 26096,
+    "png": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\star-material-relocation-20261102\\material-1.png",
+    "layout": {
+      "requested_id": 26934,
+      "client_id": 26049,
+      "server_ids": [
+        26934
+      ],
+      "name": "Scrap Cloth",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        293182
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-26934_client-26049_scrap-cloth.png",
+      "size": 388,
+      "sha256": "779B03136FC3F45FC94588CA6C2BC13DD566F72C2D6DF122C93D264240ECCBA3"
+    },
+    "properties": "clonar DAT/OTB da referência, sem mudar itens antigos"
+  },
+  {
+    "operation": "usar item novo contíguo via import-cloned-items",
+    "name": "Mask Forge Essence",
+    "purpose": "realocar material dos estrelados e liberar os IDs oficiais do evento Orochimaru",
+    "source_server_id": 26935,
+    "server_id": 26982,
+    "client_id": 26097,
+    "png": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\star-material-relocation-20261102\\material-2.png",
+    "layout": {
+      "requested_id": 26935,
+      "client_id": 26050,
+      "server_ids": [
+        26935
+      ],
+      "name": "Mask Forge Essence",
+      "group_index": 0,
+      "width": 32,
+      "height": 96,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 3,
+      "sprite_ids": [
+        293183,
+        293184,
+        293185
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-26935_client-26050_mask-forge-essence.png",
+      "size": 1056,
+      "sha256": "F5655501A7D5C34A415916B60C324243E831539AFBE2572F8C040EB6236A8DEB"
+    },
+    "properties": "clonar DAT/OTB da referência, sem mudar itens antigos"
+  },
+  {
+    "operation": "usar item novo contíguo via import-cloned-items",
+    "name": "Vest Forge Essence",
+    "purpose": "realocar material dos estrelados e liberar os IDs oficiais do evento Orochimaru",
+    "source_server_id": 26936,
+    "server_id": 26983,
+    "client_id": 26098,
+    "png": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\star-material-relocation-20261102\\material-3.png",
+    "layout": {
+      "requested_id": 26936,
+      "client_id": 26051,
+      "server_ids": [
+        26936
+      ],
+      "name": "Vest Forge Essence",
+      "group_index": 0,
+      "width": 32,
+      "height": 96,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 3,
+      "sprite_ids": [
+        293186,
+        293187,
+        293188
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-26936_client-26051_vest-forge-essence.png",
+      "size": 1056,
+      "sha256": "F5655501A7D5C34A415916B60C324243E831539AFBE2572F8C040EB6236A8DEB"
+    },
+    "properties": "clonar DAT/OTB da referência, sem mudar itens antigos"
+  },
+  {
+    "operation": "usar item novo contíguo via import-cloned-items",
+    "name": "Legs Forge Essence",
+    "purpose": "realocar material dos estrelados e liberar os IDs oficiais do evento Orochimaru",
+    "source_server_id": 26937,
+    "server_id": 26984,
+    "client_id": 26099,
+    "png": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\star-material-relocation-20261102\\material-4.png",
+    "layout": {
+      "requested_id": 26937,
+      "client_id": 26052,
+      "server_ids": [
+        26937
+      ],
+      "name": "Legs Forge Essence",
+      "group_index": 0,
+      "width": 32,
+      "height": 96,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 3,
+      "sprite_ids": [
+        293189,
+        293190,
+        293191
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-26937_client-26052_legs-forge-essence.png",
+      "size": 1056,
+      "sha256": "F5655501A7D5C34A415916B60C324243E831539AFBE2572F8C040EB6236A8DEB"
+    },
+    "properties": "clonar DAT/OTB da referência, sem mudar itens antigos"
+  }
+]

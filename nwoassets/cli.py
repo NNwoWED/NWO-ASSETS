@@ -26,6 +26,7 @@ from .otbm import inspect_map_position
 from .pipeline import inspect_client, inspect_text_configs, validate_root
 from .properties import edit_item_properties
 from .runtime_adopt import adopt_runtime_assets
+from .runtime_consolidate import consolidate_runtime
 from .runtime_sync import sync_runtime_assets
 from .client_runtime_restore import restore_client_runtime
 from .remake_importer import import_obd_remakes
@@ -281,6 +282,13 @@ def build_parser() -> argparse.ArgumentParser:
         action="store_true",
         help="valida todos os blocos RLE antes e depois da incorporacao",
     )
+    consolidate = common('consolidate-runtime', 'consolida um arquivo de client e a baseline com ancestral Git e bloqueio de conflitos')
+    consolidate.add_argument('--archive', type=Path, required=True)
+    consolidate.add_argument('--ancestor', required=True)
+    consolidate.add_argument('--resolutions', type=Path)
+    consolidate.add_argument('--metadata-dir', type=Path)
+    consolidate.add_argument('--dry-run', action='store_true')
+    consolidate.add_argument('--deep-spr', action='store_true')
     return parser
 
 
@@ -367,6 +375,7 @@ def main(argv: list[str] | None = None) -> int:
         "restore-client-runtime": lambda: restore_client_runtime(
             args.root, client_root=args.client_root, archive=args.archive,
             dat_sha256=args.dat_sha256, spr_sha256=args.spr_sha256),
+        "consolidate-runtime": lambda: consolidate_runtime(args.root, archive=args.archive, ancestor=args.ancestor, dry_run=args.dry_run, deep_spr=args.deep_spr, resolutions=args.resolutions, metadata_dir=args.metadata_dir),
         "adopt-runtime": lambda: adopt_runtime_assets(
             args.root,
             source_dir=args.source_dir,
@@ -380,7 +389,7 @@ def main(argv: list[str] | None = None) -> int:
             "validate", "import-items", "import-obd-remakes", "import-cloned-items", "repair-item-patterns", "repair-exact-item-clones", "import-effects", "import-missiles", "import-outfits", "edit-animation-durations",
             "create-version", "edit-item-properties", "edit-ground-speeds", "edit-item-elevations",
             "inspect-map-position", "export-png",
-            "sync-runtime", "restore-client-runtime", "adopt-runtime",
+            "sync-runtime", "restore-client-runtime", "adopt-runtime", "consolidate-runtime",
         } and not report.get("passed", False):
             return 1
         return 0

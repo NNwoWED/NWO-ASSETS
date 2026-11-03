@@ -1,0 +1,230 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "manifest": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\star-material-relocation-20261102\\manifest.csv",
+  "item_count": 4,
+  "target_server_id_range": [
+    26981,
+    26984
+  ],
+  "target_client_id_range": [
+    26096,
+    26099
+  ],
+  "new_sprite_count": 10,
+  "sprite_id_range": [
+    293250,
+    293259
+  ],
+  "items": [
+    {
+      "sequence": 1,
+      "source_server_id": 26934,
+      "source_client_id": 26049,
+      "target_server_id": 26981,
+      "target_client_id": 26096,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\star-material-relocation-20261102\\material-1.png",
+      "source_sha256": "779B03136FC3F45FC94588CA6C2BC13DD566F72C2D6DF122C93D264240ECCBA3",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        293250,
+        293250
+      ],
+      "sprite_hash": "E97F6D4CA54514BBF34B7CCF7B1A0CC9"
+    },
+    {
+      "sequence": 2,
+      "source_server_id": 26935,
+      "source_client_id": 26050,
+      "target_server_id": 26982,
+      "target_client_id": 26097,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\star-material-relocation-20261102\\material-2.png",
+      "source_sha256": "F5655501A7D5C34A415916B60C324243E831539AFBE2572F8C040EB6236A8DEB",
+      "image_size": [
+        32,
+        96
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 3,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": 100,
+      "animation_async": true,
+      "sprite_id_count": 3,
+      "sprite_id_range": [
+        293251,
+        293253
+      ],
+      "sprite_hash": "F6E04D7EA8792BDB8E594D90075DDC08"
+    },
+    {
+      "sequence": 3,
+      "source_server_id": 26936,
+      "source_client_id": 26051,
+      "target_server_id": 26983,
+      "target_client_id": 26098,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\star-material-relocation-20261102\\material-3.png",
+      "source_sha256": "F5655501A7D5C34A415916B60C324243E831539AFBE2572F8C040EB6236A8DEB",
+      "image_size": [
+        32,
+        96
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 3,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": 100,
+      "animation_async": true,
+      "sprite_id_count": 3,
+      "sprite_id_range": [
+        293254,
+        293256
+      ],
+      "sprite_hash": "F6E04D7EA8792BDB8E594D90075DDC08"
+    },
+    {
+      "sequence": 4,
+      "source_server_id": 26937,
+      "source_client_id": 26052,
+      "target_server_id": 26984,
+      "target_client_id": 26099,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\star-material-relocation-20261102\\material-4.png",
+      "source_sha256": "F5655501A7D5C34A415916B60C324243E831539AFBE2572F8C040EB6236A8DEB",
+      "image_size": [
+        32,
+        96
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 3,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": 100,
+      "animation_async": true,
+      "sprite_id_count": 3,
+      "sprite_id_range": [
+        293257,
+        293259
+      ],
+      "sprite_hash": "F6E04D7EA8792BDB8E594D90075DDC08"
+    }
+  ],
+  "xml": {
+    "source_definitions": 4,
+    "target_definitions_written": 4,
+    "target_definitions_already_exact": 0,
+    "target_ids": [
+      26981,
+      26982,
+      26983,
+      26984
+    ]
+  },
+  "map_scan": {
+    "tiles_scanned": 8300115,
+    "item_nodes_scanned": 2250175
+  },
+  "version_backup": {
+    "tool_version": "0.8.2",
+    "version_id": "20261102-184555-025314",
+    "created_at": "2026-11-02T18:46:09.508888-03:00",
+    "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261102-184555-025314",
+    "rar_executable": "C:\\Program Files\\WinRAR\\Rar.exe",
+    "sources": [
+      {
+        "path": "assets/860/.gitattributes",
+        "size": 43,
+        "sha256": "D5636A3257287440945C5E017581545E5B0A3E2FDDDAE7C5EF8D90FF4DF3D32A"
+      },
+      {
+        "path": "assets/860/Tibia.dat",
+        "size": 4606606,
+        "sha256": "D53197ACE27DE5AE7778B6E6A4C01E7E4E02E3FB9376D573A544A6F61C244EDC"
+      },
+      {
+        "path": "assets/860/Tibia.otfi",
+        "size": 185,
+        "sha256": "7743548835944BC799CB871A4E5DEF84F7AF76815031871B9CE74B5EC0E8ADD3"
+      },
+      {
+        "path": "assets/860/Tibia.spr",
+        "size": 503894701,
+        "sha256": "882FFC18FFE251A8BECEAF6488A4204CF45A25684D0E58DDD20DB85CB586167E"
+      },
+      {
+        "path": "assets/items/force use.txt",
+        "size": 419,
+        "sha256": "BCB478FDF3F45ECA8D172AFD7A17D3F8CD520924EE0894752452B8FDC8F71959"
+      },
+      {
+        "path": "assets/items/items.otb",
+        "size": 1069979,
+        "sha256": "346EA79736E5F8B48C2150D1184A1A35FB3882AFE6CB4F715DEE8C1A64B56D36"
+      },
+      {
+        "path": "assets/world/mapanovo.otbm",
+        "size": 85960780,
+        "sha256": "0ADFABBC3F942D08253A37D0E7E5A6A96D22A146D63AA9EA6139B13D76DE87C1"
+      }
+    ],
+    "archives": {
+      "860": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261102-184555-025314\\860.rar",
+        "size": 90017191,
+        "sha256": "DF8F082AC48CDC6EF0CF00931202C6CFF855706D5E59F236CA5A7D1C26264EFF"
+      },
+      "items": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261102-184555-025314\\items.rar",
+        "size": 512679,
+        "sha256": "1FFE37FAE632AA6272E93BEEA2B4682E71CBA37FD86F21497309167705F6D610"
+      },
+      "world": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261102-184555-025314\\world.zip",
+        "size": 20491172,
+        "sha256": "8CA0920D09D7E6D34F571F8DBF3BC8BEA4D2A9379E81F5E60723A97A35C3A8C1"
+      }
+    },
+    "items_xml_excluded": true,
+    "world_entries": [
+      "mapanovo.otbm"
+    ],
+    "passed": true
+  },
+  "transaction_committed": true,
+  "old_dat_records_preserved": true,
+  "old_otb_nodes_preserved": true,
+  "old_sprite_payload_preserved": true,
+  "new_sprite_pixels_verified": true,
+  "final_validation_passed": true,
+  "warnings": [],
+  "errors": [],
+  "passed": true
+}

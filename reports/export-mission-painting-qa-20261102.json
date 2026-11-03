@@ -1,0 +1,54 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "profile": {
+    "key": "tibia-860-v2-custom-extended",
+    "client_version": 860,
+    "label": "Tibia 8.60 v2 customizado com features OTFI",
+    "dat_signature": "0x4C2C7993",
+    "spr_signature": "0x4C220594",
+    "metadata_reader": 5,
+    "otb_version_hint": "8.60"
+  },
+  "category": "items",
+  "id_kind": "client",
+  "requested_ids": [
+    13683
+  ],
+  "output_dir": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items",
+  "exported_count": 1,
+  "exported": [
+    {
+      "requested_id": 13683,
+      "client_id": 13683,
+      "server_ids": [
+        14560
+      ],
+      "name": "Pergaminho Base",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        249658
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\client-13683_server-14560_pergaminho-base.png",
+      "size": 454,
+      "sha256": "079514904D84D04798321C572E1BC1FB8734AAE4D7FB4E14615090943DC41AC0"
+    }
+  ],
+  "sources": {
+    "dat": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.dat",
+      "sha256": "B17150B4E978713719B9BB23DD80AE9C122C6499965697A8C83B92376CD28C32"
+    },
+    "spr": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.spr",
+      "sha256": "AF5D87EFE5CCC625DEA183B610E044EA578C4483B103314FEF999923AA04F67F"
+    }
+  },
+  "passed": true
+}

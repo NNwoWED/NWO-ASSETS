@@ -1,0 +1,175 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "manifest": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\mission-qa-20261102\\paintings.csv",
+  "profile": "tibia-860-v2-custom-extended",
+  "version_backup": {
+    "tool_version": "0.8.2",
+    "version_id": "20261102-182417-323403",
+    "created_at": "2026-11-02T18:24:28.670252-03:00",
+    "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261102-182417-323403",
+    "rar_executable": "C:\\Program Files\\WinRAR\\Rar.exe",
+    "sources": [
+      {
+        "path": "assets/860/.gitattributes",
+        "size": 43,
+        "sha256": "D5636A3257287440945C5E017581545E5B0A3E2FDDDAE7C5EF8D90FF4DF3D32A"
+      },
+      {
+        "path": "assets/860/Tibia.dat",
+        "size": 4606606,
+        "sha256": "B17150B4E978713719B9BB23DD80AE9C122C6499965697A8C83B92376CD28C32"
+      },
+      {
+        "path": "assets/860/Tibia.otfi",
+        "size": 185,
+        "sha256": "7743548835944BC799CB871A4E5DEF84F7AF76815031871B9CE74B5EC0E8ADD3"
+      },
+      {
+        "path": "assets/860/Tibia.spr",
+        "size": 503888254,
+        "sha256": "AF5D87EFE5CCC625DEA183B610E044EA578C4483B103314FEF999923AA04F67F"
+      },
+      {
+        "path": "assets/items/force use.txt",
+        "size": 419,
+        "sha256": "BCB478FDF3F45ECA8D172AFD7A17D3F8CD520924EE0894752452B8FDC8F71959"
+      },
+      {
+        "path": "assets/items/items.otb",
+        "size": 1069979,
+        "sha256": "8077A4C23EC787E768C1F0F7DA0B4E1B363B4F240E2C97B0AB92AFA75B77AD35"
+      },
+      {
+        "path": "assets/world/mapanovo.otbm",
+        "size": 85960780,
+        "sha256": "0ADFABBC3F942D08253A37D0E7E5A6A96D22A146D63AA9EA6139B13D76DE87C1"
+      }
+    ],
+    "archives": {
+      "860": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261102-182417-323403\\860.rar",
+        "size": 90021435,
+        "sha256": "030FCF2A89DAE920013F221C43D777493F98DA7D0AA19CE9F1E07C2C10901664"
+      },
+      "items": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261102-182417-323403\\items.rar",
+        "size": 512677,
+        "sha256": "BD8E8ADFF9FDBBE75C9DA8CF7335A4A47909AEF35E2217EE19BB1E2D4355E5CE"
+      },
+      "world": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261102-182417-323403\\world.zip",
+        "size": 20491172,
+        "sha256": "8CA0920D09D7E6D34F571F8DBF3BC8BEA4D2A9379E81F5E60723A97A35C3A8C1"
+      }
+    },
+    "items_xml_excluded": true,
+    "world_entries": [
+      "mapanovo.otbm"
+    ],
+    "passed": true
+  },
+  "sprite_hash_gate": {
+    "sample_count": 64,
+    "mismatch_count": 0,
+    "mismatches": [],
+    "passed": true
+  },
+  "item_count": 3,
+  "new_sprite_count": 3,
+  "sprite_id_range": [
+    293247,
+    293249
+  ],
+  "items": [
+    {
+      "sequence": 1,
+      "client_id": 26074,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\mission-qa-20261102\\painting-1-client-13683.png",
+      "file_sha256": "079514904D84D04798321C572E1BC1FB8734AAE4D7FB4E14615090943DC41AC0",
+      "pixels_sha256": "825C08B3F8C80CB22D6B2EFBC4D2DEA3D09FFB90881BE9F2FED0F9C52A23408F",
+      "image_width": 32,
+      "image_height": 32,
+      "width_tiles": 1,
+      "height_tiles": 1,
+      "frames": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_ids": [
+        293247
+      ],
+      "sprite_hash": "6B0900901DE9A36B82890D1E110DF9D8",
+      "layout_preserved": false,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1
+    },
+    {
+      "sequence": 2,
+      "client_id": 26075,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\mission-qa-20261102\\painting-2-client-13683.png",
+      "file_sha256": "079514904D84D04798321C572E1BC1FB8734AAE4D7FB4E14615090943DC41AC0",
+      "pixels_sha256": "825C08B3F8C80CB22D6B2EFBC4D2DEA3D09FFB90881BE9F2FED0F9C52A23408F",
+      "image_width": 32,
+      "image_height": 32,
+      "width_tiles": 1,
+      "height_tiles": 1,
+      "frames": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_ids": [
+        293248
+      ],
+      "sprite_hash": "6B0900901DE9A36B82890D1E110DF9D8",
+      "layout_preserved": false,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1
+    },
+    {
+      "sequence": 3,
+      "client_id": 26076,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\mission-qa-20261102\\painting-3-client-13683.png",
+      "file_sha256": "079514904D84D04798321C572E1BC1FB8734AAE4D7FB4E14615090943DC41AC0",
+      "pixels_sha256": "825C08B3F8C80CB22D6B2EFBC4D2DEA3D09FFB90881BE9F2FED0F9C52A23408F",
+      "image_width": 32,
+      "image_height": 32,
+      "width_tiles": 1,
+      "height_tiles": 1,
+      "frames": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_ids": [
+        293249
+      ],
+      "sprite_hash": "6B0900901DE9A36B82890D1E110DF9D8",
+      "layout_preserved": false,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1
+    }
+  ],
+  "otb_nodes_updated": {
+    "26074": 1,
+    "26075": 1,
+    "26076": 1
+  },
+  "transaction_committed": true,
+  "output_hashes": {
+    "dat": "4114B8F5CEE92CE7B639F97557998F3FFACC06D3CC9D253F2557AB278D0C2989",
+    "spr": "882FFC18FFE251A8BECEAF6488A4204CF45A25684D0E58DDD20DB85CB586167E",
+    "otb": "CB4940418E92E08BB1163C4B709DA06437B595BB34BAEA6985F50C1450471BB1"
+  },
+  "dat_non_targets_preserved": true,
+  "old_sprite_payload_preserved": true,
+  "new_sprite_pixels_verified": true,
+  "layout_preserved_client_ids": [],
+  "untouched_files_preserved": true,
+  "map_byte_equal": true,
+  "final_validation_passed": true,
+  "warnings": [],
+  "errors": [],
+  "passed": true
+}

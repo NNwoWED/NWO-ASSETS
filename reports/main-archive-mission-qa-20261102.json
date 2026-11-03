@@ -1,0 +1,521 @@
+{
+  "main_archive": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\nwo-otclient-mehah-4.0\\data\\things\\860.rar",
+  "dat_size": 4621760,
+  "dat_sha256": "99723f228993e5d0e76993c8ce0e869fe5f35fb8acb6ffe1aff0f7507b1d1aa8",
+  "canonical_header": [
+    1277983123,
+    26095,
+    2289,
+    3363,
+    219
+  ],
+  "main_archive_header": [
+    1277983123,
+    26052,
+    2289,
+    3377,
+    219
+  ],
+  "changed_records": [
+    {
+      "category": "items",
+      "id": 1295
+    },
+    {
+      "category": "items",
+      "id": 11025
+    },
+    {
+      "category": "items",
+      "id": 11133
+    },
+    {
+      "category": "items",
+      "id": 11993
+    },
+    {
+      "category": "items",
+      "id": 13692
+    },
+    {
+      "category": "items",
+      "id": 13718
+    },
+    {
+      "category": "items",
+      "id": 13719
+    },
+    {
+      "category": "items",
+      "id": 13720
+    },
+    {
+      "category": "items",
+      "id": 13726
+    },
+    {
+      "category": "items",
+      "id": 13759
+    },
+    {
+      "category": "items",
+      "id": 13760
+    },
+    {
+      "category": "items",
+      "id": 13761
+    },
+    {
+      "category": "items",
+      "id": 14212
+    },
+    {
+      "category": "items",
+      "id": 15658
+    },
+    {
+      "category": "items",
+      "id": 15659
+    },
+    {
+      "category": "items",
+      "id": 15660
+    },
+    {
+      "category": "items",
+      "id": 16957
+    },
+    {
+      "category": "items",
+      "id": 16966
+    },
+    {
+      "category": "items",
+      "id": 16975
+    },
+    {
+      "category": "items",
+      "id": 16984
+    },
+    {
+      "category": "items",
+      "id": 16993
+    },
+    {
+      "category": "items",
+      "id": 17002
+    },
+    {
+      "category": "items",
+      "id": 18543
+    },
+    {
+      "category": "items",
+      "id": 18544
+    },
+    {
+      "category": "items",
+      "id": 18572
+    },
+    {
+      "category": "items",
+      "id": 18573
+    },
+    {
+      "category": "items",
+      "id": 18574
+    },
+    {
+      "category": "items",
+      "id": 18575
+    },
+    {
+      "category": "items",
+      "id": 18581
+    },
+    {
+      "category": "items",
+      "id": 18582
+    },
+    {
+      "category": "items",
+      "id": 18583
+    },
+    {
+      "category": "items",
+      "id": 18584
+    },
+    {
+      "category": "items",
+      "id": 18589
+    },
+    {
+      "category": "items",
+      "id": 18590
+    },
+    {
+      "category": "items",
+      "id": 18591
+    },
+    {
+      "category": "items",
+      "id": 18592
+    },
+    {
+      "category": "items",
+      "id": 18597
+    },
+    {
+      "category": "items",
+      "id": 18598
+    },
+    {
+      "category": "items",
+      "id": 18600
+    },
+    {
+      "category": "items",
+      "id": 18947
+    },
+    {
+      "category": "items",
+      "id": 18948
+    },
+    {
+      "category": "items",
+      "id": 18949
+    },
+    {
+      "category": "items",
+      "id": 18950
+    },
+    {
+      "category": "items",
+      "id": 24296
+    },
+    {
+      "category": "items",
+      "id": 24297
+    },
+    {
+      "category": "items",
+      "id": 24298
+    },
+    {
+      "category": "items",
+      "id": 24301
+    },
+    {
+      "category": "items",
+      "id": 24305
+    },
+    {
+      "category": "items",
+      "id": 24306
+    },
+    {
+      "category": "items",
+      "id": 24711
+    },
+    {
+      "category": "items",
+      "id": 24712
+    },
+    {
+      "category": "items",
+      "id": 24730
+    },
+    {
+      "category": "items",
+      "id": 24731
+    },
+    {
+      "category": "items",
+      "id": 24732
+    },
+    {
+      "category": "items",
+      "id": 24733
+    },
+    {
+      "category": "items",
+      "id": 24734
+    },
+    {
+      "category": "items",
+      "id": 24735
+    },
+    {
+      "category": "items",
+      "id": 24736
+    },
+    {
+      "category": "items",
+      "id": 24737
+    },
+    {
+      "category": "items",
+      "id": 24738
+    },
+    {
+      "category": "items",
+      "id": 24739
+    },
+    {
+      "category": "items",
+      "id": 24740
+    },
+    {
+      "category": "items",
+      "id": 24741
+    },
+    {
+      "category": "items",
+      "id": 26049
+    },
+    {
+      "category": "items",
+      "id": 26050
+    },
+    {
+      "category": "items",
+      "id": 26051
+    },
+    {
+      "category": "items",
+      "id": 26052
+    }
+  ],
+  "only_canonical": [
+    [
+      "items",
+      26053
+    ],
+    [
+      "items",
+      26054
+    ],
+    [
+      "items",
+      26055
+    ],
+    [
+      "items",
+      26056
+    ],
+    [
+      "items",
+      26057
+    ],
+    [
+      "items",
+      26058
+    ],
+    [
+      "items",
+      26059
+    ],
+    [
+      "items",
+      26060
+    ],
+    [
+      "items",
+      26061
+    ],
+    [
+      "items",
+      26062
+    ],
+    [
+      "items",
+      26063
+    ],
+    [
+      "items",
+      26064
+    ],
+    [
+      "items",
+      26065
+    ],
+    [
+      "items",
+      26066
+    ],
+    [
+      "items",
+      26067
+    ],
+    [
+      "items",
+      26068
+    ],
+    [
+      "items",
+      26069
+    ],
+    [
+      "items",
+      26070
+    ],
+    [
+      "items",
+      26071
+    ],
+    [
+      "items",
+      26072
+    ],
+    [
+      "items",
+      26073
+    ],
+    [
+      "items",
+      26074
+    ],
+    [
+      "items",
+      26075
+    ],
+    [
+      "items",
+      26076
+    ],
+    [
+      "items",
+      26077
+    ],
+    [
+      "items",
+      26078
+    ],
+    [
+      "items",
+      26079
+    ],
+    [
+      "items",
+      26080
+    ],
+    [
+      "items",
+      26081
+    ],
+    [
+      "items",
+      26082
+    ],
+    [
+      "items",
+      26083
+    ],
+    [
+      "items",
+      26084
+    ],
+    [
+      "items",
+      26085
+    ],
+    [
+      "items",
+      26086
+    ],
+    [
+      "items",
+      26087
+    ],
+    [
+      "items",
+      26088
+    ],
+    [
+      "items",
+      26089
+    ],
+    [
+      "items",
+      26090
+    ],
+    [
+      "items",
+      26091
+    ],
+    [
+      "items",
+      26092
+    ],
+    [
+      "items",
+      26093
+    ],
+    [
+      "items",
+      26094
+    ],
+    [
+      "items",
+      26095
+    ]
+  ],
+  "only_main_archive": [
+    [
+      "effects",
+      3364
+    ],
+    [
+      "effects",
+      3365
+    ],
+    [
+      "effects",
+      3366
+    ],
+    [
+      "effects",
+      3367
+    ],
+    [
+      "effects",
+      3368
+    ],
+    [
+      "effects",
+      3369
+    ],
+    [
+      "effects",
+      3370
+    ],
+    [
+      "effects",
+      3371
+    ],
+    [
+      "effects",
+      3372
+    ],
+    [
+      "effects",
+      3373
+    ],
+    [
+      "effects",
+      3374
+    ],
+    [
+      "effects",
+      3375
+    ],
+    [
+      "effects",
+      3376
+    ],
+    [
+      "effects",
+      3377
+    ]
+  ]
+}

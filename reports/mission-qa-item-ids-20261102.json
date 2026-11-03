@@ -1,0 +1,112 @@
+[
+  {
+    "server_id": 2481,
+    "client_id": 3375,
+    "dat_flags": [
+      "pickupable"
+    ],
+    "otb_flags": 96
+  },
+  {
+    "server_id": 13683,
+    "client_id": 12806,
+    "dat_flags": [
+      "on_bottom",
+      "unpassable",
+      "unmoveable",
+      "block_missile",
+      "mini_map"
+    ],
+    "otb_flags": 8195
+  },
+  {
+    "server_id": 26956,
+    "client_id": 26071,
+    "dat_flags": [
+      "pickupable",
+      "lens_help"
+    ],
+    "otb_flags": 16480
+  },
+  {
+    "server_id": 26957,
+    "client_id": 26072,
+    "dat_flags": [
+      "pickupable",
+      "lens_help"
+    ],
+    "otb_flags": 16480
+  },
+  {
+    "server_id": 26958,
+    "client_id": 26073,
+    "dat_flags": [
+      "pickupable",
+      "lens_help"
+    ],
+    "otb_flags": 16480
+  },
+  {
+    "server_id": 26959,
+    "client_id": 26074,
+    "dat_flags": [
+      "pickupable",
+      "lens_help"
+    ],
+    "otb_flags": 16480
+  },
+  {
+    "server_id": 26960,
+    "client_id": 26075,
+    "dat_flags": [
+      "pickupable",
+      "lens_help"
+    ],
+    "otb_flags": 16480
+  },
+  {
+    "server_id": 26961,
+    "client_id": 26076,
+    "dat_flags": [
+      "pickupable",
+      "lens_help"
+    ],
+    "otb_flags": 16480
+  },
+  {
+    "server_id": 26962,
+    "client_id": 26077,
+    "dat_flags": [
+      "unpassable",
+      "unmoveable"
+    ],
+    "otb_flags": 1
+  },
+  {
+    "server_id": 26964,
+    "client_id": 26079,
+    "dat_flags": [
+      "multi_use",
+      "pickupable"
+    ],
+    "otb_flags": 112
+  },
+  {
+    "server_id": 26969,
+    "client_id": 26084,
+    "dat_flags": [
+      "multi_use",
+      "pickupable"
+    ],
+    "otb_flags": 112
+  },
+  {
+    "server_id": 26970,
+    "client_id": 26085,
+    "dat_flags": [
+      "stackable",
+      "pickupable"
+    ],
+    "otb_flags": 224
+  }
+]

@@ -1,0 +1,3 @@
+sequence,server_id,client_id,dat_add_flags,dat_remove_flags,otb_add_flags,otb_remove_flags
+1,26964,26079,force_use,multi_use,force_use,usable
+2,26969,26084,force_use,multi_use,force_use,usable

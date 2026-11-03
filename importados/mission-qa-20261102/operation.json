@@ -1,0 +1,75 @@
+{
+  "operation": "substituir",
+  "purpose": "Pinturas I/II/III da Emiko usam aparência Client ID 13683, mantendo IDs e todas as propriedades. Martelo e relíquia passam a uso direto conforme QA.",
+  "source": {
+    "requested_id": 13683,
+    "client_id": 13683,
+    "server_ids": [
+      14560
+    ],
+    "name": "Pergaminho Base",
+    "group_index": 0,
+    "width": 32,
+    "height": 32,
+    "layers": 1,
+    "pattern_x": 1,
+    "pattern_y": 1,
+    "pattern_z": 1,
+    "frames": 1,
+    "sprite_ids": [
+      249658
+    ],
+    "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\client-13683_server-14560_pergaminho-base.png",
+    "size": 454,
+    "sha256": "079514904D84D04798321C572E1BC1FB8734AAE4D7FB4E14615090943DC41AC0"
+  },
+  "target_items": [
+    {
+      "server_id": 26959,
+      "client_id": 26074,
+      "dat_flags": [
+        "pickupable",
+        "lens_help"
+      ],
+      "otb_flags": 16480
+    },
+    {
+      "server_id": 26960,
+      "client_id": 26075,
+      "dat_flags": [
+        "pickupable",
+        "lens_help"
+      ],
+      "otb_flags": 16480
+    },
+    {
+      "server_id": 26961,
+      "client_id": 26076,
+      "dat_flags": [
+        "pickupable",
+        "lens_help"
+      ],
+      "otb_flags": 16480
+    },
+    {
+      "server_id": 26964,
+      "client_id": 26079,
+      "dat_flags": [
+        "multi_use",
+        "pickupable"
+      ],
+      "otb_flags": 112
+    },
+    {
+      "server_id": 26969,
+      "client_id": 26084,
+      "dat_flags": [
+        "multi_use",
+        "pickupable"
+      ],
+      "otb_flags": 112
+    }
+  ],
+  "layout": "32x32 RGBA, uma camada/padrão/frame, exportação canônica sem redimensionamento",
+  "properties": "Importação visual preserva propriedades. Operação separada autorizada: retirar multi_use/usable e habilitar force_use nos SIDs 26964 e 26969."
+}

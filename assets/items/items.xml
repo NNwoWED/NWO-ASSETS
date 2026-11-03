@@ -19877,21 +19877,17 @@
 <item id="26931" name="Roof" />
 <item id="26932" name="Roof" />
 <item id="26933" name="Roof" />
-	<item id="26934" article="a" name="Scrap Cloth" plural="Black cloths">
-		<attribute key="description" value="Tecido negro usado na fabricação de roupas e equipamentos." />
-		<attribute key="market" value="1" />
+	<item id="26934" article="an" name="Orochimaru Snake Coin" plural="Orochimaru Snake Coins">
+		<attribute key="description" value="Moeda do evento do Orochimaru." />
 	</item>
-	<item id="26935" article="a" name="Mask Forge Essence" plural="Black cloths">
-		<attribute key="description" value="Tecido negro usado na fabricação de roupas e equipamentos." />
-		<attribute key="market" value="1" />
+	<item id="26935" article="a" name="Chave de Bronze da Serpente" plural="Chaves de Bronze da Serpente">
+		<attribute key="description" value="Chave utilizada para abrir um dos covis do Orochimaru." />
 	</item>
-	<item id="26936" article="a" name="Vest Forge Essence" plural="Black cloths">
-		<attribute key="description" value="Tecido negro usado na fabricação de roupas e equipamentos." />
-		<attribute key="market" value="1" />
+	<item id="26936" article="a" name="Chave de Prata da Serpente" plural="Chaves de Prata da Serpente">
+		<attribute key="description" value="Chave utilizada para abrir um dos covis do Orochimaru." />
 	</item>
-	<item id="26937" article="a" name="Legs Forge Essence" plural="Black cloths">
-		<attribute key="description" value="Tecido negro usado na fabricação de roupas e equipamentos." />
-		<attribute key="market" value="1" />
+	<item id="26937" article="a" name="Chave de Ouro da Serpente" plural="Chaves de Ouro da Serpente">
+		<attribute key="description" value="Chave utilizada para abrir um dos covis do Orochimaru." />
 	</item>
 	<item id="26938" article="a" name="Boots Forge Essence" plural="Black cloths">
 		<attribute key="description" value="Tecido negro usado na fabricação de roupas e equipamentos." />
@@ -19944,15 +19940,15 @@
 	</item>
 	<item id="26956" article="a" name="Crônicas da Vila">
 		<attribute key="weight" value="1300" />
-	  <attribute key="description" value="Yumi — livro 1/3. Apar?ncia provis?ria para valida??o da miss?o."/>
+	  <attribute key="description" value="Uma coletânea de acontecimentos e relatos que marcaram a história da Vila da Folha. Pertence à biblioteca de Yumi."/>
 </item>
 	<item id="26957" article="a" name="História das Grandes Guerras">
 		<attribute key="weight" value="1300" />
-	  <attribute key="description" value="Yumi — livro 2/3. Apar?ncia provis?ria para valida??o da miss?o."/>
+	  <attribute key="description" value="Uma obra sobre os conflitos que transformaram o mundo ninja e as consequências deixadas pelas grandes guerras. Pertence à biblioteca de Yumi."/>
 </item>
 	<item id="26958" article="a" name="Registros das Cinco Grandes Vilas">
 		<attribute key="weight" value="1300" />
-	  <attribute key="description" value="Yumi — livro 3/3. Apar?ncia provis?ria para valida??o da miss?o."/>
+	  <attribute key="description" value="Um volume que reúne informações históricas sobre as cinco grandes vilas ninja. Pertence à biblioteca de Yumi."/>
 </item>
 	<item id="26959" article="a" name="Pintura Incompleta I">
 		<attribute key="weight" value="1300" />
@@ -20038,5 +20034,21 @@
 	<item id="26980" article="a" name="Pergaminho de Selamento Antigo">
 		<attribute key="description" value="Mayu — item-chave permanente do Codex. Apar?ncia provis?ria para valida??o da miss?o."/>
 		<attribute key="weight" value="30" />
+	</item>
+	<item id="26981" article="a" name="Scrap Cloth" plural="Black cloths">
+		<attribute key="description" value="Tecido negro usado na fabricação de roupas e equipamentos." />
+		<attribute key="market" value="1" />
+	</item>
+	<item id="26982" article="a" name="Mask Forge Essence" plural="Black cloths">
+		<attribute key="description" value="Tecido negro usado na fabricação de roupas e equipamentos." />
+		<attribute key="market" value="1" />
+	</item>
+	<item id="26983" article="a" name="Vest Forge Essence" plural="Black cloths">
+		<attribute key="description" value="Tecido negro usado na fabricação de roupas e equipamentos." />
+		<attribute key="market" value="1" />
+	</item>
+	<item id="26984" article="a" name="Legs Forge Essence" plural="Black cloths">
+		<attribute key="description" value="Tecido negro usado na fabricação de roupas e equipamentos." />
+		<attribute key="market" value="1" />
 	</item>
 </items>

@@ -1,0 +1,41 @@
+{
+  "authorization": "Usuário em 02/11/2026: preservar os IDs do evento e mover os quatro materiais dos estrelados.",
+  "decisions": [
+    {
+      "category": "items",
+      "client_id": 26049,
+      "keep": "incoming",
+      "canonical_record_sha256": "860272ea3d65c0565d03e956d7d2cb5355e09ef15c51e597d968d4e190ba031b",
+      "incoming_record_sha256": "fbd3728ddc8015ac85b575e9ac8bd230307d6a55b84b8c46a09a95d5cbb2f7a3",
+      "relocated_feature_server_id": 26981,
+      "relocated_feature_client_id": 26096
+    },
+    {
+      "category": "items",
+      "client_id": 26050,
+      "keep": "incoming",
+      "canonical_record_sha256": "03a663b0c173afea14c59b0192256f328e2a93c3fe24b6db919a156731dabae2",
+      "incoming_record_sha256": "637ad7509e5708dece6ace0b0882f72c3766c13ef5b346ddbdb74c75b43d69ad",
+      "relocated_feature_server_id": 26982,
+      "relocated_feature_client_id": 26097
+    },
+    {
+      "category": "items",
+      "client_id": 26051,
+      "keep": "incoming",
+      "canonical_record_sha256": "4fd74d654f8be065ed538511242e5c2f3360adcca0138dadf5aecc43b0d90caa",
+      "incoming_record_sha256": "1a612ac4555b12f92117ad6dc310428037b57e1a8ef867cf661024da16fdc25a",
+      "relocated_feature_server_id": 26983,
+      "relocated_feature_client_id": 26098
+    },
+    {
+      "category": "items",
+      "client_id": 26052,
+      "keep": "incoming",
+      "canonical_record_sha256": "b4f194c89f887148aa9ad831f4c3a46f8fc448ed70fdf4d08ea82a0e5807b718",
+      "incoming_record_sha256": "03e283553aefcb62376fc30f9025980db87a6feb8d8f6ad4273c063f5946346d",
+      "relocated_feature_server_id": 26984,
+      "relocated_feature_client_id": 26099
+    }
+  ]
+}

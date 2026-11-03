@@ -1,0 +1,88 @@
+{
+  "passed": true,
+  "sync_report": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\reports\\sync-mission-qa-consolidated-20261102.json",
+  "archived": [
+    {
+      "original_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\mission-qa-20261102",
+      "archived_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\importados\\mission-qa-20261102",
+      "files": [
+        {
+          "file": "operation.json",
+          "sha256": "2848F0CC05B7019DA07970EFE12A76AEE59F603514ABCFEFB31C6077E29E4F3A",
+          "size": 1919
+        },
+        {
+          "file": "painting-1-client-13683.png",
+          "sha256": "079514904D84D04798321C572E1BC1FB8734AAE4D7FB4E14615090943DC41AC0",
+          "size": 454
+        },
+        {
+          "file": "painting-2-client-13683.png",
+          "sha256": "079514904D84D04798321C572E1BC1FB8734AAE4D7FB4E14615090943DC41AC0",
+          "size": 454
+        },
+        {
+          "file": "painting-3-client-13683.png",
+          "sha256": "079514904D84D04798321C572E1BC1FB8734AAE4D7FB4E14615090943DC41AC0",
+          "size": 454
+        },
+        {
+          "file": "painting-client-13683.png",
+          "sha256": "079514904D84D04798321C572E1BC1FB8734AAE4D7FB4E14615090943DC41AC0",
+          "size": 454
+        },
+        {
+          "file": "paintings.csv",
+          "sha256": "51514594EAA431250B0FE490537D87624079FCE18A39B75554176F3D52B219A8",
+          "size": 143
+        },
+        {
+          "file": "properties.csv",
+          "sha256": "24BD3D5E38CD51EBA1A6D9A1660F9C00D0817A09BC558D08A1CF49598CCA8165",
+          "size": 196
+        }
+      ]
+    },
+    {
+      "original_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\star-material-relocation-20261102",
+      "archived_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\importados\\star-material-relocation-20261102",
+      "files": [
+        {
+          "file": "manifest.csv",
+          "sha256": "08658E132B60052665FED570B1B52370C24FDC636D1AF0F086F2BC0C864E2DC9",
+          "size": 335
+        },
+        {
+          "file": "material-1.png",
+          "sha256": "779B03136FC3F45FC94588CA6C2BC13DD566F72C2D6DF122C93D264240ECCBA3",
+          "size": 388
+        },
+        {
+          "file": "material-2.png",
+          "sha256": "F5655501A7D5C34A415916B60C324243E831539AFBE2572F8C040EB6236A8DEB",
+          "size": 1056
+        },
+        {
+          "file": "material-3.png",
+          "sha256": "F5655501A7D5C34A415916B60C324243E831539AFBE2572F8C040EB6236A8DEB",
+          "size": 1056
+        },
+        {
+          "file": "material-4.png",
+          "sha256": "F5655501A7D5C34A415916B60C324243E831539AFBE2572F8C040EB6236A8DEB",
+          "size": 1056
+        },
+        {
+          "file": "operation.json",
+          "sha256": "139BCC2B36607EC7514903B8C9D490D9663BEF1F5D1FD2DCB778145616DE67F9",
+          "size": 4575
+        },
+        {
+          "file": "resolutions.json",
+          "sha256": "12083FD1AA568187148D80DDE1D19A1DA505145D6C8D34BA205C4DD97036EDC7",
+          "size": 1700
+        }
+      ]
+    }
+  ]
+}

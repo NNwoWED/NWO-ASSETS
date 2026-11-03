@@ -174,3 +174,12 @@
 - `import-cloned-items` executado primeiro em dry-run profundo; backup autom?tico completo criado e testado antes da escrita. Registros antigos DAT/OTB, payload SPR e mapa preservados; novos pixels e SpriteHash verificados.
 - Valida??o profunda final sem erros; sincroniza??o oficial aprovada para servidor, RME, mobile, NWO-STUDIO e worktree PC `build/mob-estrelado`, com hashes e RARs testados. Entradas e manifesto arquivados em `importados/country-missions-20261028/`.
 - Relat?rios: `reports/import-country-missions-20261028.json`, `reports/validation-country-missions-20261028.json`, `reports/sync-country-missions-20261028.json`. Mec?nicas das miss?es ainda em desenvolvimento; este lote entrega somente os assets provis?rios.
+
+
+## 02/11/2026 — Revisão das 16 missões da branch mob-estrelado
+
+Livros de Yumi com descrições corrigidas; pinturas 26959–26961 com aparência do Client ID 13683; martelo e relíquia com uso direto. Criados por import-cloned-items os materiais 26981–26984 / Client IDs 26096–26099, preservando 26934–26937 para o evento Orochimaru. Consolidado o 860.rar da main com a baseline da mob-estrelado: 81 aparências incorporadas, incluindo 14 efeitos, 3.705 sprites anexados, sem perder os itens da branch. Versões compactadas testadas, pixels/hashes e validação profunda aprovados. Pendente: sincronização oficial bloqueada pelo Tibia.spr aberto no NWO-STUDIO. Cards permanecem Em andamento.
+
+## 02/11/2026 — Sincronização concluída das correções das missões
+
+Sincronização oficial concluída: 31 destinos de arquivos conferidos, metadados iguais no PC/mobile/Studio, RARs de things e mapa testados. Validação profunda final aprovada e arquivos de entrada arquivados em importados/mission-qa-20261102 e importados/star-material-relocation-20261102. Relatórios: sync-mission-qa-consolidated-20261102.json, validation-mission-qa-after-sync-20261102.json e archive-mission-qa-inputs-20261102.json. O 860.rar de origem da main foi preservado.
