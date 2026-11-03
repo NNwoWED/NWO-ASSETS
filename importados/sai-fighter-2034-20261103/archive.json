@@ -1,0 +1,21 @@
+{
+  "outfitId": 2034,
+  "name": "Sai Fighter",
+  "originalAndImportedPngSame": true,
+  "version": "20261103-153203-173298",
+  "files": [
+    {
+      "path": "importados\\sai-fighter-2034-20261103\\lutador_iwa-Sheet.png",
+      "sha256": "ce7f8edeea42ffdc44ac4b57d6fe95f2a8417c7d850a425e2a1898153316b937"
+    },
+    {
+      "path": "importados\\sai-fighter-2034-20261103\\sai-fighter-outfit-20261103.csv",
+      "sha256": "62239feea98c256493639b7c0f0c78dfa4a764c6725b50881b477eb60499c8d5"
+    }
+  ],
+  "sourcePixelsVerified": true,
+  "deepValidation": true,
+  "runtimeSync": true,
+  "monsterCreated": false,
+  "pending": "Usuário escolheu outro nível ou referência e ainda precisa informar qual; não foram presumidos atributos do mob."
+}

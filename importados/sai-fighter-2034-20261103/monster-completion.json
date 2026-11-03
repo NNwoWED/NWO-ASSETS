@@ -1,0 +1,27 @@
+{
+  "monsterCreated": true,
+  "name": "Sai Fighter",
+  "level": 400,
+  "tier": 10,
+  "outfitId": 2034,
+  "monsterFile": "Server-Data-Nwo/data/monster/Iwagakure/Sai Fighter.xml",
+  "registrationFile": "Server-Data-Nwo/data/monster/monsters.xml",
+  "balanceReport": "Server-Data-Nwo/data/docs/monsters/sai-fighter-balance-20261103.json",
+  "monsterXmlSha256": "ae3f2db2e445b36aded1a09d7996b5ab8d83aeba297bc05d6a3c3578308c759d",
+  "verification": {
+    "xml": true,
+    "uniqueRegistration": true,
+    "tier": true,
+    "spellAndEventRegistered": true,
+    "lootAndCorpseExist": true,
+    "outfitValidatedAndSynced": true,
+    "productionXmlLoader": {
+      "passed": true,
+      "log": "G:\\Meu Drive\\NEW NWO\\logs\\sai-fighter-native-loader-20261103.log",
+      "logSha256": "901e31879497588e39d0b58adc4cbd42121e28e5165488f9efc612571b73ea28",
+      "method": "Parser XML e estruturas reais do servidor, compilados com ASAN/UBSAN. XML real do Sai Fighter. Registro Lua, catálogo de itens e Game substituídos por doubles; sem iniciar jogo ou banco.",
+      "liveCombatTested": false
+    }
+  },
+  "note": "Complemento do registro histórico archive.json, criado antes da definição de nível. Nenhuma nova alteração de DAT/SPR/OTB/OTBM nesta etapa."
+}

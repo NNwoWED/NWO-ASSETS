@@ -153,3 +153,18 @@
 - Preservadas todas as definições existentes no XML da main, incluindo as lápides coloridas 14271-14381 e o texto atualizado dos guizos 25601. OTB mantém os vínculos, propriedades e SpriteHash dos itens antigos da main. Catálogo derivado do servidor atualizado com as entradas novas já preparadas.
 - Validação profunda aprovada, versão compactada criada/testada antes da alteração e sincronização obrigatória concluída: 31 arquivos e três RARs, incluindo mobile, RME e NWO-STUDIO. O 860.rar foi recriado preservando o perfil OTFI da main. Verificação estática mobile aprovada; APK dispensado pelo usuário.
 - Relatórios: reports/main-asset-pick-verified-20261103.json, reports/main-committed-dat-comparison-20261103.json, reports/validation-main-asset-pick-final-20261103.json, reports/sync-main-asset-pick-20261103.json e reports/version-before-main-asset-pick-20261103.json.
+
+## 03/11/2026 - Aparência preparada para o Sai Fighter
+
+- Importada a folha original lutador_iwa-Sheet como nova outfit2034, antes vazia e sem uso como outfit nos conteúdos consultados. Quatro direções, quadros64x64, oito quadros parado e oito de caminhada, com100ms por quadro. Preservados os pixels, sem redimensionamento ou geração por IA.
+- NWO-ASSETS criou/testou a versão20261103-153203-173298 antes de modificar DAT/SPR. Foram acrescentados256sprites(296965–297220); demais outfits, registros DAT, sprites anteriores, OTB/XML de itens e mapa permaneceram preservados. A exportação da outfit reproduziu a folha original e confirmou os tempos dos dois grupos.
+- Validação profunda e sincronização com PC, mobile, servidor, RME e NWO-STUDIO aprovadas. Originais e manifesto arquivados em NWO-ASSETS/importados/sai-fighter-2034-20261103. Relatórios sai-fighter-*.json em NWO-ASSETS/reports. A mudança é de assets; não houve alteração de código dos clients nem compilação de APK.
+- A criação do monstro Sai Fighter aguarda o nível ou mob de referência que o usuário optou por definir. Nenhum atributo foi presumido; XML/registro/spawn do monstro ainda não foram criados. Sem banco, publicação, commit ou push nesta tarefa.
+
+
+## 03/11/2026 - Sai Fighter criado no nível 400
+
+- Concluído o monstro comum Sai Fighter, nível 400/tier 10, com a outfit 2034 já importada de lutador_iwa-Sheet. Criado data/monster/Iwagakure/Sai Fighter.xml e adicionado o registro em monsters.xml.
+- A pedido do usuário, calculada uma base de balanceamento pelo fator 400/170 do Dirt Pugilist: 8.000 de vida, 1.334 de XP, dano corpo a corpo de 1.376 a 2.292 a cada 1.000 ms, armadura 3.388 e defesa 24. Velocidade 660 por extrapolação de Water Shinobi (300/610) e Water Assassin (320/620). Loot Bone (11574), de 1 a 9, com chance base preservada de 40%; corpse Loot bag (7342). Valores nominais sujeitos às taxas e modificadores do jogo.
+- XML, cálculo, registro único, tier, vínculo de spell/evento e IDs de loot/corpse conferidos. O carregador XML real de C++ aceitou os atributos com ASAN/UBSAN; dependências de Game/Lua/itens simuladas, sem iniciar o servidor ou acessar banco. Cálculos e evidências em Server-Data-Nwo/data/docs/monsters/sai-fighter-balance-20261103.json; log em G:\Meu Drive\NEW NWO\logs\sai-fighter-native-loader-20261103.log.
+- Mantida a validação profunda e sincronização de assets aprovadas na etapa anterior, incluindo desktop, mobile e NWO-STUDIO. Esta etapa alterou apenas o cadastro do monstro, sem novo código de client ou compilação de APK. Não foram alterados outros monstros, taxas globais, spawns ou mapa. Para QA, carregar os novos XMLs e usar /m Sai Fighter; validar animação, alcance, dificuldade e loot em jogo. Sem publicação, commit ou push nesta tarefa.

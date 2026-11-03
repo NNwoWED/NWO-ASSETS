@@ -1,0 +1,45 @@
+{
+  "operation": "usar outfit reservada vazia",
+  "name": "Sai Fighter",
+  "purpose": "Nova aparência do monstro Sai Fighter de Iwagakure",
+  "outfitId": 2034,
+  "clientId": 2034,
+  "serverItemId": null,
+  "serverBinding": "look type=2034 no XML do monstro; outfits não usam vínculo OTB",
+  "source": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\lutador_iwa-Sheet.png",
+  "sourceSha256": "CE7F8EDEEA42FFDC44AC4B57D6FE95F2A8417C7D850A425E2A1898153316B937",
+  "sourcePng": "RGBA8 não entrelaçado",
+  "sheetWidth": 256,
+  "sheetHeight": 1024,
+  "frameWidth": 64,
+  "frameHeight": 64,
+  "directions": [
+    "north",
+    "east",
+    "south",
+    "west"
+  ],
+  "frameGroups": [
+    {
+      "type": "idle",
+      "frames": 8
+    },
+    {
+      "type": "moving",
+      "frames": 8
+    }
+  ],
+  "frameDurationMs": 100,
+  "referenceOutfit": 2131,
+  "propertyPolicy": "Preservar flags vazias do alvo DAT, clonar somente layout visual da referência. OTB/XML de itens/mapa inalterados. Sem luz adicional.",
+  "originalEqualsImported": true,
+  "processing": "Nenhum recorte, escala, suavização ou geração por IA. Folha original já corresponde ao formato de importação de outfits.",
+  "referenceAudit": "Sem referências como outfit em vocações/NPCs/monstros, módulos PC/mobile e metadados canônicos. 2034 no C++ é intervalo de efeitos; nos scripts/XML restantes é item ou coordenada.",
+  "protectedBefore": {
+    "assets/860/Tibia.dat": "3DFB3F131BF3045E98EB15BFFC45975CA534C621A09B3DDA7B1098B916939649",
+    "assets/860/Tibia.spr": "86B9CF9A22B20C09DA2B45479E3C94DAA73CCAB016C029328D06461DAFA9458A",
+    "assets/items/items.otb": "972E4D57B65A1E9E0F7C0C6D40145E16B61CD85887C3801BAF110D0051BC7DAC",
+    "assets/items/items.xml": "FA3705680249BC2C64B748F53951D01E473FCA18C232069AA18BC0D089C771C5",
+    "assets/world/mapanovo.otbm": "E871E87830F374D67F745D2FF8799882DED903D7AEFF896F67DA5C6A48119D0E"
+  }
+}
