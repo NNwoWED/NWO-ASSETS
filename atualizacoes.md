@@ -145,3 +145,11 @@
 - 28 testes aprovados, incluindo importacao completa em assets sinteticos com versao RAR testada e restauracao por falha simulada;67 folhas originais de agua preparadas em modo somente leitura. Inventario atualizado:71 candidatos ativos,67 superficies e24 variantes adicionais localizadas por referencias de sprites.
 - DAT/SPR/OTB/XML/mapa oficiais permanecem intactos em relacao ao inicio desta analise. Validacao profunda sem erros ou avisos. Correcao visual ainda nao aplicada: aguarda aprovacao da paleta e conferencias finais antes da importacao/sincronizacao. Card permanece Em correcao; nenhum novo card movido para Validacao nesta etapa.
 - Relatorio: trello-resolve/water_import_tooling_report.json; NWO-ASSETS/reports/validation-water-import-tooling-20261020.json. Sem alteracao de runtime PC/mobile; APK dispensado pelo usuario.
+
+## 03/11/2026 - Promover assets consolidados para a branch principal
+
+- DAT, SPR, items.otb e items.xml consolidados da mob-estrelado promovidos para master do NWO-ASSETS, main do client PC e main do servidor, sem transferir código de missões ou dos Estrelados.
+- Preservados os 31.838 registros do DAT do pacote commitado anteriormente na main, incluindo pixels, propriedades e tempos das animações. Acrescentados 47 itens (Client IDs 26053-26099 / Server IDs 26938-26984). Os itens do evento 26934-26937 mantêm seus IDs; os quatro materiais antes conflitantes continuam em 26981-26984.
+- Preservadas todas as definições existentes no XML da main, incluindo as lápides coloridas 14271-14381 e o texto atualizado dos guizos 25601. OTB mantém os vínculos, propriedades e SpriteHash dos itens antigos da main. Catálogo derivado do servidor atualizado com as entradas novas já preparadas.
+- Validação profunda aprovada, versão compactada criada/testada antes da alteração e sincronização obrigatória concluída: 31 arquivos e três RARs, incluindo mobile, RME e NWO-STUDIO. O 860.rar foi recriado preservando o perfil OTFI da main. Verificação estática mobile aprovada; APK dispensado pelo usuário.
+- Relatórios: reports/main-asset-pick-verified-20261103.json, reports/main-committed-dat-comparison-20261103.json, reports/validation-main-asset-pick-final-20261103.json, reports/sync-main-asset-pick-20261103.json e reports/version-before-main-asset-pick-20261103.json.

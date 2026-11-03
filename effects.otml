@@ -4244,3 +4244,58 @@ effects:
     opacity: 1.0
     effect-displacement: 48 48
     draweffectorder: 2
+  3364: // Orochimaru cura: brilho do chao (sob o jogador)
+    opacity: 1.0
+    center-sqm
+    draweffectorder: 2
+    isLoop
+  3365: // Orochimaru cura: simbolo flutuante
+    opacity: 1.0
+    center-sqm
+    isLoop
+  3366: // Orochimaru cura: ativacao no personagem
+    opacity: 1.0
+    center-sqm
+  3367: // Orochimaru olho de aguia: radar do chao (sob o jogador)
+    opacity: 1.0
+    center-sqm
+    draweffectorder: 2
+    isLoop
+  3368: // Orochimaru olho de aguia: olho flutuante
+    opacity: 1.0
+    center-sqm
+    isLoop
+  3369: // Orochimaru olho de aguia: varredura no piso
+    opacity: 1.0
+    center-sqm
+    draweffectorder: 2
+  3370: // Orochimaru olho de aguia: ativacao no personagem
+    opacity: 1.0
+    center-sqm
+  3371: // Orochimaru olho de aguia: alvo localizado
+    opacity: 1.0
+    center-sqm
+  3372: // Orochimaru random: brilho do chao (sob o jogador)
+    opacity: 1.0
+    center-sqm
+    draweffectorder: 2
+    isLoop
+  3373: // Orochimaru random: interrogacao flutuante
+    opacity: 1.0
+    center-sqm
+    isLoop
+  3374: // Orochimaru random: ativacao no personagem
+    opacity: 1.0
+    center-sqm
+  3375: // Orochimaru speed: brilho do chao (sob o jogador)
+    opacity: 1.0
+    center-sqm
+    draweffectorder: 2
+    isLoop
+  3376: // Orochimaru speed: asa flutuante
+    opacity: 1.0
+    center-sqm
+    isLoop
+  3377: // Orochimaru speed: ativacao no personagem
+    opacity: 1.0
+    center-sqm
