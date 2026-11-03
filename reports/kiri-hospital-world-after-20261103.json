@@ -1,0 +1,108 @@
+{
+  "maps": [
+    {
+      "source": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\world\\mapanovo.otbm",
+      "file_identifier": 0,
+      "root_node_type": 0,
+      "map_version": 2,
+      "width": 3000,
+      "height": 3000,
+      "items_major_version": 3,
+      "items_minor_version": 20,
+      "description": "No map description available.",
+      "tree": {
+        "total_bytes_read": 85960822,
+        "total_nodes": 10909043,
+        "node_starts": 10909043,
+        "node_ends": 10909043,
+        "balanced": true
+      },
+      "size": 85960822,
+      "sha256": "E871E87830F374D67F745D2FF8799882DED903D7AEFF896F67DA5C6A48119D0E"
+    }
+  ],
+  "archives": [],
+  "xml": [
+    {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\world\\mapanovo-areas.xml",
+      "size": 492,
+      "encoding": "utf-8-sig",
+      "fragment": false,
+      "root": "areapalette",
+      "element_count": 6,
+      "tag_counts": {
+        "area": 1,
+        "areapalette": 1,
+        "region": 3,
+        "sub": 1
+      },
+      "numeric_id_min": 1,
+      "numeric_id_max": 1
+    },
+    {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\world\\mapanovo-house.xml",
+      "size": 19061,
+      "encoding": "utf-8-sig",
+      "fragment": false,
+      "root": "houses",
+      "element_count": 163,
+      "tag_counts": {
+        "house": 162,
+        "houses": 1
+      },
+      "numeric_id_min": 4,
+      "numeric_id_max": 165
+    },
+    {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\world\\mapanovo-spawn.xml",
+      "size": 1666402,
+      "encoding": "utf-8-sig",
+      "fragment": false,
+      "root": "spawns",
+      "element_count": 21758,
+      "tag_counts": {
+        "monster": 10897,
+        "npc": 59,
+        "spawn": 10801,
+        "spawns": 1
+      },
+      "numeric_id_min": null,
+      "numeric_id_max": null
+    },
+    {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\world\\mapanovo-things.xml",
+      "size": 57606,
+      "encoding": "utf-8-sig",
+      "fragment": false,
+      "root": "areapalette",
+      "element_count": 734,
+      "tag_counts": {
+        "apng": 10,
+        "area": 1,
+        "areapalette": 1,
+        "region": 720,
+        "sound": 1,
+        "sub": 1
+      },
+      "numeric_id_min": 0,
+      "numeric_id_max": 1
+    },
+    {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\world\\routes.xml",
+      "size": 27301,
+      "encoding": "utf-8-sig",
+      "fragment": false,
+      "root": "routes",
+      "element_count": 509,
+      "tag_counts": {
+        "route": 72,
+        "routes": 1,
+        "waypoint": 436
+      },
+      "numeric_id_min": 1,
+      "numeric_id_max": 9816
+    }
+  ],
+  "map_variants": 1,
+  "identical_map_groups": []
+}

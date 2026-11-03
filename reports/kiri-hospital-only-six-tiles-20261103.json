@@ -1,0 +1,116 @@
+{
+  "passed": true,
+  "canonicalMapSha256": "e871e87830f374d67f745d2ff8799882ded903d7aeff896f67da5c6a48119d0e",
+  "versionId": "20261103-081751-280069",
+  "before": {
+    "totalTiles": 8300115,
+    "otherTileSha256Xor": "069bf47907ffbf0df37ae715d46b94ffe154766b771b4f4cfcfd5c9e70d2df19",
+    "otherTileSha256Sum": "0748b6c7a20f93d0e191930b390a377d75c14e18fa74333cf1715abb156f4fd1",
+    "selected": {
+      "(1801, 1000, 2)": {
+        "items": [
+          431,
+          18036
+        ],
+        "flags": 0,
+        "house": null
+      },
+      "(1801, 1001, 2)": {
+        "items": [
+          431,
+          18036
+        ],
+        "flags": 0,
+        "house": null
+      },
+      "(1801, 1002, 2)": {
+        "items": [
+          431,
+          18036
+        ],
+        "flags": 0,
+        "house": null
+      },
+      "(1802, 1000, 2)": {
+        "items": [
+          431,
+          18036
+        ],
+        "flags": 0,
+        "house": null
+      },
+      "(1802, 1001, 2)": {
+        "items": [
+          431,
+          18036
+        ],
+        "flags": 0,
+        "house": null
+      },
+      "(1802, 1002, 2)": {
+        "items": [
+          431,
+          18036
+        ],
+        "flags": 0,
+        "house": null
+      }
+    }
+  },
+  "after": {
+    "totalTiles": 8300115,
+    "otherTileSha256Xor": "069bf47907ffbf0df37ae715d46b94ffe154766b771b4f4cfcfd5c9e70d2df19",
+    "otherTileSha256Sum": "0748b6c7a20f93d0e191930b390a377d75c14e18fa74333cf1715abb156f4fd1",
+    "selected": {
+      "(1801, 1000, 2)": {
+        "items": [
+          431,
+          18036
+        ],
+        "flags": 1,
+        "house": null
+      },
+      "(1801, 1001, 2)": {
+        "items": [
+          431,
+          18036
+        ],
+        "flags": 1,
+        "house": null
+      },
+      "(1801, 1002, 2)": {
+        "items": [
+          431,
+          18036
+        ],
+        "flags": 1,
+        "house": null
+      },
+      "(1802, 1000, 2)": {
+        "items": [
+          431,
+          18036
+        ],
+        "flags": 1,
+        "house": null
+      },
+      "(1802, 1001, 2)": {
+        "items": [
+          431,
+          18036
+        ],
+        "flags": 1,
+        "house": null
+      },
+      "(1802, 1002, 2)": {
+        "items": [
+          431,
+          18036
+        ],
+        "flags": 1,
+        "house": null
+      }
+    }
+  },
+  "scope": "Every canonical and immutable-baseline tile scanned using NWO-ASSETS iterator; non-target raw trees normalized to aligned coordinates and compared via coordinate-bound SHA256 XOR+modular sum. Unique coordinates validated by iterator. Exactly six targets differ in PZ flags; item ordering/house metadata preserved."
+}

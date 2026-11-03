@@ -1,0 +1,94 @@
+{
+  "operation": "Add Protection Zone only",
+  "card": "https://trello.com/c/ePDtxxsC",
+  "canonical": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\world\\mapanovo.otbm",
+  "expectedMapSha256": "0adfabbc3f942d08253a37d0e7e5a6a96d22a146d63aa9ea6139b13d76de87c1",
+  "positions": [
+    {
+      "position": [
+        1801,
+        1000,
+        2
+      ],
+      "flags": 0,
+      "items": [
+        431,
+        18036
+      ],
+      "protectionReasons": []
+    },
+    {
+      "position": [
+        1801,
+        1001,
+        2
+      ],
+      "flags": 0,
+      "items": [
+        431,
+        18036
+      ],
+      "protectionReasons": []
+    },
+    {
+      "position": [
+        1801,
+        1002,
+        2
+      ],
+      "flags": 0,
+      "items": [
+        431,
+        18036
+      ],
+      "protectionReasons": []
+    },
+    {
+      "position": [
+        1802,
+        1000,
+        2
+      ],
+      "flags": 0,
+      "items": [
+        431,
+        18036
+      ],
+      "protectionReasons": []
+    },
+    {
+      "position": [
+        1802,
+        1001,
+        2
+      ],
+      "flags": 0,
+      "items": [
+        431,
+        18036
+      ],
+      "protectionReasons": []
+    },
+    {
+      "position": [
+        1802,
+        1002,
+        2
+      ],
+      "flags": 0,
+      "items": [
+        431,
+        18036
+      ],
+      "protectionReasons": []
+    }
+  ],
+  "newFlags": 1,
+  "unchangedAssetHashes": {
+    "assets\\860\\Tibia.dat": "3dfb3f131bf3045e98eb15bffc45975ca534c621a09b3dda7b1098b916939649",
+    "assets\\860\\Tibia.spr": "86b9cf9a22b20c09da2b45479e3c94daa73ccab016c029328d06461dafa9458a",
+    "assets\\items\\items.otb": "972e4d57b65a1e9e0f7c0c6d40145e16b61cd85887c3801baf110d0051bc7dac",
+    "assets\\items\\items.xml": "61524f3031020c23317c65497f2f48d395e886fbc94a2bc84c35922527f0aa10"
+  },
+  "itemPolicy": "No DAT/SPR/OTB/XML properties or appearances change. Same floor/carpet item ordering; simple target tiles have no unknown attributes, nesting or house metadata."
+}
