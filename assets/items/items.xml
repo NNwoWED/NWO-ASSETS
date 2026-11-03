@@ -19662,7 +19662,7 @@
 	<item id="25599" name="Sand Gravel" />
 	<item id="25600" name="Log Wall" />
 	<item id="25601" article="a" name="Kakashi's Guizos">
-		<attribute key="description" value="Utilize de 22/10/2026 apos o Server Save ate 25/10/2026 e receba Double XP por 1 hora." />
+		<attribute key="description" value="Ative de 22/10/2026 às 10h até 25/10/2026 às 23h59, no horário do servidor. Cada Guizo concede 1 hora de Double XP. O bônus ativado permanece até completar sua duração, mesmo após o prazo." />
 	</item>
 	<item id="25602" article="a" name="Kakashi's Guizos">
 		<attribute key="description" value="Uma oportunidade perdida." />
