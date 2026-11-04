@@ -1,0 +1,82 @@
+{
+  "passed": true,
+  "oldRecords": 31838,
+  "newRecords": 31885,
+  "remappedRecords": [
+    [
+      "items",
+      26049
+    ],
+    [
+      "items",
+      26050
+    ],
+    [
+      "items",
+      26051
+    ],
+    [
+      "items",
+      26052
+    ],
+    [
+      "effects",
+      3364
+    ],
+    [
+      "effects",
+      3365
+    ],
+    [
+      "effects",
+      3366
+    ],
+    [
+      "effects",
+      3367
+    ],
+    [
+      "effects",
+      3368
+    ],
+    [
+      "effects",
+      3369
+    ],
+    [
+      "effects",
+      3370
+    ],
+    [
+      "effects",
+      3371
+    ],
+    [
+      "effects",
+      3372
+    ],
+    [
+      "effects",
+      3373
+    ],
+    [
+      "effects",
+      3374
+    ],
+    [
+      "effects",
+      3375
+    ],
+    [
+      "effects",
+      3376
+    ],
+    [
+      "effects",
+      3377
+    ]
+  ],
+  "propertiesLayoutsTimingAndPixelsPreserved": true,
+  "newItems": 47,
+  "existingMainSpritePairsVerified": 3244
+}

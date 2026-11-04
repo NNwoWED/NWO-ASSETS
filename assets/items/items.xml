@@ -19059,7 +19059,392 @@
 		<attribute key="description" value="Combustível mineral usado no refino e na culinária." />
 		<attribute key="market" value="1" />
 	</item>
-	<item fromid="14271" toid="14381" article="a" name="Grave Tombstone" />
+	<item id="14271" article="a" name="Grave Tombstone" />
+	<item id="14272" article="a" name="Ninja tombstone">
+		<attribute key="containerSize" value="10" />
+		<attribute key="duration" value="299" />
+		<attribute key="corpseType" value="undead" />
+		<attribute key="decayTo" value="0" />
+	</item>
+	<item id="14273" article="a" name="Grave Tombstone" />
+	<item id="14274" article="a" name="Ninja tombstone">
+		<attribute key="containerSize" value="10" />
+		<attribute key="duration" value="299" />
+		<attribute key="corpseType" value="undead" />
+		<attribute key="decayTo" value="0" />
+	</item>
+	<item id="14275" article="a" name="Grave Tombstone" />
+	<item id="14276" article="a" name="Ninja tombstone">
+		<attribute key="containerSize" value="10" />
+		<attribute key="duration" value="299" />
+		<attribute key="corpseType" value="undead" />
+		<attribute key="decayTo" value="0" />
+	</item>
+	<item id="14277" article="a" name="Grave Tombstone" />
+	<item id="14278" article="a" name="Ninja tombstone">
+		<attribute key="containerSize" value="10" />
+		<attribute key="duration" value="299" />
+		<attribute key="corpseType" value="undead" />
+		<attribute key="decayTo" value="0" />
+	</item>
+	<item id="14279" article="a" name="Grave Tombstone" />
+	<item id="14280" article="a" name="Ninja tombstone">
+		<attribute key="containerSize" value="10" />
+		<attribute key="duration" value="299" />
+		<attribute key="corpseType" value="undead" />
+		<attribute key="decayTo" value="0" />
+	</item>
+	<item id="14281" article="a" name="Grave Tombstone" />
+	<item id="14282" article="a" name="Ninja tombstone">
+		<attribute key="containerSize" value="10" />
+		<attribute key="duration" value="299" />
+		<attribute key="corpseType" value="undead" />
+		<attribute key="decayTo" value="0" />
+	</item>
+	<item id="14283" article="a" name="Grave Tombstone" />
+	<item id="14284" article="a" name="Ninja tombstone">
+		<attribute key="containerSize" value="10" />
+		<attribute key="duration" value="299" />
+		<attribute key="corpseType" value="undead" />
+		<attribute key="decayTo" value="0" />
+	</item>
+	<item id="14285" article="a" name="Grave Tombstone" />
+	<item id="14286" article="a" name="Ninja tombstone">
+		<attribute key="containerSize" value="10" />
+		<attribute key="duration" value="299" />
+		<attribute key="corpseType" value="undead" />
+		<attribute key="decayTo" value="0" />
+	</item>
+	<item id="14287" article="a" name="Grave Tombstone" />
+	<item id="14288" article="a" name="Ninja tombstone">
+		<attribute key="containerSize" value="10" />
+		<attribute key="duration" value="299" />
+		<attribute key="corpseType" value="undead" />
+		<attribute key="decayTo" value="0" />
+	</item>
+	<item id="14289" article="a" name="Grave Tombstone" />
+	<item id="14290" article="a" name="Ninja tombstone">
+		<attribute key="containerSize" value="10" />
+		<attribute key="duration" value="299" />
+		<attribute key="corpseType" value="undead" />
+		<attribute key="decayTo" value="0" />
+	</item>
+	<item id="14291" article="a" name="Grave Tombstone" />
+	<item id="14292" article="a" name="Ninja tombstone">
+		<attribute key="containerSize" value="10" />
+		<attribute key="duration" value="299" />
+		<attribute key="corpseType" value="undead" />
+		<attribute key="decayTo" value="0" />
+	</item>
+	<item id="14293" article="a" name="Grave Tombstone" />
+	<item id="14294" article="a" name="Ninja tombstone">
+		<attribute key="containerSize" value="10" />
+		<attribute key="duration" value="299" />
+		<attribute key="corpseType" value="undead" />
+		<attribute key="decayTo" value="0" />
+	</item>
+	<item id="14295" article="a" name="Grave Tombstone" />
+	<item id="14296" article="a" name="Ninja tombstone">
+		<attribute key="containerSize" value="10" />
+		<attribute key="duration" value="299" />
+		<attribute key="corpseType" value="undead" />
+		<attribute key="decayTo" value="0" />
+	</item>
+	<item id="14297" article="a" name="Grave Tombstone" />
+	<item id="14298" article="a" name="Ninja tombstone">
+		<attribute key="containerSize" value="10" />
+		<attribute key="duration" value="299" />
+		<attribute key="corpseType" value="undead" />
+		<attribute key="decayTo" value="0" />
+	</item>
+	<item id="14299" article="a" name="Grave Tombstone" />
+	<item id="14300" article="a" name="Ninja tombstone">
+		<attribute key="containerSize" value="10" />
+		<attribute key="duration" value="299" />
+		<attribute key="corpseType" value="undead" />
+		<attribute key="decayTo" value="0" />
+	</item>
+	<item id="14301" article="a" name="Grave Tombstone" />
+	<item id="14302" article="a" name="Ninja tombstone">
+		<attribute key="containerSize" value="10" />
+		<attribute key="duration" value="299" />
+		<attribute key="corpseType" value="undead" />
+		<attribute key="decayTo" value="0" />
+	</item>
+	<item id="14303" article="a" name="Grave Tombstone" />
+	<item id="14304" article="a" name="Ninja tombstone">
+		<attribute key="containerSize" value="10" />
+		<attribute key="duration" value="299" />
+		<attribute key="corpseType" value="undead" />
+		<attribute key="decayTo" value="0" />
+	</item>
+	<item id="14305" article="a" name="Grave Tombstone" />
+	<item id="14306" article="a" name="Ninja tombstone">
+		<attribute key="containerSize" value="10" />
+		<attribute key="duration" value="299" />
+		<attribute key="corpseType" value="undead" />
+		<attribute key="decayTo" value="0" />
+	</item>
+	<item id="14307" article="a" name="Grave Tombstone" />
+	<item id="14308" article="a" name="Ninja tombstone">
+		<attribute key="containerSize" value="10" />
+		<attribute key="duration" value="299" />
+		<attribute key="corpseType" value="undead" />
+		<attribute key="decayTo" value="0" />
+	</item>
+	<item id="14309" article="a" name="Grave Tombstone" />
+	<item id="14310" article="a" name="Ninja tombstone">
+		<attribute key="containerSize" value="10" />
+		<attribute key="duration" value="299" />
+		<attribute key="corpseType" value="undead" />
+		<attribute key="decayTo" value="0" />
+	</item>
+	<item id="14311" article="a" name="Grave Tombstone" />
+	<item id="14312" article="a" name="Ninja tombstone">
+		<attribute key="containerSize" value="10" />
+		<attribute key="duration" value="299" />
+		<attribute key="corpseType" value="undead" />
+		<attribute key="decayTo" value="0" />
+	</item>
+	<item id="14313" article="a" name="Grave Tombstone" />
+	<item id="14314" article="a" name="Ninja tombstone">
+		<attribute key="containerSize" value="10" />
+		<attribute key="duration" value="299" />
+		<attribute key="corpseType" value="undead" />
+		<attribute key="decayTo" value="0" />
+	</item>
+	<item id="14315" article="a" name="Grave Tombstone" />
+	<item id="14316" article="a" name="Ninja tombstone">
+		<attribute key="containerSize" value="10" />
+		<attribute key="duration" value="299" />
+		<attribute key="corpseType" value="undead" />
+		<attribute key="decayTo" value="0" />
+	</item>
+	<item id="14317" article="a" name="Grave Tombstone" />
+	<item id="14318" article="a" name="Ninja tombstone">
+		<attribute key="containerSize" value="10" />
+		<attribute key="duration" value="299" />
+		<attribute key="corpseType" value="undead" />
+		<attribute key="decayTo" value="0" />
+	</item>
+	<item id="14319" article="a" name="Grave Tombstone" />
+	<item id="14320" article="a" name="Ninja tombstone">
+		<attribute key="containerSize" value="10" />
+		<attribute key="duration" value="299" />
+		<attribute key="corpseType" value="undead" />
+		<attribute key="decayTo" value="0" />
+	</item>
+	<item id="14321" article="a" name="Grave Tombstone" />
+	<item id="14322" article="a" name="Ninja tombstone">
+		<attribute key="containerSize" value="10" />
+		<attribute key="duration" value="299" />
+		<attribute key="corpseType" value="undead" />
+		<attribute key="decayTo" value="0" />
+	</item>
+	<item id="14323" article="a" name="Grave Tombstone" />
+	<item id="14324" article="a" name="Ninja tombstone">
+		<attribute key="containerSize" value="10" />
+		<attribute key="duration" value="299" />
+		<attribute key="corpseType" value="undead" />
+		<attribute key="decayTo" value="0" />
+	</item>
+	<item id="14325" article="a" name="Grave Tombstone" />
+	<item id="14326" article="a" name="Ninja tombstone">
+		<attribute key="containerSize" value="10" />
+		<attribute key="duration" value="299" />
+		<attribute key="corpseType" value="undead" />
+		<attribute key="decayTo" value="0" />
+	</item>
+	<item id="14327" article="a" name="Grave Tombstone" />
+	<item id="14328" article="a" name="Ninja tombstone">
+		<attribute key="containerSize" value="10" />
+		<attribute key="duration" value="299" />
+		<attribute key="corpseType" value="undead" />
+		<attribute key="decayTo" value="0" />
+	</item>
+	<item id="14329" article="a" name="Grave Tombstone" />
+	<item id="14330" article="a" name="Ninja tombstone">
+		<attribute key="containerSize" value="10" />
+		<attribute key="duration" value="299" />
+		<attribute key="corpseType" value="undead" />
+		<attribute key="decayTo" value="0" />
+	</item>
+	<item id="14331" article="a" name="Grave Tombstone" />
+	<item id="14332" article="a" name="Ninja tombstone">
+		<attribute key="containerSize" value="10" />
+		<attribute key="duration" value="299" />
+		<attribute key="corpseType" value="undead" />
+		<attribute key="decayTo" value="0" />
+	</item>
+	<item id="14333" article="a" name="Grave Tombstone" />
+	<item id="14334" article="a" name="Ninja tombstone">
+		<attribute key="containerSize" value="10" />
+		<attribute key="duration" value="299" />
+		<attribute key="corpseType" value="undead" />
+		<attribute key="decayTo" value="0" />
+	</item>
+	<item id="14335" article="a" name="Grave Tombstone" />
+	<item id="14336" article="a" name="Ninja tombstone">
+		<attribute key="containerSize" value="10" />
+		<attribute key="duration" value="299" />
+		<attribute key="corpseType" value="undead" />
+		<attribute key="decayTo" value="0" />
+	</item>
+	<item id="14337" article="a" name="Grave Tombstone" />
+	<item id="14338" article="a" name="Ninja tombstone">
+		<attribute key="containerSize" value="10" />
+		<attribute key="duration" value="299" />
+		<attribute key="corpseType" value="undead" />
+		<attribute key="decayTo" value="0" />
+	</item>
+	<item id="14339" article="a" name="Grave Tombstone" />
+	<item id="14340" article="a" name="Ninja tombstone">
+		<attribute key="containerSize" value="10" />
+		<attribute key="duration" value="299" />
+		<attribute key="corpseType" value="undead" />
+		<attribute key="decayTo" value="0" />
+	</item>
+	<item id="14341" article="a" name="Grave Tombstone" />
+	<item id="14342" article="a" name="Ninja tombstone">
+		<attribute key="containerSize" value="10" />
+		<attribute key="duration" value="299" />
+		<attribute key="corpseType" value="undead" />
+		<attribute key="decayTo" value="0" />
+	</item>
+	<item id="14343" article="a" name="Grave Tombstone" />
+	<item id="14344" article="a" name="Ninja tombstone">
+		<attribute key="containerSize" value="10" />
+		<attribute key="duration" value="299" />
+		<attribute key="corpseType" value="undead" />
+		<attribute key="decayTo" value="0" />
+	</item>
+	<item id="14345" article="a" name="Grave Tombstone" />
+	<item id="14346" article="a" name="Ninja tombstone">
+		<attribute key="containerSize" value="10" />
+		<attribute key="duration" value="299" />
+		<attribute key="corpseType" value="undead" />
+		<attribute key="decayTo" value="0" />
+	</item>
+	<item id="14347" article="a" name="Grave Tombstone" />
+	<item id="14348" article="a" name="Ninja tombstone">
+		<attribute key="containerSize" value="10" />
+		<attribute key="duration" value="299" />
+		<attribute key="corpseType" value="undead" />
+		<attribute key="decayTo" value="0" />
+	</item>
+	<item id="14349" article="a" name="Grave Tombstone" />
+	<item id="14350" article="a" name="Ninja tombstone">
+		<attribute key="containerSize" value="10" />
+		<attribute key="duration" value="299" />
+		<attribute key="corpseType" value="undead" />
+		<attribute key="decayTo" value="0" />
+	</item>
+	<item id="14351" article="a" name="Grave Tombstone" />
+	<item id="14352" article="a" name="Ninja tombstone">
+		<attribute key="containerSize" value="10" />
+		<attribute key="duration" value="299" />
+		<attribute key="corpseType" value="undead" />
+		<attribute key="decayTo" value="0" />
+	</item>
+	<item id="14353" article="a" name="Grave Tombstone" />
+	<item id="14354" article="a" name="Ninja tombstone">
+		<attribute key="containerSize" value="10" />
+		<attribute key="duration" value="299" />
+		<attribute key="corpseType" value="undead" />
+		<attribute key="decayTo" value="0" />
+	</item>
+	<item id="14355" article="a" name="Grave Tombstone" />
+	<item id="14356" article="a" name="Ninja tombstone">
+		<attribute key="containerSize" value="10" />
+		<attribute key="duration" value="299" />
+		<attribute key="corpseType" value="undead" />
+		<attribute key="decayTo" value="0" />
+	</item>
+	<item id="14357" article="a" name="Grave Tombstone" />
+	<item id="14358" article="a" name="Ninja tombstone">
+		<attribute key="containerSize" value="10" />
+		<attribute key="duration" value="299" />
+		<attribute key="corpseType" value="undead" />
+		<attribute key="decayTo" value="0" />
+	</item>
+	<item id="14359" article="a" name="Grave Tombstone" />
+	<item id="14360" article="a" name="Ninja tombstone">
+		<attribute key="containerSize" value="10" />
+		<attribute key="duration" value="299" />
+		<attribute key="corpseType" value="undead" />
+		<attribute key="decayTo" value="0" />
+	</item>
+	<item id="14361" article="a" name="Grave Tombstone" />
+	<item id="14362" article="a" name="Ninja tombstone">
+		<attribute key="containerSize" value="10" />
+		<attribute key="duration" value="299" />
+		<attribute key="corpseType" value="undead" />
+		<attribute key="decayTo" value="0" />
+	</item>
+	<item id="14363" article="a" name="Grave Tombstone" />
+	<item id="14364" article="a" name="Ninja tombstone">
+		<attribute key="containerSize" value="10" />
+		<attribute key="duration" value="299" />
+		<attribute key="corpseType" value="undead" />
+		<attribute key="decayTo" value="0" />
+	</item>
+	<item id="14365" article="a" name="Grave Tombstone" />
+	<item id="14366" article="a" name="Ninja tombstone">
+		<attribute key="containerSize" value="10" />
+		<attribute key="duration" value="299" />
+		<attribute key="corpseType" value="undead" />
+		<attribute key="decayTo" value="0" />
+	</item>
+	<item id="14367" article="a" name="Grave Tombstone" />
+	<item id="14368" article="a" name="Ninja tombstone">
+		<attribute key="containerSize" value="10" />
+		<attribute key="duration" value="299" />
+		<attribute key="corpseType" value="undead" />
+		<attribute key="decayTo" value="0" />
+	</item>
+	<item id="14369" article="a" name="Grave Tombstone" />
+	<item id="14370" article="a" name="Ninja tombstone">
+		<attribute key="containerSize" value="10" />
+		<attribute key="duration" value="299" />
+		<attribute key="corpseType" value="undead" />
+		<attribute key="decayTo" value="0" />
+	</item>
+	<item id="14371" article="a" name="Grave Tombstone" />
+	<item id="14372" article="a" name="Ninja tombstone">
+		<attribute key="containerSize" value="10" />
+		<attribute key="duration" value="299" />
+		<attribute key="corpseType" value="undead" />
+		<attribute key="decayTo" value="0" />
+	</item>
+	<item id="14373" article="a" name="Grave Tombstone" />
+	<item id="14374" article="a" name="Ninja tombstone">
+		<attribute key="containerSize" value="10" />
+		<attribute key="duration" value="299" />
+		<attribute key="corpseType" value="undead" />
+		<attribute key="decayTo" value="0" />
+	</item>
+	<item id="14375" article="a" name="Grave Tombstone" />
+	<item id="14376" article="a" name="Ninja tombstone">
+		<attribute key="containerSize" value="10" />
+		<attribute key="duration" value="299" />
+		<attribute key="corpseType" value="undead" />
+		<attribute key="decayTo" value="0" />
+	</item>
+	<item id="14377" article="a" name="Grave Tombstone" />
+	<item id="14378" article="a" name="Ninja tombstone">
+		<attribute key="containerSize" value="10" />
+		<attribute key="duration" value="299" />
+		<attribute key="corpseType" value="undead" />
+		<attribute key="decayTo" value="0" />
+	</item>
+	<item id="14379" article="a" name="Grave Tombstone" />
+	<item id="14380" article="a" name="Ninja tombstone">
+		<attribute key="containerSize" value="10" />
+		<attribute key="duration" value="299" />
+		<attribute key="corpseType" value="undead" />
+		<attribute key="decayTo" value="0" />
+	</item>
+	<item id="14381" article="a" name="Grave Tombstone" />
 	<item fromid="15145" toid="15147" article="a" name="Floor" />
 	<item fromid="15161" toid="15162" article="a" name="Floor" />
 	<item fromid="15148" toid="15152" article="a" name="Shop Sign" />
@@ -19277,7 +19662,7 @@
 	<item id="25599" name="Sand Gravel" />
 	<item id="25600" name="Log Wall" />
 	<item id="25601" article="a" name="Kakashi's Guizos">
-		<attribute key="description" value="Utilize de 22/10/2026 apos o Server Save ate 24/10/2026 e receba Double XP por 1 hora." />
+		<attribute key="description" value="Ative de 22/10/2026 às 10h até 25/10/2026 às 23h59, no horário do servidor. Cada Guizo concede 1 hora de Double XP. O bônus ativado permanece até completar sua duração, mesmo após o prazo." />
 	</item>
 	<item id="25602" article="a" name="Kakashi's Guizos">
 		<attribute key="description" value="Uma oportunidade perdida." />

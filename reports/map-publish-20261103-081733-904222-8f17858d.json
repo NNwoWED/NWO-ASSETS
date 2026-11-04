@@ -1,0 +1,102 @@
+{
+  "passed": true,
+  "committed": true,
+  "runId": "20261103-081733-904222-8f17858d",
+  "sourceHash": "0adfabbc3f942d08253a37d0e7e5a6a96d22a146d63aa9ea6139b13d76de87c1",
+  "expectedCanonicalHash": "0adfabbc3f942d08253a37d0e7e5a6a96d22a146d63aa9ea6139b13d76de87c1",
+  "changes": 6,
+  "positions": [],
+  "startedAt": "2026-11-03T08:17:33.905064-03:00",
+  "version": {
+    "tool_version": "0.8.2",
+    "version_id": "20261103-081751-280069",
+    "created_at": "2026-11-03T08:18:04.791084-03:00",
+    "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261103-081751-280069",
+    "rar_executable": "C:\\Program Files\\WinRAR\\Rar.exe",
+    "sources": [
+      {
+        "path": "assets/860/.gitattributes",
+        "size": 43,
+        "sha256": "D5636A3257287440945C5E017581545E5B0A3E2FDDDAE7C5EF8D90FF4DF3D32A"
+      },
+      {
+        "path": "assets/860/Tibia.dat",
+        "size": 4622737,
+        "sha256": "3DFB3F131BF3045E98EB15BFFC45975CA534C621A09B3DDA7B1098B916939649"
+      },
+      {
+        "path": "assets/860/Tibia.otfi",
+        "size": 185,
+        "sha256": "7743548835944BC799CB871A4E5DEF84F7AF76815031871B9CE74B5EC0E8ADD3"
+      },
+      {
+        "path": "assets/860/Tibia.spr",
+        "size": 510298316,
+        "sha256": "86B9CF9A22B20C09DA2B45479E3C94DAA73CCAB016C029328D06461DAFA9458A"
+      },
+      {
+        "path": "assets/items/force use.txt",
+        "size": 419,
+        "sha256": "BCB478FDF3F45ECA8D172AFD7A17D3F8CD520924EE0894752452B8FDC8F71959"
+      },
+      {
+        "path": "assets/items/items.otb",
+        "size": 1070124,
+        "sha256": "972E4D57B65A1E9E0F7C0C6D40145E16B61CD85887C3801BAF110D0051BC7DAC"
+      },
+      {
+        "path": "assets/world/mapanovo.otbm",
+        "size": 85960780,
+        "sha256": "0ADFABBC3F942D08253A37D0E7E5A6A96D22A146D63AA9EA6139B13D76DE87C1"
+      }
+    ],
+    "archives": {
+      "860": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261103-081751-280069\\860.rar",
+        "size": 91595832,
+        "sha256": "B66FC5EA0122376D83FD9EBC751F5CC9A0143C19823054512D1EE4C059C6BFA3"
+      },
+      "items": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261103-081751-280069\\items.rar",
+        "size": 512782,
+        "sha256": "4923F0281658DA564759CCE464B1D52BC321941CE6F1DC5B378EA080AEDA0BF8"
+      },
+      "world": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261103-081751-280069\\world.zip",
+        "size": 20491172,
+        "sha256": "8CA0920D09D7E6D34F571F8DBF3BC8BEA4D2A9379E81F5E60723A97A35C3A8C1"
+      }
+    },
+    "items_xml_excluded": true,
+    "world_entries": [
+      "mapanovo.otbm"
+    ],
+    "passed": true
+  },
+  "positionReport": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\reports\\map-positions-20261103-081733-904222-8f17858d.jsonl.gz",
+  "audit": {
+    "sourceMetadataHash": "21e468cde16d21a531ba463d896e25520a8f3d2b7444aff827fb4e22f791d716",
+    "outputMetadataHash": "21e468cde16d21a531ba463d896e25520a8f3d2b7444aff827fb4e22f791d716",
+    "indexedSourceOffsets": 6,
+    "verifiedOutputTiles": 6,
+    "rows": 6
+  },
+  "journalPath": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\reports\\kiri-hospital-pz-journal-20261103.json",
+  "sha256": "e871e87830f374d67f745d2ff8799882ded903d7aeff896f67da5c6a48119d0e",
+  "baselineFile": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\drafts\\history\\0adfabbc3f942d08253a37d0e7e5a6a96d22a146d63aa9ea6139b13d76de87c1.baseline",
+  "versionId": "20261103-081751-280069",
+  "rewrite": {
+    "sourceSha256": "0adfabbc3f942d08253a37d0e7e5a6a96d22a146d63aa9ea6139b13d76de87c1",
+    "sha256": "e871e87830f374d67f745d2ff8799882ded903d7aeff896f67da5c6a48119d0e",
+    "changed": 6,
+    "deleted": 0,
+    "inserted": 0,
+    "unchanged": 0,
+    "missingDeletes": 0,
+    "newAreas": 0,
+    "tiles": 8300115,
+    "bytes": 85960822,
+    "committed": true
+  },
+  "completedAt": "2026-11-03T08:21:46.166368-03:00"
+}

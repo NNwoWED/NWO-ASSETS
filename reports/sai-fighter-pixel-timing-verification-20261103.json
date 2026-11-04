@@ -1,0 +1,108 @@
+{
+  "passed": true,
+  "outfitId": 2034,
+  "sourceSha256": "CE7F8EDEEA42FFDC44AC4B57D6FE95F2A8417C7D850A425E2A1898153316B937",
+  "normalizedRgbaSha256": "3add8ba83722bc21a18a723de4b13ac5d5f2d356b17cffcfd213c39c4d30af60",
+  "exportMatchesOriginal": true,
+  "dimensions": [
+    256,
+    1024
+  ],
+  "frameDimensions": [
+    64,
+    64
+  ],
+  "timings": [
+    {
+      "group": 0,
+      "frames": 8,
+      "durations": [
+        [
+          100,
+          100
+        ],
+        [
+          100,
+          100
+        ],
+        [
+          100,
+          100
+        ],
+        [
+          100,
+          100
+        ],
+        [
+          100,
+          100
+        ],
+        [
+          100,
+          100
+        ],
+        [
+          100,
+          100
+        ],
+        [
+          100,
+          100
+        ]
+      ],
+      "animationAsync": false
+    },
+    {
+      "group": 1,
+      "frames": 8,
+      "durations": [
+        [
+          100,
+          100
+        ],
+        [
+          100,
+          100
+        ],
+        [
+          100,
+          100
+        ],
+        [
+          100,
+          100
+        ],
+        [
+          100,
+          100
+        ],
+        [
+          100,
+          100
+        ],
+        [
+          100,
+          100
+        ],
+        [
+          100,
+          100
+        ]
+      ],
+      "animationAsync": false
+    }
+  ],
+  "versionId": "20261103-153203-173298",
+  "newSpriteCount": 256,
+  "spriteIdRange": [
+    296965,
+    297220
+  ],
+  "preserved": [
+    "All non-target DAT records",
+    "Old SPR payload",
+    "Items OTB/XML",
+    "Canonical map",
+    "Target DAT properties"
+  ]
+}

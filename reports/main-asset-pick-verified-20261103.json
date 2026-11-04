@@ -1,0 +1,19 @@
+{
+  "passed": true,
+  "publishedArchiveBlob": "da55237e4592694b4f041f9e462c215f836a3571",
+  "sourceArchiveBlob": "28daa558bdf94192add1f320ac6a1697a4c5e59a",
+  "mainOtfiProfilePreserved": true,
+  "archiveSha256": "46F8207C85BB99E77E9FFDF9D34D7DBF1F55D1A09FC4851371AC0B6B1CB4CC97",
+  "archiveEntrySha256": {
+    "860\\.gitattributes": "d5636a3257287440945c5e017581545e5b0a3e2fdddae7c5ef8d90ff4df3d32a",
+    "860\\tibia.dat": "3dfb3f131bf3045e98eb15bffc45975ca534c621a09b3dda7b1098b916939649",
+    "860\\tibia.otfi": "aa218411341029f2ec1c8fff5a4f767ef8e7eccc9088f8a0c968774547ccce70",
+    "860\\tibia.spr": "86b9cf9a22b20c09da2b45479e3c94daa73ccab016c029328d06461dafa9458a"
+  },
+  "runtimeFilesVerified": 31,
+  "mainXmlExistingIdsPreserved": true,
+  "mainOtbExistingMappingsPropertiesHashesPreserved": true,
+  "sourceBranch": "mob-estrelado",
+  "assetSourceCommit": "f1ff353747fc877ff8c598a1540795fd3d8d552a",
+  "clientSourceCommit": "e83981b4767178b1fd1dcc00cb2e9db9a713ab39"
+}

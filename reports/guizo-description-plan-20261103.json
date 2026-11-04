@@ -1,0 +1,20 @@
+{
+  "operation": "substituir somente descrição textual",
+  "name": "Kakashi's Guizos",
+  "purpose": "Prazo de ativação de outubro explícito e duração do bônus após o prazo",
+  "serverId": 25601,
+  "clientId": 24716,
+  "png": null,
+  "layout": "inalterado; sem aparência importada",
+  "datOtbProperties": "inalteradas",
+  "beforeDescription": "Utilize de 22/10/2026 apos o Server Save ate 25/10/2026 e receba Double XP por 1 hora.",
+  "afterDescription": "Ative de 22/10/2026 às 10h até 25/10/2026 às 23h59, no horário do servidor. Cada Guizo concede 1 hora de Double XP. O bônus ativado permanece até completar sua duração, mesmo após o prazo.",
+  "policy": "Preservar janela implementada e testada; não antecipar a data de encerramento",
+  "versionId": "20261103-085052-494910",
+  "unchangedBinaryHashes": {
+    "assets\\860\\Tibia.dat": "3dfb3f131bf3045e98eb15bffc45975ca534c621a09b3dda7b1098b916939649",
+    "assets\\860\\Tibia.spr": "86b9cf9a22b20c09da2b45479e3c94daa73ccab016c029328d06461dafa9458a",
+    "assets\\items\\items.otb": "972e4d57b65a1e9e0f7c0c6d40145e16b61cd85887c3801baf110d0051bc7dac",
+    "assets\\world\\mapanovo.otbm": "e871e87830f374d67f745d2ff8799882ded903d7aeff896f67da5c6a48119d0e"
+  }
+}
