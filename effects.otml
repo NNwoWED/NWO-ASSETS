@@ -3532,6 +3532,18 @@ effects:
     opacity: 1.0
   1476: // zabuza e3 desaparecendo oni
     opacity: 1.0
+  1477: // tobirama e4 inicio
+    opacity: 1.0
+    effect-displacement: 4 4
+  1478: // tobirama e4 loop
+    opacity: 1.0
+    effect-displacement: 4 4
+  1479: // tobirama e4 cortes
+    opacity: 1.0
+    effect-displacement: 4 4
+  1480: // tobirama e4 final
+    opacity: 1.0
+    effect-displacement: 4 4
   1839:
     opacity: 0.8
   1840:
