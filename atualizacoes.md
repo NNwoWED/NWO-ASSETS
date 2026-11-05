@@ -212,3 +212,10 @@ Sincronização oficial concluída: 31 destinos de arquivos conferidos, metadado
 
 - Integrado o histórico da master à mob-estrelado, mantendo os DAT/SPR, OTB/XML e mapa canônicos já validados, inclusive a outfit 2034 do Sai Fighter. Preservados os dois históricos de importações e relatórios.
 - A integração foi preparada em objetos Git antes da troca de branch; hashes de todos os binários canônicos e dos XMLs de trabalho conferidos iguais antes/depois. Versão de segurança testada: 20261104-061741-201901. Nenhuma sincronização ou publicação de runtime nesta etapa.
+
+## 2026-11-04 — Aparências das missões e posições de NPCs
+
+- Operação substituir, com preservação das propriedades DAT/OTB dos alvos: SID 26962/CID 26077 recebe aparência CID 24091 (baú); SID 26968/CID 26083 recebe CID 5090 (Mapa Completo); SID 26972/CID 26087 recebe CID 404 (barril); SID 26973/CID 26088 recebe CID 13686 (selo); SID 26975/CID 26090 recebe CID 5443 (âncora, dois frames de 100 ms). Sem novos IDs. Layouts e pixels reexportados conferidos contra as cinco fontes.
+- Baseline validada e versão automática testada 20261104-062651-166272, imutável. Importação confirmada, payloads SPR antigos preservados, não alvos preservados e OTBM byte a byte inalterado. Manifesto e PNGs arquivados em importados/mission-comments-20261104, com archive.json.
+- Relatórios: reports/mission-comments-item-import-20261104.json, mission-comments-pixel-proof-20261104.json, mission-comments-completion-20261104.json e mission-comments-runtime-sync-20261104.json. Validação profunda final e sync-runtime aprovados, incluindo hashes de destinos e testes dos arquivos compactados. PC destino: nwo-otclient-mehah-4.0/build/mob-estrelado.
+- Outfit 2147 de Yuko exportada e conferida não vazia; nenhuma modificação nessa outfit. Posições de Emiko 1209,785,6 e Hiroto 603,894,7 inspecionadas no mapa canônico e atualizadas somente nos registros correspondentes de mapanovo-spawn.xml do NWO-ASSETS e servidor. Preservadas as demais alterações preexistentes dos metadados do mundo.

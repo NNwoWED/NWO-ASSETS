@@ -28018,4 +28018,39 @@
 	<spawn centerx="2438" centery="817" centerz="14" radius="1">
 		<npc name="Okinomataru" x="0" y="0" z="14" spawntime="60" direction="2" />
 	</spawn>
+	<spawn centerx="1371" centery="933" centerz="6" radius="1">
+		<npc name="CM_kawano" x="0" y="0" z="6" spawntime="60" direction="2"/>
+	</spawn>
+	<spawn centerx="1482" centery="839" centerz="6" radius="1">
+		<npc name="CM_yamaguchi" x="0" y="0" z="6" spawntime="60" direction="2"/>
+	</spawn>
+	<spawn centerx="622" centery="989" centerz="7" radius="1">
+		<npc name="CM_kaito" x="0" y="0" z="7" spawntime="60" direction="2"/>
+	</spawn>
+	<spawn centerx="596" centery="875" centerz="7" radius="1">
+		<npc name="CM_tanzaku" x="0" y="0" z="7" spawntime="60" direction="2"/>
+	</spawn>
+	<spawn centerx="548" centery="939" centerz="7" radius="1">
+		<npc name="CM_riku" x="0" y="0" z="7" spawntime="60" direction="2"/>
+	</spawn>
+	<spawn centerx="632" centery="948" centerz="7" radius="1">
+		<npc name="CM_daigo" x="0" y="0" z="7" spawntime="60" direction="2"/>
+	</spawn>
+	<spawn centerx="1814" centery="1027" centerz="7" radius="1">
+		<npc name="CM_tokido" x="0" y="0" z="7" spawntime="60" direction="2"/>
+	</spawn>
+	<spawn centerx="1276" centery="704" centerz="4" radius="1">
+		<npc name="MS_Yumi" x="0" y="0" z="4" spawntime="60" direction="2"/>
+	</spawn>
+	<spawn centerx="603" centery="894" centerz="7" radius="1">
+		<npc name="CM_hiroto" x="0" y="0" z="7" spawntime="60" direction="2"/>
+	</spawn>
+	<spawn centerx="1794" centery="1013" centerz="4" radius="1"><npc name="CM_fuudo" x="0" y="0" z="4" spawntime="60" direction="2"/></spawn>
+	<spawn centerx="1209" centery="785" centerz="6" radius="1"><npc name="CM_emiko" x="0" y="0" z="6" spawntime="60" direction="2"/></spawn>
+	<spawn centerx="1347" centery="859" centerz="6" radius="1"><npc name="CM_treasure" x="0" y="0" z="6" spawntime="60" direction="2"/></spawn>
+	<spawn centerx="637" centery="935" centerz="7" radius="1"><npc name="CM_map" x="0" y="0" z="7" spawntime="60" direction="2"/></spawn>
+	<spawn centerx="1766" centery="981" centerz="4" radius="1"><npc name="CM_scroll" x="0" y="0" z="4" spawntime="60" direction="2"/></spawn>
+	<spawn centerx="1311" centery="802" centerz="6" radius="1"><npc name="CM_silent" x="0" y="0" z="6" spawntime="60" direction="2"/></spawn>
+	<spawn centerx="621" centery="962" centerz="5" radius="1"><npc name="CM_chiyo" x="0" y="0" z="5" spawntime="60" direction="2"/></spawn>
+	<spawn centerx="1872" centery="980" centerz="6" radius="1"><npc name="CM_turtle" x="0" y="0" z="6" spawntime="60" direction="2"/></spawn>
 </spawns>

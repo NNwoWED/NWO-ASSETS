@@ -1,0 +1,126 @@
+{
+  "items": [
+    {
+      "operation": "substituir",
+      "name": "Baú Amaldiçoado",
+      "purpose": "Baú entregue ao jogador, decoração do Pescador e baú das ruínas de Kino",
+      "serverId": 26962,
+      "clientId": 26077,
+      "appearanceReferenceClientId": 24091,
+      "referenceServerIds": [
+        24976
+      ],
+      "png": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\mission-comments-20261104\\01-server-26962-from-client-24091.png",
+      "sourceSha256": "b3331440fe253f778418167c777d08bb5b689fe914193fb302af631b514ede70",
+      "layout": {
+        "sequence": 1,
+        "client_id": 26077,
+        "source_path": "01-server-26962-from-client-24091.png",
+        "frame_width": 32,
+        "frame_height": 32,
+        "frames": 1,
+        "frame_duration_ms": "",
+        "animation_async": 0
+      },
+      "propertyPolicy": "Preservar propriedades DAT/OTB, vínculos e todos os itens não alvo. Alterar apenas aparência/layout e o bit de animação correspondente à folha de 2 frames da âncora. Não copiar propriedades das referências."
+    },
+    {
+      "operation": "substituir",
+      "name": "Mapa Completo",
+      "purpose": "Item montado por Kino Isan",
+      "serverId": 26968,
+      "clientId": 26083,
+      "appearanceReferenceClientId": 5090,
+      "referenceServerIds": [
+        5091
+      ],
+      "png": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\mission-comments-20261104\\02-server-26968-from-client-5090.png",
+      "sourceSha256": "2c7476190e4e86059b6f5a1c2b23ceb98ce3837e2697abe560aa218c983f49d8",
+      "layout": {
+        "sequence": 2,
+        "client_id": 26083,
+        "source_path": "02-server-26968-from-client-5090.png",
+        "frame_width": 32,
+        "frame_height": 32,
+        "frames": 1,
+        "frame_duration_ms": "",
+        "animation_async": 0
+      },
+      "propertyPolicy": "Preservar propriedades DAT/OTB, vínculos e todos os itens não alvo. Alterar apenas aparência/layout e o bit de animação correspondente à folha de 2 frames da âncora. Não copiar propriedades das referências."
+    },
+    {
+      "operation": "substituir",
+      "name": "Barril de Veneno",
+      "purpose": "Interações de Fuudo em 1894,1019,7 e 1831,1011,7",
+      "serverId": 26972,
+      "clientId": 26087,
+      "appearanceReferenceClientId": 404,
+      "referenceServerIds": [
+        7706
+      ],
+      "png": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\mission-comments-20261104\\03-server-26972-from-client-404.png",
+      "sourceSha256": "108f3b926be90532f252235d203e10e5f8449eea463b0c8c2d22dae097596a64",
+      "layout": {
+        "sequence": 3,
+        "client_id": 26087,
+        "source_path": "03-server-26972-from-client-404.png",
+        "frame_width": 32,
+        "frame_height": 32,
+        "frames": 1,
+        "frame_duration_ms": "",
+        "animation_async": 0
+      },
+      "propertyPolicy": "Preservar propriedades DAT/OTB, vínculos e todos os itens não alvo. Alterar apenas aparência/layout e o bit de animação correspondente à folha de 2 frames da âncora. Não copiar propriedades das referências."
+    },
+    {
+      "operation": "substituir",
+      "name": "Selo dos Sabotadores",
+      "purpose": "Prova vinculada de Veneno nas Águas",
+      "serverId": 26973,
+      "clientId": 26088,
+      "appearanceReferenceClientId": 13686,
+      "referenceServerIds": [
+        14563
+      ],
+      "png": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\mission-comments-20261104\\04-server-26973-from-client-13686.png",
+      "sourceSha256": "362e09755b4aada9b7ec732308a86892ed823a0c71fead8f5a096c3141afbf50",
+      "layout": {
+        "sequence": 4,
+        "client_id": 26088,
+        "source_path": "04-server-26973-from-client-13686.png",
+        "frame_width": 32,
+        "frame_height": 32,
+        "frames": 1,
+        "frame_duration_ms": "",
+        "animation_async": 0
+      },
+      "propertyPolicy": "Preservar propriedades DAT/OTB, vínculos e todos os itens não alvo. Alterar apenas aparência/layout e o bit de animação correspondente à folha de 2 frames da âncora. Não copiar propriedades das referências."
+    },
+    {
+      "operation": "substituir",
+      "name": "Âncora Espiritual",
+      "purpose": "Três pontos de O Último Elo da Névoa",
+      "serverId": 26975,
+      "clientId": 26090,
+      "appearanceReferenceClientId": 5443,
+      "referenceServerIds": [
+        5444
+      ],
+      "png": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\mission-comments-20261104\\05-server-26975-from-client-5443.png",
+      "sourceSha256": "77a0a3892fcdb0936344ae3d578271e5cb5235cdb133037bcca6a559ba729dcc",
+      "layout": {
+        "sequence": 5,
+        "client_id": 26090,
+        "source_path": "05-server-26975-from-client-5443.png",
+        "frame_width": 32,
+        "frame_height": 64,
+        "frames": 2,
+        "frame_duration_ms": 100,
+        "animation_async": 1
+      },
+      "propertyPolicy": "Preservar propriedades DAT/OTB, vínculos e todos os itens não alvo. Alterar apenas aparência/layout e o bit de animação correspondente à folha de 2 frames da âncora. Não copiar propriedades das referências."
+    }
+  ],
+  "newClientOrServerIds": false,
+  "baselineVersion": "20261104-061741-201901"
+}

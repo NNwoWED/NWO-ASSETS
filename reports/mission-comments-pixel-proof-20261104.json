@@ -1,0 +1,47 @@
+{
+  "passed": true,
+  "items": [
+    {
+      "server_id": 26962,
+      "client_id": 26077,
+      "source_client_id": 24091,
+      "decoded_pixels_equal": true,
+      "layout_equal": true,
+      "frames": 1
+    },
+    {
+      "server_id": 26968,
+      "client_id": 26083,
+      "source_client_id": 5090,
+      "decoded_pixels_equal": true,
+      "layout_equal": true,
+      "frames": 1
+    },
+    {
+      "server_id": 26972,
+      "client_id": 26087,
+      "source_client_id": 404,
+      "decoded_pixels_equal": true,
+      "layout_equal": true,
+      "frames": 1
+    },
+    {
+      "server_id": 26973,
+      "client_id": 26088,
+      "source_client_id": 13686,
+      "decoded_pixels_equal": true,
+      "layout_equal": true,
+      "frames": 1
+    },
+    {
+      "server_id": 26975,
+      "client_id": 26090,
+      "source_client_id": 5443,
+      "decoded_pixels_equal": true,
+      "layout_equal": true,
+      "frames": 2
+    }
+  ],
+  "outfit_2147_nonempty": true,
+  "map_modified": false
+}

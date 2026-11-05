@@ -1,0 +1,30 @@
+{
+  "source_directory": "NWO-ASSETS\\sprites\\mission-comments-20261104",
+  "files": [
+    {
+      "file": "01-server-26962-from-client-24091.png",
+      "sha256": "b3331440fe253f778418167c777d08bb5b689fe914193fb302af631b514ede70"
+    },
+    {
+      "file": "02-server-26968-from-client-5090.png",
+      "sha256": "2c7476190e4e86059b6f5a1c2b23ceb98ce3837e2697abe560aa218c983f49d8"
+    },
+    {
+      "file": "03-server-26972-from-client-404.png",
+      "sha256": "108f3b926be90532f252235d203e10e5f8449eea463b0c8c2d22dae097596a64"
+    },
+    {
+      "file": "04-server-26973-from-client-13686.png",
+      "sha256": "362e09755b4aada9b7ec732308a86892ed823a0c71fead8f5a096c3141afbf50"
+    },
+    {
+      "file": "05-server-26975-from-client-5443.png",
+      "sha256": "77a0a3892fcdb0936344ae3d578271e5cb5235cdb133037bcca6a559ba729dcc"
+    },
+    {
+      "file": "items.csv",
+      "sha256": "4fe3b99b687722d53cfb0336a300352c5b9dddaa6e75dadd1d3986d477ff4a83"
+    }
+  ],
+  "pixel_report": "reports/mission-comments-pixel-proof-20261104.json"
+}

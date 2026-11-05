@@ -1,0 +1,149 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "profile": {
+    "key": "tibia-860-v2-custom-extended",
+    "client_version": 860,
+    "label": "Tibia 8.60 v2 customizado com features OTFI",
+    "dat_signature": "0x4C2C7993",
+    "spr_signature": "0x4C220594",
+    "metadata_reader": 5,
+    "otb_version_hint": "8.60"
+  },
+  "category": "items",
+  "id_kind": "server",
+  "requested_ids": [
+    26962,
+    26968,
+    26972,
+    26973,
+    26975
+  ],
+  "output_dir": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\mission-comments-20261104-after",
+  "exported_count": 5,
+  "exported": [
+    {
+      "requested_id": 26962,
+      "client_id": 26077,
+      "server_ids": [
+        26962
+      ],
+      "name": "Baú Amaldiçoado",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        297221
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\mission-comments-20261104-after\\server-26962_client-26077_bau-amaldicoado.png",
+      "size": 567,
+      "sha256": "B3331440FE253F778418167C777D08BB5B689FE914193FB302AF631B514EDE70"
+    },
+    {
+      "requested_id": 26968,
+      "client_id": 26083,
+      "server_ids": [
+        26968
+      ],
+      "name": "Mapa Completo",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        297222
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\mission-comments-20261104-after\\server-26968_client-26083_mapa-completo.png",
+      "size": 1870,
+      "sha256": "2C7476190E4E86059B6F5A1C2B23CEB98CE3837E2697ABE560AA218C983F49D8"
+    },
+    {
+      "requested_id": 26972,
+      "client_id": 26087,
+      "server_ids": [
+        26972
+      ],
+      "name": "Barril de Veneno",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        297223
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\mission-comments-20261104-after\\server-26972_client-26087_barril-de-veneno.png",
+      "size": 2480,
+      "sha256": "108F3B926BE90532F252235D203E10E5F8449EEA463B0C8C2D22DAE097596A64"
+    },
+    {
+      "requested_id": 26973,
+      "client_id": 26088,
+      "server_ids": [
+        26973
+      ],
+      "name": "Selo dos Sabotadores",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        297224
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\mission-comments-20261104-after\\server-26973_client-26088_selo-dos-sabotadores.png",
+      "size": 660,
+      "sha256": "362E09755B4AADA9B7EC732308A86892ED823A0C71FEAD8F5A096C3141AFBF50"
+    },
+    {
+      "requested_id": 26975,
+      "client_id": 26090,
+      "server_ids": [
+        26975
+      ],
+      "name": "Âncora Espiritual",
+      "group_index": 0,
+      "width": 32,
+      "height": 128,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 2,
+      "sprite_ids": [
+        297225,
+        297226,
+        297227,
+        297228
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\mission-comments-20261104-after\\server-26975_client-26090_ancora-espiritual.png",
+      "size": 1514,
+      "sha256": "77A0A3892FCDB0936344AE3D578271E5CB5235CDB133037BCCA6A559BA729DCC"
+    }
+  ],
+  "sources": {
+    "dat": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.dat",
+      "sha256": "72876C9E13EA050A93781EDD2A49CC2DF0366039A2729D24AE34BFF852292E3E"
+    },
+    "spr": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.spr",
+      "sha256": "2B4B36591BF910F43C99B55D19F1BA33EAB5B58197C672B9D27D698A8F7D3E88"
+    }
+  },
+  "passed": true
+}

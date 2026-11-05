@@ -1,0 +1,149 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "profile": {
+    "key": "tibia-860-v2-custom-extended",
+    "client_version": 860,
+    "label": "Tibia 8.60 v2 customizado com features OTFI",
+    "dat_signature": "0x4C2C7993",
+    "spr_signature": "0x4C220594",
+    "metadata_reader": 5,
+    "otb_version_hint": "8.60"
+  },
+  "category": "items",
+  "id_kind": "server",
+  "requested_ids": [
+    26962,
+    26968,
+    26972,
+    26973,
+    26975
+  ],
+  "output_dir": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items",
+  "exported_count": 5,
+  "exported": [
+    {
+      "requested_id": 26962,
+      "client_id": 26077,
+      "server_ids": [
+        26962
+      ],
+      "name": "Baú Amaldiçoado",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        293226
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-26962_client-26077_bau-amaldicoado.png",
+      "size": 638,
+      "sha256": "48B270B4BAF1D3F58E80A8D7FDBAECA38AFDCD5A6F904663EB810B28766DB66F"
+    },
+    {
+      "requested_id": 26968,
+      "client_id": 26083,
+      "server_ids": [
+        26968
+      ],
+      "name": "Mapa Completo",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        293232
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-26968_client-26083_mapa-completo.png",
+      "size": 372,
+      "sha256": "1FF1401EC46C98696282D81ED07DE2214A928D20818210CAEFAA7C13EED5F789"
+    },
+    {
+      "requested_id": 26972,
+      "client_id": 26087,
+      "server_ids": [
+        26972
+      ],
+      "name": "Barril de Veneno",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        0
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-26972_client-26087_barril-de-veneno.png",
+      "size": 83,
+      "sha256": "BA04F531DF0C7A12124750D521ADD77C55B16A6432D653C5559C16680DBD9F50"
+    },
+    {
+      "requested_id": 26973,
+      "client_id": 26088,
+      "server_ids": [
+        26973
+      ],
+      "name": "Selo dos Sabotadores",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        293236
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-26973_client-26088_selo-dos-sabotadores.png",
+      "size": 372,
+      "sha256": "1FF1401EC46C98696282D81ED07DE2214A928D20818210CAEFAA7C13EED5F789"
+    },
+    {
+      "requested_id": 26975,
+      "client_id": 26090,
+      "server_ids": [
+        26975
+      ],
+      "name": "Âncora Espiritual",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        293238,
+        293239,
+        293240,
+        293241
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-26975_client-26090_ancora-espiritual.png",
+      "size": 1669,
+      "sha256": "4CE48E9FDE0B395E9CC702BD6D72D90ECE6B7FDF11E72EBB4CBE9453A4DDE389"
+    }
+  ],
+  "sources": {
+    "dat": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.dat",
+      "sha256": "BC6C5415C13CCD38EF4340FF238389D4656A8E4DFA86A4FF3F4EF455E8447046"
+    },
+    "spr": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.spr",
+      "sha256": "6F5C1E29D393AF3223E47A8092833F3F57146A4CE2C7F64DC0A847A352891786"
+    }
+  },
+  "passed": true
+}
