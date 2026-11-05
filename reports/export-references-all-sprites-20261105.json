@@ -1,0 +1,219 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "profile": {
+    "key": "tibia-860-v2-custom-extended",
+    "client_version": 860,
+    "label": "Tibia 8.60 v2 customizado com features OTFI",
+    "dat_signature": "0x4C2C7993",
+    "spr_signature": "0x4C220594",
+    "metadata_reader": 5,
+    "otb_version_hint": "8.60"
+  },
+  "category": "items",
+  "id_kind": "server",
+  "requested_ids": [
+    14861,
+    14862,
+    14863,
+    14864,
+    24191,
+    24192,
+    25565
+  ],
+  "output_dir": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items",
+  "exported_count": 7,
+  "exported": [
+    {
+      "requested_id": 14861,
+      "client_id": 13979,
+      "server_ids": [
+        14861
+      ],
+      "name": "Kurama mode headband",
+      "group_index": 0,
+      "width": 32,
+      "height": 224,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 7,
+      "sprite_ids": [
+        83676,
+        83677,
+        83678,
+        83679,
+        83680,
+        83681,
+        83682
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-14861_client-13979_kurama-mode-headband.png",
+      "size": 4336,
+      "sha256": "8365C2EA31D3486F953CC0758C60B8B1087343A518F39B89C4244525E8AFFA6E"
+    },
+    {
+      "requested_id": 14862,
+      "client_id": 13980,
+      "server_ids": [
+        14862
+      ],
+      "name": "Kurama mode shirt",
+      "group_index": 0,
+      "width": 32,
+      "height": 224,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 7,
+      "sprite_ids": [
+        83683,
+        83684,
+        83685,
+        83686,
+        83687,
+        83688,
+        83689
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-14862_client-13980_kurama-mode-shirt.png",
+      "size": 11058,
+      "sha256": "3287E0E4AAE874F1042161B0A0C14C9874160F9D456BE55867246F0A422AE27F"
+    },
+    {
+      "requested_id": 14863,
+      "client_id": 13981,
+      "server_ids": [
+        14863
+      ],
+      "name": "Kurama mode pants",
+      "group_index": 0,
+      "width": 32,
+      "height": 224,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 7,
+      "sprite_ids": [
+        83690,
+        83691,
+        83692,
+        83693,
+        83694,
+        83695,
+        83696
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-14863_client-13981_kurama-mode-pants.png",
+      "size": 9933,
+      "sha256": "D265DCF135C050A886CC38BCE1E8938219DF9E5C3D4F5068E1BDA5031AE7C1AD"
+    },
+    {
+      "requested_id": 14864,
+      "client_id": 13982,
+      "server_ids": [
+        14864
+      ],
+      "name": "Kurama mode shoes",
+      "group_index": 0,
+      "width": 32,
+      "height": 224,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 7,
+      "sprite_ids": [
+        83697,
+        83698,
+        83699,
+        83700,
+        83701,
+        83702,
+        83703
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-14864_client-13982_kurama-mode-shoes.png",
+      "size": 9720,
+      "sha256": "7A938668474380727D4885EA55A09BFC24FBC33B031BF1817CDFF23EFEFD0D5A"
+    },
+    {
+      "requested_id": 24191,
+      "client_id": 23306,
+      "server_ids": [
+        24191
+      ],
+      "name": "1 Ring",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        175037
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-24191_client-23306_1-ring.png",
+      "size": 586,
+      "sha256": "636FCEB63D671944E968ABA653977A208087948D0456F231EBBC2B16F612F4CD"
+    },
+    {
+      "requested_id": 24192,
+      "client_id": 23307,
+      "server_ids": [
+        24192
+      ],
+      "name": "1 Glove",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        175048
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-24192_client-23307_1-glove.png",
+      "size": 469,
+      "sha256": "EF060175E0F5C9C774661884417AA19064F2A681ED4D8958A4A5B887511B1945"
+    },
+    {
+      "requested_id": 25565,
+      "client_id": 24680,
+      "server_ids": [
+        25565
+      ],
+      "name": "Stone wall",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        271286,
+        271287,
+        271288,
+        271289
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-25565_client-24680_stone-wall.png",
+      "size": 1328,
+      "sha256": "E26B55442936E6F07F47B922583981D455036BB5B5F0B4EB2A46C6668A053B20"
+    }
+  ],
+  "sources": {
+    "dat": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.dat",
+      "sha256": "CB4E0666E25BF387EA9104B22A219F06C68BDDEE67A91E03C3C925C0582022E8"
+    },
+    "spr": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.spr",
+      "sha256": "3D0340B4DE6065E66DCDA403627B97EC269D5AD4F1F48CF0D8AEFE1EFFB42DCB"
+    }
+  },
+  "passed": true
+}

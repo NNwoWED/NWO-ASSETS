@@ -1,0 +1,889 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "profile": {
+    "key": "tibia-860-v2-custom-extended",
+    "client_version": 860,
+    "label": "Tibia 8.60 v2 customizado com features OTFI",
+    "dat_signature": "0x4C2C7993",
+    "spr_signature": "0x4C220594",
+    "metadata_reader": 5,
+    "otb_version_hint": "8.60"
+  },
+  "category": "items",
+  "id_kind": "server",
+  "requested_ids": [
+    27047,
+    27048,
+    27049,
+    27050,
+    27051,
+    27052,
+    27053,
+    27054,
+    27055,
+    27056,
+    27057,
+    27058,
+    27059,
+    27060,
+    27061,
+    27062,
+    27063,
+    27064,
+    27065,
+    27066,
+    27067,
+    27068,
+    27069,
+    27070,
+    27071,
+    27072,
+    27073,
+    27074,
+    27075,
+    27076,
+    27077,
+    27078,
+    27079,
+    27080
+  ],
+  "output_dir": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items",
+  "exported_count": 34,
+  "exported": [
+    {
+      "requested_id": 27047,
+      "client_id": 26162,
+      "server_ids": [
+        27047
+      ],
+      "name": "19-10 Bandana",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        301549
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-27047_client-26162_19-10-bandana.png",
+      "size": 498,
+      "sha256": "D189DD6955AAE8734541FDBFFE66049387F214CB8EEC70977ADAA5148769D957"
+    },
+    {
+      "requested_id": 27048,
+      "client_id": 26163,
+      "server_ids": [
+        27048
+      ],
+      "name": "19-102 Armor",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        301550
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-27048_client-26163_19-102-armor.png",
+      "size": 563,
+      "sha256": "2A37107A67BF71D0C7F82C69AB0468355C912587F3143C6BAC2E2BA0E29235CF"
+    },
+    {
+      "requested_id": 27049,
+      "client_id": 26164,
+      "server_ids": [
+        27049
+      ],
+      "name": "19-103 Legs",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        301551
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-27049_client-26164_19-103-legs.png",
+      "size": 465,
+      "sha256": "6122B1A3939966BC57C9EC062609B5CB551878112528D01B8F5AD0ADA4B981B3"
+    },
+    {
+      "requested_id": 27050,
+      "client_id": 26165,
+      "server_ids": [
+        27050
+      ],
+      "name": "19-104 Boots",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        301552
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-27050_client-26165_19-104-boots.png",
+      "size": 442,
+      "sha256": "FD3D451AAB7392D8BA04D3889A3F3F5DDC7E18A8332FD486836B933733F83BBB"
+    },
+    {
+      "requested_id": 27051,
+      "client_id": 26166,
+      "server_ids": [
+        27051
+      ],
+      "name": "19-105 Glove",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        301553
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-27051_client-26166_19-105-glove.png",
+      "size": 280,
+      "sha256": "E22BEAC338F76D3278B5A03A74C73F04ADC9822E48324011D37A6531F4E234FC"
+    },
+    {
+      "requested_id": 27052,
+      "client_id": 26167,
+      "server_ids": [
+        27052
+      ],
+      "name": "19-106 Boots",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        301554
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-27052_client-26167_19-106-boots.png",
+      "size": 438,
+      "sha256": "0BD403B079FB15E83951F72364D9952D9AE1663A79A63A2A8294AD0C3572B756"
+    },
+    {
+      "requested_id": 27053,
+      "client_id": 26168,
+      "server_ids": [
+        27053
+      ],
+      "name": "19-107 Boots",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        301555
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-27053_client-26168_19-107-boots.png",
+      "size": 409,
+      "sha256": "40363E7D4C3713C72D249418B8F13B932242202CFA98EB6FCDD714545CE3E50D"
+    },
+    {
+      "requested_id": 27054,
+      "client_id": 26169,
+      "server_ids": [
+        27054
+      ],
+      "name": "19-108 Legs",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        301556
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-27054_client-26169_19-108-legs.png",
+      "size": 635,
+      "sha256": "936CF38CF60F3AB969BA86C659F1435816D144E8BAECF5C0DE6DB3A6DEE97D5C"
+    },
+    {
+      "requested_id": 27055,
+      "client_id": 26170,
+      "server_ids": [
+        27055
+      ],
+      "name": "19-109 Cloth",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        301557
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-27055_client-26170_19-109-cloth.png",
+      "size": 724,
+      "sha256": "7B69757103E993B651A568AF9AC9A3DDEF0EDB1EBF0A9F9BE94EBE6959BCE56B"
+    },
+    {
+      "requested_id": 27056,
+      "client_id": 26171,
+      "server_ids": [
+        27056
+      ],
+      "name": "19-110 Helmet",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        301558
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-27056_client-26171_19-110-helmet.png",
+      "size": 494,
+      "sha256": "35040497D872FCB172579926FCD11F78AB6AA9A94B5D5C0B453C4FB5E650804C"
+    },
+    {
+      "requested_id": 27057,
+      "client_id": 26172,
+      "server_ids": [
+        27057
+      ],
+      "name": "19-111 Glove",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        301559
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-27057_client-26172_19-111-glove.png",
+      "size": 282,
+      "sha256": "A674D902CBFAFFD3B68958F6F0A938F77DC4AF9A6C19CE402CE7A18C1A00DB7C"
+    },
+    {
+      "requested_id": 27058,
+      "client_id": 26173,
+      "server_ids": [
+        27058
+      ],
+      "name": "19-112 Legs",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        301560
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-27058_client-26173_19-112-legs.png",
+      "size": 517,
+      "sha256": "118C0CFC1B59255605C5679DF6DE1D26CE9B56F1EFCB38D7935A4716CA020244"
+    },
+    {
+      "requested_id": 27059,
+      "client_id": 26174,
+      "server_ids": [
+        27059
+      ],
+      "name": "19-113 Ring",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        301561
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-27059_client-26174_19-113-ring.png",
+      "size": 379,
+      "sha256": "9A3FD3EE4C24C3E1D152CF2ABEDCD9EE6135EE317FCD4596C787E839CF94DF17"
+    },
+    {
+      "requested_id": 27060,
+      "client_id": 26175,
+      "server_ids": [
+        27060
+      ],
+      "name": "19-114 Ring",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        301562
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-27060_client-26175_19-114-ring.png",
+      "size": 283,
+      "sha256": "E67FC7392CD9879DAC2C565E2ADB1DA12265FCD4C4205E2EBA840E7612A2DA27"
+    },
+    {
+      "requested_id": 27061,
+      "client_id": 26176,
+      "server_ids": [
+        27061
+      ],
+      "name": "19-115 Ring",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        301563
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-27061_client-26176_19-115-ring.png",
+      "size": 312,
+      "sha256": "B23A5DB720ED68304428479C1A39C4D0CEBDEB792A7D6387CA1D3938E7289965"
+    },
+    {
+      "requested_id": 27062,
+      "client_id": 26177,
+      "server_ids": [
+        27062
+      ],
+      "name": "19-116 Helmet",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        301564
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-27062_client-26177_19-116-helmet.png",
+      "size": 401,
+      "sha256": "B27B8DDF88BBCBA22A730E866A218CDFC520E9024534514CAC6E53CE0F92E82C"
+    },
+    {
+      "requested_id": 27063,
+      "client_id": 26178,
+      "server_ids": [
+        27063
+      ],
+      "name": "19-117 Helmet",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        301565
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-27063_client-26178_19-117-helmet.png",
+      "size": 371,
+      "sha256": "0A670C6321A486C69C179332FF6C423AF5C7E5FD73A9BE4643A506EC136AC0CF"
+    },
+    {
+      "requested_id": 27064,
+      "client_id": 26179,
+      "server_ids": [
+        27064
+      ],
+      "name": "Anel Golem Estrelado",
+      "group_index": 0,
+      "width": 32,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 2,
+      "sprite_ids": [
+        301566,
+        301567
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-27064_client-26179_anel-golem-estrelado.png",
+      "size": 873,
+      "sha256": "99B68BDD312B5E430AF9F983FC4752209672B40073927C76E49308DD305B6C9F"
+    },
+    {
+      "requested_id": 27065,
+      "client_id": 26180,
+      "server_ids": [
+        27065
+      ],
+      "name": "Portao Iwagakure 00",
+      "group_index": 0,
+      "width": 128,
+      "height": 128,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        301568,
+        301569,
+        0,
+        0,
+        301570,
+        301571,
+        301572,
+        0,
+        301573,
+        301574,
+        301575,
+        0,
+        0,
+        301576,
+        301577,
+        0
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-27065_client-26180_portao-iwagakure-00.png",
+      "size": 2186,
+      "sha256": "7DE34A9B2359C1CA5DE04925ED5F959381DD8BECED38166EC979F4553F251E61"
+    },
+    {
+      "requested_id": 27066,
+      "client_id": 26181,
+      "server_ids": [
+        27066
+      ],
+      "name": "Portao Iwagakure 01",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        301578,
+        301579,
+        301580,
+        301581
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-27066_client-26181_portao-iwagakure-01.png",
+      "size": 925,
+      "sha256": "E8C4C4195354D2B9DD8B2E1489F07E4C5F7A80F0DF275C7829BB3582C3DC1CC5"
+    },
+    {
+      "requested_id": 27067,
+      "client_id": 26182,
+      "server_ids": [
+        27067
+      ],
+      "name": "Portao Iwagakure 02",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        301582,
+        301583,
+        301584,
+        301585
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-27067_client-26182_portao-iwagakure-02.png",
+      "size": 1570,
+      "sha256": "22C31E0285F3FEFCF77E53D4A86C7A754BF4D9D0568474856135CB6D6FDF2EF0"
+    },
+    {
+      "requested_id": 27068,
+      "client_id": 26183,
+      "server_ids": [
+        27068
+      ],
+      "name": "Portao Iwagakure 03",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        301586,
+        301587,
+        301588,
+        301589
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-27068_client-26183_portao-iwagakure-03.png",
+      "size": 1056,
+      "sha256": "AA492FE839870F952B3401F438DF9AB82DCBA4034719CAA053DC22904D8F30CF"
+    },
+    {
+      "requested_id": 27069,
+      "client_id": 26184,
+      "server_ids": [
+        27069
+      ],
+      "name": "Portao Iwagakure 04",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        301590,
+        301591,
+        301592,
+        301593
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-27069_client-26184_portao-iwagakure-04.png",
+      "size": 1096,
+      "sha256": "D4C68D7F246493E0C6E1329651B9FDCC88C3FAB6A064A1B7472AFB9E6CA67079"
+    },
+    {
+      "requested_id": 27070,
+      "client_id": 26185,
+      "server_ids": [
+        27070
+      ],
+      "name": "Portao Iwagakure 05",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        301594,
+        301595,
+        0,
+        301596
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-27070_client-26185_portao-iwagakure-05.png",
+      "size": 658,
+      "sha256": "9BF0B1291E0B703B3AAADFFDF9F7A952C4B877B4C46A08F704E07276C5B12C92"
+    },
+    {
+      "requested_id": 27071,
+      "client_id": 26186,
+      "server_ids": [
+        27071
+      ],
+      "name": "Portao Iwagakure 06",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        301597,
+        301598,
+        301599,
+        0
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-27071_client-26186_portao-iwagakure-06.png",
+      "size": 753,
+      "sha256": "54D18054763092A6AF13F7FC2105AC6A26F1BC939B28967F419E8479481D83D3"
+    },
+    {
+      "requested_id": 27072,
+      "client_id": 26187,
+      "server_ids": [
+        27072
+      ],
+      "name": "Portao Iwagakure 07",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        301600,
+        301601,
+        0,
+        0
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-27072_client-26187_portao-iwagakure-07.png",
+      "size": 421,
+      "sha256": "569CCB141AFECA0B3DB6E668D0BD04152CB1C3ACA721701FC71153FD5A3ABBFC"
+    },
+    {
+      "requested_id": 27073,
+      "client_id": 26188,
+      "server_ids": [
+        27073
+      ],
+      "name": "Portao Iwagakure 08",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        301602,
+        301603,
+        301604,
+        301605
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-27073_client-26188_portao-iwagakure-08.png",
+      "size": 1024,
+      "sha256": "7A717A7112F688AC319E2CBC39BCC80DE724A3D4B3928068CFAF1C6C968E416D"
+    },
+    {
+      "requested_id": 27074,
+      "client_id": 26189,
+      "server_ids": [
+        27074
+      ],
+      "name": "Portao Iwagakure 09",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        301606,
+        301607,
+        301608,
+        301609
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-27074_client-26189_portao-iwagakure-09.png",
+      "size": 642,
+      "sha256": "280A1972904446DDE4F3DEA9298738B387934AD974F7912ACAA37254F7A2D508"
+    },
+    {
+      "requested_id": 27075,
+      "client_id": 26190,
+      "server_ids": [
+        27075
+      ],
+      "name": "Portao Iwagakure 10",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        301610,
+        301611,
+        301612,
+        301613
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-27075_client-26190_portao-iwagakure-10.png",
+      "size": 1260,
+      "sha256": "3C85E7B7B4983D829F03866FAA5F9599C88762DD7A41E46B78A8D282137A798C"
+    },
+    {
+      "requested_id": 27076,
+      "client_id": 26191,
+      "server_ids": [
+        27076
+      ],
+      "name": "Portao Iwagakure 11",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        301614,
+        301615,
+        301616,
+        301617
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-27076_client-26191_portao-iwagakure-11.png",
+      "size": 1413,
+      "sha256": "A84B8B103538482EA4F32CCEDCE348E763A1553048301049EA1D88B377FA64B5"
+    },
+    {
+      "requested_id": 27077,
+      "client_id": 26192,
+      "server_ids": [
+        27077
+      ],
+      "name": "Portao Iwagakure 12",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        301618,
+        301619,
+        301620,
+        301621
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-27077_client-26192_portao-iwagakure-12.png",
+      "size": 1043,
+      "sha256": "49C20706D7C865FEF8DD9511F5BCD70E1BEA8B733AF5375007B181967FD1A782"
+    },
+    {
+      "requested_id": 27078,
+      "client_id": 26193,
+      "server_ids": [
+        27078
+      ],
+      "name": "Portao Iwagakure 13",
+      "group_index": 0,
+      "width": 96,
+      "height": 96,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        301622,
+        301623,
+        0,
+        301624,
+        301625,
+        0,
+        301626,
+        301627,
+        0
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-27078_client-26193_portao-iwagakure-13.png",
+      "size": 1576,
+      "sha256": "751C14FFC7D8195E7B8ECA4B0FD95F54861C53299093448EFFEBA61C83E1BFF2"
+    },
+    {
+      "requested_id": 27079,
+      "client_id": 26194,
+      "server_ids": [
+        27079
+      ],
+      "name": "Portao Iwagakure 14",
+      "group_index": 0,
+      "width": 96,
+      "height": 96,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        301628,
+        301629,
+        0,
+        301630,
+        301631,
+        0,
+        301632,
+        301633,
+        0
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-27079_client-26194_portao-iwagakure-14.png",
+      "size": 1610,
+      "sha256": "7E267EDC825258CF9983A3AA0413B5C573B898A513EF2F3185FD441DBD9FD507"
+    },
+    {
+      "requested_id": 27080,
+      "client_id": 26195,
+      "server_ids": [
+        27080
+      ],
+      "name": "Portao Iwagakure 15",
+      "group_index": 0,
+      "width": 96,
+      "height": 96,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        301634,
+        301635,
+        0,
+        301636,
+        301637,
+        0,
+        0,
+        301638,
+        0
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-27080_client-26195_portao-iwagakure-15.png",
+      "size": 1463,
+      "sha256": "75A7875BEFCC3A73C4361B5126F4B9889B854E99252D9B26090ED32B138DE72B"
+    }
+  ],
+  "sources": {
+    "dat": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.dat",
+      "sha256": "5C5FDCE881F32AD74B5DC64764673BF442A8FF94349EAD5B934FE978ED83D8A5"
+    },
+    "spr": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.spr",
+      "sha256": "BD6E7E37968119EC33B882D81E86006B826D6031BAB2AD4F85226CD20004F486"
+    }
+  },
+  "passed": true
+}

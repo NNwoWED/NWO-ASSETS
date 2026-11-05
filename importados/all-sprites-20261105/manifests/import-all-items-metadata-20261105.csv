@@ -1,0 +1,35 @@
+target_server_id,target_client_id,item_name,purpose,source_server_id,dat_otb_policy,layout
+27047,26162,19-10 Bandana,equipment head slot; combat attributes pending,24185,exact clone except new static appearance,32x32 static
+27048,26163,19-102 Armor,equipment body slot; combat attributes pending,24186,exact clone except new static appearance,32x32 static
+27049,26164,19-103 Legs,equipment legs slot; combat attributes pending,24187,exact clone except new static appearance,32x32 static
+27050,26165,19-104 Boots,equipment feet slot; combat attributes pending,24188,exact clone except new static appearance,32x32 static
+27051,26166,19-105 Glove,equipment right-hand slot; combat attributes pending,24192,exact clone except new static appearance,32x32 static
+27052,26167,19-106 Boots,equipment feet slot; combat attributes pending,24188,exact clone except new static appearance,32x32 static
+27053,26168,19-107 Boots,equipment feet slot; combat attributes pending,24188,exact clone except new static appearance,32x32 static
+27054,26169,19-108 Legs,equipment legs slot; combat attributes pending,24187,exact clone except new static appearance,32x32 static
+27055,26170,19-109 Cloth,equipment body slot; combat attributes pending,24186,exact clone except new static appearance,32x32 static
+27056,26171,19-110 Helmet,equipment head slot; combat attributes pending,24185,exact clone except new static appearance,32x32 static
+27057,26172,19-111 Glove,equipment right-hand slot; combat attributes pending,24192,exact clone except new static appearance,32x32 static
+27058,26173,19-112 Legs,equipment legs slot; combat attributes pending,24187,exact clone except new static appearance,32x32 static
+27059,26174,19-113 Ring,equipment ring slot; combat attributes pending,24191,exact clone except new static appearance,32x32 static
+27060,26175,19-114 Ring,equipment ring slot; combat attributes pending,24191,exact clone except new static appearance,32x32 static
+27061,26176,19-115 Ring,equipment ring slot; combat attributes pending,24191,exact clone except new static appearance,32x32 static
+27062,26177,19-116 Helmet,equipment head slot; combat attributes pending,24185,exact clone except new static appearance,32x32 static
+27063,26178,19-117 Helmet,equipment head slot; combat attributes pending,24185,exact clone except new static appearance,32x32 static
+27064,26179,Anel Golem Estrelado,equipment ring slot; animated appearance; combat attributes pending,24191,clone ring flags and enable animation,32x32 x 2 frames at 100 ms
+27065,26180,Portao Iwagakure 00,blocking gate wall piece,25565,exact wall flags and new appearance,128x128 static
+27066,26181,Portao Iwagakure 01,blocking gate wall piece,25565,exact wall flags and new appearance,64x64 static
+27067,26182,Portao Iwagakure 02,blocking gate wall piece,25565,exact wall flags and new appearance,64x64 static
+27068,26183,Portao Iwagakure 03,blocking gate wall piece,25565,exact wall flags and new appearance,64x64 static
+27069,26184,Portao Iwagakure 04,blocking gate wall piece,25565,exact wall flags and new appearance,64x64 static
+27070,26185,Portao Iwagakure 05,blocking gate wall piece,25565,exact wall flags and new appearance,64x64 static
+27071,26186,Portao Iwagakure 06,blocking gate wall piece,25565,exact wall flags and new appearance,64x64 static
+27072,26187,Portao Iwagakure 07,blocking gate wall piece,25565,exact wall flags and new appearance,64x64 static
+27073,26188,Portao Iwagakure 08,blocking gate wall piece,25565,exact wall flags and new appearance,64x64 static
+27074,26189,Portao Iwagakure 09,blocking gate wall piece,25565,exact wall flags and new appearance,64x64 static
+27075,26190,Portao Iwagakure 10,blocking gate wall piece,25565,exact wall flags and new appearance,64x64 static
+27076,26191,Portao Iwagakure 11,blocking gate wall piece,25565,exact wall flags and new appearance,64x64 static
+27077,26192,Portao Iwagakure 12,blocking gate wall piece,25565,exact wall flags and new appearance,64x64 static
+27078,26193,Portao Iwagakure 13,blocking gate wall piece,25565,exact wall flags and new appearance,96x96 static
+27079,26194,Portao Iwagakure 14,blocking gate wall piece,25565,exact wall flags and new appearance,96x96 static
+27080,26195,Portao Iwagakure 15,blocking gate wall piece,25565,exact wall flags and new appearance,96x96 static

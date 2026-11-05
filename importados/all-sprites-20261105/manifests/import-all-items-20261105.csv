@@ -1,0 +1,35 @@
+sequence,source_server_id,target_server_id,target_client_id,source_path,frame_width,frame_height,frames,frame_duration_ms,animation_async
+1,24185,27047,26162,19-10bandana.png,32,32,1,,0
+2,24186,27048,26163,19-102armor.png,32,32,1,,0
+3,24187,27049,26164,19-103legs.png,32,32,1,,0
+4,24188,27050,26165,19-104boots.png,32,32,1,,0
+5,24192,27051,26166,19-105glove.png,32,32,1,,0
+6,24188,27052,26167,19-106boots.png,32,32,1,,0
+7,24188,27053,26168,19-107boots.png,32,32,1,,0
+8,24187,27054,26169,19-108legs.png,32,32,1,,0
+9,24186,27055,26170,19-109cloth.png,32,32,1,,0
+10,24185,27056,26171,19-110helmet.png,32,32,1,,0
+11,24192,27057,26172,19-111glove.png,32,32,1,,0
+12,24187,27058,26173,19-112legs.png,32,32,1,,0
+13,24191,27059,26174,19-113ring.png,32,32,1,,0
+14,24191,27060,26175,19-114ring.png,32,32,1,,0
+15,24191,27061,26176,19-115ring.png,32,32,1,,0
+16,24185,27062,26177,19-116helmet.png,32,32,1,,0
+17,24185,27063,26178,19-117helmet.png,32,32,1,,0
+18,24191,27064,26179,Anel Golem Estrelado ring.png,32,32,2,100,0
+19,25565,27065,26180,recortes/aaaaaaaaaaaaaaaaaaaaaaaaaaaa.png,128,128,1,,0
+20,25565,27066,26181,recortes/portão iwagakure1.png,64,64,1,,0
+21,25565,27067,26182,recortes/portão iwagakure2.png,64,64,1,,0
+22,25565,27068,26183,recortes/portão iwagakure3.png,64,64,1,,0
+23,25565,27069,26184,recortes/portão iwagakure4.png,64,64,1,,0
+24,25565,27070,26185,recortes/portão iwagakure5.png,64,64,1,,0
+25,25565,27071,26186,recortes/portão iwagakure6.png,64,64,1,,0
+26,25565,27072,26187,recortes/portão iwagakure7.png,64,64,1,,0
+27,25565,27073,26188,recortes/portão iwagakure8.png,64,64,1,,0
+28,25565,27074,26189,recortes/portão iwagakure9.png,64,64,1,,0
+29,25565,27075,26190,recortes/portão iwagakure10.png,64,64,1,,0
+30,25565,27076,26191,recortes/portão iwagakure11.png,64,64,1,,0
+31,25565,27077,26192,recortes/portão iwagakure12.png,64,64,1,,0
+32,25565,27078,26193,recortes/Sprite-0001.png,96,96,1,,0
+33,25565,27079,26194,recortes/Sprite-0002.png,96,96,1,,0
+34,25565,27080,26195,recortes/Sprite-0003.png,96,96,1,,0
