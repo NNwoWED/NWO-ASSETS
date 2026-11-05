@@ -1,5 +1,9 @@
 # Atualizacoes
 
+## 05/11/2026 - Correcao do displacement do E4 do Tobirama
+
+- Corrigidos os efeitos 1477, 1478, 1479 e 1480 para `effect-displacement: 128 128`. O comando `/z <efeito>, 4, 4` desloca quatro SQMs em cada eixo; como cada SQM possui 32 pixels, o valor equivalente no OTML e 128 pixels por eixo.
+
 ## 05/11/2026 - Segundo remake do efeito 79 do Tobirama
 
 - Substituida novamente a aparencia do Effect ID 79 pela folha `tobirama_skill-Sheet.png`, mantendo o layout de 13 frames de 192x224, 100 ms por frame, animacao sincrona e `effect-displacement: 64 64`.
