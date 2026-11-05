@@ -1,5 +1,12 @@
 # Atualizacoes
 
+## 05/11/2026 - Efeito tubarao, Roof 17 e paredes Iwa
+
+- Importado o Effect ID 1481 a partir de `skill_tubarao-Sheet.png`: 13 frames de 128x128, 100 ms e animacao sincrona. Criado o Roof SID 27046 / CID 26161 com a sprite `17.png`, 64x64 estatica e propriedades clonadas do Roof 26929.
+- Auditados os 98 itens do conjunto de paredes 26827-26924. Corrigidos 77: 42 pecas 4-9 que haviam sido clonadas como telhado e 35 paredes com orientacao incorreta. Resultado: 35 Hook East, 28 Hook South, 28 Wall sem hook e sete bordas 20 preservadas. As 21 pecas que ja estavam corretas nao foram alteradas. O SID 26919 / CID 26034 agora e Wall neutra, bloqueia passagem e projeteis e nao possui flags de chao/telhado.
+- Acrescentados 107 sprites, IDs 301442-301548. Reexportacoes do novo Roof e do efeito coincidiram pixel a pixel com as fontes. Versoes imutaveis: `20261105-034016-431130`, `20261105-034115-424815`, `20261105-034242-867662` e `20261105-034336-418686`. Fontes, manifestos e exports em `importados/shark-roof-wall-fix-20261105/`.
+- Relatorios principais: `reports/import-roof-17-20261105.json`, `reports/import-shark-effect-20261105.json`, `reports/repair-iwa-wall-clones-20261105.json`, `reports/properties-iwa-walls-20261105.json`, `reports/sync-runtime-shark-roof-walls-20261105.json` e `reports/validation-final-shark-roof-walls-20261105.json`.
+
 ## 05/11/2026 - Efeitos de bolha
 
 - Adicionados como efeitos novos os Effect IDs 1477 (inicio, 7 frames), 1478 (loop, 9 frames), 1479 (cortes, 10 frames) e 1480 (final, 9 frames). Todos usam layout 10x10, frames de 320x320, duracao de 100 ms e animacao sincrona.

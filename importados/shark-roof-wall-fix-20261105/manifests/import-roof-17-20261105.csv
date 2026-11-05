@@ -1,0 +1,2 @@
+sequence,source_server_id,target_server_id,target_client_id,source_path,frame_width,frame_height,frames,frame_duration_ms,animation_async
+1,26929,27046,26161,17.png,64,64,1,,0

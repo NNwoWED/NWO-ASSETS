@@ -1,0 +1,1081 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "manifest": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\repair-iwa-wall-clones-20261105.csv",
+  "item_count": 42,
+  "reference_kind": "client_id_from_png_filename",
+  "before": {
+    "dat_properties_exact": 0,
+    "dat_layout_exact": 42,
+    "otb_nodes_exact": 0
+  },
+  "visual_order": {
+    "alpha_group_sets_exact": 0,
+    "single_group_art_variants": 42,
+    "items_reordered_to_reference": 0
+  },
+  "xml": {
+    "source_definitions": 0,
+    "target_definitions_written": 0,
+    "target_definitions_already_exact": 0,
+    "target_ids": []
+  },
+  "map_scan": {
+    "tiles_scanned": 8300115,
+    "item_nodes_scanned": 2250181
+  },
+  "spr_unchanged": true,
+  "items": [
+    {
+      "sequence": 1,
+      "source_server_id": 1055,
+      "source_client_id": 1300,
+      "target_server_id": 26830,
+      "target_client_id": 25945,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\wall-config-repair-20261105\\base\\4.png",
+      "source_sha256": "32AE3B386DC0BF07737C04041CC8864EBAD05CA333FCD6DCC58DC168BDC182BC",
+      "layout": {
+        "width": 2,
+        "height": 2,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "sprite_id_range_reused": [
+        292689,
+        292692
+      ],
+      "alpha_group_set_exact": false,
+      "groups_reordered_to_reference": false,
+      "sprite_hash": "DD4D8E14445A844A40344AF557B1AD5F"
+    },
+    {
+      "sequence": 2,
+      "source_server_id": 9147,
+      "source_client_id": 8231,
+      "target_server_id": 26831,
+      "target_client_id": 25946,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\wall-config-repair-20261105\\base\\5.png",
+      "source_sha256": "67A3217C176D83CA7662BA5CC062359CC79F69E7CA27E4D4F75A0540951E651F",
+      "layout": {
+        "width": 2,
+        "height": 2,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "sprite_id_range_reused": [
+        292693,
+        292695
+      ],
+      "alpha_group_set_exact": false,
+      "groups_reordered_to_reference": false,
+      "sprite_hash": "864144224888F28D772A823E6C113228"
+    },
+    {
+      "sequence": 3,
+      "source_server_id": 9149,
+      "source_client_id": 8233,
+      "target_server_id": 26832,
+      "target_client_id": 25947,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\wall-config-repair-20261105\\base\\6.png",
+      "source_sha256": "F7283A338FCFDE391A7A49506A4B48FA24409F4042EB960C1A1CF2ECA213D4B0",
+      "layout": {
+        "width": 2,
+        "height": 2,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "sprite_id_range_reused": [
+        292696,
+        292698
+      ],
+      "alpha_group_set_exact": false,
+      "groups_reordered_to_reference": false,
+      "sprite_hash": "2BEE9B683672EDA4937C89C8899D9B10"
+    },
+    {
+      "sequence": 4,
+      "source_server_id": 9148,
+      "source_client_id": 8232,
+      "target_server_id": 26833,
+      "target_client_id": 25948,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\wall-config-repair-20261105\\base\\7.png",
+      "source_sha256": "B115C031A1A882591B5104B2F7FE708360415109FF2CF064B62B19D1156CBB0F",
+      "layout": {
+        "width": 2,
+        "height": 2,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "sprite_id_range_reused": [
+        292699,
+        292702
+      ],
+      "alpha_group_set_exact": false,
+      "groups_reordered_to_reference": false,
+      "sprite_hash": "AD8B5F3C14BD83282EB6AA0AF749D0C0"
+    },
+    {
+      "sequence": 5,
+      "source_server_id": 9150,
+      "source_client_id": 8234,
+      "target_server_id": 26834,
+      "target_client_id": 25949,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\wall-config-repair-20261105\\base\\8.png",
+      "source_sha256": "19466BD7084ADF127BC06E33290A0BA4E4C2FFADA500192A5641D93557B3110A",
+      "layout": {
+        "width": 2,
+        "height": 2,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "sprite_id_range_reused": [
+        292703,
+        292706
+      ],
+      "alpha_group_set_exact": false,
+      "groups_reordered_to_reference": false,
+      "sprite_hash": "413724603C3C7BD079FB51DB3E00E6D7"
+    },
+    {
+      "sequence": 6,
+      "source_server_id": 8241,
+      "source_client_id": 7507,
+      "target_server_id": 26835,
+      "target_client_id": 25950,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\wall-config-repair-20261105\\base\\9.png",
+      "source_sha256": "A095BB6FC9179FDB951C1A6320E536C8F39F99BB6FD5CF8809D0612EC4E684A2",
+      "layout": {
+        "width": 2,
+        "height": 2,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "sprite_id_range_reused": [
+        292707,
+        292710
+      ],
+      "alpha_group_set_exact": false,
+      "groups_reordered_to_reference": false,
+      "sprite_hash": "7A2A2ADA19AD301BC652A1432D8FD48E"
+    },
+    {
+      "sequence": 7,
+      "source_server_id": 9152,
+      "source_client_id": 8236,
+      "target_server_id": 26844,
+      "target_client_id": 25959,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\wall-config-repair-20261105\\01\\4.png",
+      "source_sha256": "AEB833F1CCC9232D0642C0EC91267FC01798A74520A0274DBD36AC12C0AB143D",
+      "layout": {
+        "width": 2,
+        "height": 2,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "sprite_id_range_reused": [
+        292756,
+        292759
+      ],
+      "alpha_group_set_exact": false,
+      "groups_reordered_to_reference": false,
+      "sprite_hash": "56561FF6AC47A4EFFC65F9188791B23E"
+    },
+    {
+      "sequence": 8,
+      "source_server_id": 9151,
+      "source_client_id": 8235,
+      "target_server_id": 26845,
+      "target_client_id": 25960,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\wall-config-repair-20261105\\01\\5.png",
+      "source_sha256": "3444730C6F3E217FA77D85C8E159EB9DB429472B22F56F3C2709EA759268617A",
+      "layout": {
+        "width": 2,
+        "height": 2,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "sprite_id_range_reused": [
+        292760,
+        292762
+      ],
+      "alpha_group_set_exact": false,
+      "groups_reordered_to_reference": false,
+      "sprite_hash": "6AF853C840B7D5B7143712B8633C6DAB"
+    },
+    {
+      "sequence": 9,
+      "source_server_id": 9156,
+      "source_client_id": 8240,
+      "target_server_id": 26846,
+      "target_client_id": 25961,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\wall-config-repair-20261105\\01\\6.png",
+      "source_sha256": "2435F81CA43940BA1617291B006FD30C9FAE036A50B06617CF3A183391DB8B85",
+      "layout": {
+        "width": 2,
+        "height": 2,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "sprite_id_range_reused": [
+        292763,
+        292765
+      ],
+      "alpha_group_set_exact": false,
+      "groups_reordered_to_reference": false,
+      "sprite_hash": "0E062FD8E02CE8392E15B13471737ABF"
+    },
+    {
+      "sequence": 10,
+      "source_server_id": 9153,
+      "source_client_id": 8237,
+      "target_server_id": 26847,
+      "target_client_id": 25962,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\wall-config-repair-20261105\\01\\7.png",
+      "source_sha256": "C22B654646994713D3256CEF3B1F15AADAE73EE350EFE036F069B5CFD3B26685",
+      "layout": {
+        "width": 2,
+        "height": 2,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "sprite_id_range_reused": [
+        292766,
+        292769
+      ],
+      "alpha_group_set_exact": false,
+      "groups_reordered_to_reference": false,
+      "sprite_hash": "D304C86E00A6465CF973A0225270014D"
+    },
+    {
+      "sequence": 11,
+      "source_server_id": 9157,
+      "source_client_id": 8241,
+      "target_server_id": 26848,
+      "target_client_id": 25963,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\wall-config-repair-20261105\\01\\8.png",
+      "source_sha256": "B3A7C2FE5E81CB5A88AD7F53131D6AE850AC60982CBE1C3FE66E523B5BE4FB1E",
+      "layout": {
+        "width": 2,
+        "height": 2,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "sprite_id_range_reused": [
+        292770,
+        292773
+      ],
+      "alpha_group_set_exact": false,
+      "groups_reordered_to_reference": false,
+      "sprite_hash": "DA15B4A90CA529996727C8516EE1E31B"
+    },
+    {
+      "sequence": 12,
+      "source_server_id": 11710,
+      "source_client_id": 10833,
+      "target_server_id": 26849,
+      "target_client_id": 25964,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\wall-config-repair-20261105\\01\\9.png",
+      "source_sha256": "7F3FEF6F3FEB7713998C81E6C79782DAE772CBA5A68943EB47DCD016811744BF",
+      "layout": {
+        "width": 2,
+        "height": 2,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "sprite_id_range_reused": [
+        292774,
+        292777
+      ],
+      "alpha_group_set_exact": false,
+      "groups_reordered_to_reference": false,
+      "sprite_hash": "CA9E0F1BB1731867E632E93B28464641"
+    },
+    {
+      "sequence": 13,
+      "source_server_id": 9158,
+      "source_client_id": 8242,
+      "target_server_id": 26858,
+      "target_client_id": 25973,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\wall-config-repair-20261105\\02\\4.png",
+      "source_sha256": "CC2675521094A10AF848AC541DE9655655139748273F28E1B06B6FB7FD5CB1DD",
+      "layout": {
+        "width": 2,
+        "height": 2,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "sprite_id_range_reused": [
+        292823,
+        292826
+      ],
+      "alpha_group_set_exact": false,
+      "groups_reordered_to_reference": false,
+      "sprite_hash": "CB244D66BF95486236B6279A18838B70"
+    },
+    {
+      "sequence": 14,
+      "source_server_id": 9154,
+      "source_client_id": 8238,
+      "target_server_id": 26859,
+      "target_client_id": 25974,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\wall-config-repair-20261105\\02\\5.png",
+      "source_sha256": "38D24BD756BFEE55FE7E46DDF7432871E09ABF2B6568E53FB52A5AAF8FBB0E9E",
+      "layout": {
+        "width": 2,
+        "height": 2,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "sprite_id_range_reused": [
+        292827,
+        292829
+      ],
+      "alpha_group_set_exact": false,
+      "groups_reordered_to_reference": false,
+      "sprite_hash": "8F3481DFC79102A0C3EE1447C8214BEA"
+    },
+    {
+      "sequence": 15,
+      "source_server_id": 10286,
+      "source_client_id": 9369,
+      "target_server_id": 26860,
+      "target_client_id": 25975,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\wall-config-repair-20261105\\02\\6.png",
+      "source_sha256": "EA2E22F6579452565109749B86D576E806FA0FD36888747CD4043D1AA5B1182E",
+      "layout": {
+        "width": 2,
+        "height": 2,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "sprite_id_range_reused": [
+        292830,
+        292832
+      ],
+      "alpha_group_set_exact": false,
+      "groups_reordered_to_reference": false,
+      "sprite_hash": "DC8B2B5EB2E83CE15BC677034463EC3E"
+    },
+    {
+      "sequence": 16,
+      "source_server_id": 9155,
+      "source_client_id": 8239,
+      "target_server_id": 26861,
+      "target_client_id": 25976,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\wall-config-repair-20261105\\02\\7.png",
+      "source_sha256": "D69934DE97171141B9FAE5DE651F20D209ABFCB6776E45221DB6C546C0FB314E",
+      "layout": {
+        "width": 2,
+        "height": 2,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "sprite_id_range_reused": [
+        292833,
+        292836
+      ],
+      "alpha_group_set_exact": false,
+      "groups_reordered_to_reference": false,
+      "sprite_hash": "C84E96DCE908CFF451C295F420DD3C4F"
+    },
+    {
+      "sequence": 17,
+      "source_server_id": 12643,
+      "source_client_id": 11766,
+      "target_server_id": 26862,
+      "target_client_id": 25977,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\wall-config-repair-20261105\\02\\8.png",
+      "source_sha256": "844CBF63339C21420FF1EFFDD9366B32EFA3A279A2617360C7A4B8CF64B5E89A",
+      "layout": {
+        "width": 2,
+        "height": 2,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "sprite_id_range_reused": [
+        292837,
+        292840
+      ],
+      "alpha_group_set_exact": false,
+      "groups_reordered_to_reference": false,
+      "sprite_hash": "BA8CD606D7776A8D4E3A7CAAB1C7D7DF"
+    },
+    {
+      "sequence": 18,
+      "source_server_id": 12632,
+      "source_client_id": 11755,
+      "target_server_id": 26863,
+      "target_client_id": 25978,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\wall-config-repair-20261105\\02\\9.png",
+      "source_sha256": "D085447659B22D0CD9857EF19CADA7565E091139DE7F23A66CB8FA5F492245C2",
+      "layout": {
+        "width": 2,
+        "height": 2,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "sprite_id_range_reused": [
+        292841,
+        292844
+      ],
+      "alpha_group_set_exact": false,
+      "groups_reordered_to_reference": false,
+      "sprite_hash": "68749B3AF827F53E931D1FB76E74FBD6"
+    },
+    {
+      "sequence": 19,
+      "source_server_id": 12646,
+      "source_client_id": 11769,
+      "target_server_id": 26872,
+      "target_client_id": 25987,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\wall-config-repair-20261105\\03\\4.png",
+      "source_sha256": "4BA20B25D54523D81DE02F04344B339AB8188548E4BAFC9163A3D7842EDF1BA0",
+      "layout": {
+        "width": 2,
+        "height": 2,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "sprite_id_range_reused": [
+        292890,
+        292893
+      ],
+      "alpha_group_set_exact": false,
+      "groups_reordered_to_reference": false,
+      "sprite_hash": "2D155BBDC71487F30F54ABA0F36CB3FE"
+    },
+    {
+      "sequence": 20,
+      "source_server_id": 10287,
+      "source_client_id": 9370,
+      "target_server_id": 26873,
+      "target_client_id": 25988,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\wall-config-repair-20261105\\03\\5.png",
+      "source_sha256": "C1037727BF732E99B1F121D4F610106AF13F187CCF3C7AAA3691CF854386BEEB",
+      "layout": {
+        "width": 2,
+        "height": 2,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "sprite_id_range_reused": [
+        292894,
+        292896
+      ],
+      "alpha_group_set_exact": false,
+      "groups_reordered_to_reference": false,
+      "sprite_hash": "C3C9A1E38ECF235E201E4F359F9FF3AA"
+    },
+    {
+      "sequence": 21,
+      "source_server_id": 12648,
+      "source_client_id": 11771,
+      "target_server_id": 26874,
+      "target_client_id": 25989,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\wall-config-repair-20261105\\03\\6.png",
+      "source_sha256": "C2EF99975F9F4C2B75E6F795FBE76D6CFCB234EB3301092B858671D1443DBF97",
+      "layout": {
+        "width": 2,
+        "height": 2,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "sprite_id_range_reused": [
+        292897,
+        292899
+      ],
+      "alpha_group_set_exact": false,
+      "groups_reordered_to_reference": false,
+      "sprite_hash": "BA6B491FB38A62546B3FF3A3C1D1C10B"
+    },
+    {
+      "sequence": 22,
+      "source_server_id": 12631,
+      "source_client_id": 11754,
+      "target_server_id": 26875,
+      "target_client_id": 25990,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\wall-config-repair-20261105\\03\\7.png",
+      "source_sha256": "94591ED6B89A104C6962FDBC4487E0CAD9500396B2975D836F4846737484422C",
+      "layout": {
+        "width": 2,
+        "height": 2,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "sprite_id_range_reused": [
+        292900,
+        292903
+      ],
+      "alpha_group_set_exact": false,
+      "groups_reordered_to_reference": false,
+      "sprite_hash": "4FB58CAC7D05DC7E340C68E098ED1C6C"
+    },
+    {
+      "sequence": 23,
+      "source_server_id": 15775,
+      "source_client_id": 14890,
+      "target_server_id": 26876,
+      "target_client_id": 25991,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\wall-config-repair-20261105\\03\\8.png",
+      "source_sha256": "3ED472FA1F9900A8718A5E40222FF35D311F971F588E6E8DF5C632F14ABCEC19",
+      "layout": {
+        "width": 2,
+        "height": 2,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "sprite_id_range_reused": [
+        292904,
+        292907
+      ],
+      "alpha_group_set_exact": false,
+      "groups_reordered_to_reference": false,
+      "sprite_hash": "E3B0F95612143FC8E25B3A6796D86975"
+    },
+    {
+      "sequence": 24,
+      "source_server_id": 12633,
+      "source_client_id": 11756,
+      "target_server_id": 26877,
+      "target_client_id": 25992,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\wall-config-repair-20261105\\03\\9.png",
+      "source_sha256": "13F47A95EF30B85507379AF45207964AED0795B24DC9F514C954866351244EA8",
+      "layout": {
+        "width": 2,
+        "height": 2,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "sprite_id_range_reused": [
+        292908,
+        292911
+      ],
+      "alpha_group_set_exact": false,
+      "groups_reordered_to_reference": false,
+      "sprite_hash": "3DF6B32095D169784A2E1B801E68DF3C"
+    },
+    {
+      "sequence": 25,
+      "source_server_id": 15779,
+      "source_client_id": 14894,
+      "target_server_id": 26886,
+      "target_client_id": 26001,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\wall-config-repair-20261105\\04\\4.png",
+      "source_sha256": "C62448BA3508F524CAE05F3FDB3729B1EE10B91AC466E9F1876AE463F5B0850A",
+      "layout": {
+        "width": 2,
+        "height": 2,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "sprite_id_range_reused": [
+        292957,
+        292960
+      ],
+      "alpha_group_set_exact": false,
+      "groups_reordered_to_reference": false,
+      "sprite_hash": "4216DB3596991A0844C849314182283D"
+    },
+    {
+      "sequence": 26,
+      "source_server_id": 12634,
+      "source_client_id": 11757,
+      "target_server_id": 26887,
+      "target_client_id": 26002,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\wall-config-repair-20261105\\04\\5.png",
+      "source_sha256": "E64235797C4BFEB8C24E4DAE9AD824CF4E12E485BED57796CB8F242D66D4EA91",
+      "layout": {
+        "width": 2,
+        "height": 2,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "sprite_id_range_reused": [
+        292961,
+        292963
+      ],
+      "alpha_group_set_exact": false,
+      "groups_reordered_to_reference": false,
+      "sprite_hash": "6A2AF97D46A8D7A9A08B66FAFFB16D39"
+    },
+    {
+      "sequence": 27,
+      "source_server_id": 15821,
+      "source_client_id": 14936,
+      "target_server_id": 26888,
+      "target_client_id": 26003,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\wall-config-repair-20261105\\04\\6.png",
+      "source_sha256": "E76803F61C0D0B5F3C84B3008DECC2E4261891487EA1696445E62B0EEA46D472",
+      "layout": {
+        "width": 2,
+        "height": 2,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "sprite_id_range_reused": [
+        292964,
+        292966
+      ],
+      "alpha_group_set_exact": false,
+      "groups_reordered_to_reference": false,
+      "sprite_hash": "54023ECE9DC047E7C89CDD05E5469596"
+    },
+    {
+      "sequence": 28,
+      "source_server_id": 12637,
+      "source_client_id": 11760,
+      "target_server_id": 26889,
+      "target_client_id": 26004,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\wall-config-repair-20261105\\04\\7.png",
+      "source_sha256": "04522BBE5F181A80B3A9F89BFE2B34B026A31B4DDCF97FDD3FC46F9D7348A72A",
+      "layout": {
+        "width": 2,
+        "height": 2,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "sprite_id_range_reused": [
+        292967,
+        292970
+      ],
+      "alpha_group_set_exact": false,
+      "groups_reordered_to_reference": false,
+      "sprite_hash": "8C932D242A8F94113B4AF95D32530085"
+    },
+    {
+      "sequence": 29,
+      "source_server_id": 18555,
+      "source_client_id": 17670,
+      "target_server_id": 26890,
+      "target_client_id": 26005,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\wall-config-repair-20261105\\04\\8.png",
+      "source_sha256": "7AA5BD9F5F2BB14C449FD48704CA4DD74623FB3790A25758A8210AEEA1B25954",
+      "layout": {
+        "width": 2,
+        "height": 2,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "sprite_id_range_reused": [
+        292971,
+        292974
+      ],
+      "alpha_group_set_exact": false,
+      "groups_reordered_to_reference": false,
+      "sprite_hash": "A393A2272D2254C99E0FE31DE7B78EAC"
+    },
+    {
+      "sequence": 30,
+      "source_server_id": 12635,
+      "source_client_id": 11758,
+      "target_server_id": 26891,
+      "target_client_id": 26006,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\wall-config-repair-20261105\\04\\9.png",
+      "source_sha256": "B48C331FBB2BE69C5AF4928E1E5B7E55D1F433C513BA2EB0F7D7CDA02C36DAD5",
+      "layout": {
+        "width": 2,
+        "height": 2,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "sprite_id_range_reused": [
+        292975,
+        292978
+      ],
+      "alpha_group_set_exact": false,
+      "groups_reordered_to_reference": false,
+      "sprite_hash": "CE736BD8ACEC51A4F1FCBE5D6B2086F0"
+    },
+    {
+      "sequence": 31,
+      "source_server_id": 18559,
+      "source_client_id": 17674,
+      "target_server_id": 26900,
+      "target_client_id": 26015,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\wall-config-repair-20261105\\05\\4.png",
+      "source_sha256": "40C612619EDECD728A17077432AC1B322BD760C7FA22464D4D27ADC25849B84C",
+      "layout": {
+        "width": 2,
+        "height": 2,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "sprite_id_range_reused": [
+        293024,
+        293027
+      ],
+      "alpha_group_set_exact": false,
+      "groups_reordered_to_reference": false,
+      "sprite_hash": "3E732CA77E9FD879CDC633775BD1BCC7"
+    },
+    {
+      "sequence": 32,
+      "source_server_id": 12651,
+      "source_client_id": 11774,
+      "target_server_id": 26901,
+      "target_client_id": 26016,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\wall-config-repair-20261105\\05\\5.png",
+      "source_sha256": "74E8BA3816832FAACF965F1114340BC9D301599D92A515FD6F516983062416A7",
+      "layout": {
+        "width": 2,
+        "height": 2,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "sprite_id_range_reused": [
+        293028,
+        293030
+      ],
+      "alpha_group_set_exact": false,
+      "groups_reordered_to_reference": false,
+      "sprite_hash": "09150D0DE098BC093A44962AF9CE86A5"
+    },
+    {
+      "sequence": 33,
+      "source_server_id": 18563,
+      "source_client_id": 17678,
+      "target_server_id": 26902,
+      "target_client_id": 26017,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\wall-config-repair-20261105\\05\\6.png",
+      "source_sha256": "C90C5ABE5AD7136E3749062817FDE94A0F579C44349710057710F0A0F67C7656",
+      "layout": {
+        "width": 2,
+        "height": 2,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "sprite_id_range_reused": [
+        293031,
+        293033
+      ],
+      "alpha_group_set_exact": false,
+      "groups_reordered_to_reference": false,
+      "sprite_hash": "92AD8F8DC89EDDEE35DF0D7A5B69D059"
+    },
+    {
+      "sequence": 34,
+      "source_server_id": 15766,
+      "source_client_id": 14881,
+      "target_server_id": 26903,
+      "target_client_id": 26018,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\wall-config-repair-20261105\\05\\7.png",
+      "source_sha256": "A884D50F12E41AAA16B8A541560B3A20692BDEC20A46A6492DE10D1D1A95E314",
+      "layout": {
+        "width": 2,
+        "height": 2,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "sprite_id_range_reused": [
+        293034,
+        293037
+      ],
+      "alpha_group_set_exact": false,
+      "groups_reordered_to_reference": false,
+      "sprite_hash": "564741A70F985DDD1497AE3A2E075413"
+    },
+    {
+      "sequence": 35,
+      "source_server_id": 18575,
+      "source_client_id": 17690,
+      "target_server_id": 26904,
+      "target_client_id": 26019,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\wall-config-repair-20261105\\05\\8.png",
+      "source_sha256": "A21193861F4B3CE27A2A2AF95DBA8236370F9443160E9825D0A6D74C348B15EA",
+      "layout": {
+        "width": 2,
+        "height": 2,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "sprite_id_range_reused": [
+        293038,
+        293041
+      ],
+      "alpha_group_set_exact": false,
+      "groups_reordered_to_reference": false,
+      "sprite_hash": "A546C7244A61F16EEA73CEA5165C28DB"
+    },
+    {
+      "sequence": 36,
+      "source_server_id": 12636,
+      "source_client_id": 11759,
+      "target_server_id": 26905,
+      "target_client_id": 26020,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\wall-config-repair-20261105\\05\\9.png",
+      "source_sha256": "C2A1CB99F815D80DEBEE5625EB6E6744BFE446ADE3B2053E3C51EADC90344033",
+      "layout": {
+        "width": 2,
+        "height": 2,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "sprite_id_range_reused": [
+        293042,
+        293045
+      ],
+      "alpha_group_set_exact": false,
+      "groups_reordered_to_reference": false,
+      "sprite_hash": "0F7485649FAFD0310308D5A79761655C"
+    },
+    {
+      "sequence": 37,
+      "source_server_id": 18587,
+      "source_client_id": 17702,
+      "target_server_id": 26914,
+      "target_client_id": 26029,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\wall-config-repair-20261105\\06\\4.png",
+      "source_sha256": "D19D821287B10DE5D1F83F130927CCCD0E21298A07D28830973EC53998563757",
+      "layout": {
+        "width": 2,
+        "height": 2,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "sprite_id_range_reused": [
+        293091,
+        293094
+      ],
+      "alpha_group_set_exact": false,
+      "groups_reordered_to_reference": false,
+      "sprite_hash": "27EC3B702C79B8F3FB9D6A6C4915C3DF"
+    },
+    {
+      "sequence": 38,
+      "source_server_id": 15780,
+      "source_client_id": 14895,
+      "target_server_id": 26915,
+      "target_client_id": 26030,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\wall-config-repair-20261105\\06\\5.png",
+      "source_sha256": "A210F4CB9140FA36E9C220A7014700519EC5EA0232B7AC32ED43FD84934B94FF",
+      "layout": {
+        "width": 2,
+        "height": 2,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "sprite_id_range_reused": [
+        293095,
+        293097
+      ],
+      "alpha_group_set_exact": false,
+      "groups_reordered_to_reference": false,
+      "sprite_hash": "6E65909FA292EC50F209C8D8B18DA1E4"
+    },
+    {
+      "sequence": 39,
+      "source_server_id": 18591,
+      "source_client_id": 17706,
+      "target_server_id": 26916,
+      "target_client_id": 26031,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\wall-config-repair-20261105\\06\\6.png",
+      "source_sha256": "DE2C0BE021C72B5CFB16E8EC00EC9575302BC18F562FFFF32BF5DD02522F4769",
+      "layout": {
+        "width": 2,
+        "height": 2,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "sprite_id_range_reused": [
+        293098,
+        293100
+      ],
+      "alpha_group_set_exact": false,
+      "groups_reordered_to_reference": false,
+      "sprite_hash": "2015019B38EDAE8FA876019BB5BDD6A1"
+    },
+    {
+      "sequence": 40,
+      "source_server_id": 15819,
+      "source_client_id": 14934,
+      "target_server_id": 26917,
+      "target_client_id": 26032,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\wall-config-repair-20261105\\06\\7.png",
+      "source_sha256": "46F88D427D2F2FE2A743CE9EB4BC243C52FA610B34092768605F8D38B84DE523",
+      "layout": {
+        "width": 2,
+        "height": 2,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "sprite_id_range_reused": [
+        293101,
+        293104
+      ],
+      "alpha_group_set_exact": false,
+      "groups_reordered_to_reference": false,
+      "sprite_hash": "3223B85E34F08D074D79DC193385F16B"
+    },
+    {
+      "sequence": 41,
+      "source_server_id": 18595,
+      "source_client_id": 17710,
+      "target_server_id": 26918,
+      "target_client_id": 26033,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\wall-config-repair-20261105\\06\\8.png",
+      "source_sha256": "C6430181450A6ADE371A559514F00DC14B37BC7A62169317221F4DAE2B831097",
+      "layout": {
+        "width": 2,
+        "height": 2,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "sprite_id_range_reused": [
+        293105,
+        293108
+      ],
+      "alpha_group_set_exact": false,
+      "groups_reordered_to_reference": false,
+      "sprite_hash": "61A52126DD5539A275FA0514B10D5EA6"
+    },
+    {
+      "sequence": 42,
+      "source_server_id": 12638,
+      "source_client_id": 11761,
+      "target_server_id": 26919,
+      "target_client_id": 26034,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\wall-config-repair-20261105\\06\\9.png",
+      "source_sha256": "F5BF8D3C107285F79DDB7B5CAA4640BAAFEB066D1B5A0D1EAD6198B539572E89",
+      "layout": {
+        "width": 2,
+        "height": 2,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      },
+      "sprite_id_range_reused": [
+        293109,
+        293112
+      ],
+      "alpha_group_set_exact": false,
+      "groups_reordered_to_reference": false,
+      "sprite_hash": "2BF8B5BD9CE173A69D54FA5D07A1D9A7"
+    }
+  ],
+  "dry_run": true,
+  "passed": true
+}
