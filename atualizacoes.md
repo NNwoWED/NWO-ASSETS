@@ -173,3 +173,9 @@
 
 - Ampliada deterministicamente a parte esquerda SID 19833 / CID 18948, complementando SID 19832 / CID 18947. Tampo visível passa de 47 para 64 pixels, cobrindo os dois SQMs. Pixels reutilizados sem suavização. Flags e elevação 10 preservadas.
 - Importação versionada em 20261105-125351-307734, validada e sincronizada pelo fluxo oficial para PC main, mobile, servidor, RME e NWO-STUDIO. Manifesto e PNGs em importados/table-horizontal-main-20261105. Relatórios import-table-horizontal-main-20261105.json e sync-table-horizontal-main-20261105.json.
+
+## 05/11/2026 — Importacao consolidada de itens e efeito
+
+- Baseline consolidada com 34 itens novos nos Server IDs 27047–27080 e Client IDs 26162–26195, incluindo equipamentos e as 16 partes do portao de Iwagakure. Efeito de dragao de agua 1482 atualizado. Fontes, manifestos e exportacoes em importados/all-sprites-20261105.
+- O pacote inclui tambem o ajuste da Mesa Horizontal SID19832/19833, com a parte esquerda CID18948 ampliada conforme o registro anterior. DAT, SPR, OTB e XML versionados como um conjunto coerente. Validacoes profundas e sincronizacao de runtime aprovadas, com 31 destinos conferidos por hash.
+- Relatorios de importacao, exportacao, validacao e sincronizacao correspondentes foram incluidos no commit aa56a0346d. Backups imutaveis permanecem nas versions locais.
