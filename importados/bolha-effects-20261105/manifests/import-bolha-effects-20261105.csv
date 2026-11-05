@@ -1,0 +1,5 @@
+sequence,effect_id,source_path,frames,frame_duration_ms,animation_async,preserve_as
+1,1477,começo 7 frames 320x320.png,7,100,0,
+2,1478,loop 9 frames 320x320.png,9,100,0,
+3,1479,cortes 10 frames 320x320.png,10,100,0,
+4,1480,final 9 frames 320x320.png,9,100,0,

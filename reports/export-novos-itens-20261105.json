@@ -1,0 +1,344 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "profile": {
+    "key": "tibia-860-v2-custom-extended",
+    "client_version": 860,
+    "label": "Tibia 8.60 v2 customizado com features OTFI",
+    "dat_signature": "0x4C2C7993",
+    "spr_signature": "0x4C220594",
+    "metadata_reader": 5,
+    "otb_version_hint": "8.60"
+  },
+  "category": "items",
+  "id_kind": "server",
+  "requested_ids": [
+    27033,
+    27034,
+    27035,
+    27036,
+    27037,
+    27038,
+    27039,
+    27040,
+    27041,
+    27042,
+    27043,
+    27044,
+    27045
+  ],
+  "output_dir": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items",
+  "exported_count": 13,
+  "exported": [
+    {
+      "requested_id": 27033,
+      "client_id": 26148,
+      "server_ids": [
+        27033
+      ],
+      "name": "Chakra boots",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        297433
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-27033_client-26148_chakra-boots.png",
+      "size": 474,
+      "sha256": "0703C6F2781FB789321553037658C739F9250212EA3C38233578830866506D01"
+    },
+    {
+      "requested_id": 27034,
+      "client_id": 26149,
+      "server_ids": [
+        27034
+      ],
+      "name": "Jade hammer",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        297434
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-27034_client-26149_jade-hammer.png",
+      "size": 469,
+      "sha256": "8141199E74B3B0FF256910DBA71EFD937F4382E7D8AED5AE1A31E661738E12D5"
+    },
+    {
+      "requested_id": 27035,
+      "client_id": 26150,
+      "server_ids": [
+        27035
+      ],
+      "name": "Lunar staff",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        297435
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-27035_client-26150_lunar-staff.png",
+      "size": 470,
+      "sha256": "7ACBA3FB3D54970A403581FF9DCF36E3AC2E2C264A08374829A10A08677E884C"
+    },
+    {
+      "requested_id": 27036,
+      "client_id": 26151,
+      "server_ids": [
+        27036
+      ],
+      "name": "Gaara shirt",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        297436
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-27036_client-26151_gaara-shirt.png",
+      "size": 464,
+      "sha256": "8E4519D36D3210D652364BEB71C2D11B92985D09BAFF3874C43F446219D55A1A"
+    },
+    {
+      "requested_id": 27037,
+      "client_id": 26152,
+      "server_ids": [
+        27037
+      ],
+      "name": "Item 7453 Remake",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        297437
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-27037_client-26152_item-7453-remake.png",
+      "size": 504,
+      "sha256": "2A9A3EF3DD0FA95A95712D3263CD6A7E4131D35DE30EDCA0650F2EC386F90498"
+    },
+    {
+      "requested_id": 27038,
+      "client_id": 26153,
+      "server_ids": [
+        27038
+      ],
+      "name": "Kimimaro Statue",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        297438
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-27038_client-26153_kimimaro-statue.png",
+      "size": 550,
+      "sha256": "ED8F17A98172C02504532ABDAC4179F095A47351D4F44B8AAC1E1A13A6446C39"
+    },
+    {
+      "requested_id": 27039,
+      "client_id": 26154,
+      "server_ids": [
+        27039
+      ],
+      "name": "Mammoth fur shorts",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        297439
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-27039_client-26154_mammoth-fur-shorts.png",
+      "size": 491,
+      "sha256": "14A3D49C37AE3013093D38C49EF439856B495C9226EF1026678D90A06016AC87"
+    },
+    {
+      "requested_id": 27040,
+      "client_id": 26155,
+      "server_ids": [
+        27040
+      ],
+      "name": "Bola de Cristal do Kage",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        297440
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-27040_client-26155_bola-de-cristal-do-kage.png",
+      "size": 553,
+      "sha256": "E6556B090B30B56AEFE95D495D4754B1A5A72E0E9D9CF6F33E24FE8017F42801"
+    },
+    {
+      "requested_id": 27041,
+      "client_id": 26156,
+      "server_ids": [
+        27041
+      ],
+      "name": "Leite",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        297441
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-27041_client-26156_leite.png",
+      "size": 556,
+      "sha256": "030964041AD8BEBED1802020FE05958BF962E82116DE31075B2CDD4148213666"
+    },
+    {
+      "requested_id": 27042,
+      "client_id": 26157,
+      "server_ids": [
+        27042
+      ],
+      "name": "Tent",
+      "group_index": 0,
+      "width": 160,
+      "height": 96,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        297442,
+        297443,
+        297444,
+        297445,
+        297446,
+        297447,
+        297448,
+        297449,
+        297450,
+        297451,
+        0,
+        297452,
+        297453,
+        297454,
+        0
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-27042_client-26157_tent.png",
+      "size": 3214,
+      "sha256": "B839A886CDBC8807A5658952F76CE9AD8E093C2189AFBB862381842FE5B5AE0E"
+    },
+    {
+      "requested_id": 27043,
+      "client_id": 26158,
+      "server_ids": [
+        27043
+      ],
+      "name": "Chakra Pouch",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        297455
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-27043_client-26158_chakra-pouch.png",
+      "size": 635,
+      "sha256": "CF8BF4FE2CD1CEC6A85072DBF323F18367120236A386EDDD8BD4DF16D3C76BE1"
+    },
+    {
+      "requested_id": 27044,
+      "client_id": 26159,
+      "server_ids": [
+        27044
+      ],
+      "name": "Frasco de Coleta",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        297456
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-27044_client-26159_frasco-de-coleta.png",
+      "size": 468,
+      "sha256": "5D6A9AF7FAD2FAE70FD82BF676A101491645E6A6E2C2EDF3881C3085F4ACE7E9"
+    },
+    {
+      "requested_id": 27045,
+      "client_id": 26160,
+      "server_ids": [
+        27045
+      ],
+      "name": "Amostra Contaminada",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        297457
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-27045_client-26160_amostra-contaminada.png",
+      "size": 544,
+      "sha256": "E0A0FAB7FCF050CD5DD6F06925D7AE12C9F0ABB67D830240DA2627B56F8589CE"
+    }
+  ],
+  "sources": {
+    "dat": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.dat",
+      "sha256": "9ED035BA4ADBB5E99FF8AAC0753FF48D14BF872B728E6EF7EF9E457276E52486"
+    },
+    "spr": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.spr",
+      "sha256": "65B92C2666EDB5D9E5A45A4073EE92AF1721955E1AFE566EDA6B5B8FC4AA6002"
+    }
+  },
+  "passed": true
+}

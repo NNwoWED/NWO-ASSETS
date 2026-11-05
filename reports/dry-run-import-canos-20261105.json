@@ -1,0 +1,212 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "manifest": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\canos\\import-canos-20261105.csv",
+  "item_count": 6,
+  "target_server_id_range": [
+    27027,
+    27032
+  ],
+  "target_client_id_range": [
+    26142,
+    26147
+  ],
+  "new_sprite_count": 36,
+  "sprite_id_range": [
+    297397,
+    297432
+  ],
+  "items": [
+    {
+      "sequence": 1,
+      "source_server_id": 22232,
+      "source_client_id": 21347,
+      "target_server_id": 27027,
+      "target_client_id": 26142,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\canos\\1.png",
+      "source_sha256": "E0156C01156A7316F657AFF4B94FC7006617ABB27A6EC6EA8DEFBCC87B99E365",
+      "image_size": [
+        96,
+        96
+      ],
+      "frame_size": [
+        96,
+        96
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 8,
+      "sprite_id_range": [
+        297397,
+        297404
+      ],
+      "sprite_hash": "EE27902D9905142805314362605A5602"
+    },
+    {
+      "sequence": 2,
+      "source_server_id": 22223,
+      "source_client_id": 21338,
+      "target_server_id": 27028,
+      "target_client_id": 26143,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\canos\\2.png",
+      "source_sha256": "CA91A1139251591AF6CADBE9E80AE1306550BB1491C62AD7E38F940D51D202B4",
+      "image_size": [
+        96,
+        96
+      ],
+      "frame_size": [
+        96,
+        96
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 8,
+      "sprite_id_range": [
+        297405,
+        297412
+      ],
+      "sprite_hash": "C472B28778B9FE23E4BAEFE879C667FE"
+    },
+    {
+      "sequence": 3,
+      "source_server_id": 22230,
+      "source_client_id": 21345,
+      "target_server_id": 27029,
+      "target_client_id": 26144,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\canos\\3.png",
+      "source_sha256": "0C4EC2755EBDF163E24ABB9F69B4A554D706FACB364C2C0A967683383953D236",
+      "image_size": [
+        96,
+        96
+      ],
+      "frame_size": [
+        96,
+        96
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 8,
+      "sprite_id_range": [
+        297413,
+        297420
+      ],
+      "sprite_hash": "BE306B935577AB844DDAF54580F864D6"
+    },
+    {
+      "sequence": 4,
+      "source_server_id": 22230,
+      "source_client_id": 21345,
+      "target_server_id": 27030,
+      "target_client_id": 26145,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\canos\\peca2.png",
+      "source_sha256": "F12EC31847A677D217B6F1B63C1FD23CBC2648C68BB3501E4D3AE8D572F49299",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        297421,
+        297424
+      ],
+      "sprite_hash": "BB3644AABD572FD977CBCD8B6038C810"
+    },
+    {
+      "sequence": 5,
+      "source_server_id": 22228,
+      "source_client_id": 21343,
+      "target_server_id": 27031,
+      "target_client_id": 26146,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\canos\\peca restante1.png",
+      "source_sha256": "0EBC0D5504451E5B9D32F3E17F93784877EB285ECA93601B42E4D7C749959862",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        297425,
+        297428
+      ],
+      "sprite_hash": "294F22C0F4F5FBB219298C626C577E2E"
+    },
+    {
+      "sequence": 6,
+      "source_server_id": 22232,
+      "source_client_id": 21347,
+      "target_server_id": 27032,
+      "target_client_id": 26147,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\canos\\modelo-feio-mas-utilizavel-64x64.png",
+      "source_sha256": "10C4DC1B100ED1B1649556838BDB51068C947A7BAE412E40FB39A96AD9E286B1",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        297429,
+        297432
+      ],
+      "sprite_hash": "CD6F6D030FC1DC66B9844D365BFA68E6"
+    }
+  ],
+  "xml": {
+    "source_definitions": 0,
+    "target_definitions_written": 0,
+    "target_definitions_already_exact": 0,
+    "target_ids": []
+  },
+  "map_scan": {
+    "tiles_scanned": 8300115,
+    "item_nodes_scanned": 2250181
+  },
+  "dry_run": true,
+  "passed": true
+}

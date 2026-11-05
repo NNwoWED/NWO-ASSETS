@@ -1,0 +1,435 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "manifest": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\import-novos-itens-20261105.csv",
+  "item_count": 13,
+  "target_server_id_range": [
+    27033,
+    27045
+  ],
+  "target_client_id_range": [
+    26148,
+    26160
+  ],
+  "new_sprite_count": 25,
+  "sprite_id_range": [
+    297433,
+    297457
+  ],
+  "items": [
+    {
+      "sequence": 1,
+      "source_server_id": 7417,
+      "source_client_id": 7417,
+      "target_server_id": 27033,
+      "target_client_id": 26148,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\item_7417 REMAKE - MAX.png",
+      "source_sha256": "7E23942C1B493A9B7809637AF4BD1BF3C44F952778D3174676DD9A9B98DDB0B8",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        297433,
+        297433
+      ],
+      "sprite_hash": "B8D65ADDF573E000684FAEA1C752F5D5"
+    },
+    {
+      "sequence": 2,
+      "source_server_id": 7422,
+      "source_client_id": 7422,
+      "target_server_id": 27034,
+      "target_client_id": 26149,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\Item 7422 REMAKE-MAX.png",
+      "source_sha256": "4C6ABB383943DBC5B1275F52581E3EF5513C0150E2DBB134A856ACDD89D661EB",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        297434,
+        297434
+      ],
+      "sprite_hash": "09BB61BA3FE4F0681FBB980E38363DB4"
+    },
+    {
+      "sequence": 3,
+      "source_server_id": 7424,
+      "source_client_id": 7424,
+      "target_server_id": 27035,
+      "target_client_id": 26150,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\Item 7424 REMAKE-MAX.png",
+      "source_sha256": "0B99E1AAE29104521FD2CB2D3B830768BC943E60E3A96E71908656F9EEECA664",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        297435,
+        297435
+      ],
+      "sprite_hash": "6F624305F7F146DE273A69F133F102EB"
+    },
+    {
+      "sequence": 4,
+      "source_server_id": 7425,
+      "source_client_id": 7425,
+      "target_server_id": 27036,
+      "target_client_id": 26151,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\Item 7425 REMAKE-MAX.png",
+      "source_sha256": "49380D248605E0C079F098C4FAA08F1A36B48D3FC65A1449AC625A16A8851851",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        297436,
+        297436
+      ],
+      "sprite_hash": "79AD1B90AF961A4C71D89EA6330587CA"
+    },
+    {
+      "sequence": 5,
+      "source_server_id": 7453,
+      "source_client_id": 7453,
+      "target_server_id": 27037,
+      "target_client_id": 26152,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\Item 7453 REMAKE-MAX.png",
+      "source_sha256": "09A6487750D19D1FDBA14847EC5FD095E0A52F571531340FDC7516B1E04BBB9E",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        297437,
+        297437
+      ],
+      "sprite_hash": "10F46633757D6ECDE4EB632FF7887BA6"
+    },
+    {
+      "sequence": 6,
+      "source_server_id": 7457,
+      "source_client_id": 7457,
+      "target_server_id": 27038,
+      "target_client_id": 26153,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\Item 7457 REMAKE-MAX.png",
+      "source_sha256": "CAD5BB5063679A94145E21E190D14DEA562642AF8D187F9A167DA4125D35DB67",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        297438,
+        297438
+      ],
+      "sprite_hash": "0782DDD5CE93DF5C592003BB8174CDA9"
+    },
+    {
+      "sequence": 7,
+      "source_server_id": 7464,
+      "source_client_id": 7464,
+      "target_server_id": 27039,
+      "target_client_id": 26154,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\Item 7464 REMAKE-MAX.png",
+      "source_sha256": "1591D55625FE80D38D04DF41061A22A8A7307FCCB72F8C9D23FDB0332E4D6614",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        297439,
+        297439
+      ],
+      "sprite_hash": "CCF1BEAB1A020B75EB99B37D88D64280"
+    },
+    {
+      "sequence": 8,
+      "source_server_id": 14612,
+      "source_client_id": 13733,
+      "target_server_id": 27040,
+      "target_client_id": 26155,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\Item_Bola_de_cristal_do_Kage-zzzzz.png",
+      "source_sha256": "7E7969D43A312A741BF6478C85C658D682F2B0191B5F1F17E8CFED818D5A8648",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        297440,
+        297440
+      ],
+      "sprite_hash": "978EABA22B54EDEDD8C5735506FC290C"
+    },
+    {
+      "sequence": 9,
+      "source_server_id": 14707,
+      "source_client_id": 13828,
+      "target_server_id": 27041,
+      "target_client_id": 26156,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\ITEM_LEITE_ESTRAGADO.png",
+      "source_sha256": "C212D821BBEE1F4487D68CF1CD9AC548AC6DD5615A05FE80BAE63BB97E7DE8A0",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        297441,
+        297441
+      ],
+      "sprite_hash": "476B67FB70E980C9234C98DE90D9CC71"
+    },
+    {
+      "sequence": 10,
+      "source_server_id": 7592,
+      "source_client_id": 240,
+      "target_server_id": 27042,
+      "target_client_id": 26157,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\image (11).png",
+      "source_sha256": "6A45DE3B885DEB2888AE4110BE5B57F91FFA4204D49B77460040791FC1BE5893",
+      "image_size": [
+        160,
+        96
+      ],
+      "frame_size": [
+        160,
+        96
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 13,
+      "sprite_id_range": [
+        297442,
+        297454
+      ],
+      "sprite_hash": "9B0012A4ACDCAD9A39C3A46CB4FC9613"
+    },
+    {
+      "sequence": 11,
+      "source_server_id": 14613,
+      "source_client_id": 13734,
+      "target_server_id": 27043,
+      "target_client_id": 26158,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\image (12).png",
+      "source_sha256": "28EAC5FD43B25E5A57759759119D8DA71B87AAE708D604B0F9C34E92ECAE0F27",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        297455,
+        297455
+      ],
+      "sprite_hash": "84C2ADAF93E96EBCBE8D34D1ECEB439F"
+    },
+    {
+      "sequence": 12,
+      "source_server_id": 26970,
+      "source_client_id": 26085,
+      "target_server_id": 27044,
+      "target_client_id": 26159,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\Frasco vazio Quest Veneno nas Águas.png",
+      "source_sha256": "DFDE294222934EF8734007A507B2C6DA8D2F21D0DF1393E158B409B635360A05",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        297456,
+        297456
+      ],
+      "sprite_hash": "3F73540EF7F5E351552B9F0928BDD768"
+    },
+    {
+      "sequence": 13,
+      "source_server_id": 26971,
+      "source_client_id": 26086,
+      "target_server_id": 27045,
+      "target_client_id": 26160,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\Frasco Contaminado Quest Veneno nas Águas.png",
+      "source_sha256": "D9D019E2015C6FC6547CEA85EF32FCF7B6663CBA611D4054D4A6A2E61AA49004",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        297457,
+        297457
+      ],
+      "sprite_hash": "BACCDEE45A1A9F150CB980D085B8381F"
+    }
+  ],
+  "xml": {
+    "source_definitions": 12,
+    "target_definitions_written": 12,
+    "target_definitions_already_exact": 0,
+    "target_ids": [
+      27033,
+      27034,
+      27035,
+      27036,
+      27038,
+      27039,
+      27040,
+      27041,
+      27042,
+      27043,
+      27044,
+      27045
+    ]
+  },
+  "map_scan": {
+    "tiles_scanned": 8300115,
+    "item_nodes_scanned": 2250181
+  },
+  "dry_run": true,
+  "passed": true
+}

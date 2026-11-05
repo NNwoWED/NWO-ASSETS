@@ -1,0 +1,1335 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "manifest": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede ponte\\import-parede-ponte-20261105.csv",
+  "item_count": 42,
+  "target_server_id_range": [
+    26985,
+    27026
+  ],
+  "target_client_id_range": [
+    26100,
+    26141
+  ],
+  "new_sprite_count": 168,
+  "sprite_id_range": [
+    297229,
+    297396
+  ],
+  "items": [
+    {
+      "sequence": 1,
+      "source_server_id": 916,
+      "source_client_id": 1125,
+      "target_server_id": 26985,
+      "target_client_id": 26100,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede ponte\\parede de terra1.png",
+      "source_sha256": "95D1C447A95A5C09F7807C0DBE6FC772358C5AD9AFD00478646A307765E2C69B",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        297229,
+        297232
+      ],
+      "sprite_hash": "194696198F3E8097A8C1981C5C80B241"
+    },
+    {
+      "sequence": 2,
+      "source_server_id": 917,
+      "source_client_id": 1126,
+      "target_server_id": 26986,
+      "target_client_id": 26101,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede ponte\\parede de terra2.png",
+      "source_sha256": "AE2260974676234B1D6BF8C1B3DBAFC44AE2A3060B96E5B5BB98F658F16A2AD0",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        297233,
+        297236
+      ],
+      "sprite_hash": "7871D6B6E97E96D62215F0BDBF607170"
+    },
+    {
+      "sequence": 3,
+      "source_server_id": 4480,
+      "source_client_id": 4469,
+      "target_server_id": 26987,
+      "target_client_id": 26102,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede ponte\\parede de terra3.png",
+      "source_sha256": "609072B959862FC357A3C850810F57014AA81F64AF23C2059129A38FCF60836C",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        297237,
+        297240
+      ],
+      "sprite_hash": "F52765752064748CA362A92016596281"
+    },
+    {
+      "sequence": 4,
+      "source_server_id": 914,
+      "source_client_id": 1123,
+      "target_server_id": 26988,
+      "target_client_id": 26103,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede ponte\\parede de terra de lado 1.png",
+      "source_sha256": "193BFEC18A159E78178F7F58E78688AA5B1F1CC9A2DB6A3E80C3DBF70E5755AE",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        297241,
+        297244
+      ],
+      "sprite_hash": "22F157132E6CAE94E3CD3B26EA8F38FF"
+    },
+    {
+      "sequence": 5,
+      "source_server_id": 915,
+      "source_client_id": 1124,
+      "target_server_id": 26989,
+      "target_client_id": 26104,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede ponte\\parede de terra de lado 2.png",
+      "source_sha256": "9016091BAF99E75137228963316732D7FEEAAFCF6C9F87ADAB1CEA3359E520BB",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        297245,
+        297248
+      ],
+      "sprite_hash": "0DB299F59FA3E108FD38FCDBC5634C8C"
+    },
+    {
+      "sequence": 6,
+      "source_server_id": 4481,
+      "source_client_id": 4470,
+      "target_server_id": 26990,
+      "target_client_id": 26105,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede ponte\\parede de terra de lado 3.png",
+      "source_sha256": "6664B25CC38DB5DB8A418851B3650DA4E46635BB1787D70E9D79A4D96B88FBFC",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        297249,
+        297252
+      ],
+      "sprite_hash": "8BC06EC56453C27E8CB5F81B69FB3850"
+    },
+    {
+      "sequence": 7,
+      "source_server_id": 916,
+      "source_client_id": 1125,
+      "target_server_id": 26991,
+      "target_client_id": 26106,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede ponte\\01_arenito_dourado\\parede de terra1.png",
+      "source_sha256": "217CCAAF966E4A800A984E2B8B0157F9AC9721524E8EFA8401B5963A9E4AEA59",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        297253,
+        297256
+      ],
+      "sprite_hash": "AA8AA93FC1D20D4E433CF4A7CD104CC8"
+    },
+    {
+      "sequence": 8,
+      "source_server_id": 917,
+      "source_client_id": 1126,
+      "target_server_id": 26992,
+      "target_client_id": 26107,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede ponte\\01_arenito_dourado\\parede de terra2.png",
+      "source_sha256": "4271E9D85FC50A3B46A7FA08DB22AF0DBF2419E545320DBC4AFA63E7360E9C6C",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        297257,
+        297260
+      ],
+      "sprite_hash": "E96AB44AA212B669814F5268220E1848"
+    },
+    {
+      "sequence": 9,
+      "source_server_id": 4480,
+      "source_client_id": 4469,
+      "target_server_id": 26993,
+      "target_client_id": 26108,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede ponte\\01_arenito_dourado\\parede de terra3.png",
+      "source_sha256": "DD40DC6AE8BBA47CFA14475FA7927723D35EA9D525D21AD9EFE382AD66EAE410",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        297261,
+        297264
+      ],
+      "sprite_hash": "613B9C210AEBE3AEA849BD5952986880"
+    },
+    {
+      "sequence": 10,
+      "source_server_id": 914,
+      "source_client_id": 1123,
+      "target_server_id": 26994,
+      "target_client_id": 26109,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede ponte\\01_arenito_dourado\\parede de terra lado1.png",
+      "source_sha256": "988E63ADE3E1EE4B9EF33099797053E5A7384630F01CAEC1D2F77C5CC92CE9B7",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        297265,
+        297268
+      ],
+      "sprite_hash": "7522A164A0E2F0D69B7BAA029C51378E"
+    },
+    {
+      "sequence": 11,
+      "source_server_id": 915,
+      "source_client_id": 1124,
+      "target_server_id": 26995,
+      "target_client_id": 26110,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede ponte\\01_arenito_dourado\\parede de terra lado2.png",
+      "source_sha256": "6E5FCF27E305C8637C82B49028B83C092A5EACBBF62658CB3D86AB6B75B37681",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        297269,
+        297272
+      ],
+      "sprite_hash": "2FC8CF24A8E361A0033BD4286332C365"
+    },
+    {
+      "sequence": 12,
+      "source_server_id": 4481,
+      "source_client_id": 4470,
+      "target_server_id": 26996,
+      "target_client_id": 26111,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede ponte\\01_arenito_dourado\\parede de terra lado3.png",
+      "source_sha256": "CF2CBE56958564D6699C94C26682A154BF173CC60F79DFF2CFE604F19F8BCE63",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        297273,
+        297276
+      ],
+      "sprite_hash": "A1F6ACB34728968058F7977337885ADA"
+    },
+    {
+      "sequence": 13,
+      "source_server_id": 916,
+      "source_client_id": 1125,
+      "target_server_id": 26997,
+      "target_client_id": 26112,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede ponte\\02_areia_palha\\parede de terra1.png",
+      "source_sha256": "742E028321CA47F5BFB9478E378A2233AD7AEB56546D5857DC2C3BA22125D7FF",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        297277,
+        297280
+      ],
+      "sprite_hash": "82D8E67F4960C733DA63C00D8CA9EF69"
+    },
+    {
+      "sequence": 14,
+      "source_server_id": 917,
+      "source_client_id": 1126,
+      "target_server_id": 26998,
+      "target_client_id": 26113,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede ponte\\02_areia_palha\\parede de terra2.png",
+      "source_sha256": "F2F97557A08374DE29F071FC48566452FB240395C67F2BB1135719CC539873E8",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        297281,
+        297284
+      ],
+      "sprite_hash": "4997C494B2F506ADB7B2B13747CEDE33"
+    },
+    {
+      "sequence": 15,
+      "source_server_id": 4480,
+      "source_client_id": 4469,
+      "target_server_id": 26999,
+      "target_client_id": 26114,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede ponte\\02_areia_palha\\parede de terra3.png",
+      "source_sha256": "771D6F82D18307DEE0B266577996FEA2B6EA3F52E30893D485C66E397DB3CFCA",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        297285,
+        297288
+      ],
+      "sprite_hash": "E09E6C7D5867BE5F7AFCA9C9B886D110"
+    },
+    {
+      "sequence": 16,
+      "source_server_id": 914,
+      "source_client_id": 1123,
+      "target_server_id": 27000,
+      "target_client_id": 26115,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede ponte\\02_areia_palha\\parede de terra lado1.png",
+      "source_sha256": "27F1503A28A3EE857AF618D6F843394A163571176811AEF709352C1592D9E51F",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        297289,
+        297292
+      ],
+      "sprite_hash": "3F5F3EF40C46A6F46697641AE6646239"
+    },
+    {
+      "sequence": 17,
+      "source_server_id": 915,
+      "source_client_id": 1124,
+      "target_server_id": 27001,
+      "target_client_id": 26116,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede ponte\\02_areia_palha\\parede de terra lado2.png",
+      "source_sha256": "950F5B44387EFB96102FC5FBF4DE0F7B7CA83E46BAAAD84E3BAD0B5A7DF7A340",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        297293,
+        297296
+      ],
+      "sprite_hash": "75F9E604CB6E9A374185BE2C0B651E56"
+    },
+    {
+      "sequence": 18,
+      "source_server_id": 4481,
+      "source_client_id": 4470,
+      "target_server_id": 27002,
+      "target_client_id": 26117,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede ponte\\02_areia_palha\\parede de terra lado3.png",
+      "source_sha256": "1B672C04ADA414AC4E72EB2EE5393B07F2D034C918C08C07A202BEC817190999",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        297297,
+        297300
+      ],
+      "sprite_hash": "28FD9E79A7BB96D677FA715CF31277CF"
+    },
+    {
+      "sequence": 19,
+      "source_server_id": 916,
+      "source_client_id": 1125,
+      "target_server_id": 27003,
+      "target_client_id": 26118,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede ponte\\03_ocre_queimado\\parede de terra1.png",
+      "source_sha256": "79A83167A3B0986EB48B698DCD1220246722EA8BBF2CB291346EABBF34B1C962",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        297301,
+        297304
+      ],
+      "sprite_hash": "2435BC3674E36C28D8752F0DAD492D3E"
+    },
+    {
+      "sequence": 20,
+      "source_server_id": 917,
+      "source_client_id": 1126,
+      "target_server_id": 27004,
+      "target_client_id": 26119,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede ponte\\03_ocre_queimado\\parede de terra2.png",
+      "source_sha256": "2D495EFF8E7F753238946984A299A81D3BEE49936993DBD0EDC1F8260871AB84",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        297305,
+        297308
+      ],
+      "sprite_hash": "8CC6A19055E746B2BA607EE6C0CBD0A3"
+    },
+    {
+      "sequence": 21,
+      "source_server_id": 4480,
+      "source_client_id": 4469,
+      "target_server_id": 27005,
+      "target_client_id": 26120,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede ponte\\03_ocre_queimado\\parede de terra3.png",
+      "source_sha256": "A137FFC83130833F16188A0E1A510DC67969475CCCC1B1EC304F57FD01282C75",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        297309,
+        297312
+      ],
+      "sprite_hash": "A06843D6F27DE8193E1BABF816324C6C"
+    },
+    {
+      "sequence": 22,
+      "source_server_id": 914,
+      "source_client_id": 1123,
+      "target_server_id": 27006,
+      "target_client_id": 26121,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede ponte\\03_ocre_queimado\\parede de terra lado 1.png",
+      "source_sha256": "F46657BA34ED4798FE3CCB46C62D0925C6F2E8E513DC62BC491DD4855577D9FE",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        297313,
+        297316
+      ],
+      "sprite_hash": "CC965432BA13103672B9AD1676335C8A"
+    },
+    {
+      "sequence": 23,
+      "source_server_id": 915,
+      "source_client_id": 1124,
+      "target_server_id": 27007,
+      "target_client_id": 26122,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede ponte\\03_ocre_queimado\\parede de terra lado 2.png",
+      "source_sha256": "AC55A00219517ADFCC188BC40102735F864194D7EE012440464A8C7F77E94A64",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        297317,
+        297320
+      ],
+      "sprite_hash": "CDFA18AE117893A50CFBAFB695316CC7"
+    },
+    {
+      "sequence": 24,
+      "source_server_id": 4481,
+      "source_client_id": 4470,
+      "target_server_id": 27008,
+      "target_client_id": 26123,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede ponte\\03_ocre_queimado\\parede de terra lado 3.png",
+      "source_sha256": "E1722C9AFACEB16A853C1A4C3C380E7D4D9DB9693E1EA0E5F2511CA1C1DAF0E7",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        297321,
+        297324
+      ],
+      "sprite_hash": "020385737B104AE2A8BEB509CDBF60F7"
+    },
+    {
+      "sequence": 25,
+      "source_server_id": 916,
+      "source_client_id": 1125,
+      "target_server_id": 27009,
+      "target_client_id": 26124,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede ponte\\04_terracota\\parede de terra1.png",
+      "source_sha256": "2994E54837FDE4EAEE06C13A6E7C7994234078876687EB70634802ACDC888037",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        297325,
+        297328
+      ],
+      "sprite_hash": "21E903D2843BF7021C687EBFDA2CDA13"
+    },
+    {
+      "sequence": 26,
+      "source_server_id": 917,
+      "source_client_id": 1126,
+      "target_server_id": 27010,
+      "target_client_id": 26125,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede ponte\\04_terracota\\parede de terra2.png",
+      "source_sha256": "8C62973DDD67CF2991F99EFEADEF4D273560D65D65F7084A7E5E0B9141497431",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        297329,
+        297332
+      ],
+      "sprite_hash": "F143F6CB41E42DCDC1BBE06F74AF0919"
+    },
+    {
+      "sequence": 27,
+      "source_server_id": 4480,
+      "source_client_id": 4469,
+      "target_server_id": 27011,
+      "target_client_id": 26126,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede ponte\\04_terracota\\parede de terra3.png",
+      "source_sha256": "21000CAB535F637A6217B2F25F2FEC65375342A169E63369B89366D41F33C79A",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        297333,
+        297336
+      ],
+      "sprite_hash": "B6364294ECABF841E915907B5A07893D"
+    },
+    {
+      "sequence": 28,
+      "source_server_id": 914,
+      "source_client_id": 1123,
+      "target_server_id": 27012,
+      "target_client_id": 26127,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede ponte\\04_terracota\\parede de terra lado 1.png",
+      "source_sha256": "C3AFB23004425E51CA2CE92D66632DE5E958F558D79C99A5FD86A2D82453DEA8",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        297337,
+        297340
+      ],
+      "sprite_hash": "5083E33ED9BF907DFA4AB3DDC6D1D128"
+    },
+    {
+      "sequence": 29,
+      "source_server_id": 915,
+      "source_client_id": 1124,
+      "target_server_id": 27013,
+      "target_client_id": 26128,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede ponte\\04_terracota\\parede de terra lado 2.png",
+      "source_sha256": "14D6C2D9C1DB1CA4B348A9529263E17E4F51FEC178F0D692CF6288CA44E2CAB4",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        297341,
+        297344
+      ],
+      "sprite_hash": "4C9AF4F44AD6472B0A4F54D3F3B436C4"
+    },
+    {
+      "sequence": 30,
+      "source_server_id": 4481,
+      "source_client_id": 4470,
+      "target_server_id": 27014,
+      "target_client_id": 26129,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede ponte\\04_terracota\\parede de terra lado 3.png",
+      "source_sha256": "23D17EB8558C372ACA22C555B42E4D6A887A8A0D4644431AAAC79A2FCF7EB98A",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        297345,
+        297348
+      ],
+      "sprite_hash": "122CF79B044E7A793164D7B73C69E5A2"
+    },
+    {
+      "sequence": 31,
+      "source_server_id": 916,
+      "source_client_id": 1125,
+      "target_server_id": 27015,
+      "target_client_id": 26130,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede ponte\\05_oliva_seco\\parede de terra1.png",
+      "source_sha256": "3AA1B82C5D4BA2F2255D99BFE062CDE33415EE166D10C8E013502BB55C853A76",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        297349,
+        297352
+      ],
+      "sprite_hash": "B8A7C7892F29298F0FA1201EA6D6AA94"
+    },
+    {
+      "sequence": 32,
+      "source_server_id": 917,
+      "source_client_id": 1126,
+      "target_server_id": 27016,
+      "target_client_id": 26131,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede ponte\\05_oliva_seco\\parede de terra2.png",
+      "source_sha256": "FDDC842263985F0C3AC3B5F2FE6C012279DFEE9408971EA0532ED4A205C4FB19",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        297353,
+        297356
+      ],
+      "sprite_hash": "5251AD5B2D52513052046C9605483185"
+    },
+    {
+      "sequence": 33,
+      "source_server_id": 4480,
+      "source_client_id": 4469,
+      "target_server_id": 27017,
+      "target_client_id": 26132,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede ponte\\05_oliva_seco\\parede de terra3.png",
+      "source_sha256": "B471D1ABAA24F59053D64209963B8B7A400FBFD79CA8CD039A63DB4A18762043",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        297357,
+        297360
+      ],
+      "sprite_hash": "02898DB504B16706730DA4D0D3696889"
+    },
+    {
+      "sequence": 34,
+      "source_server_id": 914,
+      "source_client_id": 1123,
+      "target_server_id": 27018,
+      "target_client_id": 26133,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede ponte\\05_oliva_seco\\parede de terra lado 1.png",
+      "source_sha256": "6CC2DDE19985A1BCDC64036FA54650895FF6D91A020A8B4934316554723AC6FC",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        297361,
+        297364
+      ],
+      "sprite_hash": "8581390D2FF1595CCC2F16CA620B8EB6"
+    },
+    {
+      "sequence": 35,
+      "source_server_id": 915,
+      "source_client_id": 1124,
+      "target_server_id": 27019,
+      "target_client_id": 26134,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede ponte\\05_oliva_seco\\parede de terra lado 2.png",
+      "source_sha256": "425EB9F83F633F617A41F70A08B07703AE60BCF04177B200FC35BCA69BA2098E",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        297365,
+        297368
+      ],
+      "sprite_hash": "681B7582A2A82381CDB214F82223599E"
+    },
+    {
+      "sequence": 36,
+      "source_server_id": 4481,
+      "source_client_id": 4470,
+      "target_server_id": 27020,
+      "target_client_id": 26135,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede ponte\\05_oliva_seco\\parede de terra lado 3.png",
+      "source_sha256": "FC67229BCC779F73311858290EEE0F07CD3BBCBC1E51E376A20043D3AC5EC69A",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        297369,
+        297372
+      ],
+      "sprite_hash": "9AAA52B8FD4AD782932EE66C38DBA040"
+    },
+    {
+      "sequence": 37,
+      "source_server_id": 916,
+      "source_client_id": 1125,
+      "target_server_id": 27021,
+      "target_client_id": 26136,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede ponte\\06_cinza_quente\\parede de terra1.png",
+      "source_sha256": "1C923ADE0CFCCA380E0593139C73C728D3939346C1642FBD8B660DF0B268E1A4",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        297373,
+        297376
+      ],
+      "sprite_hash": "DCB81C8849CD3FC2BA280C893B5CC680"
+    },
+    {
+      "sequence": 38,
+      "source_server_id": 917,
+      "source_client_id": 1126,
+      "target_server_id": 27022,
+      "target_client_id": 26137,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede ponte\\06_cinza_quente\\parede de terra2.png",
+      "source_sha256": "FFC95D556A663F64E8C81D4B7B911DC5D3E010A3CD11CA1877DAC0A478C00066",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        297377,
+        297380
+      ],
+      "sprite_hash": "D2AA3E3AF4552FB763B12FDC5BA04533"
+    },
+    {
+      "sequence": 39,
+      "source_server_id": 4480,
+      "source_client_id": 4469,
+      "target_server_id": 27023,
+      "target_client_id": 26138,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede ponte\\06_cinza_quente\\parede de terra3.png",
+      "source_sha256": "087256DD74B7C4CFB134F804A5EB56448008E002F95C715DE2A3B9EAC711BA9A",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        297381,
+        297384
+      ],
+      "sprite_hash": "6D8FC296E0E388F5D542CD5095771FC1"
+    },
+    {
+      "sequence": 40,
+      "source_server_id": 914,
+      "source_client_id": 1123,
+      "target_server_id": 27024,
+      "target_client_id": 26139,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede ponte\\06_cinza_quente\\parede de terra lado 1.png",
+      "source_sha256": "36C4D34B4945D35439366D65544C4384F677053367CCEB66B9C271A4D38BB87B",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        297385,
+        297388
+      ],
+      "sprite_hash": "FADF2348BF4A362F2B18A3C4FDD03C73"
+    },
+    {
+      "sequence": 41,
+      "source_server_id": 915,
+      "source_client_id": 1124,
+      "target_server_id": 27025,
+      "target_client_id": 26140,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede ponte\\06_cinza_quente\\parede de terra lado 2.png",
+      "source_sha256": "CBBD7DDA8C508336BB1A3602F740BEF2AFD358DFAD8F88713072981D9BF02357",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        297389,
+        297392
+      ],
+      "sprite_hash": "C8C908809393ACD134B50A81B1ECBAC6"
+    },
+    {
+      "sequence": 42,
+      "source_server_id": 4481,
+      "source_client_id": 4470,
+      "target_server_id": 27026,
+      "target_client_id": 26141,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\parede ponte\\06_cinza_quente\\parede de terra lado 3.png",
+      "source_sha256": "8236A52DFDC515E6F243DB9E9150C7730FC2B619D70013DF183F5AB16F847FF3",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        297393,
+        297396
+      ],
+      "sprite_hash": "D149EB42B70C160254BF99261D253052"
+    }
+  ],
+  "xml": {
+    "source_definitions": 6,
+    "target_definitions_written": 42,
+    "target_definitions_already_exact": 0,
+    "target_ids": [
+      26985,
+      26986,
+      26987,
+      26988,
+      26989,
+      26990,
+      26991,
+      26992,
+      26993,
+      26994,
+      26995,
+      26996,
+      26997,
+      26998,
+      26999,
+      27000,
+      27001,
+      27002,
+      27003,
+      27004,
+      27005,
+      27006,
+      27007,
+      27008,
+      27009,
+      27010,
+      27011,
+      27012,
+      27013,
+      27014,
+      27015,
+      27016,
+      27017,
+      27018,
+      27019,
+      27020,
+      27021,
+      27022,
+      27023,
+      27024,
+      27025,
+      27026
+    ]
+  },
+  "map_scan": {
+    "tiles_scanned": 8300115,
+    "item_nodes_scanned": 2250181
+  },
+  "dry_run": true,
+  "passed": true
+}

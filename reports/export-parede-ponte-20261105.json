@@ -1,0 +1,1123 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "profile": {
+    "key": "tibia-860-v2-custom-extended",
+    "client_version": 860,
+    "label": "Tibia 8.60 v2 customizado com features OTFI",
+    "dat_signature": "0x4C2C7993",
+    "spr_signature": "0x4C220594",
+    "metadata_reader": 5,
+    "otb_version_hint": "8.60"
+  },
+  "category": "items",
+  "id_kind": "server",
+  "requested_ids": [
+    26985,
+    26986,
+    26987,
+    26988,
+    26989,
+    26990,
+    26991,
+    26992,
+    26993,
+    26994,
+    26995,
+    26996,
+    26997,
+    26998,
+    26999,
+    27000,
+    27001,
+    27002,
+    27003,
+    27004,
+    27005,
+    27006,
+    27007,
+    27008,
+    27009,
+    27010,
+    27011,
+    27012,
+    27013,
+    27014,
+    27015,
+    27016,
+    27017,
+    27018,
+    27019,
+    27020,
+    27021,
+    27022,
+    27023,
+    27024,
+    27025,
+    27026
+  ],
+  "output_dir": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items",
+  "exported_count": 42,
+  "exported": [
+    {
+      "requested_id": 26985,
+      "client_id": 26100,
+      "server_ids": [
+        26985
+      ],
+      "name": "Archway",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        297229,
+        297230,
+        297231,
+        297232
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-26985_client-26100_archway.png",
+      "size": 523,
+      "sha256": "69ACF03C92CB000A7BDC22A827B23E0A74AC9522A360F35DA950A698AF48AB4B"
+    },
+    {
+      "requested_id": 26986,
+      "client_id": 26101,
+      "server_ids": [
+        26986
+      ],
+      "name": "Archway",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        297233,
+        297234,
+        297235,
+        297236
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-26986_client-26101_archway.png",
+      "size": 565,
+      "sha256": "BCC173FCF73855F84C4DC7273A2E4E6247C1B175D960DE4F25E79D20DAD4455C"
+    },
+    {
+      "requested_id": 26987,
+      "client_id": 26102,
+      "server_ids": [
+        26987
+      ],
+      "name": "Archway",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        297237,
+        297238,
+        297239,
+        297240
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-26987_client-26102_archway.png",
+      "size": 433,
+      "sha256": "952CF67A0D3AC975ED1E8CFF4DC9F328AE3F60BB1C5B19AD18DC77F69646C6EB"
+    },
+    {
+      "requested_id": 26988,
+      "client_id": 26103,
+      "server_ids": [
+        26988
+      ],
+      "name": "Archway",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        297241,
+        297242,
+        297243,
+        297244
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-26988_client-26103_archway.png",
+      "size": 533,
+      "sha256": "773E557395B0AE0EB828207C4FD7C9FCA6DEF938DF25E498B0DB456A9D997719"
+    },
+    {
+      "requested_id": 26989,
+      "client_id": 26104,
+      "server_ids": [
+        26989
+      ],
+      "name": "Archway",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        297245,
+        297246,
+        297247,
+        297248
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-26989_client-26104_archway.png",
+      "size": 562,
+      "sha256": "068CE17BFB048FA2C7F5EC17454D2DF1C028FCBC763AEC038EF23323AABB78B8"
+    },
+    {
+      "requested_id": 26990,
+      "client_id": 26105,
+      "server_ids": [
+        26990
+      ],
+      "name": "Archway",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        297249,
+        297250,
+        297251,
+        297252
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-26990_client-26105_archway.png",
+      "size": 446,
+      "sha256": "B4FE72019C90DA650510F2A40C9740CAA1771C71911CA478BD1472F786C91BB8"
+    },
+    {
+      "requested_id": 26991,
+      "client_id": 26106,
+      "server_ids": [
+        26991
+      ],
+      "name": "Archway",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        297253,
+        297254,
+        297255,
+        297256
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-26991_client-26106_archway.png",
+      "size": 525,
+      "sha256": "DD39CFF8A1B1297C0B3034057DC5EE1B6DDE19C215AF096A0E04074D1B3C68C7"
+    },
+    {
+      "requested_id": 26992,
+      "client_id": 26107,
+      "server_ids": [
+        26992
+      ],
+      "name": "Archway",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        297257,
+        297258,
+        297259,
+        297260
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-26992_client-26107_archway.png",
+      "size": 567,
+      "sha256": "F39EB75AA0098341B8F897E365691580777571BDD0504EF40D87B2C3898096AA"
+    },
+    {
+      "requested_id": 26993,
+      "client_id": 26108,
+      "server_ids": [
+        26993
+      ],
+      "name": "Archway",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        297261,
+        297262,
+        297263,
+        297264
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-26993_client-26108_archway.png",
+      "size": 435,
+      "sha256": "6925D821E19CA2D6FCBCED79EA631BFCC108D85F0F45DED379522BC2D836D6C7"
+    },
+    {
+      "requested_id": 26994,
+      "client_id": 26109,
+      "server_ids": [
+        26994
+      ],
+      "name": "Archway",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        297265,
+        297266,
+        297267,
+        297268
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-26994_client-26109_archway.png",
+      "size": 535,
+      "sha256": "2EA9E6FD65A0F023C4C3AA0A0D1A41E76AD2A5704C6FC31CEA28B73A0A66783A"
+    },
+    {
+      "requested_id": 26995,
+      "client_id": 26110,
+      "server_ids": [
+        26995
+      ],
+      "name": "Archway",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        297269,
+        297270,
+        297271,
+        297272
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-26995_client-26110_archway.png",
+      "size": 564,
+      "sha256": "F0253ACBA9C0D1BA1C841ABD343236DBA91D5AE3A52CB524B41ED462D58D25E7"
+    },
+    {
+      "requested_id": 26996,
+      "client_id": 26111,
+      "server_ids": [
+        26996
+      ],
+      "name": "Archway",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        297273,
+        297274,
+        297275,
+        297276
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-26996_client-26111_archway.png",
+      "size": 449,
+      "sha256": "4B38022B42BE323A82D684246AA3EF8FDF4B1C9FE55352F26078B05EABF8B512"
+    },
+    {
+      "requested_id": 26997,
+      "client_id": 26112,
+      "server_ids": [
+        26997
+      ],
+      "name": "Archway",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        297277,
+        297278,
+        297279,
+        297280
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-26997_client-26112_archway.png",
+      "size": 524,
+      "sha256": "00CC7927FB98F8687D19423BCD5D5DDB6BC0CE4F2D92A4779E865E3C89280234"
+    },
+    {
+      "requested_id": 26998,
+      "client_id": 26113,
+      "server_ids": [
+        26998
+      ],
+      "name": "Archway",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        297281,
+        297282,
+        297283,
+        297284
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-26998_client-26113_archway.png",
+      "size": 568,
+      "sha256": "F7649236E2CF25439F568D6F4F6ED32F832D0E67242A4E8F207F5088FE02AE4B"
+    },
+    {
+      "requested_id": 26999,
+      "client_id": 26114,
+      "server_ids": [
+        26999
+      ],
+      "name": "Archway",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        297285,
+        297286,
+        297287,
+        297288
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-26999_client-26114_archway.png",
+      "size": 437,
+      "sha256": "4DAB71D85DE23B5AC9310AD50B9C4BE1348A26468F95EBDC64C88CB0C10B7C4C"
+    },
+    {
+      "requested_id": 27000,
+      "client_id": 26115,
+      "server_ids": [
+        27000
+      ],
+      "name": "Archway",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        297289,
+        297290,
+        297291,
+        297292
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-27000_client-26115_archway.png",
+      "size": 536,
+      "sha256": "A00F20A5F38FBA47C50C7C1F543483C9B480B87CD6768CC7F0DB16AB0AF18689"
+    },
+    {
+      "requested_id": 27001,
+      "client_id": 26116,
+      "server_ids": [
+        27001
+      ],
+      "name": "Archway",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        297293,
+        297294,
+        297295,
+        297296
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-27001_client-26116_archway.png",
+      "size": 565,
+      "sha256": "3B32222A9CAEF3041EBA86A2470E3B30B70CAE4BDBAADB18B456FF0868E8AB09"
+    },
+    {
+      "requested_id": 27002,
+      "client_id": 26117,
+      "server_ids": [
+        27002
+      ],
+      "name": "Archway",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        297297,
+        297298,
+        297299,
+        297300
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-27002_client-26117_archway.png",
+      "size": 450,
+      "sha256": "09946105DC2BF9513E538B9F603B4995C3A796E0910BD51BBF5274AA7FB0FA2E"
+    },
+    {
+      "requested_id": 27003,
+      "client_id": 26118,
+      "server_ids": [
+        27003
+      ],
+      "name": "Archway",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        297301,
+        297302,
+        297303,
+        297304
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-27003_client-26118_archway.png",
+      "size": 535,
+      "sha256": "0620536EE2C8167EEC486C94AC68CC2476982CF878D6A67B45BA58E11DC0E0F9"
+    },
+    {
+      "requested_id": 27004,
+      "client_id": 26119,
+      "server_ids": [
+        27004
+      ],
+      "name": "Archway",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        297305,
+        297306,
+        297307,
+        297308
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-27004_client-26119_archway.png",
+      "size": 564,
+      "sha256": "E0198DB2C5A571F67384A2A23F6EB7E9E5D76A1102E90DC4AAE550719054A119"
+    },
+    {
+      "requested_id": 27005,
+      "client_id": 26120,
+      "server_ids": [
+        27005
+      ],
+      "name": "Archway",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        297309,
+        297310,
+        297311,
+        297312
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-27005_client-26120_archway.png",
+      "size": 448,
+      "sha256": "430560B527310C32EADFCAE9D1565F846214DC923C19A5DD58FC0C9D14B480A6"
+    },
+    {
+      "requested_id": 27006,
+      "client_id": 26121,
+      "server_ids": [
+        27006
+      ],
+      "name": "Archway",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        297313,
+        297314,
+        297315,
+        297316
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-27006_client-26121_archway.png",
+      "size": 524,
+      "sha256": "B5373F023AA1D934B2FA6AFDF0BA46BF4C6A3686B5480F8BF50FA67A47BF22E8"
+    },
+    {
+      "requested_id": 27007,
+      "client_id": 26122,
+      "server_ids": [
+        27007
+      ],
+      "name": "Archway",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        297317,
+        297318,
+        297319,
+        297320
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-27007_client-26122_archway.png",
+      "size": 566,
+      "sha256": "BBDFF2F42F606319299F678C0475F2156B4B1013A0F0A61906261889098629C1"
+    },
+    {
+      "requested_id": 27008,
+      "client_id": 26123,
+      "server_ids": [
+        27008
+      ],
+      "name": "Archway",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        297321,
+        297322,
+        297323,
+        297324
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-27008_client-26123_archway.png",
+      "size": 435,
+      "sha256": "6CB7B853BAC4A86798EBE3942278818BBD6997ABDDBED5A4BD6D43C96139FAAA"
+    },
+    {
+      "requested_id": 27009,
+      "client_id": 26124,
+      "server_ids": [
+        27009
+      ],
+      "name": "Archway",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        297325,
+        297326,
+        297327,
+        297328
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-27009_client-26124_archway.png",
+      "size": 524,
+      "sha256": "2E26E65C24E0C45BA014FA1BB710D3079505BFEDCEFA8D8BCB31A39E543C8A8C"
+    },
+    {
+      "requested_id": 27010,
+      "client_id": 26125,
+      "server_ids": [
+        27010
+      ],
+      "name": "Archway",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        297329,
+        297330,
+        297331,
+        297332
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-27010_client-26125_archway.png",
+      "size": 566,
+      "sha256": "83BCDF0F55D7AEB0D9C1944FDDE9815D2608CDB71B21996D19044F25EBFA3FA0"
+    },
+    {
+      "requested_id": 27011,
+      "client_id": 26126,
+      "server_ids": [
+        27011
+      ],
+      "name": "Archway",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        297333,
+        297334,
+        297335,
+        297336
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-27011_client-26126_archway.png",
+      "size": 435,
+      "sha256": "D7A13B8A9BE0C218AA7E26EAFC331732BAAD58013D5220172E159B9A56D13BFF"
+    },
+    {
+      "requested_id": 27012,
+      "client_id": 26127,
+      "server_ids": [
+        27012
+      ],
+      "name": "Archway",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        297337,
+        297338,
+        297339,
+        297340
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-27012_client-26127_archway.png",
+      "size": 535,
+      "sha256": "E1655DD89DFCA9B902020240524DA1C99B150440710AFEE42D83499FCD94A1CC"
+    },
+    {
+      "requested_id": 27013,
+      "client_id": 26128,
+      "server_ids": [
+        27013
+      ],
+      "name": "Archway",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        297341,
+        297342,
+        297343,
+        297344
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-27013_client-26128_archway.png",
+      "size": 564,
+      "sha256": "75933CC44E117B0E8B3D2F44FEF92421526AC486B8238CFA082E87D05F1EC977"
+    },
+    {
+      "requested_id": 27014,
+      "client_id": 26129,
+      "server_ids": [
+        27014
+      ],
+      "name": "Archway",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        297345,
+        297346,
+        297347,
+        297348
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-27014_client-26129_archway.png",
+      "size": 448,
+      "sha256": "3062D555E27DFC4D5CA39E2CFC6567019A7EAFE4A1415D73163F40028558EAE3"
+    },
+    {
+      "requested_id": 27015,
+      "client_id": 26130,
+      "server_ids": [
+        27015
+      ],
+      "name": "Archway",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        297349,
+        297350,
+        297351,
+        297352
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-27015_client-26130_archway.png",
+      "size": 523,
+      "sha256": "A1A034F226F5B8141E453152E0390CBB4049E99DA1DCDB76D3F94475838906AF"
+    },
+    {
+      "requested_id": 27016,
+      "client_id": 26131,
+      "server_ids": [
+        27016
+      ],
+      "name": "Archway",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        297353,
+        297354,
+        297355,
+        297356
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-27016_client-26131_archway.png",
+      "size": 564,
+      "sha256": "A19B363FD83A68D21EE5F27B9598DB4712D15A5BFF0075F6144D0341B50DA98B"
+    },
+    {
+      "requested_id": 27017,
+      "client_id": 26132,
+      "server_ids": [
+        27017
+      ],
+      "name": "Archway",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        297357,
+        297358,
+        297359,
+        297360
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-27017_client-26132_archway.png",
+      "size": 434,
+      "sha256": "241E8605E89442BFDA0E81AE6659F82915E284A44A97CD5B1FD2F552032AE330"
+    },
+    {
+      "requested_id": 27018,
+      "client_id": 26133,
+      "server_ids": [
+        27018
+      ],
+      "name": "Archway",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        297361,
+        297362,
+        297363,
+        297364
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-27018_client-26133_archway.png",
+      "size": 534,
+      "sha256": "09B7743349F7F3ED9AB416047CC92EF3FBD660BD35ACD9E4C2D720C93BC39060"
+    },
+    {
+      "requested_id": 27019,
+      "client_id": 26134,
+      "server_ids": [
+        27019
+      ],
+      "name": "Archway",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        297365,
+        297366,
+        297367,
+        297368
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-27019_client-26134_archway.png",
+      "size": 562,
+      "sha256": "B4BAAE98B02E516767B98B8E614FF99657480927AFE0B1DEBE437C9C28C22354"
+    },
+    {
+      "requested_id": 27020,
+      "client_id": 26135,
+      "server_ids": [
+        27020
+      ],
+      "name": "Archway",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        297369,
+        297370,
+        297371,
+        297372
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-27020_client-26135_archway.png",
+      "size": 447,
+      "sha256": "EBBD05F9B7099D0F2246F399CCE9ED379E43727BD3AD95CB2C08299EF604F11D"
+    },
+    {
+      "requested_id": 27021,
+      "client_id": 26136,
+      "server_ids": [
+        27021
+      ],
+      "name": "Archway",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        297373,
+        297374,
+        297375,
+        297376
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-27021_client-26136_archway.png",
+      "size": 522,
+      "sha256": "A7023839AF41C0BC79897DBF35808496E7CDBCE97BDEE0B0AF2CDC007F52583E"
+    },
+    {
+      "requested_id": 27022,
+      "client_id": 26137,
+      "server_ids": [
+        27022
+      ],
+      "name": "Archway",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        297377,
+        297378,
+        297379,
+        297380
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-27022_client-26137_archway.png",
+      "size": 564,
+      "sha256": "EDB476947E59DB98C2B135EFA63A37DBAC7231F6BC4445D96878F66F270D6838"
+    },
+    {
+      "requested_id": 27023,
+      "client_id": 26138,
+      "server_ids": [
+        27023
+      ],
+      "name": "Archway",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        297381,
+        297382,
+        297383,
+        297384
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-27023_client-26138_archway.png",
+      "size": 433,
+      "sha256": "73611F6C8B74CBEC2E2732A97AAE1DBE8ECD656777DF7F436577DFB6BB23C017"
+    },
+    {
+      "requested_id": 27024,
+      "client_id": 26139,
+      "server_ids": [
+        27024
+      ],
+      "name": "Archway",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        297385,
+        297386,
+        297387,
+        297388
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-27024_client-26139_archway.png",
+      "size": 533,
+      "sha256": "1E3A007158ADF2132FCEDEA8ACE792CF155B58A9BDB2B2B1710A407305E413E7"
+    },
+    {
+      "requested_id": 27025,
+      "client_id": 26140,
+      "server_ids": [
+        27025
+      ],
+      "name": "Archway",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        297389,
+        297390,
+        297391,
+        297392
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-27025_client-26140_archway.png",
+      "size": 562,
+      "sha256": "95ACAAEA1910AF8AFB7AABA5257312F1CD0F9FFD09038DC2382AE9B092B6B3D7"
+    },
+    {
+      "requested_id": 27026,
+      "client_id": 26141,
+      "server_ids": [
+        27026
+      ],
+      "name": "Archway",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        297393,
+        297394,
+        297395,
+        297396
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-27026_client-26141_archway.png",
+      "size": 446,
+      "sha256": "9923CA2F2639DC902AE9E0C69263AF5A6C02BD092D2A18570F79EA7F4A4A2F6F"
+    }
+  ],
+  "sources": {
+    "dat": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.dat",
+      "sha256": "80AC77230002D3F9FAEBC8140863C1778BE7F28E97120EB0C02F6E3C42F19588"
+    },
+    "spr": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.spr",
+      "sha256": "2AA0CA942BFA13DDB666946BE637AB971334BCB3E18A869B84A8DB213F180BAB"
+    }
+  },
+  "passed": true
+}

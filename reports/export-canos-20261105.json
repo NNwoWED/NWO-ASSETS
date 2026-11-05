@@ -1,0 +1,202 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "profile": {
+    "key": "tibia-860-v2-custom-extended",
+    "client_version": 860,
+    "label": "Tibia 8.60 v2 customizado com features OTFI",
+    "dat_signature": "0x4C2C7993",
+    "spr_signature": "0x4C220594",
+    "metadata_reader": 5,
+    "otb_version_hint": "8.60"
+  },
+  "category": "items",
+  "id_kind": "server",
+  "requested_ids": [
+    27027,
+    27028,
+    27029,
+    27030,
+    27031,
+    27032
+  ],
+  "output_dir": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items",
+  "exported_count": 6,
+  "exported": [
+    {
+      "requested_id": 27027,
+      "client_id": 26142,
+      "server_ids": [
+        27027
+      ],
+      "name": "Metal Pipe 1",
+      "group_index": 0,
+      "width": 96,
+      "height": 96,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        297397,
+        297398,
+        297399,
+        297400,
+        297401,
+        297402,
+        0,
+        297403,
+        297404
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-27027_client-26142_metal-pipe-1.png",
+      "size": 2902,
+      "sha256": "268B41A2F86F2DB5F6DCAE5AF0775E646CCF1184B373C6AEB37533EC5156B8DC"
+    },
+    {
+      "requested_id": 27028,
+      "client_id": 26143,
+      "server_ids": [
+        27028
+      ],
+      "name": "Metal Pipe 2",
+      "group_index": 0,
+      "width": 96,
+      "height": 96,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        297405,
+        297406,
+        297407,
+        297408,
+        297409,
+        297410,
+        0,
+        297411,
+        297412
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-27028_client-26143_metal-pipe-2.png",
+      "size": 1839,
+      "sha256": "C7F719D20EB8959623D3CEB0D45ED6A93957BCBA8F02E6F442D4B007820EA9AA"
+    },
+    {
+      "requested_id": 27029,
+      "client_id": 26144,
+      "server_ids": [
+        27029
+      ],
+      "name": "Metal Pipe 3",
+      "group_index": 0,
+      "width": 96,
+      "height": 96,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        297413,
+        297414,
+        297415,
+        297416,
+        297417,
+        297418,
+        0,
+        297419,
+        297420
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-27029_client-26144_metal-pipe-3.png",
+      "size": 3241,
+      "sha256": "4167FACC882056A36B63EAB0A443BC595C779304EABC9DD2EBF32BEB429BA60A"
+    },
+    {
+      "requested_id": 27030,
+      "client_id": 26145,
+      "server_ids": [
+        27030
+      ],
+      "name": "Metal Pipe 4",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        297421,
+        297422,
+        297423,
+        297424
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-27030_client-26145_metal-pipe-4.png",
+      "size": 1987,
+      "sha256": "9191F356D248045C7943EE3D95ABF4BA431F85F5BE8E3CD5F21B4492DAC4F17B"
+    },
+    {
+      "requested_id": 27031,
+      "client_id": 26146,
+      "server_ids": [
+        27031
+      ],
+      "name": "Metal Pipe 5",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        297425,
+        297426,
+        297427,
+        297428
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-27031_client-26146_metal-pipe-5.png",
+      "size": 2315,
+      "sha256": "36429E83BF16A38B4AADB81691E671D0F4307CD3F865EC2CCAE7D44C1DF81DF7"
+    },
+    {
+      "requested_id": 27032,
+      "client_id": 26147,
+      "server_ids": [
+        27032
+      ],
+      "name": "Metal Pipe 6",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        297429,
+        297430,
+        297431,
+        297432
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-27032_client-26147_metal-pipe-6.png",
+      "size": 2233,
+      "sha256": "424C1B38E1D92B6C2A63A9671148F0B585A158E013B1079330A0B786C1C71203"
+    }
+  ],
+  "sources": {
+    "dat": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.dat",
+      "sha256": "2EC36A96C290AB7144BDDD14FA6E5EF9311F69615DDE0E78C1000F6AAEC5F5F7"
+    },
+    "spr": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.spr",
+      "sha256": "468FBF5EB8C8D84D42F69CC410A3CE282FB5439E598B23FB96E1C505F5AF6A9A"
+    }
+  },
+  "passed": true
+}
