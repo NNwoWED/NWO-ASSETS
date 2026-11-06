@@ -205,3 +205,15 @@
 
 - Reservada a Outfit ID 2012 para a bolha centralizada no Tobirama, usando como referencia estrutural a outfit 1027. A folha possui 320x320 pixels por direcao, quatro direcoes, nove frames de 100 ms e animacao continua.
 - A aparencia foi derivada deterministicamente do efeito canonico 1478, sem redimensionamento, suavizacao ou geracao por IA. Importacao validada na versao imutavel 20261105-214909-892415; manifesto, folha importada e fonte de referencia arquivados em importados/tobirama-e4-bubble-outfit-2012-20261105. Validacao profunda e sincronizacao de runtime aprovadas nos relatorios validation-final-tobirama-e3-e4-20261105.json e sync-runtime-tobirama-e4-outfit-2012-20261105.json.
+
+## 05/11/2026 — Correcao da outfit do primeiro recast do E4 do Tobirama
+
+- A Outfit ID 2012 foi substituida pelos 10 frames canonicos do efeito 1479, com quadros de 320x320 pixels, quatro direcoes, 100 ms por frame e animacao continua. O campo original do E4 permanece usando os efeitos 1477 e 1478.
+- A folha foi gerada deterministicamente sem alterar os pixels da fonte. Importacao validada na versao imutavel 20261105-231505-273405; manifesto, folha e fonte 1479 arquivados em importados/tobirama-e4-cut-outfit-2012-20261105. Validacao profunda e sincronizacao de runtime aprovadas nos relatorios validation-final-tobirama-e4-cut-outfit-fix-20261105.json e sync-runtime-tobirama-e4-cut-outfit-fix-20261105.json.
+
+## 06/11/2026 - Impacto do M4 do Tobirama no efeito 291
+
+- O arquivo effect_291_ possuia 192x3264 pixels, formado por dois patterns horizontais de 34 frames de 96x96. O pattern da direita foi removido e o da esquerda foi preservado integralmente, sem redimensionamento, suavizacao ou alteracao de pixels.
+- O efeito 291 foi substituido pela sequencia resultante de 96x3264, com 34 frames de 100 ms, pattern unico e sem loop. O M4 do Tobirama manteve o missile 84 e passou a usar o efeito 291 no impacto.
+- A importacao criou a versao imutavel 20261106-015940-817420. Fonte original, PNG importado e manifesto foram arquivados em importados/tobirama-m4-effect291-left-20261106.
+- Validacao profunda e sincronizacao com desktop, mobile e NWO-STUDIO aprovadas nos relatorios validation-final-effect-291-left-tobirama-m4-20261106.json e sync-runtime-effect-291-left-tobirama-m4-20261106.json.

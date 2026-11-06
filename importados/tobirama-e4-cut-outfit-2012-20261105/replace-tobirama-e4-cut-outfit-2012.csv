@@ -1,0 +1,2 @@
+sequence,operation,outfit_id,reference_outfit_id,source_path,frames,frame_duration_ms,dat_add_flags
+1,replace,2012,2012,tobirama-e4-cut-outfit-2012.png,10,100,animate_always

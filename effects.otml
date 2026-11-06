@@ -704,7 +704,6 @@ effects:
   291:
     opacity: 1.0
     effect-displacement: -8 -8
-    isLoop
   292:
     opacity: 1.0
     effect-displacement: -8 -8
