@@ -200,3 +200,8 @@
 - Baseline consolidada com 34 itens novos nos Server IDs 27047–27080 e Client IDs 26162–26195, incluindo equipamentos e as 16 partes do portao de Iwagakure. Efeito de dragao de agua 1482 atualizado. Fontes, manifestos e exportacoes em importados/all-sprites-20261105.
 - O pacote inclui tambem o ajuste da Mesa Horizontal SID19832/19833, com a parte esquerda CID18948 ampliada conforme o registro anterior. DAT, SPR, OTB e XML versionados como um conjunto coerente. Validacoes profundas e sincronizacao de runtime aprovadas, com 31 destinos conferidos por hash.
 - Relatorios de importacao, exportacao, validacao e sincronizacao correspondentes foram incluidos no commit aa56a0346d. Backups imutaveis permanecem nas versions locais.
+
+## 05/11/2026 — Outfit da bolha do E4 do Tobirama
+
+- Reservada a Outfit ID 2012 para a bolha centralizada no Tobirama, usando como referencia estrutural a outfit 1027. A folha possui 320x320 pixels por direcao, quatro direcoes, nove frames de 100 ms e animacao continua.
+- A aparencia foi derivada deterministicamente do efeito canonico 1478, sem redimensionamento, suavizacao ou geracao por IA. Importacao validada na versao imutavel 20261105-214909-892415; manifesto, folha importada e fonte de referencia arquivados em importados/tobirama-e4-bubble-outfit-2012-20261105. Validacao profunda e sincronizacao de runtime aprovadas nos relatorios validation-final-tobirama-e3-e4-20261105.json e sync-runtime-tobirama-e4-outfit-2012-20261105.json.
