@@ -1,0 +1,40 @@
+{
+  "mob-estrelado-backup": {
+    "mapanovo.otbm": {
+      "bytes": 85347656,
+      "sha256": "e95b0e80146a2144a79427a67682b207311e8f2e5e2ff8b03e686d20dadd9414"
+    }
+  },
+  "origin/main": {
+    "mapanovo.otbm": {
+      "bytes": 82634323,
+      "sha256": "dc909be85fc0a037c94a826c6386b6c52f26cc5ac3435804b3e60fb435d87808"
+    }
+  },
+  "canonical": {
+    "mapanovo-areas.xml": {
+      "bytes": 492,
+      "sha256": "1dd56116c40f8f7e287ceba94fb6c6ffb59cde2e8e457512f3a2b61b7c804636"
+    },
+    "mapanovo-house.xml": {
+      "bytes": 19061,
+      "sha256": "7b40678da8fa7aef92e2d680b2c91557d2d01559ec7902f5719c1c844be78f87"
+    },
+    "mapanovo-spawn.xml": {
+      "bytes": 1434340,
+      "sha256": "c684d7ae7b817f876e2d7a9abd3ece706fdb5d0872ec61e17dd2af1e24904437"
+    },
+    "mapanovo-things.xml": {
+      "bytes": 57606,
+      "sha256": "0d7c8894a757c998f6cc232c733fdf084369171b9f493d46dd3f7f539fe83ff6"
+    },
+    "mapanovo.otbm": {
+      "bytes": 85960822,
+      "sha256": "e871e87830f374d67f745d2ff8799882ded903d7aeff896f67da5c6a48119d0e"
+    },
+    "routes.xml": {
+      "bytes": 27301,
+      "sha256": "3173748509192f24c845662a34b2b32d5a9ba1b20c2389a8a82267c3d641970d"
+    }
+  }
+}

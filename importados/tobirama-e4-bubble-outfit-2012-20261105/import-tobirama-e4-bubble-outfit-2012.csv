@@ -1,0 +1,2 @@
+sequence,operation,outfit_id,reference_outfit_id,source_path,frames,frame_duration_ms,dat_add_flags
+1,reserved,2012,1027,tobirama-e4-bubble-outfit-2012.png,9,100,animate_always

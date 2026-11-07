@@ -20400,16 +20400,16 @@
 		<attribute key="weight" value="30" />
 	</item>
 	<item id="26975" article="a" name="Âncora Espiritual" />
-	<item id="26976" article="a" name="Pergaminho Úmido e Mofado">
+	<item id="26976" article="a" name="Pergaminho de Selamento Roubado">
 		<attribute key="weight" value="40" />
-	  <attribute key="description" value="Mayu — estágio inicial de 150 Predators. Apar?ncia provis?ria para valida??o da miss?o."/>
+	  <attribute key="description" value="Um pergaminho de selamento roubado, recuperado para Mayu."/>
 </item>
-	<item id="26977" article="a" name="Pergaminho Renovado">
-		<attribute key="description" value="Mayu — estágio de 100 Assassins. Apar?ncia provis?ria para valida??o da miss?o."/>
+	<item id="26977" article="a" name="Pergaminho de Selamento Renovado">
+		<attribute key="description" value="O pergaminho renovado após absorver o chakra de 100 Assassins."/>
 		<attribute key="weight" value="30" />
 	</item>
-	<item id="26978" article="a" name="Pergaminho Restaurado">
-		<attribute key="description" value="Mayu — estágio final de 250 Assassins. Apar?ncia provis?ria para valida??o da miss?o."/>
+	<item id="26978" article="a" name="Pergaminho de Selamento Restaurado">
+		<attribute key="description" value="O pergaminho restaurado após absorver o chakra de 500 Assassins."/>
 		<attribute key="weight" value="30" />
 	</item>
 	<item id="26979" article="an" name="Elixir da Névoa">
@@ -20532,4 +20532,79 @@
 	  <attribute key="description" value="Fuudo — amostras de água. Apar?ncia provis?ria para valida??o da miss?o."/>
 </item>
 <item id="27046" name="Roof" />
+	<item id="27047" article="a" name="19-10 Bandana" >
+		<attribute key="slotType" value="head" />
+	</item>
+	<item id="27048" article="a" name="19-102 Armor" >
+		<attribute key="slotType" value="body" />
+	</item>
+	<item id="27049" article="a" name="19-103 Legs" >
+		<attribute key="slotType" value="legs" />
+	</item>
+	<item id="27050" article="a" name="19-104 Boots" >
+		<attribute key="slotType" value="feet" />
+	</item>
+	<item id="27051" article="a" name="19-105 Glove" >
+		<attribute key="slotType" value="right-hand" />
+	</item>
+	<item id="27052" article="a" name="19-106 Boots" >
+		<attribute key="slotType" value="feet" />
+	</item>
+	<item id="27053" article="a" name="19-107 Boots" >
+		<attribute key="slotType" value="feet" />
+	</item>
+	<item id="27054" article="a" name="19-108 Legs" >
+		<attribute key="slotType" value="legs" />
+	</item>
+	<item id="27055" article="a" name="19-109 Cloth" >
+		<attribute key="slotType" value="body" />
+	</item>
+	<item id="27056" article="a" name="19-110 Helmet" >
+		<attribute key="slotType" value="head" />
+	</item>
+	<item id="27057" article="a" name="19-111 Glove" >
+		<attribute key="slotType" value="right-hand" />
+	</item>
+	<item id="27058" article="a" name="19-112 Legs" >
+		<attribute key="slotType" value="legs" />
+	</item>
+	<item id="27059" article="a" name="19-113 Ring" >
+		<attribute key="slotType" value="ring" />
+	</item>
+	<item id="27060" article="a" name="19-114 Ring" >
+		<attribute key="slotType" value="ring" />
+	</item>
+	<item id="27061" article="a" name="19-115 Ring" >
+		<attribute key="slotType" value="ring" />
+	</item>
+	<item id="27062" article="a" name="19-116 Helmet" >
+		<attribute key="slotType" value="head" />
+	</item>
+	<item id="27063" article="a" name="19-117 Helmet" >
+		<attribute key="slotType" value="head" />
+	</item>
+	<item id="27064" article="an" name="Anel Golem Estrelado" >
+		<attribute key="slotType" value="ring" />
+	</item>
+<item id="27065" article="a" name="Portao Iwagakure 00" />
+<item id="27066" article="a" name="Portao Iwagakure 01" />
+<item id="27067" article="a" name="Portao Iwagakure 02" />
+<item id="27068" article="a" name="Portao Iwagakure 03" />
+<item id="27069" article="a" name="Portao Iwagakure 04" />
+<item id="27070" article="a" name="Portao Iwagakure 05" />
+<item id="27071" article="a" name="Portao Iwagakure 06" />
+<item id="27072" article="a" name="Portao Iwagakure 07" />
+<item id="27073" article="a" name="Portao Iwagakure 08" />
+<item id="27074" article="a" name="Portao Iwagakure 09" />
+<item id="27075" article="a" name="Portao Iwagakure 10" />
+<item id="27076" article="a" name="Portao Iwagakure 11" />
+<item id="27077" article="a" name="Portao Iwagakure 12" />
+<item id="27078" article="a" name="Portao Iwagakure 13" />
+<item id="27079" article="a" name="Portao Iwagakure 14" />
+<item id="27080" article="a" name="Portao Iwagakure 15" />
+	<item id="27081" article="a" name="Baú Amaldiçoado">
+		<attribute key="type" value="key" />
+		<attribute key="weight" value="100" />
+	  <attribute key="description" value="Um baú amaldiçoado confiado a você pelo Velho Pescador."/>
+</item>
 </items>

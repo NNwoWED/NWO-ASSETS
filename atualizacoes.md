@@ -13,6 +13,27 @@
 - Foram acrescentados 1.936 sprites, no intervalo 299506-301441. As reexportacoes normalizadas coincidiram pixel a pixel com as fontes. Fontes, manifesto e PNGs de conferencia foram arquivados em `importados/bolha-effects-20261105/`.
 - Versao imutavel `versions/20261105-024441-767545/`. Relatorios: `reports/import-bolha-effects-20261105.json`, `reports/export-bolha-effects-20261105.json`, `reports/sync-runtime-bolha-effects-20261105.json` e `reports/validation-after-bolha-effects-20261105.json`. Importacao, sincronizacao com servidor, RME, desktop, mobile e NWO-STUDIO e validacao profunda final aprovadas sem erros.
 
+## 05/11/2026 - Correcao do displacement do E4 do Tobirama
+
+- Corrigidos os efeitos 1477, 1478, 1479 e 1480 para `effect-displacement: 128 128`. O comando `/z <efeito>, 4, 4` desloca quatro SQMs em cada eixo; como cada SQM possui 32 pixels, o valor equivalente no OTML e 128 pixels por eixo.
+
+## 05/11/2026 - Segundo remake do efeito 79 do Tobirama
+
+- Substituida novamente a aparencia do Effect ID 79 pela folha `tobirama_skill-Sheet.png`, mantendo o layout de 13 frames de 192x224, 100 ms por frame, animacao sincrona e `effect-displacement: 64 64`.
+- A importacao acrescentou 241 sprites no intervalo 302353-302593 e foi versionada em `20261105-172520-552145`. A reexportacao preservou todos os pixels visiveis; somente o RGB residual de 336 pixels totalmente transparentes foi normalizado.
+- DAT/SPR e arquivos compactados foram validados e sincronizados com desktop, mobile e NWO-STUDIO. Fontes e manifesto: `importados/effect79-tobirama-skill-20261105/`. Relatorios: `reports/import-effect79-tobirama-skill-20261105.json`, `reports/export-effect79-tobirama-skill-20261105.json`, `reports/validation-effect79-tobirama-skill-20261105.json` e `reports/sync-runtime-effect79-tobirama-skill-20261105.json`.
+
+## 05/11/2026 - Ajuste dos efeitos do E4 do Tobirama
+
+- Configurado `effect-displacement: 4 4` nos Effect IDs 1477, 1478, 1479 e 1480 usados nas etapas de inicio, loop, cortes e encerramento da bolha.
+- Metadados validados e sincronizados com os clients desktop/mobile e com o NWO-STUDIO. Relatorios: `reports/validation-tobirama-e4-rework-20261105.json` e `reports/sync-runtime-tobirama-e4-rework-20261105.json`.
+
+## 05/11/2026 - Remake do efeito 79 do Tobirama
+
+- Substituida a aparencia do Effect ID 79, usado no E4 do Tobirama, pelo remake `79.png`. Mantidos o layout de 13 frames de 192x224, a duracao sincrona de 100 ms por frame e as propriedades existentes; somente os pixels foram alterados.
+- Importacao versionada em `20261105-164335-065216`, com 204 sprites acrescentados no intervalo 302149-302352. Registros DAT nao alvo, sprites anteriores, OTB, XML e mapa foram preservados.
+- Validacao profunda, reexportacao e sincronizacao para desktop, mobile e NWO-STUDIO aprovadas. Fontes e manifesto arquivados em `importados/tobirama-effect79-remake-20261105/`; relatorios em `reports/import-effect79-remake-20261105.json`, `reports/export-effect79-remake-20261105.json`, `reports/validation-effect79-remake-20261105.json` e `reports/sync-runtime-effect79-remake-20261105.json`.
+
 - 2026-10-23: Criados 107 itens novos para paredes e telhados de Iwagakure nos SIDs 26827-26933 / CIDs 25942-26048. O lote foi organizado em blocos: base 26827-26840, `01_arenito_dourado` 26841-26854, `02_areia_palha` 26855-26868, `03_ocre_queimado` 26869-26882, `04_terracota` 26883-26896, `05_oliva_seco` 26897-26910, `06_cinza_quente` 26911-26924 e telhados/variacoes 26925-26933. As 49 paredes clonam integralmente o SID 25565 / CID 24680 e mantem bloqueio de posicao/projeteis; as 51 pecas de telhado/piso usam as referencias 11864-11876, com os arquivos numerados 4-16 pareados sequencialmente e `piso1/piso2` baseados no 11864, preservando individualmente a diferenca entre telhados transitaveis e bloqueadores. As sete variantes `20.png` clonam o SID 25199 / CID 24314 como bordas nao moviveis. As 14 folhas de parede 192x64 foram importadas como tres patterns 64x64. Foram acrescentados 505 sprites (292677-293181). As 107 reexportacoes coincidiram byte a byte em RGBA com as fontes, layouts e propriedades DAT/OTB coincidiram com cada referencia, o mapa permaneceu inalterado e servidor, RME, clients desktop/mobile e NWO-STUDIO foram sincronizados. Backup imutavel: `versions/20261023-201848-046695/`. Fontes, manifesto e reexportacoes: `importados/iwa-city-walls-roofs-20261023/`. Relatorios principais: `reports/prepare-iwa-city-walls-roofs-20261023.json`, `reports/import-iwa-city-walls-roofs-dry-run-20261023.json`, `reports/import-iwa-city-walls-roofs-20261023.json`, `reports/pixel-properties-qa-iwa-city-walls-roofs-20261023.json`, `reports/sync-runtime-iwa-city-walls-roofs-20261023.json` e `reports/validation-final-iwa-city-walls-roofs-20261023.json`.
 
 - 2026-10-23: Criados 13 itens novos nos SIDs 26814-26826 / CIDs 25929-25941, todos clonando integralmente DAT/OTB/XML do `Sand Gravel` SID 25599 / CID 24714. O SID 26814 e uma duplicacao visual e funcional exata do 25599, preservando as quatro variacoes 32x32 em `pattern_x=2` e `pattern_y=2`. Os SIDs 26815-26826 receberam, em ordem, os PNGs exportados das referencias 17350-17361, mantendo seus layouts proprios: quatro pecas 64x32 ou 32x64 e oito pecas 32x32. Todos preservam `ground_border`, `unmoveable`, grupo OTB 0 e `always_on_top`. Foram acrescentados 20 sprites (292657-292676). As 13 reexportacoes coincidiram byte a byte em RGBA com as fontes, as propriedades DAT/OTB coincidiram exatamente com o 25599, o mapa permaneceu inalterado e servidor, RME, clients desktop/mobile e NWO-STUDIO foram sincronizados. Backup imutavel: `versions/20261023-195820-425340/`. Fontes, manifesto e reexportacoes: `importados/sand-gravel-clones-20261023/`. Relatorios principais: `reports/import-sand-gravel-clones-dry-run-20261023.json`, `reports/import-sand-gravel-clones-20261023.json`, `reports/pixel-properties-qa-sand-gravel-clones-20261023.json`, `reports/sync-runtime-sand-gravel-clones-20261023.json` e `reports/validation-final-sand-gravel-clones-20261023.json`.
@@ -232,3 +253,65 @@ Sincronização oficial concluída: 31 destinos de arquivos conferidos, metadado
 - Baseline validada e versão automática testada 20261104-062651-166272, imutável. Importação confirmada, payloads SPR antigos preservados, não alvos preservados e OTBM byte a byte inalterado. Manifesto e PNGs arquivados em importados/mission-comments-20261104, com archive.json.
 - Relatórios: reports/mission-comments-item-import-20261104.json, mission-comments-pixel-proof-20261104.json, mission-comments-completion-20261104.json e mission-comments-runtime-sync-20261104.json. Validação profunda final e sync-runtime aprovados, incluindo hashes de destinos e testes dos arquivos compactados. PC destino: nwo-otclient-mehah-4.0/build/mob-estrelado.
 - Outfit 2147 de Yuko exportada e conferida não vazia; nenhuma modificação nessa outfit. Posições de Emiko 1209,785,6 e Hiroto 603,894,7 inspecionadas no mapa canônico e atualizadas somente nos registros correspondentes de mapanovo-spawn.xml do NWO-ASSETS e servidor. Preservadas as demais alterações preexistentes dos metadados do mundo.
+
+## 05/11/2026 — Mesa de Madeira Horizontal
+
+- Ampliada deterministicamente a parte esquerda SID 19833 / CID 18948, complementando SID 19832 / CID 18947. Tampo visível passa de 47 para 64 pixels, cobrindo os dois SQMs. Pixels reutilizados sem suavização. Flags e elevação 10 preservadas.
+- Importação versionada em 20261105-125351-307734, validada e sincronizada pelo fluxo oficial para PC main, mobile, servidor, RME e NWO-STUDIO. Manifesto e PNGs em importados/table-horizontal-main-20261105. Relatórios import-table-horizontal-main-20261105.json e sync-table-horizontal-main-20261105.json.
+
+- 05/11/2026 — Salvo mapa 27 com 478 SQMs de acabamento a partir do mapa 26 autoral. Conferidos 2.286 SQMs modificados pelo usuário. Ajustadas faces congeladas, margens de gelo e transições entre neve e pedra. Retiradas três faces antigas sobre o novo maciço. Conservadas as cinco remoções manuais de pedra, os pisos, as 58 ausências e as propriedades físicas. Auditoria de tiles e metadados aprovada com validação profunda. Relatório NWO-ASSETS/reports/east27-final-20261105.json.
+
+- 05/11/2026 — Mapa 28 salvo com 412 SQMs ajustados a partir do mapa 27 atual. Bordas comuns de 315 SQMs foram trocadas pelos perfis de pedra congelada da mesma forma. Faces do relevo no andar 2 também receberam o material congelado. Conferidos os 89 ajustes manuais, o encaixe das bordas, as propriedades físicas e os metadados. Validação profunda aprovada. Relatório NWO-ASSETS/reports/east28-final-20261105.json.
+
+
+## 05/11/2026 — Importacao consolidada de itens e efeito
+
+- Baseline consolidada com 34 itens novos nos Server IDs 27047–27080 e Client IDs 26162–26195, incluindo equipamentos e as 16 partes do portao de Iwagakure. Efeito de dragao de agua 1482 atualizado. Fontes, manifestos e exportacoes em importados/all-sprites-20261105.
+- O pacote inclui tambem o ajuste da Mesa Horizontal SID19832/19833, com a parte esquerda CID18948 ampliada conforme o registro anterior. DAT, SPR, OTB e XML versionados como um conjunto coerente. Validacoes profundas e sincronizacao de runtime aprovadas, com 31 destinos conferidos por hash.
+- Relatorios de importacao, exportacao, validacao e sincronizacao correspondentes foram incluidos no commit aa56a0346d. Backups imutaveis permanecem nas versions locais.
+
+## 05/11/2026 — Outfit da bolha do E4 do Tobirama
+
+- Reservada a Outfit ID 2012 para a bolha centralizada no Tobirama, usando como referencia estrutural a outfit 1027. A folha possui 320x320 pixels por direcao, quatro direcoes, nove frames de 100 ms e animacao continua.
+- A aparencia foi derivada deterministicamente do efeito canonico 1478, sem redimensionamento, suavizacao ou geracao por IA. Importacao validada na versao imutavel 20261105-214909-892415; manifesto, folha importada e fonte de referencia arquivados em importados/tobirama-e4-bubble-outfit-2012-20261105. Validacao profunda e sincronizacao de runtime aprovadas nos relatorios validation-final-tobirama-e3-e4-20261105.json e sync-runtime-tobirama-e4-outfit-2012-20261105.json.
+
+## 05/11/2026 — Correcao da outfit do primeiro recast do E4 do Tobirama
+
+- A Outfit ID 2012 foi substituida pelos 10 frames canonicos do efeito 1479, com quadros de 320x320 pixels, quatro direcoes, 100 ms por frame e animacao continua. O campo original do E4 permanece usando os efeitos 1477 e 1478.
+- A folha foi gerada deterministicamente sem alterar os pixels da fonte. Importacao validada na versao imutavel 20261105-231505-273405; manifesto, folha e fonte 1479 arquivados em importados/tobirama-e4-cut-outfit-2012-20261105. Validacao profunda e sincronizacao de runtime aprovadas nos relatorios validation-final-tobirama-e4-cut-outfit-fix-20261105.json e sync-runtime-tobirama-e4-cut-outfit-fix-20261105.json.
+
+## 06/11/2026 - Impacto do M4 do Tobirama no efeito 291
+
+- O arquivo effect_291_ possuia 192x3264 pixels, formado por dois patterns horizontais de 34 frames de 96x96. O pattern da direita foi removido e o da esquerda foi preservado integralmente, sem redimensionamento, suavizacao ou alteracao de pixels.
+- O efeito 291 foi substituido pela sequencia resultante de 96x3264, com 34 frames de 100 ms, pattern unico e sem loop. O M4 do Tobirama manteve o missile 84 e passou a usar o efeito 291 no impacto.
+- A importacao criou a versao imutavel 20261106-015940-817420. Fonte original, PNG importado e manifesto foram arquivados em importados/tobirama-m4-effect291-left-20261106.
+- Validacao profunda e sincronizacao com desktop, mobile e NWO-STUDIO aprovadas nos relatorios validation-final-effect-291-left-tobirama-m4-20261106.json e sync-runtime-effect-291-left-tobirama-m4-20261106.json.
+
+## 06/11/2026 - Novos impactos do M3 e M4 do Tobirama
+
+- O efeito 291 do impacto do M4 foi substituido pela folha `effect_291_-sheet.png`, com 15 frames de 96x96 a 100 ms, pattern unico e sem loop.
+- A folha `aguinha_54_-sheet.png` foi importada no Effect ID 2066, antes vazio e sem referencias, com 10 frames de 96x96 a 100 ms. Somente o M3 do Tobirama passou a usar esse novo ID; o efeito 2462 foi preservado para os outros personagens.
+- Os efeitos 291 e 2066 receberam `effect-displacement: 16 0`, deslocando a renderizacao 16 pixels para a direita. Importacao validada na versao imutavel `20261106-034813-951535`, com 132 novos sprites (306153-306284).
+- Fontes e manifesto arquivados em `importados/tobirama-m3-m4-impact-remakes-20261106/`. Relatorios: `reports/import-tobirama-m3-m4-impact-remakes-20261106.json`, `reports/export-tobirama-m3-m4-impact-after-remakes-20261106.json`, `reports/validation-final-tobirama-m3-m4-impact-remakes-20261106.json` e `reports/sync-runtime-tobirama-m3-m4-impact-remakes-20261106.json`.
+
+## 06/11/2026 - Protecao visual do recast do E4 do Tobirama
+
+- A outfit 2012 do primeiro recast recebeu `async-outfit` e `hidecreatureinfo`, seguindo o comportamento da outfit 2186 do E4 do Zabuza. Durante seus 1000 ms, nome, barras e aura deixam de ser renderizados.
+- Os metadados canonicos foram sincronizados com desktop, mobile e NWO-STUDIO sem alterar DAT, SPR, OTB ou mapa. Validacao profunda e sincronizacao aprovadas em `reports/validation-tobirama-e4-paper-bomb-20261106.json` e `reports/sync-runtime-tobirama-e4-paper-bomb-20261106.json`.
+
+## 07/11/2026 — Baú portátil e pergaminhos definitivos das missões
+
+- Tesouro Amaldiçoado: criado SID 27081/CID 26196, contíguo aos máximos anteriores, por `import-cloned-items`. Referência portátil SID 26969/CID 26084; aparência exportada sem edição do CID 24091/SID 24976, 32×32 RGBA. Propriedades DAT/OTB clonadas e registros anteriores preservados. Nome e descrição próprios no XML. Versão testada `20261107-032006-836302`; relatório `reports/import-cursed-inventory-chest-20261107.json`.
+- Mayu: substituídas somente as aparências de SID/CID 26976/26091, 26977/26092 e 26978/26093. Associação expressamente aprovada: `pergaminhos-verde.png` Roubado, `pergaminhos-roxo.png` Renovado e `pergaminhos-cobre.png` Restaurado. PNGs RGBA originais de 32×800, com 25 quadros de 32×32 e duração de 100 ms; sem recorte, redimensionamento ou alteração de pixels. Preservadas propriedades; importador atualizou animação e SpriteHash. Versão testada `20261107-033617-976946`; relatório `reports/import-mayu-scrolls-20261107.json`.
+- Conferidos os 75 quadros exportados contra os PNGs originais, byte a byte nos pixels. Nomes e descrições XML das três formas atualizados; `papel-mofado.png` não foi utilizado. Baú decorativo e mapa binário preservados. Atualizada apenas a referência de retorno de Emiko em `assets/world/routes.xml` para 1209,785,6, espelhada no XML do servidor.
+- Validação final profunda sem erros em `reports/validation-development-final-20261107.json`. Sincronização transacional aprovada em `reports/sync-runtime-development-feedback-20261107.json`: 31 arquivos, hashes conferidos, par OTB/XML no servidor/RME/NWO-STUDIO, DAT/SPR nos dois clients e NWO-STUDIO, cinco OTMLs e arquivos compactados testados.
+- Entradas e manifestos validados arquivados em `importados/cursed-inventory-chest-20261107/` e `importados/mayu-scrolls-20261107/`. Alterações locais anteriores e versões antigas foram preservadas.
+
+## 07/11/2026 - Integracao da main/master na mob-estrelado
+
+- Criados backups mob-estrelado-backup nos cinco repositorios antes da integracao.
+- Preservados os itens e as aparencias consolidados, incluindo os materiais dos estrelados, NPCs, efeitos e pergaminhos definitivos da Mayu. Integradas tambem as ferramentas de consolidacao e restauracao de runtime da mob-estrelado.
+- Mapa escolhido expressamente pelo usuario: Server-Data-Nwo main 16d21d668e885d891f212452cad8adc4b4f4f991, data/world/mapanovo.zip. O OTBM deve permanecer byte a byte igual ao mapa desse pacote (SHA256 dc909be85fc0a037c94a826c6386b6c52f26cc5ac3435804b3e60fb435d87808).
+- Publicacao pelo NWO-ASSETS com versao imutavel, validacao profunda e sincronizacao de runtime. As refs main/master permanecem nos commits anteriores; as alteracoes pessoais preexistentes nos XMLs auxiliares e fontes nao fazem parte deste merge.
+
+- Gates finais aprovados: compilacao completa do source, 199 testes dos estrelados, 84 das missoes, 3 de integracao PC/mobile, contratos de opcode, 15 testes de ferramentas de runtime e verificacao estatica completa do mobile. Build do APK dispensado conforme orientacao anterior do usuario. Validacao profunda final sem erros/avisos e 31 arquivos de runtime sincronizados e verificados. Evidencias em reports/integration-main-20261107.json.

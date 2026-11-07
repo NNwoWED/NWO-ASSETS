@@ -1,0 +1,99 @@
+{
+  "assets": {
+    "deep_assets_validation": true,
+    "errors": [],
+    "warnings": [],
+    "sync_passed": true,
+    "runtime_files": 31,
+    "map_from_main_sha256": "dc909be85fc0a037c94a826c6386b6c52f26cc5ac3435804b3e60fb435d87808",
+    "primary_refs_unchanged": true,
+    "backups_verified": true,
+    "preexisting_changes_preserved": true
+  },
+  "checks": {
+    "source_build": "passed",
+    "source_binary_sha256": "06df5bf4d63768869ec51ee5c3c98813dfd66f5b2c82d74eff92c19846c03cc5",
+    "mobile_static": "passed",
+    "apk_build": "waived by user",
+    "starred_server_tests": 199,
+    "country_tests": 84,
+    "assets_runtime_tests": 15,
+    "native_fixtures": [
+      "boss_policy",
+      "nested_loot"
+    ],
+    "client_merge_tests": 3,
+    "opcode_contract": "passed with current desktop checkout",
+    "main_client_regressions": "passed: tracking/recast/character settings/KC-only craft/config recovery"
+  },
+  "app_merges": [
+    {
+      "repo": "Server-Data-Nwo",
+      "commit": "7bd71dab16012faf3e15bf9dbf478f96d6582679",
+      "parents": [
+        "2bdcf7e592f30e9bd2b9669aa07a622898701faf",
+        "16d21d668e885d891f212452cad8adc4b4f4f991"
+      ]
+    },
+    {
+      "repo": "Src-Nwo",
+      "commit": "0dbcddf61b85c030ac8523704c0c4432d70aa83d",
+      "parents": [
+        "e367dc9cd7fe7569f2ec7d6c2fa8f0f442468792",
+        "43a5c163d034919d50eb88512e8162503bf51421"
+      ]
+    },
+    {
+      "repo": "nwo-otclient-mehah-4.0",
+      "commit": "bd67edf76d79d04421739d07f6bac4070925e7be",
+      "parents": [
+        "d60f6af2a7313b7a2db1c8a3a68b4dc5be039e44",
+        "558bed415bb6d8a7ca6956e1e27e04fa3e5e93de"
+      ]
+    },
+    {
+      "repo": "nwo-mobile",
+      "commit": "a3c5c25b52b1b73f11a25917288455b9d5a237a3",
+      "parents": [
+        "4992bb6e9dc0c05da692f5a855523d77d8c004f4",
+        "df59a0cbe040855cc13a265fcc2d2e8d13f0238e"
+      ]
+    }
+  ],
+  "backup_pushes": [
+    {
+      "repo": "Server-Data-Nwo",
+      "returncode": 0,
+      "sha": "2bdcf7e592f30e9bd2b9669aa07a622898701faf"
+    },
+    {
+      "repo": "Src-Nwo",
+      "returncode": 0,
+      "sha": "e367dc9cd7fe7569f2ec7d6c2fa8f0f442468792"
+    },
+    {
+      "repo": "nwo-otclient-mehah-4.0",
+      "returncode": 0,
+      "sha": "d60f6af2a7313b7a2db1c8a3a68b4dc5be039e44"
+    },
+    {
+      "repo": "nwo-mobile",
+      "returncode": 0,
+      "sha": "4992bb6e9dc0c05da692f5a855523d77d8c004f4"
+    },
+    {
+      "repo": "NWO-ASSETS",
+      "returncode": 0,
+      "sha": "959dbb715278f670f5e85f07258ee1bbdabfcf4a"
+    }
+  ],
+  "map_publication": {
+    "passed": true,
+    "committed": true,
+    "sha256": "dc909be85fc0a037c94a826c6386b6c52f26cc5ac3435804b3e60fb435d87808",
+    "baselineFile": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\drafts\\history\\dc909be85fc0a037c94a826c6386b6c52f26cc5ac3435804b3e60fb435d87808.baseline",
+    "versionId": "20261107-042538-504748",
+    "positionReport": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\reports\\map-positions-20261107-042516-907159-573bd976.jsonl.gz",
+    "journalPath": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\drafts\\main-integration-20261107\\publication.json"
+  }
+}

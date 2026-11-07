@@ -1,0 +1,288 @@
+{
+  "Server-Data-Nwo/origin/main": {
+    "missing_in_canonical": [],
+    "different": {
+      "26976": {
+        "branch": [
+          {
+            "article": "a",
+            "name": "Pergaminho Úmido e Mofado"
+          },
+          [
+            [
+              "attribute",
+              {
+                "key": "weight",
+                "value": "40"
+              }
+            ],
+            [
+              "attribute",
+              {
+                "key": "description",
+                "value": "Mayu — estágio inicial de 150 Predators. Apar?ncia provis?ria para valida??o da miss?o."
+              }
+            ]
+          ]
+        ],
+        "canonical": [
+          {
+            "article": "a",
+            "name": "Pergaminho de Selamento Roubado"
+          },
+          [
+            [
+              "attribute",
+              {
+                "key": "weight",
+                "value": "40"
+              }
+            ],
+            [
+              "attribute",
+              {
+                "key": "description",
+                "value": "Um pergaminho de selamento roubado, recuperado para Mayu."
+              }
+            ]
+          ]
+        ]
+      },
+      "26977": {
+        "branch": [
+          {
+            "article": "a",
+            "name": "Pergaminho Renovado"
+          },
+          [
+            [
+              "attribute",
+              {
+                "key": "description",
+                "value": "Mayu — estágio de 100 Assassins. Apar?ncia provis?ria para valida??o da miss?o."
+              }
+            ],
+            [
+              "attribute",
+              {
+                "key": "weight",
+                "value": "30"
+              }
+            ]
+          ]
+        ],
+        "canonical": [
+          {
+            "article": "a",
+            "name": "Pergaminho de Selamento Renovado"
+          },
+          [
+            [
+              "attribute",
+              {
+                "key": "description",
+                "value": "O pergaminho renovado após absorver o chakra de 100 Assassins."
+              }
+            ],
+            [
+              "attribute",
+              {
+                "key": "weight",
+                "value": "30"
+              }
+            ]
+          ]
+        ]
+      },
+      "26978": {
+        "branch": [
+          {
+            "article": "a",
+            "name": "Pergaminho Restaurado"
+          },
+          [
+            [
+              "attribute",
+              {
+                "key": "description",
+                "value": "Mayu — estágio final de 250 Assassins. Apar?ncia provis?ria para valida??o da miss?o."
+              }
+            ],
+            [
+              "attribute",
+              {
+                "key": "weight",
+                "value": "30"
+              }
+            ]
+          ]
+        ],
+        "canonical": [
+          {
+            "article": "a",
+            "name": "Pergaminho de Selamento Restaurado"
+          },
+          [
+            [
+              "attribute",
+              {
+                "key": "description",
+                "value": "O pergaminho restaurado após absorver o chakra de 500 Assassins."
+              }
+            ],
+            [
+              "attribute",
+              {
+                "key": "weight",
+                "value": "30"
+              }
+            ]
+          ]
+        ]
+      }
+    }
+  },
+  "NWO-ASSETS/mob-estrelado-backup": {
+    "missing_in_canonical": [],
+    "different": {
+      "26976": {
+        "branch": [
+          {
+            "article": "a",
+            "name": "Pergaminho Úmido e Mofado"
+          },
+          [
+            [
+              "attribute",
+              {
+                "key": "weight",
+                "value": "40"
+              }
+            ],
+            [
+              "attribute",
+              {
+                "key": "description",
+                "value": "Mayu — estágio inicial de 150 Predators. Apar?ncia provis?ria para valida??o da miss?o."
+              }
+            ]
+          ]
+        ],
+        "canonical": [
+          {
+            "article": "a",
+            "name": "Pergaminho de Selamento Roubado"
+          },
+          [
+            [
+              "attribute",
+              {
+                "key": "weight",
+                "value": "40"
+              }
+            ],
+            [
+              "attribute",
+              {
+                "key": "description",
+                "value": "Um pergaminho de selamento roubado, recuperado para Mayu."
+              }
+            ]
+          ]
+        ]
+      },
+      "26977": {
+        "branch": [
+          {
+            "article": "a",
+            "name": "Pergaminho Renovado"
+          },
+          [
+            [
+              "attribute",
+              {
+                "key": "description",
+                "value": "Mayu — estágio de 100 Assassins. Apar?ncia provis?ria para valida??o da miss?o."
+              }
+            ],
+            [
+              "attribute",
+              {
+                "key": "weight",
+                "value": "30"
+              }
+            ]
+          ]
+        ],
+        "canonical": [
+          {
+            "article": "a",
+            "name": "Pergaminho de Selamento Renovado"
+          },
+          [
+            [
+              "attribute",
+              {
+                "key": "description",
+                "value": "O pergaminho renovado após absorver o chakra de 100 Assassins."
+              }
+            ],
+            [
+              "attribute",
+              {
+                "key": "weight",
+                "value": "30"
+              }
+            ]
+          ]
+        ]
+      },
+      "26978": {
+        "branch": [
+          {
+            "article": "a",
+            "name": "Pergaminho Restaurado"
+          },
+          [
+            [
+              "attribute",
+              {
+                "key": "description",
+                "value": "Mayu — estágio final de 250 Assassins. Apar?ncia provis?ria para valida??o da miss?o."
+              }
+            ],
+            [
+              "attribute",
+              {
+                "key": "weight",
+                "value": "30"
+              }
+            ]
+          ]
+        ],
+        "canonical": [
+          {
+            "article": "a",
+            "name": "Pergaminho de Selamento Restaurado"
+          },
+          [
+            [
+              "attribute",
+              {
+                "key": "description",
+                "value": "O pergaminho restaurado após absorver o chakra de 500 Assassins."
+              }
+            ],
+            [
+              "attribute",
+              {
+                "key": "weight",
+                "value": "30"
+              }
+            ]
+          ]
+        ]
+      }
+    }
+  }
+}

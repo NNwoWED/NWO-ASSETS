@@ -1700,8 +1700,11 @@ creatures: // outfits
     name-displacement: -65 -75
   2011 // owl
     hidecreatureinfo
-  2012 // tigre
+  2012 // tobirama e4 cut
+    async-outfit
+    hidecreatureinfo
     name-displacement: 0 0
+    outfit-displacement: 144 144
   2013
     name-displacement: -36 -24
     directional-offset:

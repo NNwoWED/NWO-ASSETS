@@ -1,0 +1,195 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "profile": {
+    "key": "tibia-860-v2-custom-extended",
+    "client_version": 860,
+    "label": "Tibia 8.60 v2 customizado com features OTFI",
+    "dat_signature": "0x4C2C7993",
+    "spr_signature": "0x4C220594",
+    "metadata_reader": 5,
+    "otb_version_hint": "8.60"
+  },
+  "category": "items",
+  "id_kind": "server",
+  "requested_ids": [
+    26976,
+    26977,
+    26978,
+    27081
+  ],
+  "output_dir": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\development-feedback-20261107",
+  "exported_count": 4,
+  "exported": [
+    {
+      "requested_id": 26976,
+      "client_id": 26091,
+      "server_ids": [
+        26976
+      ],
+      "name": "Pergaminho Úmido e Mofado",
+      "group_index": 0,
+      "width": 32,
+      "height": 800,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 25,
+      "sprite_ids": [
+        306286,
+        306287,
+        306288,
+        306289,
+        306290,
+        306291,
+        306292,
+        306293,
+        306294,
+        306295,
+        306296,
+        306297,
+        306298,
+        306299,
+        306300,
+        306301,
+        306302,
+        306303,
+        306304,
+        306305,
+        306306,
+        306307,
+        306308,
+        306309,
+        306310
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\development-feedback-20261107\\server-26976_client-26091_pergaminho-umido-e-mofado.png",
+      "size": 3888,
+      "sha256": "C452251B37AAC2C0CF10D0B851445BA000FB1B5A21611FC958F9D677EB093E28"
+    },
+    {
+      "requested_id": 26977,
+      "client_id": 26092,
+      "server_ids": [
+        26977
+      ],
+      "name": "Pergaminho Renovado",
+      "group_index": 0,
+      "width": 32,
+      "height": 800,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 25,
+      "sprite_ids": [
+        306311,
+        306312,
+        306313,
+        306314,
+        306315,
+        306316,
+        306317,
+        306318,
+        306319,
+        306320,
+        306321,
+        306322,
+        306323,
+        306324,
+        306325,
+        306326,
+        306327,
+        306328,
+        306329,
+        306330,
+        306331,
+        306332,
+        306333,
+        306334,
+        306335
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\development-feedback-20261107\\server-26977_client-26092_pergaminho-renovado.png",
+      "size": 3814,
+      "sha256": "8032A77DC9C71E6DD2339E9BD0268D888791B56EF1DC9587B97C63AB6E75532A"
+    },
+    {
+      "requested_id": 26978,
+      "client_id": 26093,
+      "server_ids": [
+        26978
+      ],
+      "name": "Pergaminho Restaurado",
+      "group_index": 0,
+      "width": 32,
+      "height": 800,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 25,
+      "sprite_ids": [
+        306336,
+        306337,
+        306338,
+        306339,
+        306340,
+        306341,
+        306342,
+        306343,
+        306344,
+        306345,
+        306346,
+        306347,
+        306348,
+        306349,
+        306350,
+        306351,
+        306352,
+        306353,
+        306354,
+        306355,
+        306356,
+        306357,
+        306358,
+        306359,
+        306360
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\development-feedback-20261107\\server-26978_client-26093_pergaminho-restaurado.png",
+      "size": 3810,
+      "sha256": "1C7E60E1495018AC2F2D05F1683D71A57BE9CC376CD6D82AC9BD1DDC94B517FF"
+    },
+    {
+      "requested_id": 27081,
+      "client_id": 26196,
+      "server_ids": [
+        27081
+      ],
+      "name": "Baú Amaldiçoado",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        306285
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\development-feedback-20261107\\server-27081_client-26196_bau-amaldicoado.png",
+      "size": 567,
+      "sha256": "B3331440FE253F778418167C777D08BB5B689FE914193FB302AF631B514EDE70"
+    }
+  ],
+  "sources": {
+    "dat": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.dat",
+      "sha256": "70FDF122D5A4D527F2F3A42AA218BE528C0DF6A866DAF34D80DB67240B6CF0DF"
+    },
+    "spr": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.spr",
+      "sha256": "ACF7CD039D27C551DCBDBE8B7B75B5531AE0A6EFE05060C51DB048EE6323C41B"
+    }
+  },
+  "passed": true
+}

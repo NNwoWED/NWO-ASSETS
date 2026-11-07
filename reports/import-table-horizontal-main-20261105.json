@@ -1,0 +1,130 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "manifest": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\table-horizontal-20261105\\import.csv",
+  "profile": "tibia-860-v2-custom-extended",
+  "version_backup": {
+    "tool_version": "0.8.2",
+    "version_id": "20261105-125351-307734",
+    "created_at": "2026-11-05T12:54:02.995422-03:00",
+    "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261105-125351-307734",
+    "rar_executable": "C:\\Program Files\\WinRAR\\Rar.exe",
+    "sources": [
+      {
+        "path": "assets/860/.gitattributes",
+        "size": 43,
+        "sha256": "D5636A3257287440945C5E017581545E5B0A3E2FDDDAE7C5EF8D90FF4DF3D32A"
+      },
+      {
+        "path": "assets/860/Tibia.dat",
+        "size": 4657659,
+        "sha256": "5C5FDCE881F32AD74B5DC64764673BF442A8FF94349EAD5B934FE978ED83D8A5"
+      },
+      {
+        "path": "assets/860/Tibia.otfi",
+        "size": 185,
+        "sha256": "7743548835944BC799CB871A4E5DEF84F7AF76815031871B9CE74B5EC0E8ADD3"
+      },
+      {
+        "path": "assets/860/Tibia.spr",
+        "size": 518786332,
+        "sha256": "BD6E7E37968119EC33B882D81E86006B826D6031BAB2AD4F85226CD20004F486"
+      },
+      {
+        "path": "assets/items/force use.txt",
+        "size": 419,
+        "sha256": "BCB478FDF3F45ECA8D172AFD7A17D3F8CD520924EE0894752452B8FDC8F71959"
+      },
+      {
+        "path": "assets/items/items.otb",
+        "size": 1074072,
+        "sha256": "15FB34F262418368B1F09BF751EB1C853D9256C9CDF00BFF8D28F02A39909F62"
+      },
+      {
+        "path": "assets/world/mapanovo.otbm",
+        "size": 85960822,
+        "sha256": "E871E87830F374D67F745D2FF8799882DED903D7AEFF896F67DA5C6A48119D0E"
+      }
+    ],
+    "archives": {
+      "860": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261105-125351-307734\\860.rar",
+        "size": 92540125,
+        "sha256": "68F658E3C7D28A876A11AC768E46506E4149D8A05CD54A8811FE13CFF2E559AF"
+      },
+      "items": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261105-125351-307734\\items.rar",
+        "size": 514961,
+        "sha256": "6B7F7EE7A92D8B638DD92EACA99D5FBEFAFAAF075BE287E75D013EF7FA53DE2E"
+      },
+      "world": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261105-125351-307734\\world.zip",
+        "size": 20491217,
+        "sha256": "EDC678FFF3DE16293AE181900898FADF6E2A1FC6767DC3A115750107B4A1CE7D"
+      }
+    },
+    "items_xml_excluded": true,
+    "world_entries": [
+      "mapanovo.otbm"
+    ],
+    "passed": true
+  },
+  "sprite_hash_gate": {
+    "sample_count": 64,
+    "mismatch_count": 0,
+    "mismatches": [],
+    "passed": true
+  },
+  "item_count": 1,
+  "new_sprite_count": 4,
+  "sprite_id_range": [
+    302145,
+    302148
+  ],
+  "items": [
+    {
+      "sequence": 1,
+      "client_id": 18948,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\table-horizontal-20261105\\table-left-wide.png",
+      "file_sha256": "468B0EF479BE286E5787BDF1D2FD95C33F416A611BB70DA3FC658C3430BB1376",
+      "pixels_sha256": "524FD4E383AE59FCAD764C67E16DE5A4663B32EED47921C112D9E71C1DD99BFF",
+      "image_width": 64,
+      "image_height": 64,
+      "width_tiles": 2,
+      "height_tiles": 2,
+      "frames": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_ids": [
+        302145,
+        302146,
+        302147,
+        302148
+      ],
+      "sprite_hash": "866FD774D21505B072F589E3822BCCB0",
+      "layout_preserved": false,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1
+    }
+  ],
+  "otb_nodes_updated": {
+    "18948": 1
+  },
+  "transaction_committed": true,
+  "output_hashes": {
+    "dat": "62D5A672E65432629ECCFA59B399545A3CA7475600E06453BAB2415BBD3932A3",
+    "spr": "0050D0F0978E4155D616BA8D87239D45F2D9E098AFEA3D3FBEFA0D12EDA17B64",
+    "otb": "7FAA65C6C99DA05E6378BC22C980DCACA8FF203254A5D5E509C44A7CD246307B"
+  },
+  "dat_non_targets_preserved": true,
+  "old_sprite_payload_preserved": true,
+  "new_sprite_pixels_verified": true,
+  "layout_preserved_client_ids": [],
+  "untouched_files_preserved": true,
+  "map_byte_equal": true,
+  "final_validation_passed": true,
+  "warnings": [],
+  "errors": [],
+  "passed": true
+}

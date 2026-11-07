@@ -1,0 +1,137 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "manifest": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\cursed-inventory-chest-20261107\\manifest.csv",
+  "item_count": 1,
+  "target_server_id_range": [
+    27081,
+    27081
+  ],
+  "target_client_id_range": [
+    26196,
+    26196
+  ],
+  "new_sprite_count": 1,
+  "sprite_id_range": [
+    306285,
+    306285
+  ],
+  "items": [
+    {
+      "sequence": 1,
+      "source_server_id": 26969,
+      "source_client_id": 26084,
+      "target_server_id": 27081,
+      "target_client_id": 26196,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\cursed-inventory-chest-20261107\\cursed-chest.png",
+      "source_sha256": "B3331440FE253F778418167C777D08BB5B689FE914193FB302AF631B514EDE70",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        306285,
+        306285
+      ],
+      "sprite_hash": "444EE289427F9990F0476B4C13A20E39"
+    }
+  ],
+  "xml": {
+    "source_definitions": 1,
+    "target_definitions_written": 1,
+    "target_definitions_already_exact": 0,
+    "target_ids": [
+      27081
+    ]
+  },
+  "map_scan": {
+    "tiles_scanned": 8300115,
+    "item_nodes_scanned": 2250181
+  },
+  "version_backup": {
+    "tool_version": "0.8.2",
+    "version_id": "20261107-032006-836302",
+    "created_at": "2026-11-07T03:20:20.650588-03:00",
+    "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261107-032006-836302",
+    "rar_executable": "C:\\Program Files\\WinRAR\\Rar.exe",
+    "sources": [
+      {
+        "path": "assets/860/.gitattributes",
+        "size": 43,
+        "sha256": "D5636A3257287440945C5E017581545E5B0A3E2FDDDAE7C5EF8D90FF4DF3D32A"
+      },
+      {
+        "path": "assets/860/Tibia.dat",
+        "size": 4674194,
+        "sha256": "637D87282617E314F2B58E1E351714ADA7B4B82DCA181AAB18598FD3118C618E"
+      },
+      {
+        "path": "assets/860/Tibia.otfi",
+        "size": 185,
+        "sha256": "7743548835944BC799CB871A4E5DEF84F7AF76815031871B9CE74B5EC0E8ADD3"
+      },
+      {
+        "path": "assets/860/Tibia.spr",
+        "size": 529252336,
+        "sha256": "01065D0DBCB023E0F04C3A89B8B14F7F1058F7DCD66A60C1E2B387C25AE28EE3"
+      },
+      {
+        "path": "assets/items/force use.txt",
+        "size": 419,
+        "sha256": "BCB478FDF3F45ECA8D172AFD7A17D3F8CD520924EE0894752452B8FDC8F71959"
+      },
+      {
+        "path": "assets/items/items.otb",
+        "size": 1074071,
+        "sha256": "7FAA65C6C99DA05E6378BC22C980DCACA8FF203254A5D5E509C44A7CD246307B"
+      },
+      {
+        "path": "assets/world/mapanovo.otbm",
+        "size": 85960822,
+        "sha256": "E871E87830F374D67F745D2FF8799882DED903D7AEFF896F67DA5C6A48119D0E"
+      }
+    ],
+    "archives": {
+      "860": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261107-032006-836302\\860.rar",
+        "size": 93478431,
+        "sha256": "33A6E853C42B9546B4464EC1F8DE1AC5E307B4D41FAF076A78D0117A116D93F8"
+      },
+      "items": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261107-032006-836302\\items.rar",
+        "size": 514961,
+        "sha256": "77932D5448AA41D7F2EF821A2EB85A61E41561294F82BD502FC830A70858FA98"
+      },
+      "world": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261107-032006-836302\\world.zip",
+        "size": 20491217,
+        "sha256": "EDC678FFF3DE16293AE181900898FADF6E2A1FC6767DC3A115750107B4A1CE7D"
+      }
+    },
+    "items_xml_excluded": true,
+    "world_entries": [
+      "mapanovo.otbm"
+    ],
+    "passed": true
+  },
+  "transaction_committed": true,
+  "old_dat_records_preserved": true,
+  "old_otb_nodes_preserved": true,
+  "old_sprite_payload_preserved": true,
+  "new_sprite_pixels_verified": true,
+  "final_validation_passed": true,
+  "warnings": [],
+  "errors": [],
+  "passed": true
+}

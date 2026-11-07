@@ -1,0 +1,300 @@
+{
+  "tool_version": "0.8.2",
+  "generated_at": "2026-11-05T23:20:10.428319-03:00",
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "dry_run": false,
+  "validation": {
+    "passed": true,
+    "errors": [],
+    "warnings": []
+  },
+  "copies": [
+    {
+      "name": "items.otb",
+      "source": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\items\\items.otb",
+      "target": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\Server-Data-Nwo\\data\\items\\items.otb",
+      "size": 1074071,
+      "sha256": "7FAA65C6C99DA05E6378BC22C980DCACA8FF203254A5D5E509C44A7CD246307B",
+      "already_equal": true
+    },
+    {
+      "name": "items.xml",
+      "source": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\items\\items.xml",
+      "target": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\Server-Data-Nwo\\data\\items\\items.xml",
+      "size": 884218,
+      "sha256": "B57E2A22EE664ED904FBABBD661DBCC76088D64F3F36B725FB1F13AB0A53E313",
+      "already_equal": true
+    },
+    {
+      "name": "server/mapanovo.otbm",
+      "source": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\world\\mapanovo.otbm",
+      "target": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\Server-Data-Nwo\\data\\world\\mapanovo.otbm",
+      "size": 85960822,
+      "sha256": "E871E87830F374D67F745D2FF8799882DED903D7AEFF896F67DA5C6A48119D0E",
+      "already_equal": true
+    },
+    {
+      "name": "rme/items.otb",
+      "source": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\items\\items.otb",
+      "target": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\RME 5.0\\Editor\\data\\860\\items.otb",
+      "size": 1074071,
+      "sha256": "7FAA65C6C99DA05E6378BC22C980DCACA8FF203254A5D5E509C44A7CD246307B",
+      "already_equal": true
+    },
+    {
+      "name": "rme/items.xml",
+      "source": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\items\\items.xml",
+      "target": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\RME 5.0\\Editor\\data\\860\\items.xml",
+      "size": 884218,
+      "sha256": "B57E2A22EE664ED904FBABBD661DBCC76088D64F3F36B725FB1F13AB0A53E313",
+      "already_equal": true
+    },
+    {
+      "name": "Tibia.dat",
+      "source": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.dat",
+      "target": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\nwo-otclient-mehah-4.0\\data\\things\\860\\Tibia.dat",
+      "size": 4673707,
+      "sha256": "9323520B4B41264D232BF7D5DCBD41CAA6F8472B6DC7D31DE520E2386C781439",
+      "already_equal": false
+    },
+    {
+      "name": "Tibia.spr",
+      "source": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.spr",
+      "target": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\nwo-otclient-mehah-4.0\\data\\things\\860\\Tibia.spr",
+      "size": 529029789,
+      "sha256": "1A5EF2FBE354A719CA851F5D7FA7B0A9D038B1AF658A5B7EA2926E17C6C17F24",
+      "already_equal": false
+    },
+    {
+      "name": "mobile/Tibia.dat",
+      "source": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.dat",
+      "target": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\nwo-mobile\\client\\data\\things\\860\\Tibia.dat",
+      "size": 4673707,
+      "sha256": "9323520B4B41264D232BF7D5DCBD41CAA6F8472B6DC7D31DE520E2386C781439",
+      "already_equal": false
+    },
+    {
+      "name": "mobile/Tibia.spr",
+      "source": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.spr",
+      "target": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\nwo-mobile\\client\\data\\things\\860\\Tibia.spr",
+      "size": 529029789,
+      "sha256": "1A5EF2FBE354A719CA851F5D7FA7B0A9D038B1AF658A5B7EA2926E17C6C17F24",
+      "already_equal": false
+    },
+    {
+      "name": "mobile/Tibia.otfi",
+      "source": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.otfi",
+      "target": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\nwo-mobile\\client\\data\\things\\860\\Tibia.otfi",
+      "size": 185,
+      "sha256": "7743548835944BC799CB871A4E5DEF84F7AF76815031871B9CE74B5EC0E8ADD3",
+      "already_equal": true
+    },
+    {
+      "name": "studio/items.otb",
+      "source": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\items\\items.otb",
+      "target": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-STUDIO\\assets\\items\\items.otb",
+      "size": 1074071,
+      "sha256": "7FAA65C6C99DA05E6378BC22C980DCACA8FF203254A5D5E509C44A7CD246307B",
+      "already_equal": true
+    },
+    {
+      "name": "studio/items.xml",
+      "source": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\items\\items.xml",
+      "target": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-STUDIO\\assets\\items\\items.xml",
+      "size": 884218,
+      "sha256": "B57E2A22EE664ED904FBABBD661DBCC76088D64F3F36B725FB1F13AB0A53E313",
+      "already_equal": true
+    },
+    {
+      "name": "studio/Tibia.dat",
+      "source": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.dat",
+      "target": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-STUDIO\\assets\\things\\1098\\Tibia.dat",
+      "size": 4673707,
+      "sha256": "9323520B4B41264D232BF7D5DCBD41CAA6F8472B6DC7D31DE520E2386C781439",
+      "already_equal": false
+    },
+    {
+      "name": "studio/Tibia.spr",
+      "source": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.spr",
+      "target": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-STUDIO\\assets\\things\\1098\\Tibia.spr",
+      "size": 529029789,
+      "sha256": "1A5EF2FBE354A719CA851F5D7FA7B0A9D038B1AF658A5B7EA2926E17C6C17F24",
+      "already_equal": false
+    },
+    {
+      "name": "studio/Tibia.otfi",
+      "source": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.otfi",
+      "target": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-STUDIO\\assets\\things\\1098\\Tibia.otfi",
+      "size": 185,
+      "sha256": "7743548835944BC799CB871A4E5DEF84F7AF76815031871B9CE74B5EC0E8ADD3",
+      "already_equal": true
+    },
+    {
+      "name": "studio/mapanovo.otbm",
+      "source": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\world\\mapanovo.otbm",
+      "target": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-STUDIO\\assets\\world\\mapanovo.otbm",
+      "size": 85960822,
+      "sha256": "E871E87830F374D67F745D2FF8799882DED903D7AEFF896F67DA5C6A48119D0E",
+      "already_equal": true
+    },
+    {
+      "name": "metadata/items.otml",
+      "source": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\items.otml",
+      "target": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\nwo-otclient-mehah-4.0\\data\\things\\items.otml",
+      "size": 3304,
+      "sha256": "366ED92A34B647925FEB4C88A1C3C1B82E3D9FCA2B75C87EBF3C68B61283379A",
+      "already_equal": true
+    },
+    {
+      "name": "mobile/metadata/items.otml",
+      "source": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\items.otml",
+      "target": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\nwo-mobile\\client\\data\\things\\items.otml",
+      "size": 3304,
+      "sha256": "366ED92A34B647925FEB4C88A1C3C1B82E3D9FCA2B75C87EBF3C68B61283379A",
+      "already_equal": true
+    },
+    {
+      "name": "studio/metadata/items.otml",
+      "source": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\items.otml",
+      "target": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-STUDIO\\assets\\things\\items.otml",
+      "size": 3304,
+      "sha256": "366ED92A34B647925FEB4C88A1C3C1B82E3D9FCA2B75C87EBF3C68B61283379A",
+      "already_equal": true
+    },
+    {
+      "name": "metadata/creatures.otml",
+      "source": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\creatures.otml",
+      "target": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\nwo-otclient-mehah-4.0\\data\\things\\creatures.otml",
+      "size": 45031,
+      "sha256": "4D2CB130A4764F0C849E89C48AEAC2CFD7F45FFEFC8FD268A96D7BEF87A23383",
+      "already_equal": false
+    },
+    {
+      "name": "mobile/metadata/creatures.otml",
+      "source": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\creatures.otml",
+      "target": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\nwo-mobile\\client\\data\\things\\creatures.otml",
+      "size": 45031,
+      "sha256": "4D2CB130A4764F0C849E89C48AEAC2CFD7F45FFEFC8FD268A96D7BEF87A23383",
+      "already_equal": false
+    },
+    {
+      "name": "studio/metadata/creatures.otml",
+      "source": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\creatures.otml",
+      "target": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-STUDIO\\assets\\things\\creatures.otml",
+      "size": 45031,
+      "sha256": "4D2CB130A4764F0C849E89C48AEAC2CFD7F45FFEFC8FD268A96D7BEF87A23383",
+      "already_equal": false
+    },
+    {
+      "name": "metadata/effects.otml",
+      "source": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\effects.otml",
+      "target": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\nwo-otclient-mehah-4.0\\data\\things\\effects.otml",
+      "size": 70989,
+      "sha256": "5A61DB1722E357ED947980391061A41B9EA5BD6DD79F7B3072B077931D3C4AB6",
+      "already_equal": true
+    },
+    {
+      "name": "mobile/metadata/effects.otml",
+      "source": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\effects.otml",
+      "target": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\nwo-mobile\\client\\data\\things\\effects.otml",
+      "size": 70989,
+      "sha256": "5A61DB1722E357ED947980391061A41B9EA5BD6DD79F7B3072B077931D3C4AB6",
+      "already_equal": true
+    },
+    {
+      "name": "studio/metadata/effects.otml",
+      "source": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\effects.otml",
+      "target": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-STUDIO\\assets\\things\\effects.otml",
+      "size": 70989,
+      "sha256": "5A61DB1722E357ED947980391061A41B9EA5BD6DD79F7B3072B077931D3C4AB6",
+      "already_equal": true
+    },
+    {
+      "name": "metadata/missiles.otml",
+      "source": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\missiles.otml",
+      "target": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\nwo-otclient-mehah-4.0\\data\\things\\missiles.otml",
+      "size": 1037,
+      "sha256": "8166C970DE415DA2B706EB189F869C7E9B333D64F675F55758F5A5BC808DA212",
+      "already_equal": true
+    },
+    {
+      "name": "mobile/metadata/missiles.otml",
+      "source": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\missiles.otml",
+      "target": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\nwo-mobile\\client\\data\\things\\missiles.otml",
+      "size": 1037,
+      "sha256": "8166C970DE415DA2B706EB189F869C7E9B333D64F675F55758F5A5BC808DA212",
+      "already_equal": true
+    },
+    {
+      "name": "studio/metadata/missiles.otml",
+      "source": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\missiles.otml",
+      "target": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-STUDIO\\assets\\things\\missiles.otml",
+      "size": 1037,
+      "sha256": "8166C970DE415DA2B706EB189F869C7E9B333D64F675F55758F5A5BC808DA212",
+      "already_equal": true
+    },
+    {
+      "name": "metadata/things.otml",
+      "source": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\things.otml",
+      "target": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\nwo-otclient-mehah-4.0\\data\\things\\things.otml",
+      "size": 96800,
+      "sha256": "B29CDBA777B5151AC8BFDD1A873C318407842BAB27B2D031AC232FDB7589F8F3",
+      "already_equal": false
+    },
+    {
+      "name": "mobile/metadata/things.otml",
+      "source": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\things.otml",
+      "target": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\nwo-mobile\\client\\data\\things\\things.otml",
+      "size": 96800,
+      "sha256": "B29CDBA777B5151AC8BFDD1A873C318407842BAB27B2D031AC232FDB7589F8F3",
+      "already_equal": false
+    },
+    {
+      "name": "studio/metadata/things.otml",
+      "source": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\things.otml",
+      "target": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-STUDIO\\assets\\things\\things.otml",
+      "size": 96800,
+      "sha256": "B29CDBA777B5151AC8BFDD1A873C318407842BAB27B2D031AC232FDB7589F8F3",
+      "already_equal": false
+    }
+  ],
+  "archive": {
+    "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\nwo-otclient-mehah-4.0\\data\\things\\860.rar",
+    "size": 93403892,
+    "sha256": "C7E21024BA2BDC274E3F528E9984F5E3780C54295CC986EC99F41C6855E2F124",
+    "entries": [
+      "860",
+      "860\\.gitattributes",
+      "860\\tibia.dat",
+      "860\\tibia.otfi",
+      "860\\tibia.spr"
+    ],
+    "rar_executable": "C:\\Program Files\\WinRAR\\Rar.exe"
+  },
+  "studio_archives": {
+    "things": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-STUDIO\\assets\\things\\1098.rar",
+      "size": 93403892,
+      "sha256": "C7E21024BA2BDC274E3F528E9984F5E3780C54295CC986EC99F41C6855E2F124",
+      "entries": [
+        "860",
+        "860\\.gitattributes",
+        "860\\tibia.dat",
+        "860\\tibia.otfi",
+        "860\\tibia.spr"
+      ],
+      "rar_executable": "C:\\Program Files\\WinRAR\\Rar.exe"
+    },
+    "world": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-STUDIO\\assets\\world\\mapanovo.rar",
+      "size": 12072736,
+      "sha256": "700B65C828E1D57305787F559074089277878A7837DE9248B52098E18AA27D20",
+      "entries": [
+        "mapanovo.otbm"
+      ],
+      "rar_executable": "C:\\Program Files\\WinRAR\\Rar.exe"
+    }
+  },
+  "passed": true,
+  "changed": true
+}

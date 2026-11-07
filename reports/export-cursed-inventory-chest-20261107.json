@@ -1,0 +1,54 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "profile": {
+    "key": "tibia-860-v2-custom-extended",
+    "client_version": 860,
+    "label": "Tibia 8.60 v2 customizado com features OTFI",
+    "dat_signature": "0x4C2C7993",
+    "spr_signature": "0x4C220594",
+    "metadata_reader": 5,
+    "otb_version_hint": "8.60"
+  },
+  "category": "items",
+  "id_kind": "client",
+  "requested_ids": [
+    24091
+  ],
+  "output_dir": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\cursed-inventory-chest-20261107",
+  "exported_count": 1,
+  "exported": [
+    {
+      "requested_id": 24091,
+      "client_id": 24091,
+      "server_ids": [
+        24976
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        212300
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\cursed-inventory-chest-20261107\\client-24091_server-24976.png",
+      "size": 567,
+      "sha256": "B3331440FE253F778418167C777D08BB5B689FE914193FB302AF631B514EDE70"
+    }
+  ],
+  "sources": {
+    "dat": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.dat",
+      "sha256": "637D87282617E314F2B58E1E351714ADA7B4B82DCA181AAB18598FD3118C618E"
+    },
+    "spr": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.spr",
+      "sha256": "01065D0DBCB023E0F04C3A89B8B14F7F1058F7DCD66A60C1E2B387C25AE28EE3"
+    }
+  },
+  "passed": true
+}

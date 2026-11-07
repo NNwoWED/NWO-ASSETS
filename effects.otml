@@ -703,8 +703,7 @@ effects:
     isLoop
   291:
     opacity: 1.0
-    effect-displacement: -8 -8
-    isLoop
+    effect-displacement: 16 0
   292:
     opacity: 1.0
     effect-displacement: -8 -8
@@ -3532,6 +3531,20 @@ effects:
     opacity: 1.0
   1476: // zabuza e3 desaparecendo oni
     opacity: 1.0
+  1477: // tobirama e4 inicio
+    opacity: 1.0
+    effect-displacement: 128 128
+  1478: // tobirama e4 loop
+    opacity: 1.0
+    effect-displacement: 128 128
+  1479: // tobirama e4 cortes
+    opacity: 1.0
+    effect-displacement: 128 128
+  1480: // tobirama e4 final
+    opacity: 1.0
+    effect-displacement: 128 128
+  1482: // tobirama e3
+    effect-displacement: 111 111
   1839:
     opacity: 0.8
   1840:
@@ -3610,6 +3623,9 @@ effects:
   2065:
     opacity: 0.8
     effect-displacement: 32 32
+  2066:
+    opacity: 1.0
+    effect-displacement: 16 0
   2077:
     opacity: 1.0
   2078:

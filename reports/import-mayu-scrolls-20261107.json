@@ -1,0 +1,247 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "manifest": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\mayu-scrolls-20261107\\manifest.csv",
+  "profile": "tibia-860-v2-custom-extended",
+  "version_backup": {
+    "tool_version": "0.8.2",
+    "version_id": "20261107-033617-976946",
+    "created_at": "2026-11-07T03:36:33.884653-03:00",
+    "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261107-033617-976946",
+    "rar_executable": "C:\\Program Files\\WinRAR\\Rar.exe",
+    "sources": [
+      {
+        "path": "assets/860/.gitattributes",
+        "size": 43,
+        "sha256": "D5636A3257287440945C5E017581545E5B0A3E2FDDDAE7C5EF8D90FF4DF3D32A"
+      },
+      {
+        "path": "assets/860/Tibia.dat",
+        "size": 4674208,
+        "sha256": "18960006FF3A4941D8B287E314F16FCF8649764727BDDDC7A366F4FD0690954C"
+      },
+      {
+        "path": "assets/860/Tibia.otfi",
+        "size": 185,
+        "sha256": "7743548835944BC799CB871A4E5DEF84F7AF76815031871B9CE74B5EC0E8ADD3"
+      },
+      {
+        "path": "assets/860/Tibia.spr",
+        "size": 529255297,
+        "sha256": "06779205AE94942E6D621D64ECB3CDBE93F2CD6F98E8C9F68E00A30F60614F57"
+      },
+      {
+        "path": "assets/items/force use.txt",
+        "size": 419,
+        "sha256": "BCB478FDF3F45ECA8D172AFD7A17D3F8CD520924EE0894752452B8FDC8F71959"
+      },
+      {
+        "path": "assets/items/items.otb",
+        "size": 1074107,
+        "sha256": "7F2BD3D437F553193478194527A7007267704FA80E681967EFD31F4B6B7EF448"
+      },
+      {
+        "path": "assets/world/mapanovo.otbm",
+        "size": 85960822,
+        "sha256": "E871E87830F374D67F745D2FF8799882DED903D7AEFF896F67DA5C6A48119D0E"
+      }
+    ],
+    "archives": {
+      "860": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261107-033617-976946\\860.rar",
+        "size": 93443782,
+        "sha256": "4A78AD3D42BC8AB2DE90A8FA0D76F82B79933FF66422A3F6F5408DFE6A107A32"
+      },
+      "items": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261107-033617-976946\\items.rar",
+        "size": 514963,
+        "sha256": "ED36C468B660D47F8CC2AF12FE6DD90642AE2ABFA9D06972CB348462C2CA8ADF"
+      },
+      "world": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261107-033617-976946\\world.zip",
+        "size": 20491217,
+        "sha256": "EDC678FFF3DE16293AE181900898FADF6E2A1FC6767DC3A115750107B4A1CE7D"
+      }
+    },
+    "items_xml_excluded": true,
+    "world_entries": [
+      "mapanovo.otbm"
+    ],
+    "passed": true
+  },
+  "sprite_hash_gate": {
+    "sample_count": 64,
+    "mismatch_count": 0,
+    "mismatches": [],
+    "passed": true
+  },
+  "item_count": 3,
+  "new_sprite_count": 75,
+  "sprite_id_range": [
+    306286,
+    306360
+  ],
+  "items": [
+    {
+      "sequence": 1,
+      "client_id": 26091,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\pergaminhos-verde.png",
+      "file_sha256": "C6BFF6B2A710D6A3FEA74837EF8508933E5ABCB440275C943EDD6AEC400530C4",
+      "pixels_sha256": "EBE3A3910288B3C4B6EA740C29D1130B577DE69A625C8DB94869F41FB7150619",
+      "image_width": 32,
+      "image_height": 800,
+      "width_tiles": 1,
+      "height_tiles": 1,
+      "frames": 25,
+      "frame_duration_ms": 100,
+      "animation_async": false,
+      "sprite_ids": [
+        306286,
+        306287,
+        306288,
+        306289,
+        306290,
+        306291,
+        306292,
+        306293,
+        306294,
+        306295,
+        306296,
+        306297,
+        306298,
+        306299,
+        306300,
+        306301,
+        306302,
+        306303,
+        306304,
+        306305,
+        306306,
+        306307,
+        306308,
+        306309,
+        306310
+      ],
+      "sprite_hash": "ADF7F62B54075A0BACD15522FA14AB4D",
+      "layout_preserved": false,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1
+    },
+    {
+      "sequence": 2,
+      "client_id": 26092,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\pergaminhos-roxo.png",
+      "file_sha256": "8B0743A107FAEDB46F7665FAE034DAD79B23E4F09A2973AA0AB466E8E96CB842",
+      "pixels_sha256": "E9C616967D1B4D7D75688EFD52412D788E43F00497B8864407E78F28B44A7E9E",
+      "image_width": 32,
+      "image_height": 800,
+      "width_tiles": 1,
+      "height_tiles": 1,
+      "frames": 25,
+      "frame_duration_ms": 100,
+      "animation_async": false,
+      "sprite_ids": [
+        306311,
+        306312,
+        306313,
+        306314,
+        306315,
+        306316,
+        306317,
+        306318,
+        306319,
+        306320,
+        306321,
+        306322,
+        306323,
+        306324,
+        306325,
+        306326,
+        306327,
+        306328,
+        306329,
+        306330,
+        306331,
+        306332,
+        306333,
+        306334,
+        306335
+      ],
+      "sprite_hash": "10578DF419B0538F703739A4FF7578CA",
+      "layout_preserved": false,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1
+    },
+    {
+      "sequence": 3,
+      "client_id": 26093,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\pergaminhos-cobre.png",
+      "file_sha256": "772A1E8D59EC341F4C1F6F46C87CD2FA6C57D3B456435C9C8FCB83F569D5F2A1",
+      "pixels_sha256": "B1755DBAD54D67425F7E917D6DEF2B4414E6C29F72454B149756DE30AC8724BA",
+      "image_width": 32,
+      "image_height": 800,
+      "width_tiles": 1,
+      "height_tiles": 1,
+      "frames": 25,
+      "frame_duration_ms": 100,
+      "animation_async": false,
+      "sprite_ids": [
+        306336,
+        306337,
+        306338,
+        306339,
+        306340,
+        306341,
+        306342,
+        306343,
+        306344,
+        306345,
+        306346,
+        306347,
+        306348,
+        306349,
+        306350,
+        306351,
+        306352,
+        306353,
+        306354,
+        306355,
+        306356,
+        306357,
+        306358,
+        306359,
+        306360
+      ],
+      "sprite_hash": "309E3F7CE9B031E47A4F15F63808CBB9",
+      "layout_preserved": false,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1
+    }
+  ],
+  "otb_nodes_updated": {
+    "26091": 1,
+    "26092": 1,
+    "26093": 1
+  },
+  "transaction_committed": true,
+  "output_hashes": {
+    "dat": "70FDF122D5A4D527F2F3A42AA218BE528C0DF6A866DAF34D80DB67240B6CF0DF",
+    "spr": "ACF7CD039D27C551DCBDBE8B7B75B5531AE0A6EFE05060C51DB048EE6323C41B",
+    "otb": "095FAA2577E32AE5790D871B12FAB0F71B5270E1360AAEF2A838F16A5F1D35FC"
+  },
+  "dat_non_targets_preserved": true,
+  "old_sprite_payload_preserved": true,
+  "new_sprite_pixels_verified": true,
+  "layout_preserved_client_ids": [],
+  "untouched_files_preserved": true,
+  "map_byte_equal": true,
+  "final_validation_passed": true,
+  "warnings": [],
+  "errors": [],
+  "passed": true
+}

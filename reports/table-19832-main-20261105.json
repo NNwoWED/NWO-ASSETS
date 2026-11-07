@@ -1,0 +1,57 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "profile": {
+    "key": "tibia-860-v2-custom-extended",
+    "client_version": 860,
+    "label": "Tibia 8.60 v2 customizado com features OTFI",
+    "dat_signature": "0x4C2C7993",
+    "spr_signature": "0x4C220594",
+    "metadata_reader": 5,
+    "otb_version_hint": "8.60"
+  },
+  "category": "items",
+  "id_kind": "server",
+  "requested_ids": [
+    19832
+  ],
+  "output_dir": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\table-19832-main-20261105",
+  "exported_count": 1,
+  "exported": [
+    {
+      "requested_id": 19832,
+      "client_id": 18947,
+      "server_ids": [
+        19832
+      ],
+      "name": "Mesa de Madeira Horizontal",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        254535,
+        254536,
+        254537,
+        254538
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\table-19832-main-20261105\\server-19832_client-18947_mesa-de-madeira-horizontal.png",
+      "size": 499,
+      "sha256": "8EE79BA7AD5028FBDD0A03EC6E32E9C9FF1FF21ED840A5659B37DC3BAE4CF172"
+    }
+  ],
+  "sources": {
+    "dat": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.dat",
+      "sha256": "5C5FDCE881F32AD74B5DC64764673BF442A8FF94349EAD5B934FE978ED83D8A5"
+    },
+    "spr": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.spr",
+      "sha256": "BD6E7E37968119EC33B882D81E86006B826D6031BAB2AD4F85226CD20004F486"
+    }
+  },
+  "passed": true
+}

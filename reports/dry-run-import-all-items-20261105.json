@@ -1,0 +1,1087 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "manifest": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\import-all-items-20261105.csv",
+  "item_count": 34,
+  "target_server_id_range": [
+    27047,
+    27080
+  ],
+  "target_client_id_range": [
+    26162,
+    26195
+  ],
+  "new_sprite_count": 90,
+  "sprite_id_range": [
+    301549,
+    301638
+  ],
+  "items": [
+    {
+      "sequence": 1,
+      "source_server_id": 24185,
+      "source_client_id": 23300,
+      "target_server_id": 27047,
+      "target_client_id": 26162,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\19-10bandana.png",
+      "source_sha256": "A172C47A096D89CEF6F07231F23644D0DB5B444403BFEFC2E257A07DBA5A1FB1",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        301549,
+        301549
+      ],
+      "sprite_hash": "5B1D83AE1F2D7EE311579EBC8ADA1366"
+    },
+    {
+      "sequence": 2,
+      "source_server_id": 24186,
+      "source_client_id": 23301,
+      "target_server_id": 27048,
+      "target_client_id": 26163,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\19-102armor.png",
+      "source_sha256": "05B98DB2C4ADC6661213E06AEFB5D42E7B558300A01DFFD9C9433D0C6A205B39",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        301550,
+        301550
+      ],
+      "sprite_hash": "BEC2CA218552489F70F22714583D517F"
+    },
+    {
+      "sequence": 3,
+      "source_server_id": 24187,
+      "source_client_id": 23302,
+      "target_server_id": 27049,
+      "target_client_id": 26164,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\19-103legs.png",
+      "source_sha256": "DC07FB595B0D6AB79BF03559B7B21103C21874B477BECA4159A74A6B1469E5D9",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        301551,
+        301551
+      ],
+      "sprite_hash": "0C72AB300B83A4CE15BD75AE4EB042C0"
+    },
+    {
+      "sequence": 4,
+      "source_server_id": 24188,
+      "source_client_id": 23303,
+      "target_server_id": 27050,
+      "target_client_id": 26165,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\19-104boots.png",
+      "source_sha256": "B80674A64EE19DF00493B15B2EB0C58CC07420DFB28CA9B1702BDE881248265D",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        301552,
+        301552
+      ],
+      "sprite_hash": "10BD5251BBE5EAED5EA832C388663288"
+    },
+    {
+      "sequence": 5,
+      "source_server_id": 24192,
+      "source_client_id": 23307,
+      "target_server_id": 27051,
+      "target_client_id": 26166,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\19-105glove.png",
+      "source_sha256": "AAD275101DA11D20F141DA26EDF8DA453EBF49A7BA53EBAAC9D01F39EC5CC23C",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        301553,
+        301553
+      ],
+      "sprite_hash": "C6442E1A372EEB3CEC83FEDADC201F69"
+    },
+    {
+      "sequence": 6,
+      "source_server_id": 24188,
+      "source_client_id": 23303,
+      "target_server_id": 27052,
+      "target_client_id": 26167,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\19-106boots.png",
+      "source_sha256": "61159E2333BCE10A4ECD866765F37BB1F97B119A5165D94CFE002F9F47430CF9",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        301554,
+        301554
+      ],
+      "sprite_hash": "E19857E617C2D1DD2DDBD7D5FFD54A58"
+    },
+    {
+      "sequence": 7,
+      "source_server_id": 24188,
+      "source_client_id": 23303,
+      "target_server_id": 27053,
+      "target_client_id": 26168,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\19-107boots.png",
+      "source_sha256": "E68573A7E4EE5CF386837AE100F53029DD825780A92DF58CEAC93D97FE963DD2",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        301555,
+        301555
+      ],
+      "sprite_hash": "BAE0E35A41674D6B4DB6B04E77691780"
+    },
+    {
+      "sequence": 8,
+      "source_server_id": 24187,
+      "source_client_id": 23302,
+      "target_server_id": 27054,
+      "target_client_id": 26169,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\19-108legs.png",
+      "source_sha256": "E64E0556712BF9F01C48A1EC4DAF3349F0A2EE1B5FDAA3C8E3A6B36923D0C273",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        301556,
+        301556
+      ],
+      "sprite_hash": "EB2D4B4D9A1C391FFFA8DB56B95AA283"
+    },
+    {
+      "sequence": 9,
+      "source_server_id": 24186,
+      "source_client_id": 23301,
+      "target_server_id": 27055,
+      "target_client_id": 26170,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\19-109cloth.png",
+      "source_sha256": "CC6F535C775A9BCF048BA8B4C381398E09014181E59C587285250D6429F341E3",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        301557,
+        301557
+      ],
+      "sprite_hash": "31B85DA5E7BD43CDD08EE0B73CA7791A"
+    },
+    {
+      "sequence": 10,
+      "source_server_id": 24185,
+      "source_client_id": 23300,
+      "target_server_id": 27056,
+      "target_client_id": 26171,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\19-110helmet.png",
+      "source_sha256": "FFDC5F158BE541114B4B8C816CE30136A4C195C3AB1A1B080919D854C6485DEC",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        301558,
+        301558
+      ],
+      "sprite_hash": "7C68D6CB0081C3184B395C78517D6E16"
+    },
+    {
+      "sequence": 11,
+      "source_server_id": 24192,
+      "source_client_id": 23307,
+      "target_server_id": 27057,
+      "target_client_id": 26172,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\19-111glove.png",
+      "source_sha256": "35D524A08DCCF33E38BB356550B7007F2B97210C991D1DAB3E2C1EF4EF65417B",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        301559,
+        301559
+      ],
+      "sprite_hash": "7A8873CC75CF6324E2F0DF53C53ED9C0"
+    },
+    {
+      "sequence": 12,
+      "source_server_id": 24187,
+      "source_client_id": 23302,
+      "target_server_id": 27058,
+      "target_client_id": 26173,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\19-112legs.png",
+      "source_sha256": "CB4F5002AC4D740F39A9091B1B2DEE02605AA38D69392F19F41EA30D33E9B3AD",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        301560,
+        301560
+      ],
+      "sprite_hash": "1CCAC3E52FCC82027A2B5B806F6C0954"
+    },
+    {
+      "sequence": 13,
+      "source_server_id": 24191,
+      "source_client_id": 23306,
+      "target_server_id": 27059,
+      "target_client_id": 26174,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\19-113ring.png",
+      "source_sha256": "E46B573ED1696B4C564D8DA859878914E98018349D5D3D0F290A9B0479004671",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        301561,
+        301561
+      ],
+      "sprite_hash": "47E1B42D15C8C1A5FFA99D789807A7C2"
+    },
+    {
+      "sequence": 14,
+      "source_server_id": 24191,
+      "source_client_id": 23306,
+      "target_server_id": 27060,
+      "target_client_id": 26175,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\19-114ring.png",
+      "source_sha256": "F88C63F1EA792CB14E637D5C36F55E93F7AA7FE933AE2CA2240561C69493D7FB",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        301562,
+        301562
+      ],
+      "sprite_hash": "A9D0328FF4834E67B1D797EBD72EF0D7"
+    },
+    {
+      "sequence": 15,
+      "source_server_id": 24191,
+      "source_client_id": 23306,
+      "target_server_id": 27061,
+      "target_client_id": 26176,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\19-115ring.png",
+      "source_sha256": "36C1027B9CAE8995DA36E051DA8FBD764647B301E72F43B3BA509EBAB386C0BB",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        301563,
+        301563
+      ],
+      "sprite_hash": "BFD2EDB9579F84486F2D255F9DB645CF"
+    },
+    {
+      "sequence": 16,
+      "source_server_id": 24185,
+      "source_client_id": 23300,
+      "target_server_id": 27062,
+      "target_client_id": 26177,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\19-116helmet.png",
+      "source_sha256": "311F4A018AC745B31E87B1C59B6451490C6A94CE20435F96DA89C75700EB99E8",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        301564,
+        301564
+      ],
+      "sprite_hash": "CCF5B4F438D4AC99B915138CD04675B9"
+    },
+    {
+      "sequence": 17,
+      "source_server_id": 24185,
+      "source_client_id": 23300,
+      "target_server_id": 27063,
+      "target_client_id": 26178,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\19-117helmet.png",
+      "source_sha256": "B6DD7867DA2EB3ACB4B06D94E9480D0E54D5D163E46717475B77607B3E43F4C5",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        301565,
+        301565
+      ],
+      "sprite_hash": "00A172B84CC77620FB6297512F2E2C87"
+    },
+    {
+      "sequence": 18,
+      "source_server_id": 24191,
+      "source_client_id": 23306,
+      "target_server_id": 27064,
+      "target_client_id": 26179,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\Anel Golem Estrelado ring.png",
+      "source_sha256": "812DE20ED2470E0F683EDEA92B1E939194463B3965CA17572A60A9C154DDCC22",
+      "image_size": [
+        32,
+        64
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 2,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": 100,
+      "animation_async": false,
+      "sprite_id_count": 2,
+      "sprite_id_range": [
+        301566,
+        301567
+      ],
+      "sprite_hash": "FABEF0381BEAD0BD7E7D0B90CEAF380E"
+    },
+    {
+      "sequence": 19,
+      "source_server_id": 25565,
+      "source_client_id": 24680,
+      "target_server_id": 27065,
+      "target_client_id": 26180,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\recortes\\aaaaaaaaaaaaaaaaaaaaaaaaaaaa.png",
+      "source_sha256": "AB8EAD4B1DFED421556BB0085B8649C99CBC589604F0768DB164EFC87A971F04",
+      "image_size": [
+        128,
+        128
+      ],
+      "frame_size": [
+        128,
+        128
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 10,
+      "sprite_id_range": [
+        301568,
+        301577
+      ],
+      "sprite_hash": "5D649A4A6EA7DA131A41ECD28E03E619"
+    },
+    {
+      "sequence": 20,
+      "source_server_id": 25565,
+      "source_client_id": 24680,
+      "target_server_id": 27066,
+      "target_client_id": 26181,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\recortes\\portão iwagakure1.png",
+      "source_sha256": "C6ADC596379C586AEFF22257542383708194615204138A82FB3A81739502CBA3",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        301578,
+        301581
+      ],
+      "sprite_hash": "842A8D51F8C27D6C60FE476C1FCEDD5B"
+    },
+    {
+      "sequence": 21,
+      "source_server_id": 25565,
+      "source_client_id": 24680,
+      "target_server_id": 27067,
+      "target_client_id": 26182,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\recortes\\portão iwagakure2.png",
+      "source_sha256": "1A9A3A075BD39710EBCBBE4E900547D7E965371E28911226E2493A3CC4E55FE3",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        301582,
+        301585
+      ],
+      "sprite_hash": "C43379FD19992F3270462ECA7E3386A2"
+    },
+    {
+      "sequence": 22,
+      "source_server_id": 25565,
+      "source_client_id": 24680,
+      "target_server_id": 27068,
+      "target_client_id": 26183,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\recortes\\portão iwagakure3.png",
+      "source_sha256": "301AC2F8D64FFC883C6667A3E438FD91AA3DF5E20D1A01CBBEAC5EEDF189FD95",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        301586,
+        301589
+      ],
+      "sprite_hash": "695DE554FC1FF7A2FF250DE1F5F5996C"
+    },
+    {
+      "sequence": 23,
+      "source_server_id": 25565,
+      "source_client_id": 24680,
+      "target_server_id": 27069,
+      "target_client_id": 26184,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\recortes\\portão iwagakure4.png",
+      "source_sha256": "27B3A8B9449804304B6F136A6C854DA5711D6A8C5A133F50F7CA41AAD0A033B3",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        301590,
+        301593
+      ],
+      "sprite_hash": "65EB745C030CFBF9CB9E8B2DFA5B80D8"
+    },
+    {
+      "sequence": 24,
+      "source_server_id": 25565,
+      "source_client_id": 24680,
+      "target_server_id": 27070,
+      "target_client_id": 26185,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\recortes\\portão iwagakure5.png",
+      "source_sha256": "FBCD1F4453B2CCABFE398D833CBAC1AA392608DB2654641EEC3671E6C8444FDE",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 3,
+      "sprite_id_range": [
+        301594,
+        301596
+      ],
+      "sprite_hash": "0452674A7269E00FCBAE338980C47257"
+    },
+    {
+      "sequence": 25,
+      "source_server_id": 25565,
+      "source_client_id": 24680,
+      "target_server_id": 27071,
+      "target_client_id": 26186,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\recortes\\portão iwagakure6.png",
+      "source_sha256": "9C451F73036217640E5DCB6447902D05EE3DC47D89591BA9BB0DC7DEEB16FEC9",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 3,
+      "sprite_id_range": [
+        301597,
+        301599
+      ],
+      "sprite_hash": "D2193AA7D84B160774C8CD7F649F514C"
+    },
+    {
+      "sequence": 26,
+      "source_server_id": 25565,
+      "source_client_id": 24680,
+      "target_server_id": 27072,
+      "target_client_id": 26187,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\recortes\\portão iwagakure7.png",
+      "source_sha256": "D7A20F8D2A881538ECCF67A8EDE7C832E69EA21573E8AA102433FA83696C57FB",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 2,
+      "sprite_id_range": [
+        301600,
+        301601
+      ],
+      "sprite_hash": "5897F377F2A3CDCB19CF0CB42050E40A"
+    },
+    {
+      "sequence": 27,
+      "source_server_id": 25565,
+      "source_client_id": 24680,
+      "target_server_id": 27073,
+      "target_client_id": 26188,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\recortes\\portão iwagakure8.png",
+      "source_sha256": "BF97BA122C5EA86E3E89B8BCC61CFC0E7BBDE66585E7DC83C9C6275EA8EF9BBF",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        301602,
+        301605
+      ],
+      "sprite_hash": "DA296C1DB73BA2282B5C47232EF5936C"
+    },
+    {
+      "sequence": 28,
+      "source_server_id": 25565,
+      "source_client_id": 24680,
+      "target_server_id": 27074,
+      "target_client_id": 26189,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\recortes\\portão iwagakure9.png",
+      "source_sha256": "0447230EBB4F933D0C4D28BE44F3C731D6BB0BCEAD070FF1C4BCF2CA136C553B",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        301606,
+        301609
+      ],
+      "sprite_hash": "4E91D90EB28489F265F191B312C137FA"
+    },
+    {
+      "sequence": 29,
+      "source_server_id": 25565,
+      "source_client_id": 24680,
+      "target_server_id": 27075,
+      "target_client_id": 26190,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\recortes\\portão iwagakure10.png",
+      "source_sha256": "62644AEE71EF9C5678F09FC9006C61A126D4C4932BA9560F5BBFB244F04C2A38",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        301610,
+        301613
+      ],
+      "sprite_hash": "79AD13D275F4D631A50763A023C094D9"
+    },
+    {
+      "sequence": 30,
+      "source_server_id": 25565,
+      "source_client_id": 24680,
+      "target_server_id": 27076,
+      "target_client_id": 26191,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\recortes\\portão iwagakure11.png",
+      "source_sha256": "9C9B67E798204BAE964BD01E844C1EE22CD2E398CF6DB8541F76990235D7406F",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        301614,
+        301617
+      ],
+      "sprite_hash": "243BAB28B52B1E61BF5E92FC8DEDF626"
+    },
+    {
+      "sequence": 31,
+      "source_server_id": 25565,
+      "source_client_id": 24680,
+      "target_server_id": 27077,
+      "target_client_id": 26192,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\recortes\\portão iwagakure12.png",
+      "source_sha256": "B1276680C10CB3B769A5B31BBF49D5BB07024FE2EDCC916D55EE25FEDDDD1F17",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        301618,
+        301621
+      ],
+      "sprite_hash": "E74D67593BF942110D8537A81897F6C4"
+    },
+    {
+      "sequence": 32,
+      "source_server_id": 25565,
+      "source_client_id": 24680,
+      "target_server_id": 27078,
+      "target_client_id": 26193,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\recortes\\Sprite-0001.png",
+      "source_sha256": "4DC09BB095C0FBB883601596946757E5271309503B89E3DD4EF10A0114BAB0A5",
+      "image_size": [
+        96,
+        96
+      ],
+      "frame_size": [
+        96,
+        96
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 6,
+      "sprite_id_range": [
+        301622,
+        301627
+      ],
+      "sprite_hash": "E7052915660D064DF062BFFD5891135D"
+    },
+    {
+      "sequence": 33,
+      "source_server_id": 25565,
+      "source_client_id": 24680,
+      "target_server_id": 27079,
+      "target_client_id": 26194,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\recortes\\Sprite-0002.png",
+      "source_sha256": "C722387966D3AB58B9B7F232A7E07212D2C9E830D18CC360E4F5271F3F401494",
+      "image_size": [
+        96,
+        96
+      ],
+      "frame_size": [
+        96,
+        96
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 6,
+      "sprite_id_range": [
+        301628,
+        301633
+      ],
+      "sprite_hash": "7C4BDDCAAD71AE70E509E0E4793626BD"
+    },
+    {
+      "sequence": 34,
+      "source_server_id": 25565,
+      "source_client_id": 24680,
+      "target_server_id": 27080,
+      "target_client_id": 26195,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\recortes\\Sprite-0003.png",
+      "source_sha256": "79F6CEACBD42F15EA01AC693ED2861518665EF4C44C22391FB5185511C107C61",
+      "image_size": [
+        96,
+        96
+      ],
+      "frame_size": [
+        96,
+        96
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 5,
+      "sprite_id_range": [
+        301634,
+        301638
+      ],
+      "sprite_hash": "7FF5499F8879052CF913266CAA37B252"
+    }
+  ],
+  "xml": {
+    "source_definitions": 7,
+    "target_definitions_written": 34,
+    "target_definitions_already_exact": 0,
+    "target_ids": [
+      27047,
+      27048,
+      27049,
+      27050,
+      27051,
+      27052,
+      27053,
+      27054,
+      27055,
+      27056,
+      27057,
+      27058,
+      27059,
+      27060,
+      27061,
+      27062,
+      27063,
+      27064,
+      27065,
+      27066,
+      27067,
+      27068,
+      27069,
+      27070,
+      27071,
+      27072,
+      27073,
+      27074,
+      27075,
+      27076,
+      27077,
+      27078,
+      27079,
+      27080
+    ]
+  },
+  "map_scan": {
+    "tiles_scanned": 8300115,
+    "item_nodes_scanned": 2250181
+  },
+  "dry_run": true,
+  "passed": true
+}

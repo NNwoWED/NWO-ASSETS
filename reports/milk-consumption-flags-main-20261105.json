@@ -1,0 +1,41 @@
+[
+  {
+    "server_id": 27041,
+    "client_id": 26156,
+    "otb_flags": [
+      "pickupable",
+      "movable",
+      "stackable"
+    ],
+    "dat_flags": [
+      "stackable",
+      "pickupable"
+    ]
+  },
+  {
+    "server_id": 14474,
+    "client_id": 13597,
+    "otb_flags": [
+      "pickupable",
+      "movable",
+      "stackable"
+    ],
+    "dat_flags": [
+      "stackable",
+      "pickupable"
+    ]
+  },
+  {
+    "server_id": 11537,
+    "client_id": 10660,
+    "otb_flags": [
+      "pickupable",
+      "movable",
+      "stackable"
+    ],
+    "dat_flags": [
+      "stackable",
+      "pickupable"
+    ]
+  }
+]
