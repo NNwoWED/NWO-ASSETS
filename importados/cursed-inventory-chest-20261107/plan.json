@@ -1,0 +1,13 @@
+{
+  "operation": "import-cloned-items",
+  "name": "Baú Amaldiçoado",
+  "purpose": "Owned inventory quest chest, distinct from decorative SID26962",
+  "source_server_id": 26969,
+  "source_client_id": 26084,
+  "target_server_id": 27081,
+  "target_client_id": 26196,
+  "appearance_client_id": 24091,
+  "source_png": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\cursed-inventory-chest-20261107\\cursed-chest.png",
+  "layout": "32x32 RGBA, 1 frame",
+  "properties": "Clone portable quest relic DAT/OTB flags, retain all existing items, bind to character in quest runtime"
+}

@@ -20400,16 +20400,16 @@
 		<attribute key="weight" value="30" />
 	</item>
 	<item id="26975" article="a" name="Âncora Espiritual" />
-	<item id="26976" article="a" name="Pergaminho Úmido e Mofado">
+	<item id="26976" article="a" name="Pergaminho de Selamento Roubado">
 		<attribute key="weight" value="40" />
-	  <attribute key="description" value="Mayu — estágio inicial de 150 Predators. Apar?ncia provis?ria para valida??o da miss?o."/>
+	  <attribute key="description" value="Um pergaminho de selamento roubado, recuperado para Mayu."/>
 </item>
-	<item id="26977" article="a" name="Pergaminho Renovado">
-		<attribute key="description" value="Mayu — estágio de 100 Assassins. Apar?ncia provis?ria para valida??o da miss?o."/>
+	<item id="26977" article="a" name="Pergaminho de Selamento Renovado">
+		<attribute key="description" value="O pergaminho renovado após absorver o chakra de 100 Assassins."/>
 		<attribute key="weight" value="30" />
 	</item>
-	<item id="26978" article="a" name="Pergaminho Restaurado">
-		<attribute key="description" value="Mayu — estágio final de 250 Assassins. Apar?ncia provis?ria para valida??o da miss?o."/>
+	<item id="26978" article="a" name="Pergaminho de Selamento Restaurado">
+		<attribute key="description" value="O pergaminho restaurado após absorver o chakra de 500 Assassins."/>
 		<attribute key="weight" value="30" />
 	</item>
 	<item id="26979" article="an" name="Elixir da Névoa">
@@ -20602,4 +20602,9 @@
 <item id="27078" article="a" name="Portao Iwagakure 13" />
 <item id="27079" article="a" name="Portao Iwagakure 14" />
 <item id="27080" article="a" name="Portao Iwagakure 15" />
+	<item id="27081" article="a" name="Baú Amaldiçoado">
+		<attribute key="type" value="key" />
+		<attribute key="weight" value="100" />
+	  <attribute key="description" value="Um baú amaldiçoado confiado a você pelo Velho Pescador."/>
+</item>
 </items>

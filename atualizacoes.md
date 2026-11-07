@@ -190,10 +190,16 @@
 - XML, cálculo, registro único, tier, vínculo de spell/evento e IDs de loot/corpse conferidos. O carregador XML real de C++ aceitou os atributos com ASAN/UBSAN; dependências de Game/Lua/itens simuladas, sem iniciar o servidor ou acessar banco. Cálculos e evidências em Server-Data-Nwo/data/docs/monsters/sai-fighter-balance-20261103.json; log em G:\Meu Drive\NEW NWO\logs\sai-fighter-native-loader-20261103.log.
 - Mantida a validação profunda e sincronização de assets aprovadas na etapa anterior, incluindo desktop, mobile e NWO-STUDIO. Esta etapa alterou apenas o cadastro do monstro, sem novo código de client ou compilação de APK. Não foram alterados outros monstros, taxas globais, spawns ou mapa. Para QA, carregar os novos XMLs e usar /m Sai Fighter; validar animação, alcance, dificuldade e loot em jogo. Sem publicação, commit ou push nesta tarefa.
 
+
 ## 05/11/2026 — Mesa de Madeira Horizontal
 
 - Ampliada deterministicamente a parte esquerda SID 19833 / CID 18948, complementando SID 19832 / CID 18947. Tampo visível passa de 47 para 64 pixels, cobrindo os dois SQMs. Pixels reutilizados sem suavização. Flags e elevação 10 preservadas.
 - Importação versionada em 20261105-125351-307734, validada e sincronizada pelo fluxo oficial para PC main, mobile, servidor, RME e NWO-STUDIO. Manifesto e PNGs em importados/table-horizontal-main-20261105. Relatórios import-table-horizontal-main-20261105.json e sync-table-horizontal-main-20261105.json.
+
+- 05/11/2026 — Salvo mapa 27 com 478 SQMs de acabamento a partir do mapa 26 autoral. Conferidos 2.286 SQMs modificados pelo usuário. Ajustadas faces congeladas, margens de gelo e transições entre neve e pedra. Retiradas três faces antigas sobre o novo maciço. Conservadas as cinco remoções manuais de pedra, os pisos, as 58 ausências e as propriedades físicas. Auditoria de tiles e metadados aprovada com validação profunda. Relatório NWO-ASSETS/reports/east27-final-20261105.json.
+
+- 05/11/2026 — Mapa 28 salvo com 412 SQMs ajustados a partir do mapa 27 atual. Bordas comuns de 315 SQMs foram trocadas pelos perfis de pedra congelada da mesma forma. Faces do relevo no andar 2 também receberam o material congelado. Conferidos os 89 ajustes manuais, o encaixe das bordas, as propriedades físicas e os metadados. Validação profunda aprovada. Relatório NWO-ASSETS/reports/east28-final-20261105.json.
+
 
 ## 05/11/2026 — Importacao consolidada de itens e efeito
 
@@ -217,3 +223,23 @@
 - O efeito 291 foi substituido pela sequencia resultante de 96x3264, com 34 frames de 100 ms, pattern unico e sem loop. O M4 do Tobirama manteve o missile 84 e passou a usar o efeito 291 no impacto.
 - A importacao criou a versao imutavel 20261106-015940-817420. Fonte original, PNG importado e manifesto foram arquivados em importados/tobirama-m4-effect291-left-20261106.
 - Validacao profunda e sincronizacao com desktop, mobile e NWO-STUDIO aprovadas nos relatorios validation-final-effect-291-left-tobirama-m4-20261106.json e sync-runtime-effect-291-left-tobirama-m4-20261106.json.
+
+## 06/11/2026 - Novos impactos do M3 e M4 do Tobirama
+
+- O efeito 291 do impacto do M4 foi substituido pela folha `effect_291_-sheet.png`, com 15 frames de 96x96 a 100 ms, pattern unico e sem loop.
+- A folha `aguinha_54_-sheet.png` foi importada no Effect ID 2066, antes vazio e sem referencias, com 10 frames de 96x96 a 100 ms. Somente o M3 do Tobirama passou a usar esse novo ID; o efeito 2462 foi preservado para os outros personagens.
+- Os efeitos 291 e 2066 receberam `effect-displacement: 16 0`, deslocando a renderizacao 16 pixels para a direita. Importacao validada na versao imutavel `20261106-034813-951535`, com 132 novos sprites (306153-306284).
+- Fontes e manifesto arquivados em `importados/tobirama-m3-m4-impact-remakes-20261106/`. Relatorios: `reports/import-tobirama-m3-m4-impact-remakes-20261106.json`, `reports/export-tobirama-m3-m4-impact-after-remakes-20261106.json`, `reports/validation-final-tobirama-m3-m4-impact-remakes-20261106.json` e `reports/sync-runtime-tobirama-m3-m4-impact-remakes-20261106.json`.
+
+## 06/11/2026 - Protecao visual do recast do E4 do Tobirama
+
+- A outfit 2012 do primeiro recast recebeu `async-outfit` e `hidecreatureinfo`, seguindo o comportamento da outfit 2186 do E4 do Zabuza. Durante seus 1000 ms, nome, barras e aura deixam de ser renderizados.
+- Os metadados canonicos foram sincronizados com desktop, mobile e NWO-STUDIO sem alterar DAT, SPR, OTB ou mapa. Validacao profunda e sincronizacao aprovadas em `reports/validation-tobirama-e4-paper-bomb-20261106.json` e `reports/sync-runtime-tobirama-e4-paper-bomb-20261106.json`.
+
+## 07/11/2026 — Baú portátil e pergaminhos definitivos das missões
+
+- Tesouro Amaldiçoado: criado SID 27081/CID 26196, contíguo aos máximos anteriores, por `import-cloned-items`. Referência portátil SID 26969/CID 26084; aparência exportada sem edição do CID 24091/SID 24976, 32×32 RGBA. Propriedades DAT/OTB clonadas e registros anteriores preservados. Nome e descrição próprios no XML. Versão testada `20261107-032006-836302`; relatório `reports/import-cursed-inventory-chest-20261107.json`.
+- Mayu: substituídas somente as aparências de SID/CID 26976/26091, 26977/26092 e 26978/26093. Associação expressamente aprovada: `pergaminhos-verde.png` Roubado, `pergaminhos-roxo.png` Renovado e `pergaminhos-cobre.png` Restaurado. PNGs RGBA originais de 32×800, com 25 quadros de 32×32 e duração de 100 ms; sem recorte, redimensionamento ou alteração de pixels. Preservadas propriedades; importador atualizou animação e SpriteHash. Versão testada `20261107-033617-976946`; relatório `reports/import-mayu-scrolls-20261107.json`.
+- Conferidos os 75 quadros exportados contra os PNGs originais, byte a byte nos pixels. Nomes e descrições XML das três formas atualizados; `papel-mofado.png` não foi utilizado. Baú decorativo e mapa binário preservados. Atualizada apenas a referência de retorno de Emiko em `assets/world/routes.xml` para 1209,785,6, espelhada no XML do servidor.
+- Validação final profunda sem erros em `reports/validation-development-final-20261107.json`. Sincronização transacional aprovada em `reports/sync-runtime-development-feedback-20261107.json`: 31 arquivos, hashes conferidos, par OTB/XML no servidor/RME/NWO-STUDIO, DAT/SPR nos dois clients e NWO-STUDIO, cinco OTMLs e arquivos compactados testados.
+- Entradas e manifestos validados arquivados em `importados/cursed-inventory-chest-20261107/` e `importados/mayu-scrolls-20261107/`. Alterações locais anteriores e versões antigas foram preservadas.

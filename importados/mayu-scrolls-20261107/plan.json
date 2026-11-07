@@ -1,0 +1,58 @@
+{
+  "operation": "substituir",
+  "purpose": "Mayu quest stages; final user-approved green, purple, copper order",
+  "entries": [
+    {
+      "server_id": 26976,
+      "client_id": 26091,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\pergaminhos-verde.png",
+      "name": "Roubado",
+      "sheet_size": [
+        32,
+        800
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 25,
+      "frame_duration_ms": 100,
+      "animation_async": false
+    },
+    {
+      "server_id": 26977,
+      "client_id": 26092,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\pergaminhos-roxo.png",
+      "name": "Renovado",
+      "sheet_size": [
+        32,
+        800
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 25,
+      "frame_duration_ms": 100,
+      "animation_async": false
+    },
+    {
+      "server_id": 26978,
+      "client_id": 26093,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\pergaminhos-cobre.png",
+      "name": "Restaurado",
+      "sheet_size": [
+        32,
+        800
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 25,
+      "frame_duration_ms": 100,
+      "animation_async": false
+    }
+  ],
+  "properties_policy": "Preserve DAT and OTB flags and payloads; only replace appearance, animation bit and SpriteHash through official importer"
+}
