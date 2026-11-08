@@ -1,0 +1,517 @@
+{
+  "inputs": [
+    {
+      "file": "1.png",
+      "size": [
+        96,
+        96
+      ],
+      "rgba8_noninterlaced": true,
+      "import_dimensions_valid": true,
+      "sha256": "e0156c01156a7316f657aff4b94fc7006617abb27a6ec6ea8defbcc87b99e365",
+      "pixel_hash": "9cbeead7031261f3bf24649651627c4167e4904849d8cc05b8b13e90a3da7ce1",
+      "existing_server_ids": [
+        27027
+      ],
+      "catalog_client_matches": [
+        26142
+      ],
+      "catalog_server_matches": [
+        27027
+      ],
+      "normalized_comparison_size": [
+        96,
+        96
+      ]
+    },
+    {
+      "file": "12.png",
+      "size": [
+        96,
+        96
+      ],
+      "rgba8_noninterlaced": true,
+      "import_dimensions_valid": true,
+      "sha256": "e0b4efe081e9ccf3d81267ca2ec1698530371ee83764e4827358d567490782f5",
+      "pixel_hash": "69b505696c8dafa4ffac9da798fd3c73e0faac033fed015e42494df803a0b3b6",
+      "existing_server_ids": [],
+      "catalog_client_matches": [],
+      "catalog_server_matches": [],
+      "normalized_comparison_size": [
+        96,
+        96
+      ]
+    },
+    {
+      "file": "2.png",
+      "size": [
+        96,
+        96
+      ],
+      "rgba8_noninterlaced": true,
+      "import_dimensions_valid": true,
+      "sha256": "ca91a1139251591af6cadbe9e80ae1306550bb1491c62ad7e38f940d51d202b4",
+      "pixel_hash": "aa64ff3e83baefd188d317a32438be15405e36c206e1f9a0bf9c27aa6ed52b9a",
+      "existing_server_ids": [
+        27028
+      ],
+      "catalog_client_matches": [
+        26143
+      ],
+      "catalog_server_matches": [
+        27028
+      ],
+      "normalized_comparison_size": [
+        96,
+        96
+      ]
+    },
+    {
+      "file": "3.png",
+      "size": [
+        96,
+        96
+      ],
+      "rgba8_noninterlaced": true,
+      "import_dimensions_valid": true,
+      "sha256": "0c4ec2755ebdf163e24abb9f69b4a554d706facb364c2c0a967683383953d236",
+      "pixel_hash": "0c69b6dc00f62bb9b6889f198218fcea53fe88d0d5ab0857ec26d264db05b6e7",
+      "existing_server_ids": [
+        27029
+      ],
+      "catalog_client_matches": [
+        26144
+      ],
+      "catalog_server_matches": [
+        27029
+      ],
+      "normalized_comparison_size": [
+        96,
+        96
+      ]
+    },
+    {
+      "file": "34.png",
+      "size": [
+        96,
+        96
+      ],
+      "rgba8_noninterlaced": true,
+      "import_dimensions_valid": true,
+      "sha256": "07f2ffb64aaa6b7db439a41a53c54e6a7cc6583cc296fb6eb093113365907889",
+      "pixel_hash": "3d97333ea5b4f4f3bd4e9935292f4ae22437c49e50a846130157e0dc41924361",
+      "existing_server_ids": [],
+      "catalog_client_matches": [],
+      "catalog_server_matches": [],
+      "normalized_comparison_size": [
+        96,
+        96
+      ]
+    },
+    {
+      "file": "modelo feio mas que pode ser usado.png",
+      "size": [
+        64,
+        63
+      ],
+      "rgba8_noninterlaced": true,
+      "import_dimensions_valid": false,
+      "sha256": "7338658a80d8b0dcb28d5850a784e79dc93a4d878c6a6f8db162df79b4c78105",
+      "pixel_hash": "6be1be8116d8dbabb445197327d5f9969055dc0cdc618dbae98a5894ae9aef4f",
+      "existing_server_ids": [
+        27032
+      ],
+      "comparison_padding": {
+        "bottom_transparent_rows": 1,
+        "input_pixels_changed": false
+      },
+      "catalog_client_matches": [
+        26147
+      ],
+      "catalog_server_matches": [
+        27032
+      ],
+      "normalized_comparison_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "file": "peca restante1.png",
+      "size": [
+        64,
+        64
+      ],
+      "rgba8_noninterlaced": true,
+      "import_dimensions_valid": true,
+      "sha256": "0ebc0d5504451e5b9d32f3e17f93784877eb285eca93601b42e4d7c749959862",
+      "pixel_hash": "cefadac26e73dae75e6607ea8e004f46c9ecd5aee6ade7b846d2bbf8e19f995d",
+      "existing_server_ids": [
+        27031
+      ],
+      "catalog_client_matches": [
+        26146
+      ],
+      "catalog_server_matches": [
+        27031
+      ],
+      "normalized_comparison_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "file": "peca restante12.png",
+      "size": [
+        64,
+        64
+      ],
+      "rgba8_noninterlaced": true,
+      "import_dimensions_valid": true,
+      "sha256": "97dee0331183f8f4cca685256238bcfd533b05c2e409d671daebfbff2c9b5e07",
+      "pixel_hash": "f914b85f28abcf727500f9dcada48d00454cff9fea8cae2e5620ce4bd794c595",
+      "existing_server_ids": [],
+      "catalog_client_matches": [],
+      "catalog_server_matches": [],
+      "normalized_comparison_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "file": "peca2.png",
+      "size": [
+        64,
+        64
+      ],
+      "rgba8_noninterlaced": true,
+      "import_dimensions_valid": true,
+      "sha256": "f12ec31847a677d217b6f1b63c1fd23cbc2648c68bb3501e4d3ae8d572f49299",
+      "pixel_hash": "e40d9624fda87eae9da8e361a7e41494567bd615a9eb4a77f3380cbe0c523fda",
+      "existing_server_ids": [
+        27030
+      ],
+      "catalog_client_matches": [
+        26145
+      ],
+      "catalog_server_matches": [
+        27030
+      ],
+      "normalized_comparison_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "file": "peca22.png",
+      "size": [
+        64,
+        64
+      ],
+      "rgba8_noninterlaced": true,
+      "import_dimensions_valid": true,
+      "sha256": "b5849d45abf840a15c8877e6ce08ef1546a76a7b75eff00a17c0dc287673357d",
+      "pixel_hash": "6208c9c32867837723097d94976f8d06234747c58e69b59763beccda46211d14",
+      "existing_server_ids": [],
+      "catalog_client_matches": [],
+      "catalog_server_matches": [],
+      "normalized_comparison_size": [
+        64,
+        64
+      ]
+    }
+  ],
+  "references": [
+    {
+      "requested_id": 27027,
+      "client_id": 26142,
+      "server_ids": [
+        27027
+      ],
+      "name": "Metal Pipe 1",
+      "group_index": 0,
+      "width": 96,
+      "height": 96,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        297397,
+        297398,
+        297399,
+        297400,
+        297401,
+        297402,
+        0,
+        297403,
+        297404
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\canos-existentes-20261108\\server-27027_client-26142_metal-pipe-1.png",
+      "size": 2902,
+      "sha256": "268B41A2F86F2DB5F6DCAE5AF0775E646CCF1184B373C6AEB37533EC5156B8DC",
+      "pixel_hash": "9cbeead7031261f3bf24649651627c4167e4904849d8cc05b8b13e90a3da7ce1",
+      "dimensions": [
+        96,
+        96
+      ]
+    },
+    {
+      "requested_id": 27028,
+      "client_id": 26143,
+      "server_ids": [
+        27028
+      ],
+      "name": "Metal Pipe 2",
+      "group_index": 0,
+      "width": 96,
+      "height": 96,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        297405,
+        297406,
+        297407,
+        297408,
+        297409,
+        297410,
+        0,
+        297411,
+        297412
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\canos-existentes-20261108\\server-27028_client-26143_metal-pipe-2.png",
+      "size": 1839,
+      "sha256": "C7F719D20EB8959623D3CEB0D45ED6A93957BCBA8F02E6F442D4B007820EA9AA",
+      "pixel_hash": "aa64ff3e83baefd188d317a32438be15405e36c206e1f9a0bf9c27aa6ed52b9a",
+      "dimensions": [
+        96,
+        96
+      ]
+    },
+    {
+      "requested_id": 27029,
+      "client_id": 26144,
+      "server_ids": [
+        27029
+      ],
+      "name": "Metal Pipe 3",
+      "group_index": 0,
+      "width": 96,
+      "height": 96,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        297413,
+        297414,
+        297415,
+        297416,
+        297417,
+        297418,
+        0,
+        297419,
+        297420
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\canos-existentes-20261108\\server-27029_client-26144_metal-pipe-3.png",
+      "size": 3241,
+      "sha256": "4167FACC882056A36B63EAB0A443BC595C779304EABC9DD2EBF32BEB429BA60A",
+      "pixel_hash": "0c69b6dc00f62bb9b6889f198218fcea53fe88d0d5ab0857ec26d264db05b6e7",
+      "dimensions": [
+        96,
+        96
+      ]
+    },
+    {
+      "requested_id": 27030,
+      "client_id": 26145,
+      "server_ids": [
+        27030
+      ],
+      "name": "Metal Pipe 4",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        297421,
+        297422,
+        297423,
+        297424
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\canos-existentes-20261108\\server-27030_client-26145_metal-pipe-4.png",
+      "size": 1987,
+      "sha256": "9191F356D248045C7943EE3D95ABF4BA431F85F5BE8E3CD5F21B4492DAC4F17B",
+      "pixel_hash": "e40d9624fda87eae9da8e361a7e41494567bd615a9eb4a77f3380cbe0c523fda",
+      "dimensions": [
+        64,
+        64
+      ]
+    },
+    {
+      "requested_id": 27031,
+      "client_id": 26146,
+      "server_ids": [
+        27031
+      ],
+      "name": "Metal Pipe 5",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        297425,
+        297426,
+        297427,
+        297428
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\canos-existentes-20261108\\server-27031_client-26146_metal-pipe-5.png",
+      "size": 2315,
+      "sha256": "36429E83BF16A38B4AADB81691E671D0F4307CD3F865EC2CCAE7D44C1DF81DF7",
+      "pixel_hash": "cefadac26e73dae75e6607ea8e004f46c9ecd5aee6ade7b846d2bbf8e19f995d",
+      "dimensions": [
+        64,
+        64
+      ]
+    },
+    {
+      "requested_id": 27032,
+      "client_id": 26147,
+      "server_ids": [
+        27032
+      ],
+      "name": "Metal Pipe 6",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        297429,
+        297430,
+        297431,
+        297432
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\canos-existentes-20261108\\server-27032_client-26147_metal-pipe-6.png",
+      "size": 2233,
+      "sha256": "424C1B38E1D92B6C2A63A9671148F0B585A158E013B1079330A0B786C1C71203",
+      "pixel_hash": "5f79abbcdf6a88c7a63c913fe62b68b31e50e3553507f96c9320cf70c29b0e76",
+      "dimensions": [
+        64,
+        64
+      ]
+    }
+  ],
+  "source_details": [
+    {
+      "server_id": 27027,
+      "client_id": 26142,
+      "dat_properties_hex": "020c0d0f1800000400ff",
+      "layout": {
+        "width": 3,
+        "height": 3,
+        "exact_size": 32,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      }
+    },
+    {
+      "server_id": 27028,
+      "client_id": 26143,
+      "dat_properties_hex": "020c0d0f1800000400ff",
+      "layout": {
+        "width": 3,
+        "height": 3,
+        "exact_size": 32,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      }
+    },
+    {
+      "server_id": 27029,
+      "client_id": 26144,
+      "dat_properties_hex": "020c0d0f1800000400ff",
+      "layout": {
+        "width": 3,
+        "height": 3,
+        "exact_size": 32,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      }
+    },
+    {
+      "server_id": 27030,
+      "client_id": 26145,
+      "dat_properties_hex": "020c0d0f1800000400ff",
+      "layout": {
+        "width": 2,
+        "height": 2,
+        "exact_size": 32,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      }
+    },
+    {
+      "server_id": 27031,
+      "client_id": 26146,
+      "dat_properties_hex": "020c0d0f1800000400ff",
+      "layout": {
+        "width": 2,
+        "height": 2,
+        "exact_size": 32,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      }
+    },
+    {
+      "server_id": 27032,
+      "client_id": 26147,
+      "dat_properties_hex": "020c0d0f1800000400ff",
+      "layout": {
+        "width": 2,
+        "height": 2,
+        "exact_size": 32,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      }
+    }
+  ],
+  "full_static_item_catalog_checked": true,
+  "max_server_id": 27089,
+  "max_client_id": 26204,
+  "map_sha256": "0e6b4ec99c87f8ddb3000cec35581df9eec3a15fa2c26a59354d6b6f37f08390"
+}

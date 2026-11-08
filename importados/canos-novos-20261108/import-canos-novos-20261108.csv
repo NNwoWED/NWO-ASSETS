@@ -1,0 +1,5 @@
+sequence,source_server_id,target_server_id,target_client_id,source_path,frame_width,frame_height,frames,frame_duration_ms,animation_async
+1,27027,27090,26205,12.png,96,96,1,,0
+2,27029,27091,26206,34.png,96,96,1,,0
+3,27031,27092,26207,peca restante12.png,64,64,1,,0
+4,27030,27093,26208,peca22.png,64,64,1,,0

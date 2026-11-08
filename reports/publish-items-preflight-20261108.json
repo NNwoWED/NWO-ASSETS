@@ -1,0 +1,146 @@
+{
+  "passed": true,
+  "dat_changed": [
+    [
+      "items",
+      26091
+    ],
+    [
+      "items",
+      26092
+    ],
+    [
+      "items",
+      26093
+    ],
+    [
+      "items",
+      26182
+    ],
+    [
+      "items",
+      26183
+    ],
+    [
+      "items",
+      26184
+    ],
+    [
+      "items",
+      26185
+    ],
+    [
+      "items",
+      26186
+    ],
+    [
+      "items",
+      26187
+    ],
+    [
+      "outfits",
+      335
+    ]
+  ],
+  "dat_added": [
+    [
+      "items",
+      26196
+    ],
+    [
+      "items",
+      26197
+    ],
+    [
+      "items",
+      26198
+    ],
+    [
+      "items",
+      26199
+    ],
+    [
+      "items",
+      26200
+    ],
+    [
+      "items",
+      26201
+    ],
+    [
+      "items",
+      26202
+    ],
+    [
+      "items",
+      26203
+    ],
+    [
+      "items",
+      26204
+    ],
+    [
+      "items",
+      26205
+    ],
+    [
+      "items",
+      26206
+    ],
+    [
+      "items",
+      26207
+    ],
+    [
+      "items",
+      26208
+    ],
+    [
+      "items",
+      26209
+    ]
+  ],
+  "otb_changed": [
+    26976,
+    26977,
+    26978,
+    27067,
+    27068,
+    27069,
+    27070,
+    27071,
+    27072
+  ],
+  "otb_added": [
+    27081,
+    27082,
+    27083,
+    27084,
+    27085,
+    27086,
+    27087,
+    27088,
+    27089,
+    27090,
+    27091,
+    27092,
+    27093,
+    27094
+  ],
+  "xml_changed": [
+    26976,
+    26977,
+    26978
+  ],
+  "old_sprite_payloads_preserved": 306284,
+  "sprite_count_after": 306706,
+  "archive_entries_sha256": {
+    "860\\.gitattributes": "d5636a3257287440945c5e017581545e5b0a3e2fdddae7c5ef8d90ff4df3d32a",
+    "860\\tibia.dat": "b77640b542aac46d9317b543ea38fdfefb8383dd93caff461710be91adf8188e",
+    "860\\tibia.otfi": "aa218411341029f2ec1c8fff5a4f767ef8e7eccc9088f8a0c968774547ccce70",
+    "860\\tibia.spr": "cd1d2e96fef7742377a37b1cdd2257e86d5699ec5eece023f67901b0bcdf58c6"
+  },
+  "archive_sha256": "e63ec48fc964f49fae647eb41d5f26fe26d54fc84bc7f6d969e119344392f7bf",
+  "canonical_runtime_dat_spr_items_hashes_match": true,
+  "main_otfi_profile_preserved": true
+}

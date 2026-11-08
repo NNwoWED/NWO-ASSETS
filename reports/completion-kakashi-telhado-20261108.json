@@ -1,0 +1,90 @@
+{
+  "passed": true,
+  "outfit_id": 335,
+  "roof_items": [
+    {
+      "server_id": 27067,
+      "client_id": 26182,
+      "png": "portão iwagakure6.png",
+      "pixels_exact": true,
+      "properties_layout_preserved": true
+    },
+    {
+      "server_id": 27068,
+      "client_id": 26183,
+      "png": "portão iwagakure4.png",
+      "pixels_exact": true,
+      "properties_layout_preserved": true
+    },
+    {
+      "server_id": 27069,
+      "client_id": 26184,
+      "png": "portão iwagakure1.png",
+      "pixels_exact": true,
+      "properties_layout_preserved": true
+    },
+    {
+      "server_id": 27070,
+      "client_id": 26185,
+      "png": "portão iwagakure7.png",
+      "pixels_exact": true,
+      "properties_layout_preserved": true
+    },
+    {
+      "server_id": 27071,
+      "client_id": 26186,
+      "png": "portão iwagakure3.png",
+      "pixels_exact": true,
+      "properties_layout_preserved": true
+    },
+    {
+      "server_id": 27072,
+      "client_id": 26187,
+      "png": "portão iwagakure5.png",
+      "pixels_exact": true,
+      "properties_layout_preserved": true
+    },
+    {
+      "server_id": 27094,
+      "client_id": 26209,
+      "png": "portão iwagakure2.png",
+      "pixels_exact": true,
+      "properties_layout_preserved": true
+    }
+  ],
+  "versions": [
+    "20261108-045001-361290",
+    "20261108-045128-542484",
+    "20261108-045223-174067"
+  ],
+  "sprite_ranges": [
+    [
+      306425,
+      306448
+    ],
+    [
+      306449,
+      306450
+    ],
+    [
+      306451,
+      306706
+    ]
+  ],
+  "all_original_pngs_unchanged": true,
+  "untargeted_dat_records_preserved": true,
+  "map_preserved_sha256": "0e6b4ec99c87f8ddb3000cec35581df9eec3a15fa2c26a59354d6b6f37f08390",
+  "runtime_copies_verified": 31,
+  "rar_archives_tested": true,
+  "mobile_static_passed": true,
+  "sources_archives": [
+    "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\importados\\telhado-iwagakure-20261108",
+    "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\importados\\kakashi-shippuden-20261108"
+  ],
+  "errors": [],
+  "warnings": [],
+  "in_game_tested": false,
+  "apk_built": false,
+  "committed": false,
+  "pushed": false
+}

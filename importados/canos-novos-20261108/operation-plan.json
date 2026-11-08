@@ -1,0 +1,294 @@
+{
+  "items": [
+    {
+      "sequence": 1,
+      "source_server_id": 27027,
+      "target_server_id": 27090,
+      "target_client_id": 26205,
+      "source_path": "12.png",
+      "frame_width": 96,
+      "frame_height": 96,
+      "frames": 1,
+      "frame_duration_ms": "",
+      "animation_async": 0,
+      "reference_client_id": 26142,
+      "source_png_sha256": "e0b4efe081e9ccf3d81267ca2ec1698530371ee83764e4827358d567490782f5",
+      "operation": "novo item por import-cloned-items",
+      "name": "Metal Pipe 1",
+      "purpose": "Nova orientação/encaixe dos canos decorativos de metal para o mapa.",
+      "properties_policy": "Clonar integralmente as propriedades DAT/OTB/XML da referência; somente novos IDs, layout do PNG e SpriteHash novos. Estático, sem padrões adicionais.",
+      "reference_layout": {
+        "width": 3,
+        "height": 3,
+        "exact_size": 32,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      }
+    },
+    {
+      "sequence": 2,
+      "source_server_id": 27029,
+      "target_server_id": 27091,
+      "target_client_id": 26206,
+      "source_path": "34.png",
+      "frame_width": 96,
+      "frame_height": 96,
+      "frames": 1,
+      "frame_duration_ms": "",
+      "animation_async": 0,
+      "reference_client_id": 26144,
+      "source_png_sha256": "07f2ffb64aaa6b7db439a41a53c54e6a7cc6583cc296fb6eb093113365907889",
+      "operation": "novo item por import-cloned-items",
+      "name": "Metal Pipe 3",
+      "purpose": "Nova orientação/encaixe dos canos decorativos de metal para o mapa.",
+      "properties_policy": "Clonar integralmente as propriedades DAT/OTB/XML da referência; somente novos IDs, layout do PNG e SpriteHash novos. Estático, sem padrões adicionais.",
+      "reference_layout": {
+        "width": 3,
+        "height": 3,
+        "exact_size": 32,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      }
+    },
+    {
+      "sequence": 3,
+      "source_server_id": 27031,
+      "target_server_id": 27092,
+      "target_client_id": 26207,
+      "source_path": "peca restante12.png",
+      "frame_width": 64,
+      "frame_height": 64,
+      "frames": 1,
+      "frame_duration_ms": "",
+      "animation_async": 0,
+      "reference_client_id": 26146,
+      "source_png_sha256": "97dee0331183f8f4cca685256238bcfd533b05c2e409d671daebfbff2c9b5e07",
+      "operation": "novo item por import-cloned-items",
+      "name": "Metal Pipe 5",
+      "purpose": "Nova orientação/encaixe dos canos decorativos de metal para o mapa.",
+      "properties_policy": "Clonar integralmente as propriedades DAT/OTB/XML da referência; somente novos IDs, layout do PNG e SpriteHash novos. Estático, sem padrões adicionais.",
+      "reference_layout": {
+        "width": 2,
+        "height": 2,
+        "exact_size": 32,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      }
+    },
+    {
+      "sequence": 4,
+      "source_server_id": 27030,
+      "target_server_id": 27093,
+      "target_client_id": 26208,
+      "source_path": "peca22.png",
+      "frame_width": 64,
+      "frame_height": 64,
+      "frames": 1,
+      "frame_duration_ms": "",
+      "animation_async": 0,
+      "reference_client_id": 26145,
+      "source_png_sha256": "b5849d45abf840a15c8877e6ce08ef1546a76a7b75eff00a17c0dc287673357d",
+      "operation": "novo item por import-cloned-items",
+      "name": "Metal Pipe 4",
+      "purpose": "Nova orientação/encaixe dos canos decorativos de metal para o mapa.",
+      "properties_policy": "Clonar integralmente as propriedades DAT/OTB/XML da referência; somente novos IDs, layout do PNG e SpriteHash novos. Estático, sem padrões adicionais.",
+      "reference_layout": {
+        "width": 2,
+        "height": 2,
+        "exact_size": 32,
+        "layers": 1,
+        "pattern_x": 1,
+        "pattern_y": 1,
+        "pattern_z": 1,
+        "frames": 1
+      }
+    }
+  ],
+  "duplicates_ignored": [
+    {
+      "file": "1.png",
+      "size": [
+        96,
+        96
+      ],
+      "rgba8_noninterlaced": true,
+      "import_dimensions_valid": true,
+      "sha256": "e0156c01156a7316f657aff4b94fc7006617abb27a6ec6ea8defbcc87b99e365",
+      "pixel_hash": "9cbeead7031261f3bf24649651627c4167e4904849d8cc05b8b13e90a3da7ce1",
+      "existing_server_ids": [
+        27027
+      ],
+      "catalog_client_matches": [
+        26142
+      ],
+      "catalog_server_matches": [
+        27027
+      ],
+      "normalized_comparison_size": [
+        96,
+        96
+      ]
+    },
+    {
+      "file": "2.png",
+      "size": [
+        96,
+        96
+      ],
+      "rgba8_noninterlaced": true,
+      "import_dimensions_valid": true,
+      "sha256": "ca91a1139251591af6cadbe9e80ae1306550bb1491c62ad7e38f940d51d202b4",
+      "pixel_hash": "aa64ff3e83baefd188d317a32438be15405e36c206e1f9a0bf9c27aa6ed52b9a",
+      "existing_server_ids": [
+        27028
+      ],
+      "catalog_client_matches": [
+        26143
+      ],
+      "catalog_server_matches": [
+        27028
+      ],
+      "normalized_comparison_size": [
+        96,
+        96
+      ]
+    },
+    {
+      "file": "3.png",
+      "size": [
+        96,
+        96
+      ],
+      "rgba8_noninterlaced": true,
+      "import_dimensions_valid": true,
+      "sha256": "0c4ec2755ebdf163e24abb9f69b4a554d706facb364c2c0a967683383953d236",
+      "pixel_hash": "0c69b6dc00f62bb9b6889f198218fcea53fe88d0d5ab0857ec26d264db05b6e7",
+      "existing_server_ids": [
+        27029
+      ],
+      "catalog_client_matches": [
+        26144
+      ],
+      "catalog_server_matches": [
+        27029
+      ],
+      "normalized_comparison_size": [
+        96,
+        96
+      ]
+    },
+    {
+      "file": "modelo feio mas que pode ser usado.png",
+      "size": [
+        64,
+        63
+      ],
+      "rgba8_noninterlaced": true,
+      "import_dimensions_valid": false,
+      "sha256": "7338658a80d8b0dcb28d5850a784e79dc93a4d878c6a6f8db162df79b4c78105",
+      "pixel_hash": "6be1be8116d8dbabb445197327d5f9969055dc0cdc618dbae98a5894ae9aef4f",
+      "existing_server_ids": [
+        27032
+      ],
+      "comparison_padding": {
+        "bottom_transparent_rows": 1,
+        "input_pixels_changed": false
+      },
+      "catalog_client_matches": [
+        26147
+      ],
+      "catalog_server_matches": [
+        27032
+      ],
+      "normalized_comparison_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "file": "peca restante1.png",
+      "size": [
+        64,
+        64
+      ],
+      "rgba8_noninterlaced": true,
+      "import_dimensions_valid": true,
+      "sha256": "0ebc0d5504451e5b9d32f3e17f93784877eb285eca93601b42e4d7c749959862",
+      "pixel_hash": "cefadac26e73dae75e6607ea8e004f46c9ecd5aee6ade7b846d2bbf8e19f995d",
+      "existing_server_ids": [
+        27031
+      ],
+      "catalog_client_matches": [
+        26146
+      ],
+      "catalog_server_matches": [
+        27031
+      ],
+      "normalized_comparison_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "file": "peca2.png",
+      "size": [
+        64,
+        64
+      ],
+      "rgba8_noninterlaced": true,
+      "import_dimensions_valid": true,
+      "sha256": "f12ec31847a677d217b6f1b63c1fd23cbc2648c68bb3501e4d3ae8d572f49299",
+      "pixel_hash": "e40d9624fda87eae9da8e361a7e41494567bd615a9eb4a77f3380cbe0c523fda",
+      "existing_server_ids": [
+        27030
+      ],
+      "catalog_client_matches": [
+        26145
+      ],
+      "catalog_server_matches": [
+        27030
+      ],
+      "normalized_comparison_size": [
+        64,
+        64
+      ]
+    }
+  ],
+  "all_original_png_hashes": {
+    "1.png": "e0156c01156a7316f657aff4b94fc7006617abb27a6ec6ea8defbcc87b99e365",
+    "12.png": "e0b4efe081e9ccf3d81267ca2ec1698530371ee83764e4827358d567490782f5",
+    "2.png": "ca91a1139251591af6cadbe9e80ae1306550bb1491c62ad7e38f940d51d202b4",
+    "3.png": "0c4ec2755ebdf163e24abb9f69b4a554d706facb364c2c0a967683383953d236",
+    "34.png": "07f2ffb64aaa6b7db439a41a53c54e6a7cc6583cc296fb6eb093113365907889",
+    "modelo feio mas que pode ser usado.png": "7338658a80d8b0dcb28d5850a784e79dc93a4d878c6a6f8db162df79b4c78105",
+    "peca restante1.png": "0ebc0d5504451e5b9d32f3e17f93784877eb285eca93601b42e4d7c749959862",
+    "peca restante12.png": "97dee0331183f8f4cca685256238bcfd533b05c2e409d671daebfbff2c9b5e07",
+    "peca2.png": "f12ec31847a677d217b6f1b63c1fd23cbc2648c68bb3501e4d3ae8d572f49299",
+    "peca22.png": "b5849d45abf840a15c8877e6ce08ef1546a76a7b75eff00a17c0dc287673357d"
+  },
+  "comparison": "Exact normalized RGBA pixels against full static item catalog. Hidden RGB under alpha=0 ignored; 64x63 duplicate compared with one transparent bottom row, no source edited.",
+  "protected_hashes": {
+    "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\world\\mapanovo.otbm": "0e6b4ec99c87f8ddb3000cec35581df9eec3a15fa2c26a59354d6b6f37f08390",
+    "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.otfi": "7743548835944bc799cb871a4e5def84f7af76815031871b9ce74b5ec0e8add3",
+    "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\items.otml": "366ed92a34b647925feb4c88a1c3c1b82e3d9fca2b75c87ebf3c68b61283379a",
+    "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\creatures.otml": "b27db6571698692590fd07ed10eda66a85d58e4695d1caeaf020a3a4ef8e4992",
+    "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\effects.otml": "a0ffb023d9f91309e14ff7a88d6b449888b753175038ec8ae1ea80d1ee97a4b6",
+    "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\missiles.otml": "8166c970de415da2b706eb189f869c7e9b333d64f675f55758f5a5bc808da212",
+    "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\things.otml": "e2852dab5c79ddee34adccfb45e7b51c31ef925aa0dd35012171efb8672d99f5"
+  },
+  "branches": {
+    "NWO-ASSETS": "mob-estrelado",
+    "Server-Data-Nwo": "mob-estrelado",
+    "nwo-otclient-mehah-4.0": "mob-estrelado",
+    "nwo-mobile": "mob-estrelado"
+  }
+}

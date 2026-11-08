@@ -1,0 +1,211 @@
+{
+  "passed": true,
+  "new_items": [
+    {
+      "file": "12.png",
+      "server_id": 27090,
+      "client_id": 26205,
+      "reference_server_id": 27027,
+      "pixels_exact": true,
+      "dat_properties_layout_preserved": true,
+      "otb_properties_preserved": true
+    },
+    {
+      "file": "34.png",
+      "server_id": 27091,
+      "client_id": 26206,
+      "reference_server_id": 27029,
+      "pixels_exact": true,
+      "dat_properties_layout_preserved": true,
+      "otb_properties_preserved": true
+    },
+    {
+      "file": "peca restante12.png",
+      "server_id": 27092,
+      "client_id": 26207,
+      "reference_server_id": 27031,
+      "pixels_exact": true,
+      "dat_properties_layout_preserved": true,
+      "otb_properties_preserved": true
+    },
+    {
+      "file": "peca22.png",
+      "server_id": 27093,
+      "client_id": 26208,
+      "reference_server_id": 27030,
+      "pixels_exact": true,
+      "dat_properties_layout_preserved": true,
+      "otb_properties_preserved": true
+    }
+  ],
+  "duplicates_ignored": [
+    {
+      "file": "1.png",
+      "size": [
+        96,
+        96
+      ],
+      "rgba8_noninterlaced": true,
+      "import_dimensions_valid": true,
+      "sha256": "e0156c01156a7316f657aff4b94fc7006617abb27a6ec6ea8defbcc87b99e365",
+      "pixel_hash": "9cbeead7031261f3bf24649651627c4167e4904849d8cc05b8b13e90a3da7ce1",
+      "existing_server_ids": [
+        27027
+      ],
+      "catalog_client_matches": [
+        26142
+      ],
+      "catalog_server_matches": [
+        27027
+      ],
+      "normalized_comparison_size": [
+        96,
+        96
+      ]
+    },
+    {
+      "file": "2.png",
+      "size": [
+        96,
+        96
+      ],
+      "rgba8_noninterlaced": true,
+      "import_dimensions_valid": true,
+      "sha256": "ca91a1139251591af6cadbe9e80ae1306550bb1491c62ad7e38f940d51d202b4",
+      "pixel_hash": "aa64ff3e83baefd188d317a32438be15405e36c206e1f9a0bf9c27aa6ed52b9a",
+      "existing_server_ids": [
+        27028
+      ],
+      "catalog_client_matches": [
+        26143
+      ],
+      "catalog_server_matches": [
+        27028
+      ],
+      "normalized_comparison_size": [
+        96,
+        96
+      ]
+    },
+    {
+      "file": "3.png",
+      "size": [
+        96,
+        96
+      ],
+      "rgba8_noninterlaced": true,
+      "import_dimensions_valid": true,
+      "sha256": "0c4ec2755ebdf163e24abb9f69b4a554d706facb364c2c0a967683383953d236",
+      "pixel_hash": "0c69b6dc00f62bb9b6889f198218fcea53fe88d0d5ab0857ec26d264db05b6e7",
+      "existing_server_ids": [
+        27029
+      ],
+      "catalog_client_matches": [
+        26144
+      ],
+      "catalog_server_matches": [
+        27029
+      ],
+      "normalized_comparison_size": [
+        96,
+        96
+      ]
+    },
+    {
+      "file": "modelo feio mas que pode ser usado.png",
+      "size": [
+        64,
+        63
+      ],
+      "rgba8_noninterlaced": true,
+      "import_dimensions_valid": false,
+      "sha256": "7338658a80d8b0dcb28d5850a784e79dc93a4d878c6a6f8db162df79b4c78105",
+      "pixel_hash": "6be1be8116d8dbabb445197327d5f9969055dc0cdc618dbae98a5894ae9aef4f",
+      "existing_server_ids": [
+        27032
+      ],
+      "comparison_padding": {
+        "bottom_transparent_rows": 1,
+        "input_pixels_changed": false
+      },
+      "catalog_client_matches": [
+        26147
+      ],
+      "catalog_server_matches": [
+        27032
+      ],
+      "normalized_comparison_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "file": "peca restante1.png",
+      "size": [
+        64,
+        64
+      ],
+      "rgba8_noninterlaced": true,
+      "import_dimensions_valid": true,
+      "sha256": "0ebc0d5504451e5b9d32f3e17f93784877eb285eca93601b42e4d7c749959862",
+      "pixel_hash": "cefadac26e73dae75e6607ea8e004f46c9ecd5aee6ade7b846d2bbf8e19f995d",
+      "existing_server_ids": [
+        27031
+      ],
+      "catalog_client_matches": [
+        26146
+      ],
+      "catalog_server_matches": [
+        27031
+      ],
+      "normalized_comparison_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "file": "peca2.png",
+      "size": [
+        64,
+        64
+      ],
+      "rgba8_noninterlaced": true,
+      "import_dimensions_valid": true,
+      "sha256": "f12ec31847a677d217b6f1b63c1fd23cbc2648c68bb3501e4d3ae8d572f49299",
+      "pixel_hash": "e40d9624fda87eae9da8e361a7e41494567bd615a9eb4a77f3380cbe0c523fda",
+      "existing_server_ids": [
+        27030
+      ],
+      "catalog_client_matches": [
+        26145
+      ],
+      "catalog_server_matches": [
+        27030
+      ],
+      "normalized_comparison_size": [
+        64,
+        64
+      ]
+    }
+  ],
+  "import_version": "20261108-043809-791533",
+  "sprite_id_range": [
+    306401,
+    306424
+  ],
+  "new_sprite_count": 24,
+  "map_preserved_sha256": "0e6b4ec99c87f8ddb3000cec35581df9eec3a15fa2c26a59354d6b6f37f08390",
+  "protected_otfi_otml_preserved": true,
+  "runtime_copies_verified": 31,
+  "rar_archives_tested": true,
+  "mobile_static_passed": true,
+  "sources_archive": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\importados\\canos-novos-20261108",
+  "preview": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\work\\canos-novos-20261108\\canos-novos-conferencia.png",
+  "all_original_pngs_unchanged": true,
+  "errors": [],
+  "warnings": [],
+  "in_game_tested": false,
+  "apk_built": false,
+  "git_committed": false,
+  "pushed": false
+}
