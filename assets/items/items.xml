@@ -20607,4 +20607,17 @@
 		<attribute key="weight" value="100" />
 	  <attribute key="description" value="Um baú amaldiçoado confiado a você pelo Velho Pescador."/>
 </item>
+<item id="27082" article="a" name="Stone wall" />
+<item id="27083" article="a" name="Stone wall" />
+<item id="27084" article="a" name="Stone wall" />
+<item id="27085" article="a" name="Stone wall" />
+<item id="27086" article="a" name="Stone wall" />
+<item id="27087" article="a" name="Stone wall" />
+<item id="27088" article="a" name="Stone wall" />
+<item id="27089" article="a" name="Stone wall" />
+	<item id="27090" article="a" name="Metal Pipe 1" />
+	<item id="27091" article="a" name="Metal Pipe 3" />
+	<item id="27092" article="a" name="Metal Pipe 5" />
+	<item id="27093" article="a" name="Metal Pipe 4" />
+<item id="27094" article="a" name="Portao Iwagakure 07" />
 </items>

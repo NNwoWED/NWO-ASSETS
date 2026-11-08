@@ -1,0 +1,482 @@
+{
+  "matrix": [
+    [
+      {
+        "pixels": 217,
+        "offset_new_vs_old": [
+          25,
+          21
+        ],
+        "old_pixels": 4073,
+        "new_pixels": 1768
+      },
+      {
+        "pixels": 157,
+        "offset_new_vs_old": [
+          -24,
+          -14
+        ],
+        "old_pixels": 4073,
+        "new_pixels": 360
+      },
+      {
+        "pixels": 704,
+        "offset_new_vs_old": [
+          -42,
+          -32
+        ],
+        "old_pixels": 4073,
+        "new_pixels": 2954
+      },
+      {
+        "pixels": 704,
+        "offset_new_vs_old": [
+          -42,
+          32
+        ],
+        "old_pixels": 4073,
+        "new_pixels": 2374
+      },
+      {
+        "pixels": 1344,
+        "offset_new_vs_old": [
+          22,
+          -32
+        ],
+        "old_pixels": 4073,
+        "new_pixels": 2237
+      },
+      {
+        "pixels": 1321,
+        "offset_new_vs_old": [
+          22,
+          32
+        ],
+        "old_pixels": 4073,
+        "new_pixels": 2008
+      },
+      {
+        "pixels": 244,
+        "offset_new_vs_old": [
+          32,
+          -6
+        ],
+        "old_pixels": 4073,
+        "new_pixels": 763
+      }
+    ],
+    [
+      {
+        "pixels": 399,
+        "offset_new_vs_old": [
+          31,
+          0
+        ],
+        "old_pixels": 1877,
+        "new_pixels": 1768
+      },
+      {
+        "pixels": 207,
+        "offset_new_vs_old": [
+          -42,
+          -32
+        ],
+        "old_pixels": 1877,
+        "new_pixels": 360
+      },
+      {
+        "pixels": 99,
+        "offset_new_vs_old": [
+          9,
+          -49
+        ],
+        "old_pixels": 1877,
+        "new_pixels": 2954
+      },
+      {
+        "pixels": 1670,
+        "offset_new_vs_old": [
+          22,
+          0
+        ],
+        "old_pixels": 1877,
+        "new_pixels": 2374
+      },
+      {
+        "pixels": 132,
+        "offset_new_vs_old": [
+          2,
+          -35
+        ],
+        "old_pixels": 1877,
+        "new_pixels": 2237
+      },
+      {
+        "pixels": 318,
+        "offset_new_vs_old": [
+          0,
+          2
+        ],
+        "old_pixels": 1877,
+        "new_pixels": 2008
+      },
+      {
+        "pixels": 71,
+        "offset_new_vs_old": [
+          13,
+          -11
+        ],
+        "old_pixels": 1877,
+        "new_pixels": 763
+      }
+    ],
+    [
+      {
+        "pixels": 1768,
+        "offset_new_vs_old": [
+          22,
+          0
+        ],
+        "old_pixels": 2455,
+        "new_pixels": 1768
+      },
+      {
+        "pixels": 66,
+        "offset_new_vs_old": [
+          -18,
+          -37
+        ],
+        "old_pixels": 2455,
+        "new_pixels": 360
+      },
+      {
+        "pixels": 70,
+        "offset_new_vs_old": [
+          17,
+          -54
+        ],
+        "old_pixels": 2455,
+        "new_pixels": 2954
+      },
+      {
+        "pixels": 416,
+        "offset_new_vs_old": [
+          13,
+          0
+        ],
+        "old_pixels": 2455,
+        "new_pixels": 2374
+      },
+      {
+        "pixels": 122,
+        "offset_new_vs_old": [
+          3,
+          -48
+        ],
+        "old_pixels": 2455,
+        "new_pixels": 2237
+      },
+      {
+        "pixels": 687,
+        "offset_new_vs_old": [
+          -42,
+          0
+        ],
+        "old_pixels": 2455,
+        "new_pixels": 2008
+      },
+      {
+        "pixels": 129,
+        "offset_new_vs_old": [
+          29,
+          -14
+        ],
+        "old_pixels": 2455,
+        "new_pixels": 763
+      }
+    ],
+    [
+      {
+        "pixels": 141,
+        "offset_new_vs_old": [
+          15,
+          46
+        ],
+        "old_pixels": 1437,
+        "new_pixels": 1768
+      },
+      {
+        "pixels": 113,
+        "offset_new_vs_old": [
+          -51,
+          15
+        ],
+        "old_pixels": 1437,
+        "new_pixels": 360
+      },
+      {
+        "pixels": 319,
+        "offset_new_vs_old": [
+          -4,
+          0
+        ],
+        "old_pixels": 1437,
+        "new_pixels": 2954
+      },
+      {
+        "pixels": 83,
+        "offset_new_vs_old": [
+          9,
+          46
+        ],
+        "old_pixels": 1437,
+        "new_pixels": 2374
+      },
+      {
+        "pixels": 674,
+        "offset_new_vs_old": [
+          -42,
+          0
+        ],
+        "old_pixels": 1437,
+        "new_pixels": 2237
+      },
+      {
+        "pixels": 40,
+        "offset_new_vs_old": [
+          39,
+          44
+        ],
+        "old_pixels": 1437,
+        "new_pixels": 2008
+      },
+      {
+        "pixels": 763,
+        "offset_new_vs_old": [
+          22,
+          32
+        ],
+        "old_pixels": 1437,
+        "new_pixels": 763
+      }
+    ],
+    [
+      {
+        "pixels": 74,
+        "offset_new_vs_old": [
+          11,
+          51
+        ],
+        "old_pixels": 1870,
+        "new_pixels": 1768
+      },
+      {
+        "pixels": 153,
+        "offset_new_vs_old": [
+          -42,
+          32
+        ],
+        "old_pixels": 1870,
+        "new_pixels": 360
+      },
+      {
+        "pixels": 1717,
+        "offset_new_vs_old": [
+          22,
+          0
+        ],
+        "old_pixels": 1870,
+        "new_pixels": 2954
+      },
+      {
+        "pixels": 65,
+        "offset_new_vs_old": [
+          15,
+          50
+        ],
+        "old_pixels": 1870,
+        "new_pixels": 2374
+      },
+      {
+        "pixels": 340,
+        "offset_new_vs_old": [
+          11,
+          5
+        ],
+        "old_pixels": 1870,
+        "new_pixels": 2237
+      },
+      {
+        "pixels": 35,
+        "offset_new_vs_old": [
+          36,
+          39
+        ],
+        "old_pixels": 1870,
+        "new_pixels": 2008
+      },
+      {
+        "pixels": 186,
+        "offset_new_vs_old": [
+          19,
+          32
+        ],
+        "old_pixels": 1870,
+        "new_pixels": 763
+      }
+    ],
+    [
+      {
+        "pixels": 54,
+        "offset_new_vs_old": [
+          26,
+          59
+        ],
+        "old_pixels": 752,
+        "new_pixels": 1768
+      },
+      {
+        "pixels": 56,
+        "offset_new_vs_old": [
+          -37,
+          31
+        ],
+        "old_pixels": 752,
+        "new_pixels": 360
+      },
+      {
+        "pixels": 533,
+        "offset_new_vs_old": [
+          -42,
+          32
+        ],
+        "old_pixels": 752,
+        "new_pixels": 2954
+      },
+      {
+        "pixels": 77,
+        "offset_new_vs_old": [
+          -11,
+          42
+        ],
+        "old_pixels": 752,
+        "new_pixels": 2374
+      },
+      {
+        "pixels": 219,
+        "offset_new_vs_old": [
+          22,
+          32
+        ],
+        "old_pixels": 752,
+        "new_pixels": 2237
+      },
+      {
+        "pixels": 67,
+        "offset_new_vs_old": [
+          19,
+          43
+        ],
+        "old_pixels": 752,
+        "new_pixels": 2008
+      },
+      {
+        "pixels": 104,
+        "offset_new_vs_old": [
+          10,
+          32
+        ],
+        "old_pixels": 752,
+        "new_pixels": 763
+      }
+    ]
+  ],
+  "old_ids": [
+    27067,
+    27068,
+    27069,
+    27070,
+    27071,
+    27072
+  ],
+  "new_files": [
+    "portão iwagakure1.png",
+    "portão iwagakure2.png",
+    "portão iwagakure3.png",
+    "portão iwagakure4.png",
+    "portão iwagakure5.png",
+    "portão iwagakure6.png",
+    "portão iwagakure7.png"
+  ],
+  "suggested": [
+    {
+      "sid": 27067,
+      "png": "portão iwagakure6.png",
+      "pixels": 1321,
+      "offset_new_vs_old": [
+        22,
+        32
+      ],
+      "old_pixels": 4073,
+      "new_pixels": 2008
+    },
+    {
+      "sid": 27068,
+      "png": "portão iwagakure4.png",
+      "pixels": 1670,
+      "offset_new_vs_old": [
+        22,
+        0
+      ],
+      "old_pixels": 1877,
+      "new_pixels": 2374
+    },
+    {
+      "sid": 27069,
+      "png": "portão iwagakure1.png",
+      "pixels": 1768,
+      "offset_new_vs_old": [
+        22,
+        0
+      ],
+      "old_pixels": 2455,
+      "new_pixels": 1768
+    },
+    {
+      "sid": 27070,
+      "png": "portão iwagakure7.png",
+      "pixels": 763,
+      "offset_new_vs_old": [
+        22,
+        32
+      ],
+      "old_pixels": 1437,
+      "new_pixels": 763
+    },
+    {
+      "sid": 27071,
+      "png": "portão iwagakure3.png",
+      "pixels": 1717,
+      "offset_new_vs_old": [
+        22,
+        0
+      ],
+      "old_pixels": 1870,
+      "new_pixels": 2954
+    },
+    {
+      "sid": 27072,
+      "png": "portão iwagakure5.png",
+      "pixels": 219,
+      "offset_new_vs_old": [
+        22,
+        32
+      ],
+      "old_pixels": 752,
+      "new_pixels": 2237
+    }
+  ],
+  "extra": [
+    "portão iwagakure2.png"
+  ]
+}

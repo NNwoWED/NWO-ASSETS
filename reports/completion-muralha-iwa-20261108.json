@@ -1,0 +1,119 @@
+{
+  "passed": true,
+  "items": [
+    {
+      "source_server_id": 25562,
+      "new_server_id": 27082,
+      "new_client_id": 26197,
+      "png": "muralha_iwa_01_horizontal.png",
+      "pixels_identical": true,
+      "dat_properties_and_layout_identical": true,
+      "otb_properties_identical": true
+    },
+    {
+      "source_server_id": 25563,
+      "new_server_id": 27083,
+      "new_client_id": 26198,
+      "png": "muralha_iwa_02_vertical.png",
+      "pixels_identical": true,
+      "dat_properties_and_layout_identical": true,
+      "otb_properties_identical": true
+    },
+    {
+      "source_server_id": 25564,
+      "new_server_id": 27084,
+      "new_client_id": 26199,
+      "png": "muralha_iwa_04_extensao_25564.png",
+      "pixels_identical": true,
+      "dat_properties_and_layout_identical": true,
+      "otb_properties_identical": true
+    },
+    {
+      "source_server_id": 25565,
+      "new_server_id": 27085,
+      "new_client_id": 26200,
+      "png": "muralha_iwa_03_canto.png",
+      "pixels_identical": true,
+      "dat_properties_and_layout_identical": true,
+      "otb_properties_identical": true
+    },
+    {
+      "source_server_id": 25566,
+      "new_server_id": 27086,
+      "new_client_id": 26201,
+      "png": "muralha_iwa_05_encaixe_25566.png",
+      "pixels_identical": true,
+      "dat_properties_and_layout_identical": true,
+      "otb_properties_identical": true
+    },
+    {
+      "source_server_id": 25567,
+      "new_server_id": 27087,
+      "new_client_id": 26202,
+      "png": "muralha_iwa_06_encaixe_25567.png",
+      "pixels_identical": true,
+      "dat_properties_and_layout_identical": true,
+      "otb_properties_identical": true
+    },
+    {
+      "source_server_id": 25568,
+      "new_server_id": 27088,
+      "new_client_id": 26203,
+      "png": "muralha_iwa_07_encaixe_25568.png",
+      "pixels_identical": true,
+      "dat_properties_and_layout_identical": true,
+      "otb_properties_identical": true
+    },
+    {
+      "source_server_id": 26797,
+      "new_server_id": 27089,
+      "new_client_id": 26204,
+      "png": "muralha_iwa_08_terminal_26797.png",
+      "pixels_identical": true,
+      "dat_properties_and_layout_identical": true,
+      "otb_properties_identical": true
+    }
+  ],
+  "server_ids": [
+    27082,
+    27089
+  ],
+  "client_ids": [
+    26197,
+    26204
+  ],
+  "sprite_ids": [
+    306361,
+    306400
+  ],
+  "inputs_archive": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\importados\\muralha-iwa-20261108",
+  "preview": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\work\\muralha-iwa-recolor-20261108\\novos-itens-conferencia.png",
+  "import_version": "20261108-040746-696599",
+  "map_version": "20261108-042035-174171",
+  "authorized_server_map_sha256": "0e6b4ec99c87f8ddb3000cec35581df9eec3a15fa2c26a59354d6b6f37f08390",
+  "runtime_copies_verified": 31,
+  "rar_archives_tested": [
+    "C:\\Users\\Wedson\\Desktop\\NWO NEW\\nwo-otclient-mehah-4.0\\data\\things\\860.rar",
+    "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-STUDIO\\assets\\things\\1098.rar",
+    "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-STUDIO\\assets\\world\\mapanovo.rar"
+  ],
+  "deep_validation": true,
+  "warnings": [],
+  "errors": [],
+  "mobile_static": true,
+  "desktop_otfi_compatibility": {
+    "binary_profile_equal": true,
+    "desktop_preserved_extra_fields": {
+      "metadata-controller": "default",
+      "attribute-server": "tfs1.4"
+    },
+    "canonical_sha256": "7743548835944bc799cb871a4e5def84f7af76815031871b9ce74b5ec0e8add3",
+    "desktop_sha256": "aa218411341029f2ec1c8fff5a4f767ef8e7eccc9088f8a0c968774547ccce70",
+    "reason": "Desktop OTFI has two existing extra declarations; all DAT/SPR format fields match. Desktop OTFI is not a sync-runtime copy target. Required runtime copies all match canonical SHA-256."
+  },
+  "in_game_tested": false,
+  "apk_built": false,
+  "database_accessed": false,
+  "git_committed": false,
+  "pushed": false
+}

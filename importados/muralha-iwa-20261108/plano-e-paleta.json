@@ -1,0 +1,415 @@
+{
+  "operation": "create 8 new contiguous items; preserve all existing items",
+  "manifest": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\itens\\import-muralha-iwa-20261108.csv",
+  "items": [
+    {
+      "sequence": 1,
+      "source_server_id": 25562,
+      "target_server_id": 27082,
+      "target_client_id": 26197,
+      "source_path": "muralha_iwa_01_horizontal.png",
+      "frame_width": 64,
+      "frame_height": 64,
+      "frames": 1,
+      "frame_duration_ms": "",
+      "animation_async": 0,
+      "layers": 1,
+      "pattern_x": 3,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "operation": "create new item via import-cloned-items",
+      "name": "Stone wall — muralha Iwa recolor",
+      "purpose": "Novo conjunto de muralhas de Iwagakure para mapeamento",
+      "reference_client_id": 24677,
+      "png_dimensions": [
+        192,
+        64
+      ],
+      "source_png_sha256": "f0aef7388854ad3bfb2054fb17c97d7a29cd25cafa53634ca0863bf1e8925d22",
+      "preserve_policy": "Clone source DAT/OTB/XML properties, exactSize, hook/block/collision flags and numeric payloads; retain static layers and patterns; change only appearance and new identity",
+      "dat_properties_hex": "020c0d0e121cba00ff",
+      "otb_group": 0,
+      "otb_flags": 270339,
+      "provided_png": true
+    },
+    {
+      "sequence": 2,
+      "source_server_id": 25563,
+      "target_server_id": 27083,
+      "target_client_id": 26198,
+      "source_path": "muralha_iwa_02_vertical.png",
+      "frame_width": 64,
+      "frame_height": 64,
+      "frames": 1,
+      "frame_duration_ms": "",
+      "animation_async": 0,
+      "layers": 1,
+      "pattern_x": 3,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "operation": "create new item via import-cloned-items",
+      "name": "Stone wall — muralha Iwa recolor",
+      "purpose": "Novo conjunto de muralhas de Iwagakure para mapeamento",
+      "reference_client_id": 24678,
+      "png_dimensions": [
+        192,
+        64
+      ],
+      "source_png_sha256": "fc4fbe4f55855e5162c0c6662299989ebc94ed7605cbb3c95a0053b3dfa18e99",
+      "preserve_policy": "Clone source DAT/OTB/XML properties, exactSize, hook/block/collision flags and numeric payloads; retain static layers and patterns; change only appearance and new identity",
+      "dat_properties_hex": "020c0d0e121cba00ff",
+      "otb_group": 0,
+      "otb_flags": 270339,
+      "provided_png": true
+    },
+    {
+      "sequence": 3,
+      "source_server_id": 25564,
+      "target_server_id": 27084,
+      "target_client_id": 26199,
+      "source_path": "muralha_iwa_04_extensao_25564.png",
+      "frame_width": 64,
+      "frame_height": 64,
+      "frames": 1,
+      "frame_duration_ms": "",
+      "animation_async": 0,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "operation": "create new item via import-cloned-items",
+      "name": "Stone wall — muralha Iwa recolor",
+      "purpose": "Novo conjunto de muralhas de Iwagakure para mapeamento",
+      "reference_client_id": 24679,
+      "png_dimensions": [
+        64,
+        64
+      ],
+      "source_png_sha256": "ab533eb8bebdf00f563407d08ea90fdbdcd49cb8c45baa33a1eda4e8d5f1f079",
+      "preserve_policy": "Clone source DAT/OTB/XML properties, exactSize, hook/block/collision flags and numeric payloads; retain static layers and patterns; change only appearance and new identity",
+      "dat_properties_hex": "020c0d0e121cba00ff",
+      "otb_group": 0,
+      "otb_flags": 270339,
+      "provided_png": false
+    },
+    {
+      "sequence": 4,
+      "source_server_id": 25565,
+      "target_server_id": 27085,
+      "target_client_id": 26200,
+      "source_path": "muralha_iwa_03_canto.png",
+      "frame_width": 64,
+      "frame_height": 64,
+      "frames": 1,
+      "frame_duration_ms": "",
+      "animation_async": 0,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "operation": "create new item via import-cloned-items",
+      "name": "Stone wall — muralha Iwa recolor",
+      "purpose": "Novo conjunto de muralhas de Iwagakure para mapeamento",
+      "reference_client_id": 24680,
+      "png_dimensions": [
+        64,
+        64
+      ],
+      "source_png_sha256": "9a96dd3807d2d920cde959f7049d10c510a6155188287136c91b1a890996afea",
+      "preserve_policy": "Clone source DAT/OTB/XML properties, exactSize, hook/block/collision flags and numeric payloads; retain static layers and patterns; change only appearance and new identity",
+      "dat_properties_hex": "020c0d0e121cba00ff",
+      "otb_group": 0,
+      "otb_flags": 270339,
+      "provided_png": true
+    },
+    {
+      "sequence": 5,
+      "source_server_id": 25566,
+      "target_server_id": 27086,
+      "target_client_id": 26201,
+      "source_path": "muralha_iwa_05_encaixe_25566.png",
+      "frame_width": 64,
+      "frame_height": 64,
+      "frames": 1,
+      "frame_duration_ms": "",
+      "animation_async": 0,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "operation": "create new item via import-cloned-items",
+      "name": "Stone wall — muralha Iwa recolor",
+      "purpose": "Novo conjunto de muralhas de Iwagakure para mapeamento",
+      "reference_client_id": 24681,
+      "png_dimensions": [
+        64,
+        64
+      ],
+      "source_png_sha256": "5036be0c4d1cebcffca06d22e4e31aa7882e5a7207eb26342f255aebe96bc9c7",
+      "preserve_policy": "Clone source DAT/OTB/XML properties, exactSize, hook/block/collision flags and numeric payloads; retain static layers and patterns; change only appearance and new identity",
+      "dat_properties_hex": "020c0d121cba00ff",
+      "otb_group": 0,
+      "otb_flags": 270337,
+      "provided_png": false
+    },
+    {
+      "sequence": 6,
+      "source_server_id": 25567,
+      "target_server_id": 27087,
+      "target_client_id": 26202,
+      "source_path": "muralha_iwa_06_encaixe_25567.png",
+      "frame_width": 64,
+      "frame_height": 64,
+      "frames": 1,
+      "frame_duration_ms": "",
+      "animation_async": 0,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "operation": "create new item via import-cloned-items",
+      "name": "Stone wall — muralha Iwa recolor",
+      "purpose": "Novo conjunto de muralhas de Iwagakure para mapeamento",
+      "reference_client_id": 24682,
+      "png_dimensions": [
+        64,
+        64
+      ],
+      "source_png_sha256": "b6fc69a20c0a382e328f6a5e66f319a9131f4ad075e1ed7cd140225abc351d0a",
+      "preserve_policy": "Clone source DAT/OTB/XML properties, exactSize, hook/block/collision flags and numeric payloads; retain static layers and patterns; change only appearance and new identity",
+      "dat_properties_hex": "020c0d121cba00ff",
+      "otb_group": 0,
+      "otb_flags": 270337,
+      "provided_png": false
+    },
+    {
+      "sequence": 7,
+      "source_server_id": 25568,
+      "target_server_id": 27088,
+      "target_client_id": 26203,
+      "source_path": "muralha_iwa_07_encaixe_25568.png",
+      "frame_width": 64,
+      "frame_height": 64,
+      "frames": 1,
+      "frame_duration_ms": "",
+      "animation_async": 0,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "operation": "create new item via import-cloned-items",
+      "name": "Stone wall — muralha Iwa recolor",
+      "purpose": "Novo conjunto de muralhas de Iwagakure para mapeamento",
+      "reference_client_id": 24683,
+      "png_dimensions": [
+        64,
+        64
+      ],
+      "source_png_sha256": "37a271933845a42bedeae192421e467017d52edf8856280db737cecaf5d91a46",
+      "preserve_policy": "Clone source DAT/OTB/XML properties, exactSize, hook/block/collision flags and numeric payloads; retain static layers and patterns; change only appearance and new identity",
+      "dat_properties_hex": "020c0d121cba00ff",
+      "otb_group": 0,
+      "otb_flags": 270337,
+      "provided_png": false
+    },
+    {
+      "sequence": 8,
+      "source_server_id": 26797,
+      "target_server_id": 27089,
+      "target_client_id": 26204,
+      "source_path": "muralha_iwa_08_terminal_26797.png",
+      "frame_width": 32,
+      "frame_height": 32,
+      "frames": 1,
+      "frame_duration_ms": "",
+      "animation_async": 0,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "operation": "create new item via import-cloned-items",
+      "name": "Stone wall — muralha Iwa recolor",
+      "purpose": "Novo conjunto de muralhas de Iwagakure para mapeamento",
+      "reference_client_id": 25912,
+      "png_dimensions": [
+        32,
+        32
+      ],
+      "source_png_sha256": "c1ec164f2cc34c966f13029843c123e86c21bbe5010eb16ebbe4c139f9f74a8b",
+      "preserve_policy": "Clone source DAT/OTB/XML properties, exactSize, hook/block/collision flags and numeric payloads; retain static layers and patterns; change only appearance and new identity",
+      "dat_properties_hex": "020c0d0e121cba00ff",
+      "otb_group": 0,
+      "otb_flags": 270339,
+      "provided_png": false
+    }
+  ],
+  "palette_lut": [
+    {
+      "from": [
+        169,
+        100,
+        62
+      ],
+      "to": [
+        155,
+        143,
+        109
+      ],
+      "count": 922
+    },
+    {
+      "from": [
+        194,
+        124,
+        77
+      ],
+      "to": [
+        176,
+        163,
+        126
+      ],
+      "count": 466
+    },
+    {
+      "from": [
+        123,
+        73,
+        53
+      ],
+      "to": [
+        120,
+        109,
+        81
+      ],
+      "count": 2474
+    },
+    {
+      "from": [
+        95,
+        57,
+        41
+      ],
+      "to": [
+        88,
+        78,
+        59
+      ],
+      "count": 2016
+    },
+    {
+      "from": [
+        64,
+        35,
+        25
+      ],
+      "to": [
+        55,
+        49,
+        37
+      ],
+      "count": 1396
+    },
+    {
+      "from": [
+        156,
+        92,
+        57
+      ],
+      "to": [
+        141,
+        129,
+        97
+      ],
+      "count": 94
+    },
+    {
+      "from": [
+        142,
+        88,
+        58
+      ],
+      "to": [
+        132,
+        120,
+        90
+      ],
+      "count": 658
+    },
+    {
+      "from": [
+        113,
+        67,
+        49
+      ],
+      "to": [
+        111,
+        101,
+        74
+      ],
+      "count": 1048
+    },
+    {
+      "from": [
+        84,
+        44,
+        33
+      ],
+      "to": [
+        75,
+        66,
+        49
+      ],
+      "count": 272
+    },
+    {
+      "from": [
+        76,
+        46,
+        33
+      ],
+      "to": [
+        69,
+        61,
+        46
+      ],
+      "count": 14
+    },
+    {
+      "from": [
+        107,
+        64,
+        46
+      ],
+      "to": [
+        102,
+        91,
+        67
+      ],
+      "count": 12
+    }
+  ],
+  "corner_note": "Supplied corner PNG differs from old corner outline by 126 alpha pixels. It is preserved byte-for-byte as supplied; its geometry identifies reference SID25565. Other seven appear unchanged apart from requested recolor.",
+  "baseline_report": "reports/validation-muralha-iwa-before-20261108.json",
+  "baseline_asset_hashes": {
+    "assets\\860\\.gitattributes": "d5636a3257287440945c5e017581545e5b0a3e2fdddae7c5ef8d90ff4df3d32a",
+    "assets\\860\\Tibia.dat": "70fdf122d5a4d527f2f3a42aa218be528c0df6a866daf34d80db67240b6cf0df",
+    "assets\\860\\Tibia.otfi": "7743548835944bc799cb871a4e5def84f7af76815031871b9ce74b5ec0e8add3",
+    "assets\\860\\Tibia.spr": "acf7cd039d27c551dcbdbe8b7b75b5531ae0a6efe05060c51db048ee6323c41b",
+    "assets\\items\\force use.txt": "bcb478fdf3f45eca8d172afd7a17d3f8cd520924ee0894752452b8fdc8f71959",
+    "assets\\items\\items.otb": "095faa2577e32ae5790d871b12fab0f71b5270e1360aaef2a838f16a5f1d35fc",
+    "assets\\items\\items.xml": "c4e41cb42da8bb611685881b54251baf3545e5275012150a1652e6d09cdfb232",
+    "assets\\world\\.gitignore": "182cc96ec5135e44d77a8948049f6c93644ef5c04091b7ec7ea1339f264ea79e",
+    "assets\\world\\mapanovo-areas.xml": "1dd56116c40f8f7e287ceba94fb6c6ffb59cde2e8e457512f3a2b61b7c804636",
+    "assets\\world\\mapanovo-house.xml": "7b40678da8fa7aef92e2d680b2c91557d2d01559ec7902f5719c1c844be78f87",
+    "assets\\world\\mapanovo-spawn.xml": "cb663b1feba1b763f21000a8044451a64653a9c292763668ebf0077179577816",
+    "assets\\world\\mapanovo-things.xml": "0d7c8894a757c998f6cc232c733fdf084369171b9f493d46dd3f7f539fe83ff6",
+    "assets\\world\\mapanovo.otbm": "dc909be85fc0a037c94a826c6386b6c52f26cc5ac3435804b3e60fb435d87808",
+    "assets\\world\\routes.xml": "3173748509192f24c845662a34b2b32d5a9ba1b20c2389a8a82267c3d641970d"
+  },
+  "provided_png_hashes": {
+    "muralha_iwa_01_horizontal.png": "f0aef7388854ad3bfb2054fb17c97d7a29cd25cafa53634ca0863bf1e8925d22",
+    "muralha_iwa_02_vertical.png": "fc4fbe4f55855e5162c0c6662299989ebc94ed7605cbb3c95a0053b3dfa18e99",
+    "muralha_iwa_03_canto.png": "9a96dd3807d2d920cde959f7049d10c510a6155188287136c91b1a890996afea"
+  },
+  "map_policy": "Do not modify canonical OTBM. sync-runtime must perform required canonical copies and archive validation."
+}
