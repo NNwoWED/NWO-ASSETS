@@ -1,0 +1,77 @@
+{
+  "source": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\Server-Data-Nwo\\data\\world\\mapanovo.otbm",
+  "target": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\world\\mapanovo.otbm",
+  "source_sha256": "ABB09C367200FE91408756E2ED7C135382F231F538849BC3B601D10207CE2D8C",
+  "previous_sha256": "0E6B4EC99C87F8DDB3000CEC35581DF9EEC3A15FA2C26A59354D6B6F37F08390",
+  "changed": true,
+  "passed": true,
+  "version": {
+    "tool_version": "0.8.2",
+    "version_id": "20261110-045133-135787",
+    "created_at": "2026-11-10T04:51:45.753629-03:00",
+    "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261110-045133-135787",
+    "rar_executable": "C:\\Program Files\\WinRAR\\Rar.exe",
+    "sources": [
+      {
+        "path": "assets/860/.gitattributes",
+        "size": 43,
+        "sha256": "D5636A3257287440945C5E017581545E5B0A3E2FDDDAE7C5EF8D90FF4DF3D32A"
+      },
+      {
+        "path": "assets/860/Tibia.dat",
+        "size": 4675635,
+        "sha256": "B77640B542AAC46D9317B543EA38FDFEFB8383DD93CAFF461710BE91ADF8188E"
+      },
+      {
+        "path": "assets/860/Tibia.otfi",
+        "size": 185,
+        "sha256": "7743548835944BC799CB871A4E5DEF84F7AF76815031871B9CE74B5EC0E8ADD3"
+      },
+      {
+        "path": "assets/860/Tibia.spr",
+        "size": 529771474,
+        "sha256": "CD1D2E96FEF7742377A37B1CDD2257E86D5699EC5EECE023F67901B0BCDF58C6"
+      },
+      {
+        "path": "assets/items/force use.txt",
+        "size": 419,
+        "sha256": "BCB478FDF3F45ECA8D172AFD7A17D3F8CD520924EE0894752452B8FDC8F71959"
+      },
+      {
+        "path": "assets/items/items.otb",
+        "size": 1074672,
+        "sha256": "A4BB86FA91809A89F2C155666BE493183B0DA001E1D3B8A88379A559966143EE"
+      },
+      {
+        "path": "assets/world/mapanovo.otbm",
+        "size": 86622750,
+        "sha256": "ABB09C367200FE91408756E2ED7C135382F231F538849BC3B601D10207CE2D8C"
+      }
+    ],
+    "archives": {
+      "860": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261110-045133-135787\\860.rar",
+        "size": 93447932,
+        "sha256": "91A46048D0534A25B7D0425546A2DD90A5ADC82B427F950AAD88634A8F7B49E4"
+      },
+      "items": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261110-045133-135787\\items.rar",
+        "size": 515305,
+        "sha256": "56E28BAD2D6D7D98FF9EE0C91DEB129566F43419B5469F0E374836EAA73C958A"
+      },
+      "world": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261110-045133-135787\\world.zip",
+        "size": 20867072,
+        "sha256": "D41CA6809A0FF4BE6CC5F9206B3ACFBF902E33DBDDFADD150B3D56E5C0353D9E"
+      }
+    },
+    "items_xml_excluded": true,
+    "world_entries": [
+      "mapanovo.otbm"
+    ],
+    "world_source": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\Server-Data-Nwo\\data\\world\\mapanovo.otbm",
+    "passed": true
+  },
+  "committed": true,
+  "sha256": "ABB09C367200FE91408756E2ED7C135382F231F538849BC3B601D10207CE2D8C"
+}
