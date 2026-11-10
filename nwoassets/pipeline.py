@@ -14,7 +14,8 @@ from .profiles import detect_profile
 
 
 def _single(root: Path, name: str) -> Path:
-    matches = [path for path in root.rglob("*") if path.is_file() and path.name.casefold() == name.casefold()]
+    search_root = root / "assets" if (root / "assets").is_dir() else root
+    matches = [path for path in search_root.rglob("*") if path.is_file() and path.name.casefold() == name.casefold()]
     if len(matches) != 1:
         raise FormatError(
             f"esperado exatamente um {name} em {root}; encontrados {len(matches)}"
@@ -112,11 +113,11 @@ def inspect_text_configs(root: Path) -> dict[str, object]:
     }
 
 
-def validate_root(root: Path, *, deep_spr: bool = False) -> dict[str, object]:
+def validate_root(root: Path, *, deep_spr: bool = False, world_directory: Path | None = None) -> dict[str, object]:
     root = root.resolve()
     inventory = scan_directory(root)
     client = inspect_client(root, deep_spr=deep_spr)
-    world = inspect_world(root)
+    world = inspect_world(root, world_directory=world_directory) if world_directory else inspect_world(root)
     configs = inspect_text_configs(root)
     errors = list(client["errors"])
     warnings = list(client["warnings"])

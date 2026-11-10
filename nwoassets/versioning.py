@@ -114,7 +114,7 @@ def _archive_world(map_path: Path, destination: Path) -> None:
             raise FormatError(f"{destination}: hash do OTBM compactado diverge da origem")
 
 
-def create_version(root: Path) -> dict[str, object]:
+def create_version(root: Path, *, world_file: Path | None = None) -> dict[str, object]:
     root = root.resolve()
     layout = require_asset_layout(root)
     rar = find_rar()
@@ -124,7 +124,7 @@ def create_version(root: Path) -> dict[str, object]:
         for path in layout["items"].rglob("*")
         if path.is_file() and path.suffix.casefold() != ".xml"
     )
-    maps = sorted(layout["world"].glob("*.otbm"))
+    maps = [world_file.resolve()] if world_file else sorted(layout["world"].glob("*.otbm"))
     reserved = [
         path
         for path in [*files_860, *files_items]
@@ -161,7 +161,7 @@ def create_version(root: Path) -> dict[str, object]:
             "rar_executable": str(rar),
             "sources": [
                 {
-                    "path": str(path.relative_to(root)).replace("\\", "/"),
+                    "path": "assets/world/" + path.name if world_file and path == maps[0] else str(path.relative_to(root)).replace("\\", "/"),
                     "size": path.stat().st_size,
                     "sha256": sha256_file(path),
                 }
@@ -177,6 +177,7 @@ def create_version(root: Path) -> dict[str, object]:
             },
             "items_xml_excluded": True,
             "world_entries": [maps[0].name],
+            "world_source": str(maps[0]),
             "passed": True,
         }
         payload = (json.dumps(report, ensure_ascii=False, indent=2) + "\n").encode("utf-8")

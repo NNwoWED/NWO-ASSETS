@@ -98,7 +98,7 @@ def _runtime_paths(
     sources = {
         "items.otb": layout["items"] / "items.otb",
         "items.xml": layout["items"] / "items.xml",
-        "server/mapanovo.otbm": layout["world"] / "mapanovo.otbm",
+        "server/mapanovo.otbm": server_world / "mapanovo.otbm",
         "rme/items.otb": layout["items"] / "items.otb",
         "rme/items.xml": layout["items"] / "items.xml",
         "Tibia.dat": layout["860"] / "Tibia.dat",
@@ -111,7 +111,7 @@ def _runtime_paths(
         "studio/Tibia.dat": layout["860"] / "Tibia.dat",
         "studio/Tibia.spr": layout["860"] / "Tibia.spr",
         "studio/Tibia.otfi": layout["860"] / "Tibia.otfi",
-        "studio/mapanovo.otbm": layout["world"] / "mapanovo.otbm",
+        "studio/mapanovo.otbm": server_world / "mapanovo.otbm",
     }
     for name in metadata_names:
         sources[f"metadata/{name}"] = root / name
@@ -224,6 +224,10 @@ def sync_runtime_assets(root: Path, *, dry_run: bool = False, client_root: Path 
         studio_things_archive,
         studio_map_archive,
     ) = _runtime_paths(root, client_root)
+    official_map = sources["server/mapanovo.otbm"]
+    operational_map = root / "assets/world/mapanovo.otbm"
+    if sha256_file(official_map) != sha256_file(operational_map):
+        raise FormatError("mapa operacional desatualizado; execute align-server-world antes de publicar")
     validation = validate_root(root, deep_spr=True)
     if not validation.get("passed", False):
         raise FormatError(f"baseline canônica reprovou: {validation.get('errors', [])}")
@@ -342,9 +346,11 @@ def sync_runtime_assets(root: Path, *, dry_run: bool = False, client_root: Path 
             os.replace(pending_archive, final_archive)
             published.append(final_archive)
 
-        for name, target in targets.items():
-            if sha256_file(target) != sha256_file(sources[name]):
-                raise FormatError(f"hash publicado diverge da baseline: {target}")
+        for entry in copies:
+            if sha256_file(Path(entry["source"])) != entry["sha256"]:
+                raise FormatError(f"origem mudou durante a sincronizacao: {entry['source']}")
+            if sha256_file(Path(entry["target"])) != entry["sha256"]:
+                raise FormatError(f"hash publicado diverge da baseline: {entry['target']}")
         entries = _inspect_rar(rar, archive, client_860)
         studio_things_entries = _inspect_rar(rar, studio_things_archive, client_860)
         studio_map_entries = _inspect_single_file_rar(

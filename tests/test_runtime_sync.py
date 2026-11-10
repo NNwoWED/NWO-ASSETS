@@ -77,7 +77,7 @@ class RuntimeSyncTests(unittest.TestCase):
         (root / "assets" / "860" / "Tibia.otfi").write_bytes(canonical["Tibia.otfi"])
         (root / "assets" / "world" / "mapanovo.otbm").write_bytes(canonical["mapanovo.otbm"])
         (studio_world / "mapanovo.otbm").write_bytes(previous["mapanovo.otbm"])
-        (server_world / "mapanovo.otbm").write_bytes(previous["mapanovo.otbm"])
+        (server_world / "mapanovo.otbm").write_bytes(canonical["mapanovo.otbm"])
         for name in (
             "items.otml",
             "creatures.otml",
@@ -243,7 +243,7 @@ class RuntimeSyncTests(unittest.TestCase):
     @patch("nwoassets.runtime_sync._run_rar", side_effect=FormatError("rar falhou"))
     def test_rolls_back_when_archive_fails(self, _rar, _find, _validate) -> None:
         with tempfile.TemporaryDirectory() as directory:
-            root, _, previous = self.make_workspace(directory)
+            root, canonical, previous = self.make_workspace(directory)
             with self.assertRaises(FormatError):
                 sync_runtime_assets(root)
             workspace = root.parent
@@ -273,7 +273,7 @@ class RuntimeSyncTests(unittest.TestCase):
             )
             self.assertEqual(
                 (workspace / "Server-Data-Nwo/data/world/mapanovo.otbm").read_bytes(),
-                previous["mapanovo.otbm"],
+                canonical["mapanovo.otbm"],
             )
             self.assertEqual(
                 (workspace / "nwo-otclient-mehah-4.0/data/things/creatures.otml").read_bytes(),

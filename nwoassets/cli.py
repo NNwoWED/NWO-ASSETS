@@ -9,6 +9,7 @@ import sys
 from typing import Callable
 
 from . import __version__
+from .align_world import align_server_world
 from .animation import edit_animation_durations
 from .content import inspect_world, scan_directory
 from .clone_item_importer import import_cloned_items
@@ -76,6 +77,7 @@ def build_parser() -> argparse.ArgumentParser:
         command.add_argument("-o", "--output", help="grava o relatório JSON neste caminho")
         return command
 
+    common("align-server-world", "alinha a copia operacional ao mapa oficial do servidor com versao testada")
     common("scan", "inventaria e calcula SHA-256 de todos os arquivos")
     client = common("inspect-client", "inspeciona OTFI, DAT, SPR e OTB")
     client.add_argument(
@@ -367,6 +369,7 @@ def main(argv: list[str] | None = None) -> int:
             output_dir=args.out_dir,
             overwrite=args.overwrite,
         ),
+        "align-server-world": lambda: align_server_world(args.root),
         "sync-runtime": lambda: sync_runtime_assets(
             args.root,
             dry_run=args.dry_run,
@@ -389,7 +392,7 @@ def main(argv: list[str] | None = None) -> int:
             "validate", "import-items", "import-obd-remakes", "import-cloned-items", "repair-item-patterns", "repair-exact-item-clones", "import-effects", "import-missiles", "import-outfits", "edit-animation-durations",
             "create-version", "edit-item-properties", "edit-ground-speeds", "edit-item-elevations",
             "inspect-map-position", "export-png",
-            "sync-runtime", "restore-client-runtime", "adopt-runtime", "consolidate-runtime",
+            "sync-runtime", "restore-client-runtime", "adopt-runtime", "consolidate-runtime", "align-server-world",
         } and not report.get("passed", False):
             return 1
         return 0

@@ -54,6 +54,10 @@ def scan_directory(root: Path) -> dict[str, object]:
         "export",
         "reports",
         "versions",
+        "work",
+        "drafts",
+        "sprites",
+        "importados",
     }
     files: list[dict[str, object]] = []
     hashes: defaultdict[str, list[str]] = defaultdict(list)
@@ -290,8 +294,8 @@ def inspect_zip(path: Path) -> dict[str, object]:
     }
 
 
-def inspect_world(root: Path) -> dict[str, object]:
-    world = root / "assets" / "world"
+def inspect_world(root: Path, *, world_directory: Path | None = None) -> dict[str, object]:
+    world = world_directory or root / "assets" / "world"
     if not world.is_dir():
         raise FormatError(f"{world}: diretório world não encontrado")
     maps = [inspect_otbm(path) for path in sorted(world.glob("*.otbm"))]

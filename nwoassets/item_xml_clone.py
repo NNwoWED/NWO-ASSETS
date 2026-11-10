@@ -37,7 +37,7 @@ def _clone_fragment(fragment: str, element: ET.Element, target_id: int) -> str:
 
 
 def clone_xml_definitions(
-    source_xml: bytes, target_to_source: dict[int, int]
+    source_xml: bytes, target_to_source: dict[int, int], *, labels: dict[int, dict[str, str | None]] | None = None
 ) -> tuple[bytes, dict[str, object]]:
     """Clone XML item definitions, including definitions declared as ID ranges."""
 
@@ -71,6 +71,18 @@ def clone_xml_definitions(
         if source is None:
             continue
         expected_fragment = _clone_fragment(source[0], source[1], target_id)
+        label = (labels or {}).get(target_id, {})
+        if any(label.values()):
+            definition = ET.fromstring(expected_fragment)
+            if label.get("name"):
+                definition.set("name", label["name"])
+            if label.get("description"):
+                attribute = definition.find("attribute[@key='description']")
+                if attribute is None:
+                    attribute = ET.SubElement(definition, "attribute", {"key": "description"})
+                attribute.set("value", label["description"])
+            expected_fragment = ET.tostring(definition, encoding="unicode", short_empty_elements=True)
+
         target_ids_with_definition.append(target_id)
         existing = target_fragments.get(target_id)
         if existing is not None:

@@ -44,6 +44,8 @@ class CloneItemEntry:
     pattern_x: int = 1
     pattern_y: int = 1
     pattern_z: int = 1
+    name: str | None = None
+    description: str | None = None
 
 
 def read_clone_item_manifest(path: Path) -> list[CloneItemEntry]:
@@ -55,7 +57,7 @@ def read_clone_item_manifest(path: Path) -> list[CloneItemEntry]:
             "source_path", "frame_width", "frame_height", "frames",
             "frame_duration_ms", "animation_async",
         }
-        optional = {"layers", "pattern_x", "pattern_y", "pattern_z"}
+        optional = {"layers", "pattern_x", "pattern_y", "pattern_z", "name", "description"}
         received = set(reader.fieldnames or ())
         if not required.issubset(received) or received - required - optional:
             raise FormatError(
@@ -112,6 +114,7 @@ def read_clone_item_manifest(path: Path) -> list[CloneItemEntry]:
                 sequence, source_server_id, target_server_id, target_client_id,
                 source, frame_width, frame_height, frames, duration, async_raw == "1",
                 layers, pattern_x, pattern_y, pattern_z,
+                row.get("name") or None, row.get("description") or None,
             ))
     if not entries or [e.sequence for e in entries] != list(range(1, len(entries) + 1)):
         raise FormatError(f"{path}: sequence deve ser continua a partir de 1")
@@ -421,6 +424,7 @@ def import_cloned_items(
     prepared_xml, xml_report = clone_xml_definitions(
         original_xml,
         {entry.target_server_id: entry.source_server_id for entry in entries},
+        labels={entry.target_server_id: {"name": entry.name, "description": entry.description} for entry in entries},
     )
     protected = {
         path: sha256_file(path)

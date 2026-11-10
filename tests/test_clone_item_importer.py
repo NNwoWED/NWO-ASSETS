@@ -20,6 +20,16 @@ OTFI = OtfiConfig(True, True, True, True, "Tibia.dat", "Tibia.spr", 32, 4096)
 
 
 class CloneItemImporterTests(unittest.TestCase):
+    def test_labels_apply_only_to_new_xml_definitions(self):
+        import xml.etree.ElementTree as ET
+        from nwoassets.item_xml_clone import clone_xml_definitions
+        original=b'<items>\n<item id="100" name="Old"><attribute key="description" value="Old description"/></item>\n</items>'
+        output,_=clone_xml_definitions(original,{101:100},labels={101:{'name':'Coleta & Chakra','description':'New research'}})
+        self.assertIn(original.splitlines()[1],output)
+        clone=ET.fromstring(output).find("item[@id='101']")
+        self.assertEqual(clone.get('name'),'Coleta & Chakra')
+        self.assertEqual(clone.find("attribute[@key='description']").get('value'),'New research')
+
     def test_grid_is_split_left_to_right_then_top_to_bottom(self):
         colors = [bytes((red, 0, 0, 255)) * (32 * 32) for red in (1, 2, 3, 4)]
         rgba = bytearray(64 * 64 * 4)
