@@ -1,0 +1,171 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "profile": {
+    "key": "tibia-860-v2-custom-extended",
+    "client_version": 860,
+    "label": "Tibia 8.60 v2 customizado com features OTFI",
+    "dat_signature": "0x4C2C7993",
+    "spr_signature": "0x4C220594",
+    "metadata_reader": 5,
+    "otb_version_hint": "8.60"
+  },
+  "category": "items",
+  "id_kind": "server",
+  "requested_ids": [
+    14559,
+    14560,
+    26976,
+    26978
+  ],
+  "output_dir": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items",
+  "exported_count": 4,
+  "exported": [
+    {
+      "requested_id": 14559,
+      "client_id": 13682,
+      "server_ids": [
+        14559
+      ],
+      "name": "Papel",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        247103
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-14559_client-13682_papel.png",
+      "size": 312,
+      "sha256": "9790A3796AC94FF950227E41466340B27E6163E4ABB2BF9832DF3E1887E86A14"
+    },
+    {
+      "requested_id": 14560,
+      "client_id": 13683,
+      "server_ids": [
+        14560
+      ],
+      "name": "Pergaminho Base",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        249658
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-14560_client-13683_pergaminho-base.png",
+      "size": 454,
+      "sha256": "079514904D84D04798321C572E1BC1FB8734AAE4D7FB4E14615090943DC41AC0"
+    },
+    {
+      "requested_id": 26976,
+      "client_id": 26091,
+      "server_ids": [
+        26976
+      ],
+      "name": "Pergaminho de Selamento Roubado",
+      "group_index": 0,
+      "width": 32,
+      "height": 800,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 25,
+      "sprite_ids": [
+        306286,
+        306287,
+        306288,
+        306289,
+        306290,
+        306291,
+        306292,
+        306293,
+        306294,
+        306295,
+        306296,
+        306297,
+        306298,
+        306299,
+        306300,
+        306301,
+        306302,
+        306303,
+        306304,
+        306305,
+        306306,
+        306307,
+        306308,
+        306309,
+        306310
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-26976_client-26091_pergaminho-de-selamento-roubado.png",
+      "size": 3888,
+      "sha256": "C452251B37AAC2C0CF10D0B851445BA000FB1B5A21611FC958F9D677EB093E28"
+    },
+    {
+      "requested_id": 26978,
+      "client_id": 26093,
+      "server_ids": [
+        26978
+      ],
+      "name": "Pergaminho de Selamento Restaurado",
+      "group_index": 0,
+      "width": 32,
+      "height": 800,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 25,
+      "sprite_ids": [
+        306336,
+        306337,
+        306338,
+        306339,
+        306340,
+        306341,
+        306342,
+        306343,
+        306344,
+        306345,
+        306346,
+        306347,
+        306348,
+        306349,
+        306350,
+        306351,
+        306352,
+        306353,
+        306354,
+        306355,
+        306356,
+        306357,
+        306358,
+        306359,
+        306360
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-26978_client-26093_pergaminho-de-selamento-restaurado.png",
+      "size": 3810,
+      "sha256": "1C7E60E1495018AC2F2D05F1683D71A57BE9CC376CD6D82AC9BD1DDC94B517FF"
+    }
+  ],
+  "sources": {
+    "dat": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.dat",
+      "sha256": "B77640B542AAC46D9317B543EA38FDFEFB8383DD93CAFF461710BE91ADF8188E"
+    },
+    "spr": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.spr",
+      "sha256": "CD1D2E96FEF7742377A37B1CDD2257E86D5699EC5EECE023F67901B0BCDF58C6"
+    }
+  },
+  "passed": true
+}

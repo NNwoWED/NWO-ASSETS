@@ -1,0 +1,293 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "manifest": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\mayu-chakra-20261110\\manifest.csv",
+  "item_count": 6,
+  "target_server_id_range": [
+    27095,
+    27100
+  ],
+  "target_client_id_range": [
+    26210,
+    26215
+  ],
+  "new_sprite_count": 78,
+  "sprite_id_range": [
+    306707,
+    306784
+  ],
+  "items": [
+    {
+      "sequence": 1,
+      "source_server_id": 26976,
+      "source_client_id": 26091,
+      "target_server_id": 27095,
+      "target_client_id": 26210,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\mayu-chakra-20261110\\predator-coleta.png",
+      "source_sha256": "9790A3796AC94FF950227E41466340B27E6163E4ABB2BF9832DF3E1887E86A14",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        306707,
+        306707
+      ],
+      "sprite_hash": "2317714EF06AF893A2797290E8574E48"
+    },
+    {
+      "sequence": 2,
+      "source_server_id": 26976,
+      "source_client_id": 26091,
+      "target_server_id": 27096,
+      "target_client_id": 26211,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\mayu-chakra-20261110\\assassins-coleta.png",
+      "source_sha256": "9790A3796AC94FF950227E41466340B27E6163E4ABB2BF9832DF3E1887E86A14",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        306708,
+        306708
+      ],
+      "sprite_hash": "2317714EF06AF893A2797290E8574E48"
+    },
+    {
+      "sequence": 3,
+      "source_server_id": 26976,
+      "source_client_id": 26091,
+      "target_server_id": 27097,
+      "target_client_id": 26212,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\mayu-chakra-20261110\\turtle-coleta.png",
+      "source_sha256": "9790A3796AC94FF950227E41466340B27E6163E4ABB2BF9832DF3E1887E86A14",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        306709,
+        306709
+      ],
+      "sprite_hash": "2317714EF06AF893A2797290E8574E48"
+    },
+    {
+      "sequence": 4,
+      "source_server_id": 26976,
+      "source_client_id": 26091,
+      "target_server_id": 27098,
+      "target_client_id": 26213,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\mayu-chakra-20261110\\predator-completo.png",
+      "source_sha256": "C452251B37AAC2C0CF10D0B851445BA000FB1B5A21611FC958F9D677EB093E28",
+      "image_size": [
+        32,
+        800
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 25,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": 100,
+      "animation_async": true,
+      "sprite_id_count": 25,
+      "sprite_id_range": [
+        306710,
+        306734
+      ],
+      "sprite_hash": "ADF7F62B54075A0BACD15522FA14AB4D"
+    },
+    {
+      "sequence": 5,
+      "source_server_id": 26976,
+      "source_client_id": 26091,
+      "target_server_id": 27099,
+      "target_client_id": 26214,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\mayu-chakra-20261110\\assassins-completo.png",
+      "source_sha256": "C452251B37AAC2C0CF10D0B851445BA000FB1B5A21611FC958F9D677EB093E28",
+      "image_size": [
+        32,
+        800
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 25,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": 100,
+      "animation_async": true,
+      "sprite_id_count": 25,
+      "sprite_id_range": [
+        306735,
+        306759
+      ],
+      "sprite_hash": "ADF7F62B54075A0BACD15522FA14AB4D"
+    },
+    {
+      "sequence": 6,
+      "source_server_id": 26976,
+      "source_client_id": 26091,
+      "target_server_id": 27100,
+      "target_client_id": 26215,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\mayu-chakra-20261110\\turtle-completo.png",
+      "source_sha256": "1C7E60E1495018AC2F2D05F1683D71A57BE9CC376CD6D82AC9BD1DDC94B517FF",
+      "image_size": [
+        32,
+        800
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 25,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": 100,
+      "animation_async": true,
+      "sprite_id_count": 25,
+      "sprite_id_range": [
+        306760,
+        306784
+      ],
+      "sprite_hash": "309E3F7CE9B031E47A4F15F63808CBB9"
+    }
+  ],
+  "xml": {
+    "source_definitions": 1,
+    "target_definitions_written": 6,
+    "target_definitions_already_exact": 0,
+    "target_ids": [
+      27095,
+      27096,
+      27097,
+      27098,
+      27099,
+      27100
+    ]
+  },
+  "map_scan": {
+    "tiles_scanned": 8440196,
+    "item_nodes_scanned": 2294887
+  },
+  "version_backup": {
+    "tool_version": "0.8.2",
+    "version_id": "20261110-045853-969934",
+    "created_at": "2026-11-10T04:59:05.907246-03:00",
+    "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261110-045853-969934",
+    "rar_executable": "C:\\Program Files\\WinRAR\\Rar.exe",
+    "sources": [
+      {
+        "path": "assets/860/.gitattributes",
+        "size": 43,
+        "sha256": "D5636A3257287440945C5E017581545E5B0A3E2FDDDAE7C5EF8D90FF4DF3D32A"
+      },
+      {
+        "path": "assets/860/Tibia.dat",
+        "size": 4675635,
+        "sha256": "B77640B542AAC46D9317B543EA38FDFEFB8383DD93CAFF461710BE91ADF8188E"
+      },
+      {
+        "path": "assets/860/Tibia.otfi",
+        "size": 185,
+        "sha256": "7743548835944BC799CB871A4E5DEF84F7AF76815031871B9CE74B5EC0E8ADD3"
+      },
+      {
+        "path": "assets/860/Tibia.spr",
+        "size": 529771474,
+        "sha256": "CD1D2E96FEF7742377A37B1CDD2257E86D5699EC5EECE023F67901B0BCDF58C6"
+      },
+      {
+        "path": "assets/items/force use.txt",
+        "size": 419,
+        "sha256": "BCB478FDF3F45ECA8D172AFD7A17D3F8CD520924EE0894752452B8FDC8F71959"
+      },
+      {
+        "path": "assets/items/items.otb",
+        "size": 1074672,
+        "sha256": "A4BB86FA91809A89F2C155666BE493183B0DA001E1D3B8A88379A559966143EE"
+      },
+      {
+        "path": "assets/world/mapanovo.otbm",
+        "size": 86622750,
+        "sha256": "ABB09C367200FE91408756E2ED7C135382F231F538849BC3B601D10207CE2D8C"
+      }
+    ],
+    "archives": {
+      "860": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261110-045853-969934\\860.rar",
+        "size": 93447932,
+        "sha256": "91A46048D0534A25B7D0425546A2DD90A5ADC82B427F950AAD88634A8F7B49E4"
+      },
+      "items": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261110-045853-969934\\items.rar",
+        "size": 515305,
+        "sha256": "56E28BAD2D6D7D98FF9EE0C91DEB129566F43419B5469F0E374836EAA73C958A"
+      },
+      "world": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261110-045853-969934\\world.zip",
+        "size": 20867072,
+        "sha256": "D41CA6809A0FF4BE6CC5F9206B3ACFBF902E33DBDDFADD150B3D56E5C0353D9E"
+      }
+    },
+    "items_xml_excluded": true,
+    "world_entries": [
+      "mapanovo.otbm"
+    ],
+    "world_source": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\world\\mapanovo.otbm",
+    "passed": true
+  },
+  "transaction_committed": true,
+  "old_dat_records_preserved": true,
+  "old_otb_nodes_preserved": true,
+  "old_sprite_payload_preserved": true,
+  "new_sprite_pixels_verified": true,
+  "final_validation_passed": true,
+  "warnings": [],
+  "errors": [],
+  "passed": true
+}

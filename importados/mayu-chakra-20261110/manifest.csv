@@ -1,0 +1,7 @@
+sequence,source_server_id,target_server_id,target_client_id,source_path,frame_width,frame_height,frames,frame_duration_ms,animation_async,name,description
+1,26976,27095,26210,predator-coleta.png,32,32,1,,0,Pergaminho de Coleta de Chakra (Predator),Guarda amostras de chakra de Predator. Carregue-o na mochila e derrote 300 desses inimigos para completar a coleta.
+2,26976,27096,26211,assassins-coleta.png,32,32,1,,0,Pergaminho de Coleta de Chakra (Assassins),Guarda amostras de chakra de Assassins. Carregue-o na mochila e derrote 300 desses inimigos para completar a coleta.
+3,26976,27097,26212,turtle-coleta.png,32,32,1,,0,Pergaminho de Coleta de Chakra (Turtle),Guarda amostras de chakra de Turtle. Carregue-o na mochila e derrote 300 desses inimigos para completar a coleta.
+4,26976,27098,26213,predator-completo.png,32,32,25,100,1,Pergaminho de Chakra Completo (Predator),Contém as 300 amostras de chakra de Predator. Entregue-o a Mayu.
+5,26976,27099,26214,assassins-completo.png,32,32,25,100,1,Pergaminho de Chakra Completo (Assassins),Contém as 300 amostras de chakra de Assassins. Entregue-o a Mayu.
+6,26976,27100,26215,turtle-completo.png,32,32,25,100,1,Pergaminho de Chakra Completo (Turtle),Contém as 300 amostras de chakra de Turtle. Entregue-o a Mayu.

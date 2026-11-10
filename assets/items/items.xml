@@ -20620,4 +20620,28 @@
 	<item id="27092" article="a" name="Metal Pipe 5" />
 	<item id="27093" article="a" name="Metal Pipe 4" />
 <item id="27094" article="a" name="Portao Iwagakure 07" />
+<item id="27095" article="a" name="Pergaminho de Coleta de Chakra (Predator)">
+		<attribute key="weight" value="40" />
+	  <attribute key="description" value="Guarda amostras de chakra de Predator. Carregue-o na mochila e derrote 300 desses inimigos para completar a coleta." />
+</item>
+<item id="27096" article="a" name="Pergaminho de Coleta de Chakra (Assassins)">
+		<attribute key="weight" value="40" />
+	  <attribute key="description" value="Guarda amostras de chakra de Assassins. Carregue-o na mochila e derrote 300 desses inimigos para completar a coleta." />
+</item>
+<item id="27097" article="a" name="Pergaminho de Coleta de Chakra (Turtle)">
+		<attribute key="weight" value="40" />
+	  <attribute key="description" value="Guarda amostras de chakra de Turtle. Carregue-o na mochila e derrote 300 desses inimigos para completar a coleta." />
+</item>
+<item id="27098" article="a" name="Pergaminho de Chakra Completo (Predator)">
+		<attribute key="weight" value="40" />
+	  <attribute key="description" value="Contém as 300 amostras de chakra de Predator. Entregue-o a Mayu." />
+</item>
+<item id="27099" article="a" name="Pergaminho de Chakra Completo (Assassins)">
+		<attribute key="weight" value="40" />
+	  <attribute key="description" value="Contém as 300 amostras de chakra de Assassins. Entregue-o a Mayu." />
+</item>
+<item id="27100" article="a" name="Pergaminho de Chakra Completo (Turtle)">
+		<attribute key="weight" value="40" />
+	  <attribute key="description" value="Contém as 300 amostras de chakra de Turtle. Entregue-o a Mayu." />
+</item>
 </items>

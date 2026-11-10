@@ -1,0 +1,96 @@
+{
+  "purpose": "Mayu research - separate item per species and stage",
+  "operation": "import-cloned-items",
+  "source_properties": 26976,
+  "appearance_sources": {
+    "14559": 13682,
+    "26976": 26091,
+    "26978": 26093
+  },
+  "rows": [
+    {
+      "sequence": 1,
+      "source_server_id": 26976,
+      "target_server_id": 27095,
+      "target_client_id": 26210,
+      "source_path": "predator-coleta.png",
+      "frame_width": 32,
+      "frame_height": 32,
+      "frames": 1,
+      "frame_duration_ms": "",
+      "animation_async": 0,
+      "name": "Pergaminho de Coleta de Chakra (Predator)",
+      "description": "Guarda amostras de chakra de Predator. Carregue-o na mochila e derrote 300 desses inimigos para completar a coleta."
+    },
+    {
+      "sequence": 2,
+      "source_server_id": 26976,
+      "target_server_id": 27096,
+      "target_client_id": 26211,
+      "source_path": "assassins-coleta.png",
+      "frame_width": 32,
+      "frame_height": 32,
+      "frames": 1,
+      "frame_duration_ms": "",
+      "animation_async": 0,
+      "name": "Pergaminho de Coleta de Chakra (Assassins)",
+      "description": "Guarda amostras de chakra de Assassins. Carregue-o na mochila e derrote 300 desses inimigos para completar a coleta."
+    },
+    {
+      "sequence": 3,
+      "source_server_id": 26976,
+      "target_server_id": 27097,
+      "target_client_id": 26212,
+      "source_path": "turtle-coleta.png",
+      "frame_width": 32,
+      "frame_height": 32,
+      "frames": 1,
+      "frame_duration_ms": "",
+      "animation_async": 0,
+      "name": "Pergaminho de Coleta de Chakra (Turtle)",
+      "description": "Guarda amostras de chakra de Turtle. Carregue-o na mochila e derrote 300 desses inimigos para completar a coleta."
+    },
+    {
+      "sequence": 4,
+      "source_server_id": 26976,
+      "target_server_id": 27098,
+      "target_client_id": 26213,
+      "source_path": "predator-completo.png",
+      "frame_width": 32,
+      "frame_height": 32,
+      "frames": 25,
+      "frame_duration_ms": 100,
+      "animation_async": 1,
+      "name": "Pergaminho de Chakra Completo (Predator)",
+      "description": "Contém as 300 amostras de chakra de Predator. Entregue-o a Mayu."
+    },
+    {
+      "sequence": 5,
+      "source_server_id": 26976,
+      "target_server_id": 27099,
+      "target_client_id": 26214,
+      "source_path": "assassins-completo.png",
+      "frame_width": 32,
+      "frame_height": 32,
+      "frames": 25,
+      "frame_duration_ms": 100,
+      "animation_async": 1,
+      "name": "Pergaminho de Chakra Completo (Assassins)",
+      "description": "Contém as 300 amostras de chakra de Assassins. Entregue-o a Mayu."
+    },
+    {
+      "sequence": 6,
+      "source_server_id": 26976,
+      "target_server_id": 27100,
+      "target_client_id": 26215,
+      "source_path": "turtle-completo.png",
+      "frame_width": 32,
+      "frame_height": 32,
+      "frames": 25,
+      "frame_duration_ms": 100,
+      "animation_async": 1,
+      "name": "Pergaminho de Chakra Completo (Turtle)",
+      "description": "Contém as 300 amostras de chakra de Turtle. Entregue-o a Mayu."
+    }
+  ]
+}
