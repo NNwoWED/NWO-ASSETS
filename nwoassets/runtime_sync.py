@@ -57,8 +57,16 @@ def _runtime_paths(
         "diretorio world do servidor",
     )
     rme_items = _require_directory(
-        workspace / "RME 5.0" / "Editor" / "data" / "860",
-        "diretório de items do RME",
+        workspace / "RME-NARUTO" / "data" / "860",
+        "diretório de items do RME-NARUTO",
+    )
+    rme_crypto = _require_directory(
+        workspace / "RME-NARUTO" / "data" / "860-crypto",
+        "diretório DAT/SPR do RME-NARUTO",
+    )
+    rme_things = _require_directory(
+        workspace / "RME-NARUTO" / "data" / "things",
+        "diretório things do RME-NARUTO",
     )
     client_things = _require_directory(
         (client_root or workspace / "nwo-otclient-mehah-4.0") / "data" / "things",
@@ -101,6 +109,9 @@ def _runtime_paths(
         "server/mapanovo.otbm": server_world / "mapanovo.otbm",
         "rme/items.otb": layout["items"] / "items.otb",
         "rme/items.xml": layout["items"] / "items.xml",
+        "rme/Tibia.dat": layout["860"] / "Tibia.dat",
+        "rme/Tibia.spr": layout["860"] / "Tibia.spr",
+        "rme/items.otml": root / "items.otml",
         "Tibia.dat": layout["860"] / "Tibia.dat",
         "Tibia.spr": layout["860"] / "Tibia.spr",
         "mobile/Tibia.dat": layout["860"] / "Tibia.dat",
@@ -126,6 +137,9 @@ def _runtime_paths(
         "server/mapanovo.otbm": server_world / "mapanovo.otbm",
         "rme/items.otb": rme_items / "items.otb",
         "rme/items.xml": rme_items / "items.xml",
+        "rme/Tibia.dat": rme_crypto / "Tibia.dat",
+        "rme/Tibia.spr": rme_crypto / "Tibia.spr",
+        "rme/items.otml": rme_things / "items.otml",
         "Tibia.dat": client_860 / "Tibia.dat",
         "Tibia.spr": client_860 / "Tibia.spr",
         "mobile/Tibia.dat": mobile_860 / "Tibia.dat",
