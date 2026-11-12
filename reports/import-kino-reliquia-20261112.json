@@ -1,0 +1,128 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "manifest": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\mission-comments-20261112\\kino-reliquia.csv",
+  "profile": "tibia-860-v2-custom-extended",
+  "version_backup": {
+    "tool_version": "0.8.2",
+    "version_id": "20261112-053120-069201",
+    "created_at": "2026-11-12T05:31:33.009913-03:00",
+    "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261112-053120-069201",
+    "rar_executable": "C:\\Program Files\\WinRAR\\Rar.exe",
+    "sources": [
+      {
+        "path": "assets/860/.gitattributes",
+        "size": 43,
+        "sha256": "D5636A3257287440945C5E017581545E5B0A3E2FDDDAE7C5EF8D90FF4DF3D32A"
+      },
+      {
+        "path": "assets/860/Tibia.dat",
+        "size": 4719214,
+        "sha256": "A3B9D3E245FBFA2945501B4957BF32C5CE611B830B61D37A28CF936D4A6EC434"
+      },
+      {
+        "path": "assets/860/Tibia.otfi",
+        "size": 185,
+        "sha256": "7743548835944BC799CB871A4E5DEF84F7AF76815031871B9CE74B5EC0E8ADD3"
+      },
+      {
+        "path": "assets/860/Tibia.spr",
+        "size": 538223896,
+        "sha256": "AF754303DB3E77A527A19F8132189B8EAA74166DCADEDE05712A28B9DFADDBB0"
+      },
+      {
+        "path": "assets/items/force use.txt",
+        "size": 419,
+        "sha256": "BCB478FDF3F45ECA8D172AFD7A17D3F8CD520924EE0894752452B8FDC8F71959"
+      },
+      {
+        "path": "assets/items/items.otb",
+        "size": 1093131,
+        "sha256": "DDFA435D75A33A538D4E5E3C22C74F788FC4A633AA560568BC480D7ADDD7BC2C"
+      },
+      {
+        "path": "assets/world/mapanovo.otbm",
+        "size": 86622750,
+        "sha256": "ABB09C367200FE91408756E2ED7C135382F231F538849BC3B601D10207CE2D8C"
+      }
+    ],
+    "archives": {
+      "860": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261112-053120-069201\\860.rar",
+        "size": 93786853,
+        "sha256": "6EA7E67B1FA664EDF139B76A5E8F7DCADF67753CBADA2FF3D02609573FFFA9F9"
+      },
+      "items": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261112-053120-069201\\items.rar",
+        "size": 524202,
+        "sha256": "437E8EB422FEDE37DE92EB08F88F72FDB5E5CF45C0172967F9EF0E7B67FB8996"
+      },
+      "world": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261112-053120-069201\\world.zip",
+        "size": 20867072,
+        "sha256": "D41CA6809A0FF4BE6CC5F9206B3ACFBF902E33DBDDFADD150B3D56E5C0353D9E"
+      }
+    },
+    "items_xml_excluded": true,
+    "world_entries": [
+      "mapanovo.otbm"
+    ],
+    "world_source": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\world\\mapanovo.otbm",
+    "passed": true
+  },
+  "sprite_hash_gate": {
+    "sample_count": 64,
+    "mismatch_count": 0,
+    "mismatches": [],
+    "passed": true
+  },
+  "item_count": 1,
+  "new_sprite_count": 1,
+  "sprite_id_range": [
+    313745,
+    313745
+  ],
+  "items": [
+    {
+      "sequence": 1,
+      "client_id": 26084,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\mission-comments-20261112\\kino-reliquia-green-crystal.png",
+      "file_sha256": "C181FB177EC9AC2B17E08BA80F04ADB631E79F7F3834B7CB686AB2BC3AD53C3E",
+      "pixels_sha256": "0E874F55C5957969DC1683989B878B8ED78DBFE1E179DE940F5CDAE1746F52C0",
+      "image_width": 32,
+      "image_height": 32,
+      "width_tiles": 1,
+      "height_tiles": 1,
+      "frames": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_ids": [
+        313745
+      ],
+      "sprite_hash": "A7802CE74575A6AB089CC358D7A85315",
+      "layout_preserved": false,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1
+    }
+  ],
+  "otb_nodes_updated": {
+    "26084": 1
+  },
+  "transaction_committed": true,
+  "output_hashes": {
+    "dat": "B90F2E079512B4FF3486DD4F47A230A2FCD67F9C69F8BA4FC9D794C986EF472D",
+    "spr": "6F620C34D7D6D22BFFA5F5BE2BB7986D6EA14E44E386D46D3535DBF1392D6332",
+    "otb": "1F541D66CD36BF8FE6FAF0CE1B67846B0FEC76A85CF2A9A262BDCAA18412E588"
+  },
+  "dat_non_targets_preserved": true,
+  "old_sprite_payload_preserved": true,
+  "new_sprite_pixels_verified": true,
+  "layout_preserved_client_ids": [],
+  "untouched_files_preserved": true,
+  "map_byte_equal": true,
+  "final_validation_passed": true,
+  "warnings": [],
+  "errors": [],
+  "passed": true
+}
