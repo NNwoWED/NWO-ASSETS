@@ -1,0 +1,128 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "manifest": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\mission-comments-20261112\\pescador-chave.csv",
+  "profile": "tibia-860-v2-custom-extended",
+  "version_backup": {
+    "tool_version": "0.8.2",
+    "version_id": "20261112-053334-550711",
+    "created_at": "2026-11-12T05:33:45.814324-03:00",
+    "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261112-053334-550711",
+    "rar_executable": "C:\\Program Files\\WinRAR\\Rar.exe",
+    "sources": [
+      {
+        "path": "assets/860/.gitattributes",
+        "size": 43,
+        "sha256": "D5636A3257287440945C5E017581545E5B0A3E2FDDDAE7C5EF8D90FF4DF3D32A"
+      },
+      {
+        "path": "assets/860/Tibia.dat",
+        "size": 4719214,
+        "sha256": "B90F2E079512B4FF3486DD4F47A230A2FCD67F9C69F8BA4FC9D794C986EF472D"
+      },
+      {
+        "path": "assets/860/Tibia.otfi",
+        "size": 185,
+        "sha256": "7743548835944BC799CB871A4E5DEF84F7AF76815031871B9CE74B5EC0E8ADD3"
+      },
+      {
+        "path": "assets/860/Tibia.spr",
+        "size": 538224725,
+        "sha256": "6F620C34D7D6D22BFFA5F5BE2BB7986D6EA14E44E386D46D3535DBF1392D6332"
+      },
+      {
+        "path": "assets/items/force use.txt",
+        "size": 419,
+        "sha256": "BCB478FDF3F45ECA8D172AFD7A17D3F8CD520924EE0894752452B8FDC8F71959"
+      },
+      {
+        "path": "assets/items/items.otb",
+        "size": 1093131,
+        "sha256": "1F541D66CD36BF8FE6FAF0CE1B67846B0FEC76A85CF2A9A262BDCAA18412E588"
+      },
+      {
+        "path": "assets/world/mapanovo.otbm",
+        "size": 86622750,
+        "sha256": "ABB09C367200FE91408756E2ED7C135382F231F538849BC3B601D10207CE2D8C"
+      }
+    ],
+    "archives": {
+      "860": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261112-053334-550711\\860.rar",
+        "size": 93827932,
+        "sha256": "A865BFCAD61CF164FA32D9F15651BFDDED701187C0D3B6C4B0439B4F29C5EDFC"
+      },
+      "items": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261112-053334-550711\\items.rar",
+        "size": 524201,
+        "sha256": "7F7AF2C6429052504BF3ECDFD4C8E5B22B4DA8053346D50C8AF2F6AC8C1E9D81"
+      },
+      "world": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261112-053334-550711\\world.zip",
+        "size": 20867072,
+        "sha256": "D41CA6809A0FF4BE6CC5F9206B3ACFBF902E33DBDDFADD150B3D56E5C0353D9E"
+      }
+    },
+    "items_xml_excluded": true,
+    "world_entries": [
+      "mapanovo.otbm"
+    ],
+    "world_source": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\world\\mapanovo.otbm",
+    "passed": true
+  },
+  "sprite_hash_gate": {
+    "sample_count": 64,
+    "mismatch_count": 0,
+    "mismatches": [],
+    "passed": true
+  },
+  "item_count": 1,
+  "new_sprite_count": 1,
+  "sprite_id_range": [
+    313746,
+    313746
+  ],
+  "items": [
+    {
+      "sequence": 1,
+      "client_id": 26078,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\mission-comments-20261112\\pescador-chave-silver-key-2088.png",
+      "file_sha256": "6D87E3D7E6E6DDD5A3F177BFC058D988595553C916409156832E4336EFFE04EC",
+      "pixels_sha256": "B3AB847EE34193B64A268AE03F2C24391637742EF0C1D62954377FAF51145F64",
+      "image_width": 32,
+      "image_height": 32,
+      "width_tiles": 1,
+      "height_tiles": 1,
+      "frames": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_ids": [
+        313746
+      ],
+      "sprite_hash": "BDD2C6C3430FC00F76337EE224A132D3",
+      "layout_preserved": false,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1
+    }
+  ],
+  "otb_nodes_updated": {
+    "26078": 1
+  },
+  "transaction_committed": true,
+  "output_hashes": {
+    "dat": "A3BF68143AF6D3D354A30B9BB762CECA4C41A7E745E4EC771B0AC9370CA024C4",
+    "spr": "2BBE8402407562249EF1DAC172C3E8A137640CC7E40A0415833C5117AF29AAB5",
+    "otb": "F3FE156C18E51BC79D8EE7C40324C8D76BBFC7112A3A1523D3B5FEC3369655B9"
+  },
+  "dat_non_targets_preserved": true,
+  "old_sprite_payload_preserved": true,
+  "new_sprite_pixels_verified": true,
+  "layout_preserved_client_ids": [],
+  "untouched_files_preserved": true,
+  "map_byte_equal": true,
+  "final_validation_passed": true,
+  "warnings": [],
+  "errors": [],
+  "passed": true
+}

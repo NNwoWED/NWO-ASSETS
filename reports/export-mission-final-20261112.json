@@ -1,0 +1,123 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "profile": {
+    "key": "tibia-860-v2-custom-extended",
+    "client_version": 860,
+    "label": "Tibia 8.60 v2 customizado com features OTFI",
+    "dat_signature": "0x4C2C7993",
+    "spr_signature": "0x4C220594",
+    "metadata_reader": 5,
+    "otb_version_hint": "8.60"
+  },
+  "category": "items",
+  "id_kind": "server",
+  "requested_ids": [
+    2088,
+    11464,
+    26963,
+    26969
+  ],
+  "output_dir": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items",
+  "exported_count": 4,
+  "exported": [
+    {
+      "requested_id": 2088,
+      "client_id": 2969,
+      "server_ids": [
+        2088
+      ],
+      "name": "Silver key",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        514
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-2088_client-2969_silver-key.png",
+      "size": 275,
+      "sha256": "6D87E3D7E6E6DDD5A3F177BFC058D988595553C916409156832E4336EFFE04EC"
+    },
+    {
+      "requested_id": 11464,
+      "client_id": 10580,
+      "server_ids": [
+        11464
+      ],
+      "name": "Green Crystal",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        33341
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-11464_client-10580_green-crystal.png",
+      "size": 610,
+      "sha256": "C181FB177EC9AC2B17E08BA80F04ADB631E79F7F3834B7CB686AB2BC3AD53C3E"
+    },
+    {
+      "requested_id": 26963,
+      "client_id": 26078,
+      "server_ids": [
+        26963
+      ],
+      "name": "Chave Amaldiçoada",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        313746
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-26963_client-26078_chave-amaldicoada.png",
+      "size": 275,
+      "sha256": "6D87E3D7E6E6DDD5A3F177BFC058D988595553C916409156832E4336EFFE04EC"
+    },
+    {
+      "requested_id": 26969,
+      "client_id": 26084,
+      "server_ids": [
+        26969
+      ],
+      "name": "Relíquia Antiga",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        313745
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-26969_client-26084_reliquia-antiga.png",
+      "size": 610,
+      "sha256": "C181FB177EC9AC2B17E08BA80F04ADB631E79F7F3834B7CB686AB2BC3AD53C3E"
+    }
+  ],
+  "sources": {
+    "dat": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.dat",
+      "sha256": "A3BF68143AF6D3D354A30B9BB762CECA4C41A7E745E4EC771B0AC9370CA024C4"
+    },
+    "spr": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.spr",
+      "sha256": "2BBE8402407562249EF1DAC172C3E8A137640CC7E40A0415833C5117AF29AAB5"
+    }
+  },
+  "passed": true
+}

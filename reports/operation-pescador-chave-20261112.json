@@ -1,0 +1,17 @@
+{
+  "operation": "substituir",
+  "item": "Chave Amaldiçoada",
+  "purpose": "Chave vinculada e resultado da pesca de O Tesouro Amaldiçoado",
+  "server_id": 26963,
+  "client_id": 26078,
+  "source_server_id": 2088,
+  "source_client_id": 2969,
+  "png": "NWO-ASSETS\\sprites\\mission-comments-20261112\\pescador-chave-silver-key-2088.png",
+  "dimensions": [
+    32,
+    32
+  ],
+  "layout": "static, 1 layer, 1 pattern, 1 frame",
+  "properties": "preserve DAT/OTB flags and payloads; update appearance and SpriteHash only",
+  "source_confirmed_by_user": true
+}

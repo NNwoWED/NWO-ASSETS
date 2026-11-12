@@ -20644,4 +20644,254 @@
 		<attribute key="weight" value="40" />
 	  <attribute key="description" value="Contém as 300 amostras de chakra de Turtle. Entregue-o a Mayu." />
 </item>
+<item id="27101" name="Earth" />
+<item id="27102" name="Earth" />
+<item id="27103" name="Earth" />
+<item id="27104" name="Earth" />
+<item id="27105" name="Earth" />
+<item id="27106" name="Earth" />
+<item id="27107" name="Earth" />
+<item id="27108" name="Earth" />
+<item id="27109" name="Earth" />
+<item id="27110" name="Earth" />
+<item id="27111" name="Earth" />
+<item id="27112" name="Earth" />
+<item id="27113" name="Earth" />
+<item id="27114" name="Earth" />
+<item id="27115" name="Earth" />
+<item id="27116" name="Earth" />
+<item id="27117" name="Earth" />
+<item id="27118" name="Earth" />
+	<item id="27119" article="a" name="Sign" />
+<item id="27132" name="floor" />
+<item id="27133" name="floor" />
+<item id="27141" article="a" name="Old wood bridge" />
+<item id="27142" article="a" name="Old wood bridge" />
+<item id="27143" article="a" name="Old wood bridge" />
+<item id="27144" article="a" name="Old wood bridge" />
+<item id="27145" article="a" name="Old wood bridge" />
+<item id="27146" article="a" name="Old wood bridge" />
+<item id="27147" article="a" name="Old wood bridge" />
+<item id="27148" article="a" name="Old wood bridge" />
+<item id="27149" article="a" name="Old wood bridge" />
+<item id="27150" article="a" name="Old wood bridge" />
+<item id="27151" article="a" name="Old wood bridge" />
+<item id="27152" article="a" name="Old wood bridge" />
+<item id="27153" article="a" name="Old wood bridge" />
+<item id="27154" article="a" name="Old wood bridge" />
+<item id="27155" article="a" name="Old wood bridge" />
+<item id="27156" article="a" name="Old wood bridge" />
+<item id="27157" article="a" name="Old wood bridge" />
+<item id="27158" article="a" name="Old wood bridge" />
+<item id="27159" article="a" name="Old wood bridge" />
+<item id="27160" article="a" name="Old wood bridge" />
+<item id="27161" article="a" name="Wood piece" />
+<item id="27162" article="a" name="Wood piece" />
+<item id="27163" article="a" name="Wood piece" />
+<item id="27164" article="a" name="Wood piece" />
+<item id="27165" article="a" name="Wood piece" />
+<item id="27166" article="a" name="Wood piece" />
+<item id="27167" article="a" name="Wood piece" />
+<item id="27168" article="a" name="Wood piece" />
+<item id="27169" article="a" name="Wood piece" />
+<item id="27170" article="a" name="Wood piece" />
+	<item id="27173" name="Parchments" />
+	<item id="27174" name="Books" />
+<item id="27177" name="Books" />
+<item id="27178" name="Books" />
+<item id="27179" name="Books" />
+<item id="27180" name="Books" />
+<item id="27181" name="Books" />
+<item id="27182" name="Books" />
+<item id="27183" name="Books" />
+<item id="27184" name="Books" />
+<item id="27185" name="Books" />
+<item id="27186" name="Books" />
+<item id="27187" name="Books" />
+<item id="27188" name="Books" />
+<item id="27189" article="a" name="Parchment" />
+<item id="27190" article="a" name="Parchment" />
+<item id="27191" article="a" name="Parchment" />
+<item id="27192" article="a" name="Parchment" />
+<item id="27193" article="a" name="Parchment" />
+<item id="27194" article="a" name="Parchment" />
+<item id="27195" article="a" name="Parchment" />
+<item id="27196" article="a" name="Parchment" />
+<item id="27197" article="a" name="Parchment" />
+<item id="27198" article="a" name="Parchment" />
+<item id="27201" name="Books" />
+<item id="27202" name="Books" />
+<item id="27203" name="Books" />
+<item id="27204" article="a" name="Book" />
+<item id="27205" article="a" name="Book" />
+<item id="27206" article="a" name="Book" />
+<item id="27218" article="a" name="Carpet" />
+<item id="27219" article="a" name="Carpet" />
+<item id="27220" article="a" name="Carpet" />
+<item id="27221" article="a" name="Carpet" />
+<item id="27222" article="a" name="Carpet" />
+<item id="27223" article="a" name="Carpet" />
+<item id="27224" article="a" name="Carpet" />
+<item id="27225" article="a" name="Carpet" />
+<item id="27226" article="a" name="Carpet" />
+<item id="27227" article="a" name="Carpet" />
+<item id="27228" article="a" name="Carpet" />
+<item id="27229" article="a" name="Carpet" />
+<item id="27230" article="a" name="Carpet" />
+<item id="27231" article="a" name="Carpet" />
+<item id="27232" article="a" name="Carpet" />
+<item id="27233" article="a" name="Carpet" />
+<item id="27234" article="a" name="Carpet" />
+<item id="27235" article="a" name="Carpet" />
+<item id="27236" article="a" name="Carpet" />
+<item id="27237" article="a" name="Carpet" />
+<item id="27238" article="a" name="Carpet" />
+<item id="27239" article="a" name="Carpet" />
+<item id="27240" article="a" name="Carpet" />
+<item id="27241" article="a" name="Carpet" />
+<item id="27242" article="a" name="Carpet" />
+<item id="27243" article="a" name="Carpet" />
+<item id="27244" article="a" name="Carpet" />
+<item id="27245" article="a" name="Carpet" />
+<item id="27246" article="a" name="Carpet" />
+<item id="27247" article="a" name="Carpet" />
+<item id="27248" article="a" name="Carpet" />
+<item id="27249" article="a" name="Carpet" />
+<item id="27250" article="a" name="Carpet" />
+<item id="27251" article="a" name="Carpet" />
+<item id="27252" article="a" name="Carpet" />
+<item id="27253" article="a" name="Carpet" />
+<item id="27254" article="a" name="Carpet" />
+<item id="27255" article="a" name="Carpet" />
+<item id="27256" article="a" name="Carpet" />
+<item id="27257" article="a" name="Carpet" />
+<item id="27258" article="a" name="Carpet" />
+<item id="27259" article="a" name="Carpet" />
+<item id="27260" article="a" name="Carpet" />
+<item id="27261" article="a" name="Carpet" />
+<item id="27262" article="a" name="Carpet" />
+<item id="27263" article="a" name="Carpet" />
+<item id="27264" article="a" name="Carpet" />
+<item id="27265" article="a" name="Carpet" />
+<item id="27266" article="a" name="Carpet" />
+<item id="27267" article="a" name="Carpet" />
+<item id="27268" article="a" name="Carpet" />
+<item id="27269" article="a" name="Carpet" />
+<item id="27270" article="a" name="Carpet" />
+<item id="27271" article="a" name="Carpet" />
+<item id="27272" article="a" name="Carpet" />
+<item id="27273" article="a" name="Carpet" />
+<item id="27274" article="a" name="Carpet" />
+<item id="27275" article="a" name="Carpet" />
+<item id="27276" article="a" name="Carpet" />
+<item id="27277" article="a" name="Carpet" />
+<item id="27278" article="a" name="Carpet" />
+<item id="27279" article="a" name="Carpet" />
+<item id="27280" article="a" name="Carpet" />
+<item id="27281" article="a" name="Carpet" />
+<item id="27282" article="a" name="Carpet" />
+<item id="27283" article="a" name="Carpet" />
+<item id="27284" article="a" name="Carpet" />
+<item id="27285" article="a" name="Carpet" />
+<item id="27286" article="a" name="Carpet" />
+<item id="27287" article="a" name="Carpet" />
+<item id="27288" article="a" name="Carpet" />
+<item id="27289" article="a" name="Carpet" />
+<item id="27290" article="a" name="Carpet" />
+<item id="27291" article="a" name="Carpet" />
+<item id="27292" article="a" name="Carpet" />
+<item id="27293" article="a" name="Carpet" />
+<item id="27294" article="a" name="Carpet" />
+<item id="27295" article="a" name="Carpet" />
+<item id="27296" article="a" name="Carpet" />
+<item id="27297" article="a" name="Carpet" />
+<item id="27298" article="a" name="Carpet" />
+<item id="27299" article="a" name="Carpet" />
+<item id="27300" article="a" name="Carpet" />
+<item id="27301" article="a" name="Carpet" />
+<item id="27302" article="a" name="Carpet" />
+<item id="27303" article="a" name="Carpet" />
+<item id="27304" article="a" name="Carpet" />
+<item id="27305" article="a" name="Carpet" />
+<item id="27306" article="a" name="Carpet" />
+<item id="27307" article="a" name="Carpet" />
+<item id="27308" article="a" name="Carpet" />
+<item id="27309" article="a" name="Carpet" />
+<item id="27310" article="a" name="Carpet" />
+<item id="27311" article="a" name="Carpet" />
+<item id="27312" article="a" name="Carpet" />
+<item id="27313" article="a" name="Carpet" />
+<item id="27314" article="a" name="Carpet" />
+<item id="27315" article="a" name="Carpet" />
+<item id="27316" article="a" name="Carpet" />
+<item id="27317" article="a" name="Carpet" />
+<item id="27318" article="a" name="Carpet" />
+<item id="27319" article="a" name="Carpet" />
+<item id="27320" article="a" name="Carpet" />
+<item id="27321" article="a" name="Carpet" />
+<item id="27322" article="a" name="Carpet" />
+<item id="27323" article="a" name="Carpet" />
+<item id="27324" article="a" name="Carpet" />
+<item id="27325" article="a" name="Carpet" />
+<item id="27326" article="a" name="Carpet" />
+<item id="27327" article="a" name="Carpet" />
+<item id="27328" article="a" name="Carpet" />
+<item id="27329" article="a" name="Carpet" />
+<item id="27330" article="a" name="Carpet" />
+<item id="27331" article="a" name="Carpet" />
+<item id="27332" article="a" name="Carpet" />
+<item id="27333" article="a" name="Carpet" />
+<item id="27334" article="a" name="Carpet" />
+<item id="27335" article="a" name="Carpet" />
+<item id="27336" article="a" name="Carpet" />
+<item id="27337" article="a" name="Carpet" />
+<item id="27338" article="a" name="Carpet" />
+<item id="27339" article="a" name="Carpet" />
+<item id="27340" article="a" name="Carpet" />
+<item id="27362" article="a" name="Bookcase" />
+<item id="27363" article="a" name="Bookcase" />
+	<item id="27364" article="a" name="Parchment" />
+<item id="27382" article="a" name="Parchment" />
+<item id="27383" article="a" name="Parchment" />
+<item id="27384" article="a" name="Parchment" />
+<item id="27385" article="a" name="Parchment" />
+<item id="27386" article="a" name="Parchment" />
+<item id="27387" article="a" name="Parchment" />
+	<item id="27429" article="a" name="Decoration box" />
+	<item id="27435" article="a" name="Terraria">
+		<attribute key="description" value="Esse item deve servir para alguma coisa." />
+	</item>
+<item id="27437" article="a" name="Oven" />
+<item id="27438" article="a" name="Oven" />
+<item id="27439" article="a" name="Oven" />
+<item id="27440" article="a" name="Oven" />
+<item id="27441" article="a" name="Kitchen shelf" />
+<item id="27442" article="a" name="Kitchen shelf" />
+<item id="27443" article="a" name="Box" />
+<item id="27444" article="a" name="Box" />
+<item id="27445" article="a" name="Blue table" />
+<item id="27446" article="a" name="Blue table" />
+<item id="27447" article="a" name="Blue table" />
+<item id="27448" article="a" name="Blue table" />
+<item id="27449" article="a" name="Blue table" />
+<item id="27450" article="a" name="Blue table" />
+<item id="27451" article="a" name="Blue table" />
+<item id="27452" article="a" name="Blue table" />
+<item id="27453" article="a" name="Blue chair" />
+<item id="27454" article="a" name="Blue chair" />
+<item id="27455" article="a" name="Blue chair" />
+<item id="27456" article="a" name="Blue chair" />
+<item id="27457" article="a" name="Blue chest" />
+<item id="27458" article="a" name="Blue chest" />
+<item id="27459" article="a" name="Blue chest" />
+<item id="27460" article="a" name="Blue chest" />
+<item id="27479" article="a" name="Chest" />
+<item id="27480" article="a" name="Chest" />
+<item id="27481" name="floor" />
+<item id="27493" name="Earth" />
+<item id="27494" name="Earth" />
+<item id="27497" article="a" name="Wood piece" />
+<item id="27498" article="a" name="Wood piece" />
+<item id="27499" article="a" name="Parchment" />
+<item id="27500" article="a" name="Parchment" />
 </items>

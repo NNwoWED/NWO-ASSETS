@@ -1,0 +1,16 @@
+{
+  "operation": "substituir",
+  "item": "Relíquia Antiga",
+  "purpose": "Prova vinculada da missão O Mapa Esquecido",
+  "server_id": 26969,
+  "client_id": 26084,
+  "source_server_id": 11464,
+  "source_client_id": 10580,
+  "png": "NWO-ASSETS\\sprites\\mission-comments-20261112\\kino-reliquia-green-crystal.png",
+  "dimensions": [
+    32,
+    32
+  ],
+  "layout": "static, 1 layer, 1 pattern, 1 frame",
+  "properties": "preserve DAT/OTB flags and payloads; update appearance and SpriteHash only"
+}
