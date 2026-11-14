@@ -1,0 +1,77 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "profile": {
+    "key": "tibia-860-v2-custom-extended",
+    "client_version": 860,
+    "label": "Tibia 8.60 v2 customizado com features OTFI",
+    "dat_signature": "0x4C2C7993",
+    "spr_signature": "0x4C220594",
+    "metadata_reader": 5,
+    "otb_version_hint": "8.60"
+  },
+  "category": "items",
+  "id_kind": "server",
+  "requested_ids": [
+    25601,
+    25602
+  ],
+  "output_dir": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\november-guizos-20261114",
+  "exported_count": 2,
+  "exported": [
+    {
+      "requested_id": 25601,
+      "client_id": 24716,
+      "server_ids": [
+        25601
+      ],
+      "name": "Kakashi's Guizos",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        276727
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\november-guizos-20261114\\server-25601_client-24716_kakashi-s-guizos.png",
+      "size": 378,
+      "sha256": "4DD840F823AF2254B1113A6983D713A1B6C7BB495BF553B697756D93BFA16604"
+    },
+    {
+      "requested_id": 25602,
+      "client_id": 24717,
+      "server_ids": [
+        25602
+      ],
+      "name": "Kakashi's Guizos",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        276728
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\november-guizos-20261114\\server-25602_client-24717_kakashi-s-guizos.png",
+      "size": 392,
+      "sha256": "1A0E8C9CC47FB1A425C7ACE6C58E548F99DF13D0DCBE8D087811E8C0D4598DAC"
+    }
+  ],
+  "sources": {
+    "dat": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.dat",
+      "sha256": "A3BF68143AF6D3D354A30B9BB762CECA4C41A7E745E4EC771B0AC9370CA024C4"
+    },
+    "spr": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.spr",
+      "sha256": "2BBE8402407562249EF1DAC172C3E8A137640CC7E40A0415833C5117AF29AAB5"
+    }
+  },
+  "passed": true
+}

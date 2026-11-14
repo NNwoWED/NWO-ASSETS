@@ -286,3 +286,10 @@ Versões 20261112-053120-069201, 20261112-053334-550711. Relatórios import-kino
 - A baseline da principal coincide com os pais dos commits selecionados; os cherry-picks foram aplicados sem conflito e os blobs finais conferidos como idênticos aos da `mob-estrelado`. DAT final com Client ID máximo 26615, SPR com 313.746 sprites e OTB com Server ID máximo 27500.
 - Versão imutável anterior à promoção `20261114-042046-453544` criada e testada com o mapa oficial; alinhamento final versionado em `20261114-042212-985240`. Validação profunda concluída sem erros ou avisos.
 - Sincronização oficial aprovada para servidor, RME-NARUTO, client PC, mobile e NWO-STUDIO: 34 destinos conferidos por SHA-256 e os arquivos RAR testados. Relatórios `align-server-world-main-after-mob-estrelado-promotion-20261114.json`, `validation-main-promotion-final-20261114.json` e `sync-runtime-main-promotion-20261114.json` em `reports/`.
+
+## 14/11/2026 - Guizos de novembro
+
+- Criados os itens Kakashi's Guizos de novembro, Server IDs 27501–27502 / Client IDs 26616–26617, clonando propriedades e pixels dos Guizos 25601–25602. Aparências estáticas 32×32, sem alteração dos registros anteriores.
+- O item ativo descreve o período de 20/11/2026 às 10h até 25/11/2026 às 23h59. O evento entrega quatro Guizos vinculados por personagem; cada Guizo concede uma hora de Double XP após confirmação.
+- Versão imutável `20261114-043731-108910` criada e testada antes da gravação. Importação, validação profunda e sincronização de 34 destinos aprovadas; DAT final até Client ID 26617, SPR com 313.748 sprites e OTB até Server ID 27502.
+- Fontes exportadas e manifesto arquivados em `importados/november-guizos-20261114/`. Relatórios `import-november-guizos-20261114.json`, `validation-november-guizos-final-20261114.json` e `sync-runtime-november-guizos-20261114.json` preservados em `reports/`.

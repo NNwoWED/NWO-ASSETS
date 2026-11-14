@@ -20894,4 +20894,10 @@
 <item id="27498" article="a" name="Wood piece" />
 <item id="27499" article="a" name="Parchment" />
 <item id="27500" article="a" name="Parchment" />
+	<item id="27501" article="a" name="Kakashi's Guizos">
+		<attribute key="description" value="Ative de 20/11/2026 às 10h até 25/11/2026 às 23h59, no horário do servidor. Cada Guizo concede 1 hora de Double XP. O bônus ativado permanece até completar sua duração, mesmo após o prazo." />
+	</item>
+	<item id="27502" article="a" name="Kakashi's Guizos">
+		<attribute key="description" value="Uma oportunidade perdida." />
+	</item>
 </items>

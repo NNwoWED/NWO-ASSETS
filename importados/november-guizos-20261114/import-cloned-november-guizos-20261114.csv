@@ -1,0 +1,3 @@
+sequence,source_server_id,target_server_id,target_client_id,source_path,frame_width,frame_height,frames,frame_duration_ms,animation_async
+1,25601,27501,26616,server-25601_client-24716_kakashi-s-guizos.png,32,32,1,,
+2,25602,27502,26617,server-25602_client-24717_kakashi-s-guizos.png,32,32,1,,
