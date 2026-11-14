@@ -279,3 +279,10 @@
 Substituição visual da Relíquia Antiga SID 26969 / CID 26084 pela referência Green Crystal SID 11464 / CID 10580, e da Chave Amaldiçoada SID 26963 / CID 26078 pela Silver key SID 2088 / CID 2969, confirmada pelo usuário. PNGs RGBA de 32×32, estáticos, uma camada/padrão/frame. A operação preservou propriedades DAT/OTB e atualizou aparência e SpriteHash. Pixels dos dois destinos conferidos contra as referências exportadas.
 
 Versões 20261112-053120-069201, 20261112-053334-550711. Relatórios import-kino-reliquia-20261112.json, import-pescador-chave-20261112.json e sync-mission-comments-20261112.json aprovados. Validação profunda sem erros e sincronização oficial completa, com 34 destinos conferidos por SHA-256 e três RARs testados. Mapa oficial preservado. Entradas e manifestos arquivados em importados/mission-comments-20261112/.
+
+## 14/11/2026 - Promoção dos assets da mob-estrelado para a principal
+
+- Promovidos para `master` do NWO-ASSETS, `main` do servidor e `main` do client PC somente os assets finais da `mob-estrelado`: `Tibia.dat`, `Tibia.spr`, `items.otb`, `items.xml` e `860.rar`. Código funcional de missões/hunts e DLLs da branch não foram incluídos.
+- A baseline da principal coincide com os pais dos commits selecionados; os cherry-picks foram aplicados sem conflito e os blobs finais conferidos como idênticos aos da `mob-estrelado`. DAT final com Client ID máximo 26615, SPR com 313.746 sprites e OTB com Server ID máximo 27500.
+- Versão imutável anterior à promoção `20261114-042046-453544` criada e testada com o mapa oficial; alinhamento final versionado em `20261114-042212-985240`. Validação profunda concluída sem erros ou avisos.
+- Sincronização oficial aprovada para servidor, RME-NARUTO, client PC, mobile e NWO-STUDIO: 34 destinos conferidos por SHA-256 e os arquivos RAR testados. Relatórios `align-server-world-main-after-mob-estrelado-promotion-20261114.json`, `validation-main-promotion-final-20261114.json` e `sync-runtime-main-promotion-20261114.json` em `reports/`.
