@@ -351,3 +351,10 @@ Sincronização oficial concluída: 31 destinos de arquivos conferidos, metadado
 Substituição visual da Relíquia Antiga SID 26969 / CID 26084 pela referência Green Crystal SID 11464 / CID 10580, e da Chave Amaldiçoada SID 26963 / CID 26078 pela Silver key SID 2088 / CID 2969, confirmada pelo usuário. PNGs RGBA de 32×32, estáticos, uma camada/padrão/frame. A operação preservou propriedades DAT/OTB e atualizou aparência e SpriteHash. Pixels dos dois destinos conferidos contra as referências exportadas.
 
 Versões 20261112-053120-069201, 20261112-053334-550711. Relatórios import-kino-reliquia-20261112.json, import-pescador-chave-20261112.json e sync-mission-comments-20261112.json aprovados. Validação profunda sem erros e sincronização oficial completa, com 34 destinos conferidos por SHA-256 e três RARs testados. Mapa oficial preservado. Entradas e manifestos arquivados em importados/mission-comments-20261112/.
+
+## 14/11/2026 - Guizos de novembro
+
+- Criados os itens Kakashi's Guizos de novembro, Server IDs 27501–27502 / Client IDs 26616–26617, clonando propriedades e pixels dos Guizos 25601–25602. Aparências estáticas 32×32, sem alteração dos registros anteriores.
+- O item ativo descreve o período de 20/11/2026 às 10h até 25/11/2026 às 23h59. O evento entrega quatro Guizos vinculados por personagem; cada Guizo concede uma hora de Double XP após confirmação.
+- Versão imutável `20261114-043731-108910` criada e testada antes da gravação. Importação, validação profunda e sincronização de 34 destinos aprovadas; DAT final até Client ID 26617, SPR com 313.748 sprites e OTB até Server ID 27502.
+- Fontes exportadas e manifesto arquivados em `importados/november-guizos-20261114/`. Relatórios `import-november-guizos-20261114.json`, `validation-november-guizos-final-20261114.json` e `sync-runtime-november-guizos-20261114.json` preservados em `reports/`.
