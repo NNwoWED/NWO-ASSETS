@@ -68,6 +68,25 @@ class CloneItemImporterTests(unittest.TestCase):
             entry = read_clone_item_manifest(manifest)[0]
         self.assertEqual((entry.pattern_x, entry.pattern_y, entry.frames), (2, 2, 1))
 
+    def test_manifest_accepts_obd_as_explicit_property_source(self):
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory)
+            png = root / "item_100.png"
+            obd = root / "item_90_860v2-v2.obd"
+            write_png_rgba(png, PngImage(32, 32, bytes(32 * 32 * 4)))
+            obd.write_bytes(b"obd")
+            manifest = root / "manifest.csv"
+            with manifest.open("w", encoding="utf-8", newline="") as stream:
+                writer = csv.writer(stream)
+                writer.writerow((
+                    "sequence", "source_server_id", "target_server_id", "target_client_id",
+                    "source_path", "frame_width", "frame_height", "frames",
+                    "frame_duration_ms", "animation_async", "properties_obd_path",
+                ))
+                writer.writerow((1, 100, 200, 150, png.name, 32, 32, 1, "", 0, obd.name))
+            entry = read_clone_item_manifest(manifest)[0]
+        self.assertEqual(entry.properties_obd_path, obd.resolve())
+
     def test_manifest_accepts_repeated_source_for_distinct_clones(self):
         with tempfile.TemporaryDirectory() as directory:
             root = Path(directory)

@@ -76,6 +76,35 @@ class ObdReaderTests(unittest.TestCase):
         self.assertTrue(struct.unpack_from("<I", node.data, 1)[0] & OTB_FLAG_VALUES["walk_stack"])
         self.assertIn(b"\x14\x02\x00\x78\x00", node.data)
 
+    def test_container_property_is_preserved_in_dat_without_inventing_otb_flag(self) -> None:
+        with tempfile.TemporaryDirectory() as directory:
+            path = Path(directory) / "container.obd"
+            path.write_bytes(_obd_bytes(properties=b"\x04\x0c\x0d\xff"))
+            item = read_obd_item(path)
+        self.assertEqual(dat_properties_from_obd(item), b"\x04\x0c\x0d\xff")
+        node = make_obd_otb_node(
+            item, server_id=10060, client_id=9141, sprite_hash=b"s" * 16
+        )
+        self.assertEqual(node.data[0], 0)
+        flags = struct.unpack_from("<I", node.data, 1)[0]
+        self.assertTrue(flags & OTB_FLAG_VALUES["block_solid"])
+        self.assertFalse(flags & OTB_FLAG_VALUES["movable"])
+
+    def test_force_use_and_lens_help_map_only_to_known_otb_semantics(self) -> None:
+        with tempfile.TemporaryDirectory() as directory:
+            path = Path(directory) / "force-use-lens-help.obd"
+            path.write_bytes(_obd_bytes(properties=b"\x06\x0d\x1e\x4e\x04\xff"))
+            item = read_obd_item(path)
+        self.assertEqual(
+            dat_properties_from_obd(item), b"\x06\x0d\x1d\x4e\x04\xff"
+        )
+        node = make_obd_otb_node(
+            item, server_id=10061, client_id=9142, sprite_hash=b"s" * 16
+        )
+        flags = struct.unpack_from("<I", node.data, 1)[0]
+        self.assertTrue(flags & OTB_FLAG_VALUES["force_use"])
+        self.assertFalse(flags & OTB_FLAG_VALUES["movable"])
+
     def test_rejects_truncated_sprite(self) -> None:
         raw = lzma.decompress(_obd_bytes(), format=lzma.FORMAT_ALONE)
         with tempfile.TemporaryDirectory() as directory:

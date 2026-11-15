@@ -18,6 +18,12 @@ from .importer import (
     verify_sprite_hash_algorithm,
 )
 from .item_xml_clone import clone_xml_definitions
+from .obd import (
+    dat_properties_from_obd,
+    encode_obd_appearance,
+    make_obd_otb_node,
+    read_obd_item,
+)
 from .otb import OtbNode, inspect_otb, parse_otb_tree
 from .otfi import parse_otfi
 from .pipeline import inspect_client
@@ -46,6 +52,7 @@ class CloneItemEntry:
     pattern_z: int = 1
     name: str | None = None
     description: str | None = None
+    properties_obd_path: Path | None = None
 
 
 def read_clone_item_manifest(path: Path) -> list[CloneItemEntry]:
@@ -57,7 +64,10 @@ def read_clone_item_manifest(path: Path) -> list[CloneItemEntry]:
             "source_path", "frame_width", "frame_height", "frames",
             "frame_duration_ms", "animation_async",
         }
-        optional = {"layers", "pattern_x", "pattern_y", "pattern_z", "name", "description"}
+        optional = {
+            "layers", "pattern_x", "pattern_y", "pattern_z", "name", "description",
+            "properties_obd_path",
+        }
         received = set(reader.fieldnames or ())
         if not required.issubset(received) or received - required - optional:
             raise FormatError(
@@ -110,11 +120,27 @@ def read_clone_item_manifest(path: Path) -> list[CloneItemEntry]:
             source = source.resolve()
             if source.suffix.casefold() != ".png" or not source.is_file():
                 raise FormatError(f"{path}:{row_number}: PNG ausente: {source}")
+            obd_raw = (row.get("properties_obd_path") or "").strip()
+            properties_obd_path = None
+            if obd_raw:
+                properties_obd_path = Path(obd_raw)
+                if not properties_obd_path.is_absolute():
+                    properties_obd_path = path.parent / properties_obd_path
+                properties_obd_path = properties_obd_path.resolve()
+                if (
+                    properties_obd_path.suffix.casefold() != ".obd"
+                    or not properties_obd_path.is_file()
+                ):
+                    raise FormatError(
+                        f"{path}:{row_number}: OBD de propriedades ausente: "
+                        f"{properties_obd_path}"
+                    )
             entries.append(CloneItemEntry(
                 sequence, source_server_id, target_server_id, target_client_id,
                 source, frame_width, frame_height, frames, duration, async_raw == "1",
                 layers, pattern_x, pattern_y, pattern_z,
                 row.get("name") or None, row.get("description") or None,
+                properties_obd_path,
             ))
     if not entries or [e.sequence for e in entries] != list(range(1, len(entries) + 1)):
         raise FormatError(f"{path}: sequence deve ser continua a partir de 1")
@@ -124,6 +150,9 @@ def read_clone_item_manifest(path: Path) -> list[CloneItemEntry]:
         values = [getattr(entry, field) for entry in entries]
         if len(values) != len(set(values)):
             raise FormatError(f"{path}: {field} duplicado")
+    obd_paths = [entry.properties_obd_path for entry in entries if entry.properties_obd_path]
+    if len(obd_paths) != len(set(obd_paths)):
+        raise FormatError(f"{path}: properties_obd_path duplicado")
     return entries
 
 
@@ -273,6 +302,12 @@ def import_cloned_items(
     sprites_root = (root / "sprites").resolve()
     if not all(entry.source_path.is_relative_to(sprites_root) for entry in entries):
         raise FormatError("PNGs devem estar em NWO-ASSETS/sprites")
+    if not all(
+        entry.properties_obd_path is None
+        or entry.properties_obd_path.is_relative_to(sprites_root)
+        for entry in entries
+    ):
+        raise FormatError("OBDs de propriedades devem estar em NWO-ASSETS/sprites")
     baseline = inspect_client(root, deep_spr=deep_spr)
     if not baseline["passed"]:
         raise FormatError(f"baseline reprovada: {baseline['errors']}")
@@ -326,6 +361,40 @@ def import_cloned_items(
         _, source_client_id = _otb_node_ids(source_node, str(paths["otb"]))
         if source_client_id not in dat_items:
             raise FormatError(f"referencia {entry.source_server_id} aponta para DAT inexistente")
+        obd_item = None
+        if entry.properties_obd_path is not None:
+            expected_name = f"item_{source_client_id}_860v2-v2.obd"
+            if entry.properties_obd_path.name != expected_name:
+                raise FormatError(
+                    f"Server ID {entry.source_server_id}: OBD {entry.properties_obd_path.name} "
+                    f"nao corresponde ao Client ID de referencia {source_client_id}"
+                )
+            obd_item = read_obd_item(entry.properties_obd_path)
+            expected_layout = (
+                entry.frame_width // otfi.sprite_size,
+                entry.frame_height // otfi.sprite_size,
+                entry.layers,
+                entry.pattern_x,
+                entry.pattern_y,
+                entry.pattern_z,
+                entry.frames,
+            )
+            if obd_item.layout != expected_layout:
+                raise FormatError(
+                    f"Client ID {source_client_id}: layout OBD {obd_item.layout} "
+                    f"diverge do manifesto {expected_layout}"
+                )
+            if entry.frames > 1:
+                expected_durations = ((entry.frame_duration_ms, entry.frame_duration_ms),) * entry.frames
+                if obd_item.durations != expected_durations:
+                    raise FormatError(
+                        f"Client ID {source_client_id}: duracoes OBD "
+                        f"{obd_item.durations} divergem do manifesto"
+                    )
+                if bool(obd_item.animation_mode) != entry.animation_async:
+                    raise FormatError(
+                        f"Client ID {source_client_id}: modo de animacao OBD diverge do manifesto"
+                    )
         image = normalize_rgba(read_png_rgba(
             entry.source_path,
             max_width=entry.frame_width * entry.layers * entry.pattern_x,
@@ -347,48 +416,60 @@ def import_cloned_items(
         sprite_ids: list[int] = []
         for group in groups:
             for tile in group:
-                if tile == blank:
+                if tile == blank and obd_item is None:
                     sprite_ids.append(0)
                 else:
                     sprite_ids.append(next_sprite_id)
                     expected_tiles[next_sprite_id] = tile
                     blocks.append(encode_sprite_rgba(tile))
                     next_sprite_id += 1
-        source_appearance = dat_items[source_client_id].appearances[0]
-        exact_size = None
         width_tiles = entry.frame_width // 32
         height_tiles = entry.frame_height // 32
-        if width_tiles > 1 or height_tiles > 1:
-            exact_size = source_appearance.exact_size or 32
-        appearance = encode_item_appearance(
-            width_tiles,
-            height_tiles,
-            entry.frames,
-            tuple(sprite_ids),
-            otfi,
-            frame_duration_ms=entry.frame_duration_ms,
-            animation_async=entry.animation_async,
-            exact_size=exact_size,
-            allow_zero_sprite_ids=True,
-            layers=entry.layers,
-            pattern_x=entry.pattern_x,
-            pattern_y=entry.pattern_y,
-            pattern_z=entry.pattern_z,
-        )
-        properties = source_data[
-            dat_items[source_client_id].start : dat_items[source_client_id].properties_end
-        ]
+        if obd_item is not None:
+            appearance = encode_obd_appearance(obd_item, tuple(sprite_ids), otfi)
+            properties = dat_properties_from_obd(obd_item)
+        else:
+            source_appearance = dat_items[source_client_id].appearances[0]
+            exact_size = None
+            if width_tiles > 1 or height_tiles > 1:
+                exact_size = source_appearance.exact_size or 32
+            appearance = encode_item_appearance(
+                width_tiles,
+                height_tiles,
+                entry.frames,
+                tuple(sprite_ids),
+                otfi,
+                frame_duration_ms=entry.frame_duration_ms,
+                animation_async=entry.animation_async,
+                exact_size=exact_size,
+                allow_zero_sprite_ids=True,
+                layers=entry.layers,
+                pattern_x=entry.pattern_x,
+                pattern_y=entry.pattern_y,
+                pattern_z=entry.pattern_z,
+            )
+            properties = source_data[
+                dat_items[source_client_id].start : dat_items[source_client_id].properties_end
+            ]
         records.append(properties + appearance)
         digest = sprite_hash([
             tile for group in groups[:entry.layers] for tile in group
         ])
-        new_nodes.append(clone_otb_node(
-            source_node,
-            server_id=entry.target_server_id,
-            client_id=entry.target_client_id,
-            digest=digest,
-            animated=entry.frames > 1,
-        ))
+        if obd_item is not None:
+            new_nodes.append(make_obd_otb_node(
+                obd_item,
+                server_id=entry.target_server_id,
+                client_id=entry.target_client_id,
+                sprite_hash=digest,
+            ))
+        else:
+            new_nodes.append(clone_otb_node(
+                source_node,
+                server_id=entry.target_server_id,
+                client_id=entry.target_client_id,
+                digest=digest,
+                animated=entry.frames > 1,
+            ))
         reports.append({
             "sequence": entry.sequence,
             "source_server_id": entry.source_server_id,
@@ -397,6 +478,13 @@ def import_cloned_items(
             "target_client_id": entry.target_client_id,
             "source_path": str(entry.source_path),
             "source_sha256": sha256_file(entry.source_path),
+            "properties_source": "obd" if obd_item is not None else "baseline",
+            "properties_obd_path": (
+                str(entry.properties_obd_path) if entry.properties_obd_path else None
+            ),
+            "properties_obd_sha256": (
+                sha256_file(entry.properties_obd_path) if entry.properties_obd_path else None
+            ),
             "image_size": [image.width, image.height],
             "frame_size": [entry.frame_width, entry.frame_height],
             "frames": entry.frames,
@@ -432,6 +520,11 @@ def import_cloned_items(
         if path.is_file()
     }
     source_png_hashes = {str(e.source_path): sha256_file(e.source_path) for e in entries}
+    source_obd_hashes = {
+        str(e.properties_obd_path): sha256_file(e.properties_obd_path)
+        for e in entries
+        if e.properties_obd_path is not None
+    }
     common = {
         "root": str(root),
         "manifest": str(manifest_path),
@@ -514,6 +607,12 @@ def import_cloned_items(
             str(e.source_path): sha256_file(e.source_path) for e in entries
         }:
             raise FormatError("PNG de origem mudou durante a preparacao")
+        if source_obd_hashes != {
+            str(e.properties_obd_path): sha256_file(e.properties_obd_path)
+            for e in entries
+            if e.properties_obd_path is not None
+        }:
+            raise FormatError("OBD de propriedades mudou durante a preparacao")
         final = _commit_transaction(
             root,
             {paths[name]: pending[name] for name in ("dat", "spr", "otb", "xml")},

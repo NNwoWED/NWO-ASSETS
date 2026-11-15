@@ -20,6 +20,7 @@ from .exact_clone_repair import repair_exact_item_clones
 from .exporter import EXPORT_CATEGORIES, export_pngs
 from .groundspeed import edit_ground_speeds
 from .importer import import_items
+from .light import edit_item_light_colors
 from .missile_importer import import_missiles
 from .outfit_importer import import_outfits
 from .pattern_repair import repair_item_patterns
@@ -222,6 +223,14 @@ def build_parser() -> argparse.ArgumentParser:
     elevation.add_argument("manifest", type=Path)
     elevation.add_argument("-o", "--output", help="grava o relatorio JSON neste caminho")
     elevation.add_argument("--deep-spr", action="store_true", help="valida todos os blocos RLE")
+    light = subparsers.add_parser(
+        "edit-item-light-colors",
+        help="versiona e edita somente a cor numerica da luz de itens no DAT",
+    )
+    light.add_argument("root", nargs="?", default=".", type=_root)
+    light.add_argument("manifest", type=Path)
+    light.add_argument("-o", "--output", help="grava o relatorio JSON neste caminho")
+    light.add_argument("--deep-spr", action="store_true", help="valida todos os blocos RLE")
     position = subparsers.add_parser(
         "inspect-map-position",
         help="inspeciona a pilha de itens em uma coordenada OTBM",
@@ -358,6 +367,9 @@ def main(argv: list[str] | None = None) -> int:
         "edit-item-elevations": lambda: edit_item_elevations(
             args.root, args.manifest, deep_spr=args.deep_spr
         ),
+        "edit-item-light-colors": lambda: edit_item_light_colors(
+            args.root, args.manifest, deep_spr=args.deep_spr
+        ),
         "inspect-map-position": lambda: inspect_map_position(
             args.root, args.x, args.y, args.z
         ),
@@ -390,7 +402,7 @@ def main(argv: list[str] | None = None) -> int:
         _write_report(report, args.output)
         if args.command in {
             "validate", "import-items", "import-obd-remakes", "import-cloned-items", "repair-item-patterns", "repair-exact-item-clones", "import-effects", "import-missiles", "import-outfits", "edit-animation-durations",
-            "create-version", "edit-item-properties", "edit-ground-speeds", "edit-item-elevations",
+            "create-version", "edit-item-properties", "edit-ground-speeds", "edit-item-elevations", "edit-item-light-colors",
             "inspect-map-position", "export-png",
             "sync-runtime", "restore-client-runtime", "adopt-runtime", "consolidate-runtime", "align-server-world",
         } and not report.get("passed", False):

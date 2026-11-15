@@ -126,7 +126,9 @@ def make_obd_otb_node(
         0x01,  # ground border
         0x02,  # on bottom
         0x03,  # on top
+        0x04,  # container (DAT-only; OTB 8.60 has no equivalent flag)
         0x05,  # stackable
+        0x06,  # force use
         0x0C,  # unpassable
         0x0D,  # unmoveable
         0x0E,  # block missile
@@ -139,6 +141,7 @@ def make_obd_otb_node(
         0x16,  # light
         0x1A,  # elevation
         0x1D,  # minimap
+        0x1E,  # lens help (DAT-only; OTB 8.60 has no equivalent payload)
         0x1F,  # full ground (DAT-only)
         0x20,  # ignore look (DAT-only)
     }
@@ -155,6 +158,7 @@ def make_obd_otb_node(
     flags = 0
     direct = {
         0x05: "stackable",
+        0x06: "force_use",
         0x0C: "block_solid",
         0x0E: "block_projectile",
         0x0F: "block_pathfind",
