@@ -1,0 +1,9 @@
+﻿sequence,source_server_id,target_server_id,target_client_id,source_path,frame_width,frame_height,frames,frame_duration_ms,animation_async,layers,pattern_x,pattern_y,pattern_z,properties_obd_path
+1,13640,27493,26608,item_12763_.png,32,64,1,,0,1,1,1,1,Hive\item_12763_860v2-v2.obd
+2,13641,27494,26609,item_12764_.png,64,32,1,,0,1,1,1,1,Hive\item_12764_860v2-v2.obd
+3,13657,27495,26610,item_12780_.png,32,32,1,,0,1,1,1,1,Hive\item_12780_860v2-v2.obd
+4,13658,27496,26611,item_12781_.png,32,32,1,,0,1,1,1,1,Hive\item_12781_860v2-v2.obd
+5,13783,27497,26612,item_12906_.png,64,64,1,,0,1,1,1,1,Hive\item_12906_860v2-v2.obd
+6,13784,27498,26613,item_12907_.png,64,64,1,,0,1,1,1,1,Hive\item_12907_860v2-v2.obd
+7,13812,27499,26614,item_12935_.png,32,32,1,,0,1,1,1,1,Hive\item_12935_860v2-v2.obd
+8,13813,27500,26615,item_12936_.png,32,32,1,,0,2,1,1,1,Hive\item_12936_860v2-v2.obd

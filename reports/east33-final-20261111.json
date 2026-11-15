@@ -1,0 +1,2354 @@
+{
+  "convertedGrounds": 1946,
+  "newGrayGrounds": 0,
+  "counts": {
+    "face/quina de montanha": 81,
+    "borda plana": 3
+  },
+  "candidatesForReview": [],
+  "tiles": [
+    {
+      "position": [
+        2707,
+        1587,
+        7
+      ],
+      "before": [
+        3834,
+        4708,
+        4829
+      ],
+      "after": [
+        3834,
+        4708,
+        3554
+      ],
+      "replacements": {
+        "2": {
+          "old": 4829,
+          "new": 3554,
+          "maskDifference": 5.72,
+          "type": "face/quina de montanha",
+          "support": "montanha convertida no andar",
+          "frozen": 9,
+          "brown": 0,
+          "direction": 8
+        }
+      }
+    },
+    {
+      "position": [
+        2706,
+        1588,
+        7
+      ],
+      "before": [
+        3838,
+        4830
+      ],
+      "after": [
+        3838,
+        3484
+      ],
+      "replacements": {
+        "1": {
+          "old": 4830,
+          "new": 3484,
+          "maskDifference": 0.36,
+          "type": "face/quina de montanha",
+          "support": "montanha convertida no andar",
+          "frozen": 43,
+          "brown": 0,
+          "direction": 10
+        }
+      }
+    },
+    {
+      "position": [
+        2707,
+        1588,
+        7
+      ],
+      "before": [
+        3835,
+        588
+      ],
+      "after": [
+        3835,
+        3483
+      ],
+      "replacements": {
+        "1": {
+          "old": 588,
+          "new": 3483,
+          "maskDifference": 6.84,
+          "type": "face/quina de montanha",
+          "support": "montanha convertida no andar",
+          "frozen": 1,
+          "brown": 0,
+          "direction": 1
+        }
+      }
+    },
+    {
+      "position": [
+        2706,
+        1589,
+        7
+      ],
+      "before": [
+        3837,
+        4829
+      ],
+      "after": [
+        3837,
+        3554
+      ],
+      "replacements": {
+        "1": {
+          "old": 4829,
+          "new": 3554,
+          "maskDifference": 5.72,
+          "type": "face/quina de montanha",
+          "support": "montanha convertida no andar",
+          "frozen": 41,
+          "brown": 0,
+          "direction": 8
+        }
+      }
+    },
+    {
+      "position": [
+        2706,
+        1590,
+        7
+      ],
+      "before": [
+        3839,
+        3435
+      ],
+      "after": [
+        3839,
+        3482
+      ],
+      "replacements": {
+        "1": {
+          "old": 3435,
+          "new": 3482,
+          "maskDifference": 0.0,
+          "type": "face/quina de montanha",
+          "support": "montanha convertida no andar",
+          "frozen": 105,
+          "brown": 0,
+          "direction": 72
+        }
+      }
+    },
+    {
+      "position": [
+        2707,
+        1590,
+        7
+      ],
+      "before": [
+        3834,
+        4628
+      ],
+      "after": [
+        3834,
+        3530
+      ],
+      "replacements": {
+        "1": {
+          "old": 4628,
+          "new": 3530,
+          "maskDifference": 35.55,
+          "type": "face/quina de montanha",
+          "support": "montanha convertida no andar",
+          "frozen": 32,
+          "brown": 0,
+          "direction": 32
+        }
+      }
+    },
+    {
+      "position": [
+        2710,
+        1590,
+        7
+      ],
+      "before": [
+        119,
+        595
+      ],
+      "after": [
+        119,
+        3509
+      ],
+      "replacements": {
+        "1": {
+          "old": 595,
+          "new": 3509,
+          "maskDifference": 0.0,
+          "type": "face/quina de montanha",
+          "support": "montanha convertida no andar",
+          "frozen": 128,
+          "brown": 0,
+          "direction": 128
+        }
+      }
+    },
+    {
+      "position": [
+        2711,
+        1590,
+        7
+      ],
+      "before": [
+        119,
+        584
+      ],
+      "after": [
+        119,
+        3479
+      ],
+      "replacements": {
+        "1": {
+          "old": 584,
+          "new": 3479,
+          "maskDifference": 0.0,
+          "type": "face/quina de montanha",
+          "support": "montanha convertida no andar",
+          "frozen": 192,
+          "brown": 0,
+          "direction": 64
+        }
+      }
+    },
+    {
+      "position": [
+        2712,
+        1590,
+        7
+      ],
+      "before": [
+        3838,
+        584
+      ],
+      "after": [
+        3838,
+        3479
+      ],
+      "replacements": {
+        "1": {
+          "old": 584,
+          "new": 3479,
+          "maskDifference": 0.0,
+          "type": "face/quina de montanha",
+          "support": "montanha convertida no andar",
+          "frozen": 96,
+          "brown": 0,
+          "direction": 64
+        }
+      }
+    },
+    {
+      "position": [
+        2713,
+        1590,
+        7
+      ],
+      "before": [
+        3836,
+        1101
+      ],
+      "after": [
+        3836,
+        3511
+      ],
+      "replacements": {
+        "1": {
+          "old": 1101,
+          "new": 3511,
+          "maskDifference": 0.0,
+          "type": "face/quina de montanha",
+          "support": "montanha convertida no andar",
+          "frozen": 32,
+          "brown": 0,
+          "direction": 32
+        }
+      }
+    },
+    {
+      "position": [
+        2707,
+        1591,
+        7
+      ],
+      "before": [
+        3838,
+        3435
+      ],
+      "after": [
+        3838,
+        3482
+      ],
+      "replacements": {
+        "1": {
+          "old": 3435,
+          "new": 3482,
+          "maskDifference": 0.0,
+          "type": "face/quina de montanha",
+          "support": "montanha convertida no andar",
+          "frozen": 104,
+          "brown": 0,
+          "direction": 72
+        }
+      }
+    },
+    {
+      "position": [
+        2708,
+        1591,
+        7
+      ],
+      "before": [
+        3837,
+        4628
+      ],
+      "after": [
+        3837,
+        3530
+      ],
+      "replacements": {
+        "1": {
+          "old": 4628,
+          "new": 3530,
+          "maskDifference": 35.55,
+          "type": "face/quina de montanha",
+          "support": "montanha convertida no andar",
+          "frozen": 32,
+          "brown": 0,
+          "direction": 32
+        }
+      }
+    },
+    {
+      "position": [
+        2709,
+        1591,
+        7
+      ],
+      "before": [
+        119,
+        595
+      ],
+      "after": [
+        119,
+        3509
+      ],
+      "replacements": {
+        "1": {
+          "old": 595,
+          "new": 3509,
+          "maskDifference": 0.0,
+          "type": "face/quina de montanha",
+          "support": "montanha convertida no andar",
+          "frozen": 128,
+          "brown": 0,
+          "direction": 128
+        }
+      }
+    },
+    {
+      "position": [
+        2710,
+        1591,
+        7
+      ],
+      "before": [
+        119,
+        587
+      ],
+      "after": [
+        119,
+        3501
+      ],
+      "replacements": {
+        "1": {
+          "old": 587,
+          "new": 3501,
+          "maskDifference": 0.04,
+          "type": "face/quina de montanha",
+          "support": "montanha convertida no andar",
+          "frozen": 208,
+          "brown": 0,
+          "direction": 80
+        }
+      }
+    },
+    {
+      "position": [
+        2713,
+        1591,
+        7
+      ],
+      "before": [
+        3834,
+        3435
+      ],
+      "after": [
+        3834,
+        3482
+      ],
+      "replacements": {
+        "1": {
+          "old": 3435,
+          "new": 3482,
+          "maskDifference": 0.0,
+          "type": "face/quina de montanha",
+          "support": "montanha convertida no andar",
+          "frozen": 232,
+          "brown": 0,
+          "direction": 72
+        }
+      }
+    },
+    {
+      "position": [
+        2714,
+        1591,
+        7
+      ],
+      "before": [
+        3835,
+        584
+      ],
+      "after": [
+        3835,
+        3479
+      ],
+      "replacements": {
+        "1": {
+          "old": 584,
+          "new": 3479,
+          "maskDifference": 0.0,
+          "type": "face/quina de montanha",
+          "support": "montanha convertida no andar",
+          "frozen": 96,
+          "brown": 0,
+          "direction": 64
+        }
+      }
+    },
+    {
+      "position": [
+        2715,
+        1591,
+        7
+      ],
+      "before": [
+        3836,
+        1101
+      ],
+      "after": [
+        3836,
+        3511
+      ],
+      "replacements": {
+        "1": {
+          "old": 1101,
+          "new": 3511,
+          "maskDifference": 0.0,
+          "type": "face/quina de montanha",
+          "support": "montanha convertida no andar",
+          "frozen": 32,
+          "brown": 0,
+          "direction": 32
+        }
+      }
+    },
+    {
+      "position": [
+        2708,
+        1592,
+        7
+      ],
+      "before": [
+        119,
+        3435
+      ],
+      "after": [
+        119,
+        3482
+      ],
+      "replacements": {
+        "1": {
+          "old": 3435,
+          "new": 3482,
+          "maskDifference": 0.0,
+          "type": "face/quina de montanha",
+          "support": "montanha convertida no andar",
+          "frozen": 232,
+          "brown": 0,
+          "direction": 72
+        }
+      }
+    },
+    {
+      "position": [
+        2709,
+        1592,
+        7
+      ],
+      "before": [
+        119,
+        587
+      ],
+      "after": [
+        119,
+        3501
+      ],
+      "replacements": {
+        "1": {
+          "old": 587,
+          "new": 3501,
+          "maskDifference": 0.04,
+          "type": "face/quina de montanha",
+          "support": "montanha convertida no andar",
+          "frozen": 240,
+          "brown": 0,
+          "direction": 80
+        }
+      }
+    },
+    {
+      "position": [
+        2715,
+        1592,
+        7
+      ],
+      "before": [
+        119,
+        3435
+      ],
+      "after": [
+        119,
+        3482
+      ],
+      "replacements": {
+        "1": {
+          "old": 3435,
+          "new": 3482,
+          "maskDifference": 0.0,
+          "type": "face/quina de montanha",
+          "support": "montanha convertida no andar",
+          "frozen": 232,
+          "brown": 0,
+          "direction": 72
+        }
+      }
+    },
+    {
+      "position": [
+        2716,
+        1592,
+        7
+      ],
+      "before": [
+        749,
+        3849,
+        584
+      ],
+      "after": [
+        749,
+        3849,
+        3479
+      ],
+      "replacements": {
+        "2": {
+          "old": 584,
+          "new": 3479,
+          "maskDifference": 0.0,
+          "type": "face/quina de montanha",
+          "support": "montanha convertida no andar",
+          "frozen": 96,
+          "brown": 0,
+          "direction": 64
+        }
+      }
+    },
+    {
+      "position": [
+        2717,
+        1592,
+        7
+      ],
+      "before": [
+        3834,
+        1275,
+        3848,
+        1101
+      ],
+      "after": [
+        3834,
+        1275,
+        3848,
+        3511
+      ],
+      "replacements": {
+        "3": {
+          "old": 1101,
+          "new": 3511,
+          "maskDifference": 0.0,
+          "type": "face/quina de montanha",
+          "support": "montanha convertida no andar",
+          "frozen": 32,
+          "brown": 0,
+          "direction": 32
+        }
+      }
+    },
+    {
+      "position": [
+        2718,
+        1592,
+        7
+      ],
+      "before": [
+        119,
+        595
+      ],
+      "after": [
+        119,
+        3509
+      ],
+      "replacements": {
+        "1": {
+          "old": 595,
+          "new": 3509,
+          "maskDifference": 0.0,
+          "type": "face/quina de montanha",
+          "support": "montanha convertida no andar",
+          "frozen": 128,
+          "brown": 0,
+          "direction": 128
+        }
+      }
+    },
+    {
+      "position": [
+        2719,
+        1592,
+        7
+      ],
+      "before": [
+        3836,
+        584
+      ],
+      "after": [
+        3836,
+        3479
+      ],
+      "replacements": {
+        "1": {
+          "old": 584,
+          "new": 3479,
+          "maskDifference": 0.0,
+          "type": "face/quina de montanha",
+          "support": "montanha convertida no andar",
+          "frozen": 192,
+          "brown": 0,
+          "direction": 64
+        }
+      }
+    },
+    {
+      "position": [
+        2720,
+        1592,
+        7
+      ],
+      "before": [
+        3839,
+        1275,
+        3848,
+        584
+      ],
+      "after": [
+        3839,
+        1275,
+        3848,
+        3479
+      ],
+      "replacements": {
+        "3": {
+          "old": 584,
+          "new": 3479,
+          "maskDifference": 0.0,
+          "type": "face/quina de montanha",
+          "support": "montanha convertida no andar",
+          "frozen": 96,
+          "brown": 0,
+          "direction": 64
+        }
+      }
+    },
+    {
+      "position": [
+        2721,
+        1592,
+        7
+      ],
+      "before": [
+        3837,
+        1253,
+        1101
+      ],
+      "after": [
+        3837,
+        1253,
+        3511
+      ],
+      "replacements": {
+        "2": {
+          "old": 1101,
+          "new": 3511,
+          "maskDifference": 0.0,
+          "type": "face/quina de montanha",
+          "support": "montanha convertida no andar",
+          "frozen": 32,
+          "brown": 0,
+          "direction": 32
+        }
+      }
+    },
+    {
+      "position": [
+        2717,
+        1593,
+        7
+      ],
+      "before": [
+        119,
+        3435
+      ],
+      "after": [
+        119,
+        3482
+      ],
+      "replacements": {
+        "1": {
+          "old": 3435,
+          "new": 3482,
+          "maskDifference": 0.0,
+          "type": "face/quina de montanha",
+          "support": "montanha convertida no andar",
+          "frozen": 232,
+          "brown": 0,
+          "direction": 72
+        }
+      }
+    },
+    {
+      "position": [
+        2718,
+        1593,
+        7
+      ],
+      "before": [
+        105,
+        587
+      ],
+      "after": [
+        105,
+        3501
+      ],
+      "replacements": {
+        "1": {
+          "old": 587,
+          "new": 3501,
+          "maskDifference": 0.04,
+          "type": "face/quina de montanha",
+          "support": "montanha convertida no andar",
+          "frozen": 240,
+          "brown": 0,
+          "direction": 80
+        }
+      }
+    },
+    {
+      "position": [
+        2721,
+        1593,
+        7
+      ],
+      "before": [
+        119,
+        3435
+      ],
+      "after": [
+        119,
+        3482
+      ],
+      "replacements": {
+        "1": {
+          "old": 3435,
+          "new": 3482,
+          "maskDifference": 0.0,
+          "type": "face/quina de montanha",
+          "support": "montanha convertida no andar",
+          "frozen": 232,
+          "brown": 0,
+          "direction": 72
+        }
+      }
+    },
+    {
+      "position": [
+        2722,
+        1593,
+        7
+      ],
+      "before": [
+        3838,
+        584
+      ],
+      "after": [
+        3838,
+        3479
+      ],
+      "replacements": {
+        "1": {
+          "old": 584,
+          "new": 3479,
+          "maskDifference": 0.0,
+          "type": "face/quina de montanha",
+          "support": "montanha convertida no andar",
+          "frozen": 96,
+          "brown": 0,
+          "direction": 64
+        }
+      }
+    },
+    {
+      "position": [
+        2723,
+        1594,
+        7
+      ],
+      "before": [
+        3836,
+        3435
+      ],
+      "after": [
+        3836,
+        3482
+      ],
+      "replacements": {
+        "1": {
+          "old": 3435,
+          "new": 3482,
+          "maskDifference": 0.0,
+          "type": "face/quina de montanha",
+          "support": "montanha convertida no andar",
+          "frozen": 104,
+          "brown": 0,
+          "direction": 72
+        }
+      }
+    },
+    {
+      "position": [
+        2724,
+        1594,
+        7
+      ],
+      "before": [
+        3835,
+        1101
+      ],
+      "after": [
+        3835,
+        3511
+      ],
+      "replacements": {
+        "1": {
+          "old": 1101,
+          "new": 3511,
+          "maskDifference": 0.0,
+          "type": "face/quina de montanha",
+          "support": "montanha convertida no andar",
+          "frozen": 32,
+          "brown": 0,
+          "direction": 32
+        }
+      }
+    },
+    {
+      "position": [
+        2724,
+        1595,
+        7
+      ],
+      "before": [
+        3837,
+        3435
+      ],
+      "after": [
+        3837,
+        3482
+      ],
+      "replacements": {
+        "1": {
+          "old": 3435,
+          "new": 3482,
+          "maskDifference": 0.0,
+          "type": "face/quina de montanha",
+          "support": "montanha convertida no andar",
+          "frozen": 232,
+          "brown": 0,
+          "direction": 72
+        }
+      }
+    },
+    {
+      "position": [
+        2725,
+        1595,
+        7
+      ],
+      "before": [
+        3838,
+        584
+      ],
+      "after": [
+        3838,
+        3479
+      ],
+      "replacements": {
+        "1": {
+          "old": 584,
+          "new": 3479,
+          "maskDifference": 0.0,
+          "type": "face/quina de montanha",
+          "support": "montanha convertida no andar",
+          "frozen": 224,
+          "brown": 0,
+          "direction": 64
+        }
+      }
+    },
+    {
+      "position": [
+        2726,
+        1595,
+        7
+      ],
+      "before": [
+        3835,
+        587
+      ],
+      "after": [
+        3835,
+        3501
+      ],
+      "replacements": {
+        "1": {
+          "old": 587,
+          "new": 3501,
+          "maskDifference": 0.04,
+          "type": "face/quina de montanha",
+          "support": "montanha convertida no andar",
+          "frozen": 96,
+          "brown": 0,
+          "direction": 80
+        }
+      }
+    },
+    {
+      "position": [
+        2727,
+        1595,
+        7
+      ],
+      "before": [
+        3837,
+        3435
+      ],
+      "after": [
+        3837,
+        3482
+      ],
+      "replacements": {
+        "1": {
+          "old": 3435,
+          "new": 3482,
+          "maskDifference": 0.0,
+          "type": "face/quina de montanha",
+          "support": "montanha convertida no andar",
+          "frozen": 32,
+          "brown": 0,
+          "direction": 72
+        }
+      }
+    },
+    {
+      "position": [
+        2727,
+        1596,
+        7
+      ],
+      "before": [
+        3836,
+        4831
+      ],
+      "after": [
+        3836,
+        3485
+      ],
+      "replacements": {
+        "1": {
+          "old": 4831,
+          "new": 3485,
+          "maskDifference": 0.36,
+          "type": "face/quina de montanha",
+          "support": "montanha convertida no andar",
+          "frozen": 40,
+          "brown": 0,
+          "direction": 10
+        }
+      }
+    },
+    {
+      "position": [
+        2727,
+        1597,
+        7
+      ],
+      "before": [
+        3838,
+        3435
+      ],
+      "after": [
+        3838,
+        3482
+      ],
+      "replacements": {
+        "1": {
+          "old": 3435,
+          "new": 3482,
+          "maskDifference": 0.0,
+          "type": "face/quina de montanha",
+          "support": "montanha convertida no andar",
+          "frozen": 105,
+          "brown": 0,
+          "direction": 72
+        }
+      }
+    },
+    {
+      "position": [
+        2728,
+        1597,
+        7
+      ],
+      "before": [
+        3835,
+        3863,
+        1101
+      ],
+      "after": [
+        3835,
+        3863,
+        3511
+      ],
+      "replacements": {
+        "2": {
+          "old": 1101,
+          "new": 3511,
+          "maskDifference": 0.0,
+          "type": "face/quina de montanha",
+          "support": "montanha convertida no andar",
+          "frozen": 32,
+          "brown": 0,
+          "direction": 32
+        }
+      }
+    },
+    {
+      "position": [
+        2728,
+        1598,
+        7
+      ],
+      "before": [
+        3837,
+        3435
+      ],
+      "after": [
+        3837,
+        3482
+      ],
+      "replacements": {
+        "1": {
+          "old": 3435,
+          "new": 3482,
+          "maskDifference": 0.0,
+          "type": "face/quina de montanha",
+          "support": "montanha convertida no andar",
+          "frozen": 104,
+          "brown": 0,
+          "direction": 72
+        }
+      }
+    },
+    {
+      "position": [
+        2729,
+        1598,
+        7
+      ],
+      "before": [
+        3835,
+        3924,
+        1101
+      ],
+      "after": [
+        3835,
+        3924,
+        3511
+      ],
+      "replacements": {
+        "2": {
+          "old": 1101,
+          "new": 3511,
+          "maskDifference": 0.0,
+          "type": "face/quina de montanha",
+          "support": "montanha convertida no andar",
+          "frozen": 32,
+          "brown": 0,
+          "direction": 32
+        }
+      }
+    },
+    {
+      "position": [
+        2729,
+        1599,
+        7
+      ],
+      "before": [
+        119,
+        3435
+      ],
+      "after": [
+        119,
+        3482
+      ],
+      "replacements": {
+        "1": {
+          "old": 3435,
+          "new": 3482,
+          "maskDifference": 0.0,
+          "type": "face/quina de montanha",
+          "support": "montanha convertida no andar",
+          "frozen": 232,
+          "brown": 0,
+          "direction": 72
+        }
+      }
+    },
+    {
+      "position": [
+        2730,
+        1599,
+        7
+      ],
+      "before": [
+        3834,
+        584
+      ],
+      "after": [
+        3834,
+        3479
+      ],
+      "replacements": {
+        "1": {
+          "old": 584,
+          "new": 3479,
+          "maskDifference": 0.0,
+          "type": "face/quina de montanha",
+          "support": "montanha convertida no andar",
+          "frozen": 96,
+          "brown": 0,
+          "direction": 64
+        }
+      }
+    },
+    {
+      "position": [
+        2731,
+        1599,
+        7
+      ],
+      "before": [
+        3839,
+        4628
+      ],
+      "after": [
+        3839,
+        3530
+      ],
+      "replacements": {
+        "1": {
+          "old": 4628,
+          "new": 3530,
+          "maskDifference": 35.55,
+          "type": "face/quina de montanha",
+          "support": "montanha convertida no andar",
+          "frozen": 32,
+          "brown": 0,
+          "direction": 32
+        }
+      }
+    },
+    {
+      "position": [
+        2731,
+        1600,
+        7
+      ],
+      "before": [
+        3837,
+        3435
+      ],
+      "after": [
+        3837,
+        3482
+      ],
+      "replacements": {
+        "1": {
+          "old": 3435,
+          "new": 3482,
+          "maskDifference": 0.0,
+          "type": "face/quina de montanha",
+          "support": "montanha convertida no andar",
+          "frozen": 104,
+          "brown": 0,
+          "direction": 72
+        }
+      }
+    },
+    {
+      "position": [
+        2732,
+        1600,
+        7
+      ],
+      "before": [
+        3835,
+        1101
+      ],
+      "after": [
+        3835,
+        3511
+      ],
+      "replacements": {
+        "1": {
+          "old": 1101,
+          "new": 3511,
+          "maskDifference": 0.0,
+          "type": "face/quina de montanha",
+          "support": "montanha convertida no andar",
+          "frozen": 32,
+          "brown": 0,
+          "direction": 32
+        }
+      }
+    },
+    {
+      "position": [
+        2732,
+        1601,
+        7
+      ],
+      "before": [
+        3835,
+        3435
+      ],
+      "after": [
+        3835,
+        3482
+      ],
+      "replacements": {
+        "1": {
+          "old": 3435,
+          "new": 3482,
+          "maskDifference": 0.0,
+          "type": "face/quina de montanha",
+          "support": "montanha convertida no andar",
+          "frozen": 104,
+          "brown": 0,
+          "direction": 72
+        }
+      }
+    },
+    {
+      "position": [
+        2733,
+        1601,
+        7
+      ],
+      "before": [
+        3838,
+        4628
+      ],
+      "after": [
+        3838,
+        3530
+      ],
+      "replacements": {
+        "1": {
+          "old": 4628,
+          "new": 3530,
+          "maskDifference": 35.55,
+          "type": "face/quina de montanha",
+          "support": "montanha convertida no andar",
+          "frozen": 32,
+          "brown": 0,
+          "direction": 32
+        }
+      }
+    },
+    {
+      "position": [
+        2733,
+        1602,
+        7
+      ],
+      "before": [
+        3836,
+        3435
+      ],
+      "after": [
+        3836,
+        3482
+      ],
+      "replacements": {
+        "1": {
+          "old": 3435,
+          "new": 3482,
+          "maskDifference": 0.0,
+          "type": "face/quina de montanha",
+          "support": "montanha convertida no andar",
+          "frozen": 104,
+          "brown": 0,
+          "direction": 72
+        }
+      }
+    },
+    {
+      "position": [
+        2734,
+        1602,
+        7
+      ],
+      "before": [
+        3834,
+        1101
+      ],
+      "after": [
+        3834,
+        3511
+      ],
+      "replacements": {
+        "1": {
+          "old": 1101,
+          "new": 3511,
+          "maskDifference": 0.0,
+          "type": "face/quina de montanha",
+          "support": "montanha convertida no andar",
+          "frozen": 32,
+          "brown": 0,
+          "direction": 32
+        }
+      }
+    },
+    {
+      "position": [
+        2734,
+        1603,
+        7
+      ],
+      "before": [
+        3839,
+        596
+      ],
+      "after": [
+        3839,
+        3551
+      ],
+      "replacements": {
+        "1": {
+          "old": 596,
+          "new": 3551,
+          "maskDifference": 0.0,
+          "type": "face/quina de montanha",
+          "support": "montanha convertida no andar",
+          "frozen": 40,
+          "brown": 0,
+          "direction": 8
+        }
+      }
+    },
+    {
+      "position": [
+        2734,
+        1604,
+        7
+      ],
+      "before": [
+        3836,
+        598
+      ],
+      "after": [
+        3836,
+        3554
+      ],
+      "replacements": {
+        "1": {
+          "old": 598,
+          "new": 3554,
+          "maskDifference": 0.0,
+          "type": "face/quina de montanha",
+          "support": "montanha convertida no andar",
+          "frozen": 41,
+          "brown": 0,
+          "direction": 8
+        }
+      }
+    },
+    {
+      "position": [
+        2734,
+        1605,
+        7
+      ],
+      "before": [
+        3838,
+        594
+      ],
+      "after": [
+        3838,
+        3489
+      ],
+      "replacements": {
+        "1": {
+          "old": 594,
+          "new": 3489,
+          "maskDifference": 0.0,
+          "type": "face/quina de montanha",
+          "support": "montanha convertida no andar",
+          "frozen": 9,
+          "brown": 0,
+          "direction": 8
+        }
+      }
+    },
+    {
+      "position": [
+        2733,
+        1606,
+        7
+      ],
+      "before": [
+        3837,
+        4830
+      ],
+      "after": [
+        3837,
+        3484
+      ],
+      "replacements": {
+        "1": {
+          "old": 4830,
+          "new": 3484,
+          "maskDifference": 0.36,
+          "type": "face/quina de montanha",
+          "support": "montanha convertida no andar",
+          "frozen": 11,
+          "brown": 0,
+          "direction": 10
+        }
+      }
+    },
+    {
+      "position": [
+        2734,
+        1606,
+        7
+      ],
+      "before": [
+        3834,
+        1808
+      ],
+      "after": [
+        3834,
+        4078
+      ],
+      "replacements": {
+        "1": {
+          "old": 1808,
+          "new": 4078,
+          "maskDifference": 0.0,
+          "type": "face/quina de montanha",
+          "support": "montanha convertida no andar",
+          "frozen": 1,
+          "brown": 0,
+          "direction": 1
+        }
+      }
+    },
+    {
+      "position": [
+        2732,
+        1607,
+        7
+      ],
+      "before": [
+        3835,
+        4830
+      ],
+      "after": [
+        3835,
+        3484
+      ],
+      "replacements": {
+        "1": {
+          "old": 4830,
+          "new": 3484,
+          "maskDifference": 0.36,
+          "type": "face/quina de montanha",
+          "support": "montanha convertida no andar",
+          "frozen": 43,
+          "brown": 0,
+          "direction": 10
+        }
+      }
+    },
+    {
+      "position": [
+        2732,
+        1608,
+        7
+      ],
+      "before": [
+        3838,
+        594
+      ],
+      "after": [
+        3838,
+        3489
+      ],
+      "replacements": {
+        "1": {
+          "old": 594,
+          "new": 3489,
+          "maskDifference": 0.0,
+          "type": "face/quina de montanha",
+          "support": "montanha convertida no andar",
+          "frozen": 41,
+          "brown": 0,
+          "direction": 8
+        }
+      }
+    },
+    {
+      "position": [
+        2732,
+        1609,
+        7
+      ],
+      "before": [
+        3839,
+        579
+      ],
+      "after": [
+        3839,
+        3634
+      ],
+      "replacements": {
+        "1": {
+          "old": 579,
+          "new": 3634,
+          "maskDifference": 2.59,
+          "type": "face/quina de montanha",
+          "support": "montanha convertida no andar",
+          "frozen": 9,
+          "brown": 0,
+          "direction": 8
+        }
+      }
+    },
+    {
+      "position": [
+        2730,
+        1610,
+        7
+      ],
+      "before": [
+        3838,
+        4830
+      ],
+      "after": [
+        3838,
+        3484
+      ],
+      "replacements": {
+        "1": {
+          "old": 4830,
+          "new": 3484,
+          "maskDifference": 0.36,
+          "type": "face/quina de montanha",
+          "support": "montanha convertida no andar",
+          "frozen": 15,
+          "brown": 0,
+          "direction": 10
+        }
+      }
+    },
+    {
+      "position": [
+        2731,
+        1610,
+        7
+      ],
+      "before": [
+        3838,
+        4828
+      ],
+      "after": [
+        3838,
+        3555
+      ],
+      "replacements": {
+        "1": {
+          "old": 4828,
+          "new": 3555,
+          "maskDifference": 5.72,
+          "type": "face/quina de montanha",
+          "support": "montanha convertida no andar",
+          "frozen": 3,
+          "brown": 0,
+          "direction": 2
+        }
+      }
+    },
+    {
+      "position": [
+        2732,
+        1610,
+        7
+      ],
+      "before": [
+        3836,
+        1808
+      ],
+      "after": [
+        3836,
+        4078
+      ],
+      "replacements": {
+        "1": {
+          "old": 1808,
+          "new": 4078,
+          "maskDifference": 0.0,
+          "type": "face/quina de montanha",
+          "support": "montanha convertida no andar",
+          "frozen": 1,
+          "brown": 0,
+          "direction": 1
+        }
+      }
+    },
+    {
+      "position": [
+        2727,
+        1611,
+        7
+      ],
+      "before": [
+        3835,
+        4831
+      ],
+      "after": [
+        3835,
+        3485
+      ],
+      "replacements": {
+        "1": {
+          "old": 4831,
+          "new": 3485,
+          "maskDifference": 0.36,
+          "type": "face/quina de montanha",
+          "support": "montanha convertida no andar",
+          "frozen": 15,
+          "brown": 0,
+          "direction": 10
+        }
+      }
+    },
+    {
+      "position": [
+        2728,
+        1611,
+        7
+      ],
+      "before": [
+        3834,
+        4826
+      ],
+      "after": [
+        3834,
+        3550
+      ],
+      "replacements": {
+        "1": {
+          "old": 4826,
+          "new": 3550,
+          "maskDifference": 6.06,
+          "type": "face/quina de montanha",
+          "support": "montanha convertida no andar",
+          "frozen": 7,
+          "brown": 0,
+          "direction": 2
+        }
+      }
+    },
+    {
+      "position": [
+        2729,
+        1611,
+        7
+      ],
+      "before": [
+        3837,
+        4824
+      ],
+      "after": [
+        3837,
+        3555
+      ],
+      "replacements": {
+        "1": {
+          "old": 4824,
+          "new": 3555,
+          "maskDifference": 5.24,
+          "type": "face/quina de montanha",
+          "support": "montanha convertida no andar",
+          "frozen": 3,
+          "brown": 0,
+          "direction": 2
+        }
+      }
+    },
+    {
+      "position": [
+        2730,
+        1611,
+        7
+      ],
+      "before": [
+        3836,
+        1808
+      ],
+      "after": [
+        3836,
+        4078
+      ],
+      "replacements": {
+        "1": {
+          "old": 1808,
+          "new": 4078,
+          "maskDifference": 0.0,
+          "type": "face/quina de montanha",
+          "support": "montanha convertida no andar",
+          "frozen": 1,
+          "brown": 0,
+          "direction": 1
+        }
+      }
+    },
+    {
+      "position": [
+        2726,
+        1612,
+        7
+      ],
+      "before": [
+        3838,
+        4830
+      ],
+      "after": [
+        3838,
+        3484
+      ],
+      "replacements": {
+        "1": {
+          "old": 4830,
+          "new": 3484,
+          "maskDifference": 0.36,
+          "type": "face/quina de montanha",
+          "support": "montanha convertida no andar",
+          "frozen": 11,
+          "brown": 0,
+          "direction": 10
+        }
+      }
+    },
+    {
+      "position": [
+        2727,
+        1612,
+        7
+      ],
+      "before": [
+        3834,
+        1809
+      ],
+      "after": [
+        3834,
+        4077
+      ],
+      "replacements": {
+        "1": {
+          "old": 1809,
+          "new": 4077,
+          "maskDifference": 0.0,
+          "type": "face/quina de montanha",
+          "support": "montanha convertida no andar",
+          "frozen": 1,
+          "brown": 0,
+          "direction": 1
+        }
+      }
+    },
+    {
+      "position": [
+        2725,
+        1613,
+        7
+      ],
+      "before": [
+        3835,
+        4831
+      ],
+      "after": [
+        3835,
+        3485
+      ],
+      "replacements": {
+        "1": {
+          "old": 4831,
+          "new": 3485,
+          "maskDifference": 0.36,
+          "type": "face/quina de montanha",
+          "support": "montanha convertida no andar",
+          "frozen": 43,
+          "brown": 0,
+          "direction": 10
+        }
+      }
+    },
+    {
+      "position": [
+        2726,
+        1613,
+        7
+      ],
+      "before": [
+        3837,
+        1809
+      ],
+      "after": [
+        3837,
+        4077
+      ],
+      "replacements": {
+        "1": {
+          "old": 1809,
+          "new": 4077,
+          "maskDifference": 0.0,
+          "type": "face/quina de montanha",
+          "support": "montanha convertida no andar",
+          "frozen": 1,
+          "brown": 0,
+          "direction": 1
+        }
+      }
+    },
+    {
+      "position": [
+        2725,
+        1614,
+        7
+      ],
+      "before": [
+        3839,
+        579
+      ],
+      "after": [
+        3839,
+        3634
+      ],
+      "replacements": {
+        "1": {
+          "old": 579,
+          "new": 3634,
+          "maskDifference": 2.59,
+          "type": "face/quina de montanha",
+          "support": "montanha convertida no andar",
+          "frozen": 41,
+          "brown": 0,
+          "direction": 8
+        }
+      }
+    },
+    {
+      "position": [
+        2725,
+        1615,
+        7
+      ],
+      "before": [
+        3834,
+        579
+      ],
+      "after": [
+        3834,
+        3634
+      ],
+      "replacements": {
+        "1": {
+          "old": 579,
+          "new": 3634,
+          "maskDifference": 2.59,
+          "type": "face/quina de montanha",
+          "support": "montanha convertida no andar",
+          "frozen": 9,
+          "brown": 0,
+          "direction": 8
+        }
+      }
+    },
+    {
+      "position": [
+        2724,
+        1616,
+        7
+      ],
+      "before": [
+        3835,
+        4830
+      ],
+      "after": [
+        3835,
+        3484
+      ],
+      "replacements": {
+        "1": {
+          "old": 4830,
+          "new": 3484,
+          "maskDifference": 0.36,
+          "type": "face/quina de montanha",
+          "support": "montanha convertida no andar",
+          "frozen": 43,
+          "brown": 0,
+          "direction": 10
+        }
+      }
+    },
+    {
+      "position": [
+        2725,
+        1616,
+        7
+      ],
+      "before": [
+        3834,
+        1808
+      ],
+      "after": [
+        3834,
+        4078
+      ],
+      "replacements": {
+        "1": {
+          "old": 1808,
+          "new": 4078,
+          "maskDifference": 0.0,
+          "type": "face/quina de montanha",
+          "support": "montanha convertida no andar",
+          "frozen": 1,
+          "brown": 0,
+          "direction": 1
+        }
+      }
+    },
+    {
+      "position": [
+        2724,
+        1617,
+        7
+      ],
+      "before": [
+        3836,
+        581
+      ],
+      "after": [
+        3836,
+        3476
+      ],
+      "replacements": {
+        "1": {
+          "old": 581,
+          "new": 3476,
+          "maskDifference": 0.0,
+          "type": "face/quina de montanha",
+          "support": "montanha convertida no andar",
+          "frozen": 9,
+          "brown": 0,
+          "direction": 8
+        }
+      }
+    },
+    {
+      "position": [
+        2723,
+        1618,
+        7
+      ],
+      "before": [
+        3839,
+        4830
+      ],
+      "after": [
+        3839,
+        3484
+      ],
+      "replacements": {
+        "1": {
+          "old": 4830,
+          "new": 3484,
+          "maskDifference": 0.36,
+          "type": "face/quina de montanha",
+          "support": "montanha convertida no andar",
+          "frozen": 43,
+          "brown": 0,
+          "direction": 10
+        }
+      }
+    },
+    {
+      "position": [
+        2724,
+        1618,
+        7
+      ],
+      "before": [
+        3837,
+        1808
+      ],
+      "after": [
+        3837,
+        4078
+      ],
+      "replacements": {
+        "1": {
+          "old": 1808,
+          "new": 4078,
+          "maskDifference": 0.0,
+          "type": "face/quina de montanha",
+          "support": "montanha convertida no andar",
+          "frozen": 1,
+          "brown": 0,
+          "direction": 1
+        }
+      }
+    },
+    {
+      "position": [
+        2723,
+        1619,
+        7
+      ],
+      "before": [
+        3836,
+        4827
+      ],
+      "after": [
+        3836,
+        3551
+      ],
+      "replacements": {
+        "1": {
+          "old": 4827,
+          "new": 3551,
+          "maskDifference": 6.06,
+          "type": "face/quina de montanha",
+          "support": "montanha convertida no andar",
+          "frozen": 9,
+          "brown": 0,
+          "direction": 8
+        }
+      }
+    },
+    {
+      "position": [
+        2723,
+        1620,
+        7
+      ],
+      "before": [
+        3836,
+        588
+      ],
+      "after": [
+        3836,
+        3483
+      ],
+      "replacements": {
+        "1": {
+          "old": 588,
+          "new": 3483,
+          "maskDifference": 6.84,
+          "type": "face/quina de montanha",
+          "support": "montanha convertida no andar",
+          "frozen": 1,
+          "brown": 0,
+          "direction": 1
+        }
+      }
+    },
+    {
+      "position": [
+        2723,
+        1618,
+        6
+      ],
+      "before": [
+        217,
+        3848
+      ],
+      "after": [
+        3706,
+        3848
+      ],
+      "replacements": {
+        "0": {
+          "old": 217,
+          "new": 3706,
+          "maskDifference": 0.0,
+          "type": "borda plana",
+          "support": "apoio projetado ou encaixe lateral",
+          "visibleConverted": 1.0,
+          "lowerConverted": 1.0,
+          "visibleBrown": 0.0,
+          "lowerBrown": 0.0,
+          "convertedContact": 27,
+          "brownContact": 0,
+          "frozenContact": 0,
+          "visibleFrozen": 0.0
+        }
+      }
+    },
+    {
+      "position": [
+        2723,
+        1619,
+        6
+      ],
+      "before": [
+        219
+      ],
+      "after": [
+        3708
+      ],
+      "replacements": {
+        "0": {
+          "old": 219,
+          "new": 3708,
+          "maskDifference": 0.0,
+          "type": "borda plana",
+          "support": "apoio projetado ou encaixe lateral",
+          "visibleConverted": 1.0,
+          "lowerConverted": 1.0,
+          "visibleBrown": 0.0,
+          "lowerBrown": 0.0,
+          "convertedContact": 74,
+          "brownContact": 0,
+          "frozenContact": 0,
+          "visibleFrozen": 0.0
+        }
+      }
+    },
+    {
+      "position": [
+        2723,
+        1620,
+        6
+      ],
+      "before": [
+        225
+      ],
+      "after": [
+        3714
+      ],
+      "replacements": {
+        "0": {
+          "old": 225,
+          "new": 3714,
+          "maskDifference": 0.0,
+          "type": "borda plana",
+          "support": "apoio projetado ou encaixe lateral",
+          "visibleConverted": 1.0,
+          "lowerConverted": 1.0,
+          "visibleBrown": 0.0,
+          "lowerBrown": 0.0,
+          "convertedContact": 24,
+          "brownContact": 0,
+          "frozenContact": 18,
+          "visibleFrozen": 0.0
+        }
+      }
+    },
+    {
+      "position": [
+        2728,
+        1596,
+        7
+      ],
+      "before": [
+        3838,
+        4832
+      ],
+      "after": [
+        3838,
+        3655
+      ],
+      "replacements": {
+        "1": {
+          "old": 4832,
+          "new": 3655,
+          "type": "face/quina de montanha",
+          "support": "encaixe revisto nos sprites nativos",
+          "maskDifference": 14.36
+        }
+      }
+    },
+    {
+      "position": [
+        2726,
+        1594,
+        7
+      ],
+      "before": [
+        3838,
+        595
+      ],
+      "after": [
+        3838,
+        3509
+      ],
+      "replacements": {
+        "1": {
+          "old": 595,
+          "new": 3509,
+          "type": "face/quina de montanha",
+          "support": "continuidade da face sobre a rocha convertida",
+          "visibleFrozen": 0.877,
+          "visibleBrown": 0.039
+        }
+      }
+    },
+    {
+      "position": [
+        2727,
+        1594,
+        7
+      ],
+      "before": [
+        3839,
+        1101
+      ],
+      "after": [
+        3839,
+        3511
+      ],
+      "replacements": {
+        "1": {
+          "old": 1101,
+          "new": 3511,
+          "type": "face/quina de montanha",
+          "support": "continuidade da face sobre a rocha convertida",
+          "visibleFrozen": 0.619,
+          "visibleBrown": 0.04
+        }
+      }
+    }
+  ],
+  "changedTileCount": 84,
+  "byFloor": {
+    "7": 81,
+    "6": 3
+  },
+  "source": "D:\\download\\map east city 32.otbm",
+  "sourceSha256": "6f89b48bdd7a43abad2de50b627f8070ee3abd1a7a19b9a1acca1f0fa641aeb0",
+  "reference": "C:\\Users\\Wedson\\AppData\\Local\\Temp\\codex-clipboard-19874fff-aa7d-4ab0-8d48-266cf6749569.png",
+  "referenceSha256": "7fddf03e832334f7900561809adbdb3a07fcdb94f6aecf2f388d47030eefec3e",
+  "backup": "20261111-172622-654996",
+  "metadataHash": "3394c242c3609f52176bac31c1bdf0f052b89fd9a759af1d4654e60772f9d965",
+  "expectedTileDigest": "0274221666314b409481d93400172c723849bf267e3b0425214c40c04fda2f21",
+  "supportedStoneFacesReviewed": 3,
+  "nativeComparisons": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\work\\review-rim-east-city-33-20261111",
+  "writer": {
+    "sourceSha256": "6f89b48bdd7a43abad2de50b627f8070ee3abd1a7a19b9a1acca1f0fa641aeb0",
+    "sha256": "7058281dac3b08bbad018693a306bbfb5d8a3fa5795f5e80a8e75dfdf5ce2916",
+    "changed": 84,
+    "deleted": 0,
+    "inserted": 0,
+    "unchanged": 0,
+    "missingDeletes": 0,
+    "newAreas": 0,
+    "tiles": 3123631,
+    "bytes": 30916422,
+    "committed": true
+  },
+  "output": "D:\\download\\map east city 33.otbm",
+  "actualTileDigest": "0274221666314b409481d93400172c723849bf267e3b0425214c40c04fda2f21",
+  "allOtherTilesVerified": true,
+  "tileCountAndMetadataVerified": true,
+  "identicalPhysicalFlagsAndElevation": true,
+  "cause": "The screenshot rim had frozen ground before the previous ground conversions. A diff limited to the manually converted ground missed it.",
+  "screenshotTopLeftApprox": [
+    2691,
+    1579,
+    7
+  ],
+  "surfaceSurveyFloors": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "unambiguousDirectRimTiles": 78,
+  "preview": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\work\\review-rim-east-city-33-20261111\\mapa-33-antes-depois.png",
+  "baselineBefore": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\reports\\east33-before-20261111.json",
+  "baselineAfter": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\reports\\east33-after-20261111.json",
+  "baselineWorldInspection": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\reports\\world-east33-after-20261111.json"
+}

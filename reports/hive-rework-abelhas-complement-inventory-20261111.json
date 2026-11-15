@@ -1,0 +1,90 @@
+{
+  "passed": true,
+  "operation": "hive_rework_abelhas_complement",
+  "item_count": 8,
+  "indication_client_ids": [
+    12763,
+    12764,
+    12780,
+    12781,
+    12906,
+    12907,
+    12935,
+    12936
+  ],
+  "target_server_id_range": [
+    27493,
+    27500
+  ],
+  "target_client_id_range": [
+    26608,
+    26615
+  ],
+  "manifest_sha256": "889D4FB1062743E7D119AD53ED1C414B8EDFECE5D182C5A4AB6997E6A6087BED",
+  "items": [
+    {
+      "indication_client_id": 12763,
+      "source_server_id": 13640,
+      "target_server_id": 27493,
+      "target_client_id": 26608,
+      "png": "item_12763_.png",
+      "obd": "Hive\\item_12763_860v2-v2.obd"
+    },
+    {
+      "indication_client_id": 12764,
+      "source_server_id": 13641,
+      "target_server_id": 27494,
+      "target_client_id": 26609,
+      "png": "item_12764_.png",
+      "obd": "Hive\\item_12764_860v2-v2.obd"
+    },
+    {
+      "indication_client_id": 12780,
+      "source_server_id": 13657,
+      "target_server_id": 27495,
+      "target_client_id": 26610,
+      "png": "item_12780_.png",
+      "obd": "Hive\\item_12780_860v2-v2.obd"
+    },
+    {
+      "indication_client_id": 12781,
+      "source_server_id": 13658,
+      "target_server_id": 27496,
+      "target_client_id": 26611,
+      "png": "item_12781_.png",
+      "obd": "Hive\\item_12781_860v2-v2.obd"
+    },
+    {
+      "indication_client_id": 12906,
+      "source_server_id": 13783,
+      "target_server_id": 27497,
+      "target_client_id": 26612,
+      "png": "item_12906_.png",
+      "obd": "Hive\\item_12906_860v2-v2.obd"
+    },
+    {
+      "indication_client_id": 12907,
+      "source_server_id": 13784,
+      "target_server_id": 27498,
+      "target_client_id": 26613,
+      "png": "item_12907_.png",
+      "obd": "Hive\\item_12907_860v2-v2.obd"
+    },
+    {
+      "indication_client_id": 12935,
+      "source_server_id": 13812,
+      "target_server_id": 27499,
+      "target_client_id": 26614,
+      "png": "item_12935_.png",
+      "obd": "Hive\\item_12935_860v2-v2.obd"
+    },
+    {
+      "indication_client_id": 12936,
+      "source_server_id": 13813,
+      "target_server_id": 27500,
+      "target_client_id": 26615,
+      "png": "item_12936_.png",
+      "obd": "Hive\\item_12936_860v2-v2.obd"
+    }
+  ]
+}

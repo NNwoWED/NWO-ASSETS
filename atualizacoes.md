@@ -1,5 +1,38 @@
 # Atualizacoes
 
+## 12/11/2026 - Bordeamento de neve e pedra no East City 35
+
+- Refeitas as transições de neve e piso de pedra entre X 2468 e 2739 e Y 1533 e 1667, do andar 6 ao 0. A área ficou com 7.864 SQMs de uma borda de piso e 75 de duas. A escolha considerou o contato com o terreno do mesmo andar e com as faces que aparecem do andar de baixo.
+- A saída `D:/download/map east city 35.otbm` passou na auditoria do OTBM. Backup testado `20261112-190202-762168` e relatório `NWO-ASSETS/reports/east35-final-20261112.json`.
+
+## 12/11/2026 - Remoção de bordas de piso no East City 34
+
+- Removidas 8.439 bordas de neve e 3.572 bordas de piso de pedra acrescentadas ao mapa, entre X 2468 e 2739 e Y 1533 e 1667, do andar 6 ao 0. A comparação com o mapa original confirmou 157 bordas preexistentes mantidas na área.
+- O mapa `D:/download/map east city 34.otbm` passou na auditoria do OTBM. Backup testado `20261112-185449-422933` e relatório `NWO-ASSETS/reports/east34-final-20261112.json`.
+
+## 11/11/2026 - Contorno congelado junto ao lago no East City 33
+
+- Corrigidas 81 faces e quinas de montanha no andar 7 e três bordas planas no andar 6. O piso junto ao lago já era congelado nas versões anteriores e a faixa de pedra comum escapou da comparação entre as versões.
+- Resultado salvo em `D:/download/map east city 33.otbm`. A auditoria dos 84 SQMs alterados confirmou os encaixes e preservou as propriedades físicas das peças. Backup testado `20261111-172622-654996` e relatório `NWO-ASSETS/reports/east33-final-20261111.json`.
+
+## 11/11/2026 - Revisão das bordas congeladas no East City 32
+
+- A revisão do mapa 31 identificou 609 pisos de montanha trocados para Frozen Stone Mountain e duas mudanças na ordem dos itens. As edições foram preservadas.
+- Trocadas 258 faces e quinas e 169 bordas planas em 400 SQMs. Foram mantidos os encaixes com pedra comum, os pisos e as propriedades físicas das peças.
+- O mapa `D:/download/map east city 32.otbm` passou na auditoria completa. Backup testado `20261111-171911-202929` e relatório `NWO-ASSETS/reports/east32-final-20261111.json`.
+
+## 11/11/2026 - Bordas das montanhas congeladas no East City 31
+
+- Ajustadas 2.364 faces e quinas e 838 bordas planas em 3.014 SQMs do East City 30. As bordas acompanham a Frozen Stone Mountain onde houve conversão. Os encontros com a rocha comum foram conferidos.
+- Os pisos, objetos e demais itens do mapa 30 foram preservados. As trocas mantêm as propriedades físicas e a elevação dos itens. A saída `D:/download/map east city 31.otbm` passou na auditoria completa do OTBM.
+- Backup testado `20261111-121851-561804`, validação profunda aprovada e relatório `NWO-ASSETS/reports/east31-final-20261111.json`.
+
+## 11/11/2026 - Remoção de bordas no East City 29
+
+- Removidas 416.641 bordas em 304.226 SQMs de todos os andares do East City 28. As peças próprias das montanhas Stone Mountain e Frozen Stone Mountain foram preservadas, junto com os pisos, objetos e decorações.
+- A remoção eliminou 19.288 SQMs compostos exclusivamente por bordas e retirou bloqueios de passagem em 12.407 SQMs com piso.
+- Resultado salvo em `D:/download/map east city 29.otbm`. A fonte, o mapa oficial e os arquivos de itens mantiveram seus hashes. Auditoria do resultado, backup testado e validação profunda aprovados. Relatório `reports/east29-final-20261111.json` em NWO-ASSETS e versão `20261111-115528-133973`.
+
 ## 05/11/2026 - Efeito tubarao, Roof 17 e paredes Iwa
 
 - Importado o Effect ID 1481 a partir de `skill_tubarao-Sheet.png`: 13 frames de 128x128, 100 ms e animacao sincrona. Criado o Roof SID 27046 / CID 26161 com a sprite `17.png`, 64x64 estatica e propriedades clonadas do Roof 26929.
@@ -346,6 +379,37 @@ Sincronização oficial concluída: 31 destinos de arquivos conferidos, metadado
 - Três versões completas criadas e testadas antes das respectivas gravações: 20261108-045001-361290, 20261108-045128-542484, 20261108-045223-174067. Reexportação dos sete itens e da outfit, conferência dos pixels, validação profunda sem erros/avisos e sincronização obrigatória com servidor, RME, PC, mobile e NWO-STUDIO aprovadas; hashes e RARs conferidos. Verificação estática mobile aprovada, sem APK pela dispensa do usuário e sem teste in-game nesta tarefa.
 - PNGs originais, manifestos e tabelas arquivados em `NWO-ASSETS/importados/telhado-iwagakure-20261108/` e `NWO-ASSETS/importados/kakashi-shippuden-20261108/`. Prévias em `NWO-ASSETS/work/kakashi-telhado-20261108/`; relatórios em `NWO-ASSETS/reports/` e evidências em `G:/Meu Drive/NEW NWO/logs/kakashi-telhado-20261108/`. Alterações nas branches mob-estrelado, sem banco, commit ou push automático.
 
+## 11/11/2026 — Hive rework das abelhas
+
+- Adicionados 392 itens novos a partir dos pares PNG/OBD de `hive_rework_abelhas`: Server IDs 27101–27492 e Client IDs 26216–26607, com 1.463 sprites novas (306785–308247).
+- As aparências vieram dos PNGs RGBA e as propriedades DAT/OTB, layouts, patterns e animações vieram dos OBDs de mesmo Client ID de indicação. As 13 animações preservaram os 500 ms por frame declarados nos OBDs.
+- O importador `import-cloned-items` passou a aceitar `properties_obd_path`, mantendo a imagem nova e aplicando as propriedades OBD conhecidas sem clonar configurações divergentes da baseline. Incluído suporte seguro à propriedade DAT-only de container.
+- Versão imutável `20261111-074917-135849`; importação, pixels, hashes, mapa e validação profunda aprovados. Sincronização concluída para servidor, RME, client desktop, mobile e NWO-STUDIO, com 31 cópias verificadas e RARs testados.
+- Fontes e manifesto usados arquivados em `importados/hive-rework-abelhas-20261111/`. Permaneceram em `sprites/hive_rework_abelhas/` oito PNGs sem OBD e sete OBDs sem PNG, sem importação automática.
+- Complemento concluído após o recebimento dos oito OBDs faltantes: indicações 12763, 12764, 12780, 12781, 12906, 12907, 12935 e 12936 importadas nos Server IDs 27493–27500 / Client IDs 26608–26615, acrescentando 17 sprites. As propriedades `force use` e `lens help` foram traduzidas somente para suas equivalências seguras no OTB/DAT. Versão `20261111-103715-826737`; validação profunda e sincronização de runtime aprovadas. Restaram somente sete OBDs sem PNG correspondente.
+
+## 11/11/2026 — Bosses estrelados e novos mobs de Iwagakure
+
+- Adicionadas 23 novas outfits no intervalo reservado `1030–1052`: 18 de `boss estrelado` e cinco de `mobs novos iwa`, ordenadas primeiro por pasta e depois pelo nome do PNG.
+- Todas preservam quatro direções, dois grupos de oito frames e duração de 100 ms por frame. Foram acrescentados 5.480 sprites (`308265–313744`) sem alterar outfits fora do lote.
+- A fonte `outfit-2145_group-0-Sheet.png`, recebida com 383×1536, foi completada deterministicamente para 384×1536 com uma única coluna transparente à direita; os demais pixels foram preservados byte a byte.
+- Versão imutável `20261111-111112-516968`; pixels reabertos e conferidos, validação profunda sem erros/avisos e 46 grupos exportados para conferência.
+- Sincronização concluída para servidor, RME, client desktop, mobile e NWO-STUDIO, com 31 cópias verificadas e RARs testados. Nenhum XML de monstro ou configuração de gameplay foi criado nesta etapa; o lote adiciona somente as aparências DAT/SPR.
+
+## 11/11/2026 — RME-NARUTO oficial
+
+- O destino oficial do editor passou de `RME 5.0` para `RME-NARUTO`; o sincronizador não publica mais assets no editor antigo.
+- `items.otb` e `items.xml` são publicados em `RME-NARUTO/data/860`, `Tibia.dat` e `Tibia.spr` em `RME-NARUTO/data/860-crypto`, e `items.otml` em `RME-NARUTO/data/things`.
+- Os cinco arquivos são conferidos por SHA-256 em toda sincronização, inclusive quando já estavam iguais. A publicação permanece transacional, com restauração integral dos arquivos anteriores do RME-NARUTO em caso de falha.
+- Testes do sincronizador e da restauração do runtime aprovados (10 testes). Primeira sincronização para o novo destino concluída com validação profunda aprovada e os cinco hashes idênticos à baseline canônica; relatório `reports/sync-runtime-rme-naruto-official-20261111.json`.
+
+## 12/11/2026 — Iluminação amarela do Hive rework
+
+- Corrigida somente a cor da luz DAT dos 65 itens do lote `hive_rework_abelhas` que ainda usavam a cor verde pura 30 (RGB 0,255,0), passando para amarelo puro 210 (RGB 255,255,0).
+- Preservadas individualmente as intensidades de luz existentes, entre 1 e 5, além de sprites, layouts, animações, propriedades OTB/XML, mapa e todos os demais payloads DAT.
+- Incluído o comando seguro `edit-item-light-colors`, com trava Server ID/Client ID, exigência de luz já existente, versionamento automático e validação transacional. Manifesto: `manifests/hive-rework-yellow-lights-20261112.csv`.
+- Versão imutável `20261112-004200-903985`; validação profunda aprovada e sincronização concluída em 34 destinos/verificações, incluindo RME-NARUTO, client desktop, mobile e NWO-STUDIO. Relatórios `reports/edit-hive-rework-yellow-lights-20261112.json`, `reports/validation-hive-rework-yellow-lights-final-20261112.json` e `reports/sync-runtime-hive-rework-yellow-lights-20261112.json`.
+
 ## 12/11/2026 - Chave Amaldiçoada e Relíquia Antiga
 
 Substituição visual da Relíquia Antiga SID 26969 / CID 26084 pela referência Green Crystal SID 11464 / CID 10580, e da Chave Amaldiçoada SID 26963 / CID 26078 pela Silver key SID 2088 / CID 2969, confirmada pelo usuário. PNGs RGBA de 32×32, estáticos, uma camada/padrão/frame. A operação preservou propriedades DAT/OTB e atualizou aparência e SpriteHash. Pixels dos dois destinos conferidos contra as referências exportadas.
@@ -358,3 +422,10 @@ Versões 20261112-053120-069201, 20261112-053334-550711. Relatórios import-kino
 - O item ativo descreve o período de 20/11/2026 às 10h até 25/11/2026 às 23h59. O evento entrega quatro Guizos vinculados por personagem; cada Guizo concede uma hora de Double XP após confirmação.
 - Versão imutável `20261114-043731-108910` criada e testada antes da gravação. Importação, validação profunda e sincronização de 34 destinos aprovadas; DAT final até Client ID 26617, SPR com 313.748 sprites e OTB até Server ID 27502.
 - Fontes exportadas e manifesto arquivados em `importados/november-guizos-20261114/`. Relatórios `import-november-guizos-20261114.json`, `validation-november-guizos-final-20261114.json` e `sync-runtime-november-guizos-20261114.json` preservados em `reports/`.
+
+
+## 14/11/2026 - Consolidação das pendências do NWO-ASSETS
+
+Versionadas as ferramentas de propriedades OBD, cor de luz e composição de mapas, seus testes, os arquivos auxiliares de casas, cenários e rotas e as fontes das importações anteriores do Hive e das outfits. As referências do teste da baseline foram atualizadas para o conjunto já publicado, incluindo os guizos de novembro e as duas aparências de missão. DAT, SPR, OTB e OTBM foram conferidos com os arquivos já commitados. O mapa operacional confere com o oficial do servidor.
+
+A suíte completa passou em 157 testes, e a validação profunda terminou sem erros. Evidências em G:/Meu Drive/NEW NWO/logs/assets-pending-commits-20261114/ e relatório reports/validation-pending-commits-20261114.json.

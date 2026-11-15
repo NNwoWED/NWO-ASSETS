@@ -1,0 +1,601 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "manifest": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\manifests\\hive-rework-yellow-lights-20261112.csv",
+  "version_backup": {
+    "tool_version": "0.8.2",
+    "version_id": "20261112-004200-903985",
+    "created_at": "2026-11-12T00:42:13.771915-03:00",
+    "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261112-004200-903985",
+    "rar_executable": "C:\\Program Files\\WinRAR\\Rar.exe",
+    "sources": [
+      {
+        "path": "assets/860/.gitattributes",
+        "size": 43,
+        "sha256": "D5636A3257287440945C5E017581545E5B0A3E2FDDDAE7C5EF8D90FF4DF3D32A"
+      },
+      {
+        "path": "assets/860/Tibia.dat",
+        "size": 4719214,
+        "sha256": "0F357BEBFB22A66B625A9372671F2BDB10E9EBA316B80DE6F21992E783EE9BCC"
+      },
+      {
+        "path": "assets/860/Tibia.otfi",
+        "size": 185,
+        "sha256": "7743548835944BC799CB871A4E5DEF84F7AF76815031871B9CE74B5EC0E8ADD3"
+      },
+      {
+        "path": "assets/860/Tibia.spr",
+        "size": 538223896,
+        "sha256": "AF754303DB3E77A527A19F8132189B8EAA74166DCADEDE05712A28B9DFADDBB0"
+      },
+      {
+        "path": "assets/items/force use.txt",
+        "size": 419,
+        "sha256": "BCB478FDF3F45ECA8D172AFD7A17D3F8CD520924EE0894752452B8FDC8F71959"
+      },
+      {
+        "path": "assets/items/items.otb",
+        "size": 1093131,
+        "sha256": "DDFA435D75A33A538D4E5E3C22C74F788FC4A633AA560568BC480D7ADDD7BC2C"
+      },
+      {
+        "path": "assets/world/mapanovo.otbm",
+        "size": 86622750,
+        "sha256": "ABB09C367200FE91408756E2ED7C135382F231F538849BC3B601D10207CE2D8C"
+      }
+    ],
+    "archives": {
+      "860": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261112-004200-903985\\860.rar",
+        "size": 93786854,
+        "sha256": "52A614079ECE0F67AB96F08160E02D84A804A2501D859C62D81BE06A560FA8AF"
+      },
+      "items": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261112-004200-903985\\items.rar",
+        "size": 524202,
+        "sha256": "437E8EB422FEDE37DE92EB08F88F72FDB5E5CF45C0172967F9EF0E7B67FB8996"
+      },
+      "world": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261112-004200-903985\\world.zip",
+        "size": 20867072,
+        "sha256": "D41CA6809A0FF4BE6CC5F9206B3ACFBF902E33DBDDFADD150B3D56E5C0353D9E"
+      }
+    },
+    "items_xml_excluded": true,
+    "world_entries": [
+      "mapanovo.otbm"
+    ],
+    "world_source": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\world\\mapanovo.otbm",
+    "passed": true
+  },
+  "item_count": 65,
+  "changed_items": [
+    {
+      "sequence": 1,
+      "server_id": 27224,
+      "client_id": 26339,
+      "intensity": 5,
+      "before_color": 30,
+      "after_color": 210
+    },
+    {
+      "sequence": 2,
+      "server_id": 27225,
+      "client_id": 26340,
+      "intensity": 5,
+      "before_color": 30,
+      "after_color": 210
+    },
+    {
+      "sequence": 3,
+      "server_id": 27226,
+      "client_id": 26341,
+      "intensity": 1,
+      "before_color": 30,
+      "after_color": 210
+    },
+    {
+      "sequence": 4,
+      "server_id": 27228,
+      "client_id": 26343,
+      "intensity": 5,
+      "before_color": 30,
+      "after_color": 210
+    },
+    {
+      "sequence": 5,
+      "server_id": 27229,
+      "client_id": 26344,
+      "intensity": 5,
+      "before_color": 30,
+      "after_color": 210
+    },
+    {
+      "sequence": 6,
+      "server_id": 27230,
+      "client_id": 26345,
+      "intensity": 5,
+      "before_color": 30,
+      "after_color": 210
+    },
+    {
+      "sequence": 7,
+      "server_id": 27231,
+      "client_id": 26346,
+      "intensity": 5,
+      "before_color": 30,
+      "after_color": 210
+    },
+    {
+      "sequence": 8,
+      "server_id": 27232,
+      "client_id": 26347,
+      "intensity": 5,
+      "before_color": 30,
+      "after_color": 210
+    },
+    {
+      "sequence": 9,
+      "server_id": 27233,
+      "client_id": 26348,
+      "intensity": 5,
+      "before_color": 30,
+      "after_color": 210
+    },
+    {
+      "sequence": 10,
+      "server_id": 27234,
+      "client_id": 26349,
+      "intensity": 5,
+      "before_color": 30,
+      "after_color": 210
+    },
+    {
+      "sequence": 11,
+      "server_id": 27235,
+      "client_id": 26350,
+      "intensity": 5,
+      "before_color": 30,
+      "after_color": 210
+    },
+    {
+      "sequence": 12,
+      "server_id": 27236,
+      "client_id": 26351,
+      "intensity": 5,
+      "before_color": 30,
+      "after_color": 210
+    },
+    {
+      "sequence": 13,
+      "server_id": 27237,
+      "client_id": 26352,
+      "intensity": 5,
+      "before_color": 30,
+      "after_color": 210
+    },
+    {
+      "sequence": 14,
+      "server_id": 27238,
+      "client_id": 26353,
+      "intensity": 5,
+      "before_color": 30,
+      "after_color": 210
+    },
+    {
+      "sequence": 15,
+      "server_id": 27239,
+      "client_id": 26354,
+      "intensity": 5,
+      "before_color": 30,
+      "after_color": 210
+    },
+    {
+      "sequence": 16,
+      "server_id": 27242,
+      "client_id": 26357,
+      "intensity": 5,
+      "before_color": 30,
+      "after_color": 210
+    },
+    {
+      "sequence": 17,
+      "server_id": 27243,
+      "client_id": 26358,
+      "intensity": 5,
+      "before_color": 30,
+      "after_color": 210
+    },
+    {
+      "sequence": 18,
+      "server_id": 27244,
+      "client_id": 26359,
+      "intensity": 5,
+      "before_color": 30,
+      "after_color": 210
+    },
+    {
+      "sequence": 19,
+      "server_id": 27245,
+      "client_id": 26360,
+      "intensity": 5,
+      "before_color": 30,
+      "after_color": 210
+    },
+    {
+      "sequence": 20,
+      "server_id": 27246,
+      "client_id": 26361,
+      "intensity": 5,
+      "before_color": 30,
+      "after_color": 210
+    },
+    {
+      "sequence": 21,
+      "server_id": 27247,
+      "client_id": 26362,
+      "intensity": 5,
+      "before_color": 30,
+      "after_color": 210
+    },
+    {
+      "sequence": 22,
+      "server_id": 27250,
+      "client_id": 26365,
+      "intensity": 5,
+      "before_color": 30,
+      "after_color": 210
+    },
+    {
+      "sequence": 23,
+      "server_id": 27251,
+      "client_id": 26366,
+      "intensity": 5,
+      "before_color": 30,
+      "after_color": 210
+    },
+    {
+      "sequence": 24,
+      "server_id": 27252,
+      "client_id": 26367,
+      "intensity": 5,
+      "before_color": 30,
+      "after_color": 210
+    },
+    {
+      "sequence": 25,
+      "server_id": 27262,
+      "client_id": 26377,
+      "intensity": 4,
+      "before_color": 30,
+      "after_color": 210
+    },
+    {
+      "sequence": 26,
+      "server_id": 27263,
+      "client_id": 26378,
+      "intensity": 4,
+      "before_color": 30,
+      "after_color": 210
+    },
+    {
+      "sequence": 27,
+      "server_id": 27264,
+      "client_id": 26379,
+      "intensity": 2,
+      "before_color": 30,
+      "after_color": 210
+    },
+    {
+      "sequence": 28,
+      "server_id": 27265,
+      "client_id": 26380,
+      "intensity": 2,
+      "before_color": 30,
+      "after_color": 210
+    },
+    {
+      "sequence": 29,
+      "server_id": 27266,
+      "client_id": 26381,
+      "intensity": 2,
+      "before_color": 30,
+      "after_color": 210
+    },
+    {
+      "sequence": 30,
+      "server_id": 27267,
+      "client_id": 26382,
+      "intensity": 2,
+      "before_color": 30,
+      "after_color": 210
+    },
+    {
+      "sequence": 31,
+      "server_id": 27268,
+      "client_id": 26383,
+      "intensity": 4,
+      "before_color": 30,
+      "after_color": 210
+    },
+    {
+      "sequence": 32,
+      "server_id": 27269,
+      "client_id": 26384,
+      "intensity": 4,
+      "before_color": 30,
+      "after_color": 210
+    },
+    {
+      "sequence": 33,
+      "server_id": 27270,
+      "client_id": 26385,
+      "intensity": 4,
+      "before_color": 30,
+      "after_color": 210
+    },
+    {
+      "sequence": 34,
+      "server_id": 27271,
+      "client_id": 26386,
+      "intensity": 4,
+      "before_color": 30,
+      "after_color": 210
+    },
+    {
+      "sequence": 35,
+      "server_id": 27272,
+      "client_id": 26387,
+      "intensity": 4,
+      "before_color": 30,
+      "after_color": 210
+    },
+    {
+      "sequence": 36,
+      "server_id": 27273,
+      "client_id": 26388,
+      "intensity": 4,
+      "before_color": 30,
+      "after_color": 210
+    },
+    {
+      "sequence": 37,
+      "server_id": 27274,
+      "client_id": 26389,
+      "intensity": 4,
+      "before_color": 30,
+      "after_color": 210
+    },
+    {
+      "sequence": 38,
+      "server_id": 27275,
+      "client_id": 26390,
+      "intensity": 4,
+      "before_color": 30,
+      "after_color": 210
+    },
+    {
+      "sequence": 39,
+      "server_id": 27276,
+      "client_id": 26391,
+      "intensity": 3,
+      "before_color": 30,
+      "after_color": 210
+    },
+    {
+      "sequence": 40,
+      "server_id": 27277,
+      "client_id": 26392,
+      "intensity": 3,
+      "before_color": 30,
+      "after_color": 210
+    },
+    {
+      "sequence": 41,
+      "server_id": 27278,
+      "client_id": 26393,
+      "intensity": 3,
+      "before_color": 30,
+      "after_color": 210
+    },
+    {
+      "sequence": 42,
+      "server_id": 27279,
+      "client_id": 26394,
+      "intensity": 3,
+      "before_color": 30,
+      "after_color": 210
+    },
+    {
+      "sequence": 43,
+      "server_id": 27280,
+      "client_id": 26395,
+      "intensity": 3,
+      "before_color": 30,
+      "after_color": 210
+    },
+    {
+      "sequence": 44,
+      "server_id": 27281,
+      "client_id": 26396,
+      "intensity": 4,
+      "before_color": 30,
+      "after_color": 210
+    },
+    {
+      "sequence": 45,
+      "server_id": 27282,
+      "client_id": 26397,
+      "intensity": 4,
+      "before_color": 30,
+      "after_color": 210
+    },
+    {
+      "sequence": 46,
+      "server_id": 27283,
+      "client_id": 26398,
+      "intensity": 5,
+      "before_color": 30,
+      "after_color": 210
+    },
+    {
+      "sequence": 47,
+      "server_id": 27284,
+      "client_id": 26399,
+      "intensity": 5,
+      "before_color": 30,
+      "after_color": 210
+    },
+    {
+      "sequence": 48,
+      "server_id": 27285,
+      "client_id": 26400,
+      "intensity": 4,
+      "before_color": 30,
+      "after_color": 210
+    },
+    {
+      "sequence": 49,
+      "server_id": 27342,
+      "client_id": 26457,
+      "intensity": 4,
+      "before_color": 30,
+      "after_color": 210
+    },
+    {
+      "sequence": 50,
+      "server_id": 27343,
+      "client_id": 26458,
+      "intensity": 4,
+      "before_color": 30,
+      "after_color": 210
+    },
+    {
+      "sequence": 51,
+      "server_id": 27344,
+      "client_id": 26459,
+      "intensity": 4,
+      "before_color": 30,
+      "after_color": 210
+    },
+    {
+      "sequence": 52,
+      "server_id": 27345,
+      "client_id": 26460,
+      "intensity": 4,
+      "before_color": 30,
+      "after_color": 210
+    },
+    {
+      "sequence": 53,
+      "server_id": 27346,
+      "client_id": 26461,
+      "intensity": 4,
+      "before_color": 30,
+      "after_color": 210
+    },
+    {
+      "sequence": 54,
+      "server_id": 27347,
+      "client_id": 26462,
+      "intensity": 4,
+      "before_color": 30,
+      "after_color": 210
+    },
+    {
+      "sequence": 55,
+      "server_id": 27349,
+      "client_id": 26464,
+      "intensity": 5,
+      "before_color": 30,
+      "after_color": 210
+    },
+    {
+      "sequence": 56,
+      "server_id": 27425,
+      "client_id": 26540,
+      "intensity": 5,
+      "before_color": 30,
+      "after_color": 210
+    },
+    {
+      "sequence": 57,
+      "server_id": 27426,
+      "client_id": 26541,
+      "intensity": 5,
+      "before_color": 30,
+      "after_color": 210
+    },
+    {
+      "sequence": 58,
+      "server_id": 27428,
+      "client_id": 26543,
+      "intensity": 5,
+      "before_color": 30,
+      "after_color": 210
+    },
+    {
+      "sequence": 59,
+      "server_id": 27429,
+      "client_id": 26544,
+      "intensity": 5,
+      "before_color": 30,
+      "after_color": 210
+    },
+    {
+      "sequence": 60,
+      "server_id": 27430,
+      "client_id": 26545,
+      "intensity": 5,
+      "before_color": 30,
+      "after_color": 210
+    },
+    {
+      "sequence": 61,
+      "server_id": 27437,
+      "client_id": 26552,
+      "intensity": 5,
+      "before_color": 30,
+      "after_color": 210
+    },
+    {
+      "sequence": 62,
+      "server_id": 27438,
+      "client_id": 26553,
+      "intensity": 5,
+      "before_color": 30,
+      "after_color": 210
+    },
+    {
+      "sequence": 63,
+      "server_id": 27439,
+      "client_id": 26554,
+      "intensity": 5,
+      "before_color": 30,
+      "after_color": 210
+    },
+    {
+      "sequence": 64,
+      "server_id": 27440,
+      "client_id": 26555,
+      "intensity": 5,
+      "before_color": 30,
+      "after_color": 210
+    },
+    {
+      "sequence": 65,
+      "server_id": 27441,
+      "client_id": 26556,
+      "intensity": 5,
+      "before_color": 30,
+      "after_color": 210
+    }
+  ],
+  "transaction_committed": true,
+  "intensities_preserved": true,
+  "untouched_assets_preserved": true,
+  "final_validation_passed": true,
+  "warnings": [],
+  "errors": [],
+  "passed": true
+}
