@@ -731,6 +731,8 @@
 			<apng file="dungeon-exit.png" x="959" y="801" z="8" offsetX="0" offsetY="0" width="128" height="128" onTop="0" />
 			<apng file="dungeon-exit.png" x="2230" y="925" z="5" offsetX="0" offsetY="0" width="128" height="128" onTop="0" />
 			<apng file="dunsdgeon2.png" x="1874" y="1013" z="7" offsetX="0" offsetY="0" width="128" height="128" onTop="0" />
+			<apng file="dunsdgeon2.png" x="657" y="518" z="8" offsetX="0" offsetY="0" width="128" height="128" onTop="0" />
+			<apng file="dungeon-exit.png" x="2747" y="632" z="8" offsetX="0" offsetY="0" width="128" height="128" onTop="0" />
 		</sub>
 	</area>
 </areapalette>

@@ -2,7 +2,7 @@
 <routes>
 	<route id="1" name="iruka1" color="#00ccff" visible="false">
 		<waypoint index="1" x="1240" y="701" z="10" />
-		<waypoint index="2" x="1231" y="702" z="10" />
+		<waypoint index="2" x="1231" y="701" z="10" />
 		<waypoint index="3" x="1231" y="697" z="10" />
 		<waypoint index="4" x="1222" y="697" z="10" />
 		<waypoint index="5" x="1222" y="691" z="10" />
@@ -189,18 +189,25 @@
 		<waypoint index="2" x="1335" y="867" z="6" />
 		<waypoint index="3" x="1308" y="867" z="6" />
 		<waypoint index="4" x="1281" y="869" z="6" />
-		<waypoint index="5" x="1250" y="906" z="6" />
-		<waypoint index="6" x="1250" y="920" z="6" />
-		<waypoint index="7" x="1230" y="922" z="6" />
-		<waypoint index="8" x="1229" y="934" z="5" />
-		<waypoint index="9" x="1232" y="944" z="5" />
-		<waypoint index="10" x="1233" y="949" z="6" />
-		<waypoint index="11" x="1256" y="949" z="6" />
-		<waypoint index="12" x="1252" y="962" z="7" />
-		<waypoint index="13" x="1227" y="967" z="7" />
-		<waypoint index="14" x="1220" y="967" z="6" />
-		<waypoint index="15" x="1216" y="966" z="6" />
-		<waypoint index="16" x="1202" y="962" z="7" />
+		<waypoint index="5" x="1249" y="871" z="6" />
+		<waypoint index="6" x="1250" y="906" z="6" />
+		<waypoint index="7" x="1250" y="920" z="6" />
+		<waypoint index="8" x="1236" y="920" z="6" />
+		<waypoint index="9" x="1230" y="922" z="6" />
+		<waypoint index="10" x="1230" y="926" z="5" />
+		<waypoint index="11" x="1227" y="933" z="5" />
+		<waypoint index="12" x="1231" y="943" z="5" />
+		<waypoint index="13" x="1231" y="946" z="6" />
+		<waypoint index="14" x="1245" y="945" z="6" />
+		<waypoint index="15" x="1256" y="950" z="6" />
+		<waypoint index="16" x="1255" y="954" z="7" />
+		<waypoint index="17" x="1250" y="962" z="7" />
+		<waypoint index="18" x="1237" y="966" z="7" />
+		<waypoint index="19" x="1224" y="966" z="7" />
+		<waypoint index="20" x="1221" y="966" z="6" />
+		<waypoint index="21" x="1216" y="966" z="6" />
+		<waypoint index="22" x="1212" y="966" z="7" />
+		<waypoint index="23" x="1202" y="962" z="7" />
 	</route>
 	<route id="19" name="irukacraft" color="#00ccff" visible="false">
 		<waypoint index="1" x="1202" y="962" z="7" />
@@ -280,42 +287,54 @@
 		<waypoint index="6" x="1803" y="675" z="7" />
 	</route>
 	<route id="24" name="namitokakashi" color="#00ccff" visible="false">
-		<waypoint index="1" x="1245" y="902" z="6" />
-		<waypoint index="2" x="1250" y="881" z="6" />
-		<waypoint index="3" x="1279" y="867" z="6" />
-		<waypoint index="4" x="1305" y="868" z="6" />
-		<waypoint index="5" x="1337" y="867" z="6" />
-		<waypoint index="6" x="1369" y="858" z="6" />
-		<waypoint index="7" x="1399" y="850" z="6" />
-		<waypoint index="8" x="1427" y="841" z="6" />
-		<waypoint index="9" x="1430" y="841" z="7" />
-		<waypoint index="10" x="1456" y="834" z="7" />
-		<waypoint index="11" x="1469" y="821" z="7" />
-		<waypoint index="12" x="1477" y="799" z="7" />
-		<waypoint index="13" x="1475" y="775" z="7" />
-		<waypoint index="14" x="1473" y="755" z="7" />
-		<waypoint index="15" x="1488" y="746" z="7" />
-		<waypoint index="16" x="1502" y="745" z="6" />
-		<waypoint index="17" x="1538" y="745" z="6" />
-		<waypoint index="18" x="1567" y="745" z="6" />
-		<waypoint index="19" x="1602" y="745" z="6" />
-		<waypoint index="20" x="1633" y="745" z="6" />
-		<waypoint index="21" x="1678" y="745" z="6" />
-		<waypoint index="22" x="1710" y="747" z="6" />
-		<waypoint index="23" x="1738" y="744" z="6" />
-		<waypoint index="24" x="1743" y="747" z="6" />
-		<waypoint index="25" x="1756" y="751" z="6" />
-		<waypoint index="26" x="1760" y="755" z="7" />
-		<waypoint index="27" x="1755" y="774" z="7" />
-		<waypoint index="28" x="1756" y="782" z="7" />
-		<waypoint index="29" x="1780" y="782" z="7" />
-		<waypoint index="30" x="1790" y="781" z="7" />
-		<waypoint index="31" x="1801" y="779" z="7" />
-		<waypoint index="32" x="1805" y="759" z="7" />
-		<waypoint index="33" x="1801" y="737" z="7" />
-		<waypoint index="34" x="1802" y="716" z="7" />
-		<waypoint index="35" x="1800" y="696" z="7" />
-		<waypoint index="36" x="1803" y="675" z="7" />
+		<waypoint index="1" x="1265" y="685" z="2" />
+		<waypoint index="2" x="1261" y="688" z="3" />
+		<waypoint index="3" x="1266" y="688" z="4" />
+		<waypoint index="4" x="1284" y="688" z="4" />
+		<waypoint index="5" x="1290" y="689" z="5" />
+		<waypoint index="6" x="1291" y="694" z="6" />
+		<waypoint index="7" x="1287" y="702" z="6" />
+		<waypoint index="8" x="1272" y="702" z="6" />
+		<waypoint index="9" x="1277" y="709" z="6" />
+		<waypoint index="10" x="1278" y="733" z="6" />
+		<waypoint index="11" x="1278" y="762" z="6" />
+		<waypoint index="12" x="1277" y="791" z="6" />
+		<waypoint index="13" x="1277" y="818" z="6" />
+		<waypoint index="14" x="1277" y="841" z="6" />
+		<waypoint index="15" x="1276" y="869" z="6" />
+		<waypoint index="16" x="1305" y="868" z="6" />
+		<waypoint index="17" x="1337" y="867" z="6" />
+		<waypoint index="18" x="1369" y="858" z="6" />
+		<waypoint index="19" x="1399" y="850" z="6" />
+		<waypoint index="20" x="1427" y="841" z="6" />
+		<waypoint index="21" x="1430" y="841" z="7" />
+		<waypoint index="22" x="1456" y="834" z="7" />
+		<waypoint index="23" x="1469" y="821" z="7" />
+		<waypoint index="24" x="1477" y="799" z="7" />
+		<waypoint index="25" x="1475" y="775" z="7" />
+		<waypoint index="26" x="1473" y="755" z="7" />
+		<waypoint index="27" x="1488" y="746" z="7" />
+		<waypoint index="28" x="1502" y="745" z="6" />
+		<waypoint index="29" x="1538" y="745" z="6" />
+		<waypoint index="30" x="1567" y="745" z="6" />
+		<waypoint index="31" x="1602" y="745" z="6" />
+		<waypoint index="32" x="1633" y="745" z="6" />
+		<waypoint index="33" x="1678" y="745" z="6" />
+		<waypoint index="34" x="1710" y="747" z="6" />
+		<waypoint index="35" x="1738" y="744" z="6" />
+		<waypoint index="36" x="1743" y="747" z="6" />
+		<waypoint index="37" x="1756" y="751" z="6" />
+		<waypoint index="38" x="1760" y="755" z="7" />
+		<waypoint index="39" x="1755" y="774" z="7" />
+		<waypoint index="40" x="1756" y="782" z="7" />
+		<waypoint index="41" x="1780" y="782" z="7" />
+		<waypoint index="42" x="1790" y="781" z="7" />
+		<waypoint index="43" x="1801" y="779" z="7" />
+		<waypoint index="44" x="1805" y="759" z="7" />
+		<waypoint index="45" x="1801" y="737" z="7" />
+		<waypoint index="46" x="1802" y="716" z="7" />
+		<waypoint index="47" x="1800" y="696" z="7" />
+		<waypoint index="48" x="1803" y="675" z="7" />
 	</route>
 	<route id="25" name="kakashitokage" color="#00ccff" visible="false">
 		<waypoint index="1" x="1250" y="890" z="6" />
@@ -377,92 +396,128 @@
 		<waypoint index="13" x="1186" y="811" z="6" />
 		<waypoint index="14" x="1198" y="830" z="6" />
 		<waypoint index="15" x="1212" y="849" z="6" />
-		<waypoint index="16" x="1200" y="875" z="6" />
-		<waypoint index="17" x="1182" y="874" z="7" />
-		<waypoint index="18" x="1153" y="875" z="7" />
-		<waypoint index="19" x="1109" y="872" z="7" />
-		<waypoint index="20" x="1064" y="873" z="7" />
-		<waypoint index="21" x="1057" y="872" z="7" />
-		<waypoint index="22" x="1037" y="872" z="6" />
-		<waypoint index="23" x="1000" y="897" z="6" />
-		<waypoint index="24" x="994" y="900" z="7" />
-		<waypoint index="25" x="990" y="925" z="7" />
-		<waypoint index="26" x="992" y="958" z="7" />
-		<waypoint index="27" x="964" y="992" z="7" />
-		<waypoint index="28" x="953" y="1023" z="7" />
-		<waypoint index="29" x="928" y="1063" z="7" />
-		<waypoint index="30" x="917" y="1092" z="7" />
-		<waypoint index="31" x="880" y="1094" z="7" />
-		<waypoint index="32" x="852" y="1104" z="7" />
+		<waypoint index="16" x="1216" y="866" z="6" />
+		<waypoint index="17" x="1215" y="876" z="6" />
+		<waypoint index="18" x="1210" y="889" z="6" />
+		<waypoint index="19" x="1216" y="905" z="6" />
+		<waypoint index="20" x="1213" y="916" z="6" />
+		<waypoint index="21" x="1230" y="922" z="6" />
+		<waypoint index="22" x="1230" y="923" z="6" />
+		<waypoint index="23" x="1230" y="926" z="5" />
+		<waypoint index="24" x="1228" y="931" z="5" />
+		<waypoint index="25" x="1228" y="937" z="5" />
+		<waypoint index="26" x="1231" y="943" z="5" />
+		<waypoint index="27" x="1231" y="946" z="6" />
+		<waypoint index="28" x="1236" y="947" z="6" />
+		<waypoint index="29" x="1241" y="946" z="6" />
+		<waypoint index="30" x="1246" y="945" z="6" />
+		<waypoint index="31" x="1252" y="946" z="6" />
+		<waypoint index="32" x="1255" y="950" z="6" />
+		<waypoint index="33" x="1255" y="954" z="7" />
+		<waypoint index="34" x="1255" y="960" z="7" />
+		<waypoint index="35" x="1257" y="966" z="7" />
+		<waypoint index="36" x="1262" y="970" z="7" />
+		<waypoint index="37" x="1263" y="975" z="7" />
+		<waypoint index="38" x="1264" y="976" z="6" />
+		<waypoint index="39" x="1264" y="982" z="6" />
+		<waypoint index="40" x="1264" y="986" z="6" />
+		<waypoint index="41" x="1264" y="996" z="6" />
+		<waypoint index="42" x="731" y="1256" z="6" />
+		<waypoint index="43" x="732" y="1253" z="6" />
+		<waypoint index="44" x="732" y="1245" z="6" />
+		<waypoint index="45" x="732" y="1242" z="6" />
+		<waypoint index="46" x="732" y="1239" z="7" />
+		<waypoint index="47" x="732" y="1227" z="7" />
+		<waypoint index="48" x="729" y="1211" z="7" />
+		<waypoint index="49" x="725" y="1200" z="7" />
+		<waypoint index="50" x="730" y="1184" z="7" />
+		<waypoint index="51" x="728" y="1171" z="7" />
+		<waypoint index="52" x="729" y="1161" z="7" />
+		<waypoint index="53" x="734" y="1150" z="7" />
+		<waypoint index="54" x="737" y="1138" z="7" />
+		<waypoint index="55" x="740" y="1128" z="7" />
+		<waypoint index="56" x="741" y="1117" z="7" />
+		<waypoint index="57" x="750" y="1109" z="7" />
+		<waypoint index="58" x="753" y="1099" z="7" />
+		<waypoint index="59" x="765" y="1092" z="7" />
+		<waypoint index="60" x="778" y="1088" z="7" />
+		<waypoint index="61" x="792" y="1083" z="7" />
+		<waypoint index="62" x="809" y="1080" z="7" />
+		<waypoint index="63" x="822" y="1090" z="7" />
+		<waypoint index="64" x="828" y="1092" z="7" />
+		<waypoint index="65" x="839" y="1101" z="7" />
+		<waypoint index="66" x="852" y="1103" z="7" />
 	</route>
-<route id="9700" name="cm_kawano_hunt" color="#00ccff" visible="false">
+
+	<!-- Country missions 2026-10-28 -->
+	<route id="9700" name="cm_kawano_hunt" color="#00ccff" visible="false">
 		<waypoint index="1" x="1551" y="910" z="7"/>
 	</route>
-<route id="9701" name="cm_kawano_return" color="#00ccff" visible="false">
+	<route id="9701" name="cm_kawano_return" color="#00ccff" visible="false">
 		<waypoint index="1" x="1371" y="933" z="6"/>
 	</route>
-<route id="9702" name="cm_yamaguchi_hunt" color="#00ccff" visible="false">
+	<route id="9702" name="cm_yamaguchi_hunt" color="#00ccff" visible="false">
 		<waypoint index="1" x="1291" y="1058" z="6"/>
 	</route>
-<route id="9703" name="cm_yamaguchi_return" color="#00ccff" visible="false">
+	<route id="9703" name="cm_yamaguchi_return" color="#00ccff" visible="false">
 		<waypoint index="1" x="1482" y="839" z="6"/>
 	</route>
-<route id="9704" name="cm_kaito_hunt" color="#00ccff" visible="false">
+	<route id="9704" name="cm_kaito_hunt" color="#00ccff" visible="false">
 		<waypoint index="1" x="820" y="1178" z="7"/>
 	</route>
-<route id="9705" name="cm_kaito_return" color="#00ccff" visible="false">
+	<route id="9705" name="cm_kaito_return" color="#00ccff" visible="false">
 		<waypoint index="1" x="622" y="989" z="7"/>
 	</route>
-<route id="9706" name="cm_tanzaku_return" color="#00ccff" visible="false">
+	<route id="9706" name="cm_tanzaku_return" color="#00ccff" visible="false">
 		<waypoint index="1" x="596" y="875" z="7"/>
 	</route>
-<route id="9707" name="cm_riku_hunt" color="#00ccff" visible="false">
+	<route id="9707" name="cm_riku_hunt" color="#00ccff" visible="false">
 		<waypoint index="1" x="520" y="1181" z="7"/>
 	</route>
-<route id="9708" name="cm_riku_return" color="#00ccff" visible="false">
+	<route id="9708" name="cm_riku_return" color="#00ccff" visible="false">
 		<waypoint index="1" x="548" y="939" z="7"/>
 	</route>
-<route id="9709" name="cm_daigo_hunt" color="#00ccff" visible="false">
+	<route id="9709" name="cm_daigo_hunt" color="#00ccff" visible="false">
 		<waypoint index="1" x="455" y="916" z="7"/>
 	</route>
-<route id="9710" name="cm_daigo_return" color="#00ccff" visible="false">
+	<route id="9710" name="cm_daigo_return" color="#00ccff" visible="false">
 		<waypoint index="1" x="632" y="948" z="7"/>
 	</route>
-<route id="9711" name="cm_tokido_hunt" color="#00ccff" visible="false">
+	<route id="9711" name="cm_tokido_hunt" color="#00ccff" visible="false">
 		<waypoint index="1" x="1743" y="1228" z="7"/>
 	</route>
-<route id="9712" name="cm_tokido_return" color="#00ccff" visible="false">
+	<route id="9712" name="cm_tokido_return" color="#00ccff" visible="false">
 		<waypoint index="1" x="1814" y="1027" z="7"/>
 	</route>
-<route id="9750" name="cm_yumi_1" color="#00ccff" visible="false"><waypoint index="1" x="1224" y="780" z="6"/></route>
-<route id="9751" name="cm_yumi_2" color="#00ccff" visible="false"><waypoint index="1" x="1223" y="812" z="5"/></route>
-<route id="9752" name="cm_yumi_3" color="#00ccff" visible="false"><waypoint index="1" x="1231" y="691" z="2"/></route>
-<route id="9753" name="cm_yumi_4" color="#00ccff" visible="false"><waypoint index="1" x="1276" y="704" z="4"/></route>
-<route id="9760" name="cm_hiroto_1" color="#00ccff" visible="false"><waypoint index="1" x="460" y="921" z="9"/></route>
-<route id="9761" name="cm_hiroto_3" color="#00ccff" visible="false"><waypoint index="1" x="603" y="895" z="7"/></route>
-<route id="9780" name="cm_veneno_1" color="#00ccff" visible="false"><waypoint index="1" x="1747" y="923" z="6"/></route>
-<route id="9781" name="cm_veneno_2" color="#00ccff" visible="false"><waypoint index="1" x="1833" y="1056" z="7"/></route>
-<route id="9782" name="cm_veneno_3" color="#00ccff" visible="false"><waypoint index="1" x="1894" y="1019" z="7"/></route>
-<route id="9783" name="cm_veneno_4" color="#00ccff" visible="false"><waypoint index="1" x="1831" y="1011" z="7"/></route>
-<route id="9784" name="cm_veneno_6" color="#00ccff" visible="false"><waypoint index="1" x="1794" y="1013" z="4"/></route>
-<route id="9790" name="cm_origem_1" color="#00ccff" visible="false"><waypoint index="1" x="1878" y="1014" z="7"/></route>
-<route id="9791" name="cm_origem_3" color="#00ccff" visible="false"><waypoint index="1" x="1794" y="1013" z="4"/></route>
-<route id="9799" name="cm_art_return" color="#00ccff" visible="false"><waypoint index="1" x="1209" y="785" z="6"/></route>
-<route id="9800" name="cm_treasure_fish" color="#00ccff" visible="false"><waypoint index="1" x="1254" y="934" z="6"/></route>
-<route id="9801" name="cm_treasure_return" color="#00ccff" visible="false"><waypoint index="1" x="1347" y="859" z="6"/></route>
-<route id="9802" name="cm_map_region_1" color="#00ccff" visible="false"><waypoint index="1" x="501" y="820" z="7"/></route>
-<route id="9803" name="cm_map_region_2" color="#00ccff" visible="false"><waypoint index="1" x="950" y="823" z="7"/></route>
-<route id="9804" name="cm_map_region_3" color="#00ccff" visible="false"><waypoint index="1" x="785" y="1152" z="7"/></route>
-<route id="9805" name="cm_map_assemble" color="#00ccff" visible="false"><waypoint index="1" x="637" y="935" z="7"/></route>
-<route id="9806" name="cm_map_ruins" color="#00ccff" visible="false"><waypoint index="1" x="361" y="1375" z="6"/></route>
-<route id="9807" name="cm_map_return" color="#00ccff" visible="false"><waypoint index="1" x="637" y="935" z="7"/></route>
-<route id="9808" name="cm_lastlink_boss" color="#00ccff" visible="false"><waypoint index="1" x="1615" y="1154" z="7"/></route>
-<route id="9809" name="cm_lastlink_return" color="#00ccff" visible="false"><waypoint index="1" x="1814" y="1027" z="7"/></route>
-<route id="9810" name="cm_scroll_predator" color="#00ccff" visible="false"><waypoint index="1" x="1926" y="1174" z="7"/></route>
-<route id="9811" name="cm_scroll_assassin" color="#00ccff" visible="false"><waypoint index="1" x="1921" y="1104" z="6"/></route>
-<route id="9812" name="cm_scroll_return" color="#00ccff" visible="false"><waypoint index="1" x="1766" y="981" z="4"/></route>
-<route id="9813" name="cm_silent_entry" color="#00ccff" visible="false"><waypoint index="1" x="1406" y="724" z="7"/></route>
-<route id="9814" name="cm_silent_return" color="#00ccff" visible="false"><waypoint index="1" x="1311" y="802" z="6"/></route>
-<route id="9815" name="cm_turtle_hunt" color="#00ccff" visible="false"><waypoint index="1" x="2029" y="1010" z="7"/></route>
-<route id="9816" name="cm_turtle_return" color="#00ccff" visible="false"><waypoint index="1" x="1872" y="980" z="6"/></route>
+	<route id="9750" name="cm_yumi_1" color="#00ccff" visible="false"><waypoint index="1" x="1224" y="780" z="6"/></route>
+	<route id="9751" name="cm_yumi_2" color="#00ccff" visible="false"><waypoint index="1" x="1223" y="812" z="5"/></route>
+	<route id="9752" name="cm_yumi_3" color="#00ccff" visible="false"><waypoint index="1" x="1231" y="691" z="2"/></route>
+	<route id="9753" name="cm_yumi_4" color="#00ccff" visible="false"><waypoint index="1" x="1276" y="704" z="4"/></route>
+	<route id="9760" name="cm_hiroto_1" color="#00ccff" visible="false"><waypoint index="1" x="460" y="921" z="9"/></route>
+	<route id="9761" name="cm_hiroto_3" color="#00ccff" visible="false"><waypoint index="1" x="603" y="895" z="7"/></route>
+	<route id="9780" name="cm_veneno_1" color="#00ccff" visible="false"><waypoint index="1" x="1747" y="923" z="6"/></route>
+	<route id="9781" name="cm_veneno_2" color="#00ccff" visible="false"><waypoint index="1" x="1833" y="1056" z="7"/></route>
+	<route id="9782" name="cm_veneno_3" color="#00ccff" visible="false"><waypoint index="1" x="1894" y="1019" z="7"/></route>
+	<route id="9783" name="cm_veneno_4" color="#00ccff" visible="false"><waypoint index="1" x="1831" y="1011" z="7"/></route>
+	<route id="9784" name="cm_veneno_6" color="#00ccff" visible="false"><waypoint index="1" x="1794" y="1013" z="4"/></route>
+	<route id="9790" name="cm_origem_1" color="#00ccff" visible="false"><waypoint index="1" x="1878" y="1014" z="7"/></route>
+	<route id="9791" name="cm_origem_3" color="#00ccff" visible="false"><waypoint index="1" x="1794" y="1013" z="4"/></route>
+	<route id="9799" name="cm_art_return" color="#00ccff" visible="false"><waypoint index="1" x="1209" y="785" z="6"/></route>
+ <route id="9800" name="cm_treasure_fish" color="#00ccff" visible="false"><waypoint index="1" x="1254" y="934" z="6"/></route>
+ <route id="9801" name="cm_treasure_return" color="#00ccff" visible="false"><waypoint index="1" x="1347" y="859" z="6"/></route>
+ <route id="9802" name="cm_map_region_1" color="#00ccff" visible="false"><waypoint index="1" x="501" y="820" z="7"/></route>
+ <route id="9803" name="cm_map_region_2" color="#00ccff" visible="false"><waypoint index="1" x="950" y="823" z="7"/></route>
+ <route id="9804" name="cm_map_region_3" color="#00ccff" visible="false"><waypoint index="1" x="785" y="1152" z="7"/></route>
+ <route id="9805" name="cm_map_assemble" color="#00ccff" visible="false"><waypoint index="1" x="637" y="935" z="7"/></route>
+ <route id="9806" name="cm_map_ruins" color="#00ccff" visible="false"><waypoint index="1" x="361" y="1375" z="6"/></route>
+ <route id="9807" name="cm_map_return" color="#00ccff" visible="false"><waypoint index="1" x="637" y="935" z="7"/></route>
+ <route id="9808" name="cm_lastlink_boss" color="#00ccff" visible="false"><waypoint index="1" x="1615" y="1154" z="7"/></route>
+ <route id="9809" name="cm_lastlink_return" color="#00ccff" visible="false"><waypoint index="1" x="1814" y="1027" z="7"/></route>
+ <route id="9810" name="cm_scroll_predator" color="#00ccff" visible="false"><waypoint index="1" x="1926" y="1174" z="7"/></route>
+ <route id="9811" name="cm_scroll_assassin" color="#00ccff" visible="false"><waypoint index="1" x="1921" y="1104" z="6"/></route>
+ <route id="9812" name="cm_scroll_return" color="#00ccff" visible="false"><waypoint index="1" x="1766" y="981" z="4"/></route>
+ <route id="9813" name="cm_silent_entry" color="#00ccff" visible="false"><waypoint index="1" x="1406" y="724" z="7"/></route>
+ <route id="9814" name="cm_silent_return" color="#00ccff" visible="false"><waypoint index="1" x="1311" y="802" z="6"/></route>
+ <route id="9815" name="cm_turtle_hunt" color="#00ccff" visible="false"><waypoint index="1" x="2029" y="1010" z="7"/></route>
+ <route id="9816" name="cm_turtle_return" color="#00ccff" visible="false"><waypoint index="1" x="1872" y="980" z="6"/></route>
 </routes>
