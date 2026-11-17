@@ -217,6 +217,7 @@ def encode_item_appearance(
     pattern_x: int = 1,
     pattern_y: int = 1,
     pattern_z: int = 1,
+    animation_loop_count: int = 0,
 ) -> bytes:
     if width < 1 or height < 1 or width > 255 or height > 255:
         raise FormatError(f"dimensões DAT inválidas: {width}x{height}")
@@ -257,7 +258,9 @@ def encode_item_appearance(
         raise FormatError("exact_size somente e valido para aparencias multitile")
     output.extend((layers, pattern_x, pattern_y, pattern_z, frames))
     if frames > 1:
-        output.extend(struct.pack("<BiB", int(animation_async), 0, 0))
+        if animation_loop_count < -1 or animation_loop_count > 0x7FFFFFFF:
+            raise FormatError("animation_loop_count fora da faixa valida")
+        output.extend(struct.pack("<BiB", int(animation_async), animation_loop_count, 0))
         for _ in range(frames):
             output.extend(struct.pack("<II", frame_duration_ms, frame_duration_ms))
     sprite_format = "<I" if otfi.extended else "<H"
@@ -300,6 +303,7 @@ def write_dat_appearances(
     category: str,
     replacements: dict[int, bytes],
     property_additions: dict[int, set[int]] | None = None,
+    new_records: dict[int, bytes] | None = None,
 ) -> dict[int, DatRecordSpan]:
     """Replace appearances and optionally add safe no-payload properties."""
 
@@ -309,6 +313,16 @@ def write_dat_appearances(
     records = {
         span.thing_id: span for span in spans if span.category == category
     }
+    new_records = new_records or {}
+    if new_records:
+        if category != "effects":
+            raise FormatError("novos registros neste fluxo devem ser effects")
+        old_max = max(records)
+        new_ids = sorted(new_records)
+        if new_ids != list(range(old_max + 1, old_max + len(new_ids) + 1)):
+            raise FormatError("novos Effect IDs devem ser contiguos depois do maximo")
+        if new_ids[-1] > 0xFFFF:
+            raise FormatError("novos Effect IDs excedem uint16")
     missing = sorted(set(replacements) - set(records))
     if missing:
         raise FormatError(f"IDs DAT inexistentes em {category}: {missing}")
@@ -319,8 +333,11 @@ def write_dat_appearances(
             "propriedades DAT informadas para IDs sem troca visual: "
             f"{missing_property_targets}"
         )
+    header = bytearray(data[:12])
+    if new_records:
+        struct.pack_into("<H", header, 8, max(new_records))
     with atomic_binary_output(destination) as output:
-        output.write(data[:12])
+        output.write(header)
         for span in spans:
             if span.category == category and span.thing_id in replacements:
                 additions = property_additions.get(span.thing_id)
@@ -335,6 +352,9 @@ def write_dat_appearances(
                 output.write(replacements[span.thing_id])
             else:
                 output.write(data[span.start : span.end])
+            if new_records and span.category == category and span.thing_id == old_max:
+                for thing_id in sorted(new_records):
+                    output.write(new_records[thing_id])
     return {thing_id: records[thing_id] for thing_id in replacements}
 
 
@@ -424,6 +444,7 @@ def write_dat_animation_durations(
     otfi: OtfiConfig,
     category: str,
     edits: dict[int, tuple[int, ...]],
+    loop_count: int | None = None,
 ) -> dict[int, dict[str, object]]:
     _require_new_destination(source, destination)
     source_data = source.read_bytes()
@@ -431,6 +452,8 @@ def write_dat_animation_durations(
         source_data, otfi, category, set(edits), str(source)
     )
     output = bytearray(source_data)
+    if loop_count is not None and (loop_count < -1 or loop_count > 0x7FFFFFFF):
+        raise FormatError("loop_count fora da faixa valida")
     changes: dict[int, dict[str, object]] = {}
     for thing_id, durations in edits.items():
         timing = timings[thing_id]
@@ -443,11 +466,14 @@ def write_dat_animation_durations(
             raise FormatError(f"{category} {thing_id}: duracao fora da faixa valida")
         for offset, duration in zip(timing.duration_offsets, durations):
             struct.pack_into("<II", output, offset, duration, duration)
+        if loop_count is not None:
+            struct.pack_into("<i", output, timing.duration_offsets[0] - 5, loop_count)
         changes[thing_id] = {
             "before": timing.durations,
             "after": tuple((duration, duration) for duration in durations),
             "animation_async": timing.animation_async,
-            "loop_count": timing.loop_count,
+            "loop_count": timing.loop_count if loop_count is None else loop_count,
+            "loop_count_before": timing.loop_count,
             "start_frame": timing.start_frame,
         }
     with atomic_binary_output(destination) as stream:

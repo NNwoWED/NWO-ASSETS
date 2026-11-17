@@ -1,0 +1,765 @@
+{
+  "source_commit": "793c440171dd73647f9380a9f7cb5e24501f6845",
+  "source_archive_sha256": "D7D485344D3DB4F9A3AC7196995DA3C654C1448028A1A670A813B53F6FC0390C",
+  "differing_existing_records": [
+    [
+      "items",
+      26085
+    ],
+    [
+      "items",
+      26086
+    ],
+    [
+      "items",
+      26213
+    ],
+    [
+      "items",
+      26405
+    ],
+    [
+      "items",
+      26406
+    ],
+    [
+      "items",
+      26407
+    ],
+    [
+      "items",
+      26408
+    ],
+    [
+      "items",
+      26409
+    ],
+    [
+      "items",
+      26410
+    ],
+    [
+      "items",
+      26411
+    ],
+    [
+      "items",
+      26412
+    ],
+    [
+      "items",
+      26413
+    ],
+    [
+      "items",
+      26414
+    ],
+    [
+      "outfits",
+      1539
+    ],
+    [
+      "outfits",
+      1540
+    ],
+    [
+      "outfits",
+      1541
+    ],
+    [
+      "outfits",
+      1542
+    ],
+    [
+      "outfits",
+      1543
+    ],
+    [
+      "outfits",
+      1544
+    ],
+    [
+      "outfits",
+      1545
+    ]
+  ],
+  "properties": {
+    "1818001800ff": 67
+  },
+  "effects": [
+    {
+      "sequence": 1,
+      "effect_id": 3378,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\emojis-main-20261117\\effect-3378.png",
+      "frames": 48,
+      "frame_duration_ms": 50,
+      "animation_async": 0,
+      "displacement_x": 24,
+      "displacement_y": 24
+    },
+    {
+      "sequence": 2,
+      "effect_id": 3379,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\emojis-main-20261117\\effect-3379.png",
+      "frames": 48,
+      "frame_duration_ms": 50,
+      "animation_async": 0,
+      "displacement_x": 24,
+      "displacement_y": 24
+    },
+    {
+      "sequence": 3,
+      "effect_id": 3380,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\emojis-main-20261117\\effect-3380.png",
+      "frames": 48,
+      "frame_duration_ms": 50,
+      "animation_async": 0,
+      "displacement_x": 24,
+      "displacement_y": 24
+    },
+    {
+      "sequence": 4,
+      "effect_id": 3381,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\emojis-main-20261117\\effect-3381.png",
+      "frames": 48,
+      "frame_duration_ms": 50,
+      "animation_async": 0,
+      "displacement_x": 24,
+      "displacement_y": 24
+    },
+    {
+      "sequence": 5,
+      "effect_id": 3382,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\emojis-main-20261117\\effect-3382.png",
+      "frames": 48,
+      "frame_duration_ms": 50,
+      "animation_async": 0,
+      "displacement_x": 24,
+      "displacement_y": 24
+    },
+    {
+      "sequence": 6,
+      "effect_id": 3383,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\emojis-main-20261117\\effect-3383.png",
+      "frames": 48,
+      "frame_duration_ms": 50,
+      "animation_async": 0,
+      "displacement_x": 24,
+      "displacement_y": 24
+    },
+    {
+      "sequence": 7,
+      "effect_id": 3384,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\emojis-main-20261117\\effect-3384.png",
+      "frames": 48,
+      "frame_duration_ms": 50,
+      "animation_async": 0,
+      "displacement_x": 24,
+      "displacement_y": 24
+    },
+    {
+      "sequence": 8,
+      "effect_id": 3385,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\emojis-main-20261117\\effect-3385.png",
+      "frames": 48,
+      "frame_duration_ms": 50,
+      "animation_async": 0,
+      "displacement_x": 24,
+      "displacement_y": 24
+    },
+    {
+      "sequence": 9,
+      "effect_id": 3386,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\emojis-main-20261117\\effect-3386.png",
+      "frames": 48,
+      "frame_duration_ms": 50,
+      "animation_async": 0,
+      "displacement_x": 24,
+      "displacement_y": 24
+    },
+    {
+      "sequence": 10,
+      "effect_id": 3387,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\emojis-main-20261117\\effect-3387.png",
+      "frames": 48,
+      "frame_duration_ms": 50,
+      "animation_async": 0,
+      "displacement_x": 24,
+      "displacement_y": 24
+    },
+    {
+      "sequence": 11,
+      "effect_id": 3388,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\emojis-main-20261117\\effect-3388.png",
+      "frames": 48,
+      "frame_duration_ms": 50,
+      "animation_async": 0,
+      "displacement_x": 24,
+      "displacement_y": 24
+    },
+    {
+      "sequence": 12,
+      "effect_id": 3389,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\emojis-main-20261117\\effect-3389.png",
+      "frames": 48,
+      "frame_duration_ms": 50,
+      "animation_async": 0,
+      "displacement_x": 24,
+      "displacement_y": 24
+    },
+    {
+      "sequence": 13,
+      "effect_id": 3390,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\emojis-main-20261117\\effect-3390.png",
+      "frames": 48,
+      "frame_duration_ms": 50,
+      "animation_async": 0,
+      "displacement_x": 24,
+      "displacement_y": 24
+    },
+    {
+      "sequence": 14,
+      "effect_id": 3391,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\emojis-main-20261117\\effect-3391.png",
+      "frames": 48,
+      "frame_duration_ms": 50,
+      "animation_async": 0,
+      "displacement_x": 24,
+      "displacement_y": 24
+    },
+    {
+      "sequence": 15,
+      "effect_id": 3392,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\emojis-main-20261117\\effect-3392.png",
+      "frames": 48,
+      "frame_duration_ms": 50,
+      "animation_async": 0,
+      "displacement_x": 24,
+      "displacement_y": 24
+    },
+    {
+      "sequence": 16,
+      "effect_id": 3393,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\emojis-main-20261117\\effect-3393.png",
+      "frames": 48,
+      "frame_duration_ms": 50,
+      "animation_async": 0,
+      "displacement_x": 24,
+      "displacement_y": 24
+    },
+    {
+      "sequence": 17,
+      "effect_id": 3394,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\emojis-main-20261117\\effect-3394.png",
+      "frames": 48,
+      "frame_duration_ms": 50,
+      "animation_async": 0,
+      "displacement_x": 24,
+      "displacement_y": 24
+    },
+    {
+      "sequence": 18,
+      "effect_id": 3395,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\emojis-main-20261117\\effect-3395.png",
+      "frames": 48,
+      "frame_duration_ms": 50,
+      "animation_async": 0,
+      "displacement_x": 24,
+      "displacement_y": 24
+    },
+    {
+      "sequence": 19,
+      "effect_id": 3396,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\emojis-main-20261117\\effect-3396.png",
+      "frames": 48,
+      "frame_duration_ms": 50,
+      "animation_async": 0,
+      "displacement_x": 24,
+      "displacement_y": 24
+    },
+    {
+      "sequence": 20,
+      "effect_id": 3397,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\emojis-main-20261117\\effect-3397.png",
+      "frames": 48,
+      "frame_duration_ms": 50,
+      "animation_async": 0,
+      "displacement_x": 24,
+      "displacement_y": 24
+    },
+    {
+      "sequence": 21,
+      "effect_id": 3398,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\emojis-main-20261117\\effect-3398.png",
+      "frames": 48,
+      "frame_duration_ms": 50,
+      "animation_async": 0,
+      "displacement_x": 24,
+      "displacement_y": 24
+    },
+    {
+      "sequence": 22,
+      "effect_id": 3399,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\emojis-main-20261117\\effect-3399.png",
+      "frames": 48,
+      "frame_duration_ms": 50,
+      "animation_async": 0,
+      "displacement_x": 24,
+      "displacement_y": 24
+    },
+    {
+      "sequence": 23,
+      "effect_id": 3400,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\emojis-main-20261117\\effect-3400.png",
+      "frames": 48,
+      "frame_duration_ms": 50,
+      "animation_async": 0,
+      "displacement_x": 24,
+      "displacement_y": 24
+    },
+    {
+      "sequence": 24,
+      "effect_id": 3401,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\emojis-main-20261117\\effect-3401.png",
+      "frames": 48,
+      "frame_duration_ms": 50,
+      "animation_async": 0,
+      "displacement_x": 24,
+      "displacement_y": 24
+    },
+    {
+      "sequence": 25,
+      "effect_id": 3402,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\emojis-main-20261117\\effect-3402.png",
+      "frames": 48,
+      "frame_duration_ms": 50,
+      "animation_async": 0,
+      "displacement_x": 24,
+      "displacement_y": 24
+    },
+    {
+      "sequence": 26,
+      "effect_id": 3403,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\emojis-main-20261117\\effect-3403.png",
+      "frames": 48,
+      "frame_duration_ms": 50,
+      "animation_async": 0,
+      "displacement_x": 24,
+      "displacement_y": 24
+    },
+    {
+      "sequence": 27,
+      "effect_id": 3404,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\emojis-main-20261117\\effect-3404.png",
+      "frames": 48,
+      "frame_duration_ms": 50,
+      "animation_async": 0,
+      "displacement_x": 24,
+      "displacement_y": 24
+    },
+    {
+      "sequence": 28,
+      "effect_id": 3405,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\emojis-main-20261117\\effect-3405.png",
+      "frames": 48,
+      "frame_duration_ms": 50,
+      "animation_async": 0,
+      "displacement_x": 24,
+      "displacement_y": 24
+    },
+    {
+      "sequence": 29,
+      "effect_id": 3406,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\emojis-main-20261117\\effect-3406.png",
+      "frames": 48,
+      "frame_duration_ms": 50,
+      "animation_async": 0,
+      "displacement_x": 24,
+      "displacement_y": 24
+    },
+    {
+      "sequence": 30,
+      "effect_id": 3407,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\emojis-main-20261117\\effect-3407.png",
+      "frames": 48,
+      "frame_duration_ms": 50,
+      "animation_async": 0,
+      "displacement_x": 24,
+      "displacement_y": 24
+    },
+    {
+      "sequence": 31,
+      "effect_id": 3408,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\emojis-main-20261117\\effect-3408.png",
+      "frames": 48,
+      "frame_duration_ms": 50,
+      "animation_async": 0,
+      "displacement_x": 24,
+      "displacement_y": 24
+    },
+    {
+      "sequence": 32,
+      "effect_id": 3409,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\emojis-main-20261117\\effect-3409.png",
+      "frames": 48,
+      "frame_duration_ms": 50,
+      "animation_async": 0,
+      "displacement_x": 24,
+      "displacement_y": 24
+    },
+    {
+      "sequence": 33,
+      "effect_id": 3410,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\emojis-main-20261117\\effect-3410.png",
+      "frames": 48,
+      "frame_duration_ms": 50,
+      "animation_async": 0,
+      "displacement_x": 24,
+      "displacement_y": 24
+    },
+    {
+      "sequence": 34,
+      "effect_id": 3411,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\emojis-main-20261117\\effect-3411.png",
+      "frames": 48,
+      "frame_duration_ms": 50,
+      "animation_async": 0,
+      "displacement_x": 24,
+      "displacement_y": 24
+    },
+    {
+      "sequence": 35,
+      "effect_id": 3412,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\emojis-main-20261117\\effect-3412.png",
+      "frames": 48,
+      "frame_duration_ms": 50,
+      "animation_async": 0,
+      "displacement_x": 24,
+      "displacement_y": 24
+    },
+    {
+      "sequence": 36,
+      "effect_id": 3413,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\emojis-main-20261117\\effect-3413.png",
+      "frames": 48,
+      "frame_duration_ms": 50,
+      "animation_async": 0,
+      "displacement_x": 24,
+      "displacement_y": 24
+    },
+    {
+      "sequence": 37,
+      "effect_id": 3414,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\emojis-main-20261117\\effect-3414.png",
+      "frames": 48,
+      "frame_duration_ms": 50,
+      "animation_async": 0,
+      "displacement_x": 24,
+      "displacement_y": 24
+    },
+    {
+      "sequence": 38,
+      "effect_id": 3415,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\emojis-main-20261117\\effect-3415.png",
+      "frames": 48,
+      "frame_duration_ms": 50,
+      "animation_async": 0,
+      "displacement_x": 24,
+      "displacement_y": 24
+    },
+    {
+      "sequence": 39,
+      "effect_id": 3416,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\emojis-main-20261117\\effect-3416.png",
+      "frames": 48,
+      "frame_duration_ms": 50,
+      "animation_async": 0,
+      "displacement_x": 24,
+      "displacement_y": 24
+    },
+    {
+      "sequence": 40,
+      "effect_id": 3417,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\emojis-main-20261117\\effect-3417.png",
+      "frames": 48,
+      "frame_duration_ms": 50,
+      "animation_async": 0,
+      "displacement_x": 24,
+      "displacement_y": 24
+    },
+    {
+      "sequence": 41,
+      "effect_id": 3418,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\emojis-main-20261117\\effect-3418.png",
+      "frames": 48,
+      "frame_duration_ms": 50,
+      "animation_async": 0,
+      "displacement_x": 24,
+      "displacement_y": 24
+    },
+    {
+      "sequence": 42,
+      "effect_id": 3419,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\emojis-main-20261117\\effect-3419.png",
+      "frames": 48,
+      "frame_duration_ms": 50,
+      "animation_async": 0,
+      "displacement_x": 24,
+      "displacement_y": 24
+    },
+    {
+      "sequence": 43,
+      "effect_id": 3420,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\emojis-main-20261117\\effect-3420.png",
+      "frames": 48,
+      "frame_duration_ms": 50,
+      "animation_async": 0,
+      "displacement_x": 24,
+      "displacement_y": 24
+    },
+    {
+      "sequence": 44,
+      "effect_id": 3421,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\emojis-main-20261117\\effect-3421.png",
+      "frames": 48,
+      "frame_duration_ms": 50,
+      "animation_async": 0,
+      "displacement_x": 24,
+      "displacement_y": 24
+    },
+    {
+      "sequence": 45,
+      "effect_id": 3422,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\emojis-main-20261117\\effect-3422.png",
+      "frames": 48,
+      "frame_duration_ms": 50,
+      "animation_async": 0,
+      "displacement_x": 24,
+      "displacement_y": 24
+    },
+    {
+      "sequence": 46,
+      "effect_id": 3423,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\emojis-main-20261117\\effect-3423.png",
+      "frames": 48,
+      "frame_duration_ms": 50,
+      "animation_async": 0,
+      "displacement_x": 24,
+      "displacement_y": 24
+    },
+    {
+      "sequence": 47,
+      "effect_id": 3424,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\emojis-main-20261117\\effect-3424.png",
+      "frames": 48,
+      "frame_duration_ms": 50,
+      "animation_async": 0,
+      "displacement_x": 24,
+      "displacement_y": 24
+    },
+    {
+      "sequence": 48,
+      "effect_id": 3425,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\emojis-main-20261117\\effect-3425.png",
+      "frames": 48,
+      "frame_duration_ms": 50,
+      "animation_async": 0,
+      "displacement_x": 24,
+      "displacement_y": 24
+    },
+    {
+      "sequence": 49,
+      "effect_id": 3426,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\emojis-main-20261117\\effect-3426.png",
+      "frames": 48,
+      "frame_duration_ms": 50,
+      "animation_async": 0,
+      "displacement_x": 24,
+      "displacement_y": 24
+    },
+    {
+      "sequence": 50,
+      "effect_id": 3427,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\emojis-main-20261117\\effect-3427.png",
+      "frames": 48,
+      "frame_duration_ms": 50,
+      "animation_async": 0,
+      "displacement_x": 24,
+      "displacement_y": 24
+    },
+    {
+      "sequence": 51,
+      "effect_id": 3428,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\emojis-main-20261117\\effect-3428.png",
+      "frames": 48,
+      "frame_duration_ms": 50,
+      "animation_async": 0,
+      "displacement_x": 24,
+      "displacement_y": 24
+    },
+    {
+      "sequence": 52,
+      "effect_id": 3429,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\emojis-main-20261117\\effect-3429.png",
+      "frames": 48,
+      "frame_duration_ms": 50,
+      "animation_async": 0,
+      "displacement_x": 24,
+      "displacement_y": 24
+    },
+    {
+      "sequence": 53,
+      "effect_id": 3430,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\emojis-main-20261117\\effect-3430.png",
+      "frames": 48,
+      "frame_duration_ms": 50,
+      "animation_async": 0,
+      "displacement_x": 24,
+      "displacement_y": 24
+    },
+    {
+      "sequence": 54,
+      "effect_id": 3431,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\emojis-main-20261117\\effect-3431.png",
+      "frames": 48,
+      "frame_duration_ms": 50,
+      "animation_async": 0,
+      "displacement_x": 24,
+      "displacement_y": 24
+    },
+    {
+      "sequence": 55,
+      "effect_id": 3432,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\emojis-main-20261117\\effect-3432.png",
+      "frames": 48,
+      "frame_duration_ms": 50,
+      "animation_async": 0,
+      "displacement_x": 24,
+      "displacement_y": 24
+    },
+    {
+      "sequence": 56,
+      "effect_id": 3433,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\emojis-main-20261117\\effect-3433.png",
+      "frames": 48,
+      "frame_duration_ms": 50,
+      "animation_async": 0,
+      "displacement_x": 24,
+      "displacement_y": 24
+    },
+    {
+      "sequence": 57,
+      "effect_id": 3434,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\emojis-main-20261117\\effect-3434.png",
+      "frames": 48,
+      "frame_duration_ms": 50,
+      "animation_async": 0,
+      "displacement_x": 24,
+      "displacement_y": 24
+    },
+    {
+      "sequence": 58,
+      "effect_id": 3435,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\emojis-main-20261117\\effect-3435.png",
+      "frames": 48,
+      "frame_duration_ms": 50,
+      "animation_async": 0,
+      "displacement_x": 24,
+      "displacement_y": 24
+    },
+    {
+      "sequence": 59,
+      "effect_id": 3436,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\emojis-main-20261117\\effect-3436.png",
+      "frames": 48,
+      "frame_duration_ms": 50,
+      "animation_async": 0,
+      "displacement_x": 24,
+      "displacement_y": 24
+    },
+    {
+      "sequence": 60,
+      "effect_id": 3437,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\emojis-main-20261117\\effect-3437.png",
+      "frames": 48,
+      "frame_duration_ms": 50,
+      "animation_async": 0,
+      "displacement_x": 24,
+      "displacement_y": 24
+    },
+    {
+      "sequence": 61,
+      "effect_id": 3438,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\emojis-main-20261117\\effect-3438.png",
+      "frames": 48,
+      "frame_duration_ms": 50,
+      "animation_async": 0,
+      "displacement_x": 24,
+      "displacement_y": 24
+    },
+    {
+      "sequence": 62,
+      "effect_id": 3439,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\emojis-main-20261117\\effect-3439.png",
+      "frames": 48,
+      "frame_duration_ms": 50,
+      "animation_async": 0,
+      "displacement_x": 24,
+      "displacement_y": 24
+    },
+    {
+      "sequence": 63,
+      "effect_id": 3440,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\emojis-main-20261117\\effect-3440.png",
+      "frames": 48,
+      "frame_duration_ms": 50,
+      "animation_async": 0,
+      "displacement_x": 24,
+      "displacement_y": 24
+    },
+    {
+      "sequence": 64,
+      "effect_id": 3441,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\emojis-main-20261117\\effect-3441.png",
+      "frames": 48,
+      "frame_duration_ms": 50,
+      "animation_async": 0,
+      "displacement_x": 24,
+      "displacement_y": 24
+    },
+    {
+      "sequence": 65,
+      "effect_id": 3442,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\emojis-main-20261117\\effect-3442.png",
+      "frames": 48,
+      "frame_duration_ms": 50,
+      "animation_async": 0,
+      "displacement_x": 24,
+      "displacement_y": 24
+    },
+    {
+      "sequence": 66,
+      "effect_id": 3443,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\emojis-main-20261117\\effect-3443.png",
+      "frames": 48,
+      "frame_duration_ms": 50,
+      "animation_async": 0,
+      "displacement_x": 24,
+      "displacement_y": 24
+    },
+    {
+      "sequence": 67,
+      "effect_id": 3444,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\emojis-main-20261117\\effect-3444.png",
+      "frames": 48,
+      "frame_duration_ms": 50,
+      "animation_async": 0,
+      "displacement_x": 24,
+      "displacement_y": 24
+    }
+  ],
+  "model_pack": {
+    "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\work\\main-integration-20261117\\main-860\\Tibia.glb",
+    "sha256": "F295ECEFBF702042FA22B8C59699255C7ED4EA6EFF0A0573CD8CBB0EBE3E26CC"
+  }
+}

@@ -316,3 +316,13 @@ Versões 20261112-053120-069201, 20261112-053334-550711. Relatórios import-kino
 - Preenchidas as outfits vazias 1539–1545 em ordem com abelha, abelha boss, basilisk boss, minerador boss, mulher da hunt de abelha, homem da hunt de abelha e samurai de Iwa. Referências 2127 para quadros 64×64 e 631 para a abelha boss de 96×96. Todas usam quatro direções, dois grupos de oito frames e duração de 100 ms. A busca de referências conferiu os cadastros de NPCs, monstros, vocações, spells e código dos clients.
 - Versões imutáveis testadas 20261116-223835-433693 e 20261116-223934-626881. Acrescentados 1970 Sprite IDs, 313776–315745. Conferência de reexportação aprovada para os dez itens e as sete folhas completas de outfits.
 - Validação profunda final e sync-runtime aprovados, com 31 cópias conferidas e três RARs testados. Fontes e manifestos em importados/sprites-batch-20261116. Relatórios, inventário de duplicatas e lista CSV de IDs em reports/*sprites*-20261116.*.
+
+
+## 17/11/2026 - Consolidação dos emojis e modelos 3D da main
+
+- Incorporados os 67 efeitos 3378–3444 exportados do pacote 860.rar da main 793c4401 do client. As folhas originais têm 48 frames de 96×96, 50 ms por frame, ciclo único e deslocamento DAT 24×24. Pixels, propriedades, layout e metadados de animação foram comparados com a origem.
+- Acrescentado Tibia.glb ao conjunto canônico e à sincronização oficial de PC, mobile e NWO-STUDIO. O fluxo verifica hashes, arquivos compactados e restauração de destinos em caso de falha.
+- O importador de efeitos aceita acréscimo explícito com IDs contíguos e dry-run. A ferramenta permite preservar e editar o número de ciclos de animação. Testes cobrem append, lacunas, preservação de outras categorias, ciclos e rollback do pacote de modelos.
+- Preservados por comparação de pixels os dez materiais 27503–27512 e as sete outfits 1539–1545. As correções visuais de Mayu/Fuudo e as propriedades atuais dos tapetes foram mantidas. O mapa oficial do servidor e a cópia operacional foram conferidos por SHA-256.
+- Importação, ajuste de ciclos, versões imutáveis testadas, validação profunda e sync-runtime final aprovados. Fontes e manifestos arquivados em importados/main-emojis-20261117. Relatórios em reports/*main*20261117*.json.
+- Os 112 testes com fixtures passaram. Os quatro testes históricos de test_local_baseline fixam uma baseline antiga e já divergiam dos arquivos presentes antes desta integração.

@@ -73,6 +73,7 @@ def _edit_animation_durations_impl(
     manifest_path: Path,
     *,
     deep_spr: bool = False,
+    loop_count: int | None = None,
 ) -> dict[str, object]:
     root = root.resolve()
     manifest_path = manifest_path.resolve()
@@ -100,7 +101,7 @@ def _edit_animation_durations_impl(
     backup = create_version(root)
     try:
         changes = write_dat_animation_durations(
-            paths["dat"], pending, otfi, category, edits
+            paths["dat"], pending, otfi, category, edits, loop_count=loop_count
         )
         inspect_dat(
             pending,
@@ -141,7 +142,7 @@ def _edit_animation_durations_impl(
             pending_timing = pending_timings[thing_id]
             if (
                 source_timing.animation_async != pending_timing.animation_async
-                or source_timing.loop_count != pending_timing.loop_count
+                or (source_timing.loop_count if loop_count is None else loop_count) != pending_timing.loop_count
                 or source_timing.start_frame != pending_timing.start_frame
             ):
                 raise FormatError(f"metadados da animacao mudaram no Client ID {thing_id}")
@@ -177,11 +178,12 @@ def edit_animation_durations(
     manifest_path: Path,
     *,
     deep_spr: bool = False,
+    loop_count: int | None = None,
 ) -> dict[str, object]:
     root = root.resolve()
     try:
         return _edit_animation_durations_impl(
-            root, manifest_path, deep_spr=deep_spr
+            root, manifest_path, deep_spr=deep_spr, loop_count=loop_count
         )
     except BaseException:
         asset_root = root / "assets"

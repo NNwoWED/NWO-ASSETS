@@ -1,0 +1,283 @@
+{
+  "passed": true,
+  "source": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\emojis-main-20261117",
+  "archive": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\importados\\main-emojis-20261117",
+  "files": [
+    {
+      "path": "animation.csv",
+      "sha256": "73b332897dada153d7ebb3fa0143970ace450e13d72fbd5cfe72e98967dab74e"
+    },
+    {
+      "path": "effect-3378.png",
+      "sha256": "3e88024a13c0aa7fc9344b0e507ba62cf51371fa69f6be732487fe88baba475d"
+    },
+    {
+      "path": "effect-3379.png",
+      "sha256": "4eed785fdf765f40404dd8e61faea47f852fd9b317dc4b419ede9082fa17cb0b"
+    },
+    {
+      "path": "effect-3380.png",
+      "sha256": "b7f957475946f44546fd58ba6ec2093bc895fd27743e8d111a6d460cd385776c"
+    },
+    {
+      "path": "effect-3381.png",
+      "sha256": "79c3bd991cda29003d0cb0985c2d33ff6c1c5dbb4d4c72b05fa83c35f321e142"
+    },
+    {
+      "path": "effect-3382.png",
+      "sha256": "9d81e4a6a05d0b534b0fe9eab8872d472c9a61c804e7147e019ffd59d94e738d"
+    },
+    {
+      "path": "effect-3383.png",
+      "sha256": "6da1a5c96291245604f68e28193a9b3e86edaf3254e05620da28d49804dc5a04"
+    },
+    {
+      "path": "effect-3384.png",
+      "sha256": "436474fdf35c2356f8634dd2bc4e33dc75392d0f24e68a0d89a5122915374c4d"
+    },
+    {
+      "path": "effect-3385.png",
+      "sha256": "b94f20c161b09464a9ba2f88411b18bc8acfc316ccff997da4cd16fab6d55930"
+    },
+    {
+      "path": "effect-3386.png",
+      "sha256": "9b69a823f4f8f1cf89e6d585aabc03f9cbe8cd550231f6844b4548d7b9a922a9"
+    },
+    {
+      "path": "effect-3387.png",
+      "sha256": "d5035dccf35f32ad7db02ae7ce62472a7c278d130293d3da71c675edaacb3333"
+    },
+    {
+      "path": "effect-3388.png",
+      "sha256": "713857391b4c394c7368e8a25f88f1e0b21120ce2f65ba78308c35e92202ac05"
+    },
+    {
+      "path": "effect-3389.png",
+      "sha256": "4f24b19f74a86abf3033c8a3354d2fe91fc79bfb51ebb57b58e51bfc38ca83a3"
+    },
+    {
+      "path": "effect-3390.png",
+      "sha256": "74adaa0cd159c56d9155c033a7ff3c42f03e618cd82319ac682aa9c1077c62f7"
+    },
+    {
+      "path": "effect-3391.png",
+      "sha256": "a571378d072895741047843a13312cc4a3f96ff90538a46c8c834d7e1e3b8693"
+    },
+    {
+      "path": "effect-3392.png",
+      "sha256": "4ac0bbb07d1f6663d18ee95232d8e4937cd952627775adf135945293d4952c69"
+    },
+    {
+      "path": "effect-3393.png",
+      "sha256": "a77078c8175c50267460b2bccda2c9667fb4bcd1adeefacfd60f2c860f844fd7"
+    },
+    {
+      "path": "effect-3394.png",
+      "sha256": "56b66413dab317ee30cee68f99bd33ffb06431b0b8ede82da43adf9fb5be7ac2"
+    },
+    {
+      "path": "effect-3395.png",
+      "sha256": "63d9208f6b81c3f0aceaea17ff2b4cd75031cf2bb5293c11499dc0feda026465"
+    },
+    {
+      "path": "effect-3396.png",
+      "sha256": "16ff1a31e4cbf204879a7345593452856a71064ab24578de7ca0d391f42add05"
+    },
+    {
+      "path": "effect-3397.png",
+      "sha256": "84e000ff2c2b12a53e2b81ea983cfaf553b6fe9f9a10b69c38b5f56d16567ec2"
+    },
+    {
+      "path": "effect-3398.png",
+      "sha256": "a7068185e3214f129b84e02895aacb259135b3c38c484dc161f718a48200970c"
+    },
+    {
+      "path": "effect-3399.png",
+      "sha256": "057274a00ad6b7071518b74d5330650655390019f587a371c1a9c736ff7dcc02"
+    },
+    {
+      "path": "effect-3400.png",
+      "sha256": "65d6eaf52eb6f388b2f71aa8bbad9bcc48b5e294eb99206d34a49009734144e0"
+    },
+    {
+      "path": "effect-3401.png",
+      "sha256": "bdf7292418406b9783e41da3c7b4a8bf490083cddcf8e252c90e61d2e631868f"
+    },
+    {
+      "path": "effect-3402.png",
+      "sha256": "b1076fded3c7dd1e94ac0ece3de4a45f636a7b6ec231a8bf272a1c4335615000"
+    },
+    {
+      "path": "effect-3403.png",
+      "sha256": "562299303fc80bf6c3e5fb2be04905fea57e31e3321f03e64369c2d99a00bf19"
+    },
+    {
+      "path": "effect-3404.png",
+      "sha256": "846dd2e95b63c9ef2ff800e558c53928a49ba7a9762182b3ce153d6597b28bae"
+    },
+    {
+      "path": "effect-3405.png",
+      "sha256": "4406359f7bbb13579394360a3d7058032e7577e53c7c8df4f4ce508aa8f1b9ba"
+    },
+    {
+      "path": "effect-3406.png",
+      "sha256": "064fdd4e47a8b4467f800d024aeba1cdca8d472ed8681acb226a2d99693878c5"
+    },
+    {
+      "path": "effect-3407.png",
+      "sha256": "23b6626b8b1b95c3ce54072c37895236de5f9f978468bbf0275892ed5263f574"
+    },
+    {
+      "path": "effect-3408.png",
+      "sha256": "e66e71535aa701eeb09646f29802ea2621f7197d726070df685fe51e89af5d69"
+    },
+    {
+      "path": "effect-3409.png",
+      "sha256": "c829f9c6874106c3816b30e9ff4766d34741b0c8b1ca0c0b69c53f9c3ffa49d9"
+    },
+    {
+      "path": "effect-3410.png",
+      "sha256": "fb26eb123d771d29896e6dc664f542055d2bb65b4e822768e95ceda171386397"
+    },
+    {
+      "path": "effect-3411.png",
+      "sha256": "43aae08e85110de85d1c20f73ae73320dea9c308f338425f1c377f7177b2ae90"
+    },
+    {
+      "path": "effect-3412.png",
+      "sha256": "3c75b7b78df820466675bab15b4db2e0c9cd8e6f37f87f7df51d57bb34d5210a"
+    },
+    {
+      "path": "effect-3413.png",
+      "sha256": "f4f9917ab65e1ee25771bea1ed14fbf999ac224042b191ba806144099ff8e142"
+    },
+    {
+      "path": "effect-3414.png",
+      "sha256": "714b7ec284d1451a6498b625c7c6f18fdb455718e5da66d20c186a9e0b27f173"
+    },
+    {
+      "path": "effect-3415.png",
+      "sha256": "00b2660826fd86cafcc895551c9c2a811ee553178fd7041b84ee6f209a9135dd"
+    },
+    {
+      "path": "effect-3416.png",
+      "sha256": "300525e58c48c1cbb540a59a15920208911a8d6364299c4e606adbe304f15220"
+    },
+    {
+      "path": "effect-3417.png",
+      "sha256": "74b8e3dd12dc39a344af5955f5714bca6f865b34533290fa753457bf6493a2a8"
+    },
+    {
+      "path": "effect-3418.png",
+      "sha256": "5417beec966e3aa8ae9b38e1edb8df2507f05b4ca536c5a25ea3a490c2e52e87"
+    },
+    {
+      "path": "effect-3419.png",
+      "sha256": "e2c2a46aa181692a576a14f5e83bb0521e8f9f40631fcf6e272b5bbca58225b2"
+    },
+    {
+      "path": "effect-3420.png",
+      "sha256": "7ef791f6959d9d2b89ee1c5878d93d57b30e00ff421d4a34f72dcdfd2b67da5f"
+    },
+    {
+      "path": "effect-3421.png",
+      "sha256": "41560e1a535ca2d31ec105455231ed83023e9a286bfc27296e816293bc4b5528"
+    },
+    {
+      "path": "effect-3422.png",
+      "sha256": "30749dc585ca504dc1d32e533e3592c57bf180aaff145d68fad0863cbbe8145d"
+    },
+    {
+      "path": "effect-3423.png",
+      "sha256": "97785a62a88a325c164ed3a844348cadc6fbfbdd9f26435d361463803acbc334"
+    },
+    {
+      "path": "effect-3424.png",
+      "sha256": "0569fd434f3111a5ca7122c0ce01a2295b4ca12e98be3a8d30aa9f73968c6023"
+    },
+    {
+      "path": "effect-3425.png",
+      "sha256": "c657bc63f3189fcaf4baa1cd14d53ed7c66528f2c73d922423dd5fefc8f38dd2"
+    },
+    {
+      "path": "effect-3426.png",
+      "sha256": "1ade3f8182af5647e1188734546d3970fd2a88d4e5ffd53054f859e149e898f9"
+    },
+    {
+      "path": "effect-3427.png",
+      "sha256": "ebc96971d59aa75463cde8c161152fd0d8d1f245233ff7d21f9be562666c6d8a"
+    },
+    {
+      "path": "effect-3428.png",
+      "sha256": "49742ed7f907e27f7faa41e208d42e094a55c9b76a07b68ef89935f6ea476978"
+    },
+    {
+      "path": "effect-3429.png",
+      "sha256": "08320f51d2b255f0f18fac765ccbc260d0170b8c13de81b3e15c53e8fba8cf56"
+    },
+    {
+      "path": "effect-3430.png",
+      "sha256": "28ef343463c0bdf4454b5c223846f45a43d1479e4dba2d47f25ccc33b29ae7fe"
+    },
+    {
+      "path": "effect-3431.png",
+      "sha256": "15fdfb526738fece36217b7f4d85f1697e015a41a6e5a9a3f46464c19f6ea116"
+    },
+    {
+      "path": "effect-3432.png",
+      "sha256": "4b1cb209c781dc07d80364b71a5ba61a464d2b4e3652b9884dfcdf1e43fc4cb3"
+    },
+    {
+      "path": "effect-3433.png",
+      "sha256": "cba59e9ed07e6e2e5809088d89bfef067e7d09a8bfb7a7f54879154ffa836cde"
+    },
+    {
+      "path": "effect-3434.png",
+      "sha256": "230ba4ae2b74dae6048dd4bde5d21d745db34e9f7a0c0faa0b238618fff21847"
+    },
+    {
+      "path": "effect-3435.png",
+      "sha256": "6253e27ea522c9d3d0601ad27e997505a9c0e1bd385a54cd966980b9153ef336"
+    },
+    {
+      "path": "effect-3436.png",
+      "sha256": "5ca53cee4f9e265709a38618500fa2af802de26b2fb4df1ded5681b990723981"
+    },
+    {
+      "path": "effect-3437.png",
+      "sha256": "4e5e6b9daf3933e34b46affb8bbb8da6f4d35aaa825038e4fabc60924a25c424"
+    },
+    {
+      "path": "effect-3438.png",
+      "sha256": "c707b762a3f3993db512140d5a065a2156a016b54a87d1a7fc5989cda3e12d6a"
+    },
+    {
+      "path": "effect-3439.png",
+      "sha256": "c5cf51440008db755062f78bf6c3ca0675261915b8873f2c075e510bdd0eea13"
+    },
+    {
+      "path": "effect-3440.png",
+      "sha256": "63f0ec0444bf4e3e84e83ee428eff73e1d48b5f37f7b9ad9a0e9ad3cac24dc4e"
+    },
+    {
+      "path": "effect-3441.png",
+      "sha256": "d3b020a2cd4196e6be3ca42ddfc32d5aa08ceaef85b6d41969e278e9e145a23e"
+    },
+    {
+      "path": "effect-3442.png",
+      "sha256": "919c10e71d3a5d2d274328a9732de709220a8b50a688d76b9eaae6addd358bb1"
+    },
+    {
+      "path": "effect-3443.png",
+      "sha256": "88d5361ff23369e322385bd1b3b27013b38acac88b2b428236eb80159086d4c8"
+    },
+    {
+      "path": "effect-3444.png",
+      "sha256": "baeed8138fb65e56341a73b64ca4433afbbf735012740aff54faa19fff000bc8"
+    },
+    {
+      "path": "manifest.csv",
+      "sha256": "2a5815b1aed72c3c3a2c4eb117311f49e2e4c3b02a643212718aebf7c8824948"
+    }
+  ]
+}

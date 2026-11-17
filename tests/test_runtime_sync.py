@@ -341,6 +341,38 @@ class RuntimeSyncTests(unittest.TestCase):
             self.assertFalse(report["passed"])
             self.assertEqual(report["error"], "falha simulada")
 
+    @patch("nwoassets.runtime_sync.validate_root", return_value={"passed": True, "errors": [], "warnings": []})
+    @patch("nwoassets.runtime_sync.find_rar", return_value=Path("rar.exe"))
+    def test_optional_model_pack_is_published_and_rolled_back(self, _find, _validate) -> None:
+        for fail_archive in (False, True):
+            with self.subTest(fail_archive=fail_archive), tempfile.TemporaryDirectory() as directory:
+                root, _, _ = self.make_workspace(directory)
+                (root / "assets/860/Tibia.glb").write_bytes(b"new-model-pack")
+                targets = [root.parent / name for name in (
+                    "nwo-otclient-mehah-4.0/data/things/860/Tibia.glb",
+                    "nwo-mobile/client/data/things/860/Tibia.glb",
+                    "NWO-STUDIO/assets/things/1098/Tibia.glb",
+                )]
+                for target in targets:
+                    target.write_bytes(b"old-model-pack")
+
+                def run_rar(rar, arguments, cwd=None):
+                    if fail_archive and arguments[0] == "t":
+                        raise FormatError("archive failure")
+                    result = self.fake_rar(rar, arguments, cwd)
+                    if arguments[0] == "lb" and "mapanovo" not in Path(arguments[1]).name:
+                        result += b"860\\Tibia.glb\n"
+                    return result
+
+                with patch("nwoassets.runtime_sync._run_rar", side_effect=run_rar):
+                    if fail_archive:
+                        with self.assertRaises(FormatError):
+                            sync_runtime_assets(root)
+                    else:
+                        self.assertTrue(sync_runtime_assets(root)["passed"])
+                for target in targets:
+                    self.assertEqual(target.read_bytes(), b"old-model-pack" if fail_archive else b"new-model-pack")
+
 
 if __name__ == "__main__":
     unittest.main()

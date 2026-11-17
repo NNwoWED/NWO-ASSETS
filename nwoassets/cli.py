@@ -150,6 +150,8 @@ def build_parser() -> argparse.ArgumentParser:
     effect_importer.add_argument("root", nargs="?", default=".", type=_root)
     effect_importer.add_argument("manifest", type=Path)
     effect_importer.add_argument("-o", "--output", help="grava o relatório JSON neste caminho")
+    effect_importer.add_argument("--append", action="store_true", help="permite novos Effect IDs contiguos")
+    effect_importer.add_argument("--dry-run", action="store_true")
     effect_importer.add_argument(
         "--deep-spr",
         action="store_true",
@@ -188,6 +190,7 @@ def build_parser() -> argparse.ArgumentParser:
     animation.add_argument("root", nargs="?", default=".", type=_root)
     animation.add_argument("manifest", type=Path)
     animation.add_argument("-o", "--output", help="grava o relatório JSON neste caminho")
+    animation.add_argument("--loop-count", type=int, default=None, help="define explicitamente a quantidade de repeticoes")
     animation.add_argument(
         "--deep-spr",
         action="store_true",
@@ -315,6 +318,8 @@ def main(argv: list[str] | None = None) -> int:
             args.root,
             args.manifest,
             deep_spr=args.deep_spr,
+            append=args.append,
+            dry_run=args.dry_run,
         ),
         "import-missiles": lambda: import_missiles(
             args.root,
@@ -330,6 +335,7 @@ def main(argv: list[str] | None = None) -> int:
             args.root,
             args.manifest,
             deep_spr=args.deep_spr,
+            loop_count=args.loop_count,
         ),
         "create-version": lambda: create_version(args.root),
         "edit-item-properties": lambda: edit_item_properties(

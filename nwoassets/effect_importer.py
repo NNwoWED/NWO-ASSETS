@@ -4,6 +4,7 @@ from dataclasses import asdict, dataclass
 from pathlib import Path
 import csv
 import hashlib
+import struct
 
 from .client import inspect_dat, inspect_spr
 from .content import sha256_file
@@ -39,6 +40,8 @@ class EffectManifestEntry:
     frame_duration_ms: int
     animation_async: bool
     preserve_as: int | None
+    displacement: tuple[int, int] | None = None
+    animation_loop_count: int = 0
 
 
 @dataclass(frozen=True)
@@ -57,6 +60,8 @@ class PreparedEffect:
     animation_async: bool
     preserve_as: int | None
     sprite_ids: tuple[int, ...]
+    displacement: tuple[int, int] | None = None
+    animation_loop_count: int = 0
 
 
 def read_effect_manifest(path: Path) -> list[EffectManifestEntry]:
@@ -99,6 +104,22 @@ def read_effect_manifest(path: Path) -> list[EffectManifestEntry]:
             raise FormatError(f"{path}:{row_number}: animation_async deve ser 0 ou 1")
         raw_preserve = (row.get("preserve_as") or "").strip()
         try:
+            loop_count = int(row.get("animation_loop_count") or 0)
+        except ValueError as exc:
+            raise FormatError(f"{path}:{row_number}: animation_loop_count invalido") from exc
+        if loop_count < -1 or loop_count > 0x7FFFFFFF:
+            raise FormatError(f"{path}:{row_number}: animation_loop_count fora da faixa")
+        raw_x = (row.get("displacement_x") or "").strip()
+        raw_y = (row.get("displacement_y") or "").strip()
+        displacement = None
+        if raw_x or raw_y:
+            try:
+                displacement = (int(raw_x), int(raw_y))
+            except ValueError as exc:
+                raise FormatError(f"{path}:{row_number}: displacement exige X e Y inteiros") from exc
+            if any(value < 0 or value > 0xFFFF for value in displacement):
+                raise FormatError(f"{path}:{row_number}: displacement fora de uint16")
+        try:
             preserve_as = int(raw_preserve) if raw_preserve else None
         except ValueError as exc:
             raise FormatError(f"{path}:{row_number}: preserve_as invalido") from exc
@@ -120,6 +141,8 @@ def read_effect_manifest(path: Path) -> list[EffectManifestEntry]:
                 frame_duration_ms,
                 raw_async == "1",
                 preserve_as,
+                displacement,
+                loop_count,
             )
         )
 
@@ -142,6 +165,8 @@ def _import_effects_impl(
     manifest_path: Path,
     *,
     deep_spr: bool = False,
+    append: bool = False,
+    dry_run: bool = False,
 ) -> dict[str, object]:
     root = root.resolve()
     manifest_path = manifest_path.resolve()
@@ -175,11 +200,16 @@ def _import_effects_impl(
     max_effect_id = int(source_report["dat"]["max_ids"]["effects"])
     requested_ids = [entry.effect_id for entry in entries]
     preserve_ids = [entry.preserve_as for entry in entries if entry.preserve_as is not None]
+    appended_ids = sorted(effect_id for effect_id in requested_ids if effect_id > max_effect_id)
+    if appended_ids and (
+        not append or appended_ids != list(range(max_effect_id + 1, max_effect_id + len(appended_ids) + 1))
+    ):
+        raise FormatError("novos Effect IDs exigem --append e sequencia contigua depois do maximo")
     invalid_ids = sorted(
-        effect_id
-        for effect_id in requested_ids + preserve_ids
-        if effect_id < 1 or effect_id > max_effect_id
+        effect_id for effect_id in requested_ids
+        if effect_id < 1 or effect_id > 0xFFFF
     )
+    invalid_ids += [effect_id for effect_id in preserve_ids if effect_id < 1 or effect_id > max_effect_id]
     if invalid_ids:
         raise FormatError(f"Effect IDs fora da faixa 1..{max_effect_id}: {invalid_ids}")
 
@@ -194,6 +224,11 @@ def _import_effects_impl(
             raise FormatError(
                 f"Effect ID reservado {preserve_id} nao esta vazio na baseline"
             )
+    for entry in entries:
+        if entry.effect_id in appended_ids and entry.preserve_as is not None:
+            raise FormatError("um efeito novo nao possui versao anterior para preserve_as")
+        if entry.displacement is not None and entry.effect_id not in appended_ids:
+            raise FormatError("displacement neste manifesto vale somente para efeitos novos")
 
     old_sprite_count = int(source_report["spr"]["sprite_count"])
     next_sprite_id = old_sprite_count + 1
@@ -242,6 +277,7 @@ def _import_effects_impl(
             animation_async=entry.animation_async,
             exact_size=otfi.sprite_size,
             allow_zero_sprite_ids=True,
+            animation_loop_count=entry.animation_loop_count,
         )
         if entry.preserve_as is not None:
             source_span = source_effects[entry.effect_id]
@@ -264,8 +300,24 @@ def _import_effects_impl(
                 animation_async=entry.animation_async,
                 preserve_as=entry.preserve_as,
                 sprite_ids=tuple(sprite_ids),
+                displacement=entry.displacement,
+                animation_loop_count=entry.animation_loop_count,
             )
         )
+
+    new_records = {}
+    for entry in entries:
+        if entry.effect_id in appended_ids:
+            properties = b"\xFF"
+            if entry.displacement is not None:
+                properties = b"\x18" + struct.pack("<HH", *entry.displacement) + properties
+            new_records[entry.effect_id] = properties + replacements.pop(entry.effect_id)
+    if dry_run:
+        return {
+            "root": str(root), "manifest": str(manifest_path), "dry_run": True,
+            "appended_effect_ids": appended_ids, "effects": [asdict(effect) for effect in prepared],
+            "new_sprite_count": len(blocks), "passed": True,
+        }
 
     targets = {
         name: _transaction_path(paths[name], "pending") for name in ("dat", "spr")
@@ -282,7 +334,8 @@ def _import_effects_impl(
     try:
         append_spr_blocks(paths["spr"], targets["spr"], otfi, blocks)
         write_dat_appearances(
-            paths["dat"], targets["dat"], otfi, "effects", replacements
+            paths["dat"], targets["dat"], otfi, "effects", replacements,
+            new_records=new_records,
         )
         pending_spr = inspect_spr(targets["spr"], otfi, deep=deep_spr)
         pending_dat = inspect_dat(
@@ -311,11 +364,16 @@ def _import_effects_impl(
 
     staged_data = targets["dat"].read_bytes()
     staged_spans = scan_dat_record_spans(staged_data, otfi, str(targets["dat"]))
-    if source_data[:12] != staged_data[:12] or len(source_spans) != len(staged_spans):
+    expected_header = bytearray(source_data[:12])
+    if appended_ids:
+        struct.pack_into("<H", expected_header, 8, appended_ids[-1])
+    if expected_header != staged_data[:12] or len(source_spans) + len(appended_ids) != len(staged_spans):
         abort_pending("estrutura DAT mudou durante a importacao")
     target_keys = {("effects", effect_id) for effect_id in replacements}
-    for source_span, staged_span in zip(source_spans, staged_spans):
+    staged_by_id = {(span.category, span.thing_id): span for span in staged_spans}
+    for source_span in source_spans:
         identity = (source_span.category, source_span.thing_id)
+        staged_span = staged_by_id[identity]
         if identity != (staged_span.category, staged_span.thing_id):
             abort_pending("ordem de registros DAT mudou durante a importacao")
         if source_data[source_span.start : source_span.properties_end] != staged_data[
@@ -374,6 +432,7 @@ def _import_effects_impl(
         "profile": source_report["profile"]["key"],
         "version_backup": backup,
         "effect_count": len(prepared),
+        "appended_effect_ids": appended_ids,
         "new_sprite_count": len(blocks),
         "sprite_id_range": [old_sprite_count + 1, expected_sprite_count],
         "effects": [asdict(effect) for effect in prepared],
@@ -398,10 +457,12 @@ def import_effects(
     manifest_path: Path,
     *,
     deep_spr: bool = False,
+    append: bool = False,
+    dry_run: bool = False,
 ) -> dict[str, object]:
     root = root.resolve()
     try:
-        return _import_effects_impl(root, manifest_path, deep_spr=deep_spr)
+        return _import_effects_impl(root, manifest_path, deep_spr=deep_spr, append=append, dry_run=dry_run)
     except BaseException:
         asset_root = root / "assets"
         if asset_root.is_dir():

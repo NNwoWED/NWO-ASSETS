@@ -4315,3 +4315,338 @@ effects:
   3377: // Orochimaru speed: ativacao no personagem
     opacity: 1.0
     center-sqm
+  3378: // Emoji apaixonado
+    opacity: 1.0
+    effect-displacement: 22 22
+    attached-frame-ms: 50
+    over-information
+  3379: // Emoji sorriso
+    opacity: 1.0
+    effect-displacement: 22 22
+    attached-frame-ms: 50
+    over-information
+  3380: // Emoji risada
+    opacity: 1.0
+    effect-displacement: 22 22
+    attached-frame-ms: 50
+    over-information
+  3381: // Emoji oculos
+    opacity: 1.0
+    effect-displacement: 22 22
+    attached-frame-ms: 50
+    over-information
+  3382: // Emoji piscada
+    opacity: 1.0
+    effect-displacement: 22 22
+    attached-frame-ms: 50
+    over-information
+  3383: // Emoji surpreso
+    opacity: 1.0
+    effect-displacement: 22 22
+    attached-frame-ms: 50
+    over-information
+  3384: // Emoji raiva
+    opacity: 1.0
+    effect-displacement: 22 22
+    attached-frame-ms: 50
+    over-information
+  3385: // Emoji chorando
+    opacity: 1.0
+    effect-displacement: 22 22
+    attached-frame-ms: 50
+    over-information
+  3386: // Emoji sono
+    opacity: 1.0
+    effect-displacement: 22 22
+    attached-frame-ms: 50
+    over-information
+  3387: // Emoji pensando
+    opacity: 1.0
+    effect-displacement: 22 22
+    attached-frame-ms: 50
+    over-information
+  3388: // Emoji festa
+    opacity: 1.0
+    effect-displacement: 22 22
+    attached-frame-ms: 50
+    over-information
+  3389: // Emoji timido
+    opacity: 1.0
+    effect-displacement: 22 22
+    attached-frame-ms: 50
+    over-information
+  3390: // Emoji grito
+    opacity: 1.0
+    effect-displacement: 22 22
+    attached-frame-ms: 50
+    over-information
+  3391: // Emoji malicioso
+    opacity: 1.0
+    effect-displacement: 22 22
+    attached-frame-ms: 50
+    over-information
+  3392: // Emoji beijo
+    opacity: 1.0
+    effect-displacement: 22 22
+    attached-frame-ms: 50
+    over-information
+  3393: // Emoji anjo
+    opacity: 1.0
+    effect-displacement: 22 22
+    attached-frame-ms: 50
+    over-information
+  3394: // Emoji diabinho
+    opacity: 1.0
+    effect-displacement: 22 22
+    attached-frame-ms: 50
+    over-information
+  3395: // Emoji gato
+    opacity: 1.0
+    effect-displacement: 22 22
+    attached-frame-ms: 50
+    over-information
+  3396: // Emoji joinha
+    opacity: 1.0
+    effect-displacement: 22 22
+    attached-frame-ms: 50
+    over-information
+  3397: // Emoji fogo
+    opacity: 1.0
+    effect-displacement: 22 22
+    attached-frame-ms: 50
+    over-information
+  3398: // Emoji caveira
+    opacity: 1.0
+    effect-displacement: 22 22
+    attached-frame-ms: 50
+    over-information
+  3399: // Emoji palhaco
+    opacity: 1.0
+    effect-displacement: 22 22
+    attached-frame-ms: 50
+    over-information
+  3400: // Emoji doente
+    opacity: 1.0
+    effect-displacement: 22 22
+    attached-frame-ms: 50
+    over-information
+  3401: // Emoji enjoado
+    opacity: 1.0
+    effect-displacement: 22 22
+    attached-frame-ms: 50
+    over-information
+  3402: // Emoji congelado
+    opacity: 1.0
+    effect-displacement: 22 22
+    attached-frame-ms: 50
+    over-information
+  3403: // Emoji calor
+    opacity: 1.0
+    effect-displacement: 22 22
+    attached-frame-ms: 50
+    over-information
+  3404: // Emoji dinheiro
+    opacity: 1.0
+    effect-displacement: 22 22
+    attached-frame-ms: 50
+    over-information
+  3405: // Emoji tonto
+    opacity: 1.0
+    effect-displacement: 22 22
+    attached-frame-ms: 50
+    over-information
+  3406: // Emoji morto
+    opacity: 1.0
+    effect-displacement: 22 22
+    attached-frame-ms: 50
+    over-information
+  3407: // Emoji zipado
+    opacity: 1.0
+    effect-displacement: 22 22
+    attached-frame-ms: 50
+    over-information
+  3408: // Emoji nerd
+    opacity: 1.0
+    effect-displacement: 22 22
+    attached-frame-ms: 50
+    over-information
+  3409: // Emoji lingua
+    opacity: 1.0
+    effect-displacement: 22 22
+    attached-frame-ms: 50
+    over-information
+  3410: // Emoji triste
+    opacity: 1.0
+    effect-displacement: 22 22
+    attached-frame-ms: 50
+    over-information
+  3411: // Emoji suando
+    opacity: 1.0
+    effect-displacement: 22 22
+    attached-frame-ms: 50
+    over-information
+  3412: // Emoji robo
+    opacity: 1.0
+    effect-displacement: 22 22
+    attached-frame-ms: 50
+    over-information
+  3413: // Emoji alien
+    opacity: 1.0
+    effect-displacement: 22 22
+    attached-frame-ms: 50
+    over-information
+  3414: // Emoji abobora
+    opacity: 1.0
+    effect-displacement: 22 22
+    attached-frame-ms: 50
+    over-information
+  3415: // Emoji coracao
+    opacity: 1.0
+    effect-displacement: 22 22
+    attached-frame-ms: 50
+    over-information
+  3416: // Emoji neutro
+    opacity: 1.0
+    effect-displacement: 22 22
+    attached-frame-ms: 50
+    over-information
+  3417: // Emoji revirando
+    opacity: 1.0
+    effect-displacement: 22 22
+    attached-frame-ms: 50
+    over-information
+  3418: // Emoji bandeira_brasil
+    opacity: 1.0
+    effect-displacement: 22 22
+    attached-frame-ms: 50
+    over-information
+  3419: // Emoji bandeira_portugal
+    opacity: 1.0
+    effect-displacement: 22 22
+    attached-frame-ms: 50
+    over-information
+  3420: // Emoji bandeira_eua
+    opacity: 1.0
+    effect-displacement: 22 22
+    attached-frame-ms: 50
+    over-information
+  3421: // Emoji bandeira_argentina
+    opacity: 1.0
+    effect-displacement: 22 22
+    attached-frame-ms: 50
+    over-information
+  3422: // Emoji bandeira_espanha
+    opacity: 1.0
+    effect-displacement: 22 22
+    attached-frame-ms: 50
+    over-information
+  3423: // Emoji bandeira_franca
+    opacity: 1.0
+    effect-displacement: 22 22
+    attached-frame-ms: 50
+    over-information
+  3424: // Emoji bandeira_italia
+    opacity: 1.0
+    effect-displacement: 22 22
+    attached-frame-ms: 50
+    over-information
+  3425: // Emoji bandeira_alemanha
+    opacity: 1.0
+    effect-displacement: 22 22
+    attached-frame-ms: 50
+    over-information
+  3426: // Emoji bandeira_reino_unido
+    opacity: 1.0
+    effect-displacement: 22 22
+    attached-frame-ms: 50
+    over-information
+  3427: // Emoji bandeira_japao
+    opacity: 1.0
+    effect-displacement: 22 22
+    attached-frame-ms: 50
+    over-information
+  3428: // Emoji bandeira_mexico
+    opacity: 1.0
+    effect-displacement: 22 22
+    attached-frame-ms: 50
+    over-information
+  3429: // Emoji bandeira_chile
+    opacity: 1.0
+    effect-displacement: 22 22
+    attached-frame-ms: 50
+    over-information
+  3430: // Emoji bandeira_colombia
+    opacity: 1.0
+    effect-displacement: 22 22
+    attached-frame-ms: 50
+    over-information
+  3431: // Emoji bandeira_peru
+    opacity: 1.0
+    effect-displacement: 22 22
+    attached-frame-ms: 50
+    over-information
+  3432: // Emoji bandeira_paraguai
+    opacity: 1.0
+    effect-displacement: 22 22
+    attached-frame-ms: 50
+    over-information
+  3433: // Emoji bandeira_uruguai
+    opacity: 1.0
+    effect-displacement: 22 22
+    attached-frame-ms: 50
+    over-information
+  3434: // Emoji bandeira_venezuela
+    opacity: 1.0
+    effect-displacement: 22 22
+    attached-frame-ms: 50
+    over-information
+  3435: // Emoji bandeira_bolivia
+    opacity: 1.0
+    effect-displacement: 22 22
+    attached-frame-ms: 50
+    over-information
+  3436: // Emoji bandeira_canada
+    opacity: 1.0
+    effect-displacement: 22 22
+    attached-frame-ms: 50
+    over-information
+  3437: // Emoji bandeira_china
+    opacity: 1.0
+    effect-displacement: 22 22
+    attached-frame-ms: 50
+    over-information
+  3438: // Emoji bandeira_polonia
+    opacity: 1.0
+    effect-displacement: 22 22
+    attached-frame-ms: 50
+    over-information
+  3439: // Emoji papai_noel
+    opacity: 1.0
+    effect-displacement: 22 22
+    attached-frame-ms: 50
+    over-information
+  3440: // Emoji rena
+    opacity: 1.0
+    effect-displacement: 22 22
+    attached-frame-ms: 50
+    over-information
+  3441: // Emoji boneco_neve
+    opacity: 1.0
+    effect-displacement: 22 22
+    attached-frame-ms: 50
+    over-information
+  3442: // Emoji arvore_natal
+    opacity: 1.0
+    effect-displacement: 22 22
+    attached-frame-ms: 50
+    over-information
+  3443: // Emoji presente
+    opacity: 1.0
+    effect-displacement: 22 22
+    attached-frame-ms: 50
+    over-information
+  3444: // Emoji empolgado
+    opacity: 1.0
+    effect-displacement: 22 22
+    attached-frame-ms: 50
+    over-information

@@ -159,6 +159,17 @@ O Missile ID de referência define dimensões, layers e patterns direcionais. Em
 ferramenta preserva as propriedades do alvo, versiona DAT/SPR, reabre os pixels
 importados e recusa qualquer alteração fora do Missile ID solicitado.
 
+## Acréscimo de efeitos e pacote 3D
+
+`import-effects --append` permite acrescentar Effect IDs contíguos imediatamente
+depois do máximo atual. Executar primeiro com `--dry-run --deep-spr`. O manifesto
+aceita `displacement_x`, `displacement_y` para os efeitos novos e
+`animation_loop_count` para conservar os parâmetros da animação de origem.
+`edit-animation-durations --loop-count N` define explicitamente a repetição nas
+animações selecionadas pelo manifesto, com versionamento e validação.
+Quando `assets/860/Tibia.glb` existir, `sync-runtime` publica e verifica o pacote
+3D no PC, mobile e NWO-STUDIO e o inclui nos arquivos compactados.
+
 ## Importação de outfits
 
 `import-outfits` recebe uma folha completa no mesmo layout produzido por

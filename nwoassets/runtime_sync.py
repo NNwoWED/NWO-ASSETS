@@ -155,6 +155,14 @@ def _runtime_paths(
         targets[f"metadata/{name}"] = client_things / name
         targets[f"mobile/metadata/{name}"] = mobile_things / name
         targets[f"studio/metadata/{name}"] = studio_assets / "things" / name
+    model_pack = layout["860"] / "Tibia.glb"
+    if model_pack.is_file():
+        sources["Tibia.glb"] = model_pack
+        sources["mobile/Tibia.glb"] = model_pack
+        sources["studio/Tibia.glb"] = model_pack
+        targets["Tibia.glb"] = client_860 / "Tibia.glb"
+        targets["mobile/Tibia.glb"] = mobile_860 / "Tibia.glb"
+        targets["studio/Tibia.glb"] = studio_things / "Tibia.glb"
     return (
         sources,
         targets,
