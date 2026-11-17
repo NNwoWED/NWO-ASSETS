@@ -1,0 +1,944 @@
+[
+  {
+    "path": "sprites\\abelha-Sheet.png",
+    "size": [
+      256,
+      1024
+    ],
+    "pixels_sha256": "5ec7767688694f7aa7f7414e3d4937c21bb6bbd87c7a14f60ad03e9cfb57af4f",
+    "canonical_matches": [],
+    "archived_matches": []
+  },
+  {
+    "path": "sprites\\basilisk_boss-Sheet.png",
+    "size": [
+      256,
+      1024
+    ],
+    "pixels_sha256": "fc47ba28b539f5f4e5b211bcb51af87f0d8349558a5bdf36b2d2a717716b051d",
+    "canonical_matches": [],
+    "archived_matches": []
+  },
+  {
+    "path": "sprites\\minerador_boss1-Sheet.png",
+    "size": [
+      256,
+      1024
+    ],
+    "pixels_sha256": "bd7c7375b2b333f1638e172cdab06ee5df6db8b821253eeb978dd6d0eb3f3c4c",
+    "canonical_matches": [],
+    "archived_matches": []
+  },
+  {
+    "path": "sprites\\mob_mulher_para_hunt_de_abelha-Sheet.png",
+    "size": [
+      256,
+      1024
+    ],
+    "pixels_sha256": "485072228e00d3cd6b27ed332fce1b9f5ba1979b446e0f5e6e9891a4c0037a83",
+    "canonical_matches": [],
+    "archived_matches": []
+  },
+  {
+    "path": "sprites\\mob_para_hunt_de_abelha-Sheet.png",
+    "size": [
+      256,
+      1024
+    ],
+    "pixels_sha256": "973463795b042249d49931015b762a5f1de06dc51c41bcb41b90fb74626b459b",
+    "canonical_matches": [],
+    "archived_matches": []
+  },
+  {
+    "path": "sprites\\samurai_iwa_final-Sheet.png",
+    "size": [
+      256,
+      1024
+    ],
+    "pixels_sha256": "647d7d930aa6404e087a85d5bdc4e8e50df5108b4ee719ee51ead75f5a9d4524",
+    "canonical_matches": [],
+    "archived_matches": []
+  },
+  {
+    "path": "sprites\\abelha_boss-Sheet.png",
+    "size": [
+      384,
+      1536
+    ],
+    "pixels_sha256": "7404436d4f9aaba7c4b1cfc3f7364a60e1d41568a98f50e046c256aa616ba29e",
+    "canonical_matches": [],
+    "archived_matches": []
+  },
+  {
+    "path": "sprites\\skill_tubarao-Sheet.png",
+    "size": [
+      128,
+      1664
+    ],
+    "pixels_sha256": "e361478e1680a57e4f7b3fa84e78e850fd4c3a44a25047f08fa4d54c2df8e71a",
+    "canonical_matches": [
+      {
+        "category": "effects",
+        "id": 1481,
+        "server_ids": []
+      }
+    ],
+    "archived_matches": []
+  },
+  {
+    "path": "sprites\\ITENS SOLICITAMOS PELO JUNIOR\\Bandana de Iwa.png",
+    "size": [
+      32,
+      32
+    ],
+    "pixels_sha256": "198de65be8bc9b69115c96c5926a2021f9ed9046539df840350dce87cb7c3c13",
+    "canonical_matches": [],
+    "archived_matches": []
+  },
+  {
+    "path": "sprites\\ITENS SOLICITAMOS PELO JUNIOR\\Cajado Earth Monk.png",
+    "size": [
+      32,
+      32
+    ],
+    "pixels_sha256": "7e8a7040b6187d06b43fa8e20ed7efa0995e65203c048cca6514f3f34769eae1",
+    "canonical_matches": [],
+    "archived_matches": []
+  },
+  {
+    "path": "sprites\\ITENS SOLICITAMOS PELO JUNIOR\\CHAPEU MONK VARIAÇÃO VERMELHA.png",
+    "size": [
+      32,
+      32
+    ],
+    "pixels_sha256": "f536562404e285052ed4b377bb3abab0da479d9489350697b3e567962d18a47d",
+    "canonical_matches": [],
+    "archived_matches": []
+  },
+  {
+    "path": "sprites\\ITENS SOLICITAMOS PELO JUNIOR\\GARRA LIZZARD ANCIENT.png",
+    "size": [
+      32,
+      32
+    ],
+    "pixels_sha256": "b9ee54a458d81cfab2431a14d7d028dce74363d0f68d081e6a7f80f67691072a",
+    "canonical_matches": [],
+    "archived_matches": []
+  },
+  {
+    "path": "sprites\\ITENS SOLICITAMOS PELO JUNIOR\\ITEM 1 CHAKRA GOLEM.png",
+    "size": [
+      32,
+      32
+    ],
+    "pixels_sha256": "51c0044341990c487859e050e39684a71d016a76284dc84d82a3b4a83a1161e5",
+    "canonical_matches": [],
+    "archived_matches": []
+  },
+  {
+    "path": "sprites\\ITENS SOLICITAMOS PELO JUNIOR\\ITEM 2 CHAKRA GOLEM.png",
+    "size": [
+      32,
+      32
+    ],
+    "pixels_sha256": "68ab0628223bd1c1763ab177fe36be16b1bdb8acb61020319cb6f49109574338",
+    "canonical_matches": [],
+    "archived_matches": []
+  },
+  {
+    "path": "sprites\\ITENS SOLICITAMOS PELO JUNIOR\\ITEM 3 CHAKRA GOLEM.png",
+    "size": [
+      32,
+      32
+    ],
+    "pixels_sha256": "1808ed5bbe67085590f4146ebf8a4adcd927d0423e4907b5b5c59d4a1b3e0832",
+    "canonical_matches": [],
+    "archived_matches": []
+  },
+  {
+    "path": "sprites\\ITENS SOLICITAMOS PELO JUNIOR\\Lizzard escama.png",
+    "size": [
+      32,
+      32
+    ],
+    "pixels_sha256": "405524b47cab0b6b7ac9f553f626a80c8cb01fcc783c2306518d4cf86c5e15a9",
+    "canonical_matches": [],
+    "archived_matches": []
+  },
+  {
+    "path": "sprites\\ITENS SOLICITAMOS PELO JUNIOR\\Mascara Dirt Samurai.png",
+    "size": [
+      32,
+      32
+    ],
+    "pixels_sha256": "7526900d0fdfb9581d50606a8720e773b1fa21dd9f8a66caf28d8106c4010f52",
+    "canonical_matches": [],
+    "archived_matches": []
+  },
+  {
+    "path": "sprites\\ITENS SOLICITAMOS PELO JUNIOR\\Obsidian Carapace.png",
+    "size": [
+      32,
+      32
+    ],
+    "pixels_sha256": "67ee7e29158250c73666c63c42495c050dba278d8bc2b478c6d4e903006c895b",
+    "canonical_matches": [],
+    "archived_matches": []
+  },
+  {
+    "path": "sprites\\parede ponte\\parede de terra de lado 1.png",
+    "size": [
+      64,
+      64
+    ],
+    "pixels_sha256": "58cd585b379a74d2ef0e7a65c213fcaf939f4395f9a688bc61fcf0e435d143c6",
+    "canonical_matches": [
+      {
+        "category": "items",
+        "id": 26103,
+        "server_ids": [
+          26988
+        ]
+      }
+    ],
+    "archived_matches": []
+  },
+  {
+    "path": "sprites\\parede ponte\\parede de terra de lado 2.png",
+    "size": [
+      64,
+      64
+    ],
+    "pixels_sha256": "3df338b7aa06be2a7a1eeeaa9c25a8f9f92bf816c9782f2fda91fd8a98930914",
+    "canonical_matches": [
+      {
+        "category": "items",
+        "id": 26104,
+        "server_ids": [
+          26989
+        ]
+      }
+    ],
+    "archived_matches": []
+  },
+  {
+    "path": "sprites\\parede ponte\\parede de terra de lado 3.png",
+    "size": [
+      64,
+      64
+    ],
+    "pixels_sha256": "d7c5ed699d361724733d90118bb4a32f375a42cb0f4c6a33a3775ae9be985d9a",
+    "canonical_matches": [
+      {
+        "category": "items",
+        "id": 26105,
+        "server_ids": [
+          26990
+        ]
+      }
+    ],
+    "archived_matches": []
+  },
+  {
+    "path": "sprites\\parede ponte\\parede de terra1.png",
+    "size": [
+      64,
+      64
+    ],
+    "pixels_sha256": "14f63f308e7b0a8329d3b3cc1fd533e817816b26f27ed95cf45136a6ce52f8c3",
+    "canonical_matches": [
+      {
+        "category": "items",
+        "id": 26100,
+        "server_ids": [
+          26985
+        ]
+      }
+    ],
+    "archived_matches": []
+  },
+  {
+    "path": "sprites\\parede ponte\\parede de terra2.png",
+    "size": [
+      64,
+      64
+    ],
+    "pixels_sha256": "9fcb2ac2831c75862768558a7a7a769b38e038fd922565ae3842780d3ea5fde8",
+    "canonical_matches": [
+      {
+        "category": "items",
+        "id": 26101,
+        "server_ids": [
+          26986
+        ]
+      }
+    ],
+    "archived_matches": []
+  },
+  {
+    "path": "sprites\\parede ponte\\parede de terra3.png",
+    "size": [
+      64,
+      64
+    ],
+    "pixels_sha256": "29913db3af84971780896db85ace53e88f8f56b241867aa243b6cb100c14cc50",
+    "canonical_matches": [
+      {
+        "category": "items",
+        "id": 26102,
+        "server_ids": [
+          26987
+        ]
+      }
+    ],
+    "archived_matches": []
+  },
+  {
+    "path": "sprites\\parede ponte\\01_arenito_dourado\\parede de terra lado1.png",
+    "size": [
+      64,
+      64
+    ],
+    "pixels_sha256": "0fed98ea9c1e886e492c02c744284b376679481b308f9f5ce3ec419d611826fa",
+    "canonical_matches": [
+      {
+        "category": "items",
+        "id": 26109,
+        "server_ids": [
+          26994
+        ]
+      }
+    ],
+    "archived_matches": []
+  },
+  {
+    "path": "sprites\\parede ponte\\01_arenito_dourado\\parede de terra lado2.png",
+    "size": [
+      64,
+      64
+    ],
+    "pixels_sha256": "74489b10fad8a6ff74a173efc1135a51be2bac6f7bb89c91b4013f8969132222",
+    "canonical_matches": [
+      {
+        "category": "items",
+        "id": 26110,
+        "server_ids": [
+          26995
+        ]
+      }
+    ],
+    "archived_matches": []
+  },
+  {
+    "path": "sprites\\parede ponte\\01_arenito_dourado\\parede de terra lado3.png",
+    "size": [
+      64,
+      64
+    ],
+    "pixels_sha256": "89b18bb042607e896052e41eab9802dee5e1910832ff2e247f9ce68a171ae9be",
+    "canonical_matches": [
+      {
+        "category": "items",
+        "id": 26111,
+        "server_ids": [
+          26996
+        ]
+      }
+    ],
+    "archived_matches": []
+  },
+  {
+    "path": "sprites\\parede ponte\\01_arenito_dourado\\parede de terra1.png",
+    "size": [
+      64,
+      64
+    ],
+    "pixels_sha256": "8a50de23962fe2d6ec3996eae484813063c4e7f10984048bca2edc9fc4703445",
+    "canonical_matches": [
+      {
+        "category": "items",
+        "id": 26106,
+        "server_ids": [
+          26991
+        ]
+      }
+    ],
+    "archived_matches": []
+  },
+  {
+    "path": "sprites\\parede ponte\\01_arenito_dourado\\parede de terra2.png",
+    "size": [
+      64,
+      64
+    ],
+    "pixels_sha256": "a7e7bea16815824d52eaaeb87d83f138bc06cf58faee7e3d504bffe97077eed1",
+    "canonical_matches": [
+      {
+        "category": "items",
+        "id": 26107,
+        "server_ids": [
+          26992
+        ]
+      }
+    ],
+    "archived_matches": []
+  },
+  {
+    "path": "sprites\\parede ponte\\01_arenito_dourado\\parede de terra3.png",
+    "size": [
+      64,
+      64
+    ],
+    "pixels_sha256": "0fc7b61d08806b2e183dfd1571a99bbf7a7b3bb32f68965c6531e93fb0da747b",
+    "canonical_matches": [
+      {
+        "category": "items",
+        "id": 26108,
+        "server_ids": [
+          26993
+        ]
+      }
+    ],
+    "archived_matches": []
+  },
+  {
+    "path": "sprites\\parede ponte\\02_areia_palha\\parede de terra lado1.png",
+    "size": [
+      64,
+      64
+    ],
+    "pixels_sha256": "d3741d52ade7540a4a098ed10531878bbc7ebe7c823107468e78e725e99e69c5",
+    "canonical_matches": [
+      {
+        "category": "items",
+        "id": 26115,
+        "server_ids": [
+          27000
+        ]
+      }
+    ],
+    "archived_matches": []
+  },
+  {
+    "path": "sprites\\parede ponte\\02_areia_palha\\parede de terra lado2.png",
+    "size": [
+      64,
+      64
+    ],
+    "pixels_sha256": "be66dc1cee73a0023c371ed14e9a746b03d6b44b2a64d0a080ae6b1352e5a4a7",
+    "canonical_matches": [
+      {
+        "category": "items",
+        "id": 26116,
+        "server_ids": [
+          27001
+        ]
+      }
+    ],
+    "archived_matches": []
+  },
+  {
+    "path": "sprites\\parede ponte\\02_areia_palha\\parede de terra lado3.png",
+    "size": [
+      64,
+      64
+    ],
+    "pixels_sha256": "911c7f7673e88f66d1750bcb31717f075d3942282df831b2363a86226904d6e5",
+    "canonical_matches": [
+      {
+        "category": "items",
+        "id": 26117,
+        "server_ids": [
+          27002
+        ]
+      }
+    ],
+    "archived_matches": []
+  },
+  {
+    "path": "sprites\\parede ponte\\02_areia_palha\\parede de terra1.png",
+    "size": [
+      64,
+      64
+    ],
+    "pixels_sha256": "80cca81b7c9ac489a2f69a6b34690e55ef03757aa1ee8ea5dc667f5794ab0746",
+    "canonical_matches": [
+      {
+        "category": "items",
+        "id": 26112,
+        "server_ids": [
+          26997
+        ]
+      }
+    ],
+    "archived_matches": []
+  },
+  {
+    "path": "sprites\\parede ponte\\02_areia_palha\\parede de terra2.png",
+    "size": [
+      64,
+      64
+    ],
+    "pixels_sha256": "f2470fb82dd7ee258b1081972c1f186434442faae5868d7061e81dd061a19ab4",
+    "canonical_matches": [
+      {
+        "category": "items",
+        "id": 26113,
+        "server_ids": [
+          26998
+        ]
+      }
+    ],
+    "archived_matches": []
+  },
+  {
+    "path": "sprites\\parede ponte\\02_areia_palha\\parede de terra3.png",
+    "size": [
+      64,
+      64
+    ],
+    "pixels_sha256": "ffce9f6a14c27be60a1008e2593f6afd6274efe78d8882e699b059faea544ad8",
+    "canonical_matches": [
+      {
+        "category": "items",
+        "id": 26114,
+        "server_ids": [
+          26999
+        ]
+      }
+    ],
+    "archived_matches": []
+  },
+  {
+    "path": "sprites\\parede ponte\\03_ocre_queimado\\parede de terra lado 1.png",
+    "size": [
+      64,
+      64
+    ],
+    "pixels_sha256": "e3734821dbfbedb27252f60908854573f65fcb2f2b4f6f57ea9374f4a2b9316f",
+    "canonical_matches": [
+      {
+        "category": "items",
+        "id": 26121,
+        "server_ids": [
+          27006
+        ]
+      }
+    ],
+    "archived_matches": []
+  },
+  {
+    "path": "sprites\\parede ponte\\03_ocre_queimado\\parede de terra lado 2.png",
+    "size": [
+      64,
+      64
+    ],
+    "pixels_sha256": "11af46175689a450de02f5fa97bd92068d86017cc4666091bd47a4d21fc4163b",
+    "canonical_matches": [
+      {
+        "category": "items",
+        "id": 26122,
+        "server_ids": [
+          27007
+        ]
+      }
+    ],
+    "archived_matches": []
+  },
+  {
+    "path": "sprites\\parede ponte\\03_ocre_queimado\\parede de terra lado 3.png",
+    "size": [
+      64,
+      64
+    ],
+    "pixels_sha256": "7f89dfbee74fc9893ddee77b6e98c591a16730fd2a31e1257733fddd7ba59df7",
+    "canonical_matches": [
+      {
+        "category": "items",
+        "id": 26123,
+        "server_ids": [
+          27008
+        ]
+      }
+    ],
+    "archived_matches": []
+  },
+  {
+    "path": "sprites\\parede ponte\\03_ocre_queimado\\parede de terra1.png",
+    "size": [
+      64,
+      64
+    ],
+    "pixels_sha256": "0224abcb4619e152bc186bd77414b6698fa5fabafd70df0de9dc316d3bfb5f52",
+    "canonical_matches": [
+      {
+        "category": "items",
+        "id": 26118,
+        "server_ids": [
+          27003
+        ]
+      }
+    ],
+    "archived_matches": []
+  },
+  {
+    "path": "sprites\\parede ponte\\03_ocre_queimado\\parede de terra2.png",
+    "size": [
+      64,
+      64
+    ],
+    "pixels_sha256": "813ee2873687de63333433048cee27a15e9ce61a2a66cf8878e83d2d98132635",
+    "canonical_matches": [
+      {
+        "category": "items",
+        "id": 26119,
+        "server_ids": [
+          27004
+        ]
+      }
+    ],
+    "archived_matches": []
+  },
+  {
+    "path": "sprites\\parede ponte\\03_ocre_queimado\\parede de terra3.png",
+    "size": [
+      64,
+      64
+    ],
+    "pixels_sha256": "842177914c79aeb001c7e6a83e55e437dfee80b6163d0308d920788d6979ab19",
+    "canonical_matches": [
+      {
+        "category": "items",
+        "id": 26120,
+        "server_ids": [
+          27005
+        ]
+      }
+    ],
+    "archived_matches": []
+  },
+  {
+    "path": "sprites\\parede ponte\\04_terracota\\parede de terra lado 1.png",
+    "size": [
+      64,
+      64
+    ],
+    "pixels_sha256": "bc13299a2b23a26f07afd2c4fe8e6105ffa8c5801e70539256c9e6d9894351c6",
+    "canonical_matches": [
+      {
+        "category": "items",
+        "id": 26127,
+        "server_ids": [
+          27012
+        ]
+      }
+    ],
+    "archived_matches": []
+  },
+  {
+    "path": "sprites\\parede ponte\\04_terracota\\parede de terra lado 2.png",
+    "size": [
+      64,
+      64
+    ],
+    "pixels_sha256": "71e8b7048200801851221a53046711a8179989dd1d3b0348712d171175fe0d37",
+    "canonical_matches": [
+      {
+        "category": "items",
+        "id": 26128,
+        "server_ids": [
+          27013
+        ]
+      }
+    ],
+    "archived_matches": []
+  },
+  {
+    "path": "sprites\\parede ponte\\04_terracota\\parede de terra lado 3.png",
+    "size": [
+      64,
+      64
+    ],
+    "pixels_sha256": "811f09bfcf436818838028b4fc5443478fe976ef75f81312ef2851ed185fb44e",
+    "canonical_matches": [
+      {
+        "category": "items",
+        "id": 26129,
+        "server_ids": [
+          27014
+        ]
+      }
+    ],
+    "archived_matches": []
+  },
+  {
+    "path": "sprites\\parede ponte\\04_terracota\\parede de terra1.png",
+    "size": [
+      64,
+      64
+    ],
+    "pixels_sha256": "1af123d1abe4a38fcbd3930c3e06fe6284b3d8cc7ec6e632adda3a5b1bb5ba52",
+    "canonical_matches": [
+      {
+        "category": "items",
+        "id": 26124,
+        "server_ids": [
+          27009
+        ]
+      }
+    ],
+    "archived_matches": []
+  },
+  {
+    "path": "sprites\\parede ponte\\04_terracota\\parede de terra2.png",
+    "size": [
+      64,
+      64
+    ],
+    "pixels_sha256": "654bfbabf10e88ca9469c1d6ba8d61fceb198f657bd6f542fc7d622c60e4e6e1",
+    "canonical_matches": [
+      {
+        "category": "items",
+        "id": 26125,
+        "server_ids": [
+          27010
+        ]
+      }
+    ],
+    "archived_matches": []
+  },
+  {
+    "path": "sprites\\parede ponte\\04_terracota\\parede de terra3.png",
+    "size": [
+      64,
+      64
+    ],
+    "pixels_sha256": "f62907498b50bb23794ab234dff7633fdafc4ab2b3186e97e4d2fb0ab86c4471",
+    "canonical_matches": [
+      {
+        "category": "items",
+        "id": 26126,
+        "server_ids": [
+          27011
+        ]
+      }
+    ],
+    "archived_matches": []
+  },
+  {
+    "path": "sprites\\parede ponte\\05_oliva_seco\\parede de terra lado 1.png",
+    "size": [
+      64,
+      64
+    ],
+    "pixels_sha256": "7223d3eccbe96039bf40582ca3922176f0b72fe95ecd82bba78f7cff38a5a700",
+    "canonical_matches": [
+      {
+        "category": "items",
+        "id": 26133,
+        "server_ids": [
+          27018
+        ]
+      }
+    ],
+    "archived_matches": []
+  },
+  {
+    "path": "sprites\\parede ponte\\05_oliva_seco\\parede de terra lado 2.png",
+    "size": [
+      64,
+      64
+    ],
+    "pixels_sha256": "e3e155d5da76869a8ecc39a87b46636f6cad63f76666c3ef77ba6af127e9e1b8",
+    "canonical_matches": [
+      {
+        "category": "items",
+        "id": 26134,
+        "server_ids": [
+          27019
+        ]
+      }
+    ],
+    "archived_matches": []
+  },
+  {
+    "path": "sprites\\parede ponte\\05_oliva_seco\\parede de terra lado 3.png",
+    "size": [
+      64,
+      64
+    ],
+    "pixels_sha256": "90f70524e7df6e20a97a4651debc6532a1ff90d5d439354f54244d5db3fa8cb9",
+    "canonical_matches": [
+      {
+        "category": "items",
+        "id": 26135,
+        "server_ids": [
+          27020
+        ]
+      }
+    ],
+    "archived_matches": []
+  },
+  {
+    "path": "sprites\\parede ponte\\05_oliva_seco\\parede de terra1.png",
+    "size": [
+      64,
+      64
+    ],
+    "pixels_sha256": "0aec6d25f309eea8beb0c1ce760d53817f5fdf0eb1618552ccac8f4b76a1205e",
+    "canonical_matches": [
+      {
+        "category": "items",
+        "id": 26130,
+        "server_ids": [
+          27015
+        ]
+      }
+    ],
+    "archived_matches": []
+  },
+  {
+    "path": "sprites\\parede ponte\\05_oliva_seco\\parede de terra2.png",
+    "size": [
+      64,
+      64
+    ],
+    "pixels_sha256": "31925ba984af9773e167f86a6222404529a6761f74ef8667e4bcc6484869d0a4",
+    "canonical_matches": [
+      {
+        "category": "items",
+        "id": 26131,
+        "server_ids": [
+          27016
+        ]
+      }
+    ],
+    "archived_matches": []
+  },
+  {
+    "path": "sprites\\parede ponte\\05_oliva_seco\\parede de terra3.png",
+    "size": [
+      64,
+      64
+    ],
+    "pixels_sha256": "0a338bc6ed199313f32c3c3dc255bc36d769ad2f6774c400682d667761fd4d40",
+    "canonical_matches": [
+      {
+        "category": "items",
+        "id": 26132,
+        "server_ids": [
+          27017
+        ]
+      }
+    ],
+    "archived_matches": []
+  },
+  {
+    "path": "sprites\\parede ponte\\06_cinza_quente\\parede de terra lado 1.png",
+    "size": [
+      64,
+      64
+    ],
+    "pixels_sha256": "85e605201489c8dccdbedce89bfab122b4cd0c3c49c55497f32f7b4b78f40929",
+    "canonical_matches": [
+      {
+        "category": "items",
+        "id": 26139,
+        "server_ids": [
+          27024
+        ]
+      }
+    ],
+    "archived_matches": []
+  },
+  {
+    "path": "sprites\\parede ponte\\06_cinza_quente\\parede de terra lado 2.png",
+    "size": [
+      64,
+      64
+    ],
+    "pixels_sha256": "6f2d0e86a74ddfdeb2c92dce193b91e2d38ea01c0f3b36097ce64dcc0fbe37c4",
+    "canonical_matches": [
+      {
+        "category": "items",
+        "id": 26140,
+        "server_ids": [
+          27025
+        ]
+      }
+    ],
+    "archived_matches": []
+  },
+  {
+    "path": "sprites\\parede ponte\\06_cinza_quente\\parede de terra lado 3.png",
+    "size": [
+      64,
+      64
+    ],
+    "pixels_sha256": "38585da57de53a4f6c4bb2a39afa7d95af949898f44beded2890a4e4602c2900",
+    "canonical_matches": [
+      {
+        "category": "items",
+        "id": 26141,
+        "server_ids": [
+          27026
+        ]
+      }
+    ],
+    "archived_matches": []
+  },
+  {
+    "path": "sprites\\parede ponte\\06_cinza_quente\\parede de terra1.png",
+    "size": [
+      64,
+      64
+    ],
+    "pixels_sha256": "5ee2f0e77f882a851ad42af4ad3dc51d63bc378bc7f9e65e2ec752b366abf4a7",
+    "canonical_matches": [
+      {
+        "category": "items",
+        "id": 26136,
+        "server_ids": [
+          27021
+        ]
+      }
+    ],
+    "archived_matches": []
+  },
+  {
+    "path": "sprites\\parede ponte\\06_cinza_quente\\parede de terra2.png",
+    "size": [
+      64,
+      64
+    ],
+    "pixels_sha256": "ba3316c0ab12806fddc97801c5c07455305a00e45c9367ea4758ec141d1c84b4",
+    "canonical_matches": [
+      {
+        "category": "items",
+        "id": 26137,
+        "server_ids": [
+          27022
+        ]
+      }
+    ],
+    "archived_matches": []
+  },
+  {
+    "path": "sprites\\parede ponte\\06_cinza_quente\\parede de terra3.png",
+    "size": [
+      64,
+      64
+    ],
+    "pixels_sha256": "706f5960148508bb19f9c011aa9ab7aa1de630e4f0b4ddd84d3209ecae57bd24",
+    "canonical_matches": [
+      {
+        "category": "items",
+        "id": 26138,
+        "server_ids": [
+          27023
+        ]
+      }
+    ],
+    "archived_matches": []
+  }
+]

@@ -1,0 +1,8 @@
+sequence,operation,outfit_id,reference_outfit_id,source_path,frame_duration_ms
+1,reserved,1539,2127,C:\Users\Wedson\Desktop\NWO NEW\NWO-ASSETS\sprites\abelha-Sheet.png,100
+2,reserved,1540,631,C:\Users\Wedson\Desktop\NWO NEW\NWO-ASSETS\sprites\abelha_boss-Sheet.png,100
+3,reserved,1541,2127,C:\Users\Wedson\Desktop\NWO NEW\NWO-ASSETS\sprites\basilisk_boss-Sheet.png,100
+4,reserved,1542,2127,C:\Users\Wedson\Desktop\NWO NEW\NWO-ASSETS\sprites\minerador_boss1-Sheet.png,100
+5,reserved,1543,2127,C:\Users\Wedson\Desktop\NWO NEW\NWO-ASSETS\sprites\mob_mulher_para_hunt_de_abelha-Sheet.png,100
+6,reserved,1544,2127,C:\Users\Wedson\Desktop\NWO NEW\NWO-ASSETS\sprites\mob_para_hunt_de_abelha-Sheet.png,100
+7,reserved,1545,2127,C:\Users\Wedson\Desktop\NWO NEW\NWO-ASSETS\sprites\samurai_iwa_final-Sheet.png,100

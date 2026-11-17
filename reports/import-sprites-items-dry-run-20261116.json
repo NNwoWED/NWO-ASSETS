@@ -1,0 +1,343 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "manifest": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\lote-novos-20261116\\items.csv",
+  "item_count": 10,
+  "target_server_id_range": [
+    27503,
+    27512
+  ],
+  "target_client_id_range": [
+    26618,
+    26627
+  ],
+  "new_sprite_count": 10,
+  "sprite_id_range": [
+    313776,
+    313785
+  ],
+  "items": [
+    {
+      "sequence": 1,
+      "source_server_id": 5881,
+      "source_client_id": 5881,
+      "target_server_id": 27503,
+      "target_client_id": 26618,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\ITENS SOLICITAMOS PELO JUNIOR\\Bandana de Iwa.png",
+      "source_sha256": "27A0BD0DB6597FD94EBA59B05E410F731AD77D04283B1FA84FA1F588E1399893",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        313776,
+        313776
+      ],
+      "sprite_hash": "B2A22E89E4E1B863114BF56CA900CE88"
+    },
+    {
+      "sequence": 2,
+      "source_server_id": 5881,
+      "source_client_id": 5881,
+      "target_server_id": 27504,
+      "target_client_id": 26619,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\ITENS SOLICITAMOS PELO JUNIOR\\Cajado Earth Monk.png",
+      "source_sha256": "83DA1306D93C8944B314C1A3CF83FAD224DBB5D48C1DFB0BFD650EE0AF08768F",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        313777,
+        313777
+      ],
+      "sprite_hash": "7C4D1397A51D26F4E9F8BC62E1657EA9"
+    },
+    {
+      "sequence": 3,
+      "source_server_id": 5881,
+      "source_client_id": 5881,
+      "target_server_id": 27505,
+      "target_client_id": 26620,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\ITENS SOLICITAMOS PELO JUNIOR\\CHAPEU MONK VARIAÇÃO VERMELHA.png",
+      "source_sha256": "250D0488BD585054EBB6958697E45E0DC30D1673C79ADEA31B2F79C30973D51E",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        313778,
+        313778
+      ],
+      "sprite_hash": "AFC7C2B0734752606A7F5E10A5D8AC48"
+    },
+    {
+      "sequence": 4,
+      "source_server_id": 5881,
+      "source_client_id": 5881,
+      "target_server_id": 27506,
+      "target_client_id": 26621,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\ITENS SOLICITAMOS PELO JUNIOR\\GARRA LIZZARD ANCIENT.png",
+      "source_sha256": "D9A014681BA7A5FA52D09AE14913B3DCCA39EA887A324D994BB1F749779822A8",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        313779,
+        313779
+      ],
+      "sprite_hash": "C08DF528124EB0C23F6589D97895A15E"
+    },
+    {
+      "sequence": 5,
+      "source_server_id": 5881,
+      "source_client_id": 5881,
+      "target_server_id": 27507,
+      "target_client_id": 26622,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\ITENS SOLICITAMOS PELO JUNIOR\\ITEM 1 CHAKRA GOLEM.png",
+      "source_sha256": "6B31F55C1F178683E6F87731953BEF33CE9DF348868554BA38DAC275519622F1",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        313780,
+        313780
+      ],
+      "sprite_hash": "D492A7AE48C377378BF5F8EFE310CBEA"
+    },
+    {
+      "sequence": 6,
+      "source_server_id": 5881,
+      "source_client_id": 5881,
+      "target_server_id": 27508,
+      "target_client_id": 26623,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\ITENS SOLICITAMOS PELO JUNIOR\\ITEM 2 CHAKRA GOLEM.png",
+      "source_sha256": "6A15CBF4B3D4F70504D56D1ED74A8D723E9C4DAE3B48B0EC97EDC518FF04B765",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        313781,
+        313781
+      ],
+      "sprite_hash": "DC4D08D9D44E479BAC4B86076317D5E7"
+    },
+    {
+      "sequence": 7,
+      "source_server_id": 5881,
+      "source_client_id": 5881,
+      "target_server_id": 27509,
+      "target_client_id": 26624,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\ITENS SOLICITAMOS PELO JUNIOR\\ITEM 3 CHAKRA GOLEM.png",
+      "source_sha256": "A54FADC5BED20380CEFA4140B1CB293C4FECFA9A70FDF5C6E7310B6785681E8A",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        313782,
+        313782
+      ],
+      "sprite_hash": "AEC9726BEE354CE137FD0FDC7442BB10"
+    },
+    {
+      "sequence": 8,
+      "source_server_id": 5881,
+      "source_client_id": 5881,
+      "target_server_id": 27510,
+      "target_client_id": 26625,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\ITENS SOLICITAMOS PELO JUNIOR\\Lizzard escama.png",
+      "source_sha256": "34127A8718132D3AFB122B63CF1B8F26D9A2FAB03413DDEF815BC219EC3193A4",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        313783,
+        313783
+      ],
+      "sprite_hash": "8552685C4C83E59A52220CF7813C59DC"
+    },
+    {
+      "sequence": 9,
+      "source_server_id": 5881,
+      "source_client_id": 5881,
+      "target_server_id": 27511,
+      "target_client_id": 26626,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\ITENS SOLICITAMOS PELO JUNIOR\\Mascara Dirt Samurai.png",
+      "source_sha256": "3F5BFA09C50A1B3AB6C8F5C96921089C417DC8B284D2F0A0EA641CFD03B06A6F",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        313784,
+        313784
+      ],
+      "sprite_hash": "8680F9035D3D2D4655DDD8F980E0830F"
+    },
+    {
+      "sequence": 10,
+      "source_server_id": 5881,
+      "source_client_id": 5881,
+      "target_server_id": 27512,
+      "target_client_id": 26627,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\ITENS SOLICITAMOS PELO JUNIOR\\Obsidian Carapace.png",
+      "source_sha256": "DF82829EB25C9DC6C97450DD7CF09DE233DE5F0261C7CD8EFC207FED022DF151",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        313785,
+        313785
+      ],
+      "sprite_hash": "BAEE1BAE4319E46DC8F06C4FBABD8EB4"
+    }
+  ],
+  "xml": {
+    "source_definitions": 1,
+    "target_definitions_written": 10,
+    "target_definitions_already_exact": 0,
+    "target_ids": [
+      27503,
+      27504,
+      27505,
+      27506,
+      27507,
+      27508,
+      27509,
+      27510,
+      27511,
+      27512
+    ]
+  },
+  "map_scan": {
+    "tiles_scanned": 8440196,
+    "item_nodes_scanned": 2294887
+  },
+  "dry_run": true,
+  "passed": true
+}

@@ -1,0 +1,77 @@
+{
+  "items": [
+    {
+      "server_id": 27503,
+      "client_id": 26618,
+      "name": "Bandana de Iwa",
+      "weight": 80,
+      "properties": "stackable material, pickupable, movable"
+    },
+    {
+      "server_id": 27504,
+      "client_id": 26619,
+      "name": "Cajado Earth Monk",
+      "weight": 80,
+      "properties": "stackable material, pickupable, movable"
+    },
+    {
+      "server_id": 27505,
+      "client_id": 26620,
+      "name": "CHAPEU MONK VARIAÇÃO VERMELHA",
+      "weight": 80,
+      "properties": "stackable material, pickupable, movable"
+    },
+    {
+      "server_id": 27506,
+      "client_id": 26621,
+      "name": "GARRA LIZZARD ANCIENT",
+      "weight": 80,
+      "properties": "stackable material, pickupable, movable"
+    },
+    {
+      "server_id": 27507,
+      "client_id": 26622,
+      "name": "ITEM 1 CHAKRA GOLEM",
+      "weight": 80,
+      "properties": "stackable material, pickupable, movable"
+    },
+    {
+      "server_id": 27508,
+      "client_id": 26623,
+      "name": "ITEM 2 CHAKRA GOLEM",
+      "weight": 80,
+      "properties": "stackable material, pickupable, movable"
+    },
+    {
+      "server_id": 27509,
+      "client_id": 26624,
+      "name": "ITEM 3 CHAKRA GOLEM",
+      "weight": 80,
+      "properties": "stackable material, pickupable, movable"
+    },
+    {
+      "server_id": 27510,
+      "client_id": 26625,
+      "name": "Lizzard escama",
+      "weight": 80,
+      "properties": "stackable material, pickupable, movable"
+    },
+    {
+      "server_id": 27511,
+      "client_id": 26626,
+      "name": "Mascara Dirt Samurai",
+      "weight": 80,
+      "properties": "stackable material, pickupable, movable"
+    },
+    {
+      "server_id": 27512,
+      "client_id": 26627,
+      "name": "Obsidian Carapace",
+      "weight": 80,
+      "properties": "stackable material, pickupable, movable"
+    }
+  ],
+  "before_sha256": "bb302a5b5b41b3a18d6e21ffa3a409058ca2d7c53e20bab17810a250b217e1b6",
+  "after_sha256": "af26522b00cd725b1fb1907b11afca688c35efec32a0c72e66ebafde3a10d221",
+  "non_targets_preserved": true
+}

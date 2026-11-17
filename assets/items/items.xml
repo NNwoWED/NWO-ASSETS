@@ -20900,4 +20900,34 @@
 	<item id="27502" article="a" name="Kakashi's Guizos">
 		<attribute key="description" value="Uma oportunidade perdida." />
 	</item>
+	<item id="27503" name="Bandana de Iwa">
+		<attribute key="weight" value="80" />
+	</item>
+	<item id="27504" name="Cajado Earth Monk">
+		<attribute key="weight" value="80" />
+	</item>
+	<item id="27505" name="CHAPEU MONK VARIAÇÃO VERMELHA">
+		<attribute key="weight" value="80" />
+	</item>
+	<item id="27506" name="GARRA LIZZARD ANCIENT">
+		<attribute key="weight" value="80" />
+	</item>
+	<item id="27507" name="ITEM 1 CHAKRA GOLEM">
+		<attribute key="weight" value="80" />
+	</item>
+	<item id="27508" name="ITEM 2 CHAKRA GOLEM">
+		<attribute key="weight" value="80" />
+	</item>
+	<item id="27509" name="ITEM 3 CHAKRA GOLEM">
+		<attribute key="weight" value="80" />
+	</item>
+	<item id="27510" name="Lizzard escama">
+		<attribute key="weight" value="80" />
+	</item>
+	<item id="27511" name="Mascara Dirt Samurai">
+		<attribute key="weight" value="80" />
+	</item>
+	<item id="27512" name="Obsidian Carapace">
+		<attribute key="weight" value="80" />
+	</item>
 </items>

@@ -1,5 +1,11 @@
 # Atualizacoes
 
+## 16/11/2026 - Remocao da iluminacao dos carpets 27290-27299
+
+- Removida exclusivamente a propriedade DAT `has_light` dos carpets SIDs 27290-27299 / CIDs 26405-26414, eliminando a luz de intensidade 2 e cor 144 sem alterar sprites, layouts, patterns ou propriedades OTB.
+- Operacao versionada em `versions/20261116-230924-865647/`, com validacao profunda aprovada e zero erros. Relatorios: `reports/properties-remove-carpet-lights-27290-27299-20261116.json` e `reports/validation-remove-carpet-lights-27290-27299-final-20261116.json`.
+- Assets sincronizados e verificados por hash no servidor, clients desktop/mobile, NWO-STUDIO e nos cinco destinos oficiais do RME-NARUTO. O sincronizador foi corrigido para deixar de publicar no RME 5.0 e passou nos quatro testes de publicacao e rollback. Relatorio: `reports/sync-runtime-remove-carpet-lights-rme-naruto-20261116.json`.
+
 ## 05/11/2026 - Correcao do displacement do E4 do Tobirama
 
 - Corrigidos os efeitos 1477, 1478, 1479 e 1480 para `effect-displacement: 128 128`. O comando `/z <efeito>, 4, 4` desloca quatro SQMs em cada eixo; como cada SQM possui 32 pixels, o valor equivalente no OTML e 128 pixels por eixo.
@@ -293,3 +299,20 @@ Versões 20261112-053120-069201, 20261112-053334-550711. Relatórios import-kino
 - O item ativo descreve o período de 20/11/2026 às 10h até 25/11/2026 às 23h59. O evento entrega quatro Guizos vinculados por personagem; cada Guizo concede uma hora de Double XP após confirmação.
 - Versão imutável `20261114-043731-108910` criada e testada antes da gravação. Importação, validação profunda e sincronização de 34 destinos aprovadas; DAT final até Client ID 26617, SPR com 313.748 sprites e OTB até Server ID 27502.
 - Fontes exportadas e manifesto arquivados em `importados/november-guizos-20261114/`. Relatórios `import-november-guizos-20261114.json`, `validation-november-guizos-final-20261114.json` e `sync-runtime-november-guizos-20261114.json` preservados em `reports/`.
+
+
+## 16/11/2026 - Visuais das missões de Mayu e Fuudo
+
+- Substituída a aparência do pergaminho completo de Predator, SID 27098 e CID 26213, pelo pergaminho roxo de referência CID 26092.
+- Substituídas as aparências do Frasco de Coleta, SID 26970 e CID 26085, e da Amostra Contaminada, SID 26971 e CID 26086, pelas referências CID 26159 e CID 26160.
+- Importação com 25 frames de 100 ms no pergaminho, propriedades dos destinos preservadas pelo programa, versão imutável testada, pixels e SpriteHash conferidos. Relatórios import-mission-feedback-20261116.json, validation-final-mission-feedback-20261116.json e sync-runtime-mission-feedback-20261116.json em reports.
+- A seleção de OTFI e OTB no validador passa a usar os caminhos canônicos de assets. As cópias de análise em work deixam de interferir na seleção. Testes cobrem a presença de backups e a ausência de arquivo canônico.
+
+
+## 16/11/2026 - Itens e outfits recebidos em sprites
+
+- Auditados 60 PNGs com comparação de pixels contra as aparências completas do DAT/SPR e as imagens arquivadas. As 42 paredes e pontes correspondem aos SIDs 26985–27026, CIDs 26100–26141. skill_tubarao-Sheet.png corresponde ao efeito 1481.
+- Criados dez itens nos SIDs 27503–27512 e CIDs 26618–26627 pelo fluxo import-cloned-items. Referência SID/CID 5881 para propriedades de material empilhável, móvel e carregável, com peso de 0,8 oz. Os nomes seguem os arquivos PNG recebidos. A atualização dos nomes conferiu byte a byte o XML dos itens anteriores.
+- Preenchidas as outfits vazias 1539–1545 em ordem com abelha, abelha boss, basilisk boss, minerador boss, mulher da hunt de abelha, homem da hunt de abelha e samurai de Iwa. Referências 2127 para quadros 64×64 e 631 para a abelha boss de 96×96. Todas usam quatro direções, dois grupos de oito frames e duração de 100 ms. A busca de referências conferiu os cadastros de NPCs, monstros, vocações, spells e código dos clients.
+- Versões imutáveis testadas 20261116-223835-433693 e 20261116-223934-626881. Acrescentados 1970 Sprite IDs, 313776–315745. Conferência de reexportação aprovada para os dez itens e as sete folhas completas de outfits.
+- Validação profunda final e sync-runtime aprovados, com 31 cópias conferidas e três RARs testados. Fontes e manifestos em importados/sprites-batch-20261116. Relatórios, inventário de duplicatas e lista CSV de IDs em reports/*sprites*-20261116.*.

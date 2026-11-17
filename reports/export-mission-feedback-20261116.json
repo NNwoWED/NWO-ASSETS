@@ -1,0 +1,124 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "profile": {
+    "key": "tibia-860-v2-custom-extended",
+    "client_version": 860,
+    "label": "Tibia 8.60 v2 customizado com features OTFI",
+    "dat_signature": "0x4C2C7993",
+    "spr_signature": "0x4C220594",
+    "metadata_reader": 5,
+    "otb_version_hint": "8.60"
+  },
+  "category": "items",
+  "id_kind": "server",
+  "requested_ids": [
+    26977,
+    27044,
+    27045
+  ],
+  "output_dir": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items",
+  "exported_count": 3,
+  "exported": [
+    {
+      "requested_id": 26977,
+      "client_id": 26092,
+      "server_ids": [
+        26977
+      ],
+      "name": "Pergaminho de Selamento Renovado",
+      "group_index": 0,
+      "width": 32,
+      "height": 800,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 25,
+      "sprite_ids": [
+        306311,
+        306312,
+        306313,
+        306314,
+        306315,
+        306316,
+        306317,
+        306318,
+        306319,
+        306320,
+        306321,
+        306322,
+        306323,
+        306324,
+        306325,
+        306326,
+        306327,
+        306328,
+        306329,
+        306330,
+        306331,
+        306332,
+        306333,
+        306334,
+        306335
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-26977_client-26092_pergaminho-de-selamento-renovado.png",
+      "size": 3814,
+      "sha256": "8032A77DC9C71E6DD2339E9BD0268D888791B56EF1DC9587B97C63AB6E75532A"
+    },
+    {
+      "requested_id": 27044,
+      "client_id": 26159,
+      "server_ids": [
+        27044
+      ],
+      "name": "Frasco de Coleta",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        297456
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-27044_client-26159_frasco-de-coleta.png",
+      "size": 468,
+      "sha256": "5D6A9AF7FAD2FAE70FD82BF676A101491645E6A6E2C2EDF3881C3085F4ACE7E9"
+    },
+    {
+      "requested_id": 27045,
+      "client_id": 26160,
+      "server_ids": [
+        27045
+      ],
+      "name": "Amostra Contaminada",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        297457
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-27045_client-26160_amostra-contaminada.png",
+      "size": 544,
+      "sha256": "E0A0FAB7FCF050CD5DD6F06925D7AE12C9F0ABB67D830240DA2627B56F8589CE"
+    }
+  ],
+  "sources": {
+    "dat": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.dat",
+      "sha256": "39546B09CE79A0CA5C087300AE1BD4CAA6BA41113DB7E7E47C92302BFAAD302F"
+    },
+    "spr": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.spr",
+      "sha256": "D36E7546CDB9BCF6618A729F86E07E2E3D3D4BFA17D3F89D37CF5836C5D9BCEB"
+    }
+  },
+  "passed": true
+}

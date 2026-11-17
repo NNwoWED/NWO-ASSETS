@@ -1,0 +1,183 @@
+{
+  "passed": true,
+  "count": 17,
+  "verified": [
+    {
+      "category": "items",
+      "id": 27503,
+      "source": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\ITENS SOLICITAMOS PELO JUNIOR\\Bandana de Iwa.png",
+      "exported": [
+        "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\sprites-batch-20261116\\items\\server-27503_client-26618_bandana-de-iwa.png"
+      ],
+      "pixels_sha256": "198de65be8bc9b69115c96c5926a2021f9ed9046539df840350dce87cb7c3c13",
+      "passed": true
+    },
+    {
+      "category": "items",
+      "id": 27504,
+      "source": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\ITENS SOLICITAMOS PELO JUNIOR\\Cajado Earth Monk.png",
+      "exported": [
+        "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\sprites-batch-20261116\\items\\server-27504_client-26619_cajado-earth-monk.png"
+      ],
+      "pixels_sha256": "7e8a7040b6187d06b43fa8e20ed7efa0995e65203c048cca6514f3f34769eae1",
+      "passed": true
+    },
+    {
+      "category": "items",
+      "id": 27505,
+      "source": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\ITENS SOLICITAMOS PELO JUNIOR\\CHAPEU MONK VARIAÇÃO VERMELHA.png",
+      "exported": [
+        "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\sprites-batch-20261116\\items\\server-27505_client-26620_chapeu-monk-variacao-vermelha.png"
+      ],
+      "pixels_sha256": "f536562404e285052ed4b377bb3abab0da479d9489350697b3e567962d18a47d",
+      "passed": true
+    },
+    {
+      "category": "items",
+      "id": 27506,
+      "source": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\ITENS SOLICITAMOS PELO JUNIOR\\GARRA LIZZARD ANCIENT.png",
+      "exported": [
+        "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\sprites-batch-20261116\\items\\server-27506_client-26621_garra-lizzard-ancient.png"
+      ],
+      "pixels_sha256": "b9ee54a458d81cfab2431a14d7d028dce74363d0f68d081e6a7f80f67691072a",
+      "passed": true
+    },
+    {
+      "category": "items",
+      "id": 27507,
+      "source": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\ITENS SOLICITAMOS PELO JUNIOR\\ITEM 1 CHAKRA GOLEM.png",
+      "exported": [
+        "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\sprites-batch-20261116\\items\\server-27507_client-26622_item-1-chakra-golem.png"
+      ],
+      "pixels_sha256": "51c0044341990c487859e050e39684a71d016a76284dc84d82a3b4a83a1161e5",
+      "passed": true
+    },
+    {
+      "category": "items",
+      "id": 27508,
+      "source": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\ITENS SOLICITAMOS PELO JUNIOR\\ITEM 2 CHAKRA GOLEM.png",
+      "exported": [
+        "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\sprites-batch-20261116\\items\\server-27508_client-26623_item-2-chakra-golem.png"
+      ],
+      "pixels_sha256": "68ab0628223bd1c1763ab177fe36be16b1bdb8acb61020319cb6f49109574338",
+      "passed": true
+    },
+    {
+      "category": "items",
+      "id": 27509,
+      "source": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\ITENS SOLICITAMOS PELO JUNIOR\\ITEM 3 CHAKRA GOLEM.png",
+      "exported": [
+        "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\sprites-batch-20261116\\items\\server-27509_client-26624_item-3-chakra-golem.png"
+      ],
+      "pixels_sha256": "1808ed5bbe67085590f4146ebf8a4adcd927d0423e4907b5b5c59d4a1b3e0832",
+      "passed": true
+    },
+    {
+      "category": "items",
+      "id": 27510,
+      "source": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\ITENS SOLICITAMOS PELO JUNIOR\\Lizzard escama.png",
+      "exported": [
+        "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\sprites-batch-20261116\\items\\server-27510_client-26625_lizzard-escama.png"
+      ],
+      "pixels_sha256": "405524b47cab0b6b7ac9f553f626a80c8cb01fcc783c2306518d4cf86c5e15a9",
+      "passed": true
+    },
+    {
+      "category": "items",
+      "id": 27511,
+      "source": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\ITENS SOLICITAMOS PELO JUNIOR\\Mascara Dirt Samurai.png",
+      "exported": [
+        "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\sprites-batch-20261116\\items\\server-27511_client-26626_mascara-dirt-samurai.png"
+      ],
+      "pixels_sha256": "7526900d0fdfb9581d50606a8720e773b1fa21dd9f8a66caf28d8106c4010f52",
+      "passed": true
+    },
+    {
+      "category": "items",
+      "id": 27512,
+      "source": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\ITENS SOLICITAMOS PELO JUNIOR\\Obsidian Carapace.png",
+      "exported": [
+        "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\sprites-batch-20261116\\items\\server-27512_client-26627_obsidian-carapace.png"
+      ],
+      "pixels_sha256": "67ee7e29158250c73666c63c42495c050dba278d8bc2b478c6d4e903006c895b",
+      "passed": true
+    },
+    {
+      "category": "outfits",
+      "id": 1539,
+      "source": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\abelha-Sheet.png",
+      "exported": [
+        "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\sprites-batch-20261116\\outfits\\outfit-1539_group-0.png",
+        "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\sprites-batch-20261116\\outfits\\outfit-1539_group-1.png"
+      ],
+      "pixels_sha256": "5ec7767688694f7aa7f7414e3d4937c21bb6bbd87c7a14f60ad03e9cfb57af4f",
+      "passed": true
+    },
+    {
+      "category": "outfits",
+      "id": 1540,
+      "source": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\abelha_boss-Sheet.png",
+      "exported": [
+        "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\sprites-batch-20261116\\outfits\\outfit-1540_group-0.png",
+        "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\sprites-batch-20261116\\outfits\\outfit-1540_group-1.png"
+      ],
+      "pixels_sha256": "7404436d4f9aaba7c4b1cfc3f7364a60e1d41568a98f50e046c256aa616ba29e",
+      "passed": true
+    },
+    {
+      "category": "outfits",
+      "id": 1541,
+      "source": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\basilisk_boss-Sheet.png",
+      "exported": [
+        "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\sprites-batch-20261116\\outfits\\outfit-1541_group-0.png",
+        "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\sprites-batch-20261116\\outfits\\outfit-1541_group-1.png"
+      ],
+      "pixels_sha256": "fc47ba28b539f5f4e5b211bcb51af87f0d8349558a5bdf36b2d2a717716b051d",
+      "passed": true
+    },
+    {
+      "category": "outfits",
+      "id": 1542,
+      "source": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\minerador_boss1-Sheet.png",
+      "exported": [
+        "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\sprites-batch-20261116\\outfits\\outfit-1542_group-0.png",
+        "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\sprites-batch-20261116\\outfits\\outfit-1542_group-1.png"
+      ],
+      "pixels_sha256": "bd7c7375b2b333f1638e172cdab06ee5df6db8b821253eeb978dd6d0eb3f3c4c",
+      "passed": true
+    },
+    {
+      "category": "outfits",
+      "id": 1543,
+      "source": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\mob_mulher_para_hunt_de_abelha-Sheet.png",
+      "exported": [
+        "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\sprites-batch-20261116\\outfits\\outfit-1543_group-0.png",
+        "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\sprites-batch-20261116\\outfits\\outfit-1543_group-1.png"
+      ],
+      "pixels_sha256": "485072228e00d3cd6b27ed332fce1b9f5ba1979b446e0f5e6e9891a4c0037a83",
+      "passed": true
+    },
+    {
+      "category": "outfits",
+      "id": 1544,
+      "source": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\mob_para_hunt_de_abelha-Sheet.png",
+      "exported": [
+        "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\sprites-batch-20261116\\outfits\\outfit-1544_group-0.png",
+        "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\sprites-batch-20261116\\outfits\\outfit-1544_group-1.png"
+      ],
+      "pixels_sha256": "973463795b042249d49931015b762a5f1de06dc51c41bcb41b90fb74626b459b",
+      "passed": true
+    },
+    {
+      "category": "outfits",
+      "id": 1545,
+      "source": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\samurai_iwa_final-Sheet.png",
+      "exported": [
+        "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\sprites-batch-20261116\\outfits\\outfit-1545_group-0.png",
+        "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\sprites-batch-20261116\\outfits\\outfit-1545_group-1.png"
+      ],
+      "pixels_sha256": "647d7d930aa6404e087a85d5bdc4e8e50df5108b4ee719ee51ead75f5a9d4524",
+      "passed": true
+    }
+  ]
+}

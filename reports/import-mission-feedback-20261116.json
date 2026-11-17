@@ -1,0 +1,199 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "manifest": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\mission-feedback-20261116\\manifest.csv",
+  "profile": "tibia-860-v2-custom-extended",
+  "version_backup": {
+    "tool_version": "0.8.2",
+    "version_id": "20261116-212038-339490",
+    "created_at": "2026-11-16T21:20:56.677660-03:00",
+    "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261116-212038-339490",
+    "rar_executable": "C:\\Program Files\\WinRAR\\Rar.exe",
+    "sources": [
+      {
+        "path": "assets/860/.gitattributes",
+        "size": 43,
+        "sha256": "D5636A3257287440945C5E017581545E5B0A3E2FDDDAE7C5EF8D90FF4DF3D32A"
+      },
+      {
+        "path": "assets/860/Tibia.dat",
+        "size": 4719242,
+        "sha256": "39546B09CE79A0CA5C087300AE1BD4CAA6BA41113DB7E7E47C92302BFAAD302F"
+      },
+      {
+        "path": "assets/860/Tibia.otfi",
+        "size": 185,
+        "sha256": "7743548835944BC799CB871A4E5DEF84F7AF76815031871B9CE74B5EC0E8ADD3"
+      },
+      {
+        "path": "assets/860/Tibia.spr",
+        "size": 538227560,
+        "sha256": "D36E7546CDB9BCF6618A729F86E07E2E3D3D4BFA17D3F89D37CF5836C5D9BCEB"
+      },
+      {
+        "path": "assets/items/force use.txt",
+        "size": 419,
+        "sha256": "BCB478FDF3F45ECA8D172AFD7A17D3F8CD520924EE0894752452B8FDC8F71959"
+      },
+      {
+        "path": "assets/items/items.otb",
+        "size": 1093203,
+        "sha256": "88B3C31F90FB131D99C1FB6384B1ADFC08C017C11B1BB8B4FB8D1D573CB2132C"
+      },
+      {
+        "path": "assets/world/mapanovo.otbm",
+        "size": 86622750,
+        "sha256": "ABB09C367200FE91408756E2ED7C135382F231F538849BC3B601D10207CE2D8C"
+      }
+    ],
+    "archives": {
+      "860": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261116-212038-339490\\860.rar",
+        "size": 93848037,
+        "sha256": "5C81220F7FBE318C19B67B048AF95D61A172C6903C1440FC94FCD64D34435AA8"
+      },
+      "items": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261116-212038-339490\\items.rar",
+        "size": 524211,
+        "sha256": "B64961EAD1E0AA869EBCF9F32287974314F1D3D80CAD02F94C7039C5FE315BA0"
+      },
+      "world": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261116-212038-339490\\world.zip",
+        "size": 20867072,
+        "sha256": "D41CA6809A0FF4BE6CC5F9206B3ACFBF902E33DBDDFADD150B3D56E5C0353D9E"
+      }
+    },
+    "items_xml_excluded": true,
+    "world_entries": [
+      "mapanovo.otbm"
+    ],
+    "passed": true
+  },
+  "sprite_hash_gate": {
+    "sample_count": 64,
+    "mismatch_count": 0,
+    "mismatches": [],
+    "passed": true
+  },
+  "item_count": 3,
+  "new_sprite_count": 27,
+  "sprite_id_range": [
+    313749,
+    313775
+  ],
+  "items": [
+    {
+      "sequence": 1,
+      "client_id": 26213,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\mission-feedback-20261116\\server-26977_client-26092_pergaminho-de-selamento-renovado.png",
+      "file_sha256": "8032A77DC9C71E6DD2339E9BD0268D888791B56EF1DC9587B97C63AB6E75532A",
+      "pixels_sha256": "E9C616967D1B4D7D75688EFD52412D788E43F00497B8864407E78F28B44A7E9E",
+      "image_width": 32,
+      "image_height": 800,
+      "width_tiles": 1,
+      "height_tiles": 1,
+      "frames": 25,
+      "frame_duration_ms": 100,
+      "animation_async": true,
+      "sprite_ids": [
+        313749,
+        313750,
+        313751,
+        313752,
+        313753,
+        313754,
+        313755,
+        313756,
+        313757,
+        313758,
+        313759,
+        313760,
+        313761,
+        313762,
+        313763,
+        313764,
+        313765,
+        313766,
+        313767,
+        313768,
+        313769,
+        313770,
+        313771,
+        313772,
+        313773
+      ],
+      "sprite_hash": "10578DF419B0538F703739A4FF7578CA",
+      "layout_preserved": false,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1
+    },
+    {
+      "sequence": 2,
+      "client_id": 26085,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\mission-feedback-20261116\\server-27044_client-26159_frasco-de-coleta.png",
+      "file_sha256": "5D6A9AF7FAD2FAE70FD82BF676A101491645E6A6E2C2EDF3881C3085F4ACE7E9",
+      "pixels_sha256": "90E3E5D11DDA85D2CEAED039E8EAC5009FD2D47949C603E01B92EEA5546FA4C5",
+      "image_width": 32,
+      "image_height": 32,
+      "width_tiles": 1,
+      "height_tiles": 1,
+      "frames": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_ids": [
+        313774
+      ],
+      "sprite_hash": "3F73540EF7F5E351552B9F0928BDD768",
+      "layout_preserved": false,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1
+    },
+    {
+      "sequence": 3,
+      "client_id": 26086,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\mission-feedback-20261116\\server-27045_client-26160_amostra-contaminada.png",
+      "file_sha256": "E0A0FAB7FCF050CD5DD6F06925D7AE12C9F0ABB67D830240DA2627B56F8589CE",
+      "pixels_sha256": "004F588CB88D9608E6FE3E8503022FC55AD0802F1DC9A5D60619C46BF7A9A3E7",
+      "image_width": 32,
+      "image_height": 32,
+      "width_tiles": 1,
+      "height_tiles": 1,
+      "frames": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_ids": [
+        313775
+      ],
+      "sprite_hash": "BACCDEE45A1A9F150CB980D085B8381F",
+      "layout_preserved": false,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1
+    }
+  ],
+  "otb_nodes_updated": {
+    "26213": 1,
+    "26085": 1,
+    "26086": 1
+  },
+  "transaction_committed": true,
+  "output_hashes": {
+    "dat": "8E05C4ACE4C223311A2896C32D9BD153A088D473D2D7EEB88231ECF82B709FF8",
+    "spr": "F92E281A977007C82E940F34DE3E50A8A5198CA1373C42AEEC7E7D020B98E9BD",
+    "otb": "25A0BDAD8492BFA4C215D4A89A164076D670A8E50159491688554F7C38985864"
+  },
+  "dat_non_targets_preserved": true,
+  "old_sprite_payload_preserved": true,
+  "new_sprite_pixels_verified": true,
+  "layout_preserved_client_ids": [],
+  "untouched_files_preserved": true,
+  "map_byte_equal": true,
+  "final_validation_passed": true,
+  "warnings": [],
+  "errors": [],
+  "passed": true
+}

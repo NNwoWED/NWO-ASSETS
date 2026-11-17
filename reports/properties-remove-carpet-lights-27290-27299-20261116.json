@@ -1,0 +1,289 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "manifest": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\manifests\\remove-carpet-lights-27290-27299-20261116.csv",
+  "version_backup": {
+    "tool_version": "0.8.2",
+    "version_id": "20261116-230924-865647",
+    "created_at": "2026-11-16T23:09:38.055512-03:00",
+    "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261116-230924-865647",
+    "rar_executable": "C:\\Program Files\\WinRAR\\Rar.exe",
+    "sources": [
+      {
+        "path": "assets/860/.gitattributes",
+        "size": 43,
+        "sha256": "D5636A3257287440945C5E017581545E5B0A3E2FDDDAE7C5EF8D90FF4DF3D32A"
+      },
+      {
+        "path": "assets/860/Tibia.dat",
+        "size": 4728600,
+        "sha256": "42B72B5D9DEA172964E8EC9E7D935EC7EAF532E0F739E1193E44D464765C8C7B"
+      },
+      {
+        "path": "assets/860/Tibia.otfi",
+        "size": 185,
+        "sha256": "7743548835944BC799CB871A4E5DEF84F7AF76815031871B9CE74B5EC0E8ADD3"
+      },
+      {
+        "path": "assets/860/Tibia.spr",
+        "size": 540286241,
+        "sha256": "1DE0631EA12F8D57BCD707C3BA7B0B90A1AF3E5D8C5DBDEF07AF49915B6EB923"
+      },
+      {
+        "path": "assets/items/force use.txt",
+        "size": 419,
+        "sha256": "BCB478FDF3F45ECA8D172AFD7A17D3F8CD520924EE0894752452B8FDC8F71959"
+      },
+      {
+        "path": "assets/items/items.otb",
+        "size": 1093568,
+        "sha256": "7B63FA6DAB3CD8196A40E53523C15E771F7236108653A0C245D0F8C8DF565E96"
+      },
+      {
+        "path": "assets/world/mapanovo.otbm",
+        "size": 86622750,
+        "sha256": "ABB09C367200FE91408756E2ED7C135382F231F538849BC3B601D10207CE2D8C"
+      }
+    ],
+    "archives": {
+      "860": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261116-230924-865647\\860.rar",
+        "size": 93937980,
+        "sha256": "B9F0DBC94FDA1AEE8A10A0DBB7C92DFF89A942811D2494F0FF048C2A2D9F7747"
+      },
+      "items": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261116-230924-865647\\items.rar",
+        "size": 524446,
+        "sha256": "884F5442EE62F85A5D87E106225736EF5F0E2E01B27BC6FD7562DE01FFD50AF3"
+      },
+      "world": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261116-230924-865647\\world.zip",
+        "size": 20867072,
+        "sha256": "D41CA6809A0FF4BE6CC5F9206B3ACFBF902E33DBDDFADD150B3D56E5C0353D9E"
+      }
+    },
+    "items_xml_excluded": true,
+    "world_entries": [
+      "mapanovo.otbm"
+    ],
+    "passed": true
+  },
+  "item_count": 10,
+  "items": [
+    {
+      "sequence": 1,
+      "server_id": 27290,
+      "client_id": 26405,
+      "dat": {
+        "before": [
+          "ground",
+          "unmoveable",
+          "has_light",
+          "mini_map",
+          "full_ground"
+        ],
+        "after": [
+          "ground",
+          "unmoveable",
+          "mini_map",
+          "full_ground"
+        ]
+      },
+      "otb": null
+    },
+    {
+      "sequence": 2,
+      "server_id": 27291,
+      "client_id": 26406,
+      "dat": {
+        "before": [
+          "ground",
+          "unmoveable",
+          "has_light",
+          "mini_map",
+          "full_ground"
+        ],
+        "after": [
+          "ground",
+          "unmoveable",
+          "mini_map",
+          "full_ground"
+        ]
+      },
+      "otb": null
+    },
+    {
+      "sequence": 3,
+      "server_id": 27292,
+      "client_id": 26407,
+      "dat": {
+        "before": [
+          "ground",
+          "unmoveable",
+          "has_light",
+          "mini_map",
+          "full_ground"
+        ],
+        "after": [
+          "ground",
+          "unmoveable",
+          "mini_map",
+          "full_ground"
+        ]
+      },
+      "otb": null
+    },
+    {
+      "sequence": 4,
+      "server_id": 27293,
+      "client_id": 26408,
+      "dat": {
+        "before": [
+          "ground",
+          "unmoveable",
+          "has_light",
+          "mini_map",
+          "full_ground"
+        ],
+        "after": [
+          "ground",
+          "unmoveable",
+          "mini_map",
+          "full_ground"
+        ]
+      },
+      "otb": null
+    },
+    {
+      "sequence": 5,
+      "server_id": 27294,
+      "client_id": 26409,
+      "dat": {
+        "before": [
+          "ground",
+          "unmoveable",
+          "has_light",
+          "mini_map",
+          "full_ground"
+        ],
+        "after": [
+          "ground",
+          "unmoveable",
+          "mini_map",
+          "full_ground"
+        ]
+      },
+      "otb": null
+    },
+    {
+      "sequence": 6,
+      "server_id": 27295,
+      "client_id": 26410,
+      "dat": {
+        "before": [
+          "ground",
+          "unmoveable",
+          "has_light",
+          "mini_map",
+          "full_ground"
+        ],
+        "after": [
+          "ground",
+          "unmoveable",
+          "mini_map",
+          "full_ground"
+        ]
+      },
+      "otb": null
+    },
+    {
+      "sequence": 7,
+      "server_id": 27296,
+      "client_id": 26411,
+      "dat": {
+        "before": [
+          "ground",
+          "unmoveable",
+          "has_light",
+          "mini_map",
+          "full_ground"
+        ],
+        "after": [
+          "ground",
+          "unmoveable",
+          "mini_map",
+          "full_ground"
+        ]
+      },
+      "otb": null
+    },
+    {
+      "sequence": 8,
+      "server_id": 27297,
+      "client_id": 26412,
+      "dat": {
+        "before": [
+          "ground",
+          "unmoveable",
+          "has_light",
+          "mini_map",
+          "full_ground"
+        ],
+        "after": [
+          "ground",
+          "unmoveable",
+          "mini_map",
+          "full_ground"
+        ]
+      },
+      "otb": null
+    },
+    {
+      "sequence": 9,
+      "server_id": 27298,
+      "client_id": 26413,
+      "dat": {
+        "before": [
+          "ground",
+          "unmoveable",
+          "has_light",
+          "mini_map",
+          "full_ground"
+        ],
+        "after": [
+          "ground",
+          "unmoveable",
+          "mini_map",
+          "full_ground"
+        ]
+      },
+      "otb": null
+    },
+    {
+      "sequence": 10,
+      "server_id": 27299,
+      "client_id": 26414,
+      "dat": {
+        "before": [
+          "ground",
+          "unmoveable",
+          "has_light",
+          "mini_map",
+          "full_ground"
+        ],
+        "after": [
+          "ground",
+          "unmoveable",
+          "mini_map",
+          "full_ground"
+        ]
+      },
+      "otb": null
+    }
+  ],
+  "transaction_committed": true,
+  "untouched_assets_preserved": true,
+  "final_validation_passed": true,
+  "warnings": [],
+  "errors": [],
+  "passed": true
+}

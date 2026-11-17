@@ -1,0 +1,61 @@
+{
+  "operation": "substituir",
+  "date": "2026-11-16",
+  "items": [
+    {
+      "name": "Pergaminho de Chakra Completo (Predator)",
+      "purpose": "Conclusao de 300 Predator/Bruiser na missao da Mayu",
+      "server_id": 27098,
+      "client_id": 26213,
+      "reference_server_id": 26977,
+      "reference_client_id": 26092,
+      "frames": 25,
+      "frame_width": 32,
+      "frame_height": 32,
+      "frame_duration_ms": 100
+    },
+    {
+      "name": "Frasco de Coleta",
+      "purpose": "Frasco vazio da missao do Fuudo",
+      "server_id": 26970,
+      "client_id": 26085,
+      "reference_server_id": 27044,
+      "reference_client_id": 26159,
+      "frames": 1,
+      "frame_width": 32,
+      "frame_height": 32
+    },
+    {
+      "name": "Amostra Contaminada",
+      "purpose": "Frasco coletado na missao do Fuudo",
+      "server_id": 26971,
+      "client_id": 26086,
+      "reference_server_id": 27045,
+      "reference_client_id": 26160,
+      "frames": 1,
+      "frame_width": 32,
+      "frame_height": 32
+    }
+  ],
+  "property_policy": "Preservar propriedades DAT/OTB dos destinos, atualizar apenas aparencia, animacao e SpriteHash pelo importador",
+  "source_files": [
+    {
+      "path": "importados\\mission-feedback-20261116\\manifest.csv",
+      "sha256": "33EF69EF11821619B599728BEA20D85D91420EC29C6E2295CE8D1AAF84C31D4C"
+    },
+    {
+      "path": "importados\\mission-feedback-20261116\\server-26977_client-26092_pergaminho-de-selamento-renovado.png",
+      "sha256": "8032A77DC9C71E6DD2339E9BD0268D888791B56EF1DC9587B97C63AB6E75532A"
+    },
+    {
+      "path": "importados\\mission-feedback-20261116\\server-27044_client-26159_frasco-de-coleta.png",
+      "sha256": "5D6A9AF7FAD2FAE70FD82BF676A101491645E6A6E2C2EDF3881C3085F4ACE7E9"
+    },
+    {
+      "path": "importados\\mission-feedback-20261116\\server-27045_client-26160_amostra-contaminada.png",
+      "sha256": "E0A0FAB7FCF050CD5DD6F06925D7AE12C9F0ABB67D830240DA2627B56F8589CE"
+    }
+  ],
+  "validation": "reports/validation-final-mission-feedback-20261116.json",
+  "sync": "reports/sync-runtime-mission-feedback-20261116.json"
+}
