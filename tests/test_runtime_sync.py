@@ -46,7 +46,9 @@ class RuntimeSyncTests(unittest.TestCase):
             (root / "assets" / name).mkdir(parents=True, exist_ok=True)
         server = workspace / "Server-Data-Nwo" / "data" / "items"
         server_world = workspace / "Server-Data-Nwo" / "data" / "world"
-        rme = workspace / "RME 5.0" / "Editor" / "data" / "860"
+        rme = workspace / "RME-NARUTO" / "data" / "860"
+        rme_crypto = workspace / "RME-NARUTO" / "data" / "860-crypto"
+        rme_things = workspace / "RME-NARUTO" / "data" / "things"
         client = workspace / "nwo-otclient-mehah-4.0" / "data" / "things" / "860"
         mobile_things = workspace / "nwo-mobile" / "client" / "data" / "things"
         mobile = mobile_things / "860"
@@ -57,6 +59,8 @@ class RuntimeSyncTests(unittest.TestCase):
         server.mkdir(parents=True)
         server_world.mkdir(parents=True)
         rme.mkdir(parents=True)
+        rme_crypto.mkdir(parents=True)
+        rme_things.mkdir(parents=True)
         client.mkdir(parents=True)
         mobile.mkdir(parents=True)
         studio_items.mkdir(parents=True)
@@ -70,6 +74,7 @@ class RuntimeSyncTests(unittest.TestCase):
         for name in ("Tibia.dat", "Tibia.spr"):
             (root / "assets" / "860" / name).write_bytes(canonical[name])
             (client / name).write_bytes(previous[name])
+            (rme_crypto / name).write_bytes(previous[name])
         (client / "Tibia.otfi").write_bytes(b"otfi")
         for name in ("Tibia.dat", "Tibia.spr", "Tibia.otfi"):
             (mobile / name).write_bytes(previous[name])
@@ -89,6 +94,7 @@ class RuntimeSyncTests(unittest.TestCase):
             (client.parent / name).write_bytes(previous[name])
             (mobile_things / name).write_bytes(previous[name])
             (studio_things_root / name).write_bytes(previous[name])
+        (rme_things / "items.otml").write_bytes(previous["items.otml"])
         (client.parent / "860.rar").write_bytes(b"old-rar")
         (studio_things_root / "1098.rar").write_bytes(b"old-studio-rar")
         (studio_world / "mapanovo.rar").write_bytes(b"old-map-rar")
@@ -127,12 +133,24 @@ class RuntimeSyncTests(unittest.TestCase):
                 canonical["items.xml"],
             )
             self.assertEqual(
-                (workspace / "RME 5.0/Editor/data/860/items.otb").read_bytes(),
+                (workspace / "RME-NARUTO/data/860/items.otb").read_bytes(),
                 canonical["items.otb"],
             )
             self.assertEqual(
-                (workspace / "RME 5.0/Editor/data/860/items.xml").read_bytes(),
+                (workspace / "RME-NARUTO/data/860/items.xml").read_bytes(),
                 canonical["items.xml"],
+            )
+            self.assertEqual(
+                (workspace / "RME-NARUTO/data/860-crypto/Tibia.dat").read_bytes(),
+                canonical["Tibia.dat"],
+            )
+            self.assertEqual(
+                (workspace / "RME-NARUTO/data/860-crypto/Tibia.spr").read_bytes(),
+                canonical["Tibia.spr"],
+            )
+            self.assertEqual(
+                (workspace / "RME-NARUTO/data/things/items.otml").read_bytes(),
+                canonical["items.otml"],
             )
             self.assertEqual(
                 (workspace / "nwo-otclient-mehah-4.0/data/things/860/Tibia.dat").read_bytes(),
@@ -252,8 +270,20 @@ class RuntimeSyncTests(unittest.TestCase):
                 previous["items.otb"],
             )
             self.assertEqual(
-                (workspace / "RME 5.0/Editor/data/860/items.xml").read_bytes(),
+                (workspace / "RME-NARUTO/data/860/items.xml").read_bytes(),
                 previous["items.xml"],
+            )
+            self.assertEqual(
+                (workspace / "RME-NARUTO/data/860-crypto/Tibia.dat").read_bytes(),
+                previous["Tibia.dat"],
+            )
+            self.assertEqual(
+                (workspace / "RME-NARUTO/data/860-crypto/Tibia.spr").read_bytes(),
+                previous["Tibia.spr"],
+            )
+            self.assertEqual(
+                (workspace / "RME-NARUTO/data/things/items.otml").read_bytes(),
+                previous["items.otml"],
             )
             self.assertEqual(
                 (workspace / "nwo-otclient-mehah-4.0/data/things/860/Tibia.spr").read_bytes(),
