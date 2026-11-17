@@ -14,6 +14,15 @@ from .profiles import detect_profile
 
 
 def _single(root: Path, name: str) -> Path:
+    canonical_paths = {
+        "tibia.otfi": root / "assets" / "860" / "Tibia.otfi",
+        "items.otb": root / "assets" / "items" / "items.otb",
+    }
+    canonical = canonical_paths.get(name.casefold())
+    if (root / "assets").is_dir() and canonical is not None:
+        if not canonical.is_file():
+            raise FormatError(f"arquivo obrigatório ausente: {canonical}")
+        return canonical
     matches = [path for path in root.rglob("*") if path.is_file() and path.name.casefold() == name.casefold()]
     if len(matches) != 1:
         raise FormatError(
