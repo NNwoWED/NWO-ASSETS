@@ -1,0 +1,703 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "profile": {
+    "key": "tibia-860-v2-custom-extended",
+    "client_version": 860,
+    "label": "Tibia 8.60 v2 customizado com features OTFI",
+    "dat_signature": "0x4C2C7993",
+    "spr_signature": "0x4C220594",
+    "metadata_reader": 5,
+    "otb_version_hint": "8.60"
+  },
+  "category": "items",
+  "id_kind": "server",
+  "requested_ids": [
+    27525,
+    27526,
+    27527,
+    27528,
+    27529,
+    27530,
+    27531,
+    27532,
+    27533,
+    27534,
+    27535,
+    27536,
+    27537,
+    27538,
+    27539,
+    27540,
+    27541,
+    27542,
+    27543,
+    27544,
+    27545,
+    27546,
+    27547,
+    27548,
+    27549,
+    27550,
+    27551,
+    27552,
+    27553
+  ],
+  "output_dir": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items",
+  "exported_count": 29,
+  "exported": [
+    {
+      "requested_id": 27525,
+      "client_id": 26640,
+      "server_ids": [
+        27525
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        327327
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-27525_client-26640.png",
+      "size": 243,
+      "sha256": "12AEE092C4F94BD815804F53DC3B647ECC304884F0A8E71EEEB24FDEBCDE4A65"
+    },
+    {
+      "requested_id": 27526,
+      "client_id": 26641,
+      "server_ids": [
+        27526
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        327328
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-27526_client-26641.png",
+      "size": 208,
+      "sha256": "98C9315F49D9BD06216CB8823BAB08074D714E3F9766F67106AA09905064F584"
+    },
+    {
+      "requested_id": 27527,
+      "client_id": 26642,
+      "server_ids": [
+        27527
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        327329
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-27527_client-26642.png",
+      "size": 206,
+      "sha256": "3ABFEFD2C9C4B1013DA45F4C9469D7340B4408E9415CD133F49DC6AF43617251"
+    },
+    {
+      "requested_id": 27528,
+      "client_id": 26643,
+      "server_ids": [
+        27528
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        327330
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-27528_client-26643.png",
+      "size": 226,
+      "sha256": "73E5110B88C5442A1C44283007B355B5D2A55528EE235390F835590EAB95CE6A"
+    },
+    {
+      "requested_id": 27529,
+      "client_id": 26644,
+      "server_ids": [
+        27529
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        327331
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-27529_client-26644.png",
+      "size": 247,
+      "sha256": "1D2150042C834D95DC3247A7A63763F1226D53B3FDF31254E7C8DFD0CF1A8CF5"
+    },
+    {
+      "requested_id": 27530,
+      "client_id": 26645,
+      "server_ids": [
+        27530
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        327332
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-27530_client-26645.png",
+      "size": 176,
+      "sha256": "551C4B6AB35009C17E7AD76727E4455082FB52C799C6CC74EB6947BAE727ECF6"
+    },
+    {
+      "requested_id": 27531,
+      "client_id": 26646,
+      "server_ids": [
+        27531
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        327333
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-27531_client-26646.png",
+      "size": 193,
+      "sha256": "8CE69815BAA8D9BBE1ECDAE0E73F2C16346C563F0E0C2408091798D62DE28390"
+    },
+    {
+      "requested_id": 27532,
+      "client_id": 26647,
+      "server_ids": [
+        27532
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        327334
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-27532_client-26647.png",
+      "size": 189,
+      "sha256": "FFCADE8886EACD8E2E79F0E70F3C3D045A6C356163825E57BF61C589313FD3D0"
+    },
+    {
+      "requested_id": 27533,
+      "client_id": 26648,
+      "server_ids": [
+        27533
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        327335
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-27533_client-26648.png",
+      "size": 167,
+      "sha256": "08BFD78514D6EB2031739AE770E77309DCF036BD9FC4A0C2B1C1CC6074829341"
+    },
+    {
+      "requested_id": 27534,
+      "client_id": 26649,
+      "server_ids": [
+        27534
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        327336
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-27534_client-26649.png",
+      "size": 273,
+      "sha256": "42617B3717106E9F0EC25BF68DA15EF7BF993EA95B5C53B9957A9483A910867B"
+    },
+    {
+      "requested_id": 27535,
+      "client_id": 26650,
+      "server_ids": [
+        27535
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        327337
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-27535_client-26650.png",
+      "size": 286,
+      "sha256": "4AB4C87F3E734E7D9C3C4F2FC09A07367C3572239CAEC096F2D633CD25EB83BA"
+    },
+    {
+      "requested_id": 27536,
+      "client_id": 26651,
+      "server_ids": [
+        27536
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        327338
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-27536_client-26651.png",
+      "size": 303,
+      "sha256": "86F756DFB0611617B9D71FBE4DE969F689BDE9AAC6386AFABB74457A787B7C95"
+    },
+    {
+      "requested_id": 27537,
+      "client_id": 26652,
+      "server_ids": [
+        27537
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        327339
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-27537_client-26652.png",
+      "size": 314,
+      "sha256": "2C06D531024FDBB934832971A6A47B8E93F4A56202A98BB2CE9AC92BEEA112F7"
+    },
+    {
+      "requested_id": 27538,
+      "client_id": 26653,
+      "server_ids": [
+        27538
+      ],
+      "name": "Carpet",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        327340
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-27538_client-26653_carpet.png",
+      "size": 499,
+      "sha256": "4846F0CFCB0E5558D8E4560EF25BAA4DA356A65C94078C24FD76BDE95594A980"
+    },
+    {
+      "requested_id": 27539,
+      "client_id": 26654,
+      "server_ids": [
+        27539
+      ],
+      "name": "Carpet",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        327341
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-27539_client-26654_carpet.png",
+      "size": 548,
+      "sha256": "F9E2824F18996FDD6AE8492C104A3AB68F2B8A76CEBC695ABFEF362AE43FFCC0"
+    },
+    {
+      "requested_id": 27540,
+      "client_id": 26655,
+      "server_ids": [
+        27540
+      ],
+      "name": "Carpet",
+      "group_index": 0,
+      "width": 64,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 2,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        327342,
+        327343
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-27540_client-26655_carpet.png",
+      "size": 452,
+      "sha256": "9B7D4E09506E1F075261D1D804AB212F3D5E6E8812698CC59D0955BE6E9B74BA"
+    },
+    {
+      "requested_id": 27541,
+      "client_id": 26656,
+      "server_ids": [
+        27541
+      ],
+      "name": "Carpet",
+      "group_index": 0,
+      "width": 64,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 2,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        327344,
+        327345
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-27541_client-26656_carpet.png",
+      "size": 506,
+      "sha256": "98549341CADC172DA3A5C34CD96702189E489CD3C698F188FFFA234920068313"
+    },
+    {
+      "requested_id": 27542,
+      "client_id": 26657,
+      "server_ids": [
+        27542
+      ],
+      "name": "Carpet",
+      "group_index": 0,
+      "width": 64,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 2,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        327346,
+        327347
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-27542_client-26657_carpet.png",
+      "size": 442,
+      "sha256": "D392EF6D063C24FE6ABB54CAA7D979145788E53B8C1DFC9E81045FE1A0DE60F5"
+    },
+    {
+      "requested_id": 27543,
+      "client_id": 26658,
+      "server_ids": [
+        27543
+      ],
+      "name": "Carpet",
+      "group_index": 0,
+      "width": 64,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 2,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        327348,
+        327349
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-27543_client-26658_carpet.png",
+      "size": 432,
+      "sha256": "2A9DD9781BB9C27FD8B7EE563E77C0D7809A9943AF32059D0F21DC0ACD18B262"
+    },
+    {
+      "requested_id": 27544,
+      "client_id": 26659,
+      "server_ids": [
+        27544
+      ],
+      "name": "Carpet",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        327350
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-27544_client-26659_carpet.png",
+      "size": 721,
+      "sha256": "9605E135C4CCE69F44F2FF4C6C23B941E810628595C309DC9AB2C35CA7D69FE2"
+    },
+    {
+      "requested_id": 27545,
+      "client_id": 26660,
+      "server_ids": [
+        27545
+      ],
+      "name": "Carpet",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        327351
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-27545_client-26660_carpet.png",
+      "size": 714,
+      "sha256": "E396E604B36BB48A155B14DA4FA3D31AF50C48CF43ACDE3ACDD969CC484327B8"
+    },
+    {
+      "requested_id": 27546,
+      "client_id": 26661,
+      "server_ids": [
+        27546
+      ],
+      "name": "Carpet",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        327352
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-27546_client-26661_carpet.png",
+      "size": 703,
+      "sha256": "D49FCD26CCDD2BEBE947111D5C7CC4F8633745A9D125F7B341C41F8C2BBA860A"
+    },
+    {
+      "requested_id": 27547,
+      "client_id": 26662,
+      "server_ids": [
+        27547
+      ],
+      "name": "Carpet",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        327353
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-27547_client-26662_carpet.png",
+      "size": 697,
+      "sha256": "6E8255EB1590ABBB1BB659018BEBC6D5829FE63B7134BDF8900BEFF12DA718A6"
+    },
+    {
+      "requested_id": 27548,
+      "client_id": 26663,
+      "server_ids": [
+        27548
+      ],
+      "name": "Carpet",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        327354
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-27548_client-26663_carpet.png",
+      "size": 682,
+      "sha256": "AB6E94C9DB1A8766AC5F6AB030DD8E4CCFA12E3E7C7C327AF8D14929B8D4C4B4"
+    },
+    {
+      "requested_id": 27549,
+      "client_id": 26664,
+      "server_ids": [
+        27549
+      ],
+      "name": "Carpet",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        327355
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-27549_client-26664_carpet.png",
+      "size": 740,
+      "sha256": "9BD917004B28841A63E71713B5F9F41D51E2F7563563C71232C5678D8618A455"
+    },
+    {
+      "requested_id": 27550,
+      "client_id": 26665,
+      "server_ids": [
+        27550
+      ],
+      "name": "Carpet",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        327356
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-27550_client-26665_carpet.png",
+      "size": 722,
+      "sha256": "2D3A9343C87B8E62B4218B946739C25E61761BFA9DDF2D8D78AFC80B261D814E"
+    },
+    {
+      "requested_id": 27551,
+      "client_id": 26666,
+      "server_ids": [
+        27551
+      ],
+      "name": "Carpet",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        327357
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-27551_client-26666_carpet.png",
+      "size": 727,
+      "sha256": "2C603F4542F72139367325452835DC050DFDF2CB895F19E240F83F8AD76FE454"
+    },
+    {
+      "requested_id": 27552,
+      "client_id": 26667,
+      "server_ids": [
+        27552
+      ],
+      "name": "Carpet",
+      "group_index": 0,
+      "width": 64,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 2,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        327358,
+        327359
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-27552_client-26667_carpet.png",
+      "size": 555,
+      "sha256": "A390E18AB37C1AD8CAC96ED1BE8A7180AE1CE32E67EA1C8EBC93F4658F6A1061"
+    },
+    {
+      "requested_id": 27553,
+      "client_id": 26668,
+      "server_ids": [
+        27553
+      ],
+      "name": "Carpet",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        327360
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-27553_client-26668_carpet.png",
+      "size": 460,
+      "sha256": "2852C056C5D75D9A6F0363C3F6F7A56A84C8C4107BB9DB9E72E9639F8B60FDE1"
+    }
+  ],
+  "sources": {
+    "dat": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.dat",
+      "sha256": "B59849E995C42969EC7DC33D52A6FD796FAE8D3599F202884E5C9BC81DA5D19D"
+    },
+    "spr": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.spr",
+      "sha256": "5AE36464837BBC766DFEC01FA3EC48006FCC353CBCDEA35B2B65E806A1461F03"
+    }
+  },
+  "passed": true
+}

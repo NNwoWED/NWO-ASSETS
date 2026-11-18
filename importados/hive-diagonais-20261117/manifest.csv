@@ -1,0 +1,13 @@
+sequence,source_server_id,target_server_id,target_client_id,source_path,frame_width,frame_height,frames,frame_duration_ms,animation_async
+1,19902,27513,26628,../sprites/hive_diagonais_parede/server-19902_client-19017.png,64,64,1,,0
+2,19903,27514,26629,../sprites/hive_diagonais_parede/server-19903_client-19018.png,64,64,1,,0
+3,19904,27515,26630,../sprites/hive_diagonais_parede/server-19904_client-19019.png,64,64,1,,0
+4,19905,27516,26631,../sprites/hive_diagonais_parede/server-19905_client-19020.png,64,64,1,,0
+5,19906,27517,26632,../sprites/hive_diagonais_parede/server-19906_client-19021.png,64,64,1,,0
+6,19907,27518,26633,../sprites/hive_diagonais_parede/server-19907_client-19022.png,64,64,1,,0
+7,19902,27519,26634,../sprites/hive_diagonais_parede_mel/server-19902_client-19017.png,64,64,1,,0
+8,19903,27520,26635,../sprites/hive_diagonais_parede_mel/server-19903_client-19018.png,64,64,1,,0
+9,19904,27521,26636,../sprites/hive_diagonais_parede_mel/server-19904_client-19019.png,64,64,1,,0
+10,19905,27522,26637,../sprites/hive_diagonais_parede_mel/server-19905_client-19020.png,64,64,1,,0
+11,19906,27523,26638,../sprites/hive_diagonais_parede_mel/server-19906_client-19021.png,64,64,1,,0
+12,19907,27524,26639,../sprites/hive_diagonais_parede_mel/server-19907_client-19022.png,64,64,1,,0

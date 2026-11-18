@@ -1,0 +1,3831 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "manifest": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\quinas_telhado_Iwagakure\\manifest-quinas-telhado-iwagakure-20261117.csv",
+  "item_count": 120,
+  "target_server_id_range": [
+    27594,
+    27713
+  ],
+  "target_client_id_range": [
+    26709,
+    26828
+  ],
+  "new_sprite_count": 480,
+  "sprite_id_range": [
+    327411,
+    327890
+  ],
+  "items": [
+    {
+      "sequence": 1,
+      "source_server_id": 26925,
+      "source_client_id": 26040,
+      "target_server_id": 27594,
+      "target_client_id": 26709,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\quinas_telhado_Iwagakure\\00_base_padronizada\\10.png",
+      "source_sha256": "1DC65BCD42AE70C1695455B11F236738F93C263E220CE2FCB7A87B4163467EAE",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        327411,
+        327414
+      ],
+      "sprite_hash": "D4B913FC496A54F5C3B7D7CF245FAE41"
+    },
+    {
+      "sequence": 2,
+      "source_server_id": 26926,
+      "source_client_id": 26041,
+      "target_server_id": 27595,
+      "target_client_id": 26710,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\quinas_telhado_Iwagakure\\00_base_padronizada\\11.png",
+      "source_sha256": "F673FEEACAB8B2D94D68FE38840310D4BDECDB06BEEA6A596E6F825DB2CF0A87",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        327415,
+        327418
+      ],
+      "sprite_hash": "4B1EB00D5C77A609D2B95F4407C8D2BA"
+    },
+    {
+      "sequence": 3,
+      "source_server_id": 26927,
+      "source_client_id": 26042,
+      "target_server_id": 27596,
+      "target_client_id": 26711,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\quinas_telhado_Iwagakure\\00_base_padronizada\\12.png",
+      "source_sha256": "44BC28B19CAC9107F5D5B3704D4D330E4BD60534028914DAF63A4922307415E0",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        327419,
+        327422
+      ],
+      "sprite_hash": "5D00B3333BE5C60115D4E80AB5B45764"
+    },
+    {
+      "sequence": 4,
+      "source_server_id": 26928,
+      "source_client_id": 26043,
+      "target_server_id": 27597,
+      "target_client_id": 26712,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\quinas_telhado_Iwagakure\\00_base_padronizada\\13.png",
+      "source_sha256": "A6EBAB18E219CBBD92E0641933D0A31DC50A5213A254A866E1FFE4A973375ECE",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        327423,
+        327426
+      ],
+      "sprite_hash": "B206D07E1802E5017BED379B9F056B2E"
+    },
+    {
+      "sequence": 5,
+      "source_server_id": 26929,
+      "source_client_id": 26044,
+      "target_server_id": 27598,
+      "target_client_id": 26713,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\quinas_telhado_Iwagakure\\00_base_padronizada\\14.png",
+      "source_sha256": "98E451871163500E0F0556418782BA3F527A935DCA5561152AED21EBC372A31F",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        327427,
+        327430
+      ],
+      "sprite_hash": "90D510B0EB376E5CA74518A8541C2915"
+    },
+    {
+      "sequence": 6,
+      "source_server_id": 26930,
+      "source_client_id": 26045,
+      "target_server_id": 27599,
+      "target_client_id": 26714,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\quinas_telhado_Iwagakure\\00_base_padronizada\\15.png",
+      "source_sha256": "570E9695E099343BFEEEAD8ADA3CF0BAF5E9BF824365A3EF54C7B0F951CBF0AF",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        327431,
+        327434
+      ],
+      "sprite_hash": "8E0C82BEDD58300DDD8A02797D419818"
+    },
+    {
+      "sequence": 7,
+      "source_server_id": 26931,
+      "source_client_id": 26046,
+      "target_server_id": 27600,
+      "target_client_id": 26715,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\quinas_telhado_Iwagakure\\00_base_padronizada\\16.png",
+      "source_sha256": "CD4F5ADB4EFFC9EA666858C3DAC45BD57E841A08FEEE6E0F907C50F47BDB6684",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        327435,
+        327438
+      ],
+      "sprite_hash": "D2D351A766C4AB92F6AE167EE269CED7"
+    },
+    {
+      "sequence": 8,
+      "source_server_id": 27046,
+      "source_client_id": 26161,
+      "target_server_id": 27601,
+      "target_client_id": 26716,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\quinas_telhado_Iwagakure\\00_base_padronizada\\17.png",
+      "source_sha256": "130041B4F4FAAD0CC5327FFEB0D9AA4B5F48DDC4E3B0CD041C4D260C3831784E",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        327439,
+        327442
+      ],
+      "sprite_hash": "21FD1CAF891161956CAAD31AAD0EDD63"
+    },
+    {
+      "sequence": 9,
+      "source_server_id": 26932,
+      "source_client_id": 26047,
+      "target_server_id": 27602,
+      "target_client_id": 26717,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\quinas_telhado_Iwagakure\\00_base_padronizada\\piso1.png",
+      "source_sha256": "45DA53E7FCC9DB9F79780856DCE5FAEFC3A2979AEED23BEC15D2B10C5854D940",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        327443,
+        327446
+      ],
+      "sprite_hash": "EC121949F060B5B42AF22CDD145D3266"
+    },
+    {
+      "sequence": 10,
+      "source_server_id": 26933,
+      "source_client_id": 26048,
+      "target_server_id": 27603,
+      "target_client_id": 26718,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\quinas_telhado_Iwagakure\\00_base_padronizada\\piso2.png",
+      "source_sha256": "81EB1D1328642A797F2C783EFB1738DDB1A1795596AC11182CB0820317C05F2E",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        327447,
+        327450
+      ],
+      "sprite_hash": "828D7AD3DBF85EE0EA608FB138A27FD3"
+    },
+    {
+      "sequence": 11,
+      "source_server_id": 26928,
+      "source_client_id": 26043,
+      "target_server_id": 27604,
+      "target_client_id": 26719,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\quinas_telhado_Iwagakure\\00_base_padronizada\\auto-slice-f0001-r0002.png",
+      "source_sha256": "08CDF930CAC4A78B6CDF4BC7A1A9EA13C62D2818308E8EFD7AC593B9C6A2C358",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        327451,
+        327454
+      ],
+      "sprite_hash": "6388916BB9612B591D5AF8C794526C7F"
+    },
+    {
+      "sequence": 12,
+      "source_server_id": 26927,
+      "source_client_id": 26042,
+      "target_server_id": 27605,
+      "target_client_id": 26720,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\quinas_telhado_Iwagakure\\00_base_padronizada\\auto-slice-f0001-r0012.png",
+      "source_sha256": "3AA17938436738B09AD017F7006FF867A87F3C43EE9DE45F2CCA0922264B320E",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        327455,
+        327458
+      ],
+      "sprite_hash": "1904D029D4E41D8CB832F068030929BE"
+    },
+    {
+      "sequence": 13,
+      "source_server_id": 26925,
+      "source_client_id": 26040,
+      "target_server_id": 27606,
+      "target_client_id": 26721,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\quinas_telhado_Iwagakure\\00_base_padronizada\\auto-slice-f0001-r0014.png",
+      "source_sha256": "A01EAE42DA869C7FF873A42F83ADE3F1436EE550BD93CA72D3DC9CC3A5DF379D",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        327459,
+        327462
+      ],
+      "sprite_hash": "D6E621453373C341806BC48AA60993BA"
+    },
+    {
+      "sequence": 14,
+      "source_server_id": 26925,
+      "source_client_id": 26040,
+      "target_server_id": 27607,
+      "target_client_id": 26722,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\quinas_telhado_Iwagakure\\00_base_padronizada\\sprite_savana.png",
+      "source_sha256": "3018ABDB4DF8D1BA181A58B26D645BA1098A655165C45B70D55EDEC6322C7CD1",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        327463,
+        327466
+      ],
+      "sprite_hash": "366A3F770AB00E6A5568129652EECF5F"
+    },
+    {
+      "sequence": 15,
+      "source_server_id": 26925,
+      "source_client_id": 26040,
+      "target_server_id": 27608,
+      "target_client_id": 26723,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\quinas_telhado_Iwagakure\\01_arenito_dourado\\10.png",
+      "source_sha256": "1DA58CA3890704DE2860C765666792FCC8FD1C677AFA438363E4F31DE3BB22B6",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        327467,
+        327470
+      ],
+      "sprite_hash": "1CBDF16E86D755F591D8203D0DCA8F3D"
+    },
+    {
+      "sequence": 16,
+      "source_server_id": 26926,
+      "source_client_id": 26041,
+      "target_server_id": 27609,
+      "target_client_id": 26724,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\quinas_telhado_Iwagakure\\01_arenito_dourado\\11.png",
+      "source_sha256": "81B400D608720DC05462A8F66A465DBFFDFBC849358C1DAE4A713EB6AAA84508",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        327471,
+        327474
+      ],
+      "sprite_hash": "DFC74E38D1609C8E846D7A89379F122D"
+    },
+    {
+      "sequence": 17,
+      "source_server_id": 26927,
+      "source_client_id": 26042,
+      "target_server_id": 27610,
+      "target_client_id": 26725,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\quinas_telhado_Iwagakure\\01_arenito_dourado\\12.png",
+      "source_sha256": "F39B105C37D4CAC33139F3D31A05B07874F0FB965CEA455A8E30A940D5EB154C",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        327475,
+        327478
+      ],
+      "sprite_hash": "912DE7F2CEDDAC2AF08AABB9B4FD703C"
+    },
+    {
+      "sequence": 18,
+      "source_server_id": 26928,
+      "source_client_id": 26043,
+      "target_server_id": 27611,
+      "target_client_id": 26726,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\quinas_telhado_Iwagakure\\01_arenito_dourado\\13.png",
+      "source_sha256": "99A9142DBE315DC4DE02AF9DEEEC650325CEFC115CE48E645BD93D2CEB2AE827",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        327479,
+        327482
+      ],
+      "sprite_hash": "5D898B9F5B46F89F8596B47E04F0EAEE"
+    },
+    {
+      "sequence": 19,
+      "source_server_id": 26929,
+      "source_client_id": 26044,
+      "target_server_id": 27612,
+      "target_client_id": 26727,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\quinas_telhado_Iwagakure\\01_arenito_dourado\\14.png",
+      "source_sha256": "7B526A19DFE8AC1C7C97620058488DF1C838A15CDAA551498384E5BCE4F8C178",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        327483,
+        327486
+      ],
+      "sprite_hash": "255EFBAAA7ABBE21A4260B021454DDEA"
+    },
+    {
+      "sequence": 20,
+      "source_server_id": 26930,
+      "source_client_id": 26045,
+      "target_server_id": 27613,
+      "target_client_id": 26728,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\quinas_telhado_Iwagakure\\01_arenito_dourado\\15.png",
+      "source_sha256": "28501588F334A217F92696F9700D542CCCA9CE34263B9F0B7C2CE0D502874B80",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        327487,
+        327490
+      ],
+      "sprite_hash": "0498BBA197D4E33C617640F36A0EDF1D"
+    },
+    {
+      "sequence": 21,
+      "source_server_id": 26931,
+      "source_client_id": 26046,
+      "target_server_id": 27614,
+      "target_client_id": 26729,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\quinas_telhado_Iwagakure\\01_arenito_dourado\\16.png",
+      "source_sha256": "C61971E0980CC527A66388D0E353B1509AB56DA93772AD3BB51748AD7F27F1B2",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        327491,
+        327494
+      ],
+      "sprite_hash": "3893AA4D5EA5E9F963300934BD1BC5AF"
+    },
+    {
+      "sequence": 22,
+      "source_server_id": 27046,
+      "source_client_id": 26161,
+      "target_server_id": 27615,
+      "target_client_id": 26730,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\quinas_telhado_Iwagakure\\01_arenito_dourado\\17.png",
+      "source_sha256": "F9243888CC98E48295FD0752977C88E3509C63BD56739F6C0A53402821C56CC9",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        327495,
+        327498
+      ],
+      "sprite_hash": "99C6D36B57C3A848FFAACD166EF63FF4"
+    },
+    {
+      "sequence": 23,
+      "source_server_id": 26932,
+      "source_client_id": 26047,
+      "target_server_id": 27616,
+      "target_client_id": 26731,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\quinas_telhado_Iwagakure\\01_arenito_dourado\\piso1.png",
+      "source_sha256": "E99B2089E222775142CE76C47F088F87D161EF6D024CAE1EBE16215F38AED239",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        327499,
+        327502
+      ],
+      "sprite_hash": "491DD88B2AE20754D836B602A0D794DE"
+    },
+    {
+      "sequence": 24,
+      "source_server_id": 26933,
+      "source_client_id": 26048,
+      "target_server_id": 27617,
+      "target_client_id": 26732,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\quinas_telhado_Iwagakure\\01_arenito_dourado\\piso2.png",
+      "source_sha256": "1062407EFC895C37FF062E3EADB83E4C5BD03D45C2A8AFC73DB24800DC1A533B",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        327503,
+        327506
+      ],
+      "sprite_hash": "8C5AA67885249DE2D1F506E79A337996"
+    },
+    {
+      "sequence": 25,
+      "source_server_id": 26928,
+      "source_client_id": 26043,
+      "target_server_id": 27618,
+      "target_client_id": 26733,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\quinas_telhado_Iwagakure\\01_arenito_dourado\\auto-slice-f0001-r0002.png",
+      "source_sha256": "D6D4FD58E24CCBA1EE2A3C2F53FC37EFC2195BD752A8E1DE4331F1DB6C47E911",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        327507,
+        327510
+      ],
+      "sprite_hash": "463AFF05DBEECFC522708C3C522949E0"
+    },
+    {
+      "sequence": 26,
+      "source_server_id": 26927,
+      "source_client_id": 26042,
+      "target_server_id": 27619,
+      "target_client_id": 26734,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\quinas_telhado_Iwagakure\\01_arenito_dourado\\auto-slice-f0001-r0012.png",
+      "source_sha256": "B4722D818FA7D80BFCA9631B566033B60DCADA934537736DFF936F7691CE7340",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        327511,
+        327514
+      ],
+      "sprite_hash": "FEE185FD2602EAAA1B70A3D4F5201A9D"
+    },
+    {
+      "sequence": 27,
+      "source_server_id": 26925,
+      "source_client_id": 26040,
+      "target_server_id": 27620,
+      "target_client_id": 26735,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\quinas_telhado_Iwagakure\\01_arenito_dourado\\auto-slice-f0001-r0014.png",
+      "source_sha256": "7072C720D66D2315541302E50BFE5A95773AD202011F665B17E116D0E51676FB",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        327515,
+        327518
+      ],
+      "sprite_hash": "A8ACE51F0493D5F617359F756A52A62B"
+    },
+    {
+      "sequence": 28,
+      "source_server_id": 26925,
+      "source_client_id": 26040,
+      "target_server_id": 27621,
+      "target_client_id": 26736,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\quinas_telhado_Iwagakure\\01_arenito_dourado\\sprite_savana.png",
+      "source_sha256": "F90F039EA9EBA0E8842EB353CA27EE62BD35FF8ED37629A0ED72FD30D132ED1B",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        327519,
+        327522
+      ],
+      "sprite_hash": "E20E7C1300311C62D326CA9571A5A85B"
+    },
+    {
+      "sequence": 29,
+      "source_server_id": 26928,
+      "source_client_id": 26043,
+      "target_server_id": 27622,
+      "target_client_id": 26737,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\quinas_telhado_Iwagakure\\01_arenito_dourado\\pedra_01.png",
+      "source_sha256": "40A2422E82D3C3A1E11E8FD6FF3F895AB8F88D01DD7F0EB9BFF97DC3AFA4408A",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        327523,
+        327526
+      ],
+      "sprite_hash": "4B3F5B5A31F11298B49C4EB6CF234A0D"
+    },
+    {
+      "sequence": 30,
+      "source_server_id": 26927,
+      "source_client_id": 26042,
+      "target_server_id": 27623,
+      "target_client_id": 26738,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\quinas_telhado_Iwagakure\\01_arenito_dourado\\pedra_02.png",
+      "source_sha256": "2D92A1DE8CF7B963BAE169E82389D1854454044CF09D0B620B2D6FF7E118B193",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        327527,
+        327530
+      ],
+      "sprite_hash": "33DF529A27BFC86C6EAD747CADDF8B9C"
+    },
+    {
+      "sequence": 31,
+      "source_server_id": 26925,
+      "source_client_id": 26040,
+      "target_server_id": 27624,
+      "target_client_id": 26739,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\quinas_telhado_Iwagakure\\01_arenito_dourado\\pedra_03.png",
+      "source_sha256": "7D4459E554E69CCCB3A787C91F507745062F7DF7ED587C280331C720AD45E912",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        327531,
+        327534
+      ],
+      "sprite_hash": "A619F398E98E26B2AF56D798AE7660A8"
+    },
+    {
+      "sequence": 32,
+      "source_server_id": 26925,
+      "source_client_id": 26040,
+      "target_server_id": 27625,
+      "target_client_id": 26740,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\quinas_telhado_Iwagakure\\02_areia_palha\\10.png",
+      "source_sha256": "1CC0339A85F7F2A320FD4BC6FBDB548530B7541B079693F6F6E8EDF2FB4DC49A",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        327535,
+        327538
+      ],
+      "sprite_hash": "FA2F8931D6BA6B4A3BFFC9BB6EDC23F0"
+    },
+    {
+      "sequence": 33,
+      "source_server_id": 26926,
+      "source_client_id": 26041,
+      "target_server_id": 27626,
+      "target_client_id": 26741,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\quinas_telhado_Iwagakure\\02_areia_palha\\11.png",
+      "source_sha256": "0C81FC86F20F2739D5FF369E3BCAF4DE5F5AB8536CD85B74EB1A6CA7CAD58AEB",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        327539,
+        327542
+      ],
+      "sprite_hash": "D9387D0486683898EB75F5C018787A85"
+    },
+    {
+      "sequence": 34,
+      "source_server_id": 26927,
+      "source_client_id": 26042,
+      "target_server_id": 27627,
+      "target_client_id": 26742,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\quinas_telhado_Iwagakure\\02_areia_palha\\12.png",
+      "source_sha256": "C6C531FA7549ADA0C086F4C0DBC691CCB52C556EA3ED088591258666586D8F7D",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        327543,
+        327546
+      ],
+      "sprite_hash": "D79310536E6EA2877822DE85E8320D4B"
+    },
+    {
+      "sequence": 35,
+      "source_server_id": 26928,
+      "source_client_id": 26043,
+      "target_server_id": 27628,
+      "target_client_id": 26743,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\quinas_telhado_Iwagakure\\02_areia_palha\\13.png",
+      "source_sha256": "C7B8057814EA2A6A766FDD58A938A4119FBF8EE8FD3A02655BCF82FBFE86E267",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        327547,
+        327550
+      ],
+      "sprite_hash": "99225D0C05B3719939350BE7E86E67B7"
+    },
+    {
+      "sequence": 36,
+      "source_server_id": 26929,
+      "source_client_id": 26044,
+      "target_server_id": 27629,
+      "target_client_id": 26744,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\quinas_telhado_Iwagakure\\02_areia_palha\\14.png",
+      "source_sha256": "2458537D0D59AC4013D3421BB2F6728393ECD6B2CA113B3C166C659AC2EDAE04",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        327551,
+        327554
+      ],
+      "sprite_hash": "94801A24D5375042785167EB50D5B4E4"
+    },
+    {
+      "sequence": 37,
+      "source_server_id": 26930,
+      "source_client_id": 26045,
+      "target_server_id": 27630,
+      "target_client_id": 26745,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\quinas_telhado_Iwagakure\\02_areia_palha\\15.png",
+      "source_sha256": "21DF1A978852057BAA89F71F881E0B5DCAE1F77E5E030E16CC2475294305DD40",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        327555,
+        327558
+      ],
+      "sprite_hash": "D46E4B0E89A9752EA96A14ECB06F4CEA"
+    },
+    {
+      "sequence": 38,
+      "source_server_id": 26931,
+      "source_client_id": 26046,
+      "target_server_id": 27631,
+      "target_client_id": 26746,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\quinas_telhado_Iwagakure\\02_areia_palha\\16.png",
+      "source_sha256": "301E58FF242E37CD03D92C092102AE56D34DE8FB3A02DB32B0FCE55F4B2E63CD",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        327559,
+        327562
+      ],
+      "sprite_hash": "40626A347E734EC7F80C84A538A604CD"
+    },
+    {
+      "sequence": 39,
+      "source_server_id": 27046,
+      "source_client_id": 26161,
+      "target_server_id": 27632,
+      "target_client_id": 26747,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\quinas_telhado_Iwagakure\\02_areia_palha\\17.png",
+      "source_sha256": "0D3EFAB9495499246243025B1A0CFA292905AE4459520B12C804A694C239AEF6",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        327563,
+        327566
+      ],
+      "sprite_hash": "AB91FB07B7BCF70617E94BA7AF9565E3"
+    },
+    {
+      "sequence": 40,
+      "source_server_id": 26932,
+      "source_client_id": 26047,
+      "target_server_id": 27633,
+      "target_client_id": 26748,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\quinas_telhado_Iwagakure\\02_areia_palha\\piso1.png",
+      "source_sha256": "17AA40CCB8F3FBF69E94376B6CE543B3CF6CE4471A0D9F9FF1024D62E3AF48F1",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        327567,
+        327570
+      ],
+      "sprite_hash": "03AEB43AD3E1416DE7F2884B16FF621E"
+    },
+    {
+      "sequence": 41,
+      "source_server_id": 26933,
+      "source_client_id": 26048,
+      "target_server_id": 27634,
+      "target_client_id": 26749,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\quinas_telhado_Iwagakure\\02_areia_palha\\piso2.png",
+      "source_sha256": "E9FBE28A01AFEAD63BE266D5BB009875D266DE51CA616ABF797BAA7410ED2EC6",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        327571,
+        327574
+      ],
+      "sprite_hash": "59929BB0EA05F1ADB84B1B1B6AC4081E"
+    },
+    {
+      "sequence": 42,
+      "source_server_id": 26928,
+      "source_client_id": 26043,
+      "target_server_id": 27635,
+      "target_client_id": 26750,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\quinas_telhado_Iwagakure\\02_areia_palha\\auto-slice-f0001-r0002.png",
+      "source_sha256": "E684FD786CF4FED766743D6908F1C9C8864FC41E99BEFA91ECFFC5BB85075232",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        327575,
+        327578
+      ],
+      "sprite_hash": "555B75E6A8377AE0105E5A4FBC969798"
+    },
+    {
+      "sequence": 43,
+      "source_server_id": 26927,
+      "source_client_id": 26042,
+      "target_server_id": 27636,
+      "target_client_id": 26751,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\quinas_telhado_Iwagakure\\02_areia_palha\\auto-slice-f0001-r0012.png",
+      "source_sha256": "C4772D77244BE05BD5EF2371C3D5AAC7A8DACEE2A93FA2078D3B0BA904E54D2B",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        327579,
+        327582
+      ],
+      "sprite_hash": "C9E916B013D5C88B8C00221D291C8461"
+    },
+    {
+      "sequence": 44,
+      "source_server_id": 26925,
+      "source_client_id": 26040,
+      "target_server_id": 27637,
+      "target_client_id": 26752,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\quinas_telhado_Iwagakure\\02_areia_palha\\auto-slice-f0001-r0014.png",
+      "source_sha256": "1D8E019AA53555A73C7C789173048C2A1CE9AE3236E271DFB66B62BC7509FC28",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        327583,
+        327586
+      ],
+      "sprite_hash": "428FB22F2DB27961C63ED1C23342D9E0"
+    },
+    {
+      "sequence": 45,
+      "source_server_id": 26925,
+      "source_client_id": 26040,
+      "target_server_id": 27638,
+      "target_client_id": 26753,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\quinas_telhado_Iwagakure\\02_areia_palha\\sprite_savana.png",
+      "source_sha256": "9BBD42F3747A524A6C3ED79375A3C37A68F515284AF10AADC9FE2DD9FEF32002",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        327587,
+        327590
+      ],
+      "sprite_hash": "663C284E5DC849613E2EEF03AE9F9628"
+    },
+    {
+      "sequence": 46,
+      "source_server_id": 26928,
+      "source_client_id": 26043,
+      "target_server_id": 27639,
+      "target_client_id": 26754,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\quinas_telhado_Iwagakure\\02_areia_palha\\pedra_01.png",
+      "source_sha256": "98047F2EF75D239CCF4D1569D65070EB092B8D6FF0ED996959705FB125D847A7",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        327591,
+        327594
+      ],
+      "sprite_hash": "83817D206B09CC4E3A49A17377CCF880"
+    },
+    {
+      "sequence": 47,
+      "source_server_id": 26927,
+      "source_client_id": 26042,
+      "target_server_id": 27640,
+      "target_client_id": 26755,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\quinas_telhado_Iwagakure\\02_areia_palha\\pedra_02.png",
+      "source_sha256": "0EE58CE4FD7E3D5E573A7AB45E50D9DBE59AB8CAED06F7F9E23C4179E2A3E47D",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        327595,
+        327598
+      ],
+      "sprite_hash": "5B284A4014E3A7832F4F99976FE90A3B"
+    },
+    {
+      "sequence": 48,
+      "source_server_id": 26925,
+      "source_client_id": 26040,
+      "target_server_id": 27641,
+      "target_client_id": 26756,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\quinas_telhado_Iwagakure\\02_areia_palha\\pedra_03.png",
+      "source_sha256": "9AEB9CCA73455CA45F86826FCF041F3C924E6398377E14125B79CE93968AC427",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        327599,
+        327602
+      ],
+      "sprite_hash": "D94FC0BCDB1C0F45A615AA0526A1A71C"
+    },
+    {
+      "sequence": 49,
+      "source_server_id": 26925,
+      "source_client_id": 26040,
+      "target_server_id": 27642,
+      "target_client_id": 26757,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\quinas_telhado_Iwagakure\\03_ocre_queimado\\10.png",
+      "source_sha256": "278E437C50A758CC662D92CCB46C949293940B02A29331205BD4A02EFA5C986E",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        327603,
+        327606
+      ],
+      "sprite_hash": "D52E2B571BBAD723CACC99CEBE19B8B6"
+    },
+    {
+      "sequence": 50,
+      "source_server_id": 26926,
+      "source_client_id": 26041,
+      "target_server_id": 27643,
+      "target_client_id": 26758,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\quinas_telhado_Iwagakure\\03_ocre_queimado\\11.png",
+      "source_sha256": "6116FD6A5722904A4489FBF95640D7E32BC1AF219BA0CA59245DEBF133F2F3C2",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        327607,
+        327610
+      ],
+      "sprite_hash": "0902281A50227116AAE5CDA12E9332D6"
+    },
+    {
+      "sequence": 51,
+      "source_server_id": 26927,
+      "source_client_id": 26042,
+      "target_server_id": 27644,
+      "target_client_id": 26759,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\quinas_telhado_Iwagakure\\03_ocre_queimado\\12.png",
+      "source_sha256": "D8610E2F2BC6AC08EADE239ED7CF7FFCC9C32C36F605CF32EFB03E58BB0738BD",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        327611,
+        327614
+      ],
+      "sprite_hash": "E3AC0A1193A003050913A4F69848A1D0"
+    },
+    {
+      "sequence": 52,
+      "source_server_id": 26928,
+      "source_client_id": 26043,
+      "target_server_id": 27645,
+      "target_client_id": 26760,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\quinas_telhado_Iwagakure\\03_ocre_queimado\\13.png",
+      "source_sha256": "60BC39E8EBA024402159CC8D1CD325B253D4AAB808821CDA462B7E603D5EA017",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        327615,
+        327618
+      ],
+      "sprite_hash": "1F14B59687427861FFE6C973D8950554"
+    },
+    {
+      "sequence": 53,
+      "source_server_id": 26929,
+      "source_client_id": 26044,
+      "target_server_id": 27646,
+      "target_client_id": 26761,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\quinas_telhado_Iwagakure\\03_ocre_queimado\\14.png",
+      "source_sha256": "38833E603FFE19443ED682973D593E2E3D9240144C658CE5E0CAECF000A81D3B",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        327619,
+        327622
+      ],
+      "sprite_hash": "431E60650FACFF424DCDD315512570EB"
+    },
+    {
+      "sequence": 54,
+      "source_server_id": 26930,
+      "source_client_id": 26045,
+      "target_server_id": 27647,
+      "target_client_id": 26762,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\quinas_telhado_Iwagakure\\03_ocre_queimado\\15.png",
+      "source_sha256": "3D6CDFEE24C59AA5D0CBE90D57FDA161D40EC41D1F86E334120758B77852B89B",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        327623,
+        327626
+      ],
+      "sprite_hash": "351406F1B599E690E22118554FE49076"
+    },
+    {
+      "sequence": 55,
+      "source_server_id": 26931,
+      "source_client_id": 26046,
+      "target_server_id": 27648,
+      "target_client_id": 26763,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\quinas_telhado_Iwagakure\\03_ocre_queimado\\16.png",
+      "source_sha256": "1CF107E02B5947CD2F74217AF697B8B4FF8AF341B7194AD2D9C1E31AEAADC2A2",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        327627,
+        327630
+      ],
+      "sprite_hash": "63242BBAEFB19280D926A96C5FCD35B2"
+    },
+    {
+      "sequence": 56,
+      "source_server_id": 27046,
+      "source_client_id": 26161,
+      "target_server_id": 27649,
+      "target_client_id": 26764,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\quinas_telhado_Iwagakure\\03_ocre_queimado\\17.png",
+      "source_sha256": "6287CDC3A3263D65F65479A1B18E68F19640FB2021B5529B4CD4272D23CC4FBC",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        327631,
+        327634
+      ],
+      "sprite_hash": "AEF14B2AF7D2685749668DEFC465F2BC"
+    },
+    {
+      "sequence": 57,
+      "source_server_id": 26932,
+      "source_client_id": 26047,
+      "target_server_id": 27650,
+      "target_client_id": 26765,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\quinas_telhado_Iwagakure\\03_ocre_queimado\\piso1.png",
+      "source_sha256": "F8DFFD9E897E958F3FBC41F4EA116B876FA22576BDBF51CA0D281293B92E7C27",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        327635,
+        327638
+      ],
+      "sprite_hash": "A0A4B69DB776323D7D3D667ABD6F5BDF"
+    },
+    {
+      "sequence": 58,
+      "source_server_id": 26933,
+      "source_client_id": 26048,
+      "target_server_id": 27651,
+      "target_client_id": 26766,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\quinas_telhado_Iwagakure\\03_ocre_queimado\\piso2.png",
+      "source_sha256": "0B8BDE991C8745B8F1941BA8F57030A2003BB3FBE4F8A48F68C404DF1B060027",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        327639,
+        327642
+      ],
+      "sprite_hash": "E8D5E652C06DC9D1D5EAA8DA712E2A7D"
+    },
+    {
+      "sequence": 59,
+      "source_server_id": 26928,
+      "source_client_id": 26043,
+      "target_server_id": 27652,
+      "target_client_id": 26767,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\quinas_telhado_Iwagakure\\03_ocre_queimado\\auto-slice-f0001-r0002.png",
+      "source_sha256": "1A7D5113D469EEF5B47E82C5CD97D8F70B9213AA1A8E9B535FEC8BDD7C54751B",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        327643,
+        327646
+      ],
+      "sprite_hash": "70CAEC394B0C411D9C70955D6362687F"
+    },
+    {
+      "sequence": 60,
+      "source_server_id": 26927,
+      "source_client_id": 26042,
+      "target_server_id": 27653,
+      "target_client_id": 26768,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\quinas_telhado_Iwagakure\\03_ocre_queimado\\auto-slice-f0001-r0012.png",
+      "source_sha256": "3869C73DEC26788CE69C560150B6D42E30D705A346569403233A3E56969FE56A",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        327647,
+        327650
+      ],
+      "sprite_hash": "46378D63873B09C8459E18C1113A3FE5"
+    },
+    {
+      "sequence": 61,
+      "source_server_id": 26925,
+      "source_client_id": 26040,
+      "target_server_id": 27654,
+      "target_client_id": 26769,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\quinas_telhado_Iwagakure\\03_ocre_queimado\\auto-slice-f0001-r0014.png",
+      "source_sha256": "ABF51CCC48B21D151A9405D90056D9323B88848BF30261318228B4D1FE4DB21D",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        327651,
+        327654
+      ],
+      "sprite_hash": "9DD79B3F8002902F5DD3603A0FFAD163"
+    },
+    {
+      "sequence": 62,
+      "source_server_id": 26925,
+      "source_client_id": 26040,
+      "target_server_id": 27655,
+      "target_client_id": 26770,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\quinas_telhado_Iwagakure\\03_ocre_queimado\\sprite_savana.png",
+      "source_sha256": "D57F536B59790FD7A5FFE3AAA05D95A13536DF77C8509B380199424107F5C4AB",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        327655,
+        327658
+      ],
+      "sprite_hash": "C914DABAB8916AD132850EF09939FDDB"
+    },
+    {
+      "sequence": 63,
+      "source_server_id": 26928,
+      "source_client_id": 26043,
+      "target_server_id": 27656,
+      "target_client_id": 26771,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\quinas_telhado_Iwagakure\\03_ocre_queimado\\pedra_01.png",
+      "source_sha256": "6D7F1659A29BA03AECFD2613FFADB1F3F1C266083762BBC5ACBD76B364F66173",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        327659,
+        327662
+      ],
+      "sprite_hash": "5F958BE84463472FC94C2B10FB775FAD"
+    },
+    {
+      "sequence": 64,
+      "source_server_id": 26927,
+      "source_client_id": 26042,
+      "target_server_id": 27657,
+      "target_client_id": 26772,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\quinas_telhado_Iwagakure\\03_ocre_queimado\\pedra_02.png",
+      "source_sha256": "DA7AD752A4443A8094CA1239B3B767F1E3E4DF3C099A0FC8B7D5C977BF2AD9C8",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        327663,
+        327666
+      ],
+      "sprite_hash": "7D6376D58A7F0DDDFA0089B71B403614"
+    },
+    {
+      "sequence": 65,
+      "source_server_id": 26925,
+      "source_client_id": 26040,
+      "target_server_id": 27658,
+      "target_client_id": 26773,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\quinas_telhado_Iwagakure\\03_ocre_queimado\\pedra_03.png",
+      "source_sha256": "CDB5247A27D1FF281D0BE01123CDE80DBC7733443C9EE3386C7037E40F0D7C40",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        327667,
+        327670
+      ],
+      "sprite_hash": "6AEE9FFDED301D57677000400DE3BD9A"
+    },
+    {
+      "sequence": 66,
+      "source_server_id": 26925,
+      "source_client_id": 26040,
+      "target_server_id": 27659,
+      "target_client_id": 26774,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\quinas_telhado_Iwagakure\\04_terracota\\10.png",
+      "source_sha256": "E8DEA8478EC0C5AEC50DA90077CE7D8E9C9FB6E9B14149EAD5E4FA927F9D4257",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        327671,
+        327674
+      ],
+      "sprite_hash": "3D190465B2E95DB05261E5947AEEA7B6"
+    },
+    {
+      "sequence": 67,
+      "source_server_id": 26926,
+      "source_client_id": 26041,
+      "target_server_id": 27660,
+      "target_client_id": 26775,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\quinas_telhado_Iwagakure\\04_terracota\\11.png",
+      "source_sha256": "7A6F4CD1A3C533564FF73376830F7FAC4D109E9C9D17D290C6562D18E0C66554",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        327675,
+        327678
+      ],
+      "sprite_hash": "97642018D8183DAC38EFC710A43BB3A0"
+    },
+    {
+      "sequence": 68,
+      "source_server_id": 26927,
+      "source_client_id": 26042,
+      "target_server_id": 27661,
+      "target_client_id": 26776,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\quinas_telhado_Iwagakure\\04_terracota\\12.png",
+      "source_sha256": "ACFFD1B108A3C103319D9D52AE0028FD28942E810DFF35932DC536769124B988",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        327679,
+        327682
+      ],
+      "sprite_hash": "300365668C17F4F836576A8A8269DC89"
+    },
+    {
+      "sequence": 69,
+      "source_server_id": 26928,
+      "source_client_id": 26043,
+      "target_server_id": 27662,
+      "target_client_id": 26777,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\quinas_telhado_Iwagakure\\04_terracota\\13.png",
+      "source_sha256": "3E7CA86B476967ED23427993E24B19D7020045E1AACA6EE6DC83E1F4DB614E29",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        327683,
+        327686
+      ],
+      "sprite_hash": "14F125F453EB8A09C9BA6E2E9044CE1D"
+    },
+    {
+      "sequence": 70,
+      "source_server_id": 26929,
+      "source_client_id": 26044,
+      "target_server_id": 27663,
+      "target_client_id": 26778,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\quinas_telhado_Iwagakure\\04_terracota\\14.png",
+      "source_sha256": "7D4F6FCC0630EA97C7A92D5382244B05E31271AB00D38187B19EABA862E6654F",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        327687,
+        327690
+      ],
+      "sprite_hash": "1E400A7AD1AF1246C4A4F0CD482AE238"
+    },
+    {
+      "sequence": 71,
+      "source_server_id": 26930,
+      "source_client_id": 26045,
+      "target_server_id": 27664,
+      "target_client_id": 26779,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\quinas_telhado_Iwagakure\\04_terracota\\15.png",
+      "source_sha256": "D3FA4EBE83E98A01641661039EA558C0636673305056BB5D00C82498733E2D27",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        327691,
+        327694
+      ],
+      "sprite_hash": "4EC107709A72510E7A7196BFC95B0F25"
+    },
+    {
+      "sequence": 72,
+      "source_server_id": 26931,
+      "source_client_id": 26046,
+      "target_server_id": 27665,
+      "target_client_id": 26780,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\quinas_telhado_Iwagakure\\04_terracota\\16.png",
+      "source_sha256": "60BFB0F177ACBEC578BC152CDB6ED64A138FC60AEB2F063D013A338CC034E8D0",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        327695,
+        327698
+      ],
+      "sprite_hash": "F0A12DF63AD9E272CB4B5759886E8CD6"
+    },
+    {
+      "sequence": 73,
+      "source_server_id": 27046,
+      "source_client_id": 26161,
+      "target_server_id": 27666,
+      "target_client_id": 26781,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\quinas_telhado_Iwagakure\\04_terracota\\17.png",
+      "source_sha256": "1A136EE3AE1AB6F6DB77FF3D0A771BB621858FCEEBE0EC9DF363A6A59EB56F7C",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        327699,
+        327702
+      ],
+      "sprite_hash": "3CB8F2F9A0EE0B6AD7E7D7E7FAD708E8"
+    },
+    {
+      "sequence": 74,
+      "source_server_id": 26932,
+      "source_client_id": 26047,
+      "target_server_id": 27667,
+      "target_client_id": 26782,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\quinas_telhado_Iwagakure\\04_terracota\\piso1.png",
+      "source_sha256": "FB06A9CFECA4A8C87A415EBE5311CA9F9AC74524EA180B7F15A92C79213474DA",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        327703,
+        327706
+      ],
+      "sprite_hash": "C266B41F61E968956A03C32CA813460C"
+    },
+    {
+      "sequence": 75,
+      "source_server_id": 26933,
+      "source_client_id": 26048,
+      "target_server_id": 27668,
+      "target_client_id": 26783,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\quinas_telhado_Iwagakure\\04_terracota\\piso2.png",
+      "source_sha256": "FE5B19891DCC84A640CCEEFB60A6E2FB5FCD7EF79DAAEF3B7819EFB0075ADDDC",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        327707,
+        327710
+      ],
+      "sprite_hash": "0F37AFBFD29D27F4B48D822C959BA66E"
+    },
+    {
+      "sequence": 76,
+      "source_server_id": 26928,
+      "source_client_id": 26043,
+      "target_server_id": 27669,
+      "target_client_id": 26784,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\quinas_telhado_Iwagakure\\04_terracota\\auto-slice-f0001-r0002.png",
+      "source_sha256": "A375698ADC0F277F20036254B0BA608124ACFF0204209AF24DA47077D64A5D24",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        327711,
+        327714
+      ],
+      "sprite_hash": "0A1179B927F199E41E1DF76DA2E54781"
+    },
+    {
+      "sequence": 77,
+      "source_server_id": 26927,
+      "source_client_id": 26042,
+      "target_server_id": 27670,
+      "target_client_id": 26785,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\quinas_telhado_Iwagakure\\04_terracota\\auto-slice-f0001-r0012.png",
+      "source_sha256": "B4FDDF83A6359E86992322C0993929712F41A149DD59804CA324BAB02F14D649",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        327715,
+        327718
+      ],
+      "sprite_hash": "87D7283D19B9279084C9BCD0337A833D"
+    },
+    {
+      "sequence": 78,
+      "source_server_id": 26925,
+      "source_client_id": 26040,
+      "target_server_id": 27671,
+      "target_client_id": 26786,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\quinas_telhado_Iwagakure\\04_terracota\\auto-slice-f0001-r0014.png",
+      "source_sha256": "5A60C92FA0F5B0C32C58C3CCD0D99020C4AEC866C8BC6B17902E61126EC133DA",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        327719,
+        327722
+      ],
+      "sprite_hash": "28343FE678716C3C8121B24EA329D29E"
+    },
+    {
+      "sequence": 79,
+      "source_server_id": 26925,
+      "source_client_id": 26040,
+      "target_server_id": 27672,
+      "target_client_id": 26787,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\quinas_telhado_Iwagakure\\04_terracota\\sprite_savana.png",
+      "source_sha256": "899BE1C300C295CA8A6DDD54946228ADB756EF48E64B48D4070BD61B0A3236CC",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        327723,
+        327726
+      ],
+      "sprite_hash": "B2CB7D4110180F16866C6677C36FDDAD"
+    },
+    {
+      "sequence": 80,
+      "source_server_id": 26928,
+      "source_client_id": 26043,
+      "target_server_id": 27673,
+      "target_client_id": 26788,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\quinas_telhado_Iwagakure\\04_terracota\\pedra_01.png",
+      "source_sha256": "DA7D005D1A1CD698E0315EE7C8DF385E01E3D0418CB0C27F3004148AD6A19409",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        327727,
+        327730
+      ],
+      "sprite_hash": "86479522048BAAB343C87FFCC9FE3DB2"
+    },
+    {
+      "sequence": 81,
+      "source_server_id": 26927,
+      "source_client_id": 26042,
+      "target_server_id": 27674,
+      "target_client_id": 26789,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\quinas_telhado_Iwagakure\\04_terracota\\pedra_02.png",
+      "source_sha256": "FA1935B849501F68AF981F51CCDEE01DBFE6BEA54218C6A9EB7D452B5F885971",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        327731,
+        327734
+      ],
+      "sprite_hash": "FE4D9B3771AD71A0A2396DE1E98C7381"
+    },
+    {
+      "sequence": 82,
+      "source_server_id": 26925,
+      "source_client_id": 26040,
+      "target_server_id": 27675,
+      "target_client_id": 26790,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\quinas_telhado_Iwagakure\\04_terracota\\pedra_03.png",
+      "source_sha256": "44F057FC339CF1F7A15F978000021052C5797473DAC1B4A073B825E00C6521F6",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        327735,
+        327738
+      ],
+      "sprite_hash": "5600221A2D65AE23AA3B4D7E7857E6EE"
+    },
+    {
+      "sequence": 83,
+      "source_server_id": 26925,
+      "source_client_id": 26040,
+      "target_server_id": 27676,
+      "target_client_id": 26791,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\quinas_telhado_Iwagakure\\05_oliva_seco\\10.png",
+      "source_sha256": "A3A1F18BAD7AE0F39309B578C3A51C554EB0F23EE428DFC5910F81E059A79FDA",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        327739,
+        327742
+      ],
+      "sprite_hash": "D5F60855731176E791D249164C273C83"
+    },
+    {
+      "sequence": 84,
+      "source_server_id": 26926,
+      "source_client_id": 26041,
+      "target_server_id": 27677,
+      "target_client_id": 26792,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\quinas_telhado_Iwagakure\\05_oliva_seco\\11.png",
+      "source_sha256": "B0574A737170C15808F3CEEB624A84D2A612D4C3A6A4FB1765B633046673A78B",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        327743,
+        327746
+      ],
+      "sprite_hash": "E80BB5C0BF100B91A9E78B6C89A6EBA0"
+    },
+    {
+      "sequence": 85,
+      "source_server_id": 26927,
+      "source_client_id": 26042,
+      "target_server_id": 27678,
+      "target_client_id": 26793,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\quinas_telhado_Iwagakure\\05_oliva_seco\\12.png",
+      "source_sha256": "16D7BAB44B178A3AF1B4AD1B7012604452BE8115522F5EFFA47E94351571D176",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        327747,
+        327750
+      ],
+      "sprite_hash": "79D59383D9B3AFCA25D3B359E9FB5FDF"
+    },
+    {
+      "sequence": 86,
+      "source_server_id": 26928,
+      "source_client_id": 26043,
+      "target_server_id": 27679,
+      "target_client_id": 26794,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\quinas_telhado_Iwagakure\\05_oliva_seco\\13.png",
+      "source_sha256": "2A61B3BE4552B0884B1969B150AAABE32B810581A91FDAF303F9455F39209821",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        327751,
+        327754
+      ],
+      "sprite_hash": "AF80897B51A9684AADAC633D55F44900"
+    },
+    {
+      "sequence": 87,
+      "source_server_id": 26929,
+      "source_client_id": 26044,
+      "target_server_id": 27680,
+      "target_client_id": 26795,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\quinas_telhado_Iwagakure\\05_oliva_seco\\14.png",
+      "source_sha256": "27C0501BE34D1B2EDCF5F9118C00C308D08437CD69F4CD39678683B95301E983",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        327755,
+        327758
+      ],
+      "sprite_hash": "385C41C36CE919EC58399229A7DE252F"
+    },
+    {
+      "sequence": 88,
+      "source_server_id": 26930,
+      "source_client_id": 26045,
+      "target_server_id": 27681,
+      "target_client_id": 26796,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\quinas_telhado_Iwagakure\\05_oliva_seco\\15.png",
+      "source_sha256": "2566FCC17FBF4E719FC2DDD84404DA0D3D9DADE2DE9C1C48994F62369AF224F8",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        327759,
+        327762
+      ],
+      "sprite_hash": "EE56B0847C260104D8D5033A6A937A36"
+    },
+    {
+      "sequence": 89,
+      "source_server_id": 26931,
+      "source_client_id": 26046,
+      "target_server_id": 27682,
+      "target_client_id": 26797,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\quinas_telhado_Iwagakure\\05_oliva_seco\\16.png",
+      "source_sha256": "AFE81B3F84836736844EA457DE72AE978B8904B08AEE7F127EE9DCC07ADB27CE",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        327763,
+        327766
+      ],
+      "sprite_hash": "E83EC0F7E604754AE09362D82BA3FAED"
+    },
+    {
+      "sequence": 90,
+      "source_server_id": 27046,
+      "source_client_id": 26161,
+      "target_server_id": 27683,
+      "target_client_id": 26798,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\quinas_telhado_Iwagakure\\05_oliva_seco\\17.png",
+      "source_sha256": "167482496785F5195BCCE22810712571C92E9E091774E0013C0784A5BB93FE9B",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        327767,
+        327770
+      ],
+      "sprite_hash": "9B803DEECE2A5DCDC324C62A7D66D798"
+    },
+    {
+      "sequence": 91,
+      "source_server_id": 26932,
+      "source_client_id": 26047,
+      "target_server_id": 27684,
+      "target_client_id": 26799,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\quinas_telhado_Iwagakure\\05_oliva_seco\\piso1.png",
+      "source_sha256": "F59CB2640C1AE2139133A8746CE75AB9C78EF7EEF3BBAE712662694975D1F3F9",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        327771,
+        327774
+      ],
+      "sprite_hash": "3135648DCD41103092C45E50FF507103"
+    },
+    {
+      "sequence": 92,
+      "source_server_id": 26933,
+      "source_client_id": 26048,
+      "target_server_id": 27685,
+      "target_client_id": 26800,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\quinas_telhado_Iwagakure\\05_oliva_seco\\piso2.png",
+      "source_sha256": "AC49FB937FF83F8D125B67F39A43B8893B9723AF2D266BC6DFA2086E83E5B392",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        327775,
+        327778
+      ],
+      "sprite_hash": "0925EB29C234E90CF272F12A63F890E3"
+    },
+    {
+      "sequence": 93,
+      "source_server_id": 26928,
+      "source_client_id": 26043,
+      "target_server_id": 27686,
+      "target_client_id": 26801,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\quinas_telhado_Iwagakure\\05_oliva_seco\\auto-slice-f0001-r0002.png",
+      "source_sha256": "9421C1D7D7620027F5C469D243FE5816768A3F3416813EC199A0D83C2BACDF5F",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        327779,
+        327782
+      ],
+      "sprite_hash": "33A6D80E83934F4D6690BA029EA3B3CF"
+    },
+    {
+      "sequence": 94,
+      "source_server_id": 26927,
+      "source_client_id": 26042,
+      "target_server_id": 27687,
+      "target_client_id": 26802,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\quinas_telhado_Iwagakure\\05_oliva_seco\\auto-slice-f0001-r0012.png",
+      "source_sha256": "423057CB869E0024FF37B85C6C9EDBEAA948DA50845E267EE34C0EE887F0780F",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        327783,
+        327786
+      ],
+      "sprite_hash": "0C565896A48BD28CA9384031D35D4E28"
+    },
+    {
+      "sequence": 95,
+      "source_server_id": 26925,
+      "source_client_id": 26040,
+      "target_server_id": 27688,
+      "target_client_id": 26803,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\quinas_telhado_Iwagakure\\05_oliva_seco\\auto-slice-f0001-r0014.png",
+      "source_sha256": "B7462DC9ACCB697C9F036C958C3481E957758185650ED2D00E9FF80FBC222AAD",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        327787,
+        327790
+      ],
+      "sprite_hash": "614875D36E8FA9A4E49EEAD7D4BAC8E1"
+    },
+    {
+      "sequence": 96,
+      "source_server_id": 26925,
+      "source_client_id": 26040,
+      "target_server_id": 27689,
+      "target_client_id": 26804,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\quinas_telhado_Iwagakure\\05_oliva_seco\\sprite_savana.png",
+      "source_sha256": "2C8092AB8FE4EAF13CDF955610EB3100124EBA907C900118057C669A2723876A",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        327791,
+        327794
+      ],
+      "sprite_hash": "90634ECE2CEBC0BCC42F28148DE21E44"
+    },
+    {
+      "sequence": 97,
+      "source_server_id": 26928,
+      "source_client_id": 26043,
+      "target_server_id": 27690,
+      "target_client_id": 26805,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\quinas_telhado_Iwagakure\\05_oliva_seco\\pedra_01.png",
+      "source_sha256": "EFD79EE01B22492B66E5053FD9E44397BC2A5F3270C87FD08F34EF47918860AC",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        327795,
+        327798
+      ],
+      "sprite_hash": "D658DECF8E9FEEDB2BF370F063CD0CC1"
+    },
+    {
+      "sequence": 98,
+      "source_server_id": 26927,
+      "source_client_id": 26042,
+      "target_server_id": 27691,
+      "target_client_id": 26806,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\quinas_telhado_Iwagakure\\05_oliva_seco\\pedra_02.png",
+      "source_sha256": "9A5E8D38E831AF0F36FE3977617440B2D0CAD42FF918E33C171FB60B6EC6B708",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        327799,
+        327802
+      ],
+      "sprite_hash": "1A5BAAECF61CBCEC5D35D36A9D3997C6"
+    },
+    {
+      "sequence": 99,
+      "source_server_id": 26925,
+      "source_client_id": 26040,
+      "target_server_id": 27692,
+      "target_client_id": 26807,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\quinas_telhado_Iwagakure\\05_oliva_seco\\pedra_03.png",
+      "source_sha256": "47EB7E0BDB3E43C971200234DDF16E0BB47381E8A8D9846026D6E8C195A90580",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        327803,
+        327806
+      ],
+      "sprite_hash": "462934C8C50B82A30DC4ECB5C64DBF04"
+    },
+    {
+      "sequence": 100,
+      "source_server_id": 26925,
+      "source_client_id": 26040,
+      "target_server_id": 27693,
+      "target_client_id": 26808,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\quinas_telhado_Iwagakure\\06_cinza_quente\\10.png",
+      "source_sha256": "ED7F4A619E860456EDA62F6F35DF2452305DBBF2BA30D0339DF609F7E173AA51",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        327807,
+        327810
+      ],
+      "sprite_hash": "5D74F2A228D8CF112DE37CDC9C5F2620"
+    },
+    {
+      "sequence": 101,
+      "source_server_id": 26926,
+      "source_client_id": 26041,
+      "target_server_id": 27694,
+      "target_client_id": 26809,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\quinas_telhado_Iwagakure\\06_cinza_quente\\11.png",
+      "source_sha256": "5CE5D592DC5BD7E0BF5981D6845EDF27952181308482E3B6E557F911F335DA0D",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        327811,
+        327814
+      ],
+      "sprite_hash": "60A13FC61A69C86F5CB475170FA97F4E"
+    },
+    {
+      "sequence": 102,
+      "source_server_id": 26927,
+      "source_client_id": 26042,
+      "target_server_id": 27695,
+      "target_client_id": 26810,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\quinas_telhado_Iwagakure\\06_cinza_quente\\12.png",
+      "source_sha256": "CF60ED77F6E185F874A2A3E1A5620B017B29DE9E07190BE7EA8A5F7857D94C7A",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        327815,
+        327818
+      ],
+      "sprite_hash": "8AE6BC0180ACA2498F8D0BD8E2C39151"
+    },
+    {
+      "sequence": 103,
+      "source_server_id": 26928,
+      "source_client_id": 26043,
+      "target_server_id": 27696,
+      "target_client_id": 26811,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\quinas_telhado_Iwagakure\\06_cinza_quente\\13.png",
+      "source_sha256": "95C5B4E56FFBBD1944D9EE6340377CB240D58295BEFC9D6DE49F47A18017DC97",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        327819,
+        327822
+      ],
+      "sprite_hash": "C4E01AE6B5A04ED43649F95A60CC236C"
+    },
+    {
+      "sequence": 104,
+      "source_server_id": 26929,
+      "source_client_id": 26044,
+      "target_server_id": 27697,
+      "target_client_id": 26812,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\quinas_telhado_Iwagakure\\06_cinza_quente\\14.png",
+      "source_sha256": "307EF7F461D81CEA6554B017E327DC9834C4BF3D22FF4A43FC31574A0ED6EDB0",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        327823,
+        327826
+      ],
+      "sprite_hash": "607A85359ED41D52097845E69006917F"
+    },
+    {
+      "sequence": 105,
+      "source_server_id": 26930,
+      "source_client_id": 26045,
+      "target_server_id": 27698,
+      "target_client_id": 26813,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\quinas_telhado_Iwagakure\\06_cinza_quente\\15.png",
+      "source_sha256": "78716206DE85F943260E4A8857B9772277E0FDE66873E484E3B157C534C05A2E",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        327827,
+        327830
+      ],
+      "sprite_hash": "E331B2ED18C7D8D31484A9A2EA704C4A"
+    },
+    {
+      "sequence": 106,
+      "source_server_id": 26931,
+      "source_client_id": 26046,
+      "target_server_id": 27699,
+      "target_client_id": 26814,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\quinas_telhado_Iwagakure\\06_cinza_quente\\16.png",
+      "source_sha256": "6E8780E6F27876ACA64C58C590EE8134C8D76B16F5E691B3341097F05D396A9F",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        327831,
+        327834
+      ],
+      "sprite_hash": "5F0D3D28FAD6ACEDF84CCB3B6D2460B7"
+    },
+    {
+      "sequence": 107,
+      "source_server_id": 27046,
+      "source_client_id": 26161,
+      "target_server_id": 27700,
+      "target_client_id": 26815,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\quinas_telhado_Iwagakure\\06_cinza_quente\\17.png",
+      "source_sha256": "70CD5DEE4A71B120E998985C98ADA109C9BE0EB21893D6B41E409EEAFB0F499F",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        327835,
+        327838
+      ],
+      "sprite_hash": "B3D92B01AFF6AD00FB03719BED3ECCDC"
+    },
+    {
+      "sequence": 108,
+      "source_server_id": 26932,
+      "source_client_id": 26047,
+      "target_server_id": 27701,
+      "target_client_id": 26816,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\quinas_telhado_Iwagakure\\06_cinza_quente\\piso1.png",
+      "source_sha256": "254F1DD2F10FEABE87D961589B1F1436715EEBB58E19C6E9257F2E5A537BC4A7",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        327839,
+        327842
+      ],
+      "sprite_hash": "67BD677578E02150D88B4176F3D9CDB6"
+    },
+    {
+      "sequence": 109,
+      "source_server_id": 26933,
+      "source_client_id": 26048,
+      "target_server_id": 27702,
+      "target_client_id": 26817,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\quinas_telhado_Iwagakure\\06_cinza_quente\\piso2.png",
+      "source_sha256": "5901735C322A87148622CDFEAF2F40FCC96AA6DE34E247E7770C36DAC552FDA1",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        327843,
+        327846
+      ],
+      "sprite_hash": "28D83B745A745626A60135ECED130B81"
+    },
+    {
+      "sequence": 110,
+      "source_server_id": 26928,
+      "source_client_id": 26043,
+      "target_server_id": 27703,
+      "target_client_id": 26818,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\quinas_telhado_Iwagakure\\06_cinza_quente\\auto-slice-f0001-r0002.png",
+      "source_sha256": "61E89EEACF8B8C8A78F9D5423ECAAEE4A318A2296447F320F0721B00AE011E42",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        327847,
+        327850
+      ],
+      "sprite_hash": "2A9B29E9066F68762A33D3084D62605C"
+    },
+    {
+      "sequence": 111,
+      "source_server_id": 26927,
+      "source_client_id": 26042,
+      "target_server_id": 27704,
+      "target_client_id": 26819,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\quinas_telhado_Iwagakure\\06_cinza_quente\\auto-slice-f0001-r0012.png",
+      "source_sha256": "AAFDAEFC94CCF13D6C32D9BF43C69CB3C9EC8D531A24785CCF7ADA6002733153",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        327851,
+        327854
+      ],
+      "sprite_hash": "D995FDF25CED6B94FAB3A0B2B379E4CE"
+    },
+    {
+      "sequence": 112,
+      "source_server_id": 26925,
+      "source_client_id": 26040,
+      "target_server_id": 27705,
+      "target_client_id": 26820,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\quinas_telhado_Iwagakure\\06_cinza_quente\\auto-slice-f0001-r0014.png",
+      "source_sha256": "79C46518FD9DB461AA537A0D50FEF0EA561F7E2DBE52B9938DED408A656C3290",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        327855,
+        327858
+      ],
+      "sprite_hash": "133B5BA17C36059FF58983491AECCBA3"
+    },
+    {
+      "sequence": 113,
+      "source_server_id": 26925,
+      "source_client_id": 26040,
+      "target_server_id": 27706,
+      "target_client_id": 26821,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\quinas_telhado_Iwagakure\\06_cinza_quente\\sprite_savana.png",
+      "source_sha256": "15C6364FAA4EA9B3D0DDF20D8B7EE840EE8053F4AFFE95A8F8669764B23C9540",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        327859,
+        327862
+      ],
+      "sprite_hash": "E20A75E88B5C4817788056319C2ADC3E"
+    },
+    {
+      "sequence": 114,
+      "source_server_id": 26928,
+      "source_client_id": 26043,
+      "target_server_id": 27707,
+      "target_client_id": 26822,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\quinas_telhado_Iwagakure\\06_cinza_quente\\pedra_01.png",
+      "source_sha256": "58F5C2F90B0EE63660788FA0E9DD76E81F5DCA6F4AA5B6AE235A81D3327640DC",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        327863,
+        327866
+      ],
+      "sprite_hash": "AB6A5E0A5EF00DC2802D5CCAC315A35C"
+    },
+    {
+      "sequence": 115,
+      "source_server_id": 26927,
+      "source_client_id": 26042,
+      "target_server_id": 27708,
+      "target_client_id": 26823,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\quinas_telhado_Iwagakure\\06_cinza_quente\\pedra_02.png",
+      "source_sha256": "64C14F35AFB1834C4441BB517F573C7CEAB3BE0CFEEFC3016F50FF7E2A85C1B0",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        327867,
+        327870
+      ],
+      "sprite_hash": "168C3A2098A36063B33E0314515BF0DF"
+    },
+    {
+      "sequence": 116,
+      "source_server_id": 26925,
+      "source_client_id": 26040,
+      "target_server_id": 27709,
+      "target_client_id": 26824,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\quinas_telhado_Iwagakure\\06_cinza_quente\\pedra_03.png",
+      "source_sha256": "63E8DFB2A44EBC4CCA8C28634A01D8E4F52CC22BBB75263C3C657B02A5C8B55B",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        327871,
+        327874
+      ],
+      "sprite_hash": "1E7D72253574907A7CC0F581454CBE86"
+    },
+    {
+      "sequence": 117,
+      "source_server_id": 26928,
+      "source_client_id": 26043,
+      "target_server_id": 27710,
+      "target_client_id": 26825,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\quinas_telhado_Iwagakure\\savana_14_originais_para_recolor\\auto-slice-f0001-r0002.png",
+      "source_sha256": "F2781AAAFF8D35F7D2E7CB3DD796DAF12FFB632A902441BE810285393BBCA705",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        327875,
+        327878
+      ],
+      "sprite_hash": "8F0271803F1A3EB97B1E6E265E17DFA0"
+    },
+    {
+      "sequence": 118,
+      "source_server_id": 26927,
+      "source_client_id": 26042,
+      "target_server_id": 27711,
+      "target_client_id": 26826,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\quinas_telhado_Iwagakure\\savana_14_originais_para_recolor\\auto-slice-f0001-r0012.png",
+      "source_sha256": "6887D7EBDA293D8256B1A77D96CEA2272CFA991BBC64BBEA1977C1560C183D26",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        327879,
+        327882
+      ],
+      "sprite_hash": "ED3E6B6C97CAB51CC48D418A6B74F1F5"
+    },
+    {
+      "sequence": 119,
+      "source_server_id": 26925,
+      "source_client_id": 26040,
+      "target_server_id": 27712,
+      "target_client_id": 26827,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\quinas_telhado_Iwagakure\\savana_14_originais_para_recolor\\auto-slice-f0001-r0014.png",
+      "source_sha256": "87BDC8E67A0495369B50AE3F6774C78F1A639996AAA87E888A550B175F731047",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        327883,
+        327886
+      ],
+      "sprite_hash": "3E68A2DCC9F5C70F2976372631E019AB"
+    },
+    {
+      "sequence": 120,
+      "source_server_id": 26925,
+      "source_client_id": 26040,
+      "target_server_id": 27713,
+      "target_client_id": 26828,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\quinas_telhado_Iwagakure\\savana_14_originais_para_recolor\\sprite_savana.png",
+      "source_sha256": "547B17B7F017AEB2D58EEBE25E4AACC466E027938E871F229E52903C5A62DF6C",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        327887,
+        327890
+      ],
+      "sprite_hash": "648D54AB52D19EDB276A88189A2EB66B"
+    }
+  ],
+  "xml": {
+    "source_definitions": 10,
+    "target_definitions_written": 120,
+    "target_definitions_already_exact": 0,
+    "target_ids": [
+      27594,
+      27595,
+      27596,
+      27597,
+      27598,
+      27599,
+      27600,
+      27601,
+      27602,
+      27603,
+      27604,
+      27605,
+      27606,
+      27607,
+      27608,
+      27609,
+      27610,
+      27611,
+      27612,
+      27613,
+      27614,
+      27615,
+      27616,
+      27617,
+      27618,
+      27619,
+      27620,
+      27621,
+      27622,
+      27623,
+      27624,
+      27625,
+      27626,
+      27627,
+      27628,
+      27629,
+      27630,
+      27631,
+      27632,
+      27633,
+      27634,
+      27635,
+      27636,
+      27637,
+      27638,
+      27639,
+      27640,
+      27641,
+      27642,
+      27643,
+      27644,
+      27645,
+      27646,
+      27647,
+      27648,
+      27649,
+      27650,
+      27651,
+      27652,
+      27653,
+      27654,
+      27655,
+      27656,
+      27657,
+      27658,
+      27659,
+      27660,
+      27661,
+      27662,
+      27663,
+      27664,
+      27665,
+      27666,
+      27667,
+      27668,
+      27669,
+      27670,
+      27671,
+      27672,
+      27673,
+      27674,
+      27675,
+      27676,
+      27677,
+      27678,
+      27679,
+      27680,
+      27681,
+      27682,
+      27683,
+      27684,
+      27685,
+      27686,
+      27687,
+      27688,
+      27689,
+      27690,
+      27691,
+      27692,
+      27693,
+      27694,
+      27695,
+      27696,
+      27697,
+      27698,
+      27699,
+      27700,
+      27701,
+      27702,
+      27703,
+      27704,
+      27705,
+      27706,
+      27707,
+      27708,
+      27709,
+      27710,
+      27711,
+      27712,
+      27713
+    ]
+  },
+  "map_scan": {
+    "tiles_scanned": 8440196,
+    "item_nodes_scanned": 2294887
+  },
+  "version_backup": {
+    "tool_version": "0.8.2",
+    "version_id": "20261117-224047-133520",
+    "created_at": "2026-11-17T22:41:06.471622-03:00",
+    "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261117-224047-133520",
+    "rar_executable": "C:\\Program Files\\WinRAR\\Rar.exe",
+    "sources": [
+      {
+        "path": "assets/860/.gitattributes",
+        "size": 43,
+        "sha256": "D5636A3257287440945C5E017581545E5B0A3E2FDDDAE7C5EF8D90FF4DF3D32A"
+      },
+      {
+        "path": "assets/860/Tibia.dat",
+        "size": 4872940,
+        "sha256": "0EB6BDB10D4E46A3BF30668B3AA9477BF21B2B7397B335F284AEC09AD63FD537"
+      },
+      {
+        "path": "assets/860/Tibia.glb",
+        "size": 2315332,
+        "sha256": "F295ECEFBF702042FA22B8C59699255C7ED4EA6EFF0A0573CD8CBB0EBE3E26CC"
+      },
+      {
+        "path": "assets/860/Tibia.otfi",
+        "size": 185,
+        "sha256": "7743548835944BC799CB871A4E5DEF84F7AF76815031871B9CE74B5EC0E8ADD3"
+      },
+      {
+        "path": "assets/860/Tibia.spr",
+        "size": 552571882,
+        "sha256": "59A054CFE1924D272A2F5B2C4609DEFA62BD9A4899F999A27F14BD14C340FCB9"
+      },
+      {
+        "path": "assets/items/force use.txt",
+        "size": 419,
+        "sha256": "BCB478FDF3F45ECA8D172AFD7A17D3F8CD520924EE0894752452B8FDC8F71959"
+      },
+      {
+        "path": "assets/items/items.otb",
+        "size": 1096873,
+        "sha256": "C12C9AF517CB0D277C0F563DF05C465F6014874A6AAE4BA4EB9627A462AF0106"
+      },
+      {
+        "path": "assets/world/mapanovo.otbm",
+        "size": 86622750,
+        "sha256": "ABB09C367200FE91408756E2ED7C135382F231F538849BC3B601D10207CE2D8C"
+      }
+    ],
+    "archives": {
+      "860": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261117-224047-133520\\860.rar",
+        "size": 95043213,
+        "sha256": "3EB3589EDF34226085DFA01CFFEEAE9086F627E4EA2AF86AAEBC35D053205687"
+      },
+      "items": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261117-224047-133520\\items.rar",
+        "size": 526170,
+        "sha256": "7D9E32E2360C7E8E5237E86701931F5A6548BA05E1A0ED4011BC61BC2DEB6F98"
+      },
+      "world": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261117-224047-133520\\world.zip",
+        "size": 20867072,
+        "sha256": "D41CA6809A0FF4BE6CC5F9206B3ACFBF902E33DBDDFADD150B3D56E5C0353D9E"
+      }
+    },
+    "items_xml_excluded": true,
+    "world_entries": [
+      "mapanovo.otbm"
+    ],
+    "passed": true
+  },
+  "transaction_committed": true,
+  "old_dat_records_preserved": true,
+  "old_otb_nodes_preserved": true,
+  "old_sprite_payload_preserved": true,
+  "new_sprite_pixels_verified": true,
+  "final_validation_passed": true,
+  "warnings": [],
+  "errors": [],
+  "passed": true
+}

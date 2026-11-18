@@ -1,0 +1,291 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "profile": {
+    "key": "tibia-860-v2-custom-extended",
+    "client_version": 860,
+    "label": "Tibia 8.60 v2 customizado com features OTFI",
+    "dat_signature": "0x4C2C7993",
+    "spr_signature": "0x4C220594",
+    "metadata_reader": 5,
+    "otb_version_hint": "8.60"
+  },
+  "category": "items",
+  "id_kind": "server",
+  "requested_ids": [
+    26925,
+    26926,
+    26927,
+    26928,
+    26929,
+    26930,
+    26931,
+    26932,
+    26933,
+    27046
+  ],
+  "output_dir": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items",
+  "exported_count": 10,
+  "exported": [
+    {
+      "requested_id": 26925,
+      "client_id": 26040,
+      "server_ids": [
+        26925
+      ],
+      "name": "Roof",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        293146,
+        293147,
+        293148,
+        293149
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-26925_client-26040_roof.png",
+      "size": 1030,
+      "sha256": "062D1E7BBC41C4483E45B8EC8FDC845B7621C179E91F0B219911626B35827C81"
+    },
+    {
+      "requested_id": 26926,
+      "client_id": 26041,
+      "server_ids": [
+        26926
+      ],
+      "name": "Roof",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        293150,
+        293151,
+        293152,
+        293153
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-26926_client-26041_roof.png",
+      "size": 959,
+      "sha256": "2385DFC8632B0E5FE3C1518782393C32925BFFD3F9C6F160B0A4F2F8567B6F6B"
+    },
+    {
+      "requested_id": 26927,
+      "client_id": 26042,
+      "server_ids": [
+        26927
+      ],
+      "name": "Roof",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        293154,
+        293155,
+        293156,
+        293157
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-26927_client-26042_roof.png",
+      "size": 985,
+      "sha256": "6D05FF17E0FAFC3263FCF75BE0C8BE01A4AC65E1EAE1BB3C9D1D9B9BC14499B2"
+    },
+    {
+      "requested_id": 26928,
+      "client_id": 26043,
+      "server_ids": [
+        26928
+      ],
+      "name": "Roof",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        293158,
+        293159,
+        293160,
+        293161
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-26928_client-26043_roof.png",
+      "size": 927,
+      "sha256": "3AAA7FC92C252610A1F154C413D76E8D73A693CD2A6F05CE95F104FAB1E45FFD"
+    },
+    {
+      "requested_id": 26929,
+      "client_id": 26044,
+      "server_ids": [
+        26929
+      ],
+      "name": "Roof",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        293162,
+        293163,
+        293164,
+        293165
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-26929_client-26044_roof.png",
+      "size": 958,
+      "sha256": "D365AB01E9D697F9AC2532CCC7782F331DD89A7BA23101797755D51212ADB38C"
+    },
+    {
+      "requested_id": 26930,
+      "client_id": 26045,
+      "server_ids": [
+        26930
+      ],
+      "name": "Roof",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        293166,
+        293167,
+        293168,
+        293169
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-26930_client-26045_roof.png",
+      "size": 776,
+      "sha256": "A1D2A611C273075E99730A0414031BC4563774D8D572AF274D7C6CE2813CDD34"
+    },
+    {
+      "requested_id": 26931,
+      "client_id": 26046,
+      "server_ids": [
+        26931
+      ],
+      "name": "Roof",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        293170,
+        293171,
+        293172,
+        293173
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-26931_client-26046_roof.png",
+      "size": 925,
+      "sha256": "D80CD533D3CCA3A23DE580F972650BE3F6E7CB7CA7D3DFF20B6C960842B539E9"
+    },
+    {
+      "requested_id": 26932,
+      "client_id": 26047,
+      "server_ids": [
+        26932
+      ],
+      "name": "Roof",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        293174,
+        293175,
+        293176,
+        293177
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-26932_client-26047_roof.png",
+      "size": 629,
+      "sha256": "4B4D2B6BCCB4F3AA3DE2F2AEEA96CF361ABAD9A3824034965B9C981515941B64"
+    },
+    {
+      "requested_id": 26933,
+      "client_id": 26048,
+      "server_ids": [
+        26933
+      ],
+      "name": "Roof",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        293178,
+        293179,
+        293180,
+        293181
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-26933_client-26048_roof.png",
+      "size": 605,
+      "sha256": "E7DEEE7707C66530D9247E24A0A9C3BC3083B076A0791893A68E904B540759EF"
+    },
+    {
+      "requested_id": 27046,
+      "client_id": 26161,
+      "server_ids": [
+        27046
+      ],
+      "name": "Roof",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        301442,
+        301443,
+        301444,
+        301445
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\items\\server-27046_client-26161_roof.png",
+      "size": 939,
+      "sha256": "57AE21419D17CD11A5662F69CAEC35895E2560159E3AEA488C498B000CFECA21"
+    }
+  ],
+  "sources": {
+    "dat": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.dat",
+      "sha256": "0EB6BDB10D4E46A3BF30668B3AA9477BF21B2B7397B335F284AEC09AD63FD537"
+    },
+    "spr": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.spr",
+      "sha256": "59A054CFE1924D272A2F5B2C4609DEFA62BD9A4899F999A27F14BD14C340FCB9"
+    }
+  },
+  "passed": true
+}

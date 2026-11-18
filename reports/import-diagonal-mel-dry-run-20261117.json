@@ -1,0 +1,1025 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "manifest": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\manifests\\import-diagonal-mel-20261117.csv",
+  "item_count": 32,
+  "target_server_id_range": [
+    27554,
+    27585
+  ],
+  "target_client_id_range": [
+    26669,
+    26700
+  ],
+  "new_sprite_count": 42,
+  "sprite_id_range": [
+    327361,
+    327402
+  ],
+  "items": [
+    {
+      "sequence": 1,
+      "source_server_id": 27320,
+      "source_client_id": 26435,
+      "target_server_id": 27554,
+      "target_client_id": 26669,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\Diagonal mel com degrade\\server-27320_client-26435_carpet.png",
+      "source_sha256": "97E87B9D8588475EF6F7A9392A8F5E2EEB4E89A5A9506591323DB07AE2C4C4B7",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        327361,
+        327361
+      ],
+      "sprite_hash": "A5E7C02E75DF61A7F2F38B6154F09853"
+    },
+    {
+      "sequence": 2,
+      "source_server_id": 27321,
+      "source_client_id": 26436,
+      "target_server_id": 27555,
+      "target_client_id": 26670,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\Diagonal mel com degrade\\server-27321_client-26436_carpet.png",
+      "source_sha256": "2639AF0CF8A31BB281BEB6CA6BF472E9D9F53032A21FDD5506032D2EF0157169",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        327362,
+        327362
+      ],
+      "sprite_hash": "470500E27AF73B685E80C74BC475DE3A"
+    },
+    {
+      "sequence": 3,
+      "source_server_id": 27322,
+      "source_client_id": 26437,
+      "target_server_id": 27556,
+      "target_client_id": 26671,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\Diagonal mel com degrade\\server-27322_client-26437_carpet.png",
+      "source_sha256": "10D62352E78CF61C6CA4C0E2628B7F26FEA91C52551F8A82582B990181A2A630",
+      "image_size": [
+        64,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 2,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 2,
+      "sprite_id_range": [
+        327363,
+        327364
+      ],
+      "sprite_hash": "96C1807939FA6DC02FB6C76B15AB1A1B"
+    },
+    {
+      "sequence": 4,
+      "source_server_id": 27323,
+      "source_client_id": 26438,
+      "target_server_id": 27557,
+      "target_client_id": 26672,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\Diagonal mel com degrade\\server-27323_client-26438_carpet.png",
+      "source_sha256": "470E6D493B2A590AF54795422C2BC87DDB2A242DAD47540FF58C3284592522F3",
+      "image_size": [
+        64,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 2,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 2,
+      "sprite_id_range": [
+        327365,
+        327366
+      ],
+      "sprite_hash": "BFCB7EC5598A151AD409BB0373D27439"
+    },
+    {
+      "sequence": 5,
+      "source_server_id": 27324,
+      "source_client_id": 26439,
+      "target_server_id": 27558,
+      "target_client_id": 26673,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\Diagonal mel com degrade\\server-27324_client-26439_carpet.png",
+      "source_sha256": "8180022491CBB273BE8E51CDB9285862C9CACBE43FC77A5B7547CFC2EE978EAD",
+      "image_size": [
+        64,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 2,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 2,
+      "sprite_id_range": [
+        327367,
+        327368
+      ],
+      "sprite_hash": "F99C028DEE50BB664D819ACE09A7E62A"
+    },
+    {
+      "sequence": 6,
+      "source_server_id": 27325,
+      "source_client_id": 26440,
+      "target_server_id": 27559,
+      "target_client_id": 26674,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\Diagonal mel com degrade\\server-27325_client-26440_carpet.png",
+      "source_sha256": "60CF17338CF1800E9BA4979D3183930737B928061EDE1C0480F9E98A225097B8",
+      "image_size": [
+        64,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 2,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 2,
+      "sprite_id_range": [
+        327369,
+        327370
+      ],
+      "sprite_hash": "AC9D8C5033FE460F226CE7EC66A32214"
+    },
+    {
+      "sequence": 7,
+      "source_server_id": 27326,
+      "source_client_id": 26441,
+      "target_server_id": 27560,
+      "target_client_id": 26675,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\Diagonal mel com degrade\\server-27326_client-26441_carpet.png",
+      "source_sha256": "FEFAFA649040DA9FFE3F20D220CFB4D8E9E549CA48DFD345D68A25F29F7E8940",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        327371,
+        327371
+      ],
+      "sprite_hash": "63C7766CE86AF37F15134747002CBEDF"
+    },
+    {
+      "sequence": 8,
+      "source_server_id": 27327,
+      "source_client_id": 26442,
+      "target_server_id": 27561,
+      "target_client_id": 26676,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\Diagonal mel com degrade\\server-27327_client-26442_carpet.png",
+      "source_sha256": "8FBCA4172972A966CA79C9A404423BA3AD4152E44C29885225DFBEA00FB75CFB",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        327372,
+        327372
+      ],
+      "sprite_hash": "345CA6DD6C7513F3D8D5A36CEC238D2B"
+    },
+    {
+      "sequence": 9,
+      "source_server_id": 27328,
+      "source_client_id": 26443,
+      "target_server_id": 27562,
+      "target_client_id": 26677,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\Diagonal mel com degrade\\server-27328_client-26443_carpet.png",
+      "source_sha256": "788C512E532B446A6F6D473E56AEC496238C1E5B4192C60107AB985861C95B25",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        327373,
+        327373
+      ],
+      "sprite_hash": "C06B1E326248C1C8887BF8BA242CB794"
+    },
+    {
+      "sequence": 10,
+      "source_server_id": 27329,
+      "source_client_id": 26444,
+      "target_server_id": 27563,
+      "target_client_id": 26678,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\Diagonal mel com degrade\\server-27329_client-26444_carpet.png",
+      "source_sha256": "8202E5999C200AB2FB5E17A711A475B233C2C25AF7FF77A41EF3BC598CE12400",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        327374,
+        327374
+      ],
+      "sprite_hash": "3BD4EF4457FED5EF3AF007BBBDF2A50D"
+    },
+    {
+      "sequence": 11,
+      "source_server_id": 27330,
+      "source_client_id": 26445,
+      "target_server_id": 27564,
+      "target_client_id": 26679,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\Diagonal mel com degrade\\server-27330_client-26445_carpet.png",
+      "source_sha256": "65991E8F5DF00C85E590A2ED439635120B0079D8A45B321A243C60A025D919FC",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        327375,
+        327375
+      ],
+      "sprite_hash": "80F2DF4CD702A7D57012AF946F2720A3"
+    },
+    {
+      "sequence": 12,
+      "source_server_id": 27331,
+      "source_client_id": 26446,
+      "target_server_id": 27565,
+      "target_client_id": 26680,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\Diagonal mel com degrade\\server-27331_client-26446_carpet.png",
+      "source_sha256": "1D30ECF6B3F7B1B8B92C8829712343BF3BDDBAA3AE8624992823839DA825CFE1",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        327376,
+        327376
+      ],
+      "sprite_hash": "3BCB6FED914F353014DFBC528CB19B85"
+    },
+    {
+      "sequence": 13,
+      "source_server_id": 27332,
+      "source_client_id": 26447,
+      "target_server_id": 27566,
+      "target_client_id": 26681,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\Diagonal mel com degrade\\server-27332_client-26447_carpet.png",
+      "source_sha256": "BF8594A1917EB087E585CB38393D8EFAF149326145EF198DF42EE86EF1E7E49D",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        327377,
+        327377
+      ],
+      "sprite_hash": "8DD2A99D3BF900F75287EDFA95BCA361"
+    },
+    {
+      "sequence": 14,
+      "source_server_id": 27333,
+      "source_client_id": 26448,
+      "target_server_id": 27567,
+      "target_client_id": 26682,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\Diagonal mel com degrade\\server-27333_client-26448_carpet.png",
+      "source_sha256": "1C2C6B2B7177A9B60B5945E17C15A05073B07E8F8D0FC5D6A9B6EB7A82C82718",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        327378,
+        327378
+      ],
+      "sprite_hash": "1A98FF9FDEA16B09F13650B1CA1684B4"
+    },
+    {
+      "sequence": 15,
+      "source_server_id": 27334,
+      "source_client_id": 26449,
+      "target_server_id": 27568,
+      "target_client_id": 26683,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\Diagonal mel com degrade\\server-27334_client-26449_carpet.png",
+      "source_sha256": "D50FF4A56D669C336D251AA1E64844272A6AD65B5C1604C9A0D0DBD80123F620",
+      "image_size": [
+        64,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 2,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 2,
+      "sprite_id_range": [
+        327379,
+        327380
+      ],
+      "sprite_hash": "B6FA316DF1324B1BA80A4C64C2A7D7FF"
+    },
+    {
+      "sequence": 16,
+      "source_server_id": 27335,
+      "source_client_id": 26450,
+      "target_server_id": 27569,
+      "target_client_id": 26684,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\Diagonal mel com degrade\\server-27335_client-26450_carpet.png",
+      "source_sha256": "67C35F0C99372BA91C4841F415D54A1BCB2D5C7ABF92B13E625A80CDA085C08E",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        327381,
+        327381
+      ],
+      "sprite_hash": "D57D744F71C4DAD09CC0516AAA654F39"
+    },
+    {
+      "sequence": 17,
+      "source_server_id": 27320,
+      "source_client_id": 26435,
+      "target_server_id": 27570,
+      "target_client_id": 26685,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\Diagonal mel sem degrade\\server-27320_client-26435_carpet.png",
+      "source_sha256": "07442D5FCA302A89E6270F23A4428FA5C7243FE99174378138D4647D8099D68D",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        327382,
+        327382
+      ],
+      "sprite_hash": "27B5FFBEA9F95672CD936F39429C1D3A"
+    },
+    {
+      "sequence": 18,
+      "source_server_id": 27321,
+      "source_client_id": 26436,
+      "target_server_id": 27571,
+      "target_client_id": 26686,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\Diagonal mel sem degrade\\server-27321_client-26436_carpet.png",
+      "source_sha256": "47290AF9BAC40034CEE79F1B9656D12F85F7B25F490013E91010301091D2B6FE",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        327383,
+        327383
+      ],
+      "sprite_hash": "78C5D652599423B75C6215250FD94DA0"
+    },
+    {
+      "sequence": 19,
+      "source_server_id": 27322,
+      "source_client_id": 26437,
+      "target_server_id": 27572,
+      "target_client_id": 26687,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\Diagonal mel sem degrade\\server-27322_client-26437_carpet.png",
+      "source_sha256": "9BA5B5FC11BE493AA4053E51F96030D01279350EB4D9D97F2F61702273A80866",
+      "image_size": [
+        64,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 2,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 2,
+      "sprite_id_range": [
+        327384,
+        327385
+      ],
+      "sprite_hash": "AA83DCE142BA7ECA9977FC7171C9695E"
+    },
+    {
+      "sequence": 20,
+      "source_server_id": 27323,
+      "source_client_id": 26438,
+      "target_server_id": 27573,
+      "target_client_id": 26688,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\Diagonal mel sem degrade\\server-27323_client-26438_carpet.png",
+      "source_sha256": "42F7C510B49F8B3E8C276D4B6FAAFD51C0F6851764BAE1C41D7F411AEE4803E5",
+      "image_size": [
+        64,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 2,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 2,
+      "sprite_id_range": [
+        327386,
+        327387
+      ],
+      "sprite_hash": "64CD2E9521D4D8B474518FD95EAE7E4E"
+    },
+    {
+      "sequence": 21,
+      "source_server_id": 27324,
+      "source_client_id": 26439,
+      "target_server_id": 27574,
+      "target_client_id": 26689,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\Diagonal mel sem degrade\\server-27324_client-26439_carpet.png",
+      "source_sha256": "062C5E01E17809D43461BF425FE18BAD7F7DB0C0D5E22C05290251EE2236F7D3",
+      "image_size": [
+        64,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 2,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 2,
+      "sprite_id_range": [
+        327388,
+        327389
+      ],
+      "sprite_hash": "987D709C235C5668A7E08C2607B11BBB"
+    },
+    {
+      "sequence": 22,
+      "source_server_id": 27325,
+      "source_client_id": 26440,
+      "target_server_id": 27575,
+      "target_client_id": 26690,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\Diagonal mel sem degrade\\server-27325_client-26440_carpet.png",
+      "source_sha256": "626E51D24A891893E6BF98DCA08D51A3F8F089324F1F16B6207972FCFE65F462",
+      "image_size": [
+        64,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 2,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 2,
+      "sprite_id_range": [
+        327390,
+        327391
+      ],
+      "sprite_hash": "6D7D1767C0E17C562F48DB0C36A7F91B"
+    },
+    {
+      "sequence": 23,
+      "source_server_id": 27326,
+      "source_client_id": 26441,
+      "target_server_id": 27576,
+      "target_client_id": 26691,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\Diagonal mel sem degrade\\server-27326_client-26441_carpet.png",
+      "source_sha256": "975FEED585BF815B14BAAADC56E43643A5F3E98CD0B3FEFA3FAD99C7BB3FAEC5",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        327392,
+        327392
+      ],
+      "sprite_hash": "A658760623A32D11EF5350DA01CE7C67"
+    },
+    {
+      "sequence": 24,
+      "source_server_id": 27327,
+      "source_client_id": 26442,
+      "target_server_id": 27577,
+      "target_client_id": 26692,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\Diagonal mel sem degrade\\server-27327_client-26442_carpet.png",
+      "source_sha256": "1413FE0DA6F2B6218DAAA77A4483E8F5B8DF463B216F2ADA0ADDAF3E52D8B853",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        327393,
+        327393
+      ],
+      "sprite_hash": "EBBB7F7E792B91014CED7EF02CE6F138"
+    },
+    {
+      "sequence": 25,
+      "source_server_id": 27328,
+      "source_client_id": 26443,
+      "target_server_id": 27578,
+      "target_client_id": 26693,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\Diagonal mel sem degrade\\server-27328_client-26443_carpet.png",
+      "source_sha256": "DDF30117D84A18B07162FFA791D5D065E15A2E2E792D4F92817AE957529D625D",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        327394,
+        327394
+      ],
+      "sprite_hash": "B01940C6685161E1AFA3F57CF0E4223D"
+    },
+    {
+      "sequence": 26,
+      "source_server_id": 27329,
+      "source_client_id": 26444,
+      "target_server_id": 27579,
+      "target_client_id": 26694,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\Diagonal mel sem degrade\\server-27329_client-26444_carpet.png",
+      "source_sha256": "A34CE6F624523A124A264D2B62A22BFC7F4FE3B3E6ECC16A6A86EFC2A53080BC",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        327395,
+        327395
+      ],
+      "sprite_hash": "77BAEAD10B6F1BDFA87F5AB9E43FF1F2"
+    },
+    {
+      "sequence": 27,
+      "source_server_id": 27330,
+      "source_client_id": 26445,
+      "target_server_id": 27580,
+      "target_client_id": 26695,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\Diagonal mel sem degrade\\server-27330_client-26445_carpet.png",
+      "source_sha256": "938ED6F2F6448E7D7616D84E64701E8E00726DD04308F9D60775DE887A3B3816",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        327396,
+        327396
+      ],
+      "sprite_hash": "7EC927A997BAF307BF50B2857D57BE63"
+    },
+    {
+      "sequence": 28,
+      "source_server_id": 27331,
+      "source_client_id": 26446,
+      "target_server_id": 27581,
+      "target_client_id": 26696,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\Diagonal mel sem degrade\\server-27331_client-26446_carpet.png",
+      "source_sha256": "EDF55A430CE359D72A3BA8100ECE6B7459910E9184369C7C617AD37067D56E5D",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        327397,
+        327397
+      ],
+      "sprite_hash": "C6C77D88EFCC2AF80CE6A2A79D8F9E18"
+    },
+    {
+      "sequence": 29,
+      "source_server_id": 27332,
+      "source_client_id": 26447,
+      "target_server_id": 27582,
+      "target_client_id": 26697,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\Diagonal mel sem degrade\\server-27332_client-26447_carpet.png",
+      "source_sha256": "027572CD85D23615E3BE9964EE746C1A802A6D666460A7935AA583443DD06156",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        327398,
+        327398
+      ],
+      "sprite_hash": "C39C735ED250DA359B8678ABBD0CF3A2"
+    },
+    {
+      "sequence": 30,
+      "source_server_id": 27333,
+      "source_client_id": 26448,
+      "target_server_id": 27583,
+      "target_client_id": 26698,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\Diagonal mel sem degrade\\server-27333_client-26448_carpet.png",
+      "source_sha256": "A4045F2AE1B3EB2538C2F941B4D33B3DD58E426E1CE6A2C4A0F5FA6B0D3264D0",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        327399,
+        327399
+      ],
+      "sprite_hash": "3340B9F6CF12E3747C3884C905831BB2"
+    },
+    {
+      "sequence": 31,
+      "source_server_id": 27334,
+      "source_client_id": 26449,
+      "target_server_id": 27584,
+      "target_client_id": 26699,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\Diagonal mel sem degrade\\server-27334_client-26449_carpet.png",
+      "source_sha256": "3840A72C8B02504908235CC4549B057B1ED180695D9F9F9787676806A0157F01",
+      "image_size": [
+        64,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 2,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 2,
+      "sprite_id_range": [
+        327400,
+        327401
+      ],
+      "sprite_hash": "2CB62FAA1AFDC8F941A3CB99ACB27946"
+    },
+    {
+      "sequence": 32,
+      "source_server_id": 27335,
+      "source_client_id": 26450,
+      "target_server_id": 27585,
+      "target_client_id": 26700,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\Diagonal mel sem degrade\\server-27335_client-26450_carpet.png",
+      "source_sha256": "96307F4A4DF4F7D69E8F76C7A02D7F03030709413E7AF456ACA1262084ABD0F0",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        327402,
+        327402
+      ],
+      "sprite_hash": "DD7AB0DB9EDFB57E9AD0EEB606C43B01"
+    }
+  ],
+  "xml": {
+    "source_definitions": 16,
+    "target_definitions_written": 32,
+    "target_definitions_already_exact": 0,
+    "target_ids": [
+      27554,
+      27555,
+      27556,
+      27557,
+      27558,
+      27559,
+      27560,
+      27561,
+      27562,
+      27563,
+      27564,
+      27565,
+      27566,
+      27567,
+      27568,
+      27569,
+      27570,
+      27571,
+      27572,
+      27573,
+      27574,
+      27575,
+      27576,
+      27577,
+      27578,
+      27579,
+      27580,
+      27581,
+      27582,
+      27583,
+      27584,
+      27585
+    ]
+  },
+  "map_scan": {
+    "tiles_scanned": 8440196,
+    "item_nodes_scanned": 2294887
+  },
+  "dry_run": true,
+  "passed": true
+}

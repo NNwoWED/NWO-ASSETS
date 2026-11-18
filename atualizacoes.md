@@ -1,5 +1,35 @@
 # Atualizacoes
 
+## 17/11/2026 - Triangulos Hive de mel
+
+- Criados oito itens novos nos SIDs 27586-27593 / CIDs 26701-26708, pareados individualmente com os Server IDs 19908-19911 e 20303-20306.
+- Todos preservam layout estatico 64x64. Os clones das referencias 19908-19911 e 20303-20304 mantem `ground_border` e `unmoveable`; os clones de 20305-20306 mantem somente `unmoveable`, conforme as configuracoes originais.
+- Foram acrescentados oito sprites no intervalo 327403-327410. As reexportacoes coincidiram pixel a pixel com as fontes e propriedades DAT/OTB e layouts coincidiram integralmente com cada referencia.
+- Backup imutavel: `versions/20261117-220815-623906/`. Fontes, manifesto e reexportacoes: `importados/hive-triangulos-20261117/`. Relatorios: `reports/import-hive-triangulos-dry-run-20261117.json`, `reports/import-hive-triangulos-20261117.json` e `reports/export-hive-triangulos-20261117.json`.
+
+## 17/11/2026 - Diagonais de mel com e sem degrade
+
+- Criados 32 carpets novos clonando individualmente os Server IDs 27320-27335. O conjunto com degrade ocupa SIDs 27554-27569 / CIDs 26669-26684; o conjunto sem degrade ocupa SIDs 27570-27585 / CIDs 26685-26700.
+- As referencias 27322-27325 e 27334 permanecem como `pattern_x=2` em cada conjunto; as demais preservam seus layouts estaticos 32x32. Todas as propriedades DAT/OTB e as 32 definicoes XML `Carpet` foram clonadas das respectivas referencias.
+- Foram acrescentados 42 sprites no intervalo 327361-327402. As 32 reexportacoes coincidiram pixel a pixel com os PNGs importados.
+- Backup imutavel: `versions/20261117-220545-651191/`. Fontes, manifesto e reexportacoes: `importados/diagonal-mel-degrade-20261117/`. Relatorios: `reports/import-diagonal-mel-dry-run-20261117.json`, `reports/import-diagonal-mel-20261117.json` e `reports/export-diagonal-mel-20261117.json`.
+- Os dois lotes foram validados e sincronizados em conjunto com servidor, clients desktop/mobile, RME-NARUTO e NWO-STUDIO. Relatorios: `reports/validation-diagonal-mel-triangulos-before-sync-20261117.json` e `reports/sync-runtime-diagonal-mel-triangulos-20261117.json`.
+
+## 17/11/2026 - Itens Hive com mel
+
+- Criados 29 itens novos nos SIDs 27525-27553 / CIDs 26640-26668 a partir da pasta `hive_itens_mel`.
+- Os SIDs 27525-27537 clonam individualmente as configuracoes dos Server IDs 13273-13285, preservando `ground_border`, `unmoveable` e, onde existente, `ignore_look`.
+- Os SIDs 27538-27553 clonam individualmente os carpets Server IDs 27320-27335. Os alvos correspondentes as referencias 27322-27325 e 27334 mantem `pattern_x=2`; as outras 11 pecas mantem layout estatico 32x32. As 16 definicoes XML `Carpet` foram clonadas para os novos Server IDs.
+- Foram acrescentados 34 sprites no intervalo 327327-327360. As 29 reexportacoes coincidiram pixel a pixel com as fontes e todos os layouts e propriedades DAT/OTB coincidiram com suas referencias.
+- Backup imutavel: `versions/20261117-195030-925254/`. Fontes, manifesto e reexportacoes: `importados/hive-itens-mel-20261117/`. Relatorios: `reports/import-hive-itens-mel-dry-run-20261117.json`, `reports/import-hive-itens-mel-20261117.json`, `reports/export-hive-itens-mel-20261117.json`, `reports/validation-hive-itens-mel-before-sync-20261117.json` e `reports/sync-runtime-hive-itens-mel-20261117.json`.
+
+## 17/11/2026 - Diagonais de parede Hive normais e com mel
+
+- Criados 12 itens novos estaticos 64x64 nos SIDs 27513-27524 / CIDs 26628-26639. Os SIDs 27513-27518 correspondem a `hive_diagonais_parede` e os SIDs 27519-27524 a `hive_diagonais_parede_mel`.
+- Cada conjunto foi pareado em ordem com as referencias Server IDs 19902-19907 / Client IDs 19017-19022. As propriedades DAT/OTB e o layout 2x2 foram clonados individualmente: as referencias 19902, 19903, 19904 e 19906 permanecem paredes bloqueadoras; 19905 e 19907 preservam suas configuracoes nao bloqueadoras.
+- Foram acrescentados 28 sprites no intervalo 327299-327326. As 12 reexportacoes coincidiram pixel a pixel com os PNGs importados e as propriedades DAT/OTB coincidiram com suas respectivas referencias.
+- Backup imutavel: `versions/20261117-193053-462737/`. Fontes, manifesto e reexportacoes: `importados/hive-diagonais-20261117/`. Relatorios: `reports/import-hive-diagonais-dry-run-20261117.json`, `reports/import-hive-diagonais-20261117.json`, `reports/export-hive-diagonais-20261117.json`, `reports/validation-hive-diagonais-before-sync-20261117.json` e `reports/sync-runtime-hive-diagonais-20261117.json`.
+
 ## 16/11/2026 - Remocao da iluminacao dos carpets 27290-27299
 
 - Removida exclusivamente a propriedade DAT `has_light` dos carpets SIDs 27290-27299 / CIDs 26405-26414, eliminando a luz de intensidade 2 e cor 144 sem alterar sprites, layouts, patterns ou propriedades OTB.
@@ -326,3 +356,12 @@ Versões 20261112-053120-069201, 20261112-053334-550711. Relatórios import-kino
 - Preservados por comparação de pixels os dez materiais 27503–27512 e as sete outfits 1539–1545. As correções visuais de Mayu/Fuudo e as propriedades atuais dos tapetes foram mantidas. O mapa oficial do servidor e a cópia operacional foram conferidos por SHA-256.
 - Importação, ajuste de ciclos, versões imutáveis testadas, validação profunda e sync-runtime final aprovados. Fontes e manifestos arquivados em importados/main-emojis-20261117. Relatórios em reports/*main*20261117*.json.
 - Os 112 testes com fixtures passaram. Os quatro testes históricos de test_local_baseline fixam uma baseline antiga e já divergiam dos arquivos presentes antes desta integração.
+
+
+## 17/11/2026 - Quinas de telhado de Iwagakure
+
+- Adicionados 120 itens estáticos de telhado nos Server IDs 27594–27713 e Client IDs 26709–26828, totalizando 480 Sprite IDs novos (327411–327890).
+- Importadas as peças das paletas base padronizada, arenito dourado, areia palha, ocre queimado, terracota, oliva seco, cinza quente e os quatro complementos originais de savana.
+- As peças 10–17 e os pisos clonam individualmente as propriedades dos SIDs 26925–26933 e 27046. As quinas adicionais e suas variações de pedra usam as referências equivalentes de piso ou sobreposição conforme a geometria.
+- Versão imutável `20261117-224047-133520` criada e testada antes da gravação. Dry-run, importação, conferência de pixels 120/120, validação profunda e sincronização oficial foram aprovados.
+- Manifesto, PNGs originais e reexportações de conferência arquivados em `importados/quinas-telhado-iwagakure-20261117/`. Relatórios preservados em `reports/*quinas-telhado-iwagakure*20261117*.json`.

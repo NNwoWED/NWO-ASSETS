@@ -1,0 +1,9 @@
+sequence,source_server_id,target_server_id,target_client_id,source_path,frame_width,frame_height,frames,frame_duration_ms,animation_async
+1,19908,27586,26701,../sprites/server-19908_client-19023.png,64,64,1,,0
+2,19909,27587,26702,../sprites/server-19909_client-19024.png,64,64,1,,0
+3,19910,27588,26703,../sprites/server-19910_client-19025.png,64,64,1,,0
+4,19911,27589,26704,../sprites/server-19911_client-19026.png,64,64,1,,0
+5,20303,27590,26705,../sprites/server-20303_client-19418.png,64,64,1,,0
+6,20304,27591,26706,../sprites/server-20304_client-19419.png,64,64,1,,0
+7,20305,27592,26707,../sprites/server-20305_client-19420.png,64,64,1,,0
+8,20306,27593,26708,../sprites/server-20306_client-19421.png,64,64,1,,0
