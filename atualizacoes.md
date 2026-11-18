@@ -365,3 +365,19 @@ Versões 20261112-053120-069201, 20261112-053334-550711. Relatórios import-kino
 - As peças 10–17 e os pisos clonam individualmente as propriedades dos SIDs 26925–26933 e 27046. As quinas adicionais e suas variações de pedra usam as referências equivalentes de piso ou sobreposição conforme a geometria.
 - Versão imutável `20261117-224047-133520` criada e testada antes da gravação. Dry-run, importação, conferência de pixels 120/120, validação profunda e sincronização oficial foram aprovados.
 - Manifesto, PNGs originais e reexportações de conferência arquivados em `importados/quinas-telhado-iwagakure-20261117/`. Relatórios preservados em `reports/*quinas-telhado-iwagakure*20261117*.json`.
+
+
+## 18/11/2026 - Remakes de Dirt Pugilist e Dirt Samurai
+
+Substituída a aparência da outfit 2131 de Dirt Pugilist por guerreiro_doton_maromba_-Sheet.png e da outfit 2127 de Dirt Samurai por soldado_doton.png. Cada outfit conserva duas frame groups de oito frames, quatro direções e duração de 100 ms por frame. A importação confirmou os pixels e as propriedades DAT, com versão testada 20261118-153125-362954.
+
+Sincronização oficial concluída para servidor, PC, mobile, RME-NARUTO e NWO-STUDIO, com hashes de 37 destinos conferidos e três RARs testados. Entradas arquivadas em importados/iwagakure-mob-remakes-20261118. Relatórios em reports/*iwagakure*20261118.json.
+
+
+## 18/11/2026 - Cinco novas outfits Doton
+
+Importadas as outfits 1546 (guerreiro_doton_maromba_variacao-Sheet.png), 1547 (monk_doton-Sheet.png), 1548 (shinobi_de_iwagakure-Sheet.png), 1549 (shinobi_de_iwagakure_2-Sheet.png) e 1550 (soldado_doton_2-Sheet.png). A faixa livre começa em 1546 porque a outfit 1545 identifica Iwa Samurai.
+
+Usado o layout da outfit 2034, com quatro direções, duas frame groups de oito frames de 64x64 e 100 ms por frame. Os dois PNGs de Shinobi tinham 257 pixels de largura. As cópias de importação receberam o recorte de uma coluna direita totalmente transparente e os originais foram arquivados.
+
+Versão testada 20261118-153633-125121. Pixels, propriedades, registros DAT não alvo, payload SPR anterior e mapa validados. Sincronização oficial aprovada com 37 destinos conferidos por hash e três RARs testados. Entradas e manifesto em importados/iwagakure-mob-remakes-20261118. O arquivo skill_tubarao-Sheet.png corresponde visualmente ao efeito 1481 já existente.

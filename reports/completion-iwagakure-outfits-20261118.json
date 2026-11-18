@@ -1,0 +1,30 @@
+{
+  "passed": true,
+  "replaced_outfits": [
+    2131,
+    2127
+  ],
+  "added_outfits": [
+    1546,
+    1547,
+    1548,
+    1549,
+    1550
+  ],
+  "allocation": "1545 is already Iwa Samurai, so the first free IDs were used",
+  "frame_duration_ms": 100,
+  "frames_per_group": [
+    8,
+    8
+  ],
+  "verified_runtime_targets": 37,
+  "versions": [
+    "20261118-153125-362954",
+    "20261118-153633-125121"
+  ],
+  "originals": "importados/iwagakure-mob-remakes-20261118",
+  "existing_effect": {
+    "source": "skill_tubarao-Sheet.png",
+    "effect_id": 1481
+  }
+}

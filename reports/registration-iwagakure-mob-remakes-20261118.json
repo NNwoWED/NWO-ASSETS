@@ -1,0 +1,44 @@
+[
+  {
+    "sequence": 1,
+    "operation": "replace",
+    "outfit_id": 2131,
+    "reference_outfit_id": 2131,
+    "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\guerreiro_doton_maromba_-Sheet.png",
+    "frame_duration_ms": 100,
+    "name": "Dirt Pugilist",
+    "purpose": "substituir a aparência do monstro existente",
+    "server_item_id": null,
+    "client_item_id": null,
+    "dimensions": [
+      256,
+      1024
+    ],
+    "layout": "4 direções, duas frame groups de 8 frames, frames de 64x64, uma camada",
+    "properties": "preservar propriedades DAT e registros não alvo, duração de 100 ms por frame",
+    "sha256": "4e1c249bb844cc6211bd102101632068371a4e6fae2615b102c31947805b6264",
+    "archived_source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\importados\\iwagakure-mob-remakes-20261118\\sources\\guerreiro_doton_maromba_-Sheet.png",
+    "original_png_is_imported_source": true
+  },
+  {
+    "sequence": 2,
+    "operation": "replace",
+    "outfit_id": 2127,
+    "reference_outfit_id": 2127,
+    "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\soldado_doton.png",
+    "frame_duration_ms": 100,
+    "name": "Dirt Samurai",
+    "purpose": "substituir a aparência do monstro existente",
+    "server_item_id": null,
+    "client_item_id": null,
+    "dimensions": [
+      256,
+      1024
+    ],
+    "layout": "4 direções, duas frame groups de 8 frames, frames de 64x64, uma camada",
+    "properties": "preservar propriedades DAT e registros não alvo, duração de 100 ms por frame",
+    "sha256": "30198fe1a19d9295de49ca7d92fb856efc60fbeb5c126a2c2bb143681a07ddeb",
+    "archived_source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\importados\\iwagakure-mob-remakes-20261118\\sources\\soldado_doton.png",
+    "original_png_is_imported_source": true
+  }
+]
