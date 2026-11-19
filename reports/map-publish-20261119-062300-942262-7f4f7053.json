@@ -1,0 +1,107 @@
+{
+  "passed": true,
+  "committed": true,
+  "runId": "20261119-062300-942262-7f4f7053",
+  "sourceHash": "7964590841823c00cb6eaaea236b5e97efc05dbd18a4947873a00fb9946283c5",
+  "expectedCanonicalHash": "abb09c367200fe91408756e2ed7c135382f231f538849bc3b601d10207ce2d8c",
+  "changes": 0,
+  "positions": [],
+  "startedAt": "2026-11-19T06:23:00.942968-03:00",
+  "version": {
+    "tool_version": "0.8.2",
+    "version_id": "20261119-062335-927014",
+    "created_at": "2026-11-19T06:23:54.919977-03:00",
+    "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261119-062335-927014",
+    "rar_executable": "C:\\Program Files\\WinRAR\\Rar.exe",
+    "sources": [
+      {
+        "path": "assets/860/.gitattributes",
+        "size": 43,
+        "sha256": "D5636A3257287440945C5E017581545E5B0A3E2FDDDAE7C5EF8D90FF4DF3D32A"
+      },
+      {
+        "path": "assets/860/Tibia.dat",
+        "size": 4886003,
+        "sha256": "65FD50792F35005E92F09BB9218E65CEFDE2F2DBE6141042C83EB954CDBB6EF7"
+      },
+      {
+        "path": "assets/860/Tibia.glb",
+        "size": 2315332,
+        "sha256": "F295ECEFBF702042FA22B8C59699255C7ED4EA6EFF0A0573CD8CBB0EBE3E26CC"
+      },
+      {
+        "path": "assets/860/Tibia.otfi",
+        "size": 185,
+        "sha256": "7743548835944BC799CB871A4E5DEF84F7AF76815031871B9CE74B5EC0E8ADD3"
+      },
+      {
+        "path": "assets/860/Tibia.spr",
+        "size": 555482292,
+        "sha256": "E63D93735D06834A6A79CDB12C254B73D9A5934467F2F141EFC3711766D2DA90"
+      },
+      {
+        "path": "assets/items/force use.txt",
+        "size": 419,
+        "sha256": "BCB478FDF3F45ECA8D172AFD7A17D3F8CD520924EE0894752452B8FDC8F71959"
+      },
+      {
+        "path": "assets/items/items.otb",
+        "size": 1102473,
+        "sha256": "79571B645A009EE5AF27307031041C3A918A0196C4A9F727697F4AFB59C61FCE"
+      },
+      {
+        "path": "assets/world/mapanovo.otbm",
+        "size": 86622750,
+        "sha256": "ABB09C367200FE91408756E2ED7C135382F231F538849BC3B601D10207CE2D8C"
+      }
+    ],
+    "archives": {
+      "860": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261119-062335-927014\\860.rar",
+        "size": 95107678,
+        "sha256": "E7F86498DECEC5A7B8901A376248FA5842FE20B073050989BB192C09D997DBA5"
+      },
+      "items": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261119-062335-927014\\items.rar",
+        "size": 529049,
+        "sha256": "8178FA9BB5BAAA74927A1B6E23C31169FDA3AD3A13FD18C0F9940694C850574E"
+      },
+      "world": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261119-062335-927014\\world.zip",
+        "size": 20867072,
+        "sha256": "D41CA6809A0FF4BE6CC5F9206B3ACFBF902E33DBDDFADD150B3D56E5C0353D9E"
+      }
+    },
+    "items_xml_excluded": true,
+    "world_entries": [
+      "mapanovo.otbm"
+    ],
+    "passed": true
+  },
+  "positionReport": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\reports\\map-positions-20261119-062300-942262-7f4f7053.jsonl.gz",
+  "audit": {
+    "sourceMetadataHash": "92b7224aac9dca210f23a022dece042d746b959ebd25585cf75f97d40556b8ad",
+    "outputMetadataHash": "92b7224aac9dca210f23a022dece042d746b959ebd25585cf75f97d40556b8ad",
+    "indexedSourceOffsets": 0,
+    "verifiedOutputTiles": 0,
+    "rows": 0
+  },
+  "journalPath": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\reports\\journal-adopt-current-server-map-20261119.json",
+  "sha256": "7964590841823c00cb6eaaea236b5e97efc05dbd18a4947873a00fb9946283c5",
+  "baselineFile": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\drafts\\history\\7964590841823c00cb6eaaea236b5e97efc05dbd18a4947873a00fb9946283c5.baseline",
+  "versionId": "20261119-062335-927014",
+  "rewrite": {
+    "sourceSha256": "7964590841823c00cb6eaaea236b5e97efc05dbd18a4947873a00fb9946283c5",
+    "sha256": "7964590841823c00cb6eaaea236b5e97efc05dbd18a4947873a00fb9946283c5",
+    "changed": 0,
+    "deleted": 0,
+    "inserted": 0,
+    "unchanged": 0,
+    "missingDeletes": 0,
+    "newAreas": 0,
+    "tiles": 8685391,
+    "bytes": 89055880,
+    "committed": true
+  },
+  "completedAt": "2026-11-19T06:27:03.444218-03:00"
+}

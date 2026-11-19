@@ -418,3 +418,9 @@ Versão testada 20261119-040641-156762. Pixels reexportados iguais aos PNGs, reg
 Onze substituições visuais em Server IDs 26972, 11565, 7453, 26973, 5902, 26971, 26975, 26956 e 26965–26967; criado o item Bolsa do Minerador 27717/26832 por import-cloned-items com referência 5881. Apenas o skill_tubarao foi ignorado e permanece em sprites/. A fonte do Fragmento II foi repetida no III, por escolha do usuário; a âncora reutiliza seu PNG em dois frames de 100 ms, sem suavização ou redimensionamento.
 
 Dry-run do item novo, pixels, propriedades, 32.673 registros DAT não alvo, mapa, validação profunda e sincronização de 37 destinos aprovados, com três RARs testados. Versões testadas: 20261119-041701-544008, 20261119-041941-525181, 20261119-042115-864600. Fontes e manifestos em importados/remaining-items-20261119/. Relatório reports/completion-remaining-items-20261119.json.
+
+## 19/11/2026 - Mapa oficial atualizado para publicação
+
+Incorporado à cópia operacional o mapa oficial de Server-Data-Nwo/data/world/mapanovo.otbm, SHA-256 7964590841823c00cb6eaaea236b5e97efc05dbd18a4947873a00fb9946283c5, com ZIP do servidor conferido. O arquivo oficial foi preservado; a adoção usou o publicador do NWO-ASSETS, com versão imutável testada 20261119-062335-927014, auditoria e validação profunda. DAT, SPR, OTB e XML de itens permaneceram iguais aos lotes de sprites já validados.
+
+Relatório reports/adopt-current-server-map-20261119.json. Sincronização dos clients e editores registrada em reports/sync-runtime-items-map-commit-20261119.json.

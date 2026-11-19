@@ -1,0 +1,32 @@
+{
+  "schema": 1,
+  "kind": "nwo-map-publication",
+  "runId": "20261119-062300-942262-7f4f7053",
+  "stage": "committed",
+  "canonicalFile": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\world\\mapanovo.otbm",
+  "expectedCanonicalHash": "abb09c367200fe91408756e2ed7c135382f231f538849bc3b601d10207ce2d8c",
+  "outputHash": "7964590841823c00cb6eaaea236b5e97efc05dbd18a4947873a00fb9946283c5",
+  "sourceHash": "7964590841823c00cb6eaaea236b5e97efc05dbd18a4947873a00fb9946283c5",
+  "baselineFile": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\drafts\\history\\7964590841823c00cb6eaaea236b5e97efc05dbd18a4947873a00fb9946283c5.baseline",
+  "versionId": "20261119-062335-927014",
+  "recoveryArchive": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261119-062335-927014\\world.zip",
+  "positionReport": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\reports\\map-positions-20261119-062300-942262-7f4f7053.jsonl.gz",
+  "publicationReport": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\reports\\map-publish-20261119-062300-942262-7f4f7053.json",
+  "beforeReport": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\reports\\map-before-20261119-062300-942262-7f4f7053.json",
+  "afterReport": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\reports\\map-after-20261119-062300-942262-7f4f7053.json",
+  "preparedAt": "2026-11-19T06:26:44.477496-03:00",
+  "context": {
+    "operation": "adopt user-authoritative server map",
+    "source": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\Server-Data-Nwo\\data\\world\\mapanovo.otbm"
+  },
+  "committedAt": "2026-11-19T06:27:03.444218-03:00",
+  "result": {
+    "passed": true,
+    "committed": true,
+    "sha256": "7964590841823c00cb6eaaea236b5e97efc05dbd18a4947873a00fb9946283c5",
+    "baselineFile": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\drafts\\history\\7964590841823c00cb6eaaea236b5e97efc05dbd18a4947873a00fb9946283c5.baseline",
+    "versionId": "20261119-062335-927014",
+    "positionReport": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\reports\\map-positions-20261119-062300-942262-7f4f7053.jsonl.gz",
+    "journalPath": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\reports\\journal-adopt-current-server-map-20261119.json"
+  }
+}
