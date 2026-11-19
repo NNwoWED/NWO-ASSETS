@@ -1,0 +1,463 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "profile": {
+    "key": "tibia-860-v2-custom-extended",
+    "client_version": 860,
+    "label": "Tibia 8.60 v2 customizado com features OTFI",
+    "dat_signature": "0x4C2C7993",
+    "spr_signature": "0x4C220594",
+    "metadata_reader": 5,
+    "otb_version_hint": "8.60"
+  },
+  "category": "items",
+  "id_kind": "server",
+  "requested_ids": [
+    27503,
+    27504,
+    27505,
+    27506,
+    27507,
+    27508,
+    27509,
+    27510,
+    27511,
+    27512,
+    14496,
+    11574,
+    11573,
+    11578,
+    11581,
+    11565,
+    14507
+  ],
+  "output_dir": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\items-confirmados",
+  "exported_count": 17,
+  "exported": [
+    {
+      "requested_id": 27503,
+      "client_id": 26618,
+      "server_ids": [
+        27503
+      ],
+      "name": "Bandana de Iwa",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        313776
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\items-confirmados\\server-27503_client-26618_bandana-de-iwa.png",
+      "size": 392,
+      "sha256": "6471120876D717003B397312E724B96BA6471491C78100BCCDA2E0A4408658F4"
+    },
+    {
+      "requested_id": 27504,
+      "client_id": 26619,
+      "server_ids": [
+        27504
+      ],
+      "name": "Cajado Earth Monk",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        313777
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\items-confirmados\\server-27504_client-26619_cajado-earth-monk.png",
+      "size": 278,
+      "sha256": "B29A4741A5D8E4E12D3063F6A4073C83EDCE3B6D20EE7A1D696CFC16E6DC9AEE"
+    },
+    {
+      "requested_id": 27505,
+      "client_id": 26620,
+      "server_ids": [
+        27505
+      ],
+      "name": "CHAPEU MONK VARIAÇÃO VERMELHA",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        313778
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\items-confirmados\\server-27505_client-26620_chapeu-monk-variacao-vermelha.png",
+      "size": 524,
+      "sha256": "67D0DF353A40B4BFF9E4C3D5A30BBD1AEBA2A05965E90B853F8775BBB838EA8E"
+    },
+    {
+      "requested_id": 27506,
+      "client_id": 26621,
+      "server_ids": [
+        27506
+      ],
+      "name": "GARRA LIZZARD ANCIENT",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        313779
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\items-confirmados\\server-27506_client-26621_garra-lizzard-ancient.png",
+      "size": 443,
+      "sha256": "9B421651509FF88BC80E3F04E4F8ACF72822D004978635C523302EA1F6B3338F"
+    },
+    {
+      "requested_id": 27507,
+      "client_id": 26622,
+      "server_ids": [
+        27507
+      ],
+      "name": "ITEM 1 CHAKRA GOLEM",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        313780
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\items-confirmados\\server-27507_client-26622_item-1-chakra-golem.png",
+      "size": 241,
+      "sha256": "F16A6E4191C11E0AC47A48E458C9F392F739096CA289D03DF70812132152495F"
+    },
+    {
+      "requested_id": 27508,
+      "client_id": 26623,
+      "server_ids": [
+        27508
+      ],
+      "name": "ITEM 2 CHAKRA GOLEM",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        313781
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\items-confirmados\\server-27508_client-26623_item-2-chakra-golem.png",
+      "size": 436,
+      "sha256": "7EDCA03717301C03A3A551487C96FB098CCE111FD2FBF0F51E131FB5F474F27B"
+    },
+    {
+      "requested_id": 27509,
+      "client_id": 26624,
+      "server_ids": [
+        27509
+      ],
+      "name": "ITEM 3 CHAKRA GOLEM",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        313782
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\items-confirmados\\server-27509_client-26624_item-3-chakra-golem.png",
+      "size": 432,
+      "sha256": "8455BC86D0742A5F9F186C5EFE68D7890FC9A94EDAD7B3D625242A43E20EFD76"
+    },
+    {
+      "requested_id": 27510,
+      "client_id": 26625,
+      "server_ids": [
+        27510
+      ],
+      "name": "Lizzard escama",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        313783
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\items-confirmados\\server-27510_client-26625_lizzard-escama.png",
+      "size": 264,
+      "sha256": "76569CC2BF5D4B7DF9CDDAB1C05ADEE0D8341650642CBC3D0A3889B15388C25D"
+    },
+    {
+      "requested_id": 27511,
+      "client_id": 26626,
+      "server_ids": [
+        27511
+      ],
+      "name": "Mascara Dirt Samurai",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        313784
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\items-confirmados\\server-27511_client-26626_mascara-dirt-samurai.png",
+      "size": 455,
+      "sha256": "0858F62742984AF6D98B8CC0C1343971B0E95DAD63F5F6BAB65D00ECCAFBC6DD"
+    },
+    {
+      "requested_id": 27512,
+      "client_id": 26627,
+      "server_ids": [
+        27512
+      ],
+      "name": "Obsidian Carapace",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        313785
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\items-confirmados\\server-27512_client-26627_obsidian-carapace.png",
+      "size": 511,
+      "sha256": "7EC8C798DB2D191283793022FA556C0899D7036C22DC8C7E40937275C891CBB7"
+    },
+    {
+      "requested_id": 14496,
+      "client_id": 13619,
+      "server_ids": [
+        14496
+      ],
+      "name": "Fossilized plate",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        210817
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\items-confirmados\\server-14496_client-13619_fossilized-plate.png",
+      "size": 411,
+      "sha256": "4A6DD64A7BD3924179D1C8234A4AC920D8B632290A140A3312251DF39B750A11"
+    },
+    {
+      "requested_id": 11574,
+      "client_id": 10697,
+      "server_ids": [
+        11574
+      ],
+      "name": "Bone",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        210914
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\items-confirmados\\server-11574_client-10697_bone.png",
+      "size": 289,
+      "sha256": "3300516D3F3CC2075606C6923CB191466D8201C94C690B7FF57D35C1973F9DAC"
+    },
+    {
+      "requested_id": 11573,
+      "client_id": 10696,
+      "server_ids": [
+        11573
+      ],
+      "name": "Red cloth",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        210913
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\items-confirmados\\server-11573_client-10696_red-cloth.png",
+      "size": 398,
+      "sha256": "C9E8616D1C14EA0819CD5F6EF913F28518897E54040343B9A41FF5593669FB74"
+    },
+    {
+      "requested_id": 11578,
+      "client_id": 10701,
+      "server_ids": [
+        11578
+      ],
+      "name": "Yellow cloth",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        210947
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\items-confirmados\\server-11578_client-10701_yellow-cloth.png",
+      "size": 398,
+      "sha256": "9EA424404A46CAC5BF7C7C1681065819F5187BD2543515820B26AE89ECCC67EA"
+    },
+    {
+      "requested_id": 11581,
+      "client_id": 10704,
+      "server_ids": [
+        11581
+      ],
+      "name": "strips of cloth",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        210954
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\items-confirmados\\server-11581_client-10704_strips-of-cloth.png",
+      "size": 424,
+      "sha256": "EA6334B99D69C445E35D3894871E780BD6FC18AA9E16C10FD34A1B73B4C3E0A8"
+    },
+    {
+      "requested_id": 11565,
+      "client_id": 10688,
+      "server_ids": [
+        11565
+      ],
+      "name": "Lizard Tails",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        210888
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\items-confirmados\\server-11565_client-10688_lizard-tails.png",
+      "size": 327,
+      "sha256": "33333AC6558EA3BCADD9E6C6E1E022BC750F568BA00AA98C4E0B3B85B3C366D7"
+    },
+    {
+      "requested_id": 14507,
+      "client_id": 13630,
+      "server_ids": [
+        14507
+      ],
+      "name": "Fragment of a storm",
+      "group_index": 0,
+      "width": 32,
+      "height": 1344,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 42,
+      "sprite_ids": [
+        210843,
+        210843,
+        210844,
+        210844,
+        210844,
+        210843,
+        210843,
+        210843,
+        210844,
+        210844,
+        210844,
+        210843,
+        210843,
+        210845,
+        210846,
+        210847,
+        210848,
+        210849,
+        210850,
+        210851,
+        210852,
+        210853,
+        210854,
+        210855,
+        210856,
+        210856,
+        210857,
+        210854,
+        210854,
+        210858,
+        210856,
+        210856,
+        210857,
+        210854,
+        210854,
+        210859,
+        210856,
+        210860,
+        210861,
+        210847,
+        210862,
+        210863
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\items-confirmados\\server-14507_client-13630_fragment-of-a-storm.png",
+      "size": 3011,
+      "sha256": "3CA15189C3E6BFAE19E4DEEBBB03F42F83B0EB55A3E01C11D5457EA899D5E8C4"
+    }
+  ],
+  "sources": {
+    "dat": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.dat",
+      "sha256": "59CFECB2096620C8F5B1DD86AB922FC3AA5FFA1FCEB145D2D2DF0C4C1876BF10"
+    },
+    "spr": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.spr",
+      "sha256": "8B5EFD33FABE4BF4E7728EBD3A717C6EC1A8E0DBF0A07B7C417DB22F77CB8C1B"
+    }
+  },
+  "passed": true
+}

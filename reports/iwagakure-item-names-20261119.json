@@ -1,0 +1,54 @@
+{
+  "operation": "XML names for existing item IDs",
+  "purpose": "Iwagakure monster drops from approved document",
+  "version_id": "20261119-031311-278711",
+  "baseline_validation_passed": true,
+  "changes": [
+    {
+      "server_id": 7429,
+      "client_id": 7429,
+      "name": "Stonewalker Shoes",
+      "operation": "rename",
+      "png": null,
+      "properties_policy": "preserve all DAT/OTB properties and existing XML attributes"
+    },
+    {
+      "server_id": 24310,
+      "client_id": 23425,
+      "name": "Granite Shuriken",
+      "operation": "name existing OTB item",
+      "png": null,
+      "properties_policy": "preserve all DAT/OTB properties and existing XML attributes"
+    },
+    {
+      "server_id": 14526,
+      "client_id": 13649,
+      "name": "Iwa Vest",
+      "operation": "name existing OTB item",
+      "png": null,
+      "properties_policy": "preserve all DAT/OTB properties and existing XML attributes"
+    },
+    {
+      "server_id": 7453,
+      "client_id": 7453,
+      "name": "Prospector Pants",
+      "operation": "name existing OTB item",
+      "png": null,
+      "properties_policy": "preserve all DAT/OTB properties and existing XML attributes"
+    }
+  ],
+  "before_xml_sha256": "cdd56e6d1918e6065df897e35592f7573b2e07e054e86323f5b4f5d1d0091e54",
+  "after_xml_sha256": "6b062562e8e126777655d4d51ca8b4f01aef293545adae6a2f4a8490b49c6140",
+  "protected_hashes": {
+    "assets/860/Tibia.dat": "59cfecb2096620c8f5b1dd86ab922fc3aa5ffa1fceb145d2d2df0c4c1876bf10",
+    "assets/860/Tibia.spr": "8b5efd33fabe4bf4e7728ebd3a717c6ec1a8e0dbf0a07b7c417db22f77cb8c1b",
+    "assets/items/items.otb": "f6411df7190f04475f912adae83e5d0a2f1b6b4f5d2a7ce5b3434f8dc7d2994c",
+    "assets/world/mapanovo.otbm": "abb09c367200fe91408756e2ed7c135382f231f538849bc3b601d10207ce2d8c"
+  },
+  "existing_xml_attributes_preserved": true,
+  "final_validation_passed": true,
+  "sync_runtime_passed": true,
+  "runtime_targets_verified": 37,
+  "protected_binary_hashes_preserved": true,
+  "passed": true
+}

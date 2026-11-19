@@ -8204,7 +8204,7 @@
 		<attribute key="defense" value="15" />
 		<attribute key="attack" value="46" />
 	</item>
-	<item id="7429" article="a" name="Nidaime Boots">
+	<item id="7429" article="a" name="Stonewalker Shoes">
 		<attribute key="description" value="Chakra/Health 1000/s." />
         <attribute key="weight" value="3100" />
         <attribute key="armor" value="100" />
@@ -21098,4 +21098,8 @@
 <item id="27711" name="Roof" />
 <item id="27712" name="Roof" />
 <item id="27713" name="Roof" />
+	<!-- Iwagakure loot names: existing OTB/DAT IDs, properties preserved. -->
+	<item id="24310" article="a" name="Granite Shuriken" />
+	<item id="14526" article="a" name="Iwa Vest" />
+	<item id="7453" article="a" name="Prospector Pants" />
 </items>

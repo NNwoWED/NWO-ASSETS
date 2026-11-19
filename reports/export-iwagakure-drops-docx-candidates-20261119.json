@@ -1,0 +1,6593 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "profile": {
+    "key": "tibia-860-v2-custom-extended",
+    "client_version": 860,
+    "label": "Tibia 8.60 v2 customizado com features OTFI",
+    "dat_signature": "0x4C2C7993",
+    "spr_signature": "0x4C220594",
+    "metadata_reader": 5,
+    "otb_version_hint": "8.60"
+  },
+  "category": "items",
+  "id_kind": "server",
+  "requested_ids": [
+    1777,
+    1997,
+    2001,
+    2002,
+    2003,
+    2004,
+    2125,
+    2136,
+    2142,
+    2161,
+    2195,
+    2238,
+    2393,
+    2460,
+    2466,
+    2467,
+    2468,
+    2469,
+    2470,
+    2477,
+    2478,
+    2483,
+    2484,
+    2489,
+    2494,
+    2495,
+    2500,
+    2505,
+    2507,
+    2519,
+    2520,
+    2521,
+    2525,
+    2529,
+    2530,
+    2544,
+    2545,
+    2546,
+    2640,
+    2641,
+    2645,
+    2646,
+    2649,
+    2659,
+    2665,
+    2803,
+    3939,
+    3940,
+    3968,
+    4847,
+    5462,
+    5905,
+    5906,
+    5925,
+    5933,
+    5935,
+    6095,
+    6111,
+    6112,
+    6132,
+    6530,
+    6550,
+    6551,
+    7386,
+    7387,
+    7390,
+    7408,
+    7417,
+    7429,
+    7463,
+    7730,
+    7769,
+    7770,
+    7771,
+    7772,
+    7773,
+    7774,
+    7891,
+    7893,
+    7894,
+    7895,
+    8851,
+    8852,
+    8855,
+    8868,
+    8869,
+    8873,
+    8874,
+    8877,
+    8878,
+    8879,
+    8880,
+    8881,
+    8882,
+    8883,
+    8888,
+    8889,
+    8891,
+    8906,
+    8908,
+    8909,
+    8923,
+    9633,
+    9634,
+    9635,
+    9636,
+    9736,
+    9776,
+    9934,
+    10021,
+    10022,
+    10581,
+    11117,
+    11240,
+    11301,
+    11304,
+    11371,
+    11416,
+    11417,
+    11418,
+    11488,
+    11489,
+    11490,
+    14639,
+    13200,
+    13201,
+    13203,
+    12237,
+    12238,
+    12239,
+    12241,
+    12242,
+    12243,
+    12245,
+    12246,
+    12247,
+    12093,
+    12094,
+    12095,
+    12097,
+    12098,
+    12099,
+    12101,
+    12102,
+    12103,
+    12105,
+    12106,
+    12107,
+    12173,
+    12174,
+    12175,
+    12177,
+    12178,
+    12179,
+    12181,
+    12182,
+    12183,
+    12185,
+    12186,
+    12187,
+    12205,
+    12206,
+    12207,
+    12209,
+    12210,
+    12211,
+    12213,
+    12214,
+    12215,
+    12217,
+    12218,
+    12219,
+    12157,
+    12158,
+    12159,
+    12161,
+    12162,
+    12163,
+    12165,
+    12166,
+    12167,
+    12169,
+    12170,
+    12171,
+    12125,
+    12126,
+    12127,
+    12129,
+    12130,
+    12131,
+    12133,
+    12134,
+    12135,
+    12137,
+    12138,
+    12139,
+    12109,
+    12110,
+    12111,
+    12113,
+    12114,
+    12115,
+    12117,
+    12118,
+    12119,
+    12121,
+    12122,
+    12123,
+    12221,
+    12222,
+    12223,
+    12225,
+    12226,
+    12227,
+    12229,
+    12230,
+    12231,
+    12233,
+    12234,
+    12235,
+    12141,
+    12142,
+    12143,
+    12145,
+    12146,
+    12147,
+    12149,
+    12150,
+    12151,
+    12153,
+    12154,
+    12155,
+    24267,
+    24268,
+    24269,
+    24276,
+    24277,
+    24278,
+    24340,
+    24341,
+    24321,
+    24322,
+    24323,
+    24304,
+    24305,
+    24330,
+    24331,
+    24332,
+    24292,
+    24294,
+    24295,
+    24296,
+    24286,
+    24287,
+    14520,
+    14485,
+    14475,
+    24265,
+    14503,
+    14510,
+    14562,
+    14570,
+    14863,
+    14867,
+    14871,
+    15630,
+    24186,
+    24187,
+    26938,
+    26983,
+    26984,
+    27033,
+    27048,
+    27049,
+    27050,
+    27052,
+    27053,
+    27054,
+    27058
+  ],
+  "output_dir": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates",
+  "exported_count": 279,
+  "exported": [
+    {
+      "requested_id": 1777,
+      "client_id": 2526,
+      "server_ids": [
+        1777
+      ],
+      "name": "Dustbin",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        135554
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-1777_client-2526_dustbin.png",
+      "size": 457,
+      "sha256": "D22439152C5CF38DDBE337EE86F32706990DF1A3D861289D2B1F4EE9A4964D39"
+    },
+    {
+      "requested_id": 1997,
+      "client_id": 2863,
+      "server_ids": [
+        1997
+      ],
+      "name": "Grey Shuriken Bag",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        13141
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-1997_client-2863_grey-shuriken-bag.png",
+      "size": 371,
+      "sha256": "AB50CCA3830AE3C5B2213315727908815E451A0685979C22B464BEC30964A06B"
+    },
+    {
+      "requested_id": 2001,
+      "client_id": 2868,
+      "server_ids": [
+        2001
+      ],
+      "name": "Yellow Shuriken Bag",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        12997
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-2001_client-2868_yellow-shuriken-bag.png",
+      "size": 372,
+      "sha256": "1D1408E8B9D33AFE4CD891DA1FC4653CD4353293833B880659F3658987B7C70E"
+    },
+    {
+      "requested_id": 2002,
+      "client_id": 2869,
+      "server_ids": [
+        2002
+      ],
+      "name": "Blue Shuriken Bag",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        13144
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-2002_client-2869_blue-shuriken-bag.png",
+      "size": 371,
+      "sha256": "87A29E2A3EE57844C956F5B4BF717FF1F094E8342157AD77819985B72A4AA81B"
+    },
+    {
+      "requested_id": 2003,
+      "client_id": 2870,
+      "server_ids": [
+        2003
+      ],
+      "name": "Ciano Shuriken Bag",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        13143
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-2003_client-2870_ciano-shuriken-bag.png",
+      "size": 372,
+      "sha256": "71613B41F8B186CDDE19F9DF2761385803ACE0E5E6F1C14C6C262E70412A7873"
+    },
+    {
+      "requested_id": 2004,
+      "client_id": 2871,
+      "server_ids": [
+        2004
+      ],
+      "name": "Orange Shuriken Bag",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        13140
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-2004_client-2871_orange-shuriken-bag.png",
+      "size": 372,
+      "sha256": "7C00161C723811996A9F5627E6A6633A9CDA9A42EF4C35E22A2A3A5B301A2B23"
+    },
+    {
+      "requested_id": 2125,
+      "client_id": 3008,
+      "server_ids": [
+        2125
+      ],
+      "name": "Sasuke shippuden legs",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        0
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-2125_client-3008_sasuke-shippuden-legs.png",
+      "size": 83,
+      "sha256": "BA04F531DF0C7A12124750D521ADD77C55B16A6432D653C5559C16680DBD9F50"
+    },
+    {
+      "requested_id": 2136,
+      "client_id": 3019,
+      "server_ids": [
+        2136
+      ],
+      "name": "50 legs",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        0
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-2136_client-3019_50-legs.png",
+      "size": 83,
+      "sha256": "BA04F531DF0C7A12124750D521ADD77C55B16A6432D653C5559C16680DBD9F50"
+    },
+    {
+      "requested_id": 2142,
+      "client_id": 3025,
+      "server_ids": [
+        2142
+      ],
+      "name": "50 armor",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        0
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-2142_client-3025_50-armor.png",
+      "size": 83,
+      "sha256": "BA04F531DF0C7A12124750D521ADD77C55B16A6432D653C5559C16680DBD9F50"
+    },
+    {
+      "requested_id": 2161,
+      "client_id": 3045,
+      "server_ids": [
+        2161
+      ],
+      "name": "Kage boots",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        0
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-2161_client-3045_kage-boots.png",
+      "size": 83,
+      "sha256": "BA04F531DF0C7A12124750D521ADD77C55B16A6432D653C5559C16680DBD9F50"
+    },
+    {
+      "requested_id": 2195,
+      "client_id": 3079,
+      "server_ids": [
+        2195
+      ],
+      "name": "Boots of haste",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        0
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-2195_client-3079_boots-of-haste.png",
+      "size": 83,
+      "sha256": "BA04F531DF0C7A12124750D521ADD77C55B16A6432D653C5559C16680DBD9F50"
+    },
+    {
+      "requested_id": 2238,
+      "client_id": 3123,
+      "server_ids": [
+        2238
+      ],
+      "name": "Worn leather boots",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        767
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-2238_client-3123_worn-leather-boots.png",
+      "size": 757,
+      "sha256": "0ABFC17BC8A87B106927F4952F917802294874316C600FE1132535276828943B"
+    },
+    {
+      "requested_id": 2393,
+      "client_id": 3281,
+      "server_ids": [
+        2393
+      ],
+      "name": "Anbu armor",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        5924
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-2393_client-3281_anbu-armor.png",
+      "size": 457,
+      "sha256": "B3208A6BA3371624480C53E6D24532DDC5D4C061AF0085AFE3A5677E4F5E49B9"
+    },
+    {
+      "requested_id": 2460,
+      "client_id": 3354,
+      "server_ids": [
+        2460
+      ],
+      "name": "Anbu armor",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        13006
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-2460_client-3354_anbu-armor.png",
+      "size": 406,
+      "sha256": "ABF3D6EED853BF3BBEFF8EB0ABD3B31D6DF1CCBBE77F81D1538FFA24DDC32BA8"
+    },
+    {
+      "requested_id": 2466,
+      "client_id": 3360,
+      "server_ids": [
+        2466
+      ],
+      "name": "Xi gon armor",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        708
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-2466_client-3360_xi-gon-armor.png",
+      "size": 746,
+      "sha256": "CC11419FE33BC97A6BB9FBEBE5F4A7AE247308836C677F249DDB220AF3A6BF97"
+    },
+    {
+      "requested_id": 2467,
+      "client_id": 3361,
+      "server_ids": [
+        2467
+      ],
+      "name": "Leather armor",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        0
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-2467_client-3361_leather-armor.png",
+      "size": 83,
+      "sha256": "BA04F531DF0C7A12124750D521ADD77C55B16A6432D653C5559C16680DBD9F50"
+    },
+    {
+      "requested_id": 2468,
+      "client_id": 3362,
+      "server_ids": [
+        2468
+      ],
+      "name": "Mist legs",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        511
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-2468_client-3362_mist-legs.png",
+      "size": 457,
+      "sha256": "F5D4E6C4C13BD2830D2E66D748DEC4B4BF8E5DAADF4C76456A6E64A623E0A771"
+    },
+    {
+      "requested_id": 2469,
+      "client_id": 3363,
+      "server_ids": [
+        2469
+      ],
+      "name": "Xxxgenin legs",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        653
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-2469_client-3363_xxxgenin-legs.png",
+      "size": 449,
+      "sha256": "69F29467041D27785961579644E22A4643280ECC34FA7C4B3A2F841BF83DC511"
+    },
+    {
+      "requested_id": 2470,
+      "client_id": 3364,
+      "server_ids": [
+        2470
+      ],
+      "name": "Naruto legs",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        654
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-2470_client-3364_naruto-legs.png",
+      "size": 471,
+      "sha256": "ED6A7B15C80672A4ED217C19EA61243A7FEAC7584ABE6E2D9DFED5EAA7EB8E1A"
+    },
+    {
+      "requested_id": 2477,
+      "client_id": 3371,
+      "server_ids": [
+        2477
+      ],
+      "name": "Ninja Boots",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        556
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-2477_client-3371_ninja-boots.png",
+      "size": 310,
+      "sha256": "7AD829F8393283F789F9C5766D6800419FE6781865C5F0CD2A67C2260D701F92"
+    },
+    {
+      "requested_id": 2478,
+      "client_id": 3372,
+      "server_ids": [
+        2478
+      ],
+      "name": "Genin legs",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        740
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-2478_client-3372_genin-legs.png",
+      "size": 358,
+      "sha256": "3AEDEFF250E62B5FB06733FFC9286CE8CE13DD7C9C0E2FC94DA653283B47604C"
+    },
+    {
+      "requested_id": 2483,
+      "client_id": 3377,
+      "server_ids": [
+        2483
+      ],
+      "name": "Scale armor",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        809
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-2483_client-3377_scale-armor.png",
+      "size": 590,
+      "sha256": "E94DA56A876BD71C2D8851672E8B45DF75FBA36045B5F8B21242892D65D5C055"
+    },
+    {
+      "requested_id": 2484,
+      "client_id": 3378,
+      "server_ids": [
+        2484
+      ],
+      "name": "Studded armor",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        0
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-2484_client-3378_studded-armor.png",
+      "size": 83,
+      "sha256": "BA04F531DF0C7A12124750D521ADD77C55B16A6432D653C5559C16680DBD9F50"
+    },
+    {
+      "requested_id": 2489,
+      "client_id": 3383,
+      "server_ids": [
+        2489
+      ],
+      "name": "Haku armor",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        0
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-2489_client-3383_haku-armor.png",
+      "size": 83,
+      "sha256": "BA04F531DF0C7A12124750D521ADD77C55B16A6432D653C5559C16680DBD9F50"
+    },
+    {
+      "requested_id": 2494,
+      "client_id": 3388,
+      "server_ids": [
+        2494
+      ],
+      "name": "Chunnin armor",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        320
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-2494_client-3388_chunnin-armor.png",
+      "size": 673,
+      "sha256": "5307B2F528D49A00B2F8F68E066818C1D6C88A2F3E4ED29826A2FF554C1F99BA"
+    },
+    {
+      "requested_id": 2495,
+      "client_id": 3389,
+      "server_ids": [
+        2495
+      ],
+      "name": "Sarutobi armor",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        13049
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-2495_client-3389_sarutobi-armor.png",
+      "size": 1681,
+      "sha256": "8051F35A458CB76DFB3688831E096C0055BFF8A559F7729BB46F436775AA8A81"
+    },
+    {
+      "requested_id": 2500,
+      "client_id": 3394,
+      "server_ids": [
+        2500
+      ],
+      "name": "Amazon armor",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        1502
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-2500_client-3394_amazon-armor.png",
+      "size": 839,
+      "sha256": "BD77785858BDB77E6EFD6F16821571479A64C7E7D7C9B8067AFA098ECF7CD9DB"
+    },
+    {
+      "requested_id": 2505,
+      "client_id": 3399,
+      "server_ids": [
+        2505
+      ],
+      "name": "Elven armor",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        0
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-2505_client-3399_elven-armor.png",
+      "size": 83,
+      "sha256": "BA04F531DF0C7A12124750D521ADD77C55B16A6432D653C5559C16680DBD9F50"
+    },
+    {
+      "requested_id": 2507,
+      "client_id": 3401,
+      "server_ids": [
+        2507
+      ],
+      "name": "Elven legs",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        655
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-2507_client-3401_elven-legs.png",
+      "size": 388,
+      "sha256": "5A51445E4DBC61E7F99EDE2398F824C175F2B8ED1992CFCCA26BF46C0FF13F4D"
+    },
+    {
+      "requested_id": 2519,
+      "client_id": 3419,
+      "server_ids": [
+        2519
+      ],
+      "name": "Recover Armor",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        25678
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-2519_client-3419_recover-armor.png",
+      "size": 607,
+      "sha256": "7E0490B5AB0380053CD4E25AC0325A76CC26ACE577C60D5A8ABA5E97FC939889"
+    },
+    {
+      "requested_id": 2520,
+      "client_id": 3420,
+      "server_ids": [
+        2520
+      ],
+      "name": "Recover Legs",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        25677
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-2520_client-3420_recover-legs.png",
+      "size": 808,
+      "sha256": "752A93A21D084B0CE178871DAF1039F476FB70533EA7A508E86C2DE76AB7D8DE"
+    },
+    {
+      "requested_id": 2521,
+      "client_id": 3421,
+      "server_ids": [
+        2521
+      ],
+      "name": "Genin boots",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        189
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-2521_client-3421_genin-boots.png",
+      "size": 305,
+      "sha256": "1FEEEDA94DCFBD55C11953E63C6C4C658E8794DB9E8107C7D1872B026242FA86"
+    },
+    {
+      "requested_id": 2525,
+      "client_id": 3425,
+      "server_ids": [
+        2525
+      ],
+      "name": "Speed boots",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        13053
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-2525_client-3425_speed-boots.png",
+      "size": 1089,
+      "sha256": "7C15DF9489250A3F73F84B9CB7DB73475B3F846696896D0B65C2A1EDE531B6CF"
+    },
+    {
+      "requested_id": 2529,
+      "client_id": 3429,
+      "server_ids": [
+        2529
+      ],
+      "name": "Akatsuke boots",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        556
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-2529_client-3429_akatsuke-boots.png",
+      "size": 310,
+      "sha256": "7AD829F8393283F789F9C5766D6800419FE6781865C5F0CD2A67C2260D701F92"
+    },
+    {
+      "requested_id": 2530,
+      "client_id": 3430,
+      "server_ids": [
+        2530
+      ],
+      "name": "Hagoromo Armor",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        22074
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-2530_client-3430_hagoromo-armor.png",
+      "size": 1209,
+      "sha256": "5EAF42F0F41C80730F9C799E6D17E733352CF39B3EBA1F1906DF4D5870E0B3BD"
+    },
+    {
+      "requested_id": 2544,
+      "client_id": 3447,
+      "server_ids": [
+        2544
+      ],
+      "name": "Suna shuriken",
+      "group_index": 0,
+      "width": 128,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 4,
+      "pattern_y": 2,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        13253,
+        13254,
+        13255,
+        13256,
+        13257,
+        13258,
+        13258,
+        13258
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-2544_client-3447_suna-shuriken.png",
+      "size": 889,
+      "sha256": "22F54D3362CA9E2F780416B179BBCC1CD7D12BC1B81CBE574AE6962B384DC65B"
+    },
+    {
+      "requested_id": 2545,
+      "client_id": 3448,
+      "server_ids": [
+        2545
+      ],
+      "name": "Shuriken",
+      "group_index": 0,
+      "width": 128,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 4,
+      "pattern_y": 2,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        13383,
+        13286,
+        13287,
+        13288,
+        13289,
+        13290,
+        13290,
+        13290
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-2545_client-3448_shuriken.png",
+      "size": 1696,
+      "sha256": "459D68FFE3704714FBDA8E76DF4E1A3CA64C09AF7A850C8FA1D4C6D7EB34DEFC"
+    },
+    {
+      "requested_id": 2546,
+      "client_id": 3449,
+      "server_ids": [
+        2546
+      ],
+      "name": "Elite shuriken",
+      "group_index": 0,
+      "width": 128,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 4,
+      "pattern_y": 2,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        13349,
+        13349,
+        13349,
+        13349,
+        13349,
+        13349,
+        13349,
+        13349
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-2546_client-3449_elite-shuriken.png",
+      "size": 665,
+      "sha256": "66D5893C7A173FDBE2762DAC1DBD05D69D5E03888740320BC05C2A64FDD5E8AC"
+    },
+    {
+      "requested_id": 2640,
+      "client_id": 3549,
+      "server_ids": [
+        2640
+      ],
+      "name": "Pair of soft boots",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        1396
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-2640_client-3549_pair-of-soft-boots.png",
+      "size": 304,
+      "sha256": "84B5FAFAF1D72296455C35BDC16F0230F8D76E418AD160B874683C0E075F2694"
+    },
+    {
+      "requested_id": 2641,
+      "client_id": 3550,
+      "server_ids": [
+        2641
+      ],
+      "name": "Uchiha Boots",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        16521
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-2641_client-3550_uchiha-boots.png",
+      "size": 350,
+      "sha256": "56127C8F9C29DCEC73F1E734E758A1A941547DAA8A5F12A8EEC95A5A6D192840"
+    },
+    {
+      "requested_id": 2645,
+      "client_id": 3554,
+      "server_ids": [
+        2645
+      ],
+      "name": "Steel boots",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        13007
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-2645_client-3554_steel-boots.png",
+      "size": 1631,
+      "sha256": "9AC1D86C18642CD6F8B9798879BE96CECB4A32C4DAB1762BC70A3B9BA7F29E48"
+    },
+    {
+      "requested_id": 2646,
+      "client_id": 3555,
+      "server_ids": [
+        2646
+      ],
+      "name": "Rifa boots",
+      "group_index": 0,
+      "width": 64,
+      "height": 128,
+      "layers": 2,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 4,
+      "sprite_ids": [
+        176,
+        7587,
+        176,
+        7588,
+        176,
+        7587,
+        176,
+        7589
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-2646_client-3555_rifa-boots.png",
+      "size": 757,
+      "sha256": "3D6574FE48289755A9B72E5D33FEF2D36D07EF8975DE09025E2219FC0C9C994B"
+    },
+    {
+      "requested_id": 2649,
+      "client_id": 3559,
+      "server_ids": [
+        2649
+      ],
+      "name": "Byakugan legs",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        643
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-2649_client-3559_byakugan-legs.png",
+      "size": 360,
+      "sha256": "8BEB7C4D5D6E6051CA40C7486DA1B1EA30893F714A56AB7C375794563D1A04DA"
+    },
+    {
+      "requested_id": 2659,
+      "client_id": 3570,
+      "server_ids": [
+        2659
+      ],
+      "name": "Kage shuriken",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        12998
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-2659_client-3570_kage-shuriken.png",
+      "size": 260,
+      "sha256": "276B6D2EF6C919A13874A1A7D1C4F08D3FE27121A999BFB04AD6D2B0996C07EE"
+    },
+    {
+      "requested_id": 2665,
+      "client_id": 3576,
+      "server_ids": [
+        2665
+      ],
+      "name": "Kohonamaru armor",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        13065
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-2665_client-3576_kohonamaru-armor.png",
+      "size": 1086,
+      "sha256": "1CD9AB483F348CFC17C7A61578DB23A6AD30FF82A717E30C3242A065A30B0C8F"
+    },
+    {
+      "requested_id": 2803,
+      "client_id": 3739,
+      "server_ids": [
+        2803
+      ],
+      "name": "Powder herb",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        13474
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-2803_client-3739_powder-herb.png",
+      "size": 248,
+      "sha256": "521A762D6057C8E91C80D4B1C4760FF8E9FB63E0567586D022E9772D684B1FDF"
+    },
+    {
+      "requested_id": 3939,
+      "client_id": 2864,
+      "server_ids": [
+        3939
+      ],
+      "name": "Green Shuriken Bag",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        13142
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-3939_client-2864_green-shuriken-bag.png",
+      "size": 368,
+      "sha256": "2C7A1AB859231F00076CB0D1693A610A1240C72653E0D046EF077D4013A834EC"
+    },
+    {
+      "requested_id": 3940,
+      "client_id": 2872,
+      "server_ids": [
+        3940
+      ],
+      "name": "Shuriken Bag",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        13139
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-3940_client-2872_shuriken-bag.png",
+      "size": 370,
+      "sha256": "2155F6913396C234E9B01F238F91C76BE71B2B41501BC1DE95C49838D26D717E"
+    },
+    {
+      "requested_id": 3968,
+      "client_id": 3404,
+      "server_ids": [
+        3968
+      ],
+      "name": "Leopard armor",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        13051
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-3968_client-3404_leopard-armor.png",
+      "size": 1834,
+      "sha256": "2E1EE6AC7E1809930389F9E4FB465FACDC0786E8CB65D9CA54A876DFE066B127"
+    },
+    {
+      "requested_id": 4847,
+      "client_id": 4836,
+      "server_ids": [
+        4847
+      ],
+      "name": "Kurama Armor",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        16527
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-4847_client-4836_kurama-armor.png",
+      "size": 310,
+      "sha256": "BF73628E2CF76837EEE756D06F6491AD95D08ED774887DCE20EB9D2A0FC48025"
+    },
+    {
+      "requested_id": 5462,
+      "client_id": 5461,
+      "server_ids": [
+        5462
+      ],
+      "name": "Kurama Boots",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        0
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-5462_client-5461_kurama-boots.png",
+      "size": 83,
+      "sha256": "BA04F531DF0C7A12124750D521ADD77C55B16A6432D653C5559C16680DBD9F50"
+    },
+    {
+      "requested_id": 5905,
+      "client_id": 5905,
+      "server_ids": [
+        5905
+      ],
+      "name": "Vampire dust",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        5131
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-5905_client-5905_vampire-dust.png",
+      "size": 942,
+      "sha256": "EAD552981DDF729BB92DB3FF0665168D4B5FFE98614D66F2CA8336A5FB9DE955"
+    },
+    {
+      "requested_id": 5906,
+      "client_id": 5906,
+      "server_ids": [
+        5906
+      ],
+      "name": "Demon dust",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        5130
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-5906_client-5906_demon-dust.png",
+      "size": 977,
+      "sha256": "EA2469E0F3EB680973A30AD98345D820BDE46F004A8F06CDCB9F2A55C6AE9825"
+    },
+    {
+      "requested_id": 5925,
+      "client_id": 5925,
+      "server_ids": [
+        5925
+      ],
+      "name": "Uchiha Legs",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        16519
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-5925_client-5925_uchiha-legs.png",
+      "size": 401,
+      "sha256": "70A6F3E83D98681A0E20B6780273AE7CD0299EA36FFFEFD647B84CD5318D8CED"
+    },
+    {
+      "requested_id": 5933,
+      "client_id": 5933,
+      "server_ids": [
+        5933
+      ],
+      "name": "Jiraya Legs",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        13101
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-5933_client-5933_jiraya-legs.png",
+      "size": 947,
+      "sha256": "6D13124E269610718EF5BC110A81F5D93552E697F64558DE5F9CC0B45267733B"
+    },
+    {
+      "requested_id": 5935,
+      "client_id": 5935,
+      "server_ids": [
+        5935
+      ],
+      "name": "Uchiha Armor",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        16520
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-5935_client-5935_uchiha-armor.png",
+      "size": 412,
+      "sha256": "F6477769A193154A208735E93E90701BB1CFFAD90CF0F1206624DB880FF37837"
+    },
+    {
+      "requested_id": 6095,
+      "client_id": 6095,
+      "server_ids": [
+        6095
+      ],
+      "name": "Jiraya Armor",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        16518
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-6095_client-6095_jiraya-armor.png",
+      "size": 1572,
+      "sha256": "A01D36F1785BC4ABEAE137FED77A1A96B99425FC06ABE1982D931AF3DA8F4E6E"
+    },
+    {
+      "requested_id": 6111,
+      "client_id": 6111,
+      "server_ids": [
+        6111
+      ],
+      "name": "Armor rack",
+      "group_index": 0,
+      "width": 128,
+      "height": 64,
+      "layers": 2,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        2281,
+        2282,
+        2284,
+        2283,
+        5081,
+        5082,
+        5084,
+        5083
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-6111_client-6111_armor-rack.png",
+      "size": 3300,
+      "sha256": "186A6A32A000D00683D596C05256ACFF0F8A08CEB5FD27D672D9182A303468FC"
+    },
+    {
+      "requested_id": 6112,
+      "client_id": 6112,
+      "server_ids": [
+        6112
+      ],
+      "name": "Armor rack",
+      "group_index": 0,
+      "width": 128,
+      "height": 64,
+      "layers": 2,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        2285,
+        2286,
+        5080,
+        2287,
+        5123,
+        5122,
+        5120,
+        5121
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-6112_client-6112_armor-rack.png",
+      "size": 3352,
+      "sha256": "D003F3903001E8C8BCD52E984C9CF6AAE4D28717996B416D46CE487CBE57C6FA"
+    },
+    {
+      "requested_id": 6132,
+      "client_id": 6529,
+      "server_ids": [
+        6132
+      ],
+      "name": "Pair of soft boots",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        1396
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-6132_client-6529_pair-of-soft-boots.png",
+      "size": 304,
+      "sha256": "84B5FAFAF1D72296455C35BDC16F0230F8D76E418AD160B874683C0E075F2694"
+    },
+    {
+      "requested_id": 6530,
+      "client_id": 3123,
+      "server_ids": [
+        6530
+      ],
+      "name": "Pair of old worn soft boots",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        767
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-6530_client-3123_pair-of-old-worn-soft-boots.png",
+      "size": 757,
+      "sha256": "0ABFC17BC8A87B106927F4952F917802294874316C600FE1132535276828943B"
+    },
+    {
+      "requested_id": 6550,
+      "client_id": 6550,
+      "server_ids": [
+        6550
+      ],
+      "name": "Demon dust",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        5130
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-6550_client-6550_demon-dust.png",
+      "size": 977,
+      "sha256": "EA2469E0F3EB680973A30AD98345D820BDE46F004A8F06CDCB9F2A55C6AE9825"
+    },
+    {
+      "requested_id": 6551,
+      "client_id": 6551,
+      "server_ids": [
+        6551
+      ],
+      "name": "Vampire dust",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        5131
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-6551_client-6551_vampire-dust.png",
+      "size": 942,
+      "sha256": "EAD552981DDF729BB92DB3FF0665168D4B5FFE98614D66F2CA8336A5FB9DE955"
+    },
+    {
+      "requested_id": 7386,
+      "client_id": 7386,
+      "server_ids": [
+        7386
+      ],
+      "name": "Dark legs",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        13068
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-7386_client-7386_dark-legs.png",
+      "size": 305,
+      "sha256": "90D806ACCAD00EC3CA55ABE2A2DE1EAA9E1EE1767829A43A142539FF4E7F1ECC"
+    },
+    {
+      "requested_id": 7387,
+      "client_id": 7387,
+      "server_ids": [
+        7387
+      ],
+      "name": "Xxgenin boots",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        13069
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-7387_client-7387_xxgenin-boots.png",
+      "size": 708,
+      "sha256": "E6DED2B31AB8E791EBDD700AD18EA35FF970BCA3501072EADB5FE34C2B5FCF23"
+    },
+    {
+      "requested_id": 7390,
+      "client_id": 7390,
+      "server_ids": [
+        7390
+      ],
+      "name": "Rock Lee legs",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        13072
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-7390_client-7390_rock-lee-legs.png",
+      "size": 370,
+      "sha256": "1E64A5DF8EBB086D8D4E22F6678427EE4556E9894CE7867310044ADDA3C05C1B"
+    },
+    {
+      "requested_id": 7408,
+      "client_id": 7408,
+      "server_ids": [
+        7408
+      ],
+      "name": "Hashirama Armor",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        811
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-7408_client-7408_hashirama-armor.png",
+      "size": 372,
+      "sha256": "37A6503D21235FB5B3F1ED497E05E9FA9C4D02E349A57609D3E1A4CFCF283B84"
+    },
+    {
+      "requested_id": 7417,
+      "client_id": 7417,
+      "server_ids": [
+        7417
+      ],
+      "name": "Chakra boots",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        13082
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-7417_client-7417_chakra-boots.png",
+      "size": 504,
+      "sha256": "BA4A9E920DAB6837EA80819C37D891DAB20EE18B675BD8A4430F9CA69AF3D671"
+    },
+    {
+      "requested_id": 7429,
+      "client_id": 7429,
+      "server_ids": [
+        7429
+      ],
+      "name": "Nidaime Boots",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        266181
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-7429_client-7429_nidaime-boots.png",
+      "size": 299,
+      "sha256": "237B264B7C06CF0721B064BF2693CCFA9063B4F1D12A7AFA3CFD5D80EFFE417E"
+    },
+    {
+      "requested_id": 7463,
+      "client_id": 7463,
+      "server_ids": [
+        7463
+      ],
+      "name": "Nidaime Armor",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        21179
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-7463_client-7463_nidaime-armor.png",
+      "size": 2088,
+      "sha256": "C5AD492A55865BE595AF70896453C6D2C4532391F05A7A86015856BF692EE272"
+    },
+    {
+      "requested_id": 7730,
+      "client_id": 645,
+      "server_ids": [
+        7730
+      ],
+      "name": "Kurama Legs",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        16531
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-7730_client-645_kurama-legs.png",
+      "size": 373,
+      "sha256": "AF68999A948E535DAED9027A92ADF4FFE3904DF17789EA4DF15F62651EA568A7"
+    },
+    {
+      "requested_id": 7769,
+      "client_id": 685,
+      "server_ids": [
+        7769
+      ],
+      "name": "Kage Raiton Enchanted Shuriken",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        31433
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-7769_client-685_kage-raiton-enchanted-shuriken.png",
+      "size": 276,
+      "sha256": "7AD5ADDDAA2C07CA6FF001E962946140E2055B2CCB4DE90A975D2FFA2F886AD7"
+    },
+    {
+      "requested_id": 7770,
+      "client_id": 686,
+      "server_ids": [
+        7770
+      ],
+      "name": "Kage Enchant Shuriken",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        31432
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-7770_client-686_kage-enchant-shuriken.png",
+      "size": 265,
+      "sha256": "AB5E6340305A025787F3373DB385A298652CEDAD87938DD8AFFD6250C4E475AB"
+    },
+    {
+      "requested_id": 7771,
+      "client_id": 687,
+      "server_ids": [
+        7771
+      ],
+      "name": "Kage Fuuton Enchanted Shuriken",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        31431
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-7771_client-687_kage-fuuton-enchanted-shuriken.png",
+      "size": 268,
+      "sha256": "859EEB8CF3755B359AF4C1394AAAFD0507542CB3AC39BE63771F10A5F0CB2515"
+    },
+    {
+      "requested_id": 7772,
+      "client_id": 688,
+      "server_ids": [
+        7772
+      ],
+      "name": "Kage Katon Enchanted Shuriken",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        31430
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-7772_client-688_kage-katon-enchanted-shuriken.png",
+      "size": 250,
+      "sha256": "96CD48E2D9EC2537C9A47B40AFCC6E55CF0DF41090DFEE0B3C3F677A015A0135"
+    },
+    {
+      "requested_id": 7773,
+      "client_id": 689,
+      "server_ids": [
+        7773
+      ],
+      "name": "Kage Suiton Enchanted Shuriken",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        31429
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-7773_client-689_kage-suiton-enchanted-shuriken.png",
+      "size": 254,
+      "sha256": "98AFCC33535A3B861D3ACB278D3F18778CE3CB4BBB6CA8A32511763D84EE7B67"
+    },
+    {
+      "requested_id": 7774,
+      "client_id": 690,
+      "server_ids": [
+        7774
+      ],
+      "name": "Kage Doton Enchanted Shuriken",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        31428
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-7774_client-690_kage-doton-enchanted-shuriken.png",
+      "size": 252,
+      "sha256": "84F79355D2CFCA1D1EBED619AADC159D0B7EFA9DE42FE9CF4E574CB15AA6DD87"
+    },
+    {
+      "requested_id": 7891,
+      "client_id": 818,
+      "server_ids": [
+        7891
+      ],
+      "name": "Magma boots",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        13366
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-7891_client-818_magma-boots.png",
+      "size": 378,
+      "sha256": "CDF6C0C412A874334F2C5884A6038278A81ABD859E911A86356CB50FC2128664"
+    },
+    {
+      "requested_id": 7893,
+      "client_id": 820,
+      "server_ids": [
+        7893
+      ],
+      "name": "Lightning boots",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        13369
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-7893_client-820_lightning-boots.png",
+      "size": 684,
+      "sha256": "7E1BA1130C5CD71749886FC900AF1F83C4BA01D9B6B30E53E70F6871BB0F5EB4"
+    },
+    {
+      "requested_id": 7894,
+      "client_id": 821,
+      "server_ids": [
+        7894
+      ],
+      "name": "Magma legs",
+      "group_index": 0,
+      "width": 32,
+      "height": 128,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 4,
+      "sprite_ids": [
+        13368,
+        7625,
+        7626,
+        7625
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-7894_client-821_magma-legs.png",
+      "size": 1617,
+      "sha256": "751EC4B8DAB2EED123B2AFD0382A0BC95419C7F08F91AC9083E568592795E71B"
+    },
+    {
+      "requested_id": 7895,
+      "client_id": 822,
+      "server_ids": [
+        7895
+      ],
+      "name": "Lightning legs",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        13370
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-7895_client-822_lightning-legs.png",
+      "size": 635,
+      "sha256": "B5A49ED7F240689348DBE0809A7ACF1ADEDB32CF9958666D7CD89C53682E8215"
+    },
+    {
+      "requested_id": 8851,
+      "client_id": 8023,
+      "server_ids": [
+        8851
+      ],
+      "name": "Sennin Legs",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        5941
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-8851_client-8023_sennin-legs.png",
+      "size": 442,
+      "sha256": "4991EACFFEEFFBCE7BE3CC22426D31403B87A249EC36D0F51B7AD51A94B4D2FB"
+    },
+    {
+      "requested_id": 8852,
+      "client_id": 8024,
+      "server_ids": [
+        8852
+      ],
+      "name": "Yondaime Boots",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        13069
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-8852_client-8024_yondaime-boots.png",
+      "size": 708,
+      "sha256": "E6DED2B31AB8E791EBDD700AD18EA35FF970BCA3501072EADB5FE34C2B5FCF23"
+    },
+    {
+      "requested_id": 8855,
+      "client_id": 8027,
+      "server_ids": [
+        8855
+      ],
+      "name": "Madara Boots",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        13070
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-8855_client-8027_madara-boots.png",
+      "size": 245,
+      "sha256": "FB1AB45DA82473F8E5885316C05574AA4C154F93C2CB8101E4FA590B3B10A7F7"
+    },
+    {
+      "requested_id": 8868,
+      "client_id": 8040,
+      "server_ids": [
+        8868
+      ],
+      "name": "Taijutsu legs",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        13111
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-8868_client-8040_taijutsu-legs.png",
+      "size": 1037,
+      "sha256": "8F028EC6A690ACE03640A31C8408E648296BF511D8B2B5FFFCC9ED3F64E76BB2"
+    },
+    {
+      "requested_id": 8869,
+      "client_id": 8041,
+      "server_ids": [
+        8869
+      ],
+      "name": "Orochimaru boots",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        13112
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-8869_client-8041_orochimaru-boots.png",
+      "size": 898,
+      "sha256": "B4BCABED973DF4FDC7DFE77514030A316B19EE10F4D15CC5F65C02756922E26F"
+    },
+    {
+      "requested_id": 8873,
+      "client_id": 8045,
+      "server_ids": [
+        8873
+      ],
+      "name": "Black jounnin legs",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        13116
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-8873_client-8045_black-jounnin-legs.png",
+      "size": 1131,
+      "sha256": "A85D0110D7A86076649ACEAA2DE8DF18D2FBF17E86D3CC368C2C7E64A5A3461D"
+    },
+    {
+      "requested_id": 8874,
+      "client_id": 8046,
+      "server_ids": [
+        8874
+      ],
+      "name": "Anbu fakearmor",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        13117
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-8874_client-8046_anbu-fakearmor.png",
+      "size": 347,
+      "sha256": "6F5C2682B256F3A9AD3CAA6C627E1FAC2916DFC7A25A3880AF6136EF4C0C65B1"
+    },
+    {
+      "requested_id": 8877,
+      "client_id": 8049,
+      "server_ids": [
+        8877
+      ],
+      "name": "Lavos armor",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        13120
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-8877_client-8049_lavos-armor.png",
+      "size": 1361,
+      "sha256": "E19D16262DE5025584742CEAC9AE3792BE3880C4B136D1343308E155117CEA85"
+    },
+    {
+      "requested_id": 8878,
+      "client_id": 8050,
+      "server_ids": [
+        8878
+      ],
+      "name": "Crystalline armor",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        13121
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-8878_client-8050_crystalline-armor.png",
+      "size": 1389,
+      "sha256": "6521A39400AD172D8D29EFF16187DCB28D14CDEF83EE2DBA41ABAB466B63F598"
+    },
+    {
+      "requested_id": 8879,
+      "client_id": 8051,
+      "server_ids": [
+        8879
+      ],
+      "name": "Voltage armor",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        13122
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-8879_client-8051_voltage-armor.png",
+      "size": 1063,
+      "sha256": "A1C9BC5786BC44C9F62C17C53491E855F87E4F7BF8125AD8CA3304845611781E"
+    },
+    {
+      "requested_id": 8880,
+      "client_id": 8052,
+      "server_ids": [
+        8880
+      ],
+      "name": "Swamplair armor",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        13123
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-8880_client-8052_swamplair-armor.png",
+      "size": 1539,
+      "sha256": "A334D3E29CF8ED97F7030256794B3F4E40BBFA7C60B04B9FF44D0FFEB3A8F4E0"
+    },
+    {
+      "requested_id": 8881,
+      "client_id": 8053,
+      "server_ids": [
+        8881
+      ],
+      "name": "Fireborn giant armor",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        13124
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-8881_client-8053_fireborn-giant-armor.png",
+      "size": 336,
+      "sha256": "FB08927235D29D15A8BBDB4D880D7208ADDFF0902E581446010B23E619A52F62"
+    },
+    {
+      "requested_id": 8882,
+      "client_id": 8054,
+      "server_ids": [
+        8882
+      ],
+      "name": "Earthborn titan armor",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        0
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-8882_client-8054_earthborn-titan-armor.png",
+      "size": 83,
+      "sha256": "BA04F531DF0C7A12124750D521ADD77C55B16A6432D653C5559C16680DBD9F50"
+    },
+    {
+      "requested_id": 8883,
+      "client_id": 8055,
+      "server_ids": [
+        8883
+      ],
+      "name": "Windborn colossus armor",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        0
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-8883_client-8055_windborn-colossus-armor.png",
+      "size": 83,
+      "sha256": "BA04F531DF0C7A12124750D521ADD77C55B16A6432D653C5559C16680DBD9F50"
+    },
+    {
+      "requested_id": 8888,
+      "client_id": 8060,
+      "server_ids": [
+        8888
+      ],
+      "name": "Master archer's armor",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        0
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-8888_client-8060_master-archer-s-armor.png",
+      "size": 83,
+      "sha256": "BA04F531DF0C7A12124750D521ADD77C55B16A6432D653C5559C16680DBD9F50"
+    },
+    {
+      "requested_id": 8889,
+      "client_id": 8061,
+      "server_ids": [
+        8889
+      ],
+      "name": "Skullcracker armor",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        0
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-8889_client-8061_skullcracker-armor.png",
+      "size": 83,
+      "sha256": "BA04F531DF0C7A12124750D521ADD77C55B16A6432D653C5559C16680DBD9F50"
+    },
+    {
+      "requested_id": 8891,
+      "client_id": 8063,
+      "server_ids": [
+        8891
+      ],
+      "name": "Paladin armor",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        0
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-8891_client-8063_paladin-armor.png",
+      "size": 83,
+      "sha256": "BA04F531DF0C7A12124750D521ADD77C55B16A6432D653C5559C16680DBD9F50"
+    },
+    {
+      "requested_id": 8906,
+      "client_id": 8078,
+      "server_ids": [
+        8906
+      ],
+      "name": "Lighting Shuriken Shield",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        0
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-8906_client-8078_lighting-shuriken-shield.png",
+      "size": 83,
+      "sha256": "BA04F531DF0C7A12124750D521ADD77C55B16A6432D653C5559C16680DBD9F50"
+    },
+    {
+      "requested_id": 8908,
+      "client_id": 8080,
+      "server_ids": [
+        8908
+      ],
+      "name": "Ice Lighting Shuriken Shield",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        0
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-8908_client-8080_ice-lighting-shuriken-shield.png",
+      "size": 83,
+      "sha256": "BA04F531DF0C7A12124750D521ADD77C55B16A6432D653C5559C16680DBD9F50"
+    },
+    {
+      "requested_id": 8909,
+      "client_id": 8081,
+      "server_ids": [
+        8909
+      ],
+      "name": "Fire Shuriken Shield",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        0
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-8909_client-8081_fire-shuriken-shield.png",
+      "size": 83,
+      "sha256": "BA04F531DF0C7A12124750D521ADD77C55B16A6432D653C5559C16680DBD9F50"
+    },
+    {
+      "requested_id": 8923,
+      "client_id": 8095,
+      "server_ids": [
+        8923
+      ],
+      "name": "Ranger legs",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        0
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-8923_client-8095_ranger-legs.png",
+      "size": 83,
+      "sha256": "BA04F531DF0C7A12124750D521ADD77C55B16A6432D653C5559C16680DBD9F50"
+    },
+    {
+      "requested_id": 9633,
+      "client_id": 8717,
+      "server_ids": [
+        9633
+      ],
+      "name": "Dust of Arthei",
+      "group_index": 0,
+      "width": 64,
+      "height": 128,
+      "layers": 2,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 4,
+      "sprite_ids": [
+        5131,
+        334,
+        5131,
+        449,
+        5131,
+        334,
+        5131,
+        450
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-9633_client-8717_dust-of-arthei.png",
+      "size": 1837,
+      "sha256": "D0772CD24F65C48059BCD485C620F1430BCB4CED878DF7C96D4D6C5BA5FE82B3"
+    },
+    {
+      "requested_id": 9634,
+      "client_id": 8718,
+      "server_ids": [
+        9634
+      ],
+      "name": "Dust of Boreth",
+      "group_index": 0,
+      "width": 64,
+      "height": 128,
+      "layers": 2,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 4,
+      "sprite_ids": [
+        5131,
+        334,
+        5131,
+        449,
+        5131,
+        334,
+        5131,
+        450
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-9634_client-8718_dust-of-boreth.png",
+      "size": 1837,
+      "sha256": "D0772CD24F65C48059BCD485C620F1430BCB4CED878DF7C96D4D6C5BA5FE82B3"
+    },
+    {
+      "requested_id": 9635,
+      "client_id": 8719,
+      "server_ids": [
+        9635
+      ],
+      "name": "Dust of Lersatio",
+      "group_index": 0,
+      "width": 64,
+      "height": 128,
+      "layers": 2,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 4,
+      "sprite_ids": [
+        5131,
+        334,
+        5131,
+        449,
+        5131,
+        334,
+        5131,
+        450
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-9635_client-8719_dust-of-lersatio.png",
+      "size": 1837,
+      "sha256": "D0772CD24F65C48059BCD485C620F1430BCB4CED878DF7C96D4D6C5BA5FE82B3"
+    },
+    {
+      "requested_id": 9636,
+      "client_id": 8720,
+      "server_ids": [
+        9636
+      ],
+      "name": "Dust of Marziel",
+      "group_index": 0,
+      "width": 64,
+      "height": 128,
+      "layers": 2,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 4,
+      "sprite_ids": [
+        5131,
+        334,
+        5131,
+        449,
+        5131,
+        334,
+        5131,
+        450
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-9636_client-8720_dust-of-marziel.png",
+      "size": 1837,
+      "sha256": "D0772CD24F65C48059BCD485C620F1430BCB4CED878DF7C96D4D6C5BA5FE82B3"
+    },
+    {
+      "requested_id": 9736,
+      "client_id": 8821,
+      "server_ids": [
+        9736
+      ],
+      "name": "Armor",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        5123,
+        5122,
+        5120,
+        5121
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-9736_client-8821_armor.png",
+      "size": 1229,
+      "sha256": "260729AE7EBBE097E86042EB569820E9A237BCE9A28D366A8A9118CA820C2791"
+    },
+    {
+      "requested_id": 9776,
+      "client_id": 8862,
+      "server_ids": [
+        9776
+      ],
+      "name": "Yalahari armor",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        0
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-9776_client-8862_yalahari-armor.png",
+      "size": 83,
+      "sha256": "BA04F531DF0C7A12124750D521ADD77C55B16A6432D653C5559C16680DBD9F50"
+    },
+    {
+      "requested_id": 9934,
+      "client_id": 3123,
+      "server_ids": [
+        9934
+      ],
+      "name": "Old worn firewalker boots",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        767
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-9934_client-3123_old-worn-firewalker-boots.png",
+      "size": 757,
+      "sha256": "0ABFC17BC8A87B106927F4952F917802294874316C600FE1132535276828943B"
+    },
+    {
+      "requested_id": 10021,
+      "client_id": 6530,
+      "server_ids": [
+        10021
+      ],
+      "name": "Pair of worn soft boots",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        10961
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-10021_client-6530_pair-of-worn-soft-boots.png",
+      "size": 933,
+      "sha256": "2AC2B33109AC81E00696DD4D59CFFFDE22328767A87E92575F09F7169152A702"
+    },
+    {
+      "requested_id": 10022,
+      "client_id": 9020,
+      "server_ids": [
+        10022
+      ],
+      "name": "Worn firewalker boots",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        10959
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-10022_client-9020_worn-firewalker-boots.png",
+      "size": 1071,
+      "sha256": "D0D0D8F806277D0271B56343409EE5D80AF5F70B1A7F0556EA7D9621AD2CC45E"
+    },
+    {
+      "requested_id": 10581,
+      "client_id": 9665,
+      "server_ids": [
+        10581
+      ],
+      "name": "Piece of hellfire armor",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        11048
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-10581_client-9665_piece-of-hellfire-armor.png",
+      "size": 506,
+      "sha256": "42D2326F8662EA5333EBFBC54A6AEA8555DA55FDA65E14978359E3DBD754CD84"
+    },
+    {
+      "requested_id": 11117,
+      "client_id": 10206,
+      "server_ids": [
+        11117
+      ],
+      "name": "Crystal boots",
+      "group_index": 0,
+      "width": 64,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        2779,
+        2778,
+        2777,
+        2776
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-11117_client-10206_crystal-boots.png",
+      "size": 4789,
+      "sha256": "4094E5B1312D80D14403DD39BAA93EC8E9B930A51F818223B356804F80D1157C"
+    },
+    {
+      "requested_id": 11240,
+      "client_id": 10329,
+      "server_ids": [
+        11240
+      ],
+      "name": "Guardian boots",
+      "group_index": 0,
+      "width": 128,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 4,
+      "pattern_y": 2,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        12538,
+        12539,
+        12540,
+        12541,
+        12542,
+        12543,
+        12543,
+        12543
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-11240_client-10329_guardian-boots.png",
+      "size": 1265,
+      "sha256": "622C6F5854B71D55391E05E282960F72941696AC06F6E64D2F431EF3B9F83189"
+    },
+    {
+      "requested_id": 11301,
+      "client_id": 10390,
+      "server_ids": [
+        11301
+      ],
+      "name": "Zaoan armor",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        12591
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-11301_client-10390_zaoan-armor.png",
+      "size": 359,
+      "sha256": "910680EC0762C65E196DA3151553D103AD37146343894FEBFC3B7E7FFFB0829F"
+    },
+    {
+      "requested_id": 11304,
+      "client_id": 10393,
+      "server_ids": [
+        11304
+      ],
+      "name": "Zaoan legs",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        0
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-11304_client-10393_zaoan-legs.png",
+      "size": 83,
+      "sha256": "BA04F531DF0C7A12124750D521ADD77C55B16A6432D653C5559C16680DBD9F50"
+    },
+    {
+      "requested_id": 11371,
+      "client_id": 10460,
+      "server_ids": [
+        11371
+      ],
+      "name": "Terramite legs",
+      "group_index": 0,
+      "width": 256,
+      "height": 192,
+      "layers": 1,
+      "pattern_x": 4,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 3,
+      "sprite_ids": [
+        2114,
+        2113,
+        2112,
+        2111,
+        2114,
+        2113,
+        2112,
+        2111,
+        2114,
+        2113,
+        2112,
+        2111,
+        2114,
+        2113,
+        2112,
+        2111,
+        2114,
+        2113,
+        2112,
+        2111,
+        2114,
+        2113,
+        2112,
+        2111,
+        2114,
+        2113,
+        2112,
+        2111,
+        2114,
+        2113,
+        2112,
+        2111,
+        2114,
+        2113,
+        2112,
+        2111,
+        2114,
+        2113,
+        2112,
+        2111,
+        2114,
+        2113,
+        2112,
+        2111,
+        2114,
+        2113,
+        2112,
+        2111
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-11371_client-10460_terramite-legs.png",
+      "size": 7358,
+      "sha256": "F4168B944F80AD08C6D3D5CCA1087C664B20B897E7021E86E8315DB929B7EA44"
+    },
+    {
+      "requested_id": 11416,
+      "client_id": 7408,
+      "server_ids": [
+        11416
+      ],
+      "name": "Senju Armor",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        811
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-11416_client-7408_senju-armor.png",
+      "size": 372,
+      "sha256": "37A6503D21235FB5B3F1ED497E05E9FA9C4D02E349A57609D3E1A4CFCF283B84"
+    },
+    {
+      "requested_id": 11417,
+      "client_id": 3319,
+      "server_ids": [
+        11417
+      ],
+      "name": "Senju Legs",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        0
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-11417_client-3319_senju-legs.png",
+      "size": 83,
+      "sha256": "BA04F531DF0C7A12124750D521ADD77C55B16A6432D653C5559C16680DBD9F50"
+    },
+    {
+      "requested_id": 11418,
+      "client_id": 7402,
+      "server_ids": [
+        11418
+      ],
+      "name": "Senju Boots",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        15524
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-11418_client-7402_senju-boots.png",
+      "size": 692,
+      "sha256": "B525AD77F50DB27BFD996BDB5DA302068441CB524D262A9ABD2850F5634D6EB6"
+    },
+    {
+      "requested_id": 11488,
+      "client_id": 10602,
+      "server_ids": [
+        11488
+      ],
+      "name": "Otsutsuki Armorx",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        179390
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-11488_client-10602_otsutsuki-armorx.png",
+      "size": 925,
+      "sha256": "9B3372B7DFEA87ABFA947CDD1ABC58052E10FC0995382B89EAEA68DF2F856508"
+    },
+    {
+      "requested_id": 11489,
+      "client_id": 10603,
+      "server_ids": [
+        11489
+      ],
+      "name": "Otsutsuki Legsx",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        179390
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-11489_client-10603_otsutsuki-legsx.png",
+      "size": 925,
+      "sha256": "9B3372B7DFEA87ABFA947CDD1ABC58052E10FC0995382B89EAEA68DF2F856508"
+    },
+    {
+      "requested_id": 11490,
+      "client_id": 10604,
+      "server_ids": [
+        11490
+      ],
+      "name": "Otsutsuki Bootsx",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        179390
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-11490_client-10604_otsutsuki-bootsx.png",
+      "size": 925,
+      "sha256": "9B3372B7DFEA87ABFA947CDD1ABC58052E10FC0995382B89EAEA68DF2F856508"
+    },
+    {
+      "requested_id": 14639,
+      "client_id": 13760,
+      "server_ids": [
+        14639
+      ],
+      "name": "Kijin Shuriken Bag",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        255240
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-14639_client-13760_kijin-shuriken-bag.png",
+      "size": 646,
+      "sha256": "3A2AC9782BD8C34327ED4A31DA643FB5EE6DD4B0B38939C44669F9D1DF1137A5"
+    },
+    {
+      "requested_id": 13200,
+      "client_id": 12323,
+      "server_ids": [
+        13200
+      ],
+      "name": "Shuriken",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        56125
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-13200_client-12323_shuriken.png",
+      "size": 1833,
+      "sha256": "F52B3F0649A172EAB525C26D1BCF51E5EEEEC70DE6442DDB506C3614392820F0"
+    },
+    {
+      "requested_id": 13201,
+      "client_id": 12324,
+      "server_ids": [
+        13201
+      ],
+      "name": "Big Shuriken",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        56126
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-13201_client-12324_big-shuriken.png",
+      "size": 2116,
+      "sha256": "C6DF18AB5A8B19921456BF60474454AC27AEDCEDE0BFC8993A3E8E08310B6A34"
+    },
+    {
+      "requested_id": 13203,
+      "client_id": 12326,
+      "server_ids": [
+        13203
+      ],
+      "name": "Fuuma Shuriken",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        56128
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-13203_client-12326_fuuma-shuriken.png",
+      "size": 1095,
+      "sha256": "525914901BAE81E42AD19B10B3E741686E2F57ECDB73F525C2DC12E97F2E848D"
+    },
+    {
+      "requested_id": 12237,
+      "client_id": 11360,
+      "server_ids": [
+        12237
+      ],
+      "name": "Naruto Armor",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        13077
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-12237_client-11360_naruto-armor.png",
+      "size": 1842,
+      "sha256": "40BAEEC0B234089174BAF5C14E7117C3F6AB5F25C45A62A62845F35F9E10FC00"
+    },
+    {
+      "requested_id": 12238,
+      "client_id": 11361,
+      "server_ids": [
+        12238
+      ],
+      "name": "Naruto Legs",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        13076
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-12238_client-11361_naruto-legs.png",
+      "size": 1346,
+      "sha256": "2B5F4601E6AB8BF994EE63433A1EE3321E0E9A1CEB706491261B78C6A6C8E8E0"
+    },
+    {
+      "requested_id": 12239,
+      "client_id": 11362,
+      "server_ids": [
+        12239
+      ],
+      "name": "Naruto Boots",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        13069
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-12239_client-11362_naruto-boots.png",
+      "size": 708,
+      "sha256": "E6DED2B31AB8E791EBDD700AD18EA35FF970BCA3501072EADB5FE34C2B5FCF23"
+    },
+    {
+      "requested_id": 12241,
+      "client_id": 11364,
+      "server_ids": [
+        12241
+      ],
+      "name": "Tobirama Armor",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        21179
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-12241_client-11364_tobirama-armor.png",
+      "size": 2088,
+      "sha256": "C5AD492A55865BE595AF70896453C6D2C4532391F05A7A86015856BF692EE272"
+    },
+    {
+      "requested_id": 12242,
+      "client_id": 11365,
+      "server_ids": [
+        12242
+      ],
+      "name": "Tobirama Legs",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        21180
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-12242_client-11365_tobirama-legs.png",
+      "size": 1471,
+      "sha256": "255E615FD2045E8D0FEC121F71E711F99380ADC92CFBA7877DAF43F98CD8E3FF"
+    },
+    {
+      "requested_id": 12243,
+      "client_id": 11366,
+      "server_ids": [
+        12243
+      ],
+      "name": "Tobirama Boots",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        13086
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-12243_client-11366_tobirama-boots.png",
+      "size": 969,
+      "sha256": "CBBEAB189EB18B2D52FD1B7C4B1DCC8ECEE6704071E9B6F57895C0E92742D833"
+    },
+    {
+      "requested_id": 12245,
+      "client_id": 11368,
+      "server_ids": [
+        12245
+      ],
+      "name": "Salamandra Armor",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        16532
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-12245_client-11368_salamandra-armor.png",
+      "size": 1137,
+      "sha256": "ABC68908F1577DCF28A064DCB04D45318D3B11B87E892F2F54E9D2618DD72E79"
+    },
+    {
+      "requested_id": 12246,
+      "client_id": 11369,
+      "server_ids": [
+        12246
+      ],
+      "name": "Salamandra Legs",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        16533
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-12246_client-11369_salamandra-legs.png",
+      "size": 381,
+      "sha256": "27BFBF734DF498ED0390F41693AA60C50FBB423221C00C44A3A7666B581954A1"
+    },
+    {
+      "requested_id": 12247,
+      "client_id": 11370,
+      "server_ids": [
+        12247
+      ],
+      "name": "Salamandra Boots",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        13055
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-12247_client-11370_salamandra-boots.png",
+      "size": 719,
+      "sha256": "E0A54B76D18236443528375BD8FEE381E909A884646E75D41378512D1C19EA9B"
+    },
+    {
+      "requested_id": 12093,
+      "client_id": 11216,
+      "server_ids": [
+        12093
+      ],
+      "name": "Konoha Armor",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        37000
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-12093_client-11216_konoha-armor.png",
+      "size": 396,
+      "sha256": "B9E18A87DBBE7F66A67832987D8357C799180011F46470C209FDB7E69D74AC97"
+    },
+    {
+      "requested_id": 12094,
+      "client_id": 11217,
+      "server_ids": [
+        12094
+      ],
+      "name": "Konoha Legs",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        37001
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-12094_client-11217_konoha-legs.png",
+      "size": 577,
+      "sha256": "2B69B8EF60540069BFB3D650310AD2EB2463FB79A16E21F2B1006EA53838EC2F"
+    },
+    {
+      "requested_id": 12095,
+      "client_id": 11218,
+      "server_ids": [
+        12095
+      ],
+      "name": "Konoha Boots",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        37002
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-12095_client-11218_konoha-boots.png",
+      "size": 604,
+      "sha256": "1D0BAFD2D89741BB0B57FDD63280888FE05D67DE3A51C600EBE67CDC482B5DCD"
+    },
+    {
+      "requested_id": 12097,
+      "client_id": 11220,
+      "server_ids": [
+        12097
+      ],
+      "name": "Konoha Armor I",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        37004
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-12097_client-11220_konoha-armor-i.png",
+      "size": 410,
+      "sha256": "FCAD1E9CC72D4E45074786315429FA7C7CEEA6F8EFD58ED674AC73E5BEC8FAC6"
+    },
+    {
+      "requested_id": 12098,
+      "client_id": 11221,
+      "server_ids": [
+        12098
+      ],
+      "name": "Konoha Legs I",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        37005
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-12098_client-11221_konoha-legs-i.png",
+      "size": 594,
+      "sha256": "3AD31F0F1BA51FF3DBAFA7D12EB6815C3ACF4D39EC03DB02D5A78E4186A3AF2A"
+    },
+    {
+      "requested_id": 12099,
+      "client_id": 11222,
+      "server_ids": [
+        12099
+      ],
+      "name": "Konoha Boots I",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        37006
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-12099_client-11222_konoha-boots-i.png",
+      "size": 617,
+      "sha256": "8F59F3C2EBF8FE0D591B1DEC0978FFE9742D3E067C8F440D249FAFE94E6368CE"
+    },
+    {
+      "requested_id": 12101,
+      "client_id": 11224,
+      "server_ids": [
+        12101
+      ],
+      "name": "Konoha Armor II",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        37008
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-12101_client-11224_konoha-armor-ii.png",
+      "size": 405,
+      "sha256": "F191DB2C6133944BE9DABB7084A4DB058D381A5BB399AAECDC3B66D724A9A935"
+    },
+    {
+      "requested_id": 12102,
+      "client_id": 11225,
+      "server_ids": [
+        12102
+      ],
+      "name": "Konoha Legs II",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        37009
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-12102_client-11225_konoha-legs-ii.png",
+      "size": 596,
+      "sha256": "20E21C852787E6EDB1F5AA41D7B7B6081A34D85B98BD2DF74483BC92F64FFB08"
+    },
+    {
+      "requested_id": 12103,
+      "client_id": 11226,
+      "server_ids": [
+        12103
+      ],
+      "name": "Konoha Boots II",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        37010
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-12103_client-11226_konoha-boots-ii.png",
+      "size": 619,
+      "sha256": "313822EAEA2B50AC94BE779B5DAAE1862DB8C7DE6CEF4D24F42F8EA9D92FD5A1"
+    },
+    {
+      "requested_id": 12105,
+      "client_id": 11228,
+      "server_ids": [
+        12105
+      ],
+      "name": "Konoha Armor III",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        37012
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-12105_client-11228_konoha-armor-iii.png",
+      "size": 410,
+      "sha256": "9200A569CC663B92D3990646FF0A90EB10C801293983FEFCD498C5633C813CD6"
+    },
+    {
+      "requested_id": 12106,
+      "client_id": 11229,
+      "server_ids": [
+        12106
+      ],
+      "name": "Konoha Legs III",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        37013
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-12106_client-11229_konoha-legs-iii.png",
+      "size": 586,
+      "sha256": "D646E5D732E669A6EC93A0B3C23E747641C2C5DF9119F534EAB6381ED2B0FB43"
+    },
+    {
+      "requested_id": 12107,
+      "client_id": 11230,
+      "server_ids": [
+        12107
+      ],
+      "name": "Konoha Boots III",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        37014
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-12107_client-11230_konoha-boots-iii.png",
+      "size": 618,
+      "sha256": "DB1D6B1E967CEC4456210D001CD478F509FBCF387FBDB671D27281F45EF6D525"
+    },
+    {
+      "requested_id": 12173,
+      "client_id": 11296,
+      "server_ids": [
+        12173
+      ],
+      "name": "Samurai Armor",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        31930
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-12173_client-11296_samurai-armor.png",
+      "size": 1291,
+      "sha256": "C4406028753D4EB110398309D40F295C481E9ECE90C978DAE2062D7C736DEFFE"
+    },
+    {
+      "requested_id": 12174,
+      "client_id": 11297,
+      "server_ids": [
+        12174
+      ],
+      "name": "Samurai Legs",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        31933
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-12174_client-11297_samurai-legs.png",
+      "size": 715,
+      "sha256": "B1105201967FE9D6434676298EEADBCFCC8A831BF7F5AFC1BEBCE8FC83BA00EB"
+    },
+    {
+      "requested_id": 12175,
+      "client_id": 11298,
+      "server_ids": [
+        12175
+      ],
+      "name": "Samurai Boots",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        31932
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-12175_client-11298_samurai-boots.png",
+      "size": 679,
+      "sha256": "009061D2F35093908861A56B158CB7F7FDDAC399EC401EC2A51DAA7DF3A2FC62"
+    },
+    {
+      "requested_id": 12177,
+      "client_id": 11300,
+      "server_ids": [
+        12177
+      ],
+      "name": "Samurai Armor I",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        37069
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-12177_client-11300_samurai-armor-i.png",
+      "size": 1308,
+      "sha256": "01775469426928AAFD60FE802F12FED713BEE16DE41EB04C1219F1A8C9D97B8B"
+    },
+    {
+      "requested_id": 12178,
+      "client_id": 11301,
+      "server_ids": [
+        12178
+      ],
+      "name": "Samurai Legs I",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        37070
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-12178_client-11301_samurai-legs-i.png",
+      "size": 731,
+      "sha256": "90D66AB5D1F2ED24B1A2D43250F00B4BA03467AF5819BA01003D1260076635D2"
+    },
+    {
+      "requested_id": 12179,
+      "client_id": 11302,
+      "server_ids": [
+        12179
+      ],
+      "name": "Samurai Boots I",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        37071
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-12179_client-11302_samurai-boots-i.png",
+      "size": 681,
+      "sha256": "1263BED32F7D795C8BBAB838A0297F64E5B190270531CDE1F13D1134CCE91A95"
+    },
+    {
+      "requested_id": 12181,
+      "client_id": 11304,
+      "server_ids": [
+        12181
+      ],
+      "name": "Samurai Armor II",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        37073
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-12181_client-11304_samurai-armor-ii.png",
+      "size": 1294,
+      "sha256": "69C86942726CD2D5C617A5B65BA66D75CF0E06B92DD199D41B7B04096DEADAC6"
+    },
+    {
+      "requested_id": 12182,
+      "client_id": 11305,
+      "server_ids": [
+        12182
+      ],
+      "name": "Samurai Legs II",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        37074
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-12182_client-11305_samurai-legs-ii.png",
+      "size": 738,
+      "sha256": "E525DB0FC29951FE590C3FA60219F909F7381BB76A700C059C3A716A2023E8C7"
+    },
+    {
+      "requested_id": 12183,
+      "client_id": 11306,
+      "server_ids": [
+        12183
+      ],
+      "name": "Samurai Boots II",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        37075
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-12183_client-11306_samurai-boots-ii.png",
+      "size": 682,
+      "sha256": "EC2AF0E4284416AE293CFA27F701F3CCF4177698F81311575A28DB6299FE9789"
+    },
+    {
+      "requested_id": 12185,
+      "client_id": 11308,
+      "server_ids": [
+        12185
+      ],
+      "name": "Samurai Armor III",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        37077
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-12185_client-11308_samurai-armor-iii.png",
+      "size": 1295,
+      "sha256": "EE1268DD7144016EB355F43778634B7078A7564BE8E88B95978AA6D7AE0BFD29"
+    },
+    {
+      "requested_id": 12186,
+      "client_id": 11309,
+      "server_ids": [
+        12186
+      ],
+      "name": "Samurai Legs III",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        37078
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-12186_client-11309_samurai-legs-iii.png",
+      "size": 739,
+      "sha256": "ECDD19B3F983DF84A959441FAD11A9C370705326EF640F5F3495D34C08909E5D"
+    },
+    {
+      "requested_id": 12187,
+      "client_id": 11310,
+      "server_ids": [
+        12187
+      ],
+      "name": "Samurai Boots III",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        37079
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-12187_client-11310_samurai-boots-iii.png",
+      "size": 686,
+      "sha256": "89C4F4FBEF70FA696D94ABE19DA9FD510A29887A7D022588E2BD250C1A06C75A"
+    },
+    {
+      "requested_id": 12205,
+      "client_id": 11328,
+      "server_ids": [
+        12205
+      ],
+      "name": "Mitsuki Armor",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        35375
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-12205_client-11328_mitsuki-armor.png",
+      "size": 576,
+      "sha256": "29424D87CF628E6692235733190A92DA006F3F22F30A11D1CE587D2BCBF03372"
+    },
+    {
+      "requested_id": 12206,
+      "client_id": 11329,
+      "server_ids": [
+        12206
+      ],
+      "name": "Mitsuki Legs",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        35377
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-12206_client-11329_mitsuki-legs.png",
+      "size": 487,
+      "sha256": "E26B1692B6F8CF6BDA83FDD8C71DA2EA1C4F4ED507A73B05AA0E2E302A426DB7"
+    },
+    {
+      "requested_id": 12207,
+      "client_id": 11330,
+      "server_ids": [
+        12207
+      ],
+      "name": "Mitsuki Boots",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        35378
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-12207_client-11330_mitsuki-boots.png",
+      "size": 378,
+      "sha256": "7383C44463114F2292A998E6963BAB3A33EB39967AC5A07DB52129BBBB7EF7D5"
+    },
+    {
+      "requested_id": 12209,
+      "client_id": 11332,
+      "server_ids": [
+        12209
+      ],
+      "name": "Mitsuki Armor I",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        37093
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-12209_client-11332_mitsuki-armor-i.png",
+      "size": 591,
+      "sha256": "D66C0BAFC005E0F1FF9E77B3AC29C2E1444CDE22B3113CE3F9D3945E91713432"
+    },
+    {
+      "requested_id": 12210,
+      "client_id": 11333,
+      "server_ids": [
+        12210
+      ],
+      "name": "Mitsuki Legs I",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        37094
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-12210_client-11333_mitsuki-legs-i.png",
+      "size": 504,
+      "sha256": "285F3FF2380B1EB42F00C6C8B92F584044077592B6AFDAA307446B5F15198BDA"
+    },
+    {
+      "requested_id": 12211,
+      "client_id": 11334,
+      "server_ids": [
+        12211
+      ],
+      "name": "Mitsuki Boots I",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        37095
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-12211_client-11334_mitsuki-boots-i.png",
+      "size": 394,
+      "sha256": "05AE0DADDAE70E9580540B4892DD7D6B6940A6F563AD1280654CE9AEAE0A487B"
+    },
+    {
+      "requested_id": 12213,
+      "client_id": 11336,
+      "server_ids": [
+        12213
+      ],
+      "name": "Mitsuki Armor II",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        37097
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-12213_client-11336_mitsuki-armor-ii.png",
+      "size": 592,
+      "sha256": "58FFE61F7A7F26DA6755D8E1DB253CA3B69CC8C66A1C19DAA5BB8503B139465E"
+    },
+    {
+      "requested_id": 12214,
+      "client_id": 11337,
+      "server_ids": [
+        12214
+      ],
+      "name": "Mitsuki Legs II",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        37098
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-12214_client-11337_mitsuki-legs-ii.png",
+      "size": 509,
+      "sha256": "0F0D276FA33A047982A01908F11051C2765974003F171620358D78414C61C260"
+    },
+    {
+      "requested_id": 12215,
+      "client_id": 11338,
+      "server_ids": [
+        12215
+      ],
+      "name": "Mitsuki Boots II",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        37099
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-12215_client-11338_mitsuki-boots-ii.png",
+      "size": 400,
+      "sha256": "F9F30D34A5DB6836B668D6D327DBAF8DA277C6BBC48CDF8737A171E09637D98B"
+    },
+    {
+      "requested_id": 12217,
+      "client_id": 11340,
+      "server_ids": [
+        12217
+      ],
+      "name": "Mitsuki Armor III",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        37101
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-12217_client-11340_mitsuki-armor-iii.png",
+      "size": 596,
+      "sha256": "CB4774F03E0F270367777972D47A7FB968BB0F341731805A5C84E43FE2FD31CD"
+    },
+    {
+      "requested_id": 12218,
+      "client_id": 11341,
+      "server_ids": [
+        12218
+      ],
+      "name": "Mitsuki Legs III",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        37102
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-12218_client-11341_mitsuki-legs-iii.png",
+      "size": 507,
+      "sha256": "7DB3CF2B05E12ECE6807649DA3C338C52ACD5DC1E8EA3D4F2DE94618BB68B133"
+    },
+    {
+      "requested_id": 12219,
+      "client_id": 11342,
+      "server_ids": [
+        12219
+      ],
+      "name": "Mitsuki Boots III",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        37103
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-12219_client-11342_mitsuki-boots-iii.png",
+      "size": 399,
+      "sha256": "385B85BCDF4E1BA23A3E620DB9AD0462079BA2EC056EA6C58179571795CAE326"
+    },
+    {
+      "requested_id": 12157,
+      "client_id": 11280,
+      "server_ids": [
+        12157
+      ],
+      "name": "Otsutsuki Armor",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        34339
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-12157_client-11280_otsutsuki-armor.png",
+      "size": 449,
+      "sha256": "FFD076169137CBDEC8CDD95C5C56EA5D608635594A795300E3AB42E3B431F6A7"
+    },
+    {
+      "requested_id": 12158,
+      "client_id": 11281,
+      "server_ids": [
+        12158
+      ],
+      "name": "Otsutsuki Legs",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        34340
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-12158_client-11281_otsutsuki-legs.png",
+      "size": 315,
+      "sha256": "98FF02FD884A8EFF65CB3E2313FD48E6A4969438861A351F604A63E44200EC4E"
+    },
+    {
+      "requested_id": 12159,
+      "client_id": 11282,
+      "server_ids": [
+        12159
+      ],
+      "name": "Otsutsuki Boots",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        34341
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-12159_client-11282_otsutsuki-boots.png",
+      "size": 264,
+      "sha256": "BEB218AAC5E5328E6C17B545F13BFDDE666ACCC0FAF972B8D11B8A2DD9373B5E"
+    },
+    {
+      "requested_id": 12161,
+      "client_id": 11284,
+      "server_ids": [
+        12161
+      ],
+      "name": "Otsutsuki Armor I",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        37057
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-12161_client-11284_otsutsuki-armor-i.png",
+      "size": 460,
+      "sha256": "F6595A745BCDDF08C76972A15CBE69D0A1A3553B09C667C7951907A84F11D9C1"
+    },
+    {
+      "requested_id": 12162,
+      "client_id": 11285,
+      "server_ids": [
+        12162
+      ],
+      "name": "Otsutsuki Legs I",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        37058
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-12162_client-11285_otsutsuki-legs-i.png",
+      "size": 324,
+      "sha256": "A52A65FCCA8B5495CB08CAD4104B25DE787E28AE737C02904AFBF38B1CA07D70"
+    },
+    {
+      "requested_id": 12163,
+      "client_id": 11286,
+      "server_ids": [
+        12163
+      ],
+      "name": "Otsutsuki Boots I",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        37059
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-12163_client-11286_otsutsuki-boots-i.png",
+      "size": 280,
+      "sha256": "6BA4C9E4036CCC55C23A5D05BB585E029A2867F7AA0060FF1CAF390D909AEC8D"
+    },
+    {
+      "requested_id": 12165,
+      "client_id": 11288,
+      "server_ids": [
+        12165
+      ],
+      "name": "Otsutsuki Armor II",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        37061
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-12165_client-11288_otsutsuki-armor-ii.png",
+      "size": 463,
+      "sha256": "EAD9E88410767FD88063C23B90D6CFB151C27FC963565C88954663196B068204"
+    },
+    {
+      "requested_id": 12166,
+      "client_id": 11289,
+      "server_ids": [
+        12166
+      ],
+      "name": "Otsutsuki Legs II",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        37062
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-12166_client-11289_otsutsuki-legs-ii.png",
+      "size": 329,
+      "sha256": "F3F14E616DD6B8BFBDA74A3DE59758F4D6D129A936B12719844B816DDE1879D1"
+    },
+    {
+      "requested_id": 12167,
+      "client_id": 11290,
+      "server_ids": [
+        12167
+      ],
+      "name": "Otsutsuki Boots II",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        37063
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-12167_client-11290_otsutsuki-boots-ii.png",
+      "size": 282,
+      "sha256": "28C947E0EE0ABB4B396F095588BD711BFAD1E59D4F8EA3C431742CEE11BD722E"
+    },
+    {
+      "requested_id": 12169,
+      "client_id": 11292,
+      "server_ids": [
+        12169
+      ],
+      "name": "Otsutsuki Armor III",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        37065
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-12169_client-11292_otsutsuki-armor-iii.png",
+      "size": 464,
+      "sha256": "D8E09BAD5D8F52B8EEFC0033520AFC1B6AF33B6CC60E1C139451B2A0169B687F"
+    },
+    {
+      "requested_id": 12170,
+      "client_id": 11293,
+      "server_ids": [
+        12170
+      ],
+      "name": "Otsutsuki Legs III",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        37067
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-12170_client-11293_otsutsuki-legs-iii.png",
+      "size": 336,
+      "sha256": "456B1AD4B7709ED173A02AB58C13C109B9281EEB49AFE22A93DE5D344F7ADE47"
+    },
+    {
+      "requested_id": 12171,
+      "client_id": 11294,
+      "server_ids": [
+        12171
+      ],
+      "name": "Otsutsuki Boots III",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        37066
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-12171_client-11294_otsutsuki-boots-iii.png",
+      "size": 284,
+      "sha256": "645D25D47842B597D0CF1C4E0C26F3688ADD45519BC7ACA0E7181043897A70B5"
+    },
+    {
+      "requested_id": 12125,
+      "client_id": 11248,
+      "server_ids": [
+        12125
+      ],
+      "name": "Uchiha Armor",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        16520
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-12125_client-11248_uchiha-armor.png",
+      "size": 412,
+      "sha256": "F6477769A193154A208735E93E90701BB1CFFAD90CF0F1206624DB880FF37837"
+    },
+    {
+      "requested_id": 12126,
+      "client_id": 11249,
+      "server_ids": [
+        12126
+      ],
+      "name": "Uchiha Legs",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        16519
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-12126_client-11249_uchiha-legs.png",
+      "size": 401,
+      "sha256": "70A6F3E83D98681A0E20B6780273AE7CD0299EA36FFFEFD647B84CD5318D8CED"
+    },
+    {
+      "requested_id": 12127,
+      "client_id": 11250,
+      "server_ids": [
+        12127
+      ],
+      "name": "Uchiha Boots",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        16521
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-12127_client-11250_uchiha-boots.png",
+      "size": 350,
+      "sha256": "56127C8F9C29DCEC73F1E734E758A1A941547DAA8A5F12A8EEC95A5A6D192840"
+    },
+    {
+      "requested_id": 12129,
+      "client_id": 11252,
+      "server_ids": [
+        12129
+      ],
+      "name": "Uchiha Armor I",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        37029
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-12129_client-11252_uchiha-armor-i.png",
+      "size": 426,
+      "sha256": "DD44AD71B4DCA0875F95CF161E64790E2F69656298F1831F0EC59F8DAED5E108"
+    },
+    {
+      "requested_id": 12130,
+      "client_id": 11253,
+      "server_ids": [
+        12130
+      ],
+      "name": "Uchiha Legs I",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        37030
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-12130_client-11253_uchiha-legs-i.png",
+      "size": 422,
+      "sha256": "0AA22B9BF6C697807DEDE3C912782621BB32408437D3CF215E4123E75A99B029"
+    },
+    {
+      "requested_id": 12131,
+      "client_id": 11254,
+      "server_ids": [
+        12131
+      ],
+      "name": "Uchiha Boots I",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        37031
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-12131_client-11254_uchiha-boots-i.png",
+      "size": 368,
+      "sha256": "62A096C5CEA56EED72BB887BE3F2E384D32C00E25C9EB2BAED27E5BE11056106"
+    },
+    {
+      "requested_id": 12133,
+      "client_id": 11256,
+      "server_ids": [
+        12133
+      ],
+      "name": "Uchiha Armor II",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        37033
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-12133_client-11256_uchiha-armor-ii.png",
+      "size": 429,
+      "sha256": "7030E517068E3F471BE8E2E20EF2237D277B224305E19F9B8167C4405A8A9C1A"
+    },
+    {
+      "requested_id": 12134,
+      "client_id": 11257,
+      "server_ids": [
+        12134
+      ],
+      "name": "Uchiha Legs II",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        37034
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-12134_client-11257_uchiha-legs-ii.png",
+      "size": 428,
+      "sha256": "427BF51ECDC711234BE4CA6C14FB57DE3FAB8798292C1080F75B4C46F5F6A144"
+    },
+    {
+      "requested_id": 12135,
+      "client_id": 11258,
+      "server_ids": [
+        12135
+      ],
+      "name": "Uchiha Boots II",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        37035
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-12135_client-11258_uchiha-boots-ii.png",
+      "size": 371,
+      "sha256": "83E48975783AECB8D06AD4B650F812D704BF4B5E902750CAFD5A7B3A4B48AF73"
+    },
+    {
+      "requested_id": 12137,
+      "client_id": 11260,
+      "server_ids": [
+        12137
+      ],
+      "name": "Uchiha Armor III",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        37037
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-12137_client-11260_uchiha-armor-iii.png",
+      "size": 435,
+      "sha256": "7F4EE4A17226A8996C0D4FB8625FB7A30B73A00A72011A5DCF99B0E06D5F0F19"
+    },
+    {
+      "requested_id": 12138,
+      "client_id": 11261,
+      "server_ids": [
+        12138
+      ],
+      "name": "Uchiha Legs III",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        37038
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-12138_client-11261_uchiha-legs-iii.png",
+      "size": 432,
+      "sha256": "7FA16E60BF748646FC5774179BF0ECD0053414E05F17772D4530E9BCAF709C55"
+    },
+    {
+      "requested_id": 12139,
+      "client_id": 11262,
+      "server_ids": [
+        12139
+      ],
+      "name": "Uchiha Boots III",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        37039
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-12139_client-11262_uchiha-boots-iii.png",
+      "size": 368,
+      "sha256": "C8914B59B0F16510461840F4BC6A9930FF3C9C2CCBC3E566F6E4BCE2CC77CEB5"
+    },
+    {
+      "requested_id": 12109,
+      "client_id": 11232,
+      "server_ids": [
+        12109
+      ],
+      "name": "Obito Armor",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        16525
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-12109_client-11232_obito-armor.png",
+      "size": 545,
+      "sha256": "C686A6B6DD7F3D733CEDC1E0092F25224554D81FCA561FC01260963CDF26F609"
+    },
+    {
+      "requested_id": 12110,
+      "client_id": 11233,
+      "server_ids": [
+        12110
+      ],
+      "name": "Obito Legs",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        16524
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-12110_client-11233_obito-legs.png",
+      "size": 445,
+      "sha256": "4F082674B79BC12ACC727FE16A8558B2AD6D59785531ECB88862A196A9A113CB"
+    },
+    {
+      "requested_id": 12111,
+      "client_id": 11234,
+      "server_ids": [
+        12111
+      ],
+      "name": "Obito Boots",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        16523
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-12111_client-11234_obito-boots.png",
+      "size": 363,
+      "sha256": "0DB74E2C3FC3828B302A14DAE46A8FD31543FFF99F5F5AA96BC233A87EDF0219"
+    },
+    {
+      "requested_id": 12113,
+      "client_id": 11236,
+      "server_ids": [
+        12113
+      ],
+      "name": "Obito Armor I",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        37016
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-12113_client-11236_obito-armor-i.png",
+      "size": 558,
+      "sha256": "C2A3790CE1409CED375CB9E5500E2B65A5E6B56D6A2089E0AD018334244492AA"
+    },
+    {
+      "requested_id": 12114,
+      "client_id": 11237,
+      "server_ids": [
+        12114
+      ],
+      "name": "Obito Legs I",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        37017
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-12114_client-11237_obito-legs-i.png",
+      "size": 460,
+      "sha256": "C6C46B303CA491CB7AF2793A1DEC5DD0F4AAAA90E6882A92E4F88C139C64A682"
+    },
+    {
+      "requested_id": 12115,
+      "client_id": 11238,
+      "server_ids": [
+        12115
+      ],
+      "name": "Obito Boots I",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        37018
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-12115_client-11238_obito-boots-i.png",
+      "size": 386,
+      "sha256": "03BAC01BF98F2139C4A8A9AD4F35F9F0EA22CFC85CEFE1B7F9FA85974003B13E"
+    },
+    {
+      "requested_id": 12117,
+      "client_id": 11240,
+      "server_ids": [
+        12117
+      ],
+      "name": "Obito Armor II",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        37020
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-12117_client-11240_obito-armor-ii.png",
+      "size": 558,
+      "sha256": "17880D1667368BA50C4F5AF4FD94CF9F5A47AD7BA2F3F2B91281B2D8604A3F16"
+    },
+    {
+      "requested_id": 12118,
+      "client_id": 11241,
+      "server_ids": [
+        12118
+      ],
+      "name": "Obito Legs II",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        37021
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-12118_client-11241_obito-legs-ii.png",
+      "size": 461,
+      "sha256": "7A0A63AD7F659CC24D770EFEE5A0B1C5C6E0EB6D71E168FF443DE53B6A0655B3"
+    },
+    {
+      "requested_id": 12119,
+      "client_id": 11242,
+      "server_ids": [
+        12119
+      ],
+      "name": "Obito Boots II",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        37022
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-12119_client-11242_obito-boots-ii.png",
+      "size": 388,
+      "sha256": "884BE53EFB2A6A2D9DDD8555A6FF8B08DE620AC2067E93BC95AC072B51FB789F"
+    },
+    {
+      "requested_id": 12121,
+      "client_id": 11244,
+      "server_ids": [
+        12121
+      ],
+      "name": "Obito Armor III",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        37024
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-12121_client-11244_obito-armor-iii.png",
+      "size": 566,
+      "sha256": "501ED28F79812C6E020479EC392CC16C168F3D78873381665E279C9666CF8D4F"
+    },
+    {
+      "requested_id": 12122,
+      "client_id": 11245,
+      "server_ids": [
+        12122
+      ],
+      "name": "Obito Legs III",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        37025
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-12122_client-11245_obito-legs-iii.png",
+      "size": 463,
+      "sha256": "B3F94003A0B91BFCF10CE68F05175C2EAAF4EC732AD2FE3ABF577AAF5C4B122B"
+    },
+    {
+      "requested_id": 12123,
+      "client_id": 11246,
+      "server_ids": [
+        12123
+      ],
+      "name": "Obito Boots III",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        37026
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-12123_client-11246_obito-boots-iii.png",
+      "size": 390,
+      "sha256": "C7F634300423393C9DB855E6A6ACC9CC91DD0F1C930982D417EE332A00836E2A"
+    },
+    {
+      "requested_id": 12221,
+      "client_id": 11344,
+      "server_ids": [
+        12221
+      ],
+      "name": "Susano Armor",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        16518
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-12221_client-11344_susano-armor.png",
+      "size": 1572,
+      "sha256": "A01D36F1785BC4ABEAE137FED77A1A96B99425FC06ABE1982D931AF3DA8F4E6E"
+    },
+    {
+      "requested_id": 12222,
+      "client_id": 11345,
+      "server_ids": [
+        12222
+      ],
+      "name": "Susano Legs",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        37105
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-12222_client-11345_susano-legs.png",
+      "size": 1181,
+      "sha256": "A99045D1B299E73DF658FD61BF1C9EBFBE882A4977DC39FFD87E158E21F83A7A"
+    },
+    {
+      "requested_id": 12223,
+      "client_id": 11346,
+      "server_ids": [
+        12223
+      ],
+      "name": "Susano Boots",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        16517
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-12223_client-11346_susano-boots.png",
+      "size": 759,
+      "sha256": "E4E763CDF5AE05E2C57392A1B152DAB2DD6950BAF4885C3950CB7F1622AD3B88"
+    },
+    {
+      "requested_id": 12225,
+      "client_id": 11348,
+      "server_ids": [
+        12225
+      ],
+      "name": "Susano Armor I",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        37107
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-12225_client-11348_susano-armor-i.png",
+      "size": 1587,
+      "sha256": "9C93AE175AEC0F45AED0D52600B468F820133493741E3548FCD6658E526AA4CC"
+    },
+    {
+      "requested_id": 12226,
+      "client_id": 11349,
+      "server_ids": [
+        12226
+      ],
+      "name": "Susano Legs I",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        37108
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-12226_client-11349_susano-legs-i.png",
+      "size": 1194,
+      "sha256": "2B67067BCC67A1DD171D4EE70BD8DAA9EC0D9865EFB3AF8DC80EB33D72A284A9"
+    },
+    {
+      "requested_id": 12227,
+      "client_id": 11350,
+      "server_ids": [
+        12227
+      ],
+      "name": "Susano Boots I",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        37109
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-12227_client-11350_susano-boots-i.png",
+      "size": 777,
+      "sha256": "D6867582D9A68276BF61EC95D8177E78B7570D944A65A38C9CD0AD23548A525F"
+    },
+    {
+      "requested_id": 12229,
+      "client_id": 11352,
+      "server_ids": [
+        12229
+      ],
+      "name": "Susano Armor II",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        37111
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-12229_client-11352_susano-armor-ii.png",
+      "size": 1589,
+      "sha256": "B3326A64C460270D3C7053AC169B0DB2F4E3804191B7D774046532E777085251"
+    },
+    {
+      "requested_id": 12230,
+      "client_id": 11353,
+      "server_ids": [
+        12230
+      ],
+      "name": "Susano Legs II",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        37112
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-12230_client-11353_susano-legs-ii.png",
+      "size": 1192,
+      "sha256": "634477DA8894B7AE7FA932D533C9BC1FBB3EB203165AA98DD171470BD67406B5"
+    },
+    {
+      "requested_id": 12231,
+      "client_id": 11354,
+      "server_ids": [
+        12231
+      ],
+      "name": "Susano Boots II",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        37113
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-12231_client-11354_susano-boots-ii.png",
+      "size": 783,
+      "sha256": "D2DBCFC267116779A000E0A5A010BEF302DC374F891B241DE70CC5DB711EA780"
+    },
+    {
+      "requested_id": 12233,
+      "client_id": 11356,
+      "server_ids": [
+        12233
+      ],
+      "name": "Susano Armor III",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        37115
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-12233_client-11356_susano-armor-iii.png",
+      "size": 1575,
+      "sha256": "B0E84A3424767AD3261DA989FEA39B6CFAF0CD6694D43310B935107C74AF7CC1"
+    },
+    {
+      "requested_id": 12234,
+      "client_id": 11357,
+      "server_ids": [
+        12234
+      ],
+      "name": "Susano Legs III",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        37116
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-12234_client-11357_susano-legs-iii.png",
+      "size": 1178,
+      "sha256": "B7A1707E11F8726FDC43E9F13DD9CC825102AD8CF34DE63A2F03E85C354C3551"
+    },
+    {
+      "requested_id": 12235,
+      "client_id": 11358,
+      "server_ids": [
+        12235
+      ],
+      "name": "Susano Boots III",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        37117
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-12235_client-11358_susano-boots-iii.png",
+      "size": 783,
+      "sha256": "A90FD40478999FE463B334377A8C437AB050D60EDC03BD9EFD623E63F3AF3841"
+    },
+    {
+      "requested_id": 12141,
+      "client_id": 11264,
+      "server_ids": [
+        12141
+      ],
+      "name": "Susanoo Armor",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        37041
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-12141_client-11264_susanoo-armor.png",
+      "size": 2409,
+      "sha256": "D6F6401332482E2C211F78566E123BF18B40A11E74EC346A45122E30999C2215"
+    },
+    {
+      "requested_id": 12142,
+      "client_id": 11265,
+      "server_ids": [
+        12142
+      ],
+      "name": "Susanoo Legs",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        37042
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-12142_client-11265_susanoo-legs.png",
+      "size": 1641,
+      "sha256": "545D86067B8A31CC7D1DEEB7294FB5A756CEEC95D3B413ACFE970327BBFD7724"
+    },
+    {
+      "requested_id": 12143,
+      "client_id": 11266,
+      "server_ids": [
+        12143
+      ],
+      "name": "Susanoo Boots",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        37043
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-12143_client-11266_susanoo-boots.png",
+      "size": 953,
+      "sha256": "41611CB1E454E1183AA423D698F5691FBAF9F027355151DE5AD1F3D5CF98D127"
+    },
+    {
+      "requested_id": 12145,
+      "client_id": 11268,
+      "server_ids": [
+        12145
+      ],
+      "name": "Susanoo Armor I",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        37045
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-12145_client-11268_susanoo-armor-i.png",
+      "size": 2428,
+      "sha256": "62CB5E8E2788A3E94F919529C9F256C4670B2BB6FE637E073AB6411AFA989F07"
+    },
+    {
+      "requested_id": 12146,
+      "client_id": 11269,
+      "server_ids": [
+        12146
+      ],
+      "name": "Susanoo Legs I",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        37046
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-12146_client-11269_susanoo-legs-i.png",
+      "size": 1659,
+      "sha256": "39D39E1B3796C07096D5D4E11D0134E31F1278EF44E8021D03959677C800A2F1"
+    },
+    {
+      "requested_id": 12147,
+      "client_id": 11270,
+      "server_ids": [
+        12147
+      ],
+      "name": "Susanoo Boots I",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        37047
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-12147_client-11270_susanoo-boots-i.png",
+      "size": 971,
+      "sha256": "D8B91320AEF8332D42FE38BAF4CE7DDCE4DD25C6E150F85BB56CFBAB41C08D36"
+    },
+    {
+      "requested_id": 12149,
+      "client_id": 11272,
+      "server_ids": [
+        12149
+      ],
+      "name": "Susanoo Armor II",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        37049
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-12149_client-11272_susanoo-armor-ii.png",
+      "size": 2424,
+      "sha256": "B051853A53725A2FEF42F2772BE6C17975D359BD6D40467B9E3B79F3CFB4FED8"
+    },
+    {
+      "requested_id": 12150,
+      "client_id": 11273,
+      "server_ids": [
+        12150
+      ],
+      "name": "Susanoo Legs II",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        37050
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-12150_client-11273_susanoo-legs-ii.png",
+      "size": 1654,
+      "sha256": "C964AA8776BE64A4D285D2CCFB47DAF6C34E56B26B8A42512FE4BF14F920D534"
+    },
+    {
+      "requested_id": 12151,
+      "client_id": 11274,
+      "server_ids": [
+        12151
+      ],
+      "name": "Susanoo Boots II",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        37051
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-12151_client-11274_susanoo-boots-ii.png",
+      "size": 977,
+      "sha256": "9667C2D1BF269F3CE3A55C1243F63D7FD1107C1DAA07DF4F24538F2CAC2C7FC8"
+    },
+    {
+      "requested_id": 12153,
+      "client_id": 11276,
+      "server_ids": [
+        12153
+      ],
+      "name": "Susanoo Armor III",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        37053
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-12153_client-11276_susanoo-armor-iii.png",
+      "size": 2400,
+      "sha256": "EBA8B8097435A1A006C7C617B2D14BBDC6C194CF0C8A540659AC3555BA243C3E"
+    },
+    {
+      "requested_id": 12154,
+      "client_id": 11277,
+      "server_ids": [
+        12154
+      ],
+      "name": "Susanoo Legs III",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        37054
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-12154_client-11277_susanoo-legs-iii.png",
+      "size": 1629,
+      "sha256": "8C00EAD6C5AEC812EDA0955D961C85849E56327CCB2631D7D467D097432B5C2A"
+    },
+    {
+      "requested_id": 12155,
+      "client_id": 11278,
+      "server_ids": [
+        12155
+      ],
+      "name": "Susanoo Boots III",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        37055
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-12155_client-11278_susanoo-boots-iii.png",
+      "size": 977,
+      "sha256": "CBED97A1C2F3A388602C08ABF26347176370896A7538CE4AEF6FBFD971B55D8F"
+    },
+    {
+      "requested_id": 24267,
+      "client_id": 23382,
+      "server_ids": [
+        24267
+      ],
+      "name": "Hunter Armor",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        210348
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-24267_client-23382_hunter-armor.png",
+      "size": 555,
+      "sha256": "61FB47320C89B2684636F0BA083436334376338336DC903F9E56360314442FA0"
+    },
+    {
+      "requested_id": 24268,
+      "client_id": 23383,
+      "server_ids": [
+        24268
+      ],
+      "name": "Hunter Legs",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        210349
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-24268_client-23383_hunter-legs.png",
+      "size": 520,
+      "sha256": "FF453B38FF194E3DD916EE7AED8AABE17CE016E8F4E9FD6A588E16920223A71C"
+    },
+    {
+      "requested_id": 24269,
+      "client_id": 23384,
+      "server_ids": [
+        24269
+      ],
+      "name": "Hunter Boots",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        210350
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-24269_client-23384_hunter-boots.png",
+      "size": 429,
+      "sha256": "E48EE93DF7D2DE52118C2BE0678945B26FEC2327B7F86FBA0345764B3274EF5B"
+    },
+    {
+      "requested_id": 24276,
+      "client_id": 23391,
+      "server_ids": [
+        24276
+      ],
+      "name": "Bandit Armor",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        210304
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-24276_client-23391_bandit-armor.png",
+      "size": 523,
+      "sha256": "CCC74359585D26F188A0DC6D317301122B6B71F88C9C4D67F6342083D7F0D72F"
+    },
+    {
+      "requested_id": 24277,
+      "client_id": 23392,
+      "server_ids": [
+        24277
+      ],
+      "name": "Bandit Legs",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        210305
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-24277_client-23392_bandit-legs.png",
+      "size": 452,
+      "sha256": "D817D7D900525AF96299B9F2126EE21DD9CB2EB8181766B0AF939261FAA9B94F"
+    },
+    {
+      "requested_id": 24278,
+      "client_id": 23393,
+      "server_ids": [
+        24278
+      ],
+      "name": "Bandit Boots",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        210306
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-24278_client-23393_bandit-boots.png",
+      "size": 395,
+      "sha256": "A2FE75A90E8D638A0CBD355E02CB3EA81123C523772D5697C699C013A357B1B6"
+    },
+    {
+      "requested_id": 24340,
+      "client_id": 23455,
+      "server_ids": [
+        24340
+      ],
+      "name": "Wild Legs",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        213054
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-24340_client-23455_wild-legs.png",
+      "size": 482,
+      "sha256": "79A30231F829D99288A3C76FCC3DE331CFA037805720D954F0D71E10827DBD4B"
+    },
+    {
+      "requested_id": 24341,
+      "client_id": 23456,
+      "server_ids": [
+        24341
+      ],
+      "name": "Wild Boots",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        213055
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-24341_client-23456_wild-boots.png",
+      "size": 420,
+      "sha256": "D9E4E95981C756DFC61878BF758163A9C7605EF8C14E62FA1D2A3E917D696D0C"
+    },
+    {
+      "requested_id": 24321,
+      "client_id": 23436,
+      "server_ids": [
+        24321
+      ],
+      "name": "Fang vest",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        213036
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-24321_client-23436_fang-vest.png",
+      "size": 524,
+      "sha256": "6910A718C3E32631F40C67BAE853411AD73794E51B5582AA3149A7C743C20CB4"
+    },
+    {
+      "requested_id": 24322,
+      "client_id": 23437,
+      "server_ids": [
+        24322
+      ],
+      "name": "Fang Legs",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        213037
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-24322_client-23437_fang-legs.png",
+      "size": 629,
+      "sha256": "CFB9688971C483DEA1924DCC70F560BC9843D6343F44FF5BA47EF56CC77093F7"
+    },
+    {
+      "requested_id": 24323,
+      "client_id": 23438,
+      "server_ids": [
+        24323
+      ],
+      "name": "Fang Boots",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        213038
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-24323_client-23438_fang-boots.png",
+      "size": 405,
+      "sha256": "566019055EDAC3D4DCC1949E7C4B6A4465C7C4E426E954AE658BFEBC5DED7378"
+    },
+    {
+      "requested_id": 24304,
+      "client_id": 23419,
+      "server_ids": [
+        24304
+      ],
+      "name": "Mist Assassin Legs",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        213033
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-24304_client-23419_mist-assassin-legs.png",
+      "size": 585,
+      "sha256": "D7D2480B4CD4C50AAC3F1431528CCDF87BAEFA5F34BFA7C0B907569049E923A6"
+    },
+    {
+      "requested_id": 24305,
+      "client_id": 23420,
+      "server_ids": [
+        24305
+      ],
+      "name": "Mist Assassin Boots",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        213034
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-24305_client-23420_mist-assassin-boots.png",
+      "size": 379,
+      "sha256": "89E16906EBB52D75A79CA669D2B9A4A884829ABA0199200EEF3A90B194EDB0DE"
+    },
+    {
+      "requested_id": 24330,
+      "client_id": 23445,
+      "server_ids": [
+        24330
+      ],
+      "name": "Executor armor",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        213042
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-24330_client-23445_executor-armor.png",
+      "size": 581,
+      "sha256": "D2C6F16566A617DD6420A63243E0332A7AB655B7B4B5520D1FDD100905642822"
+    },
+    {
+      "requested_id": 24331,
+      "client_id": 23446,
+      "server_ids": [
+        24331
+      ],
+      "name": "Executor Legs",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        213043
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-24331_client-23446_executor-legs.png",
+      "size": 558,
+      "sha256": "C466D51348C83AC8D7497F6AE137FC5B8AC6A67931857F54BC7DC5F643BC5618"
+    },
+    {
+      "requested_id": 24332,
+      "client_id": 23447,
+      "server_ids": [
+        24332
+      ],
+      "name": "Executor Boots",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        213044
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-24332_client-23447_executor-boots.png",
+      "size": 477,
+      "sha256": "667CD009CE5079A7B8DDADEF4AB08982AED8F28996FD3EF45CDFEFBED17EEB50"
+    },
+    {
+      "requested_id": 24292,
+      "client_id": 23407,
+      "server_ids": [
+        24292
+      ],
+      "name": "Mist Shuriken",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        212346
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-24292_client-23407_mist-shuriken.png",
+      "size": 478,
+      "sha256": "C113B84BE296C9AE56AC6E9916A19631FFF45D27E77E94E6B1C8D9FF2B6223D9"
+    },
+    {
+      "requested_id": 24294,
+      "client_id": 23409,
+      "server_ids": [
+        24294
+      ],
+      "name": "Mist Survivor Armor",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        212340
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-24294_client-23409_mist-survivor-armor.png",
+      "size": 562,
+      "sha256": "16C30F22978F7012027F63167E5F00A433BA825D0AC7FA461F7B326742B005F1"
+    },
+    {
+      "requested_id": 24295,
+      "client_id": 23410,
+      "server_ids": [
+        24295
+      ],
+      "name": "Mist Survivor Legs",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        212341
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-24295_client-23410_mist-survivor-legs.png",
+      "size": 465,
+      "sha256": "27E38160B2AA6FAD8E705C1191B5248DC2C1C58026F7A3BB02B337B2442B594E"
+    },
+    {
+      "requested_id": 24296,
+      "client_id": 23411,
+      "server_ids": [
+        24296
+      ],
+      "name": "Mist Survivor Boots",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        212342
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-24296_client-23411_mist-survivor-boots.png",
+      "size": 444,
+      "sha256": "D1B24E37D7F7CFD7695572A745174AA3C8CA916EB767BFD59D8C032EC73B0F70"
+    },
+    {
+      "requested_id": 24286,
+      "client_id": 23401,
+      "server_ids": [
+        24286
+      ],
+      "name": "Desert Ronin Legs",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        210868
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-24286_client-23401_desert-ronin-legs.png",
+      "size": 617,
+      "sha256": "6DBB01F8D7A3ABD507F8909B2304E0434431BEA7AECF67245387EC1E38F8943B"
+    },
+    {
+      "requested_id": 24287,
+      "client_id": 23402,
+      "server_ids": [
+        24287
+      ],
+      "name": "Desert Ronin Boots",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        210869
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-24287_client-23402_desert-ronin-boots.png",
+      "size": 471,
+      "sha256": "EE76502F607E31F6CD75A0667D14714FB1544E7EC30EF9C6D1BFC7D2DD580CA7"
+    },
+    {
+      "requested_id": 14520,
+      "client_id": 13643,
+      "server_ids": [
+        14520
+      ],
+      "name": "Suna vest",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        210952
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-14520_client-13643_suna-vest.png",
+      "size": 528,
+      "sha256": "3E64F8A1693155DC4E8704CFBFC8E7F962FB2B25811A82A0B66A36812FAEAFC7"
+    },
+    {
+      "requested_id": 14485,
+      "client_id": 13608,
+      "server_ids": [
+        14485
+      ],
+      "name": "Boar Armor",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        207635
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-14485_client-13608_boar-armor.png",
+      "size": 520,
+      "sha256": "C3B940A25FDBA0E32741896FCC0EB0BC849DD699BEDA34C206AC5D8B8879778A"
+    },
+    {
+      "requested_id": 14475,
+      "client_id": 13598,
+      "server_ids": [
+        14475
+      ],
+      "name": "Bone Shuriken",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        207615
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-14475_client-13598_bone-shuriken.png",
+      "size": 491,
+      "sha256": "833FA552A205B0E32B79AA1195D3C12BB7E2A088D19140359C180416BB142FC5"
+    },
+    {
+      "requested_id": 24265,
+      "client_id": 23380,
+      "server_ids": [
+        24265
+      ],
+      "name": "Ronin Shuriken",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        210933
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-24265_client-23380_ronin-shuriken.png",
+      "size": 507,
+      "sha256": "2DE7CF5CE8398FC59F42DD86C163E857912A1FF2877970AADE3BFFDC7EAC818A"
+    },
+    {
+      "requested_id": 14503,
+      "client_id": 13626,
+      "server_ids": [
+        14503
+      ],
+      "name": "Mineral powder",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        210810
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-14503_client-13626_mineral-powder.png",
+      "size": 419,
+      "sha256": "7021D7A6C1B6ADA8404724A53B979C9206CB15AF41D33E5F48A2FB365F1903EE"
+    },
+    {
+      "requested_id": 14510,
+      "client_id": 13633,
+      "server_ids": [
+        14510
+      ],
+      "name": "Shoulder armor",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        210936
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-14510_client-13633_shoulder-armor.png",
+      "size": 289,
+      "sha256": "8743E43CDDFEA2DD0A447AD1793462D568C08DF91DFEDFBD31F80BFD47C78A0E"
+    },
+    {
+      "requested_id": 14562,
+      "client_id": 13685,
+      "server_ids": [
+        14562
+      ],
+      "name": "Shurikens encantadas",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        80990
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-14562_client-13685_shurikens-encantadas.png",
+      "size": 234,
+      "sha256": "4090500761AFF41897060AE73E11444C24FB684DA82C74DF4D33113D606B7D78"
+    },
+    {
+      "requested_id": 14570,
+      "client_id": 13693,
+      "server_ids": [
+        14570
+      ],
+      "name": "Shuriken",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        80990
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-14570_client-13693_shuriken.png",
+      "size": 234,
+      "sha256": "4090500761AFF41897060AE73E11444C24FB684DA82C74DF4D33113D606B7D78"
+    },
+    {
+      "requested_id": 14863,
+      "client_id": 13981,
+      "server_ids": [
+        14863
+      ],
+      "name": "Kurama mode pants",
+      "group_index": 0,
+      "width": 32,
+      "height": 224,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 7,
+      "sprite_ids": [
+        83690,
+        83691,
+        83692,
+        83693,
+        83694,
+        83695,
+        83696
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-14863_client-13981_kurama-mode-pants.png",
+      "size": 9933,
+      "sha256": "D265DCF135C050A886CC38BCE1E8938219DF9E5C3D4F5068E1BDA5031AE7C1AD"
+    },
+    {
+      "requested_id": 14867,
+      "client_id": 13985,
+      "server_ids": [
+        14867
+      ],
+      "name": "Jonin pants",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        83706
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-14867_client-13985_jonin-pants.png",
+      "size": 442,
+      "sha256": "694D8C872B3A9B2B86E113EA4918B77D4BDB84AA45E9FC235F5ABF78D1E6E2C6"
+    },
+    {
+      "requested_id": 14871,
+      "client_id": 13989,
+      "server_ids": [
+        14871
+      ],
+      "name": "Han pants",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        83709
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-14871_client-13989_han-pants.png",
+      "size": 590,
+      "sha256": "68832969D1505DD9C017B813D3DE37DD0D10CEFF62297BD5CD6F9B1F086CEFF9"
+    },
+    {
+      "requested_id": 15630,
+      "client_id": 14745,
+      "server_ids": [
+        15630
+      ],
+      "name": "Genin Pants",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        89024
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-15630_client-14745_genin-pants.png",
+      "size": 374,
+      "sha256": "32C85DE117E13FFADB1E6011D223311197FA2EAA2B66A451E9815E6602E2BFB1"
+    },
+    {
+      "requested_id": 24186,
+      "client_id": 23301,
+      "server_ids": [
+        24186
+      ],
+      "name": "1 Vest",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        175045
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-24186_client-23301_1-vest.png",
+      "size": 722,
+      "sha256": "2336E9A35E586C710BF1E5FCDBD0ECFB2240BD77100998125FEAEE6976329712"
+    },
+    {
+      "requested_id": 24187,
+      "client_id": 23302,
+      "server_ids": [
+        24187
+      ],
+      "name": "1 Pants",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        175046
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-24187_client-23302_1-pants.png",
+      "size": 539,
+      "sha256": "FEE2799DA11F6C631C60887DFECF4279A5E7C621799F282CBBB81F007EF226FB"
+    },
+    {
+      "requested_id": 26938,
+      "client_id": 26053,
+      "server_ids": [
+        26938
+      ],
+      "name": "Boots Forge Essence",
+      "group_index": 0,
+      "width": 32,
+      "height": 96,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 3,
+      "sprite_ids": [
+        293192,
+        293193,
+        293194
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-26938_client-26053_boots-forge-essence.png",
+      "size": 1056,
+      "sha256": "F5655501A7D5C34A415916B60C324243E831539AFBE2572F8C040EB6236A8DEB"
+    },
+    {
+      "requested_id": 26983,
+      "client_id": 26098,
+      "server_ids": [
+        26983
+      ],
+      "name": "Vest Forge Essence",
+      "group_index": 0,
+      "width": 32,
+      "height": 96,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 3,
+      "sprite_ids": [
+        293254,
+        293255,
+        293256
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-26983_client-26098_vest-forge-essence.png",
+      "size": 1056,
+      "sha256": "F5655501A7D5C34A415916B60C324243E831539AFBE2572F8C040EB6236A8DEB"
+    },
+    {
+      "requested_id": 26984,
+      "client_id": 26099,
+      "server_ids": [
+        26984
+      ],
+      "name": "Legs Forge Essence",
+      "group_index": 0,
+      "width": 32,
+      "height": 96,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 3,
+      "sprite_ids": [
+        293257,
+        293258,
+        293259
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-26984_client-26099_legs-forge-essence.png",
+      "size": 1056,
+      "sha256": "F5655501A7D5C34A415916B60C324243E831539AFBE2572F8C040EB6236A8DEB"
+    },
+    {
+      "requested_id": 27033,
+      "client_id": 26148,
+      "server_ids": [
+        27033
+      ],
+      "name": "Chakra boots",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        297433
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-27033_client-26148_chakra-boots.png",
+      "size": 474,
+      "sha256": "0703C6F2781FB789321553037658C739F9250212EA3C38233578830866506D01"
+    },
+    {
+      "requested_id": 27048,
+      "client_id": 26163,
+      "server_ids": [
+        27048
+      ],
+      "name": "19-102 Armor",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        301550
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-27048_client-26163_19-102-armor.png",
+      "size": 563,
+      "sha256": "2A37107A67BF71D0C7F82C69AB0468355C912587F3143C6BAC2E2BA0E29235CF"
+    },
+    {
+      "requested_id": 27049,
+      "client_id": 26164,
+      "server_ids": [
+        27049
+      ],
+      "name": "19-103 Legs",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        301551
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-27049_client-26164_19-103-legs.png",
+      "size": 465,
+      "sha256": "6122B1A3939966BC57C9EC062609B5CB551878112528D01B8F5AD0ADA4B981B3"
+    },
+    {
+      "requested_id": 27050,
+      "client_id": 26165,
+      "server_ids": [
+        27050
+      ],
+      "name": "19-104 Boots",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        301552
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-27050_client-26165_19-104-boots.png",
+      "size": 442,
+      "sha256": "FD3D451AAB7392D8BA04D3889A3F3F5DDC7E18A8332FD486836B933733F83BBB"
+    },
+    {
+      "requested_id": 27052,
+      "client_id": 26167,
+      "server_ids": [
+        27052
+      ],
+      "name": "19-106 Boots",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        301554
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-27052_client-26167_19-106-boots.png",
+      "size": 438,
+      "sha256": "0BD403B079FB15E83951F72364D9952D9AE1663A79A63A2A8294AD0C3572B756"
+    },
+    {
+      "requested_id": 27053,
+      "client_id": 26168,
+      "server_ids": [
+        27053
+      ],
+      "name": "19-107 Boots",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        301555
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-27053_client-26168_19-107-boots.png",
+      "size": 409,
+      "sha256": "40363E7D4C3713C72D249418B8F13B932242202CFA98EB6FCDD714545CE3E50D"
+    },
+    {
+      "requested_id": 27054,
+      "client_id": 26169,
+      "server_ids": [
+        27054
+      ],
+      "name": "19-108 Legs",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        301556
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-27054_client-26169_19-108-legs.png",
+      "size": 635,
+      "sha256": "936CF38CF60F3AB969BA86C659F1435816D144E8BAECF5C0DE6DB3A6DEE97D5C"
+    },
+    {
+      "requested_id": 27058,
+      "client_id": 26173,
+      "server_ids": [
+        27058
+      ],
+      "name": "19-112 Legs",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        301560
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\candidates\\server-27058_client-26173_19-112-legs.png",
+      "size": 517,
+      "sha256": "118C0CFC1B59255605C5679DF6DE1D26CE9B56F1EFCB38D7935A4716CA020244"
+    }
+  ],
+  "sources": {
+    "dat": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.dat",
+      "sha256": "59CFECB2096620C8F5B1DD86AB922FC3AA5FFA1FCEB145D2D2DF0C4C1876BF10"
+    },
+    "spr": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.spr",
+      "sha256": "8B5EFD33FABE4BF4E7728EBD3A717C6EC1A8E0DBF0A07B7C417DB22F77CB8C1B"
+    }
+  },
+  "passed": true
+}

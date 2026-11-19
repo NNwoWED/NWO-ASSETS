@@ -1,0 +1,100 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "profile": {
+    "key": "tibia-860-v2-custom-extended",
+    "client_version": 860,
+    "label": "Tibia 8.60 v2 customizado com features OTFI",
+    "dat_signature": "0x4C2C7993",
+    "spr_signature": "0x4C220594",
+    "metadata_reader": 5,
+    "otb_version_hint": "8.60"
+  },
+  "category": "items",
+  "id_kind": "server",
+  "requested_ids": [
+    14452,
+    14453,
+    14454
+  ],
+  "output_dir": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\materials",
+  "exported_count": 3,
+  "exported": [
+    {
+      "requested_id": 14452,
+      "client_id": 13575,
+      "server_ids": [
+        14452
+      ],
+      "name": "Argila",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        247121
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\materials\\server-14452_client-13575_argila.png",
+      "size": 368,
+      "sha256": "E5A92BA1DF0975431228891D13A61499907EEACA4DE7E1FF556EE16A68537D1F"
+    },
+    {
+      "requested_id": 14453,
+      "client_id": 13576,
+      "server_ids": [
+        14453
+      ],
+      "name": "Aco",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        81010
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\materials\\server-14453_client-13576_aco.png",
+      "size": 499,
+      "sha256": "EB77486B218F346AC92EADAB6EE23370F0C264538DA793A4F8031F54DE866D5C"
+    },
+    {
+      "requested_id": 14454,
+      "client_id": 13577,
+      "server_ids": [
+        14454
+      ],
+      "name": "Fio de aco",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        247113
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\materials\\server-14454_client-13577_fio-de-aco.png",
+      "size": 330,
+      "sha256": "00C5AA37F75CA0402BC3266E00A65D426F3D36603589959F6F1A0A650F2759FC"
+    }
+  ],
+  "sources": {
+    "dat": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.dat",
+      "sha256": "59CFECB2096620C8F5B1DD86AB922FC3AA5FFA1FCEB145D2D2DF0C4C1876BF10"
+    },
+    "spr": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.spr",
+      "sha256": "8B5EFD33FABE4BF4E7728EBD3A717C6EC1A8E0DBF0A07B7C417DB22F77CB8C1B"
+    }
+  },
+  "passed": true
+}

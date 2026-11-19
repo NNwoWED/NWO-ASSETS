@@ -1,0 +1,217 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "profile": {
+    "key": "tibia-860-v2-custom-extended",
+    "client_version": 860,
+    "label": "Tibia 8.60 v2 customizado com features OTFI",
+    "dat_signature": "0x4C2C7993",
+    "spr_signature": "0x4C220594",
+    "metadata_reader": 5,
+    "otb_version_hint": "8.60"
+  },
+  "category": "items",
+  "id_kind": "server",
+  "requested_ids": [
+    11574,
+    14468,
+    14487,
+    14496,
+    14505,
+    14507
+  ],
+  "output_dir": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\catalogo-iwagakure-loots-20261119\\items",
+  "exported_count": 6,
+  "exported": [
+    {
+      "requested_id": 11574,
+      "client_id": 10697,
+      "server_ids": [
+        11574
+      ],
+      "name": "Bone",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        210914
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\catalogo-iwagakure-loots-20261119\\items\\server-11574_client-10697_bone.png",
+      "size": 289,
+      "sha256": "3300516D3F3CC2075606C6923CB191466D8201C94C690B7FF57D35C1973F9DAC"
+    },
+    {
+      "requested_id": 14468,
+      "client_id": 13591,
+      "server_ids": [
+        14468
+      ],
+      "name": "Black Raw leather",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        207603
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\catalogo-iwagakure-loots-20261119\\items\\server-14468_client-13591_black-raw-leather.png",
+      "size": 444,
+      "sha256": "2A06D59554155230919FD633E4F8678C5F369D0A030E3A28C068541B1453EA18"
+    },
+    {
+      "requested_id": 14487,
+      "client_id": 13610,
+      "server_ids": [
+        14487
+      ],
+      "name": "Earth core",
+      "group_index": 0,
+      "width": 128,
+      "height": 64,
+      "layers": 1,
+      "pattern_x": 4,
+      "pattern_y": 2,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        210800,
+        210801,
+        210802,
+        210803,
+        210804,
+        210805,
+        210806,
+        210806
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\catalogo-iwagakure-loots-20261119\\items\\server-14487_client-13610_earth-core.png",
+      "size": 1464,
+      "sha256": "BB73915BEFFBC4C4248D3C3DEB11926AFFA0AC79694131B6D05E26C54497DF7D"
+    },
+    {
+      "requested_id": 14496,
+      "client_id": 13619,
+      "server_ids": [
+        14496
+      ],
+      "name": "Fossilized plate",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        210817
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\catalogo-iwagakure-loots-20261119\\items\\server-14496_client-13619_fossilized-plate.png",
+      "size": 411,
+      "sha256": "4A6DD64A7BD3924179D1C8234A4AC920D8B632290A140A3312251DF39B750A11"
+    },
+    {
+      "requested_id": 14505,
+      "client_id": 13628,
+      "server_ids": [
+        14505
+      ],
+      "name": "Hard scale",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        210808
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\catalogo-iwagakure-loots-20261119\\items\\server-14505_client-13628_hard-scale.png",
+      "size": 353,
+      "sha256": "616BD5C6E0268F63F4E1B56B139CF1069ACAB13BA6AD1930AC0CC0AA7E309323"
+    },
+    {
+      "requested_id": 14507,
+      "client_id": 13630,
+      "server_ids": [
+        14507
+      ],
+      "name": "Fragment of a storm",
+      "group_index": 0,
+      "width": 32,
+      "height": 1344,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 42,
+      "sprite_ids": [
+        210843,
+        210843,
+        210844,
+        210844,
+        210844,
+        210843,
+        210843,
+        210843,
+        210844,
+        210844,
+        210844,
+        210843,
+        210843,
+        210845,
+        210846,
+        210847,
+        210848,
+        210849,
+        210850,
+        210851,
+        210852,
+        210853,
+        210854,
+        210855,
+        210856,
+        210856,
+        210857,
+        210854,
+        210854,
+        210858,
+        210856,
+        210856,
+        210857,
+        210854,
+        210854,
+        210859,
+        210856,
+        210860,
+        210861,
+        210847,
+        210862,
+        210863
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\catalogo-iwagakure-loots-20261119\\items\\server-14507_client-13630_fragment-of-a-storm.png",
+      "size": 3011,
+      "sha256": "3CA15189C3E6BFAE19E4DEEBBB03F42F83B0EB55A3E01C11D5457EA899D5E8C4"
+    }
+  ],
+  "sources": {
+    "dat": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.dat",
+      "sha256": "59CFECB2096620C8F5B1DD86AB922FC3AA5FFA1FCEB145D2D2DF0C4C1876BF10"
+    },
+    "spr": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.spr",
+      "sha256": "8B5EFD33FABE4BF4E7728EBD3A717C6EC1A8E0DBF0A07B7C417DB22F77CB8C1B"
+    }
+  },
+  "passed": true
+}

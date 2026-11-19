@@ -1,0 +1,54 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "profile": {
+    "key": "tibia-860-v2-custom-extended",
+    "client_version": 860,
+    "label": "Tibia 8.60 v2 customizado com features OTFI",
+    "dat_signature": "0x4C2C7993",
+    "spr_signature": "0x4C220594",
+    "metadata_reader": 5,
+    "otb_version_hint": "8.60"
+  },
+  "category": "items",
+  "id_kind": "server",
+  "requested_ids": [
+    7426
+  ],
+  "output_dir": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\hat-server",
+  "exported_count": 1,
+  "exported": [
+    {
+      "requested_id": 7426,
+      "client_id": 7426,
+      "server_ids": [
+        7426
+      ],
+      "name": "Amber staff",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        266180
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\hat-server\\server-7426_client-7426_amber-staff.png",
+      "size": 463,
+      "sha256": "10537CA4F9AD5FA07C28BA15BC0C21C151315A19095119A09ACD48E3E7BC6CEB"
+    }
+  ],
+  "sources": {
+    "dat": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.dat",
+      "sha256": "59CFECB2096620C8F5B1DD86AB922FC3AA5FFA1FCEB145D2D2DF0C4C1876BF10"
+    },
+    "spr": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.spr",
+      "sha256": "8B5EFD33FABE4BF4E7728EBD3A717C6EC1A8E0DBF0A07B7C417DB22F77CB8C1B"
+    }
+  },
+  "passed": true
+}

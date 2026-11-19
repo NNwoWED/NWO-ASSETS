@@ -381,3 +381,10 @@ Importadas as outfits 1546 (guerreiro_doton_maromba_variacao-Sheet.png), 1547 (m
 Usado o layout da outfit 2034, com quatro direções, duas frame groups de oito frames de 64x64 e 100 ms por frame. Os dois PNGs de Shinobi tinham 257 pixels de largura. As cópias de importação receberam o recorte de uma coluna direita totalmente transparente e os originais foram arquivados.
 
 Versão testada 20261118-153633-125121. Pixels, propriedades, registros DAT não alvo, payload SPR anterior e mapa validados. Sincronização oficial aprovada com 37 destinos conferidos por hash e três RARs testados. Entradas e manifesto em importados/iwagakure-mob-remakes-20261118. O arquivo skill_tubarao-Sheet.png corresponde visualmente ao efeito 1481 já existente.
+
+
+## 19/11/2026 - Nomes dos itens de loot de Iwagakure
+
+Renomeado o Server ID 7429 para Stonewalker Shoes, preservando todos os atributos existentes. Nomeados os IDs já presentes no OTB/DAT: 24310 (Client ID 23425), Granite Shuriken; 14526 (Client ID 13649), Iwa Vest; 7453 (Client ID 7453), Prospector Pants. Alteração exclusiva dos nomes em assets/items/items.xml, sem mudança visual ou de propriedades DAT/OTB.
+
+Baseline e validação final profundas aprovadas, versão imutável 20261119-031311-278711 e sync-runtime concluído com 37 destinos conferidos por SHA-256 e três RARs testados. DAT, SPR, OTB e mapa preservados. Relatórios reports/iwagakure-item-names-20261119.json, reports/validation-final-iwagakure-names-20261119.json e reports/sync-runtime-iwagakure-names-20261119.json.

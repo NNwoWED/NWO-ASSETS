@@ -1,0 +1,123 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "profile": {
+    "key": "tibia-860-v2-custom-extended",
+    "client_version": 860,
+    "label": "Tibia 8.60 v2 customizado com features OTFI",
+    "dat_signature": "0x4C2C7993",
+    "spr_signature": "0x4C220594",
+    "metadata_reader": 5,
+    "otb_version_hint": "8.60"
+  },
+  "category": "items",
+  "id_kind": "server",
+  "requested_ids": [
+    24310,
+    14526,
+    7453,
+    7429
+  ],
+  "output_dir": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\final-user-ids",
+  "exported_count": 4,
+  "exported": [
+    {
+      "requested_id": 24310,
+      "client_id": 23425,
+      "server_ids": [
+        24310
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        213030
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\final-user-ids\\server-24310_client-23425.png",
+      "size": 489,
+      "sha256": "AE3D44C381E572BB50C3B192046512008588B6C0CA760F23ED7D943D133CC993"
+    },
+    {
+      "requested_id": 14526,
+      "client_id": 13649,
+      "server_ids": [
+        14526
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        213091
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\final-user-ids\\server-14526_client-13649.png",
+      "size": 495,
+      "sha256": "B9B43F2CFC5CACC36E16E0CE27A31311DF7E5707864DC0885769940C67E19C44"
+    },
+    {
+      "requested_id": 7453,
+      "client_id": 7453,
+      "server_ids": [
+        7453
+      ],
+      "name": null,
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        13095
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\final-user-ids\\server-7453_client-7453.png",
+      "size": 956,
+      "sha256": "B1FF36CAFF84912185043E7316174DE70D8F80FC80A7B3C8D68DC02C05A2603D"
+    },
+    {
+      "requested_id": 7429,
+      "client_id": 7429,
+      "server_ids": [
+        7429
+      ],
+      "name": "Nidaime Boots",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        266181
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\final-user-ids\\server-7429_client-7429_nidaime-boots.png",
+      "size": 299,
+      "sha256": "237B264B7C06CF0721B064BF2693CCFA9063B4F1D12A7AFA3CFD5D80EFFE417E"
+    }
+  ],
+  "sources": {
+    "dat": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.dat",
+      "sha256": "59CFECB2096620C8F5B1DD86AB922FC3AA5FFA1FCEB145D2D2DF0C4C1876BF10"
+    },
+    "spr": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.spr",
+      "sha256": "8B5EFD33FABE4BF4E7728EBD3A717C6EC1A8E0DBF0A07B7C417DB22F77CB8C1B"
+    }
+  },
+  "passed": true
+}

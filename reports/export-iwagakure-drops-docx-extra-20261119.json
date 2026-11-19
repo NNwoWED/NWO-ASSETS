@@ -1,0 +1,353 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "profile": {
+    "key": "tibia-860-v2-custom-extended",
+    "client_version": 860,
+    "label": "Tibia 8.60 v2 customizado com features OTFI",
+    "dat_signature": "0x4C2C7993",
+    "spr_signature": "0x4C220594",
+    "metadata_reader": 5,
+    "otb_version_hint": "8.60"
+  },
+  "category": "items",
+  "id_kind": "server",
+  "requested_ids": [
+    11576,
+    2692,
+    4849,
+    5880,
+    10609,
+    11222,
+    14520,
+    7429,
+    24187,
+    14475,
+    27505,
+    27510,
+    27506,
+    27504
+  ],
+  "output_dir": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\referencias-extra",
+  "exported_count": 14,
+  "exported": [
+    {
+      "requested_id": 11576,
+      "client_id": 10699,
+      "server_ids": [
+        11576
+      ],
+      "name": "Special Sand",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        210945
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\referencias-extra\\server-11576_client-10699_special-sand.png",
+      "size": 384,
+      "sha256": "4B792D0B2C03C1EE5FAD9149C110A9BEF726056F79D1BD6A86ACB335413683D4"
+    },
+    {
+      "requested_id": 2692,
+      "client_id": 3603,
+      "server_ids": [
+        2692
+      ],
+      "name": "Flour",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        4526
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\referencias-extra\\server-2692_client-3603_flour.png",
+      "size": 1221,
+      "sha256": "2AC50A92CA8E4A777D1B18FC33397F6A9E8CAC8096FBCEB2481CB41C7E9380E9"
+    },
+    {
+      "requested_id": 4849,
+      "client_id": 4838,
+      "server_ids": [
+        4849
+      ],
+      "name": "Flour",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        5
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\referencias-extra\\server-4849_client-4838_flour.png",
+      "size": 337,
+      "sha256": "417E05299A80EA7750F19664C26AA2EBA272E95E1907F0D7D3E2F697AD0178D0"
+    },
+    {
+      "requested_id": 5880,
+      "client_id": 5880,
+      "server_ids": [
+        5880
+      ],
+      "name": "Iron ore",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        5149
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\referencias-extra\\server-5880_client-5880_iron-ore.png",
+      "size": 769,
+      "sha256": "A37FED9A65DF050BEA9F4C260B1A9BBA909AEA352BB704756D6B9C524CAB7F34"
+    },
+    {
+      "requested_id": 10609,
+      "client_id": 9693,
+      "server_ids": [
+        10609
+      ],
+      "name": "Lump of dirt",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        11089
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\referencias-extra\\server-10609_client-9693_lump-of-dirt.png",
+      "size": 894,
+      "sha256": "7C8980E09CFC10603BEED9CB450945B1D888B1AB53686725A7A36ED2375AD3D0"
+    },
+    {
+      "requested_id": 11222,
+      "client_id": 10311,
+      "server_ids": [
+        11222
+      ],
+      "name": "Lump of earth",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        12480
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\referencias-extra\\server-11222_client-10311_lump-of-earth.png",
+      "size": 507,
+      "sha256": "9C5269B56D412A77EDE5CFE6982D5980BE51DB43F1A4AE595C4F0AC2A4FF148F"
+    },
+    {
+      "requested_id": 14520,
+      "client_id": 13643,
+      "server_ids": [
+        14520
+      ],
+      "name": "Suna vest",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        210952
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\referencias-extra\\server-14520_client-13643_suna-vest.png",
+      "size": 528,
+      "sha256": "3E64F8A1693155DC4E8704CFBFC8E7F962FB2B25811A82A0B66A36812FAEAFC7"
+    },
+    {
+      "requested_id": 7429,
+      "client_id": 7429,
+      "server_ids": [
+        7429
+      ],
+      "name": "Nidaime Boots",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        266181
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\referencias-extra\\server-7429_client-7429_nidaime-boots.png",
+      "size": 299,
+      "sha256": "237B264B7C06CF0721B064BF2693CCFA9063B4F1D12A7AFA3CFD5D80EFFE417E"
+    },
+    {
+      "requested_id": 24187,
+      "client_id": 23302,
+      "server_ids": [
+        24187
+      ],
+      "name": "1 Pants",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        175046
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\referencias-extra\\server-24187_client-23302_1-pants.png",
+      "size": 539,
+      "sha256": "FEE2799DA11F6C631C60887DFECF4279A5E7C621799F282CBBB81F007EF226FB"
+    },
+    {
+      "requested_id": 14475,
+      "client_id": 13598,
+      "server_ids": [
+        14475
+      ],
+      "name": "Bone Shuriken",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        207615
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\referencias-extra\\server-14475_client-13598_bone-shuriken.png",
+      "size": 491,
+      "sha256": "833FA552A205B0E32B79AA1195D3C12BB7E2A088D19140359C180416BB142FC5"
+    },
+    {
+      "requested_id": 27505,
+      "client_id": 26620,
+      "server_ids": [
+        27505
+      ],
+      "name": "CHAPEU MONK VARIAÇÃO VERMELHA",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        313778
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\referencias-extra\\server-27505_client-26620_chapeu-monk-variacao-vermelha.png",
+      "size": 524,
+      "sha256": "67D0DF353A40B4BFF9E4C3D5A30BBD1AEBA2A05965E90B853F8775BBB838EA8E"
+    },
+    {
+      "requested_id": 27510,
+      "client_id": 26625,
+      "server_ids": [
+        27510
+      ],
+      "name": "Lizzard escama",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        313783
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\referencias-extra\\server-27510_client-26625_lizzard-escama.png",
+      "size": 264,
+      "sha256": "76569CC2BF5D4B7DF9CDDAB1C05ADEE0D8341650642CBC3D0A3889B15388C25D"
+    },
+    {
+      "requested_id": 27506,
+      "client_id": 26621,
+      "server_ids": [
+        27506
+      ],
+      "name": "GARRA LIZZARD ANCIENT",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        313779
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\referencias-extra\\server-27506_client-26621_garra-lizzard-ancient.png",
+      "size": 443,
+      "sha256": "9B421651509FF88BC80E3F04E4F8ACF72822D004978635C523302EA1F6B3338F"
+    },
+    {
+      "requested_id": 27504,
+      "client_id": 26619,
+      "server_ids": [
+        27504
+      ],
+      "name": "Cajado Earth Monk",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        313777
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\iwagakure-drops-docx-20261119\\referencias-extra\\server-27504_client-26619_cajado-earth-monk.png",
+      "size": 278,
+      "sha256": "B29A4741A5D8E4E12D3063F6A4073C83EDCE3B6D20EE7A1D696CFC16E6DC9AEE"
+    }
+  ],
+  "sources": {
+    "dat": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.dat",
+      "sha256": "59CFECB2096620C8F5B1DD86AB922FC3AA5FFA1FCEB145D2D2DF0C4C1876BF10"
+    },
+    "spr": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.spr",
+      "sha256": "8B5EFD33FABE4BF4E7728EBD3A717C6EC1A8E0DBF0A07B7C417DB22F77CB8C1B"
+    }
+  },
+  "passed": true
+}
