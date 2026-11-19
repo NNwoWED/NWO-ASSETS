@@ -1,0 +1,64 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "manifest": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\remaining-items-20261119\\new-miner-bag.csv",
+  "item_count": 1,
+  "target_server_id_range": [
+    27717,
+    27717
+  ],
+  "target_client_id_range": [
+    26832,
+    26832
+  ],
+  "new_sprite_count": 1,
+  "sprite_id_range": [
+    330420,
+    330420
+  ],
+  "items": [
+    {
+      "sequence": 1,
+      "source_server_id": 5881,
+      "source_client_id": 5881,
+      "target_server_id": 27717,
+      "target_client_id": 26832,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\Bolsa_Minerador.png",
+      "source_sha256": "9F7A00205848285AA0AF9FCDB0B09EAEDB99A3417E28041A057626D5E8C0B2E1",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        330420,
+        330420
+      ],
+      "sprite_hash": "B4876FCA762875FDA4E86DF500FD3C71"
+    }
+  ],
+  "xml": {
+    "source_definitions": 1,
+    "target_definitions_written": 1,
+    "target_definitions_already_exact": 0,
+    "target_ids": [
+      27717
+    ]
+  },
+  "map_scan": {
+    "tiles_scanned": 8440196,
+    "item_nodes_scanned": 2294887
+  },
+  "dry_run": true,
+  "passed": true
+}

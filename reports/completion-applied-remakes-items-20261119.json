@@ -1,0 +1,54 @@
+{
+  "applied_operations_passed": true,
+  "visual_replacements": [
+    {
+      "server_id": 1963,
+      "client_id": 2829,
+      "name": "Blue book"
+    },
+    {
+      "server_id": 1965,
+      "client_id": 2831,
+      "name": "Green book"
+    },
+    {
+      "server_id": 5091,
+      "client_id": 5090,
+      "name": "Treasure map"
+    }
+  ],
+  "new_items": [
+    {
+      "server_id": 27714,
+      "client_id": 26829,
+      "name": "Calça Roxa"
+    },
+    {
+      "server_id": 27715,
+      "client_id": 26830,
+      "name": "Lança-dardos carregado"
+    },
+    {
+      "server_id": 27716,
+      "client_id": 26831,
+      "name": "Lança-dardos vazio"
+    }
+  ],
+  "decay": {
+    "empty_id": 27716,
+    "loaded_id": 27715,
+    "duration_seconds": 2,
+    "duration_milliseconds": 2000,
+    "native_parser_verified": true,
+    "tested_in_game": false
+  },
+  "runtime_targets_verified": 37,
+  "map_unchanged": true,
+  "pending_decisions": [],
+  "preview": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\remakes-items-20261119\\previa-processados.png",
+  "resolved_decisions": {
+    "originals_7417_7422_7424_7425": "apply if still old; all four were old and were updated",
+    "brown_pants_27038": "ignore as already existing; properties and appearance preserved"
+  },
+  "completed_by_report": "completion-remakes-batch-20261119.json"
+}

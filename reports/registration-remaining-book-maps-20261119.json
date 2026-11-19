@@ -1,0 +1,122 @@
+[
+  {
+    "sequence": 1,
+    "operation": "replace visual",
+    "name": "Crônicas da Vila",
+    "purpose": "user-approved mission item appearance; distinct fragment IDs preserved",
+    "server_id": 26956,
+    "client_id": 26071,
+    "related_server_ids": [
+      26956
+    ],
+    "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\image (11).png",
+    "original_source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\image (11).png",
+    "original_sha256": "c6454c9967cedda19512f7598c87cacbea164cbe7fcda9b5c8d022fd5f60dd8b",
+    "effective_sha256": "c6454c9967cedda19512f7598c87cacbea164cbe7fcda9b5c8d022fd5f60dd8b",
+    "original_dimensions": [
+      32,
+      32
+    ],
+    "imported_dimensions": [
+      32,
+      32
+    ],
+    "frames": 1,
+    "properties_policy": "preserve DAT/OTB properties, XML and mission progression",
+    "normalization": "original PNG used directly",
+    "user_confirmed_mapping": true,
+    "archived_original_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\importados\\remaining-items-20261119\\sources\\image (11).png",
+    "archived_source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\importados\\remaining-items-20261119\\sources\\image (11).png",
+    "original_png_is_imported_source": true
+  },
+  {
+    "sequence": 2,
+    "operation": "replace visual",
+    "name": "Fragmento do Mapa I",
+    "purpose": "user-approved mission item appearance; distinct fragment IDs preserved",
+    "server_id": 26965,
+    "client_id": 26080,
+    "related_server_ids": [
+      26965
+    ],
+    "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\Pedaço do mapa.png",
+    "original_source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\Pedaço do mapa.png",
+    "original_sha256": "4a3fec10d86f20448ef8488bf2ae0314e5f7118625dc8bd3970ca2ad7f981c49",
+    "effective_sha256": "4a3fec10d86f20448ef8488bf2ae0314e5f7118625dc8bd3970ca2ad7f981c49",
+    "original_dimensions": [
+      32,
+      32
+    ],
+    "imported_dimensions": [
+      32,
+      32
+    ],
+    "frames": 1,
+    "properties_policy": "preserve DAT/OTB properties, XML and mission progression",
+    "normalization": "original PNG used directly",
+    "user_confirmed_mapping": true,
+    "archived_original_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\importados\\remaining-items-20261119\\sources\\Pedaço do mapa.png",
+    "archived_source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\importados\\remaining-items-20261119\\sources\\Pedaço do mapa.png",
+    "original_png_is_imported_source": true
+  },
+  {
+    "sequence": 3,
+    "operation": "replace visual",
+    "name": "Fragmento do Mapa II",
+    "purpose": "user-approved mission item appearance; distinct fragment IDs preserved",
+    "server_id": 26966,
+    "client_id": 26081,
+    "related_server_ids": [
+      26966
+    ],
+    "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\Pedaço do mapa 2.png",
+    "original_source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\Pedaço do mapa 2.png",
+    "original_sha256": "b08b95a0b5ca9e8df0a19c2c41e637ad05c9305ebc22a88436597ad94d632b20",
+    "effective_sha256": "b08b95a0b5ca9e8df0a19c2c41e637ad05c9305ebc22a88436597ad94d632b20",
+    "original_dimensions": [
+      32,
+      32
+    ],
+    "imported_dimensions": [
+      32,
+      32
+    ],
+    "frames": 1,
+    "properties_policy": "preserve DAT/OTB properties, XML and mission progression",
+    "normalization": "original PNG used directly",
+    "user_confirmed_mapping": true,
+    "archived_original_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\importados\\remaining-items-20261119\\sources\\Pedaço do mapa 2.png",
+    "archived_source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\importados\\remaining-items-20261119\\sources\\Pedaço do mapa 2.png",
+    "original_png_is_imported_source": true
+  },
+  {
+    "sequence": 4,
+    "operation": "replace visual",
+    "name": "Fragmento do Mapa III",
+    "purpose": "user-approved mission item appearance; distinct fragment IDs preserved",
+    "server_id": 26967,
+    "client_id": 26082,
+    "related_server_ids": [
+      26967
+    ],
+    "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\remaining-items-20261119\\pedaço-do-mapa-III.png",
+    "original_source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\Pedaço do mapa 2.png",
+    "original_sha256": "b08b95a0b5ca9e8df0a19c2c41e637ad05c9305ebc22a88436597ad94d632b20",
+    "effective_sha256": "b08b95a0b5ca9e8df0a19c2c41e637ad05c9305ebc22a88436597ad94d632b20",
+    "original_dimensions": [
+      32,
+      32
+    ],
+    "imported_dimensions": [
+      32,
+      32
+    ],
+    "frames": 1,
+    "properties_policy": "preserve DAT/OTB properties, XML and mission progression",
+    "normalization": "exact PNG copy to reuse Fragment II appearance on Fragment III",
+    "user_confirmed_mapping": true,
+    "archived_original_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\importados\\remaining-items-20261119\\sources\\Pedaço do mapa 2.png",
+    "archived_source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\importados\\remaining-items-20261119\\effective\\pedaço-do-mapa-III.png",
+    "original_png_is_imported_source": false
+  }
+]

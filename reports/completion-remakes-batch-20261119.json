@@ -1,0 +1,55 @@
+{
+  "passed": true,
+  "handled_pngs": 11,
+  "imported_pngs": 10,
+  "visual_replacement_server_ids": [
+    1963,
+    1965,
+    5091,
+    7417,
+    7422,
+    7424,
+    7425
+  ],
+  "new_items": [
+    {
+      "server_id": 27714,
+      "client_id": 26829,
+      "name": "Calça Roxa"
+    },
+    {
+      "server_id": 27715,
+      "client_id": 26830,
+      "name": "Lança-dardos carregado"
+    },
+    {
+      "server_id": 27716,
+      "client_id": 26831,
+      "name": "Lança-dardos vazio"
+    }
+  ],
+  "ignored": {
+    "source": "Item 7457 REMAKE-MAX.png",
+    "existing_server_id": 27038,
+    "existing_client_id": 26153,
+    "reason": "user chose to ignore existing item",
+    "appearance_and_properties_preserved": true
+  },
+  "newest_version_id": "20261119-040641-156762",
+  "all_source_pixels_verified": true,
+  "deep_validation_passed": true,
+  "sync_runtime_passed": true,
+  "runtime_targets_verified": 37,
+  "map_unchanged": true,
+  "xml_unchanged_in_last_stage": true,
+  "pending_decisions": [],
+  "launcher_decay": {
+    "empty_id": 27716,
+    "loaded_id": 27715,
+    "duration_seconds": 2,
+    "duration_milliseconds": 2000,
+    "native_parser_verified": true,
+    "tested_in_game": false
+  },
+  "comparison": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\remakes-originals-20261119\\antes-depois.png"
+}

@@ -1,0 +1,204 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "manifest": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\remakes-items-20261119\\new-items.csv",
+  "item_count": 3,
+  "target_server_id_range": [
+    27714,
+    27716
+  ],
+  "target_client_id_range": [
+    26829,
+    26831
+  ],
+  "new_sprite_count": 9,
+  "sprite_id_range": [
+    330390,
+    330398
+  ],
+  "items": [
+    {
+      "sequence": 1,
+      "source_server_id": 27039,
+      "source_client_id": 26154,
+      "target_server_id": 27714,
+      "target_client_id": 26829,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\Item 74259 REMAKE-MAX.png",
+      "source_sha256": "1F467ECC418FF47558F0609C1A30CC6A087717F677C873F09A4CFBE341E3CC5A",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        330390,
+        330390
+      ],
+      "sprite_hash": "C09B7798CAAD493EB914DA558FBF9D4D"
+    },
+    {
+      "sequence": 2,
+      "source_server_id": 17368,
+      "source_client_id": 16483,
+      "target_server_id": 27715,
+      "target_client_id": 26830,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\Remake item lança dardos com dardos.png",
+      "source_sha256": "7A4CBB4A7FB29B06D4A986C12F67EDF674D87A67C6E43D84A97128A20C169508",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        330391,
+        330394
+      ],
+      "sprite_hash": "A3E6AB58F827FF58670070610499D77A"
+    },
+    {
+      "sequence": 3,
+      "source_server_id": 17368,
+      "source_client_id": 16483,
+      "target_server_id": 27716,
+      "target_client_id": 26831,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\Remake item lança dardos vazio.png",
+      "source_sha256": "30D43BF771E40C4BE44F512286366152D56CD78777364995A7B9DC487E5136AD",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        330395,
+        330398
+      ],
+      "sprite_hash": "8892182AA9621CB8E78A8943E37B94E5"
+    }
+  ],
+  "xml": {
+    "source_definitions": 2,
+    "target_definitions_written": 3,
+    "target_definitions_already_exact": 0,
+    "target_ids": [
+      27714,
+      27715,
+      27716
+    ]
+  },
+  "map_scan": {
+    "tiles_scanned": 8440196,
+    "item_nodes_scanned": 2294887
+  },
+  "version_backup": {
+    "tool_version": "0.8.2",
+    "version_id": "20261119-035707-160340",
+    "created_at": "2026-11-19T03:57:20.076054-03:00",
+    "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261119-035707-160340",
+    "rar_executable": "C:\\Program Files\\WinRAR\\Rar.exe",
+    "sources": [
+      {
+        "path": "assets/860/.gitattributes",
+        "size": 43,
+        "sha256": "D5636A3257287440945C5E017581545E5B0A3E2FDDDAE7C5EF8D90FF4DF3D32A"
+      },
+      {
+        "path": "assets/860/Tibia.dat",
+        "size": 4885895,
+        "sha256": "E7A757F004D8F8A26DDEAE8337CF354FF7F877C5A0F9BF81B5B472F107162754"
+      },
+      {
+        "path": "assets/860/Tibia.glb",
+        "size": 2315332,
+        "sha256": "F295ECEFBF702042FA22B8C59699255C7ED4EA6EFF0A0573CD8CBB0EBE3E26CC"
+      },
+      {
+        "path": "assets/860/Tibia.otfi",
+        "size": 185,
+        "sha256": "7743548835944BC799CB871A4E5DEF84F7AF76815031871B9CE74B5EC0E8ADD3"
+      },
+      {
+        "path": "assets/860/Tibia.spr",
+        "size": 555441385,
+        "sha256": "28ACF515BE7418FB1164AAC06D5BBC6D8475875D1E09A96E57B7C07691B451BA"
+      },
+      {
+        "path": "assets/items/force use.txt",
+        "size": 419,
+        "sha256": "BCB478FDF3F45ECA8D172AFD7A17D3F8CD520924EE0894752452B8FDC8F71959"
+      },
+      {
+        "path": "assets/items/items.otb",
+        "size": 1102329,
+        "sha256": "D7419C57B4B04CFB8752F44EEF77C8B134FB11D79BE7E35D0F2D8E91733A9922"
+      },
+      {
+        "path": "assets/world/mapanovo.otbm",
+        "size": 86622750,
+        "sha256": "ABB09C367200FE91408756E2ED7C135382F231F538849BC3B601D10207CE2D8C"
+      }
+    ],
+    "archives": {
+      "860": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261119-035707-160340\\860.rar",
+        "size": 95203652,
+        "sha256": "BA3F0539D31F8A46A925A21D772E4E37EA96F3CF223B0AAA546C994597023292"
+      },
+      "items": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261119-035707-160340\\items.rar",
+        "size": 528881,
+        "sha256": "AA12D9979B8AC53DB07E1844BF6731742C0752DE87E8696C6CA1D0653B4E306E"
+      },
+      "world": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261119-035707-160340\\world.zip",
+        "size": 20867072,
+        "sha256": "D41CA6809A0FF4BE6CC5F9206B3ACFBF902E33DBDDFADD150B3D56E5C0353D9E"
+      }
+    },
+    "items_xml_excluded": true,
+    "world_entries": [
+      "mapanovo.otbm"
+    ],
+    "passed": true
+  },
+  "transaction_committed": true,
+  "old_dat_records_preserved": true,
+  "old_otb_nodes_preserved": true,
+  "old_sprite_payload_preserved": true,
+  "new_sprite_pixels_verified": true,
+  "final_validation_passed": true,
+  "warnings": [],
+  "errors": [],
+  "passed": true
+}

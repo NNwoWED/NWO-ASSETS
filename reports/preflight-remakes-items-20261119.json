@@ -1,0 +1,158 @@
+{
+  "sources": {
+    "Item 2829 remake.png": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\Item 2829 remake.png",
+      "dimensions": [
+        32,
+        32
+      ],
+      "file_sha256": "d431f5f300c8e3b68f5d4d68c976fda8e1bb379c9b50b53427444b5c1c37de34",
+      "pixel_sha256": "7e8c55e16c20cfd30dd6a2c9ecdeb979b8e9efc6fa8b4711e76a446758ea2af0",
+      "existing_identical_client_ids": []
+    },
+    "Item 2831 remake.png": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\Item 2831 remake.png",
+      "dimensions": [
+        32,
+        32
+      ],
+      "file_sha256": "1ca7a30b31b38134106a078c9c9ee109b3992ccdbe045b7c4df6abf3f079b2da",
+      "pixel_sha256": "e45ff82b1b97f0ab7b234fc0232ee2f215b3320521794db41dbabbe4d198089d",
+      "existing_identical_client_ids": []
+    },
+    "Item 5090 remake.png": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\Item 5090 remake.png",
+      "dimensions": [
+        32,
+        32
+      ],
+      "file_sha256": "8fe5aff81022cad8b0dc39487f71485b586ffa9b9d3234b695125237b87bbfae",
+      "pixel_sha256": "d8f1a95f25db00d80e9fba4e42f52d5347bcfcf48988e84941ca7557dbae4d52",
+      "existing_identical_client_ids": []
+    },
+    "Item 7422 REMAKE-MAX.png": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\Item 7422 REMAKE-MAX.png",
+      "dimensions": [
+        32,
+        32
+      ],
+      "file_sha256": "4c6abb383943dbc5b1275f52581e3ef5513c0150e2dbb134a856acdd89d661eb",
+      "pixel_sha256": "266260dc2faa49fd321f6867641a369d1d8bbf8de7b4c71a21d4a654d1b0f254",
+      "existing_identical_client_ids": [
+        {
+          "client_id": 26149,
+          "server_ids": [
+            27034
+          ]
+        }
+      ]
+    },
+    "Item 7424 REMAKE-MAX.png": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\Item 7424 REMAKE-MAX.png",
+      "dimensions": [
+        32,
+        32
+      ],
+      "file_sha256": "0b99e1aae29104521fd2cb2d3b830768bc943e60e3a96e71908656f9eeeca664",
+      "pixel_sha256": "b1f5f137e8fed094ec201eb3fff269a3e07346e67d1dc0a5faed42712f30737d",
+      "existing_identical_client_ids": [
+        {
+          "client_id": 26150,
+          "server_ids": [
+            27035
+          ]
+        }
+      ]
+    },
+    "Item 7425 REMAKE-MAX.png": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\Item 7425 REMAKE-MAX.png",
+      "dimensions": [
+        32,
+        32
+      ],
+      "file_sha256": "49380d248605e0c079f098c4faa08f1a36b48d3fc65a1449ac625a16a8851851",
+      "pixel_sha256": "e4c2ec4b4451e9802b9b586f71263429175a23614cb256603a1c146c0c56d7d5",
+      "existing_identical_client_ids": [
+        {
+          "client_id": 26151,
+          "server_ids": [
+            27036
+          ]
+        }
+      ]
+    },
+    "Item 74259 REMAKE-MAX.png": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\Item 74259 REMAKE-MAX.png",
+      "dimensions": [
+        32,
+        32
+      ],
+      "file_sha256": "1f467ecc418ff47558f0609c1a30cc6a087717f677c873f09a4cfbe341e3cc5a",
+      "pixel_sha256": "2e72bdcb2b4495d5abc32d453612d4d617312be2a7f73c755ce0bcfe15a480d4",
+      "existing_identical_client_ids": []
+    },
+    "Item 7457 REMAKE-MAX.png": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\Item 7457 REMAKE-MAX.png",
+      "dimensions": [
+        32,
+        32
+      ],
+      "file_sha256": "cad5bb5063679a94145e21e190d14dea562642af8d187f9a167da4125d35db67",
+      "pixel_sha256": "a71085b7280fa67291a5256102ef3d83a73a11b547fffeb18fa3c535669c1526",
+      "existing_identical_client_ids": [
+        {
+          "client_id": 26153,
+          "server_ids": [
+            27038
+          ]
+        }
+      ]
+    },
+    "item_7417 REMAKE - MAX.png": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\item_7417 REMAKE - MAX.png",
+      "dimensions": [
+        32,
+        32
+      ],
+      "file_sha256": "7e23942c1b493a9b7809637af4bd1bf3c44f952778d3174676dd9a9b98ddb0b8",
+      "pixel_sha256": "1ffd33f11ae89c29de090d89968805965e9a14d63de8396086af2a57f5bb7126",
+      "existing_identical_client_ids": [
+        {
+          "client_id": 26148,
+          "server_ids": [
+            27033
+          ]
+        }
+      ]
+    },
+    "Remake item lança dardos com dardos.png": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\Remake item lança dardos com dardos.png",
+      "dimensions": [
+        64,
+        64
+      ],
+      "file_sha256": "7a4cbb4a7fb29b06d4a986c12f67edf674d87a67c6e43d84a97128a20c169508",
+      "pixel_sha256": "0fa09222490a545392bd36c04bd4d3828272eee242fdee29d800261b7e033323",
+      "existing_identical_client_ids": []
+    },
+    "Remake item lança dardos vazio.png": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\Remake item lança dardos vazio.png",
+      "dimensions": [
+        64,
+        64
+      ],
+      "file_sha256": "30d43bf771e40c4be44f512286366152d56cd78777364995a7b9dc487e5136ad",
+      "pixel_sha256": "9ad823335fe0873131a52a2573547126f8a3c71a6051125e276bc5464425f2ce",
+      "existing_identical_client_ids": []
+    }
+  },
+  "total_item_records": 26729,
+  "compatible_records_compared": 17300,
+  "max_server_id": 27713,
+  "max_client_id": 26828,
+  "map_hashes": {
+    "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\world\\mapanovo.otbm": "abb09c367200fe91408756e2ed7c135382f231f538849bc3b601d10207ce2d8c",
+    "C:\\Users\\Wedson\\Desktop\\NWO NEW\\Server-Data-Nwo\\data\\world\\mapanovo.otbm": "abb09c367200fe91408756e2ed7c135382f231f538849bc3b601d10207ce2d8c"
+  },
+  "passed": true
+}

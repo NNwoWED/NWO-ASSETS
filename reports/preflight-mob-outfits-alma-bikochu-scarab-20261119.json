@@ -1,0 +1,68 @@
+{
+  "sources": {
+    "alma afogada quest-Sheet.png": {
+      "dimensions": [
+        256,
+        1024
+      ],
+      "file_sha256": "7b6c78158af9e4ce7569e776f8c71f4232b3de20c255302479d0742b45417b61",
+      "pixels_sha256": "0fb39abf08e2e1ed36e9157514a4c2791f701a69c454a7011fc006339503dccc",
+      "duplicate_outfits": []
+    },
+    "bikochu-Sheet.png": {
+      "dimensions": [
+        256,
+        1024
+      ],
+      "file_sha256": "f34a98a8d069723754d544c11e4a60ba6eac27b02783a10939ddabfb8f71811d",
+      "pixels_sha256": "01fd63916295c0fab832efb16f9424ffcf8bbac190fdb8784a6961f919e0a214",
+      "duplicate_outfits": []
+    },
+    "scarab_2_hue_shift_256x1024-Sheet.png": {
+      "dimensions": [
+        256,
+        1024
+      ],
+      "file_sha256": "6dd95f8ae0aa96851e892042f75583732a2b7073335a667ddee1c995a868d145",
+      "pixels_sha256": "f6bddc6de5e7e8d448d5d4c5f5fecc09ddbeb8060408c4fd3bba9261e287acf6",
+      "duplicate_outfits": []
+    }
+  },
+  "candidate_outfits_compared": 524,
+  "total_outfits_checked": 2289,
+  "first_free_outfits": [
+    1551,
+    1552,
+    1553,
+    1554,
+    1555,
+    1556,
+    1557,
+    1558
+  ],
+  "reference_outfit": 2034,
+  "reference_layout": [
+    {
+      "width": 2,
+      "height": 2,
+      "layers": 1,
+      "pattern_x": 4,
+      "pattern_y": 1,
+      "frames": 8
+    },
+    {
+      "width": 2,
+      "height": 2,
+      "layers": 1,
+      "pattern_x": 4,
+      "pattern_y": 1,
+      "frames": 8
+    }
+  ],
+  "possible_references": [],
+  "map_hashes": {
+    "Server-Data-Nwo\\data\\world\\mapanovo.otbm": "abb09c367200fe91408756e2ed7c135382f231f538849bc3b601d10207ce2d8c",
+    "NWO-ASSETS\\assets\\world\\mapanovo.otbm": "abb09c367200fe91408756e2ed7c135382f231f538849bc3b601d10207ce2d8c"
+  },
+  "passed": true
+}

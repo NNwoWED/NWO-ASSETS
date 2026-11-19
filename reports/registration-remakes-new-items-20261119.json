@@ -1,0 +1,68 @@
+[
+  {
+    "sequence": 1,
+    "operation": "new cloned item",
+    "name": "Calça Roxa",
+    "purpose": "new leg-slot item without added combat bonuses",
+    "source_server_id": 27039,
+    "source_client_id": 26154,
+    "server_id": 27714,
+    "client_id": 26829,
+    "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\Item 74259 REMAKE-MAX.png",
+    "dimensions": [
+      32,
+      32
+    ],
+    "frames": 1,
+    "source_sha256": "1f467ecc418ff47558f0609c1a30cc6a087717f677c873f09a4cfbe341e3cc5a",
+    "dat_otb_policy": "clone reference properties and use original PNG appearance",
+    "xml_policy": "clone reference; apply descriptive name; empty launcher duration=2, decayTo=27715",
+    "archived_original_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\importados\\remakes-items-20261119\\Item 74259 REMAKE-MAX.png",
+    "archived_source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\importados\\remakes-items-20261119\\Item 74259 REMAKE-MAX.png",
+    "original_png_is_imported_source": true
+  },
+  {
+    "sequence": 2,
+    "operation": "new cloned item",
+    "name": "Lança-dardos carregado",
+    "purpose": "new wall addon; empty reloads into loaded in 2 seconds",
+    "source_server_id": 17368,
+    "source_client_id": 16483,
+    "server_id": 27715,
+    "client_id": 26830,
+    "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\Remake item lança dardos com dardos.png",
+    "dimensions": [
+      64,
+      64
+    ],
+    "frames": 1,
+    "source_sha256": "7a4cbb4a7fb29b06d4a986c12f67edf674d87a67c6e43d84a97128a20c169508",
+    "dat_otb_policy": "clone reference properties and use original PNG appearance",
+    "xml_policy": "clone reference; apply descriptive name; empty launcher duration=2, decayTo=27715",
+    "archived_original_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\importados\\remakes-items-20261119\\Remake item lança dardos com dardos.png",
+    "archived_source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\importados\\remakes-items-20261119\\Remake item lança dardos com dardos.png",
+    "original_png_is_imported_source": true
+  },
+  {
+    "sequence": 3,
+    "operation": "new cloned item",
+    "name": "Lança-dardos vazio",
+    "purpose": "new wall addon; empty reloads into loaded in 2 seconds",
+    "source_server_id": 17368,
+    "source_client_id": 16483,
+    "server_id": 27716,
+    "client_id": 26831,
+    "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\Remake item lança dardos vazio.png",
+    "dimensions": [
+      64,
+      64
+    ],
+    "frames": 1,
+    "source_sha256": "30d43bf771e40c4be44f512286366152d56cd78777364995a7b9dc487e5136ad",
+    "dat_otb_policy": "clone reference properties and use original PNG appearance",
+    "xml_policy": "clone reference; apply descriptive name; empty launcher duration=2, decayTo=27715",
+    "archived_original_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\importados\\remakes-items-20261119\\Remake item lança dardos vazio.png",
+    "archived_source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\importados\\remakes-items-20261119\\Remake item lança dardos vazio.png",
+    "original_png_is_imported_source": true
+  }
+]

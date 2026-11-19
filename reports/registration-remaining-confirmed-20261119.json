@@ -1,0 +1,240 @@
+[
+  {
+    "sequence": 1,
+    "operation": "replace visual",
+    "name": "Barril de Veneno",
+    "purpose": "approved new appearance for existing mission or drop item",
+    "server_id": 26972,
+    "client_id": 26087,
+    "related_server_ids": [
+      26972
+    ],
+    "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\barril com gosma 1.png",
+    "original_source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\barril com gosma 1.png",
+    "original_sha256": "ad19a2815a61d1cc2108fb7e299f74a2ed16d8cd89fc5d4dc307ac952d35294f",
+    "effective_sha256": "ad19a2815a61d1cc2108fb7e299f74a2ed16d8cd89fc5d4dc307ac952d35294f",
+    "original_dimensions": [
+      64,
+      64
+    ],
+    "imported_dimensions": [
+      64,
+      64
+    ],
+    "frame_dimensions": [
+      64,
+      64
+    ],
+    "frames": 1,
+    "frame_duration_ms": null,
+    "properties_policy": "preserve DAT/OTB properties, IDs and quest/drop logic; anchor retains two async animation frames",
+    "normalization": "original PNG used directly",
+    "archived_original_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\importados\\remaining-items-20261119\\sources\\barril com gosma 1.png",
+    "archived_source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\importados\\remaining-items-20261119\\sources\\barril com gosma 1.png",
+    "original_png_is_imported_source": true
+  },
+  {
+    "sequence": 2,
+    "operation": "replace visual",
+    "name": "Lizard Tails",
+    "purpose": "approved new appearance for existing mission or drop item",
+    "server_id": 11565,
+    "client_id": 10688,
+    "related_server_ids": [
+      11565
+    ],
+    "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\Calda lagarto.png",
+    "original_source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\Calda lagarto.png",
+    "original_sha256": "0a6f226511c324fd34e6284b12748afaa0a6dca3c5f5fc919bc2133040cce3e8",
+    "effective_sha256": "0a6f226511c324fd34e6284b12748afaa0a6dca3c5f5fc919bc2133040cce3e8",
+    "original_dimensions": [
+      32,
+      32
+    ],
+    "imported_dimensions": [
+      32,
+      32
+    ],
+    "frame_dimensions": [
+      32,
+      32
+    ],
+    "frames": 1,
+    "frame_duration_ms": null,
+    "properties_policy": "preserve DAT/OTB properties, IDs and quest/drop logic; anchor retains two async animation frames",
+    "normalization": "original PNG used directly",
+    "archived_original_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\importados\\remaining-items-20261119\\sources\\Calda lagarto.png",
+    "archived_source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\importados\\remaining-items-20261119\\sources\\Calda lagarto.png",
+    "original_png_is_imported_source": true
+  },
+  {
+    "sequence": 3,
+    "operation": "replace visual",
+    "name": "Prospector Pants",
+    "purpose": "approved new appearance for existing mission or drop item",
+    "server_id": 7453,
+    "client_id": 7453,
+    "related_server_ids": [
+      7453
+    ],
+    "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\Calça mob minerador.png",
+    "original_source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\Calça mob minerador.png",
+    "original_sha256": "ff2d077e340b923e0964be9fcd967839a3fdc4584ed9e7b6d9c27d8939e46637",
+    "effective_sha256": "ff2d077e340b923e0964be9fcd967839a3fdc4584ed9e7b6d9c27d8939e46637",
+    "original_dimensions": [
+      32,
+      32
+    ],
+    "imported_dimensions": [
+      32,
+      32
+    ],
+    "frame_dimensions": [
+      32,
+      32
+    ],
+    "frames": 1,
+    "frame_duration_ms": null,
+    "properties_policy": "preserve DAT/OTB properties, IDs and quest/drop logic; anchor retains two async animation frames",
+    "normalization": "original PNG used directly",
+    "archived_original_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\importados\\remaining-items-20261119\\sources\\Calça mob minerador.png",
+    "archived_source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\importados\\remaining-items-20261119\\sources\\Calça mob minerador.png",
+    "original_png_is_imported_source": true
+  },
+  {
+    "sequence": 4,
+    "operation": "replace visual",
+    "name": "Selo dos Sabotadores",
+    "purpose": "approved new appearance for existing mission or drop item",
+    "server_id": 26973,
+    "client_id": 26088,
+    "related_server_ids": [
+      26973
+    ],
+    "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\Exemplo de selo Quest Veneno nas Águas.png",
+    "original_source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\Exemplo de selo Quest Veneno nas Águas.png",
+    "original_sha256": "f94c9a9703527db0f45f5c79c24c16f78da2acbee3f4016071b30dc14ba1261b",
+    "effective_sha256": "f94c9a9703527db0f45f5c79c24c16f78da2acbee3f4016071b30dc14ba1261b",
+    "original_dimensions": [
+      32,
+      32
+    ],
+    "imported_dimensions": [
+      32,
+      32
+    ],
+    "frame_dimensions": [
+      32,
+      32
+    ],
+    "frames": 1,
+    "frame_duration_ms": null,
+    "properties_policy": "preserve DAT/OTB properties, IDs and quest/drop logic; anchor retains two async animation frames",
+    "normalization": "original PNG used directly",
+    "archived_original_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\importados\\remaining-items-20261119\\sources\\Exemplo de selo Quest Veneno nas Águas.png",
+    "archived_source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\importados\\remaining-items-20261119\\sources\\Exemplo de selo Quest Veneno nas Águas.png",
+    "original_png_is_imported_source": true
+  },
+  {
+    "sequence": 5,
+    "operation": "replace visual",
+    "name": "Honeycomb",
+    "purpose": "approved new appearance for existing mission or drop item",
+    "server_id": 5902,
+    "client_id": 5902,
+    "related_server_ids": [
+      5902
+    ],
+    "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\Favo de Mel.png",
+    "original_source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\Favo de Mel.png",
+    "original_sha256": "053467ffc22e1c6bec68533f9384e953ae8aaf19ea1255f3e7df89b682b6e52b",
+    "effective_sha256": "053467ffc22e1c6bec68533f9384e953ae8aaf19ea1255f3e7df89b682b6e52b",
+    "original_dimensions": [
+      32,
+      32
+    ],
+    "imported_dimensions": [
+      32,
+      32
+    ],
+    "frame_dimensions": [
+      32,
+      32
+    ],
+    "frames": 1,
+    "frame_duration_ms": null,
+    "properties_policy": "preserve DAT/OTB properties, IDs and quest/drop logic; anchor retains two async animation frames",
+    "normalization": "original PNG used directly",
+    "archived_original_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\importados\\remaining-items-20261119\\sources\\Favo de Mel.png",
+    "archived_source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\importados\\remaining-items-20261119\\sources\\Favo de Mel.png",
+    "original_png_is_imported_source": true
+  },
+  {
+    "sequence": 6,
+    "operation": "replace visual",
+    "name": "Amostra Contaminada",
+    "purpose": "approved new appearance for existing mission or drop item",
+    "server_id": 26971,
+    "client_id": 26086,
+    "related_server_ids": [
+      26971
+    ],
+    "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\FRASCO COM LIQUIDO VERDE.png",
+    "original_source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\FRASCO COM LIQUIDO VERDE.png",
+    "original_sha256": "7431263906660cde652e028cc90c5256dddf256ae9764c049dcf84d39e28bb51",
+    "effective_sha256": "7431263906660cde652e028cc90c5256dddf256ae9764c049dcf84d39e28bb51",
+    "original_dimensions": [
+      32,
+      32
+    ],
+    "imported_dimensions": [
+      32,
+      32
+    ],
+    "frame_dimensions": [
+      32,
+      32
+    ],
+    "frames": 1,
+    "frame_duration_ms": null,
+    "properties_policy": "preserve DAT/OTB properties, IDs and quest/drop logic; anchor retains two async animation frames",
+    "normalization": "original PNG used directly",
+    "archived_original_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\importados\\remaining-items-20261119\\sources\\FRASCO COM LIQUIDO VERDE.png",
+    "archived_source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\importados\\remaining-items-20261119\\sources\\FRASCO COM LIQUIDO VERDE.png",
+    "original_png_is_imported_source": true
+  },
+  {
+    "sequence": 7,
+    "operation": "replace visual",
+    "name": "Âncora Espiritual",
+    "purpose": "approved new appearance for existing mission or drop item",
+    "server_id": 26975,
+    "client_id": 26090,
+    "related_server_ids": [
+      26975
+    ],
+    "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\remaining-items-20261119\\ancora-duas-frames.png",
+    "original_source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\O Último Elo da Névoa ANCORA.png",
+    "original_sha256": "c007e75e5c84bcfef60c73903eb780a1a35883f13687069f7a3803573cf87b5f",
+    "effective_sha256": "7d9cb09d0ff41cde1ec1e9af75df74c52ae013831d6c297c1e4ba5607ef015f5",
+    "original_dimensions": [
+      64,
+      64
+    ],
+    "imported_dimensions": [
+      64,
+      128
+    ],
+    "frame_dimensions": [
+      64,
+      64
+    ],
+    "frames": 2,
+    "frame_duration_ms": 100,
+    "properties_policy": "preserve DAT/OTB properties, IDs and quest/drop logic; anchor retains two async animation frames",
+    "normalization": "repeat original frame twice without resampling",
+    "archived_original_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\importados\\remaining-items-20261119\\sources\\O Último Elo da Névoa ANCORA.png",
+    "archived_source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\importados\\remaining-items-20261119\\effective\\ancora-duas-frames.png",
+    "original_png_is_imported_source": false
+  }
+]

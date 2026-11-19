@@ -1,0 +1,24 @@
+[
+  {
+    "sequence": 1,
+    "operation": "new cloned item",
+    "name": "Bolsa do Minerador",
+    "purpose": "new stackable portable material available for future loot/craft use; no loot rules changed",
+    "server_id": 27717,
+    "client_id": 26832,
+    "reference_server_id": 5881,
+    "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\Bolsa_Minerador.png",
+    "original_source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\Bolsa_Minerador.png",
+    "original_sha256": "9f7a00205848285aa0af9fcdb0b09eaedb99a3417e28041a057626d5e8c0b2e1",
+    "effective_sha256": "9f7a00205848285aa0af9fcdb0b09eaedb99a3417e28041a057626d5e8c0b2e1",
+    "dimensions": [
+      32,
+      32
+    ],
+    "frames": 1,
+    "properties_policy": "clone standard portable/stackable material DAT/OTB properties; customize name and plural only",
+    "archived_original_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\importados\\remaining-items-20261119\\sources\\Bolsa_Minerador.png",
+    "archived_source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\importados\\remaining-items-20261119\\sources\\Bolsa_Minerador.png",
+    "original_png_is_imported_source": true
+  }
+]

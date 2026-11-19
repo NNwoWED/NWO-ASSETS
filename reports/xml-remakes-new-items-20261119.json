@@ -1,0 +1,15 @@
+{
+  "passed": true,
+  "names": {
+    "27714": "Calça Roxa",
+    "27715": "Lança-dardos carregado",
+    "27716": "Lança-dardos vazio"
+  },
+  "empty_server_id": 27716,
+  "loaded_server_id": 27715,
+  "duration_seconds": 2,
+  "decay_to": 27715,
+  "reference_wall_addon": 17368,
+  "before_sha256": "6f47a05fffd863fa1a5dda3e5f908f4dcde603c3f0bb77021f949f390c33dc25",
+  "after_sha256": "05ff4a4b78d3de13f4d5bcf41e20e4beea0086a12a3e870931f93c3cf6dd3ea0"
+}

@@ -1,0 +1,126 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "manifest": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\remakes-items-20261119\\new-items.csv",
+  "item_count": 3,
+  "target_server_id_range": [
+    27714,
+    27716
+  ],
+  "target_client_id_range": [
+    26829,
+    26831
+  ],
+  "new_sprite_count": 9,
+  "sprite_id_range": [
+    330390,
+    330398
+  ],
+  "items": [
+    {
+      "sequence": 1,
+      "source_server_id": 27039,
+      "source_client_id": 26154,
+      "target_server_id": 27714,
+      "target_client_id": 26829,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\Item 74259 REMAKE-MAX.png",
+      "source_sha256": "1F467ECC418FF47558F0609C1A30CC6A087717F677C873F09A4CFBE341E3CC5A",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        330390,
+        330390
+      ],
+      "sprite_hash": "C09B7798CAAD493EB914DA558FBF9D4D"
+    },
+    {
+      "sequence": 2,
+      "source_server_id": 17368,
+      "source_client_id": 16483,
+      "target_server_id": 27715,
+      "target_client_id": 26830,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\Remake item lança dardos com dardos.png",
+      "source_sha256": "7A4CBB4A7FB29B06D4A986C12F67EDF674D87A67C6E43D84A97128A20C169508",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        330391,
+        330394
+      ],
+      "sprite_hash": "A3E6AB58F827FF58670070610499D77A"
+    },
+    {
+      "sequence": 3,
+      "source_server_id": 17368,
+      "source_client_id": 16483,
+      "target_server_id": 27716,
+      "target_client_id": 26831,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\Remake item lança dardos vazio.png",
+      "source_sha256": "30D43BF771E40C4BE44F512286366152D56CD78777364995A7B9DC487E5136AD",
+      "image_size": [
+        64,
+        64
+      ],
+      "frame_size": [
+        64,
+        64
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 4,
+      "sprite_id_range": [
+        330395,
+        330398
+      ],
+      "sprite_hash": "8892182AA9621CB8E78A8943E37B94E5"
+    }
+  ],
+  "xml": {
+    "source_definitions": 2,
+    "target_definitions_written": 3,
+    "target_definitions_already_exact": 0,
+    "target_ids": [
+      27714,
+      27715,
+      27716
+    ]
+  },
+  "map_scan": {
+    "tiles_scanned": 8440196,
+    "item_nodes_scanned": 2294887
+  },
+  "dry_run": true,
+  "passed": true
+}

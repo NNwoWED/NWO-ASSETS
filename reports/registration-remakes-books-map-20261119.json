@@ -1,0 +1,68 @@
+[
+  {
+    "sequence": 1,
+    "operation": "replace visual",
+    "name": "Blue book",
+    "purpose": "visual remake of existing book or map",
+    "server_id": 1963,
+    "client_id": 2829,
+    "related_server_ids": [
+      1963
+    ],
+    "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\Item 2829 remake.png",
+    "dimensions": [
+      32,
+      32
+    ],
+    "frames": 1,
+    "source_sha256": "d431f5f300c8e3b68f5d4d68c976fda8e1bb379c9b50b53427444b5c1c37de34",
+    "dat_otb_policy": "preserve all properties and XML; replace appearance and related SpriteHash only",
+    "archived_original_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\importados\\remakes-items-20261119\\Item 2829 remake.png",
+    "archived_source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\importados\\remakes-items-20261119\\Item 2829 remake.png",
+    "original_png_is_imported_source": true
+  },
+  {
+    "sequence": 2,
+    "operation": "replace visual",
+    "name": "Green book",
+    "purpose": "visual remake of existing book or map",
+    "server_id": 1965,
+    "client_id": 2831,
+    "related_server_ids": [
+      1965
+    ],
+    "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\Item 2831 remake.png",
+    "dimensions": [
+      32,
+      32
+    ],
+    "frames": 1,
+    "source_sha256": "1ca7a30b31b38134106a078c9c9ee109b3992ccdbe045b7c4df6abf3f079b2da",
+    "dat_otb_policy": "preserve all properties and XML; replace appearance and related SpriteHash only",
+    "archived_original_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\importados\\remakes-items-20261119\\Item 2831 remake.png",
+    "archived_source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\importados\\remakes-items-20261119\\Item 2831 remake.png",
+    "original_png_is_imported_source": true
+  },
+  {
+    "sequence": 3,
+    "operation": "replace visual",
+    "name": "Treasure map",
+    "purpose": "visual remake of existing book or map",
+    "server_id": 5091,
+    "client_id": 5090,
+    "related_server_ids": [
+      5091
+    ],
+    "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\Item 5090 remake.png",
+    "dimensions": [
+      32,
+      32
+    ],
+    "frames": 1,
+    "source_sha256": "8fe5aff81022cad8b0dc39487f71485b586ffa9b9d3234b695125237b87bbfae",
+    "dat_otb_policy": "preserve all properties and XML; replace appearance and related SpriteHash only",
+    "archived_original_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\importados\\remakes-items-20261119\\Item 5090 remake.png",
+    "archived_source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\importados\\remakes-items-20261119\\Item 5090 remake.png",
+    "original_png_is_imported_source": true
+  }
+]

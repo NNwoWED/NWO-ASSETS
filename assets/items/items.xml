@@ -21102,4 +21102,17 @@
 	<item id="24310" article="a" name="Granite Shuriken" />
 	<item id="14526" article="a" name="Iwa Vest" />
 	<item id="7453" article="a" name="Prospector Pants" />
+	<item id="27714" article="a" name="Calça Roxa">
+		<attribute key="description" value="They offer little protection but will at least provide some comfort and warmth." />
+		<attribute key="weight" value="150" />
+		<attribute key="slotType" value="legs" />
+	</item>
+<item id="27715" name="Lança-dardos carregado" />
+<item id="27716" name="Lança-dardos vazio" >
+	<attribute key="duration" value="2" />
+	<attribute key="decayTo" value="27715" />
+</item>
+	<item id="27717" article="a" name="Bolsa do Minerador" plural="Bolsas do Minerador">
+		<attribute key="weight" value="80" />
+	</item>
 </items>

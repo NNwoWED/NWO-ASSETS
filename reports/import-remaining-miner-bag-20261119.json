@@ -1,0 +1,142 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "manifest": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\remaining-items-20261119\\new-miner-bag.csv",
+  "item_count": 1,
+  "target_server_id_range": [
+    27717,
+    27717
+  ],
+  "target_client_id_range": [
+    26832,
+    26832
+  ],
+  "new_sprite_count": 1,
+  "sprite_id_range": [
+    330420,
+    330420
+  ],
+  "items": [
+    {
+      "sequence": 1,
+      "source_server_id": 5881,
+      "source_client_id": 5881,
+      "target_server_id": 27717,
+      "target_client_id": 26832,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\Bolsa_Minerador.png",
+      "source_sha256": "9F7A00205848285AA0AF9FCDB0B09EAEDB99A3417E28041A057626D5E8C0B2E1",
+      "image_size": [
+        32,
+        32
+      ],
+      "frame_size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_id_count": 1,
+      "sprite_id_range": [
+        330420,
+        330420
+      ],
+      "sprite_hash": "B4876FCA762875FDA4E86DF500FD3C71"
+    }
+  ],
+  "xml": {
+    "source_definitions": 1,
+    "target_definitions_written": 1,
+    "target_definitions_already_exact": 0,
+    "target_ids": [
+      27717
+    ]
+  },
+  "map_scan": {
+    "tiles_scanned": 8440196,
+    "item_nodes_scanned": 2294887
+  },
+  "version_backup": {
+    "tool_version": "0.8.2",
+    "version_id": "20261119-041941-525181",
+    "created_at": "2026-11-19T04:19:54.211452-03:00",
+    "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261119-041941-525181",
+    "rar_executable": "C:\\Program Files\\WinRAR\\Rar.exe",
+    "sources": [
+      {
+        "path": "assets/860/.gitattributes",
+        "size": 43,
+        "sha256": "D5636A3257287440945C5E017581545E5B0A3E2FDDDAE7C5EF8D90FF4DF3D32A"
+      },
+      {
+        "path": "assets/860/Tibia.dat",
+        "size": 4885989,
+        "sha256": "124D33AF2A87A00CDE4C4DFB45767541128D6ECB3A1D3986AFF87C99EF873A29"
+      },
+      {
+        "path": "assets/860/Tibia.glb",
+        "size": 2315332,
+        "sha256": "F295ECEFBF702042FA22B8C59699255C7ED4EA6EFF0A0573CD8CBB0EBE3E26CC"
+      },
+      {
+        "path": "assets/860/Tibia.otfi",
+        "size": 185,
+        "sha256": "7743548835944BC799CB871A4E5DEF84F7AF76815031871B9CE74B5EC0E8ADD3"
+      },
+      {
+        "path": "assets/860/Tibia.spr",
+        "size": 555474203,
+        "sha256": "399C978300CB3AD85EBB8F882D62C30CD480E2499517F21F764C69A6BFD09185"
+      },
+      {
+        "path": "assets/items/force use.txt",
+        "size": 419,
+        "sha256": "BCB478FDF3F45ECA8D172AFD7A17D3F8CD520924EE0894752452B8FDC8F71959"
+      },
+      {
+        "path": "assets/items/items.otb",
+        "size": 1102435,
+        "sha256": "AA5594E697D92F76A3E73792B4674B04C69F724FD1D7F46FEE69E6AB0A9624E3"
+      },
+      {
+        "path": "assets/world/mapanovo.otbm",
+        "size": 86622750,
+        "sha256": "ABB09C367200FE91408756E2ED7C135382F231F538849BC3B601D10207CE2D8C"
+      }
+    ],
+    "archives": {
+      "860": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261119-041941-525181\\860.rar",
+        "size": 95236334,
+        "sha256": "BA3BF59183650A88F4A0209DC85F9021FA496947E621DD3ABDB987B4E097E22A"
+      },
+      "items": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261119-041941-525181\\items.rar",
+        "size": 528976,
+        "sha256": "11D4F1C0217F80C9F1D498D6B7FFD7C42F8F694C05E430A22418D4A9ED55DC8B"
+      },
+      "world": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261119-041941-525181\\world.zip",
+        "size": 20867072,
+        "sha256": "D41CA6809A0FF4BE6CC5F9206B3ACFBF902E33DBDDFADD150B3D56E5C0353D9E"
+      }
+    },
+    "items_xml_excluded": true,
+    "world_entries": [
+      "mapanovo.otbm"
+    ],
+    "passed": true
+  },
+  "transaction_committed": true,
+  "old_dat_records_preserved": true,
+  "old_otb_nodes_preserved": true,
+  "old_sprite_payload_preserved": true,
+  "new_sprite_pixels_verified": true,
+  "final_validation_passed": true,
+  "warnings": [],
+  "errors": [],
+  "passed": true
+}

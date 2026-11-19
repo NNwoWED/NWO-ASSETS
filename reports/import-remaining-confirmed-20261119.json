@@ -1,0 +1,286 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "manifest": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\remaining-items-20261119\\replace-confirmed.csv",
+  "profile": "tibia-860-v2-custom-extended",
+  "version_backup": {
+    "tool_version": "0.8.2",
+    "version_id": "20261119-041701-544008",
+    "created_at": "2026-11-19T04:17:15.119981-03:00",
+    "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261119-041701-544008",
+    "rar_executable": "C:\\Program Files\\WinRAR\\Rar.exe",
+    "sources": [
+      {
+        "path": "assets/860/.gitattributes",
+        "size": 43,
+        "sha256": "D5636A3257287440945C5E017581545E5B0A3E2FDDDAE7C5EF8D90FF4DF3D32A"
+      },
+      {
+        "path": "assets/860/Tibia.dat",
+        "size": 4885960,
+        "sha256": "C6F6394A2E5D2C4DBF6B332192331753B6FBFE9EF3C646F847251BBF7E021414"
+      },
+      {
+        "path": "assets/860/Tibia.glb",
+        "size": 2315332,
+        "sha256": "F295ECEFBF702042FA22B8C59699255C7ED4EA6EFF0A0573CD8CBB0EBE3E26CC"
+      },
+      {
+        "path": "assets/860/Tibia.otfi",
+        "size": 185,
+        "sha256": "7743548835944BC799CB871A4E5DEF84F7AF76815031871B9CE74B5EC0E8ADD3"
+      },
+      {
+        "path": "assets/860/Tibia.spr",
+        "size": 555454642,
+        "sha256": "2AB8BD24B28D330643A069003383075414BF780EB96FDB3015FD00C7266F983D"
+      },
+      {
+        "path": "assets/items/force use.txt",
+        "size": 419,
+        "sha256": "BCB478FDF3F45ECA8D172AFD7A17D3F8CD520924EE0894752452B8FDC8F71959"
+      },
+      {
+        "path": "assets/items/items.otb",
+        "size": 1102436,
+        "sha256": "46BCD5867559FC7C595588C2381838EB87D2BCEB4F5F7EB68FD85BAADCB65749"
+      },
+      {
+        "path": "assets/world/mapanovo.otbm",
+        "size": 86622750,
+        "sha256": "ABB09C367200FE91408756E2ED7C135382F231F538849BC3B601D10207CE2D8C"
+      }
+    ],
+    "archives": {
+      "860": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261119-041701-544008\\860.rar",
+        "size": 95130101,
+        "sha256": "112022AF94C84C627B8DFE3DACFACFDE79CCFBDA3A1DC440F4EA175FBFAFDB4E"
+      },
+      "items": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261119-041701-544008\\items.rar",
+        "size": 528915,
+        "sha256": "B2F8067A0088993185B46DFC5BDA3C373697AB3E417D49293E61F467D9D2BD78"
+      },
+      "world": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261119-041701-544008\\world.zip",
+        "size": 20867072,
+        "sha256": "D41CA6809A0FF4BE6CC5F9206B3ACFBF902E33DBDDFADD150B3D56E5C0353D9E"
+      }
+    },
+    "items_xml_excluded": true,
+    "world_entries": [
+      "mapanovo.otbm"
+    ],
+    "passed": true
+  },
+  "sprite_hash_gate": {
+    "sample_count": 64,
+    "mismatch_count": 0,
+    "mismatches": [],
+    "passed": true
+  },
+  "item_count": 7,
+  "new_sprite_count": 17,
+  "sprite_id_range": [
+    330403,
+    330419
+  ],
+  "items": [
+    {
+      "sequence": 1,
+      "client_id": 26087,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\barril com gosma 1.png",
+      "file_sha256": "AD19A2815A61D1CC2108FB7E299F74A2ED16D8CD89FC5D4DC307AC952D35294F",
+      "pixels_sha256": "E3ABDBE4243B10222C2E82114B7726249E5F2B91A3093E1CC737870BAE23D59C",
+      "image_width": 64,
+      "image_height": 64,
+      "width_tiles": 2,
+      "height_tiles": 2,
+      "frames": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_ids": [
+        330403,
+        330404,
+        330405,
+        330406
+      ],
+      "sprite_hash": "E369AB0F77CBAA0A365AA5413F4FF5CE",
+      "layout_preserved": false,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1
+    },
+    {
+      "sequence": 2,
+      "client_id": 10688,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\Calda lagarto.png",
+      "file_sha256": "0A6F226511C324FD34E6284B12748AFAA0A6DCA3C5F5FC919BC2133040CCE3E8",
+      "pixels_sha256": "DE2B943561A8BF8B7A4AF2C452BF863FF142833A482EF9A3D360848388439D01",
+      "image_width": 32,
+      "image_height": 32,
+      "width_tiles": 1,
+      "height_tiles": 1,
+      "frames": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_ids": [
+        330407
+      ],
+      "sprite_hash": "7CC4D85AB21DF25321609D3FF5EDA283",
+      "layout_preserved": false,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1
+    },
+    {
+      "sequence": 3,
+      "client_id": 7453,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\Calça mob minerador.png",
+      "file_sha256": "FF2D077E340B923E0964BE9FCD967839A3FDC4584ED9E7B6D9C27D8939E46637",
+      "pixels_sha256": "72C02B5BC2195911508764FAC12A2327CC872816FCE470C4F227C81DA06E7360",
+      "image_width": 32,
+      "image_height": 32,
+      "width_tiles": 1,
+      "height_tiles": 1,
+      "frames": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_ids": [
+        330408
+      ],
+      "sprite_hash": "4A6FE8C2E76BD435AC5E5D679253990E",
+      "layout_preserved": false,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1
+    },
+    {
+      "sequence": 4,
+      "client_id": 26088,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\Exemplo de selo Quest Veneno nas Águas.png",
+      "file_sha256": "F94C9A9703527DB0F45F5C79C24C16F78DA2ACBEE3F4016071B30DC14BA1261B",
+      "pixels_sha256": "D698635749812DD38EAFF365D17831B62DE435ECA26EA5874DA4C78577688838",
+      "image_width": 32,
+      "image_height": 32,
+      "width_tiles": 1,
+      "height_tiles": 1,
+      "frames": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_ids": [
+        330409
+      ],
+      "sprite_hash": "FED0E86A60B75B9DADB29393D0EB7220",
+      "layout_preserved": false,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1
+    },
+    {
+      "sequence": 5,
+      "client_id": 5902,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\Favo de Mel.png",
+      "file_sha256": "053467FFC22E1C6BEC68533F9384E953AE8AAF19EA1255F3E7DF89B682B6E52B",
+      "pixels_sha256": "6F8AFC6F065BBE3E9F2FE8805E7C6D86927963FAA85C7EED6BEE76B15857EA51",
+      "image_width": 32,
+      "image_height": 32,
+      "width_tiles": 1,
+      "height_tiles": 1,
+      "frames": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_ids": [
+        330410
+      ],
+      "sprite_hash": "BB840BF91BEA7164D12E2C00EAF06238",
+      "layout_preserved": false,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1
+    },
+    {
+      "sequence": 6,
+      "client_id": 26086,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\FRASCO COM LIQUIDO VERDE.png",
+      "file_sha256": "7431263906660CDE652E028CC90C5256DDDF256AE9764C049DCF84D39E28BB51",
+      "pixels_sha256": "F77CBEDD23E4EB571F77FD02CDB9908A48051524B88675EE45BD2FF9E8683581",
+      "image_width": 32,
+      "image_height": 32,
+      "width_tiles": 1,
+      "height_tiles": 1,
+      "frames": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_ids": [
+        330411
+      ],
+      "sprite_hash": "82CB2F961DD58D188C90B22DF5C7D392",
+      "layout_preserved": false,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1
+    },
+    {
+      "sequence": 7,
+      "client_id": 26090,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\remaining-items-20261119\\ancora-duas-frames.png",
+      "file_sha256": "7D9CB09D0FF41CDE1EC1E9AF75DF74C52AE013831D6C297C1E4BA5607EF015F5",
+      "pixels_sha256": "005ACE8A713F760A6E5C19449E073DB5706215AD559A8EF228CEFA6BB71B7BC5",
+      "image_width": 64,
+      "image_height": 128,
+      "width_tiles": 2,
+      "height_tiles": 2,
+      "frames": 2,
+      "frame_duration_ms": 100,
+      "animation_async": true,
+      "sprite_ids": [
+        330412,
+        330413,
+        330414,
+        330415,
+        330416,
+        330417,
+        330418,
+        330419
+      ],
+      "sprite_hash": "910B04B0BB3BE8684E185976E534883F",
+      "layout_preserved": false,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1
+    }
+  ],
+  "otb_nodes_updated": {
+    "26087": 1,
+    "10688": 1,
+    "7453": 1,
+    "26088": 1,
+    "5902": 1,
+    "26086": 1,
+    "26090": 1
+  },
+  "transaction_committed": true,
+  "output_hashes": {
+    "dat": "124D33AF2A87A00CDE4C4DFB45767541128D6ECB3A1D3986AFF87C99EF873A29",
+    "spr": "399C978300CB3AD85EBB8F882D62C30CD480E2499517F21F764C69A6BFD09185",
+    "otb": "AA5594E697D92F76A3E73792B4674B04C69F724FD1D7F46FEE69E6AB0A9624E3"
+  },
+  "dat_non_targets_preserved": true,
+  "old_sprite_payload_preserved": true,
+  "new_sprite_pixels_verified": true,
+  "layout_preserved_client_ids": [],
+  "untouched_files_preserved": true,
+  "map_byte_equal": true,
+  "final_validation_passed": true,
+  "warnings": [],
+  "errors": [],
+  "passed": true
+}

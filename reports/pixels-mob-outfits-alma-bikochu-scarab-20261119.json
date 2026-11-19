@@ -1,0 +1,39 @@
+{
+  "passed": true,
+  "checks": [
+    {
+      "outfit_id": 1551,
+      "source": "alma afogada quest-Sheet.png",
+      "groups": 2,
+      "frames_per_group": [
+        8,
+        8
+      ],
+      "pixel_hash": "0fb39abf08e2e1ed36e9157514a4c2791f701a69c454a7011fc006339503dccc",
+      "matches_source": true
+    },
+    {
+      "outfit_id": 1552,
+      "source": "bikochu-Sheet.png",
+      "groups": 2,
+      "frames_per_group": [
+        8,
+        8
+      ],
+      "pixel_hash": "01fd63916295c0fab832efb16f9424ffcf8bbac190fdb8784a6961f919e0a214",
+      "matches_source": true
+    },
+    {
+      "outfit_id": 1553,
+      "source": "scarab_2_hue_shift_256x1024-Sheet.png",
+      "groups": 2,
+      "frames_per_group": [
+        8,
+        8
+      ],
+      "pixel_hash": "f6bddc6de5e7e8d448d5d4c5f5fecc09ddbeb8060408c4fd3bba9261e287acf6",
+      "matches_source": true
+    }
+  ],
+  "preview": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\mob-outfits-alma-bikochu-scarab-20261119\\previa-outfits.png"
+}

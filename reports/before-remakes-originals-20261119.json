@@ -1,0 +1,54 @@
+{
+  "map_hashes": {
+    "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\world\\mapanovo.otbm": "abb09c367200fe91408756e2ed7c135382f231f538849bc3b601d10207ce2d8c",
+    "C:\\Users\\Wedson\\Desktop\\NWO NEW\\Server-Data-Nwo\\data\\world\\mapanovo.otbm": "abb09c367200fe91408756e2ed7c135382f231f538849bc3b601d10207ce2d8c"
+  },
+  "xml_sha256": "05ff4a4b78d3de13f4d5bcf41e20e4beea0086a12a3e870931f93c3cf6dd3ea0",
+  "protected_dat_records": {
+    "7450": "8ad873ce4911e74c1a1da5b94152b9153351244c3f23d49ad794e3dfd7b07be8",
+    "7457": "2d02b073ede7b16c8cee2c2d8530718e3e4ca5ed19c51ca3e0f715d085764e59",
+    "26148": "034d1798c729b92c2cea1aa8a41c5d75103f1464c581f7e5375e1698ecd14f2d",
+    "26149": "d22d3742c51707fd68da096a9de9defb60e696c702ff5461471d87cf91790415",
+    "26150": "f72db105e98179cfe35420e8884a01bc57453e5db820517f86b24f7ec4ddcc48",
+    "26151": "c83fcaef4249a78dfc393aabce8d77fad44773ae2260544f690cb31e6f191ead",
+    "26153": "b9ed7710d48ab23e48db25c1c693ecbdaa17683f055e297a6eb6a14464376737"
+  },
+  "protected_otb_records": {
+    "27033": {
+      "group": 0,
+      "flags": 112,
+      "client_id": 26148
+    },
+    "27034": {
+      "group": 0,
+      "flags": 112,
+      "client_id": 26149
+    },
+    "27035": {
+      "group": 0,
+      "flags": 112,
+      "client_id": 26150
+    },
+    "27036": {
+      "group": 0,
+      "flags": 112,
+      "client_id": 26151
+    },
+    "27038": {
+      "group": 0,
+      "flags": 32869,
+      "client_id": 26153
+    },
+    "7450": {
+      "group": 0,
+      "flags": 32869,
+      "client_id": 7450
+    },
+    "7457": {
+      "group": 0,
+      "flags": 32869,
+      "client_id": 7457
+    }
+  },
+  "ignored_27038": true
+}

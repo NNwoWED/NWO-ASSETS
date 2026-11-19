@@ -1,0 +1,35 @@
+{
+  "passed": true,
+  "outfits": [
+    {
+      "outfit_id": 1551,
+      "name": "Alma Afogada Quest",
+      "archived_source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\importados\\mob-outfits-alma-bikochu-scarab-20261119\\alma afogada quest-Sheet.png",
+      "source_sha256": "7b6c78158af9e4ce7569e776f8c71f4232b3de20c255302479d0742b45417b61"
+    },
+    {
+      "outfit_id": 1552,
+      "name": "Bikochu",
+      "archived_source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\importados\\mob-outfits-alma-bikochu-scarab-20261119\\bikochu-Sheet.png",
+      "source_sha256": "f34a98a8d069723754d544c11e4a60ba6eac27b02783a10939ddabfb8f71811d"
+    },
+    {
+      "outfit_id": 1553,
+      "name": "Scarab 2",
+      "archived_source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\importados\\mob-outfits-alma-bikochu-scarab-20261119\\scarab_2_hue_shift_256x1024-Sheet.png",
+      "source_sha256": "6dd95f8ae0aa96851e892042f75583732a2b7073335a667ddee1c995a868d145"
+    }
+  ],
+  "version_id": "20261119-033455-751195",
+  "duplicate_outfits": false,
+  "original_pixels_verified": true,
+  "new_sprites": 704,
+  "dat_non_targets_preserved": true,
+  "old_sprite_payload_preserved": true,
+  "deep_validation_passed": true,
+  "sync_runtime_passed": true,
+  "runtime_targets_verified": 37,
+  "map_unchanged": true,
+  "frame_duration_ms": 100,
+  "archive": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\importados\\mob-outfits-alma-bikochu-scarab-20261119"
+}

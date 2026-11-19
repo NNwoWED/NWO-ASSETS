@@ -388,3 +388,33 @@ Versão testada 20261118-153633-125121. Pixels, propriedades, registros DAT não
 Renomeado o Server ID 7429 para Stonewalker Shoes, preservando todos os atributos existentes. Nomeados os IDs já presentes no OTB/DAT: 24310 (Client ID 23425), Granite Shuriken; 14526 (Client ID 13649), Iwa Vest; 7453 (Client ID 7453), Prospector Pants. Alteração exclusiva dos nomes em assets/items/items.xml, sem mudança visual ou de propriedades DAT/OTB.
 
 Baseline e validação final profundas aprovadas, versão imutável 20261119-031311-278711 e sync-runtime concluído com 37 destinos conferidos por SHA-256 e três RARs testados. DAT, SPR, OTB e mapa preservados. Relatórios reports/iwagakure-item-names-20261119.json, reports/validation-final-iwagakure-names-20261119.json e reports/sync-runtime-iwagakure-names-20261119.json.
+
+
+## 19/11/2026 - Novas outfits de Alma Afogada Quest, Bikochu e Scarab 2
+
+Preenchidos os slots reservados 1551 (Alma Afogada Quest), 1552 (Bikochu) e 1553 (Scarab 2), sem substituir aparências existentes. PNGs originais RGBA de 256 × 1024, quatro direções, dois grupos de oito frames de 64 × 64 e 100 ms por frame; layout de referência 2034. A comparação com 524 outfits compatíveis e a busca nos conteúdos ativos não encontraram duplicatas nem uso prévio dos IDs.
+
+Versão testada 20261119-033455-751195. Acrescentados 704 sprites; registros DAT não alvo, payloads SPR antigos, OTB, itens, metadados e mapa preservados. Pixels reexportados, validação profunda e sincronização de 37 destinos aprovados, com três RARs testados. Fontes e manifesto arquivados em importados/mob-outfits-alma-bikochu-scarab-20261119/. Relatórios em reports/*mob-outfits-alma-bikochu-scarab-20261119.json.
+
+
+## 19/11/2026 - Lote aplicado dos remakes de itens
+
+Substituídos os visuais dos Client IDs 2829 (Server 1963, Blue book), 2831 (1965, Green book) e 5090 (5091, Treasure map), mantendo as propriedades. Novos itens contíguos 27714/26829 (Calça Roxa, referência 27039), 27715/26830 (Lança-dardos carregado) e 27716/26831 (Lança-dardos vazio), ambos addons com referência 17368. Vazio configurado no XML com duration=2 e decayTo=27715.
+
+Versões testadas 20261119-035449-366153 e 20261119-035707-160340. Dry-run, pixels reexportados, validação profunda e sync-runtime de 37 destinos aprovados, com mapa preservado e três RARs testados. Fontes e manifestos dos seis arquivos aplicados em importados/remakes-items-20261119/.
+
+Pendentes de escolha: os remakes já existentes nos itens 27033–27036 e a calça marrom do 27038, que foi cadastrada como estátua. Comparados 17.300 registros de itens de layout compatível; cinco PNGs já tinham aparência idêntica na baseline. Arquivos pendentes permanecem em sprites/.
+
+
+## 19/11/2026 - Remakes aplicados aos quatro IDs originais
+
+Substituição visual nos Server/Client IDs 7417, 7422, 7424 e 7425 após confirmar que ainda eram antigos. Propriedades DAT/OTB e XML preservados. Os remakes já cadastrados nos IDs 27033–27036 permaneceram idênticos; o 27038 foi ignorado conforme escolha do usuário, mantendo aparência e propriedades.
+
+Versão testada 20261119-040641-156762. Pixels reexportados iguais aos PNGs, registros protegidos e mapa inalterados, validação profunda e sincronização de 37 destinos aprovadas, com três RARs testados. Os quatro originais e o manifesto foram acrescentados a importados/remakes-items-20261119/. Lote concluído: sete substituições, três itens novos e um PNG já existente ignorado; sem decisões pendentes. Conclusão em reports/completion-remakes-batch-20261119.json.
+
+
+## 19/11/2026 - Onze PNGs de itens restantes
+
+Onze substituições visuais em Server IDs 26972, 11565, 7453, 26973, 5902, 26971, 26975, 26956 e 26965–26967; criado o item Bolsa do Minerador 27717/26832 por import-cloned-items com referência 5881. Apenas o skill_tubarao foi ignorado e permanece em sprites/. A fonte do Fragmento II foi repetida no III, por escolha do usuário; a âncora reutiliza seu PNG em dois frames de 100 ms, sem suavização ou redimensionamento.
+
+Dry-run do item novo, pixels, propriedades, 32.673 registros DAT não alvo, mapa, validação profunda e sincronização de 37 destinos aprovados, com três RARs testados. Versões testadas: 20261119-041701-544008, 20261119-041941-525181, 20261119-042115-864600. Fontes e manifestos em importados/remaining-items-20261119/. Relatório reports/completion-remaining-items-20261119.json.

@@ -1,0 +1,30 @@
+{
+  "passed": true,
+  "affected_existing_item_ids": [
+    5902,
+    7453,
+    11565,
+    26956,
+    26965,
+    26966,
+    26967,
+    26971,
+    26972,
+    26973,
+    26975
+  ],
+  "new_item": {
+    "server_id": 27717,
+    "client_id": 26832,
+    "name": "Bolsa do Minerador"
+  },
+  "exported_pngs_match_sources": 12,
+  "non_target_dat_records_preserved": 32673,
+  "existing_dat_otb_xml_properties_preserved": true,
+  "skill_tubarao_preserved": true,
+  "map_unchanged": true,
+  "anchor_frames": 2,
+  "anchor_duration_ms": 100,
+  "fragment_II_and_III_share_only_appearance": true,
+  "quest_and_loot_rules_unchanged": true
+}

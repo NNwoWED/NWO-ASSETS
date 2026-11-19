@@ -1,0 +1,94 @@
+[
+  {
+    "server_id": 7417,
+    "client_id": 7417,
+    "name": "Chakra boots",
+    "operation": "replace visual",
+    "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\item_7417 REMAKE - MAX.png",
+    "source_sha256": "7e23942c1b493a9b7809637af4bd1bf3c44f952778d3174676dd9a9b98ddb0b8",
+    "source_pixels_sha256": "1ffd33f11ae89c29de090d89968805965e9a14d63de8396086af2a57f5bb7126",
+    "before_pixels_sha256": "9fc5a877f5c650150190e33a72a17466d9d65c3abd3ef3e02ea44c0d85c99edb",
+    "purpose": "apply approved remake to original item ID",
+    "dimensions": [
+      32,
+      32
+    ],
+    "frames": 1,
+    "related_server_ids": [
+      7417
+    ],
+    "properties_policy": "preserve DAT/OTB properties, XML and existing new-ID remakes",
+    "archived_original_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\importados\\remakes-items-20261119\\item_7417 REMAKE - MAX.png",
+    "archived_source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\importados\\remakes-items-20261119\\item_7417 REMAKE - MAX.png",
+    "original_png_is_imported_source": true
+  },
+  {
+    "server_id": 7422,
+    "client_id": 7422,
+    "name": "Jade hammer",
+    "operation": "replace visual",
+    "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\Item 7422 REMAKE-MAX.png",
+    "source_sha256": "4c6abb383943dbc5b1275f52581e3ef5513c0150e2dbb134a856acdd89d661eb",
+    "source_pixels_sha256": "266260dc2faa49fd321f6867641a369d1d8bbf8de7b4c71a21d4a654d1b0f254",
+    "before_pixels_sha256": "19f30b3d3538185a56f418dd90308461095412178afbaab09fe69ee45e60efa4",
+    "purpose": "apply approved remake to original item ID",
+    "dimensions": [
+      32,
+      32
+    ],
+    "frames": 1,
+    "related_server_ids": [
+      7422
+    ],
+    "properties_policy": "preserve DAT/OTB properties, XML and existing new-ID remakes",
+    "archived_original_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\importados\\remakes-items-20261119\\Item 7422 REMAKE-MAX.png",
+    "archived_source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\importados\\remakes-items-20261119\\Item 7422 REMAKE-MAX.png",
+    "original_png_is_imported_source": true
+  },
+  {
+    "server_id": 7424,
+    "client_id": 7424,
+    "name": "Lunar staff",
+    "operation": "replace visual",
+    "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\Item 7424 REMAKE-MAX.png",
+    "source_sha256": "0b99e1aae29104521fd2cb2d3b830768bc943e60e3a96e71908656f9eeeca664",
+    "source_pixels_sha256": "b1f5f137e8fed094ec201eb3fff269a3e07346e67d1dc0a5faed42712f30737d",
+    "before_pixels_sha256": "62f360cb44bf2d459310c0c11f9ec89b6605ef919c25b9486b94e0740bae5373",
+    "purpose": "apply approved remake to original item ID",
+    "dimensions": [
+      32,
+      32
+    ],
+    "frames": 1,
+    "related_server_ids": [
+      7424
+    ],
+    "properties_policy": "preserve DAT/OTB properties, XML and existing new-ID remakes",
+    "archived_original_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\importados\\remakes-items-20261119\\Item 7424 REMAKE-MAX.png",
+    "archived_source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\importados\\remakes-items-20261119\\Item 7424 REMAKE-MAX.png",
+    "original_png_is_imported_source": true
+  },
+  {
+    "server_id": 7425,
+    "client_id": 7425,
+    "name": "Gaara shirt",
+    "operation": "replace visual",
+    "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\Item 7425 REMAKE-MAX.png",
+    "source_sha256": "49380d248605e0c079f098c4faa08f1a36b48d3fc65a1449ac625a16a8851851",
+    "source_pixels_sha256": "e4c2ec4b4451e9802b9b586f71263429175a23614cb256603a1c146c0c56d7d5",
+    "before_pixels_sha256": "a07ae07cc274871feb0b68726c3877819ba65fc003b8a42f5eb7527715e2b555",
+    "purpose": "apply approved remake to original item ID",
+    "dimensions": [
+      32,
+      32
+    ],
+    "frames": 1,
+    "related_server_ids": [
+      7425
+    ],
+    "properties_policy": "preserve DAT/OTB properties, XML and existing new-ID remakes",
+    "archived_original_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\importados\\remakes-items-20261119\\Item 7425 REMAKE-MAX.png",
+    "archived_source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\importados\\remakes-items-20261119\\Item 7425 REMAKE-MAX.png",
+    "original_png_is_imported_source": true
+  }
+]

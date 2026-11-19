@@ -1,0 +1,104 @@
+[
+  {
+    "sequence": 1,
+    "operation": "use reserved outfit",
+    "name": "Alma Afogada Quest",
+    "purpose": "new mob appearance available for server registration",
+    "outfit_id": 1551,
+    "client_item_id": null,
+    "server_item_id": null,
+    "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\alma afogada quest-Sheet.png",
+    "source_sha256": "7b6c78158af9e4ce7569e776f8c71f4232b3de20c255302479d0742b45417b61",
+    "png_dimensions": [
+      256,
+      1024
+    ],
+    "frame_dimensions": [
+      64,
+      64
+    ],
+    "directions": 4,
+    "layers": 1,
+    "frame_groups": [
+      8,
+      8
+    ],
+    "frame_duration_ms": 100,
+    "reference_outfit_id": 2034,
+    "dat_policy": "copy reference layout into an empty slot; preserve all other records",
+    "otb_policy": "not applicable to outfits; OTB unchanged",
+    "duplicates": [],
+    "active_references": [],
+    "archived_original_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\importados\\mob-outfits-alma-bikochu-scarab-20261119\\alma afogada quest-Sheet.png",
+    "archived_source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\importados\\mob-outfits-alma-bikochu-scarab-20261119\\alma afogada quest-Sheet.png",
+    "original_png_is_imported_source": true
+  },
+  {
+    "sequence": 2,
+    "operation": "use reserved outfit",
+    "name": "Bikochu",
+    "purpose": "new mob appearance available for server registration",
+    "outfit_id": 1552,
+    "client_item_id": null,
+    "server_item_id": null,
+    "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\bikochu-Sheet.png",
+    "source_sha256": "f34a98a8d069723754d544c11e4a60ba6eac27b02783a10939ddabfb8f71811d",
+    "png_dimensions": [
+      256,
+      1024
+    ],
+    "frame_dimensions": [
+      64,
+      64
+    ],
+    "directions": 4,
+    "layers": 1,
+    "frame_groups": [
+      8,
+      8
+    ],
+    "frame_duration_ms": 100,
+    "reference_outfit_id": 2034,
+    "dat_policy": "copy reference layout into an empty slot; preserve all other records",
+    "otb_policy": "not applicable to outfits; OTB unchanged",
+    "duplicates": [],
+    "active_references": [],
+    "archived_original_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\importados\\mob-outfits-alma-bikochu-scarab-20261119\\bikochu-Sheet.png",
+    "archived_source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\importados\\mob-outfits-alma-bikochu-scarab-20261119\\bikochu-Sheet.png",
+    "original_png_is_imported_source": true
+  },
+  {
+    "sequence": 3,
+    "operation": "use reserved outfit",
+    "name": "Scarab 2",
+    "purpose": "new mob appearance available for server registration",
+    "outfit_id": 1553,
+    "client_item_id": null,
+    "server_item_id": null,
+    "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\scarab_2_hue_shift_256x1024-Sheet.png",
+    "source_sha256": "6dd95f8ae0aa96851e892042f75583732a2b7073335a667ddee1c995a868d145",
+    "png_dimensions": [
+      256,
+      1024
+    ],
+    "frame_dimensions": [
+      64,
+      64
+    ],
+    "directions": 4,
+    "layers": 1,
+    "frame_groups": [
+      8,
+      8
+    ],
+    "frame_duration_ms": 100,
+    "reference_outfit_id": 2034,
+    "dat_policy": "copy reference layout into an empty slot; preserve all other records",
+    "otb_policy": "not applicable to outfits; OTB unchanged",
+    "duplicates": [],
+    "active_references": [],
+    "archived_original_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\importados\\mob-outfits-alma-bikochu-scarab-20261119\\scarab_2_hue_shift_256x1024-Sheet.png",
+    "archived_source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\importados\\mob-outfits-alma-bikochu-scarab-20261119\\scarab_2_hue_shift_256x1024-Sheet.png",
+    "original_png_is_imported_source": true
+  }
+]
