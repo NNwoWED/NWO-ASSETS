@@ -18,6 +18,7 @@ import zipfile
 
 from .map_edit import (rewrite_map, inspect_map, iter_tile_records, rebase_tile, tile_record, append_tile_items,
                        _mapped, _scan, _changes_hash)
+from .map_edit import remove_plain_tile_items
 from .pipeline import validate_root
 from .versioning import create_version
 
@@ -92,7 +93,7 @@ def _write_journal(path,value):
         temporary.unlink(missing_ok=True)
 
 
-def _audit_changes(source,staged,changes,audit,*,cancel=None,progress=None,item_additions=None):
+def _audit_changes(source,staged,changes,audit,*,cancel=None,progress=None,item_additions=None,item_removals=None):
     """Stream exact before/after records, retaining offsets instead of tile data.
 
     Each old coordinate uses one packed integer key and one offset. No whole-map
@@ -102,6 +103,8 @@ def _audit_changes(source,staged,changes,audit,*,cancel=None,progress=None,item_
     old_offsets={}
     item_additions={} if item_additions is None else item_additions
     verified_additions=set()
+    item_removals={} if item_removals is None else item_removals
+    verified_removals=set()
     expected_non_null=sum(raw is not None for raw in changes.values())
     checked=0
     def tick(value,message):
@@ -117,6 +120,11 @@ def _audit_changes(source,staged,changes,audit,*,cancel=None,progress=None,item_
                 if raw is None or rebase_tile(raw,*pos)!=expected:
                     raise ValueError(f'Item append changed existing tile data: {pos}.')
                 verified_additions.add(pos)
+            elif pos in item_removals:
+                expected=remove_plain_tile_items(rebase_tile(before['raw'],*pos),item_removals[pos])
+                if raw is None or rebase_tile(raw,*pos)!=expected:
+                    raise ValueError(f'Item removal changed other tile data: {pos}.')
+                verified_removals.add(pos)
             elif before['protected'] and (raw is None or rebase_tile(before['raw'],*pos)!=rebase_tile(raw,*pos)):
                 raise ValueError(f'Tile protegido não pode ser sobrescrito: {pos}.')
             old_offsets[pos[0]|pos[1]<<16|pos[2]<<32]=begin
@@ -125,6 +133,8 @@ def _audit_changes(source,staged,changes,audit,*,cancel=None,progress=None,item_
         source_metadata=source_report['metadataHash']
         if verified_additions!=set(item_additions):
             raise ValueError('Item append requires existing source tiles for every declared position.')
+        if verified_removals!=set(item_removals):
+            raise ValueError('Item removal requires existing source tiles for every declared position.')
         indexed=len(old_offsets)
         del source_report  # Release its potentially large TILE_AREA inventory now.
         with gzip.open(audit,'wt',encoding='utf-8') as output:
@@ -171,7 +181,7 @@ def _audit_changes(source,staged,changes,audit,*,cancel=None,progress=None,item_
 
 def publish_map(root,source,changes,*,expected_hash,source_hash,cancel=None,progress=None,before_replace=None,
                 journal_path=None,journal_context=None,history_source_hash=None,history_baseline_file=None,
-                item_additions=None):
+                item_additions=None,item_removals=None):
     """Publish with an optional durable application recovery receipt.
 
     Journal schema 1 is prepared before the atomic map swap. ``context`` is an
@@ -190,10 +200,22 @@ def publish_map(root,source,changes,*,expected_hash,source_hash,cancel=None,prog
     ``item_additions`` declares exact appended Server IDs for existing ordinary
     or protection-zone tiles. The audit requires every old byte to survive;
     other protected content and undeclared tile edits remain rejected.
+
+    ``item_removals`` declares exact plain direct-child item occurrences. Only
+    those nodes may disappear; flags, ground, attributes and all other bytes
+    must match the original tile. Attributed/nested items remain protected.
     """
     # Explicit additive edits preserve the entire old encoded subtree. They do
     # not grant a general overwrite permission for protected tiles.
     additions={}
+    removals={}
+    if item_removals is not None:
+        for pos,ids in item_removals.items():
+            if pos not in changes or changes[pos] is None or (item_additions and pos in item_additions):
+                raise ValueError('Item removal must name a changed tile without an append.')
+            removals[pos]=tuple(ids)
+            if not removals[pos] or any(type(sid) is not int or not 1<=sid<=65535 for sid in removals[pos]):
+                raise ValueError('Declare valid exact item removals.')
     if item_additions is not None:
         for pos,ids in item_additions.items():
             if pos not in changes or changes[pos] is None:
@@ -232,6 +254,8 @@ def publish_map(root,source,changes,*,expected_hash,source_hash,cancel=None,prog
             'startedAt':datetime.now().astimezone().isoformat()}
     if additions:
         report['itemAdditions']=[{'position':list(pos),'serverIds':list(ids)} for pos,ids in additions.items()]
+    if removals:
+        report['itemRemovals']=[{'position':list(pos),'serverIds':list(ids)} for pos,ids in removals.items()]
     if checkpoint_mode:report['historySourceHash']=history_source_hash
     version=None;replaced=False;written_hash=None;journal=None;journal_prepared=False
     def tick(value,message):
@@ -290,7 +314,7 @@ def publish_map(root,source,changes,*,expected_hash,source_hash,cancel=None,prog
         written_hash=output['sha256']
         audit=reports/('map-positions-'+run_id+'.jsonl.gz')
         audit_stats=_audit_changes(source,staged,changes,audit,cancel=cancel,
-                                 progress=lambda f,message:tick(.56+.10*f,message),item_additions=additions)
+                                 progress=lambda f,message:tick(.56+.10*f,message),item_additions=additions,item_removals=removals)
         report['positionReport']=str(audit)
         report['audit']=audit_stats
         # Metadata (towns, spawns filenames, unknown nodes) cannot be modified.

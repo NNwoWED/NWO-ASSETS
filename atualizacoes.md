@@ -428,3 +428,9 @@ Relatório reports/adopt-current-server-map-20261119.json. Sincronização dos c
 ## 20/11/2026 - Amostra Contaminada das missões
 
 Substituída somente a aparência do SID 26971/CID 26086 pela referência SID 27045/CID 26160 confirmada pelo usuário. PNG RGBA 32x32 estático; Sprite ID 330425 acrescentado, propriedades e registros não alvo preservados. Importação, conferência de pixels, validação profunda e sincronização runtime aprovadas. Fontes/manifesto arquivados em importados/mission-visuals-20261120. Mapa operacional alinhado ao oficial data/world do servidor pelo fluxo com versão e auditoria, sem alterar o oficial. Relatórios import-mission-visuals-20261120.json e sync-runtime-mission-visuals-20261120.json (37 destinos, três RARs testados).
+
+## 20/11/2026 - Portas privadas da Chiyo
+
+Retiradas dez portas compartilhadas na área x2712-2766/y856-896/z8, substituídas durante a missão por portas privadas SID 1209/CID 1628. As nove posições do card e a porta adicional 2754,886,8 do caminho obrigatório conservam pisos, flags e todos os demais bytes. O mapa oficial recebido durante a tarefa foi preservado como nova origem (f4729e973198b4e4e96a923c0515a82d0763f0d8fb67ed8375291c0a2ca95c4f). Resultado 67cf99277e280070d733808caeb6035f795405640059218c83e00a91047a93b5; versões testadas 20261120-053618-111089 e 20261120-054740-503688.
+
+Fluxo dirigido ampliado com `item_removals`: remoções exatas de nós simples, com auditoria que rejeita alterações de flags, atributos ou outros objetos. Sincronização aceita `expected_server_map_hash` para impedir sobrescrita de uma atualização externa durante a preparação. Vinte e um testes da ferramenta aprovados, incluindo proteção de tiles e sincronização; validações profundas aprovadas e 37 destinos/3 RARs conferidos. O ZIP do servidor foi recriado/testado pelo arquivador do NWO-ASSETS. DAT, SPR, OTB e XML de itens permanecem preservados nesta alteração de mapa.

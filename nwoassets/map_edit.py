@@ -221,6 +221,45 @@ def tile_record(data, offset=0):
             "protectionReasons": sorted(reasons), "dx": header[1], "dy": header[2]}
 
 
+def remove_plain_tile_items(raw, items):
+    """Remove exact direct-child plain items; preserve every other encoded byte.
+
+    Never removes inline ground, attributed items or container content. Each
+    declared occurrence must exist, so an outdated/ambiguous edit fails closed.
+    """
+    wanted = list(items)
+    if not wanted:
+        raise MapEditError("Declare os itens a remover.")
+    for sid in wanted:
+        _integer(sid, 1, 65535, "Server ID")
+    tile_record(raw)
+    depth, pending, ranges = 0, None, []
+    for opening, offset, payload, _ in node_events(raw, 0, exact=False):
+        if opening:
+            depth += 1
+            if depth > 2 and pending is not None:
+                raise MapEditError("Não remover itens com conteúdo por este fluxo.")
+            if depth == 2 and len(payload) == 3 and payload[0] == 6:
+                sid = struct.unpack_from('<H', payload, 1)[0]
+                if sid in wanted:
+                    pending = offset
+                    wanted.remove(sid)
+        else:
+            if depth == 2 and pending is not None:
+                ranges.append((pending, offset + 1))
+                pending = None
+            depth -= 1
+    if wanted:
+        raise MapEditError(f"Itens simples não encontrados no tile: {wanted}.")
+    result, cursor = bytearray(), 0
+    for start, end in ranges:
+        result.extend(raw[cursor:start])
+        cursor = end
+    result.extend(raw[cursor:])
+    tile_record(result)
+    return bytes(result)
+
+
 def build_tile(x, y, z, items, flags=0):
     """Build a simple tile relative to its aligned 256-SQM area (not a map)."""
     x, y, z = _position((x, y, z))

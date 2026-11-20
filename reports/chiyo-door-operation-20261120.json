@@ -1,0 +1,78 @@
+{
+  "operation": "Remove shared base-map doors; replace with private instance gates",
+  "canonical": "Server-Data-Nwo/data/world/mapanovo.otbm",
+  "area": {
+    "fromx": 2712,
+    "tox": 2766,
+    "fromy": 856,
+    "toy": 896,
+    "z": 8
+  },
+  "runtime_item": {
+    "name": "Portas automáticas da prova da Chiyo",
+    "server_id": 1209,
+    "client_id": 1628,
+    "purpose": "Bloqueio independente por etapa e jogador; nenhuma alteração DAT/SPR/OTB"
+  },
+  "base_items_removed": [
+    1209,
+    1210
+  ],
+  "new_positions": [
+    [
+      2730,
+      866,
+      8
+    ],
+    [
+      2726,
+      866,
+      8
+    ],
+    [
+      2744,
+      866,
+      8
+    ],
+    [
+      2740,
+      866,
+      8
+    ],
+    [
+      2754,
+      866,
+      8
+    ],
+    [
+      2744,
+      886,
+      8
+    ],
+    [
+      2740,
+      886,
+      8
+    ],
+    [
+      2730,
+      886,
+      8
+    ],
+    [
+      2726,
+      886,
+      8
+    ],
+    [
+      2754,
+      886,
+      8
+    ]
+  ],
+  "expected": "Preservar pisos 9146, flags 0x10 e todos os bytes fora das nove portas; criar portas privadas fechadas ao iniciar a prova",
+  "map_source_sha256": "f4729e973198b4e4e96a923c0515a82d0763f0d8fb67ed8375291c0a2ca95c4f",
+  "map_result_sha256": "67cf99277e280070d733808caeb6035f795405640059218c83e00a91047a93b5",
+  "validated": true,
+  "extra_route_door": "2754,886,8, not enumerated in card; opened with third puzzle to keep mandatory route automatic"
+}

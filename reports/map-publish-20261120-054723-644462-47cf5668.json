@@ -1,0 +1,119 @@
+{
+  "passed": true,
+  "committed": true,
+  "runId": "20261120-054723-644462-47cf5668",
+  "sourceHash": "a8bfc2deb881ed7d4be1ea6b3fb314529cae0e9a338d2ab49a26deed23d14721",
+  "expectedCanonicalHash": "a8bfc2deb881ed7d4be1ea6b3fb314529cae0e9a338d2ab49a26deed23d14721",
+  "changes": 1,
+  "positions": [],
+  "startedAt": "2026-11-20T05:47:23.645128-03:00",
+  "itemRemovals": [
+    {
+      "position": [
+        2754,
+        886,
+        8
+      ],
+      "serverIds": [
+        1210
+      ]
+    }
+  ],
+  "version": {
+    "tool_version": "0.8.2",
+    "version_id": "20261120-054740-503688",
+    "created_at": "2026-11-20T05:47:53.880466-03:00",
+    "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261120-054740-503688",
+    "rar_executable": "C:\\Program Files\\WinRAR\\Rar.exe",
+    "sources": [
+      {
+        "path": "assets/860/.gitattributes",
+        "size": 43,
+        "sha256": "D5636A3257287440945C5E017581545E5B0A3E2FDDDAE7C5EF8D90FF4DF3D32A"
+      },
+      {
+        "path": "assets/860/Tibia.dat",
+        "size": 4886003,
+        "sha256": "F3AC17977A0B771DFAA91152D764FED63A40230DAF56A406C5B11A636017DCBD"
+      },
+      {
+        "path": "assets/860/Tibia.glb",
+        "size": 2315332,
+        "sha256": "F295ECEFBF702042FA22B8C59699255C7ED4EA6EFF0A0573CD8CBB0EBE3E26CC"
+      },
+      {
+        "path": "assets/860/Tibia.otfi",
+        "size": 185,
+        "sha256": "7743548835944BC799CB871A4E5DEF84F7AF76815031871B9CE74B5EC0E8ADD3"
+      },
+      {
+        "path": "assets/860/Tibia.spr",
+        "size": 555484157,
+        "sha256": "4EFE889F3B8575CC8B67CE09EC4724375B3CD8635586B53E2C5FA6804BFD83F4"
+      },
+      {
+        "path": "assets/items/force use.txt",
+        "size": 419,
+        "sha256": "BCB478FDF3F45ECA8D172AFD7A17D3F8CD520924EE0894752452B8FDC8F71959"
+      },
+      {
+        "path": "assets/items/items.otb",
+        "size": 1102473,
+        "sha256": "EDBE59B4FA9234308AA15A91EB777116321B1AB9F3A3AB83AC3DBFC5D42E42F5"
+      },
+      {
+        "path": "assets/world/mapanovo.otbm",
+        "size": 89596779,
+        "sha256": "A8BFC2DEB881ED7D4BE1EA6B3FB314529CAE0E9A338D2AB49A26DEED23D14721"
+      }
+    ],
+    "archives": {
+      "860": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261120-054740-503688\\860.rar",
+        "size": 95099963,
+        "sha256": "17B61DC87031AB1F855F5E41DFC797FE4199F2CD1B35806FD94AF051CE23DB3E"
+      },
+      "items": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261120-054740-503688\\items.rar",
+        "size": 529034,
+        "sha256": "F7074874D692A80148471B38439354A950C24B397B83D1EECDD45F179B03A8D3"
+      },
+      "world": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261120-054740-503688\\world.zip",
+        "size": 21583610,
+        "sha256": "D37CF875926CA243AB824A90F3041EC9957A1FCB015DD05EF5C42F088444AFB1"
+      }
+    },
+    "items_xml_excluded": true,
+    "world_entries": [
+      "mapanovo.otbm"
+    ],
+    "passed": true
+  },
+  "positionReport": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\reports\\map-positions-20261120-054723-644462-47cf5668.jsonl.gz",
+  "audit": {
+    "sourceMetadataHash": "92b7224aac9dca210f23a022dece042d746b959ebd25585cf75f97d40556b8ad",
+    "outputMetadataHash": "92b7224aac9dca210f23a022dece042d746b959ebd25585cf75f97d40556b8ad",
+    "indexedSourceOffsets": 1,
+    "verifiedOutputTiles": 1,
+    "rows": 1
+  },
+  "journalPath": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\reports\\journal-extra-chiyo-door-20261120.json",
+  "sha256": "67cf99277e280070d733808caeb6035f795405640059218c83e00a91047a93b5",
+  "baselineFile": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\drafts\\history\\a8bfc2deb881ed7d4be1ea6b3fb314529cae0e9a338d2ab49a26deed23d14721.baseline",
+  "versionId": "20261120-054740-503688",
+  "rewrite": {
+    "sourceSha256": "a8bfc2deb881ed7d4be1ea6b3fb314529cae0e9a338d2ab49a26deed23d14721",
+    "sha256": "67cf99277e280070d733808caeb6035f795405640059218c83e00a91047a93b5",
+    "changed": 1,
+    "deleted": 0,
+    "inserted": 0,
+    "unchanged": 0,
+    "missingDeletes": 0,
+    "newAreas": 0,
+    "tiles": 8736332,
+    "bytes": 89596774,
+    "committed": true
+  },
+  "completedAt": "2026-11-20T05:50:37.388880-03:00"
+}

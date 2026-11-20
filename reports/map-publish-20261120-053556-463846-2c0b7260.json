@@ -1,0 +1,199 @@
+{
+  "passed": true,
+  "committed": true,
+  "runId": "20261120-053556-463846-2c0b7260",
+  "sourceHash": "f4729e973198b4e4e96a923c0515a82d0763f0d8fb67ed8375291c0a2ca95c4f",
+  "expectedCanonicalHash": "f4729e973198b4e4e96a923c0515a82d0763f0d8fb67ed8375291c0a2ca95c4f",
+  "changes": 9,
+  "positions": [],
+  "startedAt": "2026-11-20T05:35:56.464855-03:00",
+  "itemRemovals": [
+    {
+      "position": [
+        2726,
+        866,
+        8
+      ],
+      "serverIds": [
+        1209
+      ]
+    },
+    {
+      "position": [
+        2730,
+        866,
+        8
+      ],
+      "serverIds": [
+        1210
+      ]
+    },
+    {
+      "position": [
+        2740,
+        866,
+        8
+      ],
+      "serverIds": [
+        1210
+      ]
+    },
+    {
+      "position": [
+        2744,
+        866,
+        8
+      ],
+      "serverIds": [
+        1210
+      ]
+    },
+    {
+      "position": [
+        2726,
+        886,
+        8
+      ],
+      "serverIds": [
+        1210
+      ]
+    },
+    {
+      "position": [
+        2730,
+        886,
+        8
+      ],
+      "serverIds": [
+        1210
+      ]
+    },
+    {
+      "position": [
+        2740,
+        886,
+        8
+      ],
+      "serverIds": [
+        1210
+      ]
+    },
+    {
+      "position": [
+        2744,
+        886,
+        8
+      ],
+      "serverIds": [
+        1210
+      ]
+    },
+    {
+      "position": [
+        2754,
+        866,
+        8
+      ],
+      "serverIds": [
+        1210
+      ]
+    }
+  ],
+  "version": {
+    "tool_version": "0.8.2",
+    "version_id": "20261120-053618-111089",
+    "created_at": "2026-11-20T05:36:32.361818-03:00",
+    "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261120-053618-111089",
+    "rar_executable": "C:\\Program Files\\WinRAR\\Rar.exe",
+    "sources": [
+      {
+        "path": "assets/860/.gitattributes",
+        "size": 43,
+        "sha256": "D5636A3257287440945C5E017581545E5B0A3E2FDDDAE7C5EF8D90FF4DF3D32A"
+      },
+      {
+        "path": "assets/860/Tibia.dat",
+        "size": 4886003,
+        "sha256": "F3AC17977A0B771DFAA91152D764FED63A40230DAF56A406C5B11A636017DCBD"
+      },
+      {
+        "path": "assets/860/Tibia.glb",
+        "size": 2315332,
+        "sha256": "F295ECEFBF702042FA22B8C59699255C7ED4EA6EFF0A0573CD8CBB0EBE3E26CC"
+      },
+      {
+        "path": "assets/860/Tibia.otfi",
+        "size": 185,
+        "sha256": "7743548835944BC799CB871A4E5DEF84F7AF76815031871B9CE74B5EC0E8ADD3"
+      },
+      {
+        "path": "assets/860/Tibia.spr",
+        "size": 555484157,
+        "sha256": "4EFE889F3B8575CC8B67CE09EC4724375B3CD8635586B53E2C5FA6804BFD83F4"
+      },
+      {
+        "path": "assets/items/force use.txt",
+        "size": 419,
+        "sha256": "BCB478FDF3F45ECA8D172AFD7A17D3F8CD520924EE0894752452B8FDC8F71959"
+      },
+      {
+        "path": "assets/items/items.otb",
+        "size": 1102473,
+        "sha256": "EDBE59B4FA9234308AA15A91EB777116321B1AB9F3A3AB83AC3DBFC5D42E42F5"
+      },
+      {
+        "path": "assets/world/mapanovo.otbm",
+        "size": 89596824,
+        "sha256": "F4729E973198B4E4E96A923C0515A82D0763F0D8FB67ED8375291C0A2CA95C4F"
+      }
+    ],
+    "archives": {
+      "860": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261120-053618-111089\\860.rar",
+        "size": 95099963,
+        "sha256": "17B61DC87031AB1F855F5E41DFC797FE4199F2CD1B35806FD94AF051CE23DB3E"
+      },
+      "items": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261120-053618-111089\\items.rar",
+        "size": 529034,
+        "sha256": "F7074874D692A80148471B38439354A950C24B397B83D1EECDD45F179B03A8D3"
+      },
+      "world": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261120-053618-111089\\world.zip",
+        "size": 21583629,
+        "sha256": "EB854E600AF3F4A1BDAFCED1A81A9229A895EFD6217EA2590EF06491574AB9BC"
+      }
+    },
+    "items_xml_excluded": true,
+    "world_entries": [
+      "mapanovo.otbm"
+    ],
+    "passed": true
+  },
+  "positionReport": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\reports\\map-positions-20261120-053556-463846-2c0b7260.jsonl.gz",
+  "audit": {
+    "sourceMetadataHash": "92b7224aac9dca210f23a022dece042d746b959ebd25585cf75f97d40556b8ad",
+    "outputMetadataHash": "92b7224aac9dca210f23a022dece042d746b959ebd25585cf75f97d40556b8ad",
+    "indexedSourceOffsets": 9,
+    "verifiedOutputTiles": 9,
+    "rows": 9
+  },
+  "journalPath": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\reports\\journal-chiyo-doors-20261120.json",
+  "sha256": "a8bfc2deb881ed7d4be1ea6b3fb314529cae0e9a338d2ab49a26deed23d14721",
+  "baselineFile": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\drafts\\history\\f4729e973198b4e4e96a923c0515a82d0763f0d8fb67ed8375291c0a2ca95c4f.baseline",
+  "versionId": "20261120-053618-111089",
+  "rewrite": {
+    "sourceSha256": "f4729e973198b4e4e96a923c0515a82d0763f0d8fb67ed8375291c0a2ca95c4f",
+    "sha256": "a8bfc2deb881ed7d4be1ea6b3fb314529cae0e9a338d2ab49a26deed23d14721",
+    "changed": 9,
+    "deleted": 0,
+    "inserted": 0,
+    "unchanged": 0,
+    "missingDeletes": 0,
+    "newAreas": 0,
+    "tiles": 8736332,
+    "bytes": 89596779,
+    "committed": true
+  },
+  "completedAt": "2026-11-20T05:40:31.149053-03:00"
+}

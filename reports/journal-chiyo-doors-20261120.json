@@ -1,0 +1,33 @@
+{
+  "schema": 1,
+  "kind": "nwo-map-publication",
+  "runId": "20261120-053556-463846-2c0b7260",
+  "stage": "committed",
+  "canonicalFile": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\world\\mapanovo.otbm",
+  "expectedCanonicalHash": "f4729e973198b4e4e96a923c0515a82d0763f0d8fb67ed8375291c0a2ca95c4f",
+  "outputHash": "a8bfc2deb881ed7d4be1ea6b3fb314529cae0e9a338d2ab49a26deed23d14721",
+  "sourceHash": "f4729e973198b4e4e96a923c0515a82d0763f0d8fb67ed8375291c0a2ca95c4f",
+  "baselineFile": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\drafts\\history\\f4729e973198b4e4e96a923c0515a82d0763f0d8fb67ed8375291c0a2ca95c4f.baseline",
+  "versionId": "20261120-053618-111089",
+  "recoveryArchive": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261120-053618-111089\\world.zip",
+  "positionReport": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\reports\\map-positions-20261120-053556-463846-2c0b7260.jsonl.gz",
+  "publicationReport": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\reports\\map-publish-20261120-053556-463846-2c0b7260.json",
+  "beforeReport": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\reports\\map-before-20261120-053556-463846-2c0b7260.json",
+  "afterReport": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\reports\\map-after-20261120-053556-463846-2c0b7260.json",
+  "preparedAt": "2026-11-20T05:40:09.723088-03:00",
+  "context": {
+    "operation": "Chiyo private runtime doors; remove exactly nine shared gates",
+    "official_source": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\Server-Data-Nwo\\data\\world\\mapanovo.otbm",
+    "official_source_hash": "f4729e973198b4e4e96a923c0515a82d0763f0d8fb67ed8375291c0a2ca95c4f"
+  },
+  "committedAt": "2026-11-20T05:40:31.149053-03:00",
+  "result": {
+    "passed": true,
+    "committed": true,
+    "sha256": "a8bfc2deb881ed7d4be1ea6b3fb314529cae0e9a338d2ab49a26deed23d14721",
+    "baselineFile": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\drafts\\history\\f4729e973198b4e4e96a923c0515a82d0763f0d8fb67ed8375291c0a2ca95c4f.baseline",
+    "versionId": "20261120-053618-111089",
+    "positionReport": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\reports\\map-positions-20261120-053556-463846-2c0b7260.jsonl.gz",
+    "journalPath": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\reports\\journal-chiyo-doors-20261120.json"
+  }
+}

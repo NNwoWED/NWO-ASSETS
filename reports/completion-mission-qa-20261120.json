@@ -1,0 +1,46 @@
+{
+  "date": "2026-11-20",
+  "branches": {
+    "game": "mob-estrelado",
+    "assets": "master"
+  },
+  "related_commits": {
+    "Server-Data-Nwo": "9af58831b770a0efd747251c300f5bc158953200",
+    "Src-Nwo": "43c478e56c2510979c67a130ad7352758d3812aa",
+    "nwo-otclient-mehah-4.0": "1b2c630f4eafd7da00562374775cd3214bf37953"
+  },
+  "approved_sample": {
+    "sid": 26971,
+    "cid": 26086,
+    "source_reference_cid": 26160,
+    "sprite_id": 330425
+  },
+  "map": {
+    "source": "Server-Data-Nwo/data/world/mapanovo.otbm",
+    "source_sha256": "f4729e973198b4e4e96a923c0515a82d0763f0d8fb67ed8375291c0a2ca95c4f",
+    "final_sha256": "67cf99277e280070d733808caeb6035f795405640059218c83e00a91047a93b5",
+    "changed_tiles": 10,
+    "versions": [
+      "20261120-053618-111089",
+      "20261120-054740-503688"
+    ],
+    "server_zip_tested": true
+  },
+  "tests": {
+    "mission_tests_passed": 222,
+    "mission_failures": 0,
+    "mission_errors": 0,
+    "excluded_map_tests": 9,
+    "exclusion_reason": "Incoming Silent trial map already has 9/11 markers; area outside Chiyo edits.",
+    "asset_tool_tests_passed": 21,
+    "native_guards": "Production movement/transform branches compiled and executed in isolation; full SRC build pending."
+  },
+  "runtime": {
+    "passed": true,
+    "destinations": 37,
+    "rar_archives_tested": 3
+  },
+  "deployment": "Publish scripts/XML/map ZIP and rebuild SRC. Shared rules for PC/mobile; APK build previously waived.",
+  "local_only_backup_branch": "codex/backup-assets-local-update-20261120",
+  "local_backup_reason": "Unpublished e3d7d370 contains 3190 scratch/draft files and is intentionally not uploaded."
+}

@@ -1,0 +1,158 @@
+{
+  "source_sha256": "f4729e973198b4e4e96a923c0515a82d0763f0d8fb67ed8375291c0a2ca95c4f",
+  "positions": [
+    {
+      "position": [
+        2726,
+        866,
+        8
+      ],
+      "before": [
+        9146,
+        1209
+      ],
+      "after": [
+        9146
+      ],
+      "flags": 16,
+      "before_raw_hex": "fe05a662031000000009ba23fe06b904ffff",
+      "after_raw_hex": "fe05a662031000000009ba23ff"
+    },
+    {
+      "position": [
+        2730,
+        866,
+        8
+      ],
+      "before": [
+        9146,
+        1210
+      ],
+      "after": [
+        9146
+      ],
+      "flags": 16,
+      "before_raw_hex": "fe05aa62031000000009ba23fe06ba04ffff",
+      "after_raw_hex": "fe05aa62031000000009ba23ff"
+    },
+    {
+      "position": [
+        2740,
+        866,
+        8
+      ],
+      "before": [
+        9146,
+        1210
+      ],
+      "after": [
+        9146
+      ],
+      "flags": 16,
+      "before_raw_hex": "fe05b462031000000009ba23fe06ba04ffff",
+      "after_raw_hex": "fe05b462031000000009ba23ff"
+    },
+    {
+      "position": [
+        2744,
+        866,
+        8
+      ],
+      "before": [
+        9146,
+        1210
+      ],
+      "after": [
+        9146
+      ],
+      "flags": 16,
+      "before_raw_hex": "fe05b862031000000009ba23fe06ba04ffff",
+      "after_raw_hex": "fe05b862031000000009ba23ff"
+    },
+    {
+      "position": [
+        2726,
+        886,
+        8
+      ],
+      "before": [
+        9146,
+        1210
+      ],
+      "after": [
+        9146
+      ],
+      "flags": 16,
+      "before_raw_hex": "fe05a676031000000009ba23fe06ba04ffff",
+      "after_raw_hex": "fe05a676031000000009ba23ff"
+    },
+    {
+      "position": [
+        2730,
+        886,
+        8
+      ],
+      "before": [
+        9146,
+        1210
+      ],
+      "after": [
+        9146
+      ],
+      "flags": 16,
+      "before_raw_hex": "fe05aa76031000000009ba23fe06ba04ffff",
+      "after_raw_hex": "fe05aa76031000000009ba23ff"
+    },
+    {
+      "position": [
+        2740,
+        886,
+        8
+      ],
+      "before": [
+        9146,
+        1210
+      ],
+      "after": [
+        9146
+      ],
+      "flags": 16,
+      "before_raw_hex": "fe05b476031000000009ba23fe06ba04ffff",
+      "after_raw_hex": "fe05b476031000000009ba23ff"
+    },
+    {
+      "position": [
+        2744,
+        886,
+        8
+      ],
+      "before": [
+        9146,
+        1210
+      ],
+      "after": [
+        9146
+      ],
+      "flags": 16,
+      "before_raw_hex": "fe05b876031000000009ba23fe06ba04ffff",
+      "after_raw_hex": "fe05b876031000000009ba23ff"
+    },
+    {
+      "position": [
+        2754,
+        866,
+        8
+      ],
+      "before": [
+        9146,
+        1210
+      ],
+      "after": [
+        9146
+      ],
+      "flags": 16,
+      "before_raw_hex": "fe05c262031000000009ba23fe06ba04ffff",
+      "after_raw_hex": "fe05c262031000000009ba23ff"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "passed": true,
+  "archive": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\Server-Data-Nwo\\data\\world\\mapanovo.zip",
+  "archive_sha256": "d37cf875926ca243ab824a90f3041ec9957a1fcb015dd05ef5c42f088444afb1",
+  "previous_archive_backup": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\reports\\server-map-zip-before-chiyo-37cf96a3b143faeb07c1d130a65789bf57b7d28c0abd4c17a031c933e2b0d3b0.zip",
+  "map_source_sha256": "f4729e973198b4e4e96a923c0515a82d0763f0d8fb67ed8375291c0a2ca95c4f",
+  "map_result_sha256": "a8bfc2deb881ed7d4be1ea6b3fb314529cae0e9a338d2ab49a26deed23d14721",
+  "dat_spr_otb_xml_preserved": true
+}

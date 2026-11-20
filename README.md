@@ -319,3 +319,7 @@ pela baseline, reabre os pixels novos, preserva registros DAT não alvo e o payl
 dos sprites antigos, mantém relações N:1 do OTB e verifica que OTFI, OTBM, XMLs e
 OTMLs não mudaram. Toda versão permanece disponível em `versions/` para restauração
 manual adicional.
+
+### Remoção dirigida de objetos simples do mapa
+
+`nwoassets.map_publish.publish_map(..., item_removals={pos: [sid]})` permite retirar ocorrências exatas de nós simples, sem atributos ou conteúdo, após validação e versão obrigatórias. O rascunho deve usar `remove_plain_tile_items` para preservar todos os outros bytes do tile. A auditoria compara a remoção declarada com a origem, inclusive em tiles com flags; não permite apagar pisos inline, atributos, flags, conteúdo ou substituir o restante do cenário. Adições e remoções não podem ser declaradas para o mesmo tile.

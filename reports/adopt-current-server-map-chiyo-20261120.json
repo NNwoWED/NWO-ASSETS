@@ -1,0 +1,32 @@
+{
+  "passed": true,
+  "committed": true,
+  "source": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\Server-Data-Nwo\\data\\world\\mapanovo.otbm",
+  "source_sha256": "f4729e973198b4e4e96a923c0515a82d0763f0d8fb67ed8375291c0a2ca95c4f",
+  "previous_operational_sha256": "e79a15b0f1be5d9d459a9e1c3a352929786d912a94fca89c535989721df3c14f",
+  "source_preserved": true,
+  "source_zip_verified": true,
+  "source_inspection": {
+    "version": 2,
+    "width": 3000,
+    "height": 3000,
+    "itemsMajorVersion": 3,
+    "itemsMinorVersion": 20,
+    "tiles": 8736332,
+    "nodes": 11509392,
+    "tileAreas": 396109,
+    "bytes": 89596824,
+    "metadataHash": "92b7224aac9dca210f23a022dece042d746b959ebd25585cf75f97d40556b8ad",
+    "sha256": "f4729e973198b4e4e96a923c0515a82d0763f0d8fb67ed8375291c0a2ca95c4f",
+    "signature": "00000000"
+  },
+  "publication": {
+    "passed": true,
+    "committed": true,
+    "sha256": "f4729e973198b4e4e96a923c0515a82d0763f0d8fb67ed8375291c0a2ca95c4f",
+    "baselineFile": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\drafts\\history\\f4729e973198b4e4e96a923c0515a82d0763f0d8fb67ed8375291c0a2ca95c4f.baseline",
+    "versionId": "20261120-053059-858341",
+    "positionReport": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\reports\\map-positions-20261120-053032-720572-19620a3e.jsonl.gz",
+    "journalPath": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\reports\\journal-adopt-current-server-map-chiyo-20261120.json"
+  }
+}

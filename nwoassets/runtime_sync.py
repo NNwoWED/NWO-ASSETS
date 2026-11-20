@@ -234,7 +234,8 @@ def _rollback(published: list[Path], backups: dict[Path, Path]) -> None:
             os.replace(backup, target)
 
 
-def sync_runtime_assets(root: Path, *, dry_run: bool = False) -> dict[str, object]:
+def sync_runtime_assets(root: Path, *, dry_run: bool = False,
+                        expected_server_map_hash: str | None = None) -> dict[str, object]:
     root = root.resolve()
     (
         sources,
@@ -245,7 +246,15 @@ def sync_runtime_assets(root: Path, *, dry_run: bool = False) -> dict[str, objec
         studio_things_archive,
         studio_map_archive,
     ) = _runtime_paths(root)
+    def check_server_map():
+        if expected_server_map_hash is not None:
+            official = targets["server/mapanovo.otbm"]
+            if not official.is_file() or sha256_file(official).lower() != expected_server_map_hash.lower():
+                raise FormatError("O mapa oficial do servidor mudou durante a preparação; sincronização cancelada.")
+
+    check_server_map()
     validation = validate_root(root, deep_spr=True)
+    check_server_map()
     if not validation.get("passed", False):
         raise FormatError(f"baseline canônica reprovou: {validation.get('errors', [])}")
 
@@ -325,6 +334,8 @@ def sync_runtime_assets(root: Path, *, dry_run: bool = False) -> dict[str, objec
         for name, target in targets.items():
             if name not in changed_names:
                 continue
+            if name == "server/mapanovo.otbm":
+                check_server_map()
             backup = _runtime_transaction_path(target, "backup", client_860)
             if target.exists():
                 os.replace(target, backup)

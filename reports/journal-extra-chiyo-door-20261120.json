@@ -1,0 +1,36 @@
+{
+  "schema": 1,
+  "kind": "nwo-map-publication",
+  "runId": "20261120-054723-644462-47cf5668",
+  "stage": "committed",
+  "canonicalFile": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\world\\mapanovo.otbm",
+  "expectedCanonicalHash": "a8bfc2deb881ed7d4be1ea6b3fb314529cae0e9a338d2ab49a26deed23d14721",
+  "outputHash": "67cf99277e280070d733808caeb6035f795405640059218c83e00a91047a93b5",
+  "sourceHash": "a8bfc2deb881ed7d4be1ea6b3fb314529cae0e9a338d2ab49a26deed23d14721",
+  "baselineFile": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\drafts\\history\\a8bfc2deb881ed7d4be1ea6b3fb314529cae0e9a338d2ab49a26deed23d14721.baseline",
+  "versionId": "20261120-054740-503688",
+  "recoveryArchive": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261120-054740-503688\\world.zip",
+  "positionReport": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\reports\\map-positions-20261120-054723-644462-47cf5668.jsonl.gz",
+  "publicationReport": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\reports\\map-publish-20261120-054723-644462-47cf5668.json",
+  "beforeReport": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\reports\\map-before-20261120-054723-644462-47cf5668.json",
+  "afterReport": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\reports\\map-after-20261120-054723-644462-47cf5668.json",
+  "preparedAt": "2026-11-20T05:50:19.956929-03:00",
+  "context": {
+    "operation": "Extra door on mandatory route opens with third puzzle",
+    "position": [
+      2754,
+      886,
+      8
+    ]
+  },
+  "committedAt": "2026-11-20T05:50:37.388880-03:00",
+  "result": {
+    "passed": true,
+    "committed": true,
+    "sha256": "67cf99277e280070d733808caeb6035f795405640059218c83e00a91047a93b5",
+    "baselineFile": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\drafts\\history\\a8bfc2deb881ed7d4be1ea6b3fb314529cae0e9a338d2ab49a26deed23d14721.baseline",
+    "versionId": "20261120-054740-503688",
+    "positionReport": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\reports\\map-positions-20261120-054723-644462-47cf5668.jsonl.gz",
+    "journalPath": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\reports\\journal-extra-chiyo-door-20261120.json"
+  }
+}
