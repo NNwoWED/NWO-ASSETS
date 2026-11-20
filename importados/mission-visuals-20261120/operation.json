@@ -1,0 +1,13 @@
+{
+  "operation": "substituir",
+  "name": "Amostra Contaminada",
+  "purpose": "Missão do Médico Fuudo; aparência do frasco aprovada pelo usuário",
+  "server_id": 26971,
+  "client_id": 26086,
+  "reference_server_id": 27045,
+  "reference_client_id": 26160,
+  "source_png": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\mission-confirmation-20261120\\items\\server-27045_client-26160_amostra-contaminada.png",
+  "layout": "32x32 RGBA8 static",
+  "policy": "Preservar propriedades DAT/OTB; substituir apenas aparência; acrescentar Sprite IDs",
+  "approved": "2026-11-20"
+}

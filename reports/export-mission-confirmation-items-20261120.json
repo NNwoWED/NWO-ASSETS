@@ -1,0 +1,215 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "profile": {
+    "key": "tibia-860-v2-custom-extended",
+    "client_version": 860,
+    "label": "Tibia 8.60 v2 customizado com features OTFI",
+    "dat_signature": "0x4C2C7993",
+    "spr_signature": "0x4C220594",
+    "metadata_reader": 5,
+    "otb_version_hint": "8.60"
+  },
+  "category": "items",
+  "id_kind": "server",
+  "requested_ids": [
+    26957,
+    26958,
+    1963,
+    1965,
+    26968,
+    5091,
+    26971,
+    27045
+  ],
+  "output_dir": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\mission-confirmation-20261120\\items",
+  "exported_count": 8,
+  "exported": [
+    {
+      "requested_id": 26957,
+      "client_id": 26072,
+      "server_ids": [
+        26957
+      ],
+      "name": "História das Grandes Guerras",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        293221
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\mission-confirmation-20261120\\items\\server-26957_client-26072_historia-das-grandes-guerras.png",
+      "size": 645,
+      "sha256": "AFBBC3A092F83432E6B79CB6546D5F2DACC563C67BC645D6699B475E2B54780A"
+    },
+    {
+      "requested_id": 26958,
+      "client_id": 26073,
+      "server_ids": [
+        26958
+      ],
+      "name": "Registros das Cinco Grandes Vilas",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        293222
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\mission-confirmation-20261120\\items\\server-26958_client-26073_registros-das-cinco-grandes-vilas.png",
+      "size": 659,
+      "sha256": "B1AC44EB172AAB206D3EEA1F0C8DA3AD26079F71A2CB20CB9C9224AFBD7A3461"
+    },
+    {
+      "requested_id": 1963,
+      "client_id": 2829,
+      "server_ids": [
+        1963
+      ],
+      "name": "Blue book",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        330387
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\mission-confirmation-20261120\\items\\server-1963_client-2829_blue-book.png",
+      "size": 501,
+      "sha256": "9369B0F28B6F9FE9B9AF3C0E106DD5C90EF419FE07C3765F758158AF60DF4AC4"
+    },
+    {
+      "requested_id": 1965,
+      "client_id": 2831,
+      "server_ids": [
+        1965
+      ],
+      "name": "Green book",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        330388
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\mission-confirmation-20261120\\items\\server-1965_client-2831_green-book.png",
+      "size": 492,
+      "sha256": "B4D4754E194A67D4852CD4D6A0786115C7AFADEA567EDB0E416AD83D6BF6987C"
+    },
+    {
+      "requested_id": 26968,
+      "client_id": 26083,
+      "server_ids": [
+        26968
+      ],
+      "name": "Mapa Completo",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        297222
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\mission-confirmation-20261120\\items\\server-26968_client-26083_mapa-completo.png",
+      "size": 1870,
+      "sha256": "2C7476190E4E86059B6F5A1C2B23CEB98CE3837E2697ABE560AA218C983F49D8"
+    },
+    {
+      "requested_id": 5091,
+      "client_id": 5090,
+      "server_ids": [
+        5091
+      ],
+      "name": "Treasure map",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        330389
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\mission-confirmation-20261120\\items\\server-5091_client-5090_treasure-map.png",
+      "size": 473,
+      "sha256": "745CDC3E1D174AC7B5E9E56D2D1EAD870F456BB07934DE84C81AB1D141BB10BC"
+    },
+    {
+      "requested_id": 26971,
+      "client_id": 26086,
+      "server_ids": [
+        26971
+      ],
+      "name": "Amostra Contaminada",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        330411
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\mission-confirmation-20261120\\items\\server-26971_client-26086_amostra-contaminada.png",
+      "size": 412,
+      "sha256": "E617106F551D4E6CD8C54EBD840681912B2A8D647E1CA1DC814AA67BA6701577"
+    },
+    {
+      "requested_id": 27045,
+      "client_id": 26160,
+      "server_ids": [
+        27045
+      ],
+      "name": "Amostra Contaminada",
+      "group_index": 0,
+      "width": 32,
+      "height": 32,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1,
+      "frames": 1,
+      "sprite_ids": [
+        297457
+      ],
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\export\\mission-confirmation-20261120\\items\\server-27045_client-26160_amostra-contaminada.png",
+      "size": 544,
+      "sha256": "E0A0FAB7FCF050CD5DD6F06925D7AE12C9F0ABB67D830240DA2627B56F8589CE"
+    }
+  ],
+  "sources": {
+    "dat": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.dat",
+      "sha256": "65FD50792F35005E92F09BB9218E65CEFDE2F2DBE6141042C83EB954CDBB6EF7"
+    },
+    "spr": {
+      "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\assets\\860\\Tibia.spr",
+      "sha256": "E63D93735D06834A6A79CDB12C254B73D9A5934467F2F141EFC3711766D2DA90"
+    }
+  },
+  "passed": true
+}

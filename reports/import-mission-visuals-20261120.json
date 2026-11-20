@@ -1,0 +1,132 @@
+{
+  "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS",
+  "manifest": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\mission-visuals-20261120\\manifest.csv",
+  "profile": "tibia-860-v2-custom-extended",
+  "version_backup": {
+    "tool_version": "0.8.2",
+    "version_id": "20261120-040935-563607",
+    "created_at": "2026-11-20T04:09:49.759674-03:00",
+    "root": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261120-040935-563607",
+    "rar_executable": "C:\\Program Files\\WinRAR\\Rar.exe",
+    "sources": [
+      {
+        "path": "assets/860/.gitattributes",
+        "size": 43,
+        "sha256": "D5636A3257287440945C5E017581545E5B0A3E2FDDDAE7C5EF8D90FF4DF3D32A"
+      },
+      {
+        "path": "assets/860/Tibia.dat",
+        "size": 4886003,
+        "sha256": "65FD50792F35005E92F09BB9218E65CEFDE2F2DBE6141042C83EB954CDBB6EF7"
+      },
+      {
+        "path": "assets/860/Tibia.glb",
+        "size": 2315332,
+        "sha256": "F295ECEFBF702042FA22B8C59699255C7ED4EA6EFF0A0573CD8CBB0EBE3E26CC"
+      },
+      {
+        "path": "assets/860/Tibia.otfi",
+        "size": 185,
+        "sha256": "7743548835944BC799CB871A4E5DEF84F7AF76815031871B9CE74B5EC0E8ADD3"
+      },
+      {
+        "path": "assets/860/Tibia.spr",
+        "size": 555482292,
+        "sha256": "E63D93735D06834A6A79CDB12C254B73D9A5934467F2F141EFC3711766D2DA90"
+      },
+      {
+        "path": "assets/items/force use.txt",
+        "size": 419,
+        "sha256": "BCB478FDF3F45ECA8D172AFD7A17D3F8CD520924EE0894752452B8FDC8F71959"
+      },
+      {
+        "path": "assets/items/items.otb",
+        "size": 1102473,
+        "sha256": "79571B645A009EE5AF27307031041C3A918A0196C4A9F727697F4AFB59C61FCE"
+      },
+      {
+        "path": "assets/world/mapanovo.otbm",
+        "size": 89401559,
+        "sha256": "E79A15B0F1BE5D9D459A9E1C3A352929786D912A94FCA89C535989721DF3C14F"
+      }
+    ],
+    "archives": {
+      "860": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261120-040935-563607\\860.rar",
+        "size": 95107678,
+        "sha256": "E7F86498DECEC5A7B8901A376248FA5842FE20B073050989BB192C09D997DBA5"
+      },
+      "items": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261120-040935-563607\\items.rar",
+        "size": 529049,
+        "sha256": "8178FA9BB5BAAA74927A1B6E23C31169FDA3AD3A13FD18C0F9940694C850574E"
+      },
+      "world": {
+        "path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\versions\\20261120-040935-563607\\world.zip",
+        "size": 21517391,
+        "sha256": "FF6D4A1F29564F615EB76C62AB3369D68D179D66CEA7F15376B16984266D7577"
+      }
+    },
+    "items_xml_excluded": true,
+    "world_entries": [
+      "mapanovo.otbm"
+    ],
+    "passed": true
+  },
+  "sprite_hash_gate": {
+    "sample_count": 64,
+    "mismatch_count": 0,
+    "mismatches": [],
+    "passed": true
+  },
+  "item_count": 1,
+  "new_sprite_count": 1,
+  "sprite_id_range": [
+    330425,
+    330425
+  ],
+  "items": [
+    {
+      "sequence": 1,
+      "client_id": 26086,
+      "source_path": "C:\\Users\\Wedson\\Desktop\\NWO NEW\\NWO-ASSETS\\sprites\\mission-visuals-20261120\\amostra-contaminada-aprovada.png",
+      "file_sha256": "E0A0FAB7FCF050CD5DD6F06925D7AE12C9F0ABB67D830240DA2627B56F8589CE",
+      "pixels_sha256": "004F588CB88D9608E6FE3E8503022FC55AD0802F1DC9A5D60619C46BF7A9A3E7",
+      "image_width": 32,
+      "image_height": 32,
+      "width_tiles": 1,
+      "height_tiles": 1,
+      "frames": 1,
+      "frame_duration_ms": null,
+      "animation_async": false,
+      "sprite_ids": [
+        330425
+      ],
+      "sprite_hash": "BACCDEE45A1A9F150CB980D085B8381F",
+      "layout_preserved": false,
+      "layers": 1,
+      "pattern_x": 1,
+      "pattern_y": 1,
+      "pattern_z": 1
+    }
+  ],
+  "otb_nodes_updated": {
+    "26086": 1
+  },
+  "transaction_committed": true,
+  "output_hashes": {
+    "dat": "F3AC17977A0B771DFAA91152D764FED63A40230DAF56A406C5B11A636017DCBD",
+    "spr": "4EFE889F3B8575CC8B67CE09EC4724375B3CD8635586B53E2C5FA6804BFD83F4",
+    "otb": "EDBE59B4FA9234308AA15A91EB777116321B1AB9F3A3AB83AC3DBFC5D42E42F5"
+  },
+  "dat_non_targets_preserved": true,
+  "old_sprite_payload_preserved": true,
+  "new_sprite_pixels_verified": true,
+  "layout_preserved_client_ids": [],
+  "untouched_files_preserved": true,
+  "map_byte_equal": true,
+  "final_validation_passed": true,
+  "warnings": [],
+  "errors": [],
+  "passed": true
+}

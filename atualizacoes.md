@@ -424,3 +424,7 @@ Dry-run do item novo, pixels, propriedades, 32.673 registros DAT não alvo, mapa
 Incorporado à cópia operacional o mapa oficial de Server-Data-Nwo/data/world/mapanovo.otbm, SHA-256 7964590841823c00cb6eaaea236b5e97efc05dbd18a4947873a00fb9946283c5, com ZIP do servidor conferido. O arquivo oficial foi preservado; a adoção usou o publicador do NWO-ASSETS, com versão imutável testada 20261119-062335-927014, auditoria e validação profunda. DAT, SPR, OTB e XML de itens permaneceram iguais aos lotes de sprites já validados.
 
 Relatório reports/adopt-current-server-map-20261119.json. Sincronização dos clients e editores registrada em reports/sync-runtime-items-map-commit-20261119.json.
+
+## 20/11/2026 - Amostra Contaminada das missões
+
+Substituída somente a aparência do SID 26971/CID 26086 pela referência SID 27045/CID 26160 confirmada pelo usuário. PNG RGBA 32x32 estático; Sprite ID 330425 acrescentado, propriedades e registros não alvo preservados. Importação, conferência de pixels, validação profunda e sincronização runtime aprovadas. Fontes/manifesto arquivados em importados/mission-visuals-20261120. Mapa operacional alinhado ao oficial data/world do servidor pelo fluxo com versão e auditoria, sem alterar o oficial. Relatórios import-mission-visuals-20261120.json e sync-runtime-mission-visuals-20261120.json (37 destinos, três RARs testados).
